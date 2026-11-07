@@ -12,7 +12,8 @@ context, and the apps in `apps/<name>`. The decisions are in [`.ai-notes`](.ai-n
 | JDK | 17 |
 | Gradle | none — use the bundled `./gradlew` |
 | Superizer | its sources at `../superizer` (`git clone git@github.com:adminization/superizer.git ../superizer`); `SUPERIZER_FROM_MAVEN=1` builds against mavenLocal instead |
-| Speech on a desktop | `say` on macOS; `espeak-ng`, `espeak` or `spd-say` on Linux (`sudo dnf install espeak-ng`). Without one the card says so. iOS has its own. |
+| Speech on a desktop | `say` on macOS; `espeak-ng`, `espeak` or `spd-say` on Linux (`sudo dnf install espeak-ng`). Without one the card says so. iOS and Android have their own. |
+| Android SDK | compileSdk 36, minSdk 24, in `ANDROID_HOME` or `local.properties`. Superizer's modules ask for it too. |
 
 ## Running it
 
@@ -105,6 +106,17 @@ Xcode; only the klibs compile without it (`./gradlew :composeApp:compileKotlinIo
 `.github/workflows/ios.yml` builds on `main` and by hand, and leaves an **unsigned**
 `English-<run>.ipa` in the run's artifacts. A phone installs it only after it is signed.
 
+## Android
+
+Only `apps/learn` has an Android target, for the hosts that have Android (Unitool); this repository's host
+has none, so there is no APK here. `./gradlew :apps:learn:assembleRelease` builds the module as an AAR.
+
+Speech there is the phone's `TextToSpeech`. The module brings two lines into the host's manifest
+(`apps/learn/src/androidMain/AndroidManifest.xml`): the query for speech engines that Android 11+ asks for,
+and a provider that hands the module the application's Context, since an app does not see the host's.
+
+There is no web target: speech has no web side, so a host with one leaves this app out of its web build.
+
 ## How it is put together
 
 ```
@@ -120,7 +132,7 @@ apps/learn/src/
     VerbList.kt                  the theme and the list of chosen verbs
     SeenList.kt                  the page of the seen verbs: going back to one, swiping the mark off
     Feed.kt, Verbs.kt            pure logic: which pages, a verb's colour, reading a verb's JSON
-    Speech.kt                    speech; Speech.desktop.kt and Speech.ios.kt do the talking
+    Speech.kt                    speech; Speech.desktop.kt, Speech.ios.kt and Speech.android.kt do the talking
   commonMain/composeResources/files/verbs/   the copy of the base: themes.json, <theme>/index.json, <theme>/<verb>.json
 iosApp/                          the Xcode project
 ```

@@ -1,14 +1,19 @@
 import groovy.json.JsonGenerator
 import groovy.json.JsonOutput
 import groovy.json.JsonSlurper
+import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
 /**
  * Learning English: a full-screen feed of cards with sentences for a few verbs at a time. It sees only
  * its `AppRuntime` — no `superizer:host`, no host module, no other app. `commonMain` uses no JVM API,
  * so every target of the host gets the same code; speech is the one platform part (`Speech`).
+ *
+ * Android is here for the hosts that have it (Unitool); this repository's own host has none. There is no
+ * wasmJs: speech has no web side, so a host with a web target leaves this app out there.
  */
 plugins {
     alias(libs.plugins.kotlinMultiplatform)
+    alias(libs.plugins.androidLibrary)
     alias(libs.plugins.composeMultiplatform)
     alias(libs.plugins.composeCompiler)
     alias(libs.plugins.kotlinxSerialization)
@@ -17,6 +22,7 @@ plugins {
 kotlin {
     explicitApi()
 
+    androidTarget { compilerOptions { jvmTarget.set(JvmTarget.JVM_11) } }
     jvm("desktop")
     iosArm64()
     iosSimulatorArm64()
@@ -40,6 +46,16 @@ kotlin {
             implementation(libs.kotlinx.coroutines.test)
             implementation(kotlin("test"))
         }
+    }
+}
+
+android {
+    namespace = "cx.m42.english.learn"
+    compileSdk = libs.versions.androidCompileSdk.get().toInt()
+    defaultConfig { minSdk = libs.versions.androidMinSdk.get().toInt() }
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
     }
 }
 

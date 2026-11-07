@@ -9,6 +9,9 @@ internal interface Speech {
     suspend fun speak(text: String)
 
     fun stop()
+
+    /** Lets go of what speaking holds, when the app closes; the next [speak] takes it again. */
+    fun release() = stop()
 }
 
 internal expect fun platformSpeech(): Speech

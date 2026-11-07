@@ -228,7 +228,7 @@ internal class LearnInstance(
 
     override fun onClose() = speech.stop()
 
-    override fun dispose() = speech.stop()
+    override fun dispose() = speech.release()
 
     @Composable
     override fun Content() {

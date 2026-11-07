@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  The app's own manifest, merged into the manifest of every Android host that includes the module.
+  Both entries are for speech (Speech.android.kt).
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+      Android 11+ hides other apps' services from an app that targets it, and a speech engine is one:
+      without this TextToSpeech finds no engine at all and the card says it cannot speak.
+    -->
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.TTS_SERVICE" />
+        </intent>
+    </queries>
+
+    <application>
+        <!--
+          Hands the application's Context to the module as the process starts. The system makes it by
+          name, so the class must not be renamed. The authority is the host's own, so two hosts on one
+          phone never collide.
+        -->
+        <provider
+            android:name="cx.m42.english.learn.LearnContextProvider"
+            android:authorities="${applicationId}.learn.context"
+            android:exported="false" />
+    </application>
+
+</manifest>

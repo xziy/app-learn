@@ -67,13 +67,36 @@ Each verb goes through all its tenses, and everything of one verb has that verb'
 - **The word at the bottom** of a phrase has its transcription, and the letter **i** next to it opens what
   is on the verb's card again, with what the transcription signs mean.
 
-The base is `../verbs/<theme>/<verb>/<verb>.json`, written by the dragunkin-verbs skill, with the themes in
-`../verbs/themes.json`. The name of a theme is what stands before the colon of its description there. The app
-carries a copy, so after new verbs or themes appear there:
+## Where the verbs come from
+
+The app reads only its own copy of the base. It never reads `../verbs` while it runs.
+
+| | |
+|---|---|
+| The copy | `apps/learn/src/commonMain/composeResources/files/verbs/` |
+| `themes.json` | the themes that have verbs: name → description |
+| `<theme>/index.json` | the theme's verbs in the order they are learned, because resources cannot be listed at run time |
+| `<theme>/<verb>.json` | one verb, as the skill wrote it |
+
+`ResourceVerbSource` in `Verbs.kt` reads these files with `Res.readBytes("files/verbs/…")`. They are packed into the
+build, so a built app, a distribution included, has only the words it was built with.
+
+The source is `../verbs`, that is `/prj/english/verbs`. It holds `<theme>/<verb>/<verb>.json`, written by the
+dragunkin-verbs skill, the themes in `themes.json` and each theme's journal in `<theme>/progress.json`. The name of a
+theme is what stands before the colon of its description there.
+
+The copy is made by hand: `syncVerbs` is not part of the build, and `run` or `createDistributable` do not call it.
+After new verbs or themes appear in `../verbs`:
 
 ```bash
-./gradlew :apps:learn:syncVerbs
+./gradlew :apps:learn:syncVerbs     # refresh the copy
+./gradlew :composeApp:run           # or createDistributable: only a new build has the new words
 ```
+
+`syncVerbs` (in `apps/learn/build.gradle.kts`) deletes the copy and makes it again, so a verb removed from `../verbs`
+disappears from the app too. It puts a theme's verbs in the order of the theme's journal; verbs that are not in the
+journal come after them, by name. A theme without verbs is left out, and so is `nouns.json`. The copy is kept in the
+repository so that CI, which has no `../verbs`, still builds with the words.
 
 ## iPhone
 

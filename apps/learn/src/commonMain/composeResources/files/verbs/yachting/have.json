@@ -1,0 +1,371 @@
+{
+  "spec": 3,
+  "verb": "have",
+  "forms": {
+    "base": [
+      {
+        "word": "have",
+        "transcription": "[хæв]"
+      }
+    ],
+    "past": [
+      {
+        "word": "had",
+        "transcription": "[хæд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "had",
+        "transcription": "[хæд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "having",
+        "transcription": "[х**æ**виŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "has",
+        "transcription": "[хæз]"
+      }
+    ]
+  },
+  "meaning": "иметь, обладать",
+  "notes": "неправильный глагол; здесь обозначает владение; это значение обычно не употребляется в длительных формах и пассиве",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "had",
+        "examples": [
+          {
+            "ours": "Вчера у нас была карта.",
+            "thought": "Вчера мы имели [какую-то] карту.",
+            "english": "Yesterday we had a chart.",
+            "transcription": "[й**э**стэдэй wи: хæд э ча:т]"
+          },
+          {
+            "ours": "У яхты не было двигателя.",
+            "thought": "[Известная] яхта [сделала] не иметь [какой-то] двигатель.",
+            "english": "The yacht did not have an engine.",
+            "transcription": "[ðэ йот дид нот хæв эн **э**нджин]"
+          },
+          {
+            "ours": "У тебя был спасательный жилет?",
+            "thought": "[Сделал] ты иметь [какой-то] спасательный жилет?",
+            "english": "Did you have a life jacket?",
+            "transcription": "[дид ю: хæв э лайф дж**æ**кит]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have, has",
+        "examples": [
+          {
+            "ours": "У капитана есть компас.",
+            "thought": "[Известный] шкипер имеет [какой-то] компас.",
+            "english": "The skipper has a compass.",
+            "transcription": "[ðэ ск**и**пэ хæз э к**а**мпэс]"
+          },
+          {
+            "ours": "У нас нет лодки.",
+            "thought": "Мы [делаем] не иметь [какую-то] лодку.",
+            "english": "We do not have a boat.",
+            "transcription": "[wи: ду: нот хæв э боут]"
+          },
+          {
+            "ours": "У тебя есть запасной парус?",
+            "thought": "[Делаешь] ты иметь [какой-то] запасной парус?",
+            "english": "Do you have a spare sail?",
+            "transcription": "[ду: ю: хæв э спээ сэйл]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have",
+        "examples": [
+          {
+            "ours": "Завтра у нас будет прогноз.",
+            "thought": "Завтра мы будем иметь [какой-то] прогноз.",
+            "english": "Tomorrow we will have a forecast.",
+            "transcription": "[тэм**о**роу wи: wил хæв э ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Завтра у неё не будет карты.",
+            "thought": "Она будет не иметь [какую-то] карту завтра.",
+            "english": "She will not have a chart tomorrow.",
+            "transcription": "[ши: wил нот хæв э ча:т тэм**о**роу]"
+          },
+          {
+            "ours": "У вас будет радиосвязь?",
+            "thought": "Будете вы иметь [какое-то] радио?",
+            "english": "Will you have a radio?",
+            "transcription": "[wил ю: хæв э р**э**йдиоу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had had",
+        "examples": [
+          {
+            "ours": "К тому времени у нас уже был компас год.",
+            "thought": "К тогда мы имели уже имеемым [какой-то] компас целый [какой-то] год.",
+            "english": "By then we had already had a compass for a year.",
+            "transcription": "[бай ðэн wи: хæд о:лр**э**ди хæд э к**а**мпэс фо: э йиэ]"
+          },
+          {
+            "ours": "К тому моменту яхта была у неё два года?",
+            "thought": "Имела она имеемой [известную] яхту целых два года к тогда?",
+            "english": "Had she had the yacht for two years by then?",
+            "transcription": "[хæд ши: хæд ðэ йот фо: ту: йиэз бай ðэн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has had",
+        "examples": [
+          {
+            "ours": "Эта яхта у нас уже три года.",
+            "thought": "Мы имеем имеемой эту яхту целых три года.",
+            "english": "We have had this yacht for three years.",
+            "transcription": "[wи: хæв хæд ðис йот фо: θри: йиэз]"
+          },
+          {
+            "ours": "У тебя давно этот компас?",
+            "thought": "Имеешь ты имеемым этот компас целое долго?",
+            "english": "Have you had this compass for long?",
+            "transcription": "[хæв ю: хæд ðис к**а**мпэс фо: лоŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have had",
+        "examples": [
+          {
+            "ours": "К июню эта лодка будет у нас год.",
+            "thought": "К июню мы будем иметь имеемой эту лодку целый [какой-то] год.",
+            "english": "By June we will have had this boat for a year.",
+            "transcription": "[бай джу:н wи: wил хæв хæд ðис боут фо: э йиэ]"
+          },
+          {
+            "ours": "К июню яхта будет у неё два года?",
+            "thought": "Будет она иметь имеемой [известную] яхту целых два года к июню?",
+            "english": "Will she have had the yacht for two years by June?",
+            "transcription": "[wил ши: хæв хæд ðэ йот фо: ту: йиэз бай джу:н]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Have в значении владения обычно не употребляется в длительных временах. Вместо этого скажут: The skipper has a compass."
+    },
+    "perfect_continuous": {
+      "not_possible": "Для обозначения длительного владения используют perfect: We have had this yacht for three years."
+    }
+  },
+  "passive": {
+    "not_possible": "В значении владения have обычно не употребляется в пассиве. Вместо этого скажут: The skipper has a compass."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что у нас будет карта.",
+        "thought": "Я знал, мы будем иметь [какую-то] карту.",
+        "english": "I knew we would have a chart.",
+        "transcription": "[ай нью: wи: wуд хæв э ча:т]"
+      },
+      {
+        "ours": "Мы думали, что у яхты не будет двигателя.",
+        "thought": "Мы думали, [известная] яхта будет не иметь [какой-то] двигатель.",
+        "english": "We thought the yacht would not have an engine.",
+        "transcription": "[wи: θо:т ðэ йот wуд нот хæв эн **э**нджин]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "chart",
+      "meaning": "карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "life jacket",
+      "meaning": "спасательный жилет",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "life jacket"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радиостанция",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "June"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "spec": 3,
+  "verb": "hear",
+  "forms": {
+    "base": [
+      {
+        "word": "hear",
+        "transcription": "[хиэ]"
+      }
+    ],
+    "past": [
+      {
+        "word": "heard",
+        "transcription": "[хœ:д]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "heard",
+        "transcription": "[хœ:д]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "hearing",
+        "transcription": "[х**и**эриŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "hears",
+        "transcription": "[хиэз]"
+      }
+    ]
+  },
+  "meaning": "слышать, услышать",
+  "notes": "неправильный переходный глагол; обычно описывает восприятие, а в продолженных формах — повторяющиеся звуки; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "heard",
+        "examples": [
+          {
+            "ours": "Вчера я услышал сигнал.",
+            "thought": "Вчера я услышал [какой-то] сигнал.",
+            "english": "Yesterday I heard a signal.",
+            "transcription": "[й**э**стэдэй ай хœ:д э с**и**гнл]"
+          },
+          {
+            "ours": "Ты слышал шкипера?",
+            "thought": "[Сделал] ты слышать [известного] шкипера?",
+            "english": "Did you hear the skipper?",
+            "transcription": "[дид ю: хиэ ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Она не услышала гудок.",
+            "thought": "Она [сделала] не слышать [известный] гудок.",
+            "english": "She did not hear the horn.",
+            "transcription": "[ши: дид нот хиэ ðэ хо:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "hear, hears",
+        "examples": [
+          {
+            "ours": "Он часто слышит волны из каюты.",
+            "thought": "Он часто слышит волны из [известной] каюты.",
+            "english": "He often hears waves from the cabin.",
+            "transcription": "[хи: **о**фэн хиэз wэйвз фром ðэ к**æ**бин]"
+          },
+          {
+            "ours": "Ты слышишь радио на палубе?",
+            "thought": "[Делаешь] ты слышать [известное] радио на палубе?",
+            "english": "Do you hear the radio on deck?",
+            "transcription": "[ду: ю: хиэ ðэ р**э**йдиоу он дэк]"
+          },
+          {
+            "ours": "Мы не слышим мотор.",
+            "thought": "Мы [делаем] не слышать [известный] мотор.",
+            "english": "We do not hear the engine.",
+            "transcription": "[wи: ду: нот хиэ ðи **э**нджин]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will hear",
+        "examples": [
+          {
+            "ours": "Скоро вы услышите стартовый сигнал.",
+            "thought": "Скоро вы будете слышать [известный] стартовый сигнал.",
+            "english": "Soon you will hear the starting signal.",
+            "transcription": "[су:н ю: wил хиэ ðэ ст**а**:тиŋ с**и**гнл]"
+          },
+          {
+            "ours": "Мы услышим гудок из каюты?",
+            "thought": "Будем мы слышать [известный] гудок из [известной] каюты?",
+            "english": "Will we hear the horn from the cabin?",
+            "transcription": "[wил wи: хиэ ðэ хо:н фром ðэ к**æ**бин]"
+          },
+          {
+            "ours": "Он не услышит вызов без радио.",
+            "thought": "Он будет не слышать [известный] вызов без [какого-то] радио.",
+            "english": "He will not hear the call without a radio.",
+            "transcription": "[хи: wил нот хиэ ðэ ко:л wиð**а**ут э р**э**йдиоу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were hearing",
+        "examples": [
+          {
+            "ours": "Вчера вечером мы то и дело слышали стук под палубой.",
+            "thought": "Вчера вечером мы были слышащими стуки под палубой.",
+            "english": "Yesterday evening we were hearing knocks below deck.",
+            "transcription": "[й**э**стэдэй **и**:вниŋ wи: wœ: х**и**эриŋ нокс бил**о**у дэк]"
+          },
+          {
+            "ours": "Ты тоже слышал эти щелчки во время гонки?",
+            "thought": "Был ты слышащим те щелчки во время [известной] гонки тоже?",
+            "english": "Were you hearing those clicks during the race too?",
+            "transcription": "[wœ: ю: х**и**эриŋ ðоуз кликс дь**ю**эриŋ ðэ рэйс ту:]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are hearing",
+        "examples": [
+          {
+            "ours": "В последнее время мы слышим странные шумы на борту.",
+            "thought": "Мы являемся слышащими странные шумы на борту в последнее время.",
+            "english": "We are hearing strange noises aboard lately.",
+            "transcription": "[wи: а: х**и**эриŋ стрэйндж н**о**йзиз эб**о**:д л**э**йтли]"
+          },
+          {
+            "ours": "Ты тоже слышишь эти щелчки?",
+            "thought": "Являешься ты слышащим те щелчки тоже?",
+            "english": "Are you hearing those clicks too?",
+            "transcription": "[а: ю: х**и**эриŋ ðоуз кликс ту:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be hearing",
+        "not_possible": "Для отдельного восприятия звука естественнее обычное будущее: You will hear the horn at noon. Продолженная форма возможна для повторяющихся звуков, но требует особого контекста."
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had heard",
+        "examples": [
+          {
+            "ours": "К полудню я уже слышал прогноз.",
+            "thought": "К полудню я имел уже услышанным [известный] прогноз.",
+            "english": "By noon I had already heard the forecast.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди хœ:д ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Она слышала предупреждение до выхода?",
+            "thought": "Имела она услышанным [известное] предупреждение перед выходом?",
+            "english": "Had she heard the warning before departure?",
+            "transcription": "[хæд ши: хœ:д ðэ w**о**:ниŋ биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has heard",
+        "examples": [
+          {
+            "ours": "Я уже слышал прогноз.",
+            "thought": "Я имею уже услышанным [известный] прогноз.",
+            "english": "I have already heard the forecast.",
+            "transcription": "[ай хæв о:лр**э**ди хœ:д ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты уже слышал сигнал к старту?",
+            "thought": "Имеешь ты услышанным [известный] стартовый сигнал уже?",
+            "english": "Have you heard the starting signal yet?",
+            "transcription": "[хæв ю: хœ:д ðэ ст**а**:тиŋ с**и**гнл йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have heard",
+        "examples": [
+          {
+            "ours": "К полудню все услышат предупреждение.",
+            "thought": "К полудню все будут иметь услышанным [известное] предупреждение.",
+            "english": "By noon everyone will have heard the warning.",
+            "transcription": "[бай ну:н **э**вриwан wил хæв хœ:д ðэ w**о**:ниŋ]"
+          },
+          {
+            "ours": "К пяти ты услышишь прогноз?",
+            "thought": "Будешь ты иметь услышанным [известный] прогноз к пяти?",
+            "english": "Will you have heard the forecast by five?",
+            "transcription": "[wил ю: хæв хœ:д ðэ ф**о**:ка:ст бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been hearing",
+        "examples": [
+          {
+            "ours": "Мы час слышали стук под палубой, прежде чем нашли причину.",
+            "thought": "Мы имели быть слышащими стуки под палубой целый [какой-то] час перед мы нашли [известную] причину.",
+            "english": "We had been hearing knocks below deck for an hour before we found the cause.",
+            "transcription": "[wи: хæд би:н х**и**эриŋ нокс бил**о**у дэк фо: эн **а**уэ биф**о**: wи: фаунд ðэ ко:з]"
+          },
+          {
+            "ours": "Ты слышал щелчки два часа до ремонта?",
+            "thought": "Имел ты быть слышащим щелчки целых два часа перед [известным] ремонтом?",
+            "english": "Had you been hearing clicks for two hours before the repairs?",
+            "transcription": "[хæд ю: би:н х**и**эриŋ кликс фо: ту: **а**уэз биф**о**: ðэ рип**э**эз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been hearing",
+        "examples": [
+          {
+            "ours": "Мы уже час слышим стук под палубой.",
+            "thought": "Мы имеем быть слышащими стуки под палубой целый [какой-то] час.",
+            "english": "We have been hearing knocks below deck for an hour.",
+            "transcription": "[wи: хæв би:н х**и**эриŋ нокс бил**о**у дэк фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты уже два часа слышишь эти щелчки?",
+            "thought": "Имеешь ты быть слышащим те щелчки целых два часа?",
+            "english": "Have you been hearing those clicks for two hours?",
+            "transcription": "[хæв ю: би:н х**и**эриŋ ðоуз кликс фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been hearing",
+        "not_possible": "Продолженное будущее с hear для повторяющихся звуков возможно, но тяжеловесно. Естественнее: By noon we will have heard the knocks for an hour."
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were heard",
+        "examples": [
+          {
+            "ours": "Сигнал услышали на берегу.",
+            "thought": "[Известный] сигнал был услышан на берегу.",
+            "english": "The signal was heard on shore.",
+            "transcription": "[ðэ с**и**гнл wоз хœ:д он шо:]"
+          },
+          {
+            "ours": "Гудок слышали на соседней лодке?",
+            "thought": "Был [известный] гудок услышан на [известной] соседней лодке?",
+            "english": "Was the horn heard on the nearby boat?",
+            "transcription": "[wоз ðэ хо:н хœ:д он ðэ н**и**эбай боут]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are heard",
+        "examples": [
+          {
+            "ours": "Волны слышны в каюте.",
+            "thought": "[Известные] волны есть услышаны в [известной] каюте.",
+            "english": "The waves are heard in the cabin.",
+            "transcription": "[ðэ wэйвз а: хœ:д ин ðэ к**æ**бин]"
+          },
+          {
+            "ours": "Радиовызовы слышны на палубе?",
+            "thought": "Есть радиовызовы услышаны на палубе?",
+            "english": "Are radio calls heard on deck?",
+            "transcription": "[а: р**э**йдиоу ко:лз хœ:д он дэк]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be heard",
+        "examples": [
+          {
+            "ours": "Сигнал услышат на берегу.",
+            "thought": "[Известный] сигнал будет быть услышан на берегу.",
+            "english": "The signal will be heard on shore.",
+            "transcription": "[ðэ с**и**гнл wил би: хœ:д он шо:]"
+          },
+          {
+            "ours": "Гудок будет слышен в марине?",
+            "thought": "Будет [известный] гудок быть услышан в [известной] марине?",
+            "english": "Will the horn be heard in the marina?",
+            "transcription": "[wил ðэ хо:н би: хœ:д ин ðэ мэр**и**:нэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Для восприятия звуков длительный пассив с being heard обычно не нужен. Вместо него: Knocks can be heard below deck или We are hearing knocks."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been heard",
+        "examples": [
+          {
+            "ours": "К полудню сигнал уже услышали на берегу.",
+            "thought": "К полудню [известный] сигнал имел уже быть услышан на берегу.",
+            "english": "By noon the signal had already been heard on shore.",
+            "transcription": "[бай ну:н ðэ с**и**гнл хæд о:лр**э**ди би:н хœ:д он шо:]"
+          },
+          {
+            "ours": "Предупреждение услышали до выхода?",
+            "thought": "Имело [известное] предупреждение быть услышано перед выходом?",
+            "english": "Had the warning been heard before departure?",
+            "transcription": "[хæд ðэ w**о**:ниŋ би:н хœ:д биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been heard",
+        "examples": [
+          {
+            "ours": "Сигнал уже услышали на берегу.",
+            "thought": "[Известный] сигнал имеет уже быть услышан на берегу.",
+            "english": "The signal has already been heard on shore.",
+            "transcription": "[ðэ с**и**гнл хæз о:лр**э**ди би:н хœ:д он шо:]"
+          },
+          {
+            "ours": "Предупреждение уже услышали?",
+            "thought": "Имеет [известное] предупреждение быть услышано уже?",
+            "english": "Has the warning been heard yet?",
+            "transcription": "[хæз ðэ w**о**:ниŋ би:н хœ:д йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been heard",
+        "examples": [
+          {
+            "ours": "К полудню сигнал уже услышат на берегу.",
+            "thought": "К полудню [известный] сигнал будет иметь быть услышан на берегу.",
+            "english": "By noon the signal will have been heard on shore.",
+            "transcription": "[бай ну:н ðэ с**и**гнл wил хæв би:н хœ:д он шо:]"
+          },
+          {
+            "ours": "Предупреждение услышат к пяти?",
+            "thought": "Будет [известное] предупреждение иметь быть услышано к пяти?",
+            "english": "Will the warning have been heard by five?",
+            "transcription": "[wил ðэ w**о**:ниŋ хæв би:н хœ:д бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: We have been hearing knocks below deck."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что мы услышим сигнал.",
+        "thought": "Я знал, мы будем слышать [известный] сигнал.",
+        "english": "I knew we would hear the signal.",
+        "transcription": "[ай нью: wи: wуд хиэ ðэ с**и**гнл]"
+      },
+      {
+        "ours": "Она думала, что он не услышит гудок.",
+        "thought": "Она думала, он будет не слышать [известный] гудок.",
+        "english": "She thought he would not hear the horn.",
+        "transcription": "[ши: θо:т хи: wуд нот хиэ ðэ хо:н]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "signal",
+      "meaning": "сигнал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "signal"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "horn",
+      "meaning": "гудок",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "horn"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "horn"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "horn"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "horn"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "horn"
+        }
+      ]
+    },
+    {
+      "word": "wave",
+      "meaning": "волна",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "waves"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "waves"
+        }
+      ]
+    },
+    {
+      "word": "cabin",
+      "meaning": "каюта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "cabin"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "cabin"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "cabin"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "call",
+      "meaning": "вызов",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "call"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "calls"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "knock",
+      "meaning": "стук",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "knocks"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "knocks"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "knocks"
+        }
+      ]
+    },
+    {
+      "word": "click",
+      "meaning": "щелчок",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "clicks"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "clicks"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "clicks"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "clicks"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "noise",
+      "meaning": "шум",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "noises"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "warning",
+      "meaning": "предупреждение",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "warning"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "warning"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "warning"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "warning"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "warning"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "cause",
+      "meaning": "причина",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "cause"
+        }
+      ]
+    },
+    {
+      "word": "repairs",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "repairs"
+        }
+      ]
+    },
+    {
+      "word": "shore",
+      "meaning": "берег",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "shore"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "marina"
+        }
+      ]
+    }
+  ]
+}

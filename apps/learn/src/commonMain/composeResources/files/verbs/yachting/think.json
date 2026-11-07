@@ -1,0 +1,549 @@
+{
+  "spec": 3,
+  "verb": "think",
+  "forms": {
+    "base": [
+      {
+        "word": "think",
+        "transcription": "[θинк]"
+      }
+    ],
+    "past": [
+      {
+        "word": "thought",
+        "transcription": "[θо:т]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "thought",
+        "transcription": "[θо:т]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "thinking",
+        "transcription": "[θ**и**нкиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "thinks",
+        "transcription": "[θинкс]"
+      }
+    ]
+  },
+  "meaning": "думать, считать, обдумывать",
+  "notes": "неправильный глагол; в значении мнения обычно не употребляется в длительной форме, в значении размышления употребляется",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "thought",
+        "examples": [
+          {
+            "ours": "Вчера я думал, что ветер ослабеет.",
+            "thought": "Вчера я думал, [известный] ветер будет ослабевать.",
+            "english": "Yesterday I thought the wind would drop.",
+            "transcription": "[й**э**стэдэй ай θо:т ðэ wинд wуд дроп]"
+          },
+          {
+            "ours": "Мы не думали, что яхта готова.",
+            "thought": "Мы [сделали] не думать, [известная] яхта была готова.",
+            "english": "We did not think the yacht was ready.",
+            "transcription": "[wи: дид нот θинк ðэ йот wоз р**э**ди]"
+          },
+          {
+            "ours": "Ты думал, что капитан прав?",
+            "thought": "[Сделал] ты думать, [известный] шкипер был прав?",
+            "english": "Did you think the skipper was right?",
+            "transcription": "[дид ю: θинк ðэ ск**и**пэ wоз райт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "think, thinks",
+        "examples": [
+          {
+            "ours": "Я думаю, что парус готов.",
+            "thought": "Я думаю, [известный] парус есть готов.",
+            "english": "I think the sail is ready.",
+            "transcription": "[ай θинк ðэ сэйл из р**э**ди]"
+          },
+          {
+            "ours": "Она не думает, что лодка готова.",
+            "thought": "Она [делает] не думать, [известная] лодка есть готова.",
+            "english": "She does not think the boat is ready.",
+            "transcription": "[ши: даз нот θинк ðэ боут из р**э**ди]"
+          },
+          {
+            "ours": "Ты думаешь, что ветер усилится?",
+            "thought": "[Делаешь] ты думать, [известный] ветер будет усиливаться?",
+            "english": "Do you think the wind will rise?",
+            "transcription": "[ду: ю: θинк ðэ wинд wил райз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will think",
+        "examples": [
+          {
+            "ours": "Капитан сочтёт план безопасным.",
+            "thought": "[Известный] шкипер будет думать, [известный] план есть безопасен.",
+            "english": "The skipper will think the plan is safe.",
+            "transcription": "[ðэ ск**и**пэ wил θинк ðэ плæн из сэйф]"
+          },
+          {
+            "ours": "Она не сочтёт гавань безопасной.",
+            "thought": "Она будет не думать, [известная] гавань есть безопасна.",
+            "english": "She will not think the harbor is safe.",
+            "transcription": "[ши: wил нот θинк ðэ х**а**:бэ из сэйф]"
+          },
+          {
+            "ours": "Ты сочтёшь маршрут безопасным?",
+            "thought": "Будешь ты думать, [известный] маршрут есть безопасен?",
+            "english": "Will you think the route is safe?",
+            "transcription": "[wил ю: θинк ðэ ру:т из сэйф]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were thinking",
+        "examples": [
+          {
+            "ours": "Вчера я весь день думал о погоде.",
+            "thought": "Вчера я был думающим о [известной] погоде весь день.",
+            "english": "Yesterday I was thinking about the weather all day.",
+            "transcription": "[й**э**стэдэй ай wоз θ**и**нкиŋ эб**а**ут ðэ w**э**ðэ о:л дэй]"
+          },
+          {
+            "ours": "Ты думал о маршруте, когда я позвонил?",
+            "thought": "Был ты думающим о [известном] маршруте, когда я позвонил?",
+            "english": "Were you thinking about the route when I called?",
+            "transcription": "[wœ: ю: θ**и**нкиŋ эб**а**ут ðэ ру:т wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are thinking",
+        "examples": [
+          {
+            "ours": "Сейчас я думаю о маршруте.",
+            "thought": "Я являюсь думающим о [известном] маршруте сейчас.",
+            "english": "I am thinking about the route now.",
+            "transcription": "[ай æм θ**и**нкиŋ эб**а**ут ðэ ру:т нау]"
+          },
+          {
+            "ours": "Она сейчас не думает о гонке.",
+            "thought": "Она является не думающей о [известной] гонке сейчас.",
+            "english": "She is not thinking about the race now.",
+            "transcription": "[ши: из нот θ**и**нкиŋ эб**а**ут ðэ рэйс нау]"
+          },
+          {
+            "ours": "Ты сейчас думаешь о погоде?",
+            "thought": "Являешься ты думающим о [известной] погоде сейчас?",
+            "english": "Are you thinking about the weather now?",
+            "transcription": "[а: ю: θ**и**нкиŋ эб**а**ут ðэ w**э**ðэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be thinking",
+        "examples": [
+          {
+            "ours": "Завтра весь день я буду думать о гонке.",
+            "thought": "Завтра я буду быть думающим о [известной] гонке весь день.",
+            "english": "Tomorrow I will be thinking about the race all day.",
+            "transcription": "[тэм**о**роу ай wил би: θ**и**нкиŋ эб**а**ут ðэ рэйс о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь думать о маршруте завтра?",
+            "thought": "Будешь ты быть думающим о [известном] маршруте завтра?",
+            "english": "Will you be thinking about the route tomorrow?",
+            "transcription": "[wил ю: би: θ**и**нкиŋ эб**а**ут ðэ ру:т тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had thought",
+        "examples": [
+          {
+            "ours": "До старта я думал, что план безопасен.",
+            "thought": "Перед [известным] стартом я имел подуманным, [известный] план был безопасен.",
+            "english": "Before the start I had thought the plan was safe.",
+            "transcription": "[биф**о**: ðэ ста:т ай хæд θо:т ðэ плæн wоз сэйф]"
+          },
+          {
+            "ours": "До гонки ты думал, что лодка готова?",
+            "thought": "Имел ты подуманным, [известная] лодка была готова перед [известной] гонкой?",
+            "english": "Had you thought the boat was ready before the race?",
+            "transcription": "[хæд ю: θо:т ðэ боут wоз р**э**ди биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has thought",
+        "examples": [
+          {
+            "ours": "Я уже подумал о погоде.",
+            "thought": "Я имею уже подуманным о [известной] погоде.",
+            "english": "I have already thought about the weather.",
+            "transcription": "[ай хæв о:лр**э**ди θо:т эб**а**ут ðэ w**э**ðэ]"
+          },
+          {
+            "ours": "Ты уже подумал о маршруте?",
+            "thought": "Имеешь ты подуманным о [известном] маршруте уже?",
+            "english": "Have you thought about the route yet?",
+            "transcription": "[хæв ю: θо:т эб**а**ут ðэ ру:т йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have thought",
+        "examples": [
+          {
+            "ours": "К вечеру мы обдумаем маршрут.",
+            "thought": "К вечеру мы будем иметь подуманным о [известном] маршруте.",
+            "english": "By evening we will have thought about the route.",
+            "transcription": "[бай **и**:вниŋ wи: wил хæв θо:т эб**а**ут ðэ ру:т]"
+          },
+          {
+            "ours": "К завтрашнему дню ты обдумаешь план?",
+            "thought": "Будешь ты иметь подуманным о [известном] плане к завтра?",
+            "english": "Will you have thought about the plan by tomorrow?",
+            "transcription": "[wил ю: хæв θо:т эб**а**ут ðэ плæн бай тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been thinking",
+        "examples": [
+          {
+            "ours": "Я два часа думал о маршруте, когда ты позвонил.",
+            "thought": "Я имел быть думающим о [известном] маршруте целых два часа, когда ты позвонил.",
+            "english": "I had been thinking about the route for two hours when you called.",
+            "transcription": "[ай хæд би:н θ**и**нкиŋ эб**а**ут ðэ ру:т фо: ту: **а**уэз wэн ю: ко:лд]"
+          },
+          {
+            "ours": "Ты долго думал о погоде, когда капитан пришёл?",
+            "thought": "Имел ты быть думающим о [известной] погоде долго, когда [известный] шкипер прибыл?",
+            "english": "Had you been thinking about the weather long when the skipper arrived?",
+            "transcription": "[хæд ю: би:н θ**и**нкиŋ эб**а**ут ðэ w**э**ðэ лоŋ wэн ðэ ск**и**пэ эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been thinking",
+        "examples": [
+          {
+            "ours": "Я уже два часа думаю о маршруте.",
+            "thought": "Я имею быть думающим о [известном] маршруте целых два часа.",
+            "english": "I have been thinking about the route for two hours.",
+            "transcription": "[ай хæв би:н θ**и**нкиŋ эб**а**ут ðэ ру:т фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже час думаешь о гонке?",
+            "thought": "Имеешь ты быть думающим о [известной] гонке целый [какой-то] час?",
+            "english": "Have you been thinking about the race for an hour?",
+            "transcription": "[хæв ю: би:н θ**и**нкиŋ эб**а**ут ðэ рэйс фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been thinking",
+        "examples": [
+          {
+            "ours": "К пяти я буду думать о маршруте уже два часа.",
+            "thought": "К пяти я буду иметь быть думающим о [известном] маршруте целых два часа.",
+            "english": "By five I will have been thinking about the route for two hours.",
+            "transcription": "[бай файв ай wил хæв би:н θ**и**нкиŋ эб**а**ут ðэ ру:т фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь думать о погоде уже час?",
+            "thought": "Будешь ты иметь быть думающим о [известной] погоде целый [какой-то] час к пяти?",
+            "english": "Will you have been thinking about the weather for an hour by five?",
+            "transcription": "[wил ю: хæв би:н θ**и**нкиŋ эб**а**ут ðэ w**э**ðэ фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "Здесь показаны think в значении мнения и think about в значении размышления. Возможен пассив с about, но в таких фразах обычно используют актив: We have thought about the route."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она подумает о погоде.",
+        "thought": "Я знал, она будет думать о [известной] погоде.",
+        "english": "I knew she would think about the weather.",
+        "transcription": "[ай нью: ши: wуд θинк эб**а**ут ðэ w**э**ðэ]"
+      },
+      {
+        "ours": "Он сказал, что не будет думать о гонке.",
+        "thought": "Он сказал, он будет не думать о [известной] гонке.",
+        "english": "He said he would not think about the race.",
+        "transcription": "[хи: сэд хи: wуд нот θинк эб**а**ут ðэ рэйс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "plan",
+      "meaning": "план",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "plan"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "weather"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "start",
+      "meaning": "старт",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "start"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    }
+  ]
+}

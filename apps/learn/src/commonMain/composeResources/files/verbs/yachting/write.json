@@ -1,0 +1,976 @@
+{
+  "spec": 3,
+  "verb": "write",
+  "forms": {
+    "base": [
+      {
+        "word": "write",
+        "transcription": "[райт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "wrote",
+        "transcription": "[роут]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "written",
+        "transcription": "[р**и**тн]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "writing",
+        "transcription": "[р**а**йтиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "writes",
+        "transcription": "[райтс]"
+      }
+    ]
+  },
+  "meaning": "писать, записывать",
+  "notes": "неправильный переходный глагол; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "wrote",
+        "examples": [
+          {
+            "ours": "Вчера я написал запись в журнале.",
+            "thought": "Вчера я написал [какую-то] журнала запись.",
+            "english": "Yesterday I wrote a log entry.",
+            "transcription": "[й**э**стэдэй ай роут э лог **э**нтри]"
+          },
+          {
+            "ours": "Ты написал владельцу яхты?",
+            "thought": "[Сделал] ты писать к [известному] яхты владельцу?",
+            "english": "Did you write to the yacht owner?",
+            "transcription": "[дид ю: райт ту ðэ йот **о**унэ]"
+          },
+          {
+            "ours": "Она не написала название лодки.",
+            "thought": "Она [сделала] не писать [известное] лодки название.",
+            "english": "She did not write the boat name.",
+            "transcription": "[ши: дид нот райт ðэ боут нэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "write, writes",
+        "examples": [
+          {
+            "ours": "Шкипер каждый день пишет отчёт.",
+            "thought": "[Известный] шкипер пишет [какой-то] отчёт каждый день.",
+            "english": "The skipper writes a report every day.",
+            "transcription": "[ðэ ск**и**пэ райтс э рип**о**:т **э**ври дэй]"
+          },
+          {
+            "ours": "Ты записываешь скорость ветра?",
+            "thought": "[Делаешь] ты записывать [известную] ветра скорость?",
+            "english": "Do you write the wind speed?",
+            "transcription": "[ду: ю: райт ðэ wинд спи:д]"
+          },
+          {
+            "ours": "Он не пишет письма в море.",
+            "thought": "Он [делает] не писать письма в море.",
+            "english": "He does not write letters at sea.",
+            "transcription": "[хи: даз нот райт л**э**тэз æт си:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will write",
+        "examples": [
+          {
+            "ours": "Завтра я напишу владельцу.",
+            "thought": "Завтра я буду писать к [известному] владельцу.",
+            "english": "Tomorrow I will write to the owner.",
+            "transcription": "[тэм**о**роу ай wил райт ту ðи **о**унэ]"
+          },
+          {
+            "ours": "Ты напишешь отчёт после гонки?",
+            "thought": "Будешь ты писать [какой-то] отчёт после [известной] гонки?",
+            "english": "Will you write a report after the race?",
+            "transcription": "[wил ю: райт э рип**о**:т **а**:фтэ ðэ рэйс]"
+          },
+          {
+            "ours": "Сегодня она не будет писать сообщение.",
+            "thought": "Она будет не писать [какое-то] сообщение сегодня.",
+            "english": "She will not write a message today.",
+            "transcription": "[ши: wил нот райт э м**э**сидж тэд**э**й]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were writing",
+        "examples": [
+          {
+            "ours": "Вчера вечером я писал запись в журнале.",
+            "thought": "Вчера вечером я был пишущим [какую-то] журнала запись.",
+            "english": "Yesterday evening I was writing a log entry.",
+            "transcription": "[й**э**стэдэй **и**:вниŋ ай wоз р**а**йтиŋ э лог **э**нтри]"
+          },
+          {
+            "ours": "Ты писал отчёт, когда я позвонил?",
+            "thought": "Был ты пишущим [известный] отчёт, когда я позвонил?",
+            "english": "Were you writing the report when I called?",
+            "transcription": "[wœ: ю: р**а**йтиŋ ðэ рип**о**:т wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are writing",
+        "examples": [
+          {
+            "ours": "Я сейчас пишу сообщение шкиперу.",
+            "thought": "Я являюсь пишущим [какое-то] сообщение к [известному] шкиперу сейчас.",
+            "english": "I am writing a message to the skipper now.",
+            "transcription": "[ай æм р**а**йтиŋ э м**э**сидж ту ðэ ск**и**пэ нау]"
+          },
+          {
+            "ours": "Ты сейчас записываешь координаты?",
+            "thought": "Являешься ты записывающим [известные] координаты сейчас?",
+            "english": "Are you writing the coordinates now?",
+            "transcription": "[а: ю: р**а**йтиŋ ðэ коу**о**:динэтс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be writing",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем писать отчёт.",
+            "thought": "Завтра утром мы будем быть пишущими [известный] отчёт.",
+            "english": "Tomorrow morning we will be writing the report.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: р**а**йтиŋ ðэ рип**о**:т]"
+          },
+          {
+            "ours": "Ты будешь писать статью о регате вечером?",
+            "thought": "Будешь ты быть пишущим [известную] регаты статью этот вечер?",
+            "english": "Will you be writing the regatta article this evening?",
+            "transcription": "[wил ю: би: р**а**йтиŋ ðэ риг**æ**тэ **а**:тикл ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had written",
+        "examples": [
+          {
+            "ours": "К полудню я уже написал сообщение.",
+            "thought": "К полудню я имел уже написанным [известное] сообщение.",
+            "english": "By noon I had already written the message.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди р**и**тн ðэ м**э**сидж]"
+          },
+          {
+            "ours": "Ты записал координаты до отхода?",
+            "thought": "Имел ты записанными [известные] координаты перед отходом?",
+            "english": "Had you written the coordinates before departure?",
+            "transcription": "[хæд ю: р**и**тн ðэ коу**о**:динэтс биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has written",
+        "examples": [
+          {
+            "ours": "Я уже написал отчёт о рейсе.",
+            "thought": "Я имею уже написанным [известный] рейса отчёт.",
+            "english": "I have already written the voyage report.",
+            "transcription": "[ай хæв о:лр**э**ди р**и**тн ðэ в**о**йидж рип**о**:т]"
+          },
+          {
+            "ours": "Она уже написала письмо шкиперу?",
+            "thought": "Имеет она написанным к [известному] шкиперу уже?",
+            "english": "Has she written to the skipper yet?",
+            "transcription": "[хæз ши: р**и**тн ту ðэ ск**и**пэ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have written",
+        "examples": [
+          {
+            "ours": "К полудню мы напишем отчёт.",
+            "thought": "К полудню мы будем иметь написанным [известный] отчёт.",
+            "english": "By noon we will have written the report.",
+            "transcription": "[бай ну:н wи: wил хæв р**и**тн ðэ рип**о**:т]"
+          },
+          {
+            "ours": "Ты напишешь сообщение к пяти?",
+            "thought": "Будешь ты иметь написанным [известное] сообщение к пяти?",
+            "english": "Will you have written the message by five?",
+            "transcription": "[wил ю: хæв р**и**тн ðэ м**э**сидж бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been writing",
+        "examples": [
+          {
+            "ours": "Она час писала отчёт, когда погас свет.",
+            "thought": "Она имела быть пишущей [известный] отчёт целый [какой-то] час, когда [известные] огни погасли.",
+            "english": "She had been writing the report for an hour when the lights went out.",
+            "transcription": "[ши: хæд би:н р**а**йтиŋ ðэ рип**о**:т фо: эн **а**уэ wэн ðэ лайтс wэнт аут]"
+          },
+          {
+            "ours": "Ты два часа писал статью о плавании до ужина?",
+            "thought": "Имел ты быть пишущим [известную] плавания статью целых два часа перед ужином?",
+            "english": "Had you been writing the voyage article for two hours before dinner?",
+            "transcription": "[хæд ю: би:н р**а**йтиŋ ðэ в**о**йидж **а**:тикл фо: ту: **а**уэз биф**о**: д**и**нэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been writing",
+        "examples": [
+          {
+            "ours": "Я пишу судовой журнал уже час.",
+            "thought": "Я имею быть пишущим [известный] журнал целый [какой-то] час.",
+            "english": "I have been writing the log for an hour.",
+            "transcription": "[ай хæв би:н р**а**йтиŋ ðэ лог фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Она пишет отчёт уже два часа?",
+            "thought": "Имеет она быть пишущей [известный] отчёт целых два часа?",
+            "english": "Has she been writing the report for two hours?",
+            "transcription": "[хæз ши: би:н р**а**йтиŋ ðэ рип**о**:т фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been writing",
+        "examples": [
+          {
+            "ours": "К пяти я буду писать отчёт уже два часа.",
+            "thought": "К пяти я буду иметь быть пишущим [известный] отчёт целых два часа.",
+            "english": "By five I will have been writing the report for two hours.",
+            "transcription": "[бай файв ай wил хæв би:н р**а**йтиŋ ðэ рип**о**:т фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню она будет писать сообщение уже час?",
+            "thought": "Будет она иметь быть пишущей [известное] сообщение целый [какой-то] час к полудню?",
+            "english": "Will she have been writing the message for an hour by noon?",
+            "transcription": "[wил ши: хæв би:н р**а**йтиŋ ðэ м**э**сидж фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were written",
+        "examples": [
+          {
+            "ours": "Отчёт написали вчера.",
+            "thought": "[Известный] отчёт был написан вчера.",
+            "english": "The report was written yesterday.",
+            "transcription": "[ðэ рип**о**:т wоз р**и**тн й**э**стэдэй]"
+          },
+          {
+            "ours": "Координаты записали в журнал?",
+            "thought": "Были [известные] координаты записаны в [известный] журнал?",
+            "english": "Were the coordinates written in the log?",
+            "transcription": "[wœ: ðэ коу**о**:динэтс р**и**тн ин ðэ лог]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are written",
+        "examples": [
+          {
+            "ours": "Курс записывают в журнал каждый час.",
+            "thought": "[Известный] курс есть записан в [известный] журнал каждый час.",
+            "english": "The course is written in the log every hour.",
+            "transcription": "[ðэ ко:с из р**и**тн ин ðэ лог **э**ври **а**уэ]"
+          },
+          {
+            "ours": "Имена членов экипажа пишут здесь?",
+            "thought": "Есть экипажа имена написаны здесь?",
+            "english": "Are crew names written here?",
+            "transcription": "[а: кру: нэймз р**и**тн хиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be written",
+        "examples": [
+          {
+            "ours": "Завтра напишут отчёт о рейсе.",
+            "thought": "[Известный] рейса отчёт будет быть написан завтра.",
+            "english": "The voyage report will be written tomorrow.",
+            "transcription": "[ðэ в**о**йидж рип**о**:т wил би: р**и**тн тэм**о**роу]"
+          },
+          {
+            "ours": "Координаты запишут в журнал?",
+            "thought": "Будут [известные] координаты быть записаны в [известный] журнал?",
+            "english": "Will the coordinates be written in the log?",
+            "transcription": "[wил ðэ коу**о**:динэтс би: р**и**тн ин ðэ лог]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being written",
+        "examples": [
+          {
+            "ours": "Когда я вошёл, отчёт ещё писали.",
+            "thought": "[Известный] отчёт был «долго» написан, когда я вошёл.",
+            "english": "The report was being written when I entered.",
+            "transcription": "[ðэ рип**о**:т wоз б**и**:иŋ р**и**тн wэн ай **э**нтэд]"
+          },
+          {
+            "ours": "Когда ты позвонил, письма ещё писали?",
+            "thought": "Были [известные] письма «долго» написаны, когда ты позвонил?",
+            "english": "Were the letters being written when you called?",
+            "transcription": "[wœ: ðэ л**э**тэз б**и**:иŋ р**и**тн wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being written",
+        "examples": [
+          {
+            "ours": "Отчёт сейчас пишут.",
+            "thought": "[Известный] отчёт есть «долго» написан сейчас.",
+            "english": "The report is being written now.",
+            "transcription": "[ðэ рип**о**:т из б**и**:иŋ р**и**тн нау]"
+          },
+          {
+            "ours": "Сообщение шкиперу сейчас пишут?",
+            "thought": "Есть [известное] сообщение к [известному] шкиперу «долго» написано сейчас?",
+            "english": "Is the message to the skipper being written now?",
+            "transcription": "[из ðэ м**э**сидж ту ðэ ск**и**пэ б**и**:иŋ р**и**тн нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be writing",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут писать отчёт.",
+            "thought": "Завтра утром они будут быть пишущими [известный] отчёт.",
+            "english": "Tomorrow morning they will be writing the report.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: р**а**йтиŋ ðэ рип**о**:т]"
+          },
+          {
+            "ours": "Они будут писать письма владельцам вечером?",
+            "thought": "Будут они быть пишущими письма к владельцам этот вечер?",
+            "english": "Will they be writing letters to owners this evening?",
+            "transcription": "[wил ðэй би: р**а**йтиŋ л**э**тэз ту **о**унэз ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been written",
+        "examples": [
+          {
+            "ours": "К полудню отчёт уже написали.",
+            "thought": "К полудню [известный] отчёт имел уже быть написан.",
+            "english": "By noon the report had already been written.",
+            "transcription": "[бай ну:н ðэ рип**о**:т хæд о:лр**э**ди би:н р**и**тн]"
+          },
+          {
+            "ours": "Координаты записали до отхода?",
+            "thought": "Имели [известные] координаты быть записаны перед отходом?",
+            "english": "Had the coordinates been written before departure?",
+            "transcription": "[хæд ðэ коу**о**:динэтс би:н р**и**тн биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been written",
+        "examples": [
+          {
+            "ours": "Сообщение уже написано.",
+            "thought": "[Известное] сообщение имеет уже быть написано.",
+            "english": "The message has already been written.",
+            "transcription": "[ðэ м**э**сидж хæз о:лр**э**ди би:н р**и**тн]"
+          },
+          {
+            "ours": "Отчёт о регате уже написали?",
+            "thought": "Имеет [известный] регаты отчёт быть написан уже?",
+            "english": "Has the regatta report been written yet?",
+            "transcription": "[хæз ðэ риг**æ**тэ рип**о**:т би:н р**и**тн йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been written",
+        "examples": [
+          {
+            "ours": "К полудню отчёт уже напишут.",
+            "thought": "К полудню [известный] отчёт будет иметь быть написан.",
+            "english": "By noon the report will have been written.",
+            "transcription": "[бай ну:н ðэ рип**о**:т wил хæв би:н р**и**тн]"
+          },
+          {
+            "ours": "Сообщение напишут к пяти?",
+            "thought": "Будет [известное] сообщение иметь быть написано к пяти?",
+            "english": "Will the message have been written by five?",
+            "transcription": "[wил ðэ м**э**сидж хæв би:н р**и**тн бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been writing the report."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она напишет отчёт.",
+        "thought": "Я знал, она будет писать [известный] отчёт.",
+        "english": "I knew she would write the report.",
+        "transcription": "[ай нью: ши: wуд райт ðэ рип**о**:т]"
+      },
+      {
+        "ours": "Он думал, что мы не напишем владельцу.",
+        "thought": "Он думал, мы будем не писать к [известному] владельцу.",
+        "english": "He thought we would not write to the owner.",
+        "transcription": "[хи: θо:т wи: wуд нот райт ту ðи **о**унэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "log",
+      "meaning": "судовой журнал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "log"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "log"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "log"
+        }
+      ]
+    },
+    {
+      "word": "entry",
+      "meaning": "запись",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "entry"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "entry"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "owner",
+      "meaning": "владелец",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "owners"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "owner"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "name",
+      "meaning": "название, имя",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "name"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "names"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "report",
+      "meaning": "отчёт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "report"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "report"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "report"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "report"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "speed",
+      "meaning": "скорость",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "speed"
+        }
+      ]
+    },
+    {
+      "word": "letter",
+      "meaning": "письмо",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "letters"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "letters"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "letters"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "message",
+      "meaning": "сообщение",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "message"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "message"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "message"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "message"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "message"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "message"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "message"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "message"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "evening"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "coordinates",
+      "meaning": "координаты",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "coordinates"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "article",
+      "meaning": "статья",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "article"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "article"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "voyage",
+      "meaning": "плавание",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "voyage"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "voyage"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "voyage"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "light",
+      "meaning": "свет",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "lights"
+        }
+      ]
+    },
+    {
+      "word": "dinner",
+      "meaning": "ужин",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "dinner"
+        }
+      ]
+    },
+    {
+      "word": "course",
+      "meaning": "курс",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "course"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "crew"
+        }
+      ]
+    }
+  ]
+}

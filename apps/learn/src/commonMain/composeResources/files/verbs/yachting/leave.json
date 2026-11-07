@@ -1,0 +1,970 @@
+{
+  "spec": 3,
+  "verb": "leave",
+  "forms": {
+    "base": [
+      {
+        "word": "leave",
+        "transcription": "[ли:в]"
+      }
+    ],
+    "past": [
+      {
+        "word": "left",
+        "transcription": "[лэфт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "left",
+        "transcription": "[лэфт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "leaving",
+        "transcription": "[л**и**:виŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "leaves",
+        "transcription": "[ли:вз]"
+      }
+    ]
+  },
+  "meaning": "покидать, оставлять",
+  "notes": "неправильный переходный глагол; имеет пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "left",
+        "examples": [
+          {
+            "ours": "Вчера мы покинули гавань.",
+            "thought": "Вчера мы покинули [известную] гавань.",
+            "english": "Yesterday we left the harbor.",
+            "transcription": "[й**э**стэдэй wи: лэфт ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Капитан не оставил карту на борту.",
+            "thought": "[Известный] шкипер [сделал] не оставлять [известную] карту на борту.",
+            "english": "The skipper did not leave the chart aboard.",
+            "transcription": "[ðэ ск**и**пэ дид нот ли:в ðэ ча:т эб**о**:д]"
+          },
+          {
+            "ours": "Ты оставил компас здесь?",
+            "thought": "[Сделал] ты оставлять [известный] компас здесь?",
+            "english": "Did you leave the compass here?",
+            "transcription": "[дид ю: ли:в ðэ к**а**мпэс хиэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "leave, leaves",
+        "examples": [
+          {
+            "ours": "Мы покидаем гавань на рассвете.",
+            "thought": "Мы покидаем [известную] гавань на рассвете.",
+            "english": "We leave the harbor at dawn.",
+            "transcription": "[wи: ли:в ðэ х**а**:бэ æт до:н]"
+          },
+          {
+            "ours": "Она не оставляет карту на палубе.",
+            "thought": "Она [делает] не оставлять [известную] карту на палубе.",
+            "english": "She does not leave the chart on deck.",
+            "transcription": "[ши: даз нот ли:в ðэ ча:т он дэк]"
+          },
+          {
+            "ours": "Ты уходишь с борта каждый вечер?",
+            "thought": "[Делаешь] ты покидать [известную] лодку каждый вечер?",
+            "english": "Do you leave the boat every evening?",
+            "transcription": "[ду: ю: ли:в ðэ боут **э**ври **и**:вниŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will leave",
+        "examples": [
+          {
+            "ours": "Завтра мы покинем марину.",
+            "thought": "Завтра мы будем покидать [известную] марину.",
+            "english": "Tomorrow we will leave the marina.",
+            "transcription": "[тэм**о**роу wи: wил ли:в ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Она не оставит компас на борту.",
+            "thought": "Она будет не оставлять [известный] компас на борту.",
+            "english": "She will not leave the compass aboard.",
+            "transcription": "[ши: wил нот ли:в ðэ к**а**мпэс эб**о**:д]"
+          },
+          {
+            "ours": "Ты оставишь карту здесь?",
+            "thought": "Будешь ты оставлять [известную] карту здесь?",
+            "english": "Will you leave the chart here?",
+            "transcription": "[wил ю: ли:в ðэ ча:т хиэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were leaving",
+        "examples": [
+          {
+            "ours": "Яхта выходила из гавани, когда поднялся ветер.",
+            "thought": "[Известная] яхта была покидающей [известную] гавань, когда [известный] ветер поднялся.",
+            "english": "The yacht was leaving the harbor when the wind rose.",
+            "transcription": "[ðэ йот wоз л**и**:виŋ ðэ х**а**:бэ wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты покидал марину, когда я позвонил?",
+            "thought": "Был ты покидающим [известную] марину, когда я позвонил?",
+            "english": "Were you leaving the marina when I called?",
+            "transcription": "[wœ: ю: л**и**:виŋ ðэ мэр**и**:нэ wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are leaving",
+        "examples": [
+          {
+            "ours": "Мы сейчас выходим из гавани.",
+            "thought": "Мы являемся покидающими [известную] гавань сейчас.",
+            "english": "We are leaving the harbor now.",
+            "transcription": "[wи: а: л**и**:виŋ ðэ х**а**:бэ нау]"
+          },
+          {
+            "ours": "Яхта сейчас не выходит из марины.",
+            "thought": "[Известная] яхта является не покидающей [известную] марину сейчас.",
+            "english": "The yacht is not leaving the marina now.",
+            "transcription": "[ðэ йот из нот л**и**:виŋ ðэ мэр**и**:нэ нау]"
+          },
+          {
+            "ours": "Ты сейчас покидаешь яхту?",
+            "thought": "Являешься ты покидающим [известную] яхту сейчас?",
+            "english": "Are you leaving the yacht now?",
+            "transcription": "[а: ю: л**и**:виŋ ðэ йот нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be leaving",
+        "examples": [
+          {
+            "ours": "Завтра в пять мы будем выходить из гавани.",
+            "thought": "Завтра в пять мы будем быть покидающими [известную] гавань.",
+            "english": "Tomorrow at five we will be leaving the harbor.",
+            "transcription": "[тэм**о**роу æт файв wи: wил би: л**и**:виŋ ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Ты завтра будешь выходить из марины в шесть?",
+            "thought": "Будешь ты быть покидающим [известную] марину в шесть завтра?",
+            "english": "Will you be leaving the marina at six tomorrow?",
+            "transcription": "[wил ю: би: л**и**:виŋ ðэ мэр**и**:нэ æт сикс тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had left",
+        "examples": [
+          {
+            "ours": "К пяти мы уже вышли из гавани.",
+            "thought": "К пяти мы имели уже покинутой [известную] гавань.",
+            "english": "By five we had already left the harbor.",
+            "transcription": "[бай файв wи: хæд о:лр**э**ди лэфт ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "К тому времени она ещё не оставила карту.",
+            "thought": "К тогда она имела не оставленной [известную] карту ещё.",
+            "english": "By then she had not left the chart yet.",
+            "transcription": "[бай ðэн ши: хæд нот лэфт ðэ ча:т йэт]"
+          },
+          {
+            "ours": "К пяти ты уже покинул марину?",
+            "thought": "Имел ты покинутой [известную] марину к пяти?",
+            "english": "Had you left the marina by five?",
+            "transcription": "[хæд ю: лэфт ðэ мэр**и**:нэ бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has left",
+        "examples": [
+          {
+            "ours": "Мы уже покинули гавань.",
+            "thought": "Мы имеем уже покинутой [известную] гавань.",
+            "english": "We have already left the harbor.",
+            "transcription": "[wи: хæв о:лр**э**ди лэфт ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Она ещё не оставила карту на борту.",
+            "thought": "Она имеет не оставленной [известную] карту на борту ещё.",
+            "english": "She has not left the chart aboard yet.",
+            "transcription": "[ши: хæз нот лэфт ðэ ча:т эб**о**:д йэт]"
+          },
+          {
+            "ours": "Ты уже покинул марину?",
+            "thought": "Имеешь ты покинутой [известную] марину уже?",
+            "english": "Have you left the marina yet?",
+            "transcription": "[хæв ю: лэфт ðэ мэр**и**:нэ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have left",
+        "examples": [
+          {
+            "ours": "К вечеру мы покинем гавань.",
+            "thought": "К вечеру мы будем иметь покинутой [известную] гавань.",
+            "english": "By evening we will have left the harbor.",
+            "transcription": "[бай **и**:вниŋ wи: wил хæв лэфт ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "К пяти она ещё не оставит карту на борту.",
+            "thought": "К пяти она будет не иметь оставленной [известную] карту на борту ещё.",
+            "english": "By five she will not have left the chart aboard yet.",
+            "transcription": "[бай файв ши: wил нот хæв лэфт ðэ ча:т эб**о**:д йэт]"
+          },
+          {
+            "ours": "К пяти ты уже покинешь марину?",
+            "thought": "Будешь ты иметь покинутой [известную] марину к пяти?",
+            "english": "Will you have left the marina by five?",
+            "transcription": "[wил ю: хæв лэфт ðэ мэр**и**:нэ бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been leaving",
+        "examples": [
+          {
+            "ours": "Яхты выходили из гавани два часа, когда поднялся ветер.",
+            "thought": "Яхты имели быть покидающими [известную] гавань целых два часа, когда [известный] ветер поднялся.",
+            "english": "Yachts had been leaving the harbor for two hours when the wind rose.",
+            "transcription": "[йотс хæд би:н л**и**:виŋ ðэ х**а**:бэ фо: ту: **а**уэз wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Лодки давно покидали причал, когда вы прибыли?",
+            "thought": "Имели лодки быть покидающими [известный] причал долго, когда вы прибыли?",
+            "english": "Had boats been leaving the dock long when you arrived?",
+            "transcription": "[хæд боутс би:н л**и**:виŋ ðэ док лоŋ wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been leaving",
+        "examples": [
+          {
+            "ours": "Яхты выходят из гавани уже два часа.",
+            "thought": "Яхты имеют быть покидающими [известную] гавань целых два часа.",
+            "english": "Yachts have been leaving the harbor for two hours.",
+            "transcription": "[йотс хæв би:н л**и**:виŋ ðэ х**а**:бэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Лодки уже час выходят из марины?",
+            "thought": "Имеют лодки быть покидающими [известную] марину целый [какой-то] час?",
+            "english": "Have boats been leaving the marina for an hour?",
+            "transcription": "[хæв боутс би:н л**и**:виŋ ðэ мэр**и**:нэ фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been leaving",
+        "examples": [
+          {
+            "ours": "К пяти яхты будут выходить из гавани уже два часа.",
+            "thought": "К пяти яхты будут иметь быть покидающими [известную] гавань целых два часа.",
+            "english": "By five yachts will have been leaving the harbor for two hours.",
+            "transcription": "[бай файв йотс wил хæв би:н л**и**:виŋ ðэ х**а**:бэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти лодки будут выходить из марины уже час?",
+            "thought": "Будут лодки иметь быть покидающими [известную] марину целый [какой-то] час к пяти?",
+            "english": "Will boats have been leaving the marina for an hour by five?",
+            "transcription": "[wил боутс хæв би:н л**и**:виŋ ðэ мэр**и**:нэ фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were left",
+        "examples": [
+          {
+            "ours": "Карту оставили на борту вчера.",
+            "thought": "[Известная] карта была оставлена на борту вчера.",
+            "english": "The chart was left aboard yesterday.",
+            "transcription": "[ðэ ча:т wоз лэфт эб**о**:д й**э**стэдэй]"
+          },
+          {
+            "ours": "Компас не оставили на палубе.",
+            "thought": "[Известный] компас был не оставлен на палубе.",
+            "english": "The compass was not left on deck.",
+            "transcription": "[ðэ к**а**мпэс wоз нот лэфт он дэк]"
+          },
+          {
+            "ours": "Карту оставили здесь?",
+            "thought": "Была [известная] карта оставлена здесь?",
+            "english": "Was the chart left here?",
+            "transcription": "[wоз ðэ ча:т лэфт хиэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are left",
+        "examples": [
+          {
+            "ours": "Спасательные жилеты оставляют на борту.",
+            "thought": "Спасательные жилеты есть оставлены на борту.",
+            "english": "Life jackets are left aboard.",
+            "transcription": "[лайф дж**æ**китс а: лэфт эб**о**:д]"
+          },
+          {
+            "ours": "Карту не оставляют на палубе.",
+            "thought": "[Известная] карта есть не оставлена на палубе.",
+            "english": "The chart is not left on deck.",
+            "transcription": "[ðэ ча:т из нот лэфт он дэк]"
+          },
+          {
+            "ours": "Компас оставляют здесь?",
+            "thought": "Есть [известный] компас оставлен здесь?",
+            "english": "Is the compass left here?",
+            "transcription": "[из ðэ к**а**мпэс лэфт хиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be left",
+        "examples": [
+          {
+            "ours": "Карту оставят на борту завтра.",
+            "thought": "[Известная] карта будет быть оставлена на борту завтра.",
+            "english": "The chart will be left aboard tomorrow.",
+            "transcription": "[ðэ ча:т wил би: лэфт эб**о**:д тэм**о**роу]"
+          },
+          {
+            "ours": "Компас не оставят на палубе.",
+            "thought": "[Известный] компас будет не быть оставлен на палубе.",
+            "english": "The compass will not be left on deck.",
+            "transcription": "[ðэ к**а**мпэс wил нот би: лэфт он дэк]"
+          },
+          {
+            "ours": "Карту оставят здесь?",
+            "thought": "Будет [известная] карта быть оставлена здесь?",
+            "english": "Will the chart be left here?",
+            "transcription": "[wил ðэ ча:т би: лэфт хиэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being left",
+        "examples": [
+          {
+            "ours": "Вчера жилеты весь день оставляли на причале.",
+            "thought": "Вчера жилеты были «долго» оставлены на [известном] причале весь день.",
+            "english": "Yesterday jackets were being left on the dock all day.",
+            "transcription": "[й**э**стэдэй дж**æ**китс wœ: б**и**:иŋ лэфт он ðэ док о:л дэй]"
+          },
+          {
+            "ours": "Жилеты оставляли на причале, когда ты приехал?",
+            "thought": "Были жилеты «долго» оставлены на [известном] причале, когда ты прибыл?",
+            "english": "Were jackets being left on the dock when you arrived?",
+            "transcription": "[wœ: дж**æ**китс б**и**:иŋ лэфт он ðэ док wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being left",
+        "examples": [
+          {
+            "ours": "Сейчас жилеты оставляют на причале.",
+            "thought": "Жилеты есть «долго» оставлены на [известном] причале сейчас.",
+            "english": "Jackets are being left on the dock now.",
+            "transcription": "[дж**æ**китс а: б**и**:иŋ лэфт он ðэ док нау]"
+          },
+          {
+            "ours": "Сейчас карты не оставляют на борту.",
+            "thought": "Карты есть не «долго» оставлены на борту сейчас.",
+            "english": "Charts are not being left aboard now.",
+            "transcription": "[ча:тс а: нот б**и**:иŋ лэфт эб**о**:д нау]"
+          },
+          {
+            "ours": "Сейчас жилеты оставляют на причале?",
+            "thought": "Есть жилеты «долго» оставлены на [известном] причале сейчас?",
+            "english": "Are jackets being left on the dock now?",
+            "transcription": "[а: дж**æ**китс б**и**:иŋ лэфт он ðэ док нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be leaving",
+        "examples": [
+          {
+            "ours": "Завтра они будут оставлять жилеты на причале весь день.",
+            "thought": "Завтра они будут быть оставляющими жилеты на [известном] причале весь день.",
+            "english": "Tomorrow they will be leaving jackets on the dock all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: л**и**:виŋ дж**æ**китс он ðэ док о:л дэй]"
+          },
+          {
+            "ours": "Они будут оставлять жилеты на причале весь день завтра?",
+            "thought": "Будут они быть оставляющими жилеты на [известном] причале весь день завтра?",
+            "english": "Will they be leaving jackets on the dock all day tomorrow?",
+            "transcription": "[wил ðэй би: л**и**:виŋ дж**æ**китс он ðэ док о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been left",
+        "examples": [
+          {
+            "ours": "К пяти карту уже оставили на борту.",
+            "thought": "К пяти [известная] карта имела уже быть оставлена на борту.",
+            "english": "By five the chart had already been left aboard.",
+            "transcription": "[бай файв ðэ ча:т хæд о:лр**э**ди би:н лэфт эб**о**:д]"
+          },
+          {
+            "ours": "К тому времени компас ещё не оставили на яхте.",
+            "thought": "К тогда [известный] компас имел не быть оставлен на [известной] яхте ещё.",
+            "english": "By then the compass had not been left on the yacht yet.",
+            "transcription": "[бай ðэн ðэ к**а**мпэс хæд нот би:н лэфт он ðэ йот йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been left",
+        "examples": [
+          {
+            "ours": "Карту уже оставили на борту.",
+            "thought": "[Известная] карта имеет уже быть оставлена на борту.",
+            "english": "The chart has already been left aboard.",
+            "transcription": "[ðэ ча:т хæз о:лр**э**ди би:н лэфт эб**о**:д]"
+          },
+          {
+            "ours": "Компас ещё не оставили на яхте.",
+            "thought": "[Известный] компас имеет не быть оставлен на [известной] яхте ещё.",
+            "english": "The compass has not been left on the yacht yet.",
+            "transcription": "[ðэ к**а**мпэс хæз нот би:н лэфт он ðэ йот йэт]"
+          },
+          {
+            "ours": "Жилеты уже оставили на борту?",
+            "thought": "Имеют [известные] жилеты быть оставлены на борту уже?",
+            "english": "Have the jackets been left aboard yet?",
+            "transcription": "[хæв ðэ дж**æ**китс би:н лэфт эб**о**:д йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been left",
+        "examples": [
+          {
+            "ours": "К пяти карту оставят на борту.",
+            "thought": "К пяти [известная] карта будет иметь быть оставлена на борту.",
+            "english": "By five the chart will have been left aboard.",
+            "transcription": "[бай файв ðэ ча:т wил хæв би:н лэфт эб**о**:д]"
+          },
+          {
+            "ours": "К пяти компас ещё не оставят на яхте.",
+            "thought": "К пяти [известный] компас будет не иметь быть оставлен на [известной] яхте ещё.",
+            "english": "By five the compass will not have been left on the yacht yet.",
+            "transcription": "[бай файв ðэ к**а**мпэс wил нот хæв би:н лэфт он ðэ йот йэт]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: They have been leaving jackets on the dock."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что мы покинем гавань.",
+        "thought": "Я знал, мы будем покидать [известную] гавань.",
+        "english": "I knew we would leave the harbor.",
+        "transcription": "[ай нью: wи: wуд ли:в ðэ х**а**:бэ]"
+      },
+      {
+        "ours": "Она думала, что капитан не оставит карту.",
+        "thought": "Она думала, [известный] шкипер будет не оставлять [известную] карту.",
+        "english": "She thought the skipper would not leave the chart.",
+        "transcription": "[ши: θо:т ðэ ск**и**пэ wуд нот ли:в ðэ ча:т]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "compass"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "compass"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "compass"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "compass"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "compass"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "compass"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "boats"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "evening"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "dock",
+      "meaning": "причал",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "dock"
+        }
+      ]
+    },
+    {
+      "word": "life jacket",
+      "meaning": "спасательный жилет",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "life jackets"
+        }
+      ]
+    },
+    {
+      "word": "jacket",
+      "meaning": "жилет",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "jackets"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "jackets"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "jackets"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "jackets"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "jackets"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "jackets"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "jackets"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "day"
+        }
+      ]
+    }
+  ]
+}

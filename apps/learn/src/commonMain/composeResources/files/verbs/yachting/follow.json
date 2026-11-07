@@ -1,0 +1,870 @@
+{
+  "spec": 3,
+  "verb": "follow",
+  "forms": {
+    "base": [
+      {
+        "word": "follow",
+        "transcription": "[ф**о**лоу]"
+      }
+    ],
+    "past": [
+      {
+        "word": "followed",
+        "transcription": "[ф**о**лоуд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "followed",
+        "transcription": "[ф**о**лоуд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "following",
+        "transcription": "[ф**о**лоуиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "follows",
+        "transcription": "[ф**о**лоуз]"
+      }
+    ]
+  },
+  "meaning": "следовать, придерживаться, идти за",
+  "notes": "правильный переходный глагол; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "followed",
+        "examples": [
+          {
+            "ours": "Вчера мы шли вдоль берега.",
+            "thought": "Вчера мы следовали [известному] берегу.",
+            "english": "Yesterday we followed the coast.",
+            "transcription": "[й**э**стэдэй wи: ф**о**лоуд ðэ коуст]"
+          },
+          {
+            "ours": "Экипаж не пошёл за шкипером.",
+            "thought": "[Известный] экипаж [сделал] не следовать [известному] шкиперу.",
+            "english": "The crew didn't follow the skipper.",
+            "transcription": "[ðэ кру: диднт ф**о**лоу ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Ты следовал маршруту до гавани?",
+            "thought": "[Сделал] ты следовать [известному] маршруту к [известной] гавани?",
+            "english": "Did you follow the route to the harbor?",
+            "transcription": "[дид ю: ф**о**лоу ðэ ру:т ту ðэ х**а**:бэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "follow, follows",
+        "examples": [
+          {
+            "ours": "Экипаж всегда соблюдает правила безопасности.",
+            "thought": "[Известный] экипаж всегда следует [известным] правилам безопасности.",
+            "english": "The crew always follows the safety rules.",
+            "transcription": "[ðэ кру: **о**:лwэйз ф**о**лоуз ðэ с**э**йфти ру:лз]"
+          },
+          {
+            "ours": "Он не придерживается плана.",
+            "thought": "Он [делает] не следовать [известному] плану.",
+            "english": "He doesn't follow the plan.",
+            "transcription": "[хи: дазнт ф**о**лоу ðэ плæн]"
+          },
+          {
+            "ours": "Ты идёшь за шкипером?",
+            "thought": "[Делаешь] ты следовать [известному] шкиперу?",
+            "english": "Do you follow the skipper?",
+            "transcription": "[ду: ю: ф**о**лоу ðэ ск**и**пэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will follow",
+        "examples": [
+          {
+            "ours": "Завтра мы будем идти вдоль берега.",
+            "thought": "Завтра мы будем следовать [известному] берегу.",
+            "english": "Tomorrow we will follow the coast.",
+            "transcription": "[тэм**о**роу wи: wил ф**о**лоу ðэ коуст]"
+          },
+          {
+            "ours": "Она не пойдёт за другой лодкой.",
+            "thought": "Она будет не следовать другой лодке.",
+            "english": "She won't follow another boat.",
+            "transcription": "[ши: wоунт ф**о**лоу эн**а**ðэ боут]"
+          },
+          {
+            "ours": "Ты пойдёшь за капитаном?",
+            "thought": "Будешь ты следовать [известному] капитану?",
+            "english": "Will you follow the captain?",
+            "transcription": "[wил ю: ф**о**лоу ðэ к**æ**птин]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were following",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день шли вдоль берега.",
+            "thought": "Вчера мы были следующими [известному] берегу весь день.",
+            "english": "Yesterday we were following the coast all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: ф**о**лоуиŋ ðэ коуст о:л дэй]"
+          },
+          {
+            "ours": "Ты шёл за флотилией, когда я пришёл?",
+            "thought": "Был ты следующим [известной] флотилии, когда я пришёл?",
+            "english": "Were you following the fleet when I came?",
+            "transcription": "[wœ: ю: ф**о**лоуиŋ ðэ фли:т wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are following",
+        "examples": [
+          {
+            "ours": "Сейчас мы идём по фарватеру.",
+            "thought": "Мы являемся следующими [известному] фарватеру сейчас.",
+            "english": "We are following the fairway now.",
+            "transcription": "[wи: а: ф**о**лоуиŋ ðэ ф**э**эwэй нау]"
+          },
+          {
+            "ours": "Ты сейчас идёшь за лодкой?",
+            "thought": "Являешься ты следующим [известной] лодке сейчас?",
+            "english": "Are you following the boat now?",
+            "transcription": "[а: ю: ф**о**лоуиŋ ðэ боут нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be following",
+        "examples": [
+          {
+            "ours": "Завтра весь день мы будем идти вдоль берега.",
+            "thought": "Завтра мы будем быть следующими [известному] берегу весь день.",
+            "english": "Tomorrow we will be following the coast all day.",
+            "transcription": "[тэм**о**роу wи: wил би: ф**о**лоуиŋ ðэ коуст о:л дэй]"
+          },
+          {
+            "ours": "Завтра ты весь день будешь следовать за флотилией?",
+            "thought": "Будешь ты быть следующим [известной] флотилии весь день завтра?",
+            "english": "Will you be following the fleet all day tomorrow?",
+            "transcription": "[wил ю: би: ф**о**лоуиŋ ðэ фли:т о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had followed",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже прошли по фарватеру.",
+            "thought": "К пяти вчера мы имели уже последованным [известному] фарватеру.",
+            "english": "By five yesterday we had already followed the fairway.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди ф**о**лоуд ðэ ф**э**эwэй]"
+          },
+          {
+            "ours": "Ты выполнил указания до гонки?",
+            "thought": "Имел ты последованным [известным] указаниям перед [известной] гонкой?",
+            "english": "Had you followed the instructions before the race?",
+            "transcription": "[хæд ю: ф**о**лоуд ðэ инстр**а**кшнз биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has followed",
+        "examples": [
+          {
+            "ours": "Мы уже выполнили указания.",
+            "thought": "Мы имеем уже последованным [известным] указаниям.",
+            "english": "We have already followed the instructions.",
+            "transcription": "[wи: хæв о:лр**э**ди ф**о**лоуд ðэ инстр**а**кшнз]"
+          },
+          {
+            "ours": "Ты уже прошёл по фарватеру?",
+            "thought": "Имеешь ты уже последованным [известному] фарватеру?",
+            "english": "Have you already followed the fairway?",
+            "transcription": "[хæв ю: о:лр**э**ди ф**о**лоуд ðэ ф**э**эwэй]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have followed",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже пройдём по фарватеру.",
+            "thought": "К пяти завтра мы будем иметь уже последованным [известному] фарватеру.",
+            "english": "By five tomorrow we will have already followed the fairway.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди ф**о**лоуд ðэ ф**э**эwэй]"
+          },
+          {
+            "ours": "Ты выполнишь указания до гонки?",
+            "thought": "Будешь ты иметь последованным [известным] указаниям перед [известной] гонкой?",
+            "english": "Will you have followed the instructions before the race?",
+            "transcription": "[wил ю: хæв ф**о**лоуд ðэ инстр**а**кшнз биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been following",
+        "examples": [
+          {
+            "ours": "Мы уже два часа шли вдоль берега, когда ты пришёл.",
+            "thought": "Мы имели быть следующими [известному] берегу целых два часа, когда ты пришёл.",
+            "english": "We had been following the coast for two hours when you came.",
+            "transcription": "[wи: хæд би:н ф**о**лоуиŋ ðэ коуст фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа следовал за лодкой, когда он пришёл?",
+            "thought": "Имел ты быть следующим [известной] лодке целых два часа, когда он пришёл?",
+            "english": "Had you been following the boat for two hours when he came?",
+            "transcription": "[хæд ю: би:н ф**о**лоуиŋ ðэ боут фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been following",
+        "examples": [
+          {
+            "ours": "Мы уже два часа идём вдоль берега.",
+            "thought": "Мы имеем быть следующими [известному] берегу целых два часа.",
+            "english": "We have been following the coast for two hours.",
+            "transcription": "[wи: хæв би:н ф**о**лоуиŋ ðэ коуст фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа следуешь за флотилией?",
+            "thought": "Имеешь ты быть следующим [известной] флотилии целых два часа?",
+            "english": "Have you been following the fleet for two hours?",
+            "transcription": "[хæв ю: би:н ф**о**лоуиŋ ðэ фли:т фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been following",
+        "examples": [
+          {
+            "ours": "К пяти мы будем идти вдоль берега уже два часа.",
+            "thought": "К пяти мы будем иметь быть следующими [известному] берегу целых два часа.",
+            "english": "By five we will have been following the coast for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н ф**о**лоуиŋ ðэ коуст фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь идти за флотилией уже два часа?",
+            "thought": "Будешь ты иметь быть следующим [известной] флотилии целых два часа к пяти?",
+            "english": "Will you have been following the fleet for two hours by five?",
+            "transcription": "[wил ю: хæв би:н ф**о**лоуиŋ ðэ фли:т фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were followed",
+        "examples": [
+          {
+            "ours": "Вчера указания выполнили.",
+            "thought": "[Известные] указания были выполнены вчера.",
+            "english": "The instructions were followed yesterday.",
+            "transcription": "[ðэ инстр**а**кшнз wœ: ф**о**лоуд й**э**стэдэй]"
+          },
+          {
+            "ours": "План соблюдали до шторма?",
+            "thought": "Был [известный] план соблюдён перед [известным] штормом?",
+            "english": "Was the plan followed before the storm?",
+            "transcription": "[wоз ðэ плæн ф**о**лоуд биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are followed",
+        "examples": [
+          {
+            "ours": "Правила безопасности соблюдают каждый день.",
+            "thought": "[Известные] правила безопасности есть соблюдены каждый день.",
+            "english": "The safety rules are followed every day.",
+            "transcription": "[ðэ с**э**йфти ру:лз а: ф**о**лоуд **э**ври дэй]"
+          },
+          {
+            "ours": "На борту следуют этому плану?",
+            "thought": "Есть этот план соблюдён на борту?",
+            "english": "Is this plan followed on board?",
+            "transcription": "[из ðис плæн ф**о**лоуд он бо:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be followed",
+        "examples": [
+          {
+            "ours": "Завтра указания выполнят.",
+            "thought": "[Известные] указания будут быть выполнены завтра.",
+            "english": "The instructions will be followed tomorrow.",
+            "transcription": "[ðэ инстр**а**кшнз wил би: ф**о**лоуд тэм**о**роу]"
+          },
+          {
+            "ours": "План будут соблюдать до гонки?",
+            "thought": "Будет [известный] план быть соблюдён перед [известной] гонкой?",
+            "english": "Will the plan be followed before the race?",
+            "transcription": "[wил ðэ плæн би: ф**о**лоуд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being followed",
+        "examples": [
+          {
+            "ours": "Вчера за лодкой весь день шла другая лодка.",
+            "thought": "Вчера [известная] лодка была «долго» следуема весь день.",
+            "english": "Yesterday the boat was being followed all day.",
+            "transcription": "[й**э**стэдэй ðэ боут wоз б**и**:иŋ ф**о**лоуд о:л дэй]"
+          },
+          {
+            "ours": "За флотилией следовали весь день?",
+            "thought": "Была [известная] флотилия «долго» следуема весь день?",
+            "english": "Was the fleet being followed all day?",
+            "transcription": "[wоз ðэ фли:т б**и**:иŋ ф**о**лоуд о:л дэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being followed",
+        "examples": [
+          {
+            "ours": "Сейчас за лодкой следуют.",
+            "thought": "[Известная] лодка есть «долго» следуема сейчас.",
+            "english": "The boat is being followed now.",
+            "transcription": "[ðэ боут из б**и**:иŋ ф**о**лоуд нау]"
+          },
+          {
+            "ours": "Сейчас за флотилией следуют?",
+            "thought": "Есть [известная] флотилия «долго» следуема сейчас?",
+            "english": "Is the fleet being followed now?",
+            "transcription": "[из ðэ фли:т б**и**:иŋ ф**о**лоуд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be following",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут идти за лодкой.",
+            "thought": "Завтра они будут быть следующими [известной] лодке весь день.",
+            "english": "Tomorrow they will be following the boat all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: ф**о**лоуиŋ ðэ боут о:л дэй]"
+          },
+          {
+            "ours": "Завтра они весь день будут идти за флотилией?",
+            "thought": "Будут они быть следующими [известной] флотилии весь день завтра?",
+            "english": "Will they be following the fleet all day tomorrow?",
+            "transcription": "[wил ðэй би: ф**о**лоуиŋ ðэ фли:т о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been followed",
+        "examples": [
+          {
+            "ours": "Вчера к пяти указания уже выполнили.",
+            "thought": "К пяти вчера [известные] указания имели уже быть выполнены.",
+            "english": "By five yesterday the instructions had already been followed.",
+            "transcription": "[бай файв й**э**стэдэй ðэ инстр**а**кшнз хæд о:лр**э**ди би:н ф**о**лоуд]"
+          },
+          {
+            "ours": "План соблюдали до шторма?",
+            "thought": "Имел [известный] план быть соблюдён перед [известным] штормом?",
+            "english": "Had the plan been followed before the storm?",
+            "transcription": "[хæд ðэ плæн би:н ф**о**лоуд биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been followed",
+        "examples": [
+          {
+            "ours": "Указания уже выполнили.",
+            "thought": "[Известные] указания имеют уже быть выполнены.",
+            "english": "The instructions have already been followed.",
+            "transcription": "[ðэ инстр**а**кшнз хæв о:лр**э**ди би:н ф**о**лоуд]"
+          },
+          {
+            "ours": "План уже выполнили?",
+            "thought": "Имеет [известный] план уже быть соблюдён?",
+            "english": "Has the plan already been followed?",
+            "transcription": "[хæз ðэ плæн о:лр**э**ди би:н ф**о**лоуд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been followed",
+        "examples": [
+          {
+            "ours": "К пяти завтра указания уже выполнят.",
+            "thought": "К пяти завтра [известные] указания будут уже иметь быть выполнены.",
+            "english": "By five tomorrow the instructions will already have been followed.",
+            "transcription": "[бай файв тэм**о**роу ðэ инстр**а**кшнз wил о:лр**э**ди хæв би:н ф**о**лоуд]"
+          },
+          {
+            "ours": "План выполнят до гонки?",
+            "thought": "Будет [известный] план иметь быть соблюдён перед [известной] гонкой?",
+            "english": "Will the plan have been followed before the race?",
+            "transcription": "[wил ðэ плæн хæв би:н ф**о**лоуд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The instructions have been followed. Или: They have been following the instructions."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они последуют плану.",
+        "thought": "[Известный] капитан сказал, что они будут следовать [известному] плану.",
+        "english": "The captain said that they would follow the plan.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд ф**о**лоу ðэ плæн]"
+      },
+      {
+        "ours": "Я знал, что ты не пойдёшь за лодкой.",
+        "thought": "Я знал, что ты будешь не следовать [известной] лодке.",
+        "english": "I knew that you wouldn't follow the boat.",
+        "transcription": "[ай нью: ðæт ю: wуднт ф**о**лоу ðэ боут]"
+      },
+      {
+        "ours": "Капитан сказал, что мы пойдём вдоль берега.",
+        "thought": "[Известный] капитан сказал, что мы будем следовать [известному] берегу.",
+        "english": "The captain said that we would follow the coast.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд ф**о**лоу ðэ коуст]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "coast",
+      "meaning": "побережье",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "coast"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "coast"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "coast"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "coast"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "coast"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "coast"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "coast"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "coast"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "safety",
+      "meaning": "безопасность",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "safety"
+        }
+      ]
+    },
+    {
+      "word": "rule",
+      "meaning": "правило",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "rules"
+        }
+      ]
+    },
+    {
+      "word": "plan",
+      "meaning": "план",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "plan"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "fleet",
+      "meaning": "флотилия",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "fleet"
+        }
+      ]
+    },
+    {
+      "word": "fairway",
+      "meaning": "фарватер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "fairway"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "fairway"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "fairway"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "fairway"
+        }
+      ]
+    },
+    {
+      "word": "instructions",
+      "meaning": "указания",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "instructions"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "instructions"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "instructions"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "board"
+        }
+      ]
+    }
+  ]
+}

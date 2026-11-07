@@ -1,0 +1,393 @@
+{
+  "spec": 3,
+  "verb": "be",
+  "forms": {
+    "base": [
+      {
+        "word": "be",
+        "transcription": "[би:]"
+      }
+    ],
+    "past": [
+      {
+        "word": "was",
+        "transcription": "[wоз]"
+      },
+      {
+        "word": "were",
+        "transcription": "[wœ:]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "been",
+        "transcription": "[би:н]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "being",
+        "transcription": "[б**и**:иŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "is",
+        "transcription": "[из]"
+      },
+      {
+        "word": "am",
+        "transcription": "[æм]"
+      },
+      {
+        "word": "are",
+        "transcription": "[а:]"
+      }
+    ]
+  },
+  "meaning": "быть, находиться",
+  "notes": "неправильный глагол; связка, без прямого дополнения; пассив отсутствует",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "was, were",
+        "examples": [
+          {
+            "ours": "Вчера яхта была в марине.",
+            "thought": "Вчера [известная] яхта была в [известной] марине.",
+            "english": "Yesterday the yacht was in the marina.",
+            "transcription": "[й**э**стэдэй ðэ йот wоз ин ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Вчера мы не были на борту.",
+            "thought": "Мы были не на борту вчера.",
+            "english": "We were not on board yesterday.",
+            "transcription": "[wи: wœ: нот он бо:д й**э**стэдэй]"
+          },
+          {
+            "ours": "Ты вчера был у штурвала?",
+            "thought": "Был ты у [известного] штурвала вчера?",
+            "english": "Were you at the helm yesterday?",
+            "transcription": "[wœ: ю: æт ðэ хелм й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am, is, are",
+        "examples": [
+          {
+            "ours": "Капитан на палубе.",
+            "thought": "[Известный] шкипер есть на палубе.",
+            "english": "The skipper is on deck.",
+            "transcription": "[ðэ ск**и**пэ из он дэк]"
+          },
+          {
+            "ours": "Парус не готов.",
+            "thought": "[Известный] парус есть не готовый.",
+            "english": "The sail is not ready.",
+            "transcription": "[ðэ сэйл из нот р**э**ди]"
+          },
+          {
+            "ours": "Вы в гавани?",
+            "thought": "Есть вы в [известной] гавани?",
+            "english": "Are you in the harbor?",
+            "transcription": "[а: ю: ин ðэ х**а**:бэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be",
+        "examples": [
+          {
+            "ours": "Завтра команда будет на борту.",
+            "thought": "Завтра [известная] команда будет быть на борту.",
+            "english": "Tomorrow the crew will be on board.",
+            "transcription": "[тэм**о**роу ðэ кру: wил би: он бо:д]"
+          },
+          {
+            "ours": "Яхта не будет в марине завтра.",
+            "thought": "[Известная] яхта будет не быть в [известной] марине завтра.",
+            "english": "The yacht will not be in the marina tomorrow.",
+            "transcription": "[ðэ йот wил нот би: ин ðэ мэр**и**:нэ тэм**о**роу]"
+          },
+          {
+            "ours": "Ты будешь на палубе завтра?",
+            "thought": "Будешь ты быть на палубе завтра?",
+            "english": "Will you be on deck tomorrow?",
+            "transcription": "[wил ю: би: он дэк тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been",
+        "examples": [
+          {
+            "ours": "К тому моменту мы уже побывали в гавани.",
+            "thought": "К тогда мы имели уже быть в [известной] гавани.",
+            "english": "By then we had already been in the harbor.",
+            "transcription": "[бай ðэн wи: хæд о:лр**э**ди би:н ин ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "К тому моменту капитан ещё не был на борту.",
+            "thought": "К тогда [известный] шкипер имел не быть на борту ещё.",
+            "english": "By then the skipper had not been on board yet.",
+            "transcription": "[бай ðэн ðэ ск**и**пэ хæд нот би:н он бо:д йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been",
+        "examples": [
+          {
+            "ours": "Я уже был на этой яхте.",
+            "thought": "Я имею уже быть на этой яхте.",
+            "english": "I have already been on this yacht.",
+            "transcription": "[ай хæв о:лр**э**ди би:н он ðис йот]"
+          },
+          {
+            "ours": "Ты уже был в этой марине?",
+            "thought": "Имеешь ты быть в эту марину уже?",
+            "english": "Have you been to this marina yet?",
+            "transcription": "[хæв ю: би:н ту ðис мэр**и**:нэ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been",
+        "examples": [
+          {
+            "ours": "К завтрашнему дню мы пробудем в море неделю.",
+            "thought": "К завтра мы будем иметь быть в море целую [какую-то] неделю.",
+            "english": "By tomorrow we will have been at sea for a week.",
+            "transcription": "[бай тэм**о**роу wи: wил хæв би:н æт си: фо: э wи:к]"
+          },
+          {
+            "ours": "К пятнице яхта пробудет в гавани месяц?",
+            "thought": "Будет [известная] яхта иметь быть в гавани целый [какой-то] месяц к пятнице?",
+            "english": "Will the yacht have been in harbor for a month by Friday?",
+            "transcription": "[wил ðэ йот хæв би:н ин х**а**:бэ фо: э манθ бай фр**а**йдэй]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "В значении местонахождения или состояния be обычно не употребляется в длительной форме; временное поведение возможно отдельно: The skipper is being patient."
+    },
+    "perfect_continuous": {
+      "not_possible": "Для обозначения местонахождения или состояния обычно используют perfect: We have been at sea for a week."
+    }
+  },
+  "passive": {
+    "not_possible": "Связочный be не принимает прямого дополнения и не образует собственного пассива. Для действия используют другой глагол: The sail is raised."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что капитан будет на борту.",
+        "thought": "Я знал, [известный] шкипер будет быть на борту.",
+        "english": "I knew the skipper would be on board.",
+        "transcription": "[ай нью: ðэ ск**и**пэ wуд би: он бо:д]"
+      },
+      {
+        "ours": "Мы думали, что яхта не будет в гавани.",
+        "thought": "Мы думали, [известная] яхта будет не быть в [известной] гавани.",
+        "english": "We thought the yacht would not be in the harbor.",
+        "transcription": "[wи: θо:т ðэ йот wуд нот би: ин ðэ х**а**:бэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "board"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "board"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "helm",
+      "meaning": "штурвал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "helm"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "команда",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "week"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "month"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "Friday"
+        }
+      ]
+    }
+  ]
+}

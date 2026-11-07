@@ -1,0 +1,918 @@
+{
+  "spec": 3,
+  "verb": "pay",
+  "forms": {
+    "base": [
+      {
+        "word": "pay",
+        "transcription": "[пэй]"
+      }
+    ],
+    "past": [
+      {
+        "word": "paid",
+        "transcription": "[пэйд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "paid",
+        "transcription": "[пэйд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "paying",
+        "transcription": "[п**э**йиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "pays",
+        "transcription": "[пэйз]"
+      }
+    ]
+  },
+  "meaning": "платить, оплачивать",
+  "notes": "неправильный глагол; переходный и с предлогом for; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "paid",
+        "examples": [
+          {
+            "ours": "Вчера мы оплатили сбор марины.",
+            "thought": "Вчера мы оплатили [известный] марины сбор.",
+            "english": "Yesterday we paid the marina fee.",
+            "transcription": "[й**э**стэдэй wи: пэйд ðэ мэр**и**:нэ фи:]"
+          },
+          {
+            "ours": "Он не заплатил за топливо.",
+            "thought": "Он [сделал] не платить за топливо.",
+            "english": "He didn't pay for fuel.",
+            "transcription": "[хи: диднт пэй фо: фь**ю**:эл]"
+          },
+          {
+            "ours": "Ты оплатил ремонт до гонки?",
+            "thought": "[Сделал] ты платить за ремонты перед [известной] гонкой?",
+            "english": "Did you pay for repairs before the race?",
+            "transcription": "[дид ю: пэй фо: рип**э**эз биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "pay, pays",
+        "examples": [
+          {
+            "ours": "Владелец каждый месяц платит за стоянку.",
+            "thought": "[Известный] владелец платит за [известную] стоянку каждый месяц.",
+            "english": "The owner pays for the berth every month.",
+            "transcription": "[ðэ **о**унэ пэйз фо: ðэ бœ:θ **э**ври манθ]"
+          },
+          {
+            "ours": "Он не оплачивает счета марины.",
+            "thought": "Он [делает] не оплачивать [известные] марины счета.",
+            "english": "He doesn't pay the marina bills.",
+            "transcription": "[хи: дазнт пэй ðэ мэр**и**:нэ билз]"
+          },
+          {
+            "ours": "Ты платишь за топливо картой?",
+            "thought": "[Делаешь] ты платить за топливо по карте?",
+            "english": "Do you pay for fuel by card?",
+            "transcription": "[ду: ю: пэй фо: фь**ю**:эл бай ка:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will pay",
+        "examples": [
+          {
+            "ours": "Завтра мы оплатим сбор за швартовку.",
+            "thought": "Завтра мы будем оплачивать [известный] швартовочный сбор.",
+            "english": "Tomorrow we will pay the mooring fee.",
+            "transcription": "[тэм**о**роу wи: wил пэй ðэ м**у**эриŋ фи:]"
+          },
+          {
+            "ours": "Он не будет оплачивать ремонт.",
+            "thought": "Он будет не платить за ремонты.",
+            "english": "He won't pay for repairs.",
+            "transcription": "[хи: wоунт пэй фо: рип**э**эз]"
+          },
+          {
+            "ours": "Ты оплатишь счёт до выхода?",
+            "thought": "Будешь ты оплачивать [известный] счёт перед выходом?",
+            "english": "Will you pay the bill before departure?",
+            "transcription": "[wил ю: пэй ðэ бил биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were paying",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день оплачивали счета.",
+            "thought": "Вчера мы были оплачивающими [известные] счета весь день.",
+            "english": "Yesterday we were paying the bills all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: п**э**йиŋ ðэ билз о:л дэй]"
+          },
+          {
+            "ours": "Ты оплачивал сбор, когда я пришёл?",
+            "thought": "Был ты оплачивающим [известный] сбор, когда я пришёл?",
+            "english": "Were you paying the fee when I came?",
+            "transcription": "[wœ: ю: п**э**йиŋ ðэ фи: wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are paying",
+        "examples": [
+          {
+            "ours": "Сейчас мы оплачиваем ремонт.",
+            "thought": "Мы являемся платящими за ремонты сейчас.",
+            "english": "We are paying for repairs now.",
+            "transcription": "[wи: а: п**э**йиŋ фо: рип**э**эз нау]"
+          },
+          {
+            "ours": "Ты сейчас оплачиваешь счёт марины?",
+            "thought": "Являешься ты оплачивающим [известный] марины счёт сейчас?",
+            "english": "Are you paying the marina bill now?",
+            "transcription": "[а: ю: п**э**йиŋ ðэ мэр**и**:нэ бил нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be paying",
+        "examples": [
+          {
+            "ours": "Завтра мы будем оплачивать счета марины.",
+            "thought": "Завтра мы будем быть оплачивающими [известные] марины счета.",
+            "english": "Tomorrow we will be paying the marina bills.",
+            "transcription": "[тэм**о**роу wи: wил би: п**э**йиŋ ðэ мэр**и**:нэ билз]"
+          },
+          {
+            "ours": "Ты будешь платить за топливо до выхода?",
+            "thought": "Будешь ты быть платящим за топливо перед выходом?",
+            "english": "Will you be paying for fuel before departure?",
+            "transcription": "[wил ю: би: п**э**йиŋ фо: фь**ю**:эл биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had paid",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже оплатили швартовку.",
+            "thought": "К пяти вчера мы имели уже оплаченным [известный] швартовочный сбор.",
+            "english": "By five yesterday we had already paid the mooring fee.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди пэйд ðэ м**у**эриŋ фи:]"
+          },
+          {
+            "ours": "Ты оплатил ремонт до гонки?",
+            "thought": "Имел ты оплаченным за ремонты перед [известной] гонкой?",
+            "english": "Had you paid for repairs before the race?",
+            "transcription": "[хæд ю: пэйд фо: рип**э**эз биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has paid",
+        "examples": [
+          {
+            "ours": "Мы уже оплатили счёт марины.",
+            "thought": "Мы имеем уже оплаченным [известный] марины счёт.",
+            "english": "We have already paid the marina bill.",
+            "transcription": "[wи: хæв о:лр**э**ди пэйд ðэ мэр**и**:нэ бил]"
+          },
+          {
+            "ours": "Ты уже заплатил за топливо?",
+            "thought": "Имеешь ты уже оплаченным за топливо?",
+            "english": "Have you already paid for fuel?",
+            "transcription": "[хæв ю: о:лр**э**ди пэйд фо: фь**ю**:эл]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have paid",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже оплатим счёт марины.",
+            "thought": "К пяти завтра мы будем иметь уже оплаченным [известный] марины счёт.",
+            "english": "By five tomorrow we will have already paid the marina bill.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди пэйд ðэ мэр**и**:нэ бил]"
+          },
+          {
+            "ours": "Ты оплатишь ремонт до гонки?",
+            "thought": "Будешь ты иметь оплаченным за ремонты перед [известной] гонкой?",
+            "english": "Will you have paid for repairs before the race?",
+            "transcription": "[wил ю: хæв пэйд фо: рип**э**эз биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been paying",
+        "examples": [
+          {
+            "ours": "Мы уже два года платили за стоянку, когда он приехал.",
+            "thought": "Мы имели быть платящими за [известную] стоянку целых два года, когда он приехал.",
+            "english": "We had been paying for the berth for two years when he arrived.",
+            "transcription": "[wи: хæд би:н п**э**йиŋ фо: ðэ бœ:θ фо: ту: йиэз wэн хи: эр**а**йвд]"
+          },
+          {
+            "ours": "Ты уже два года платил за стоянку, когда мы приехали?",
+            "thought": "Имел ты быть платящим за [известную] стоянку целых два года, когда мы приехали?",
+            "english": "Had you been paying for the berth for two years when we arrived?",
+            "transcription": "[хæд ю: би:н п**э**йиŋ фо: ðэ бœ:θ фо: ту: йиэз wэн wи: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been paying",
+        "examples": [
+          {
+            "ours": "Мы уже два года платим за стоянку.",
+            "thought": "Мы имеем быть платящими за [известную] стоянку целых два года.",
+            "english": "We have been paying for the berth for two years.",
+            "transcription": "[wи: хæв би:н п**э**йиŋ фо: ðэ бœ:θ фо: ту: йиэз]"
+          },
+          {
+            "ours": "Ты уже два года платишь сборы марины?",
+            "thought": "Имеешь ты быть оплачивающим марины сборы целых два года?",
+            "english": "Have you been paying marina fees for two years?",
+            "transcription": "[хæв ю: би:н п**э**йиŋ мэр**и**:нэ фи:з фо: ту: йиэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been paying",
+        "examples": [
+          {
+            "ours": "К июню мы будем платить за стоянку уже два года.",
+            "thought": "К июню мы будем иметь быть платящими за [известную] стоянку целых два года.",
+            "english": "By June we will have been paying for the berth for two years.",
+            "transcription": "[бай джу:н wи: wил хæв би:н п**э**йиŋ фо: ðэ бœ:θ фо: ту: йиэз]"
+          },
+          {
+            "ours": "К июню ты будешь платить сборы марины уже два года?",
+            "thought": "Будешь ты иметь быть оплачивающим марины сборы целых два года к июню?",
+            "english": "Will you have been paying marina fees for two years by June?",
+            "transcription": "[wил ю: хæв би:н п**э**йиŋ мэр**и**:нэ фи:з фо: ту: йиэз бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were paid",
+        "examples": [
+          {
+            "ours": "Вчера оплатили счёт марины.",
+            "thought": "[Известный] марины счёт был оплачен вчера.",
+            "english": "The marina bill was paid yesterday.",
+            "transcription": "[ðэ мэр**и**:нэ бил wоз пэйд й**э**стэдэй]"
+          },
+          {
+            "ours": "Сбор оплатили до выхода?",
+            "thought": "Был [известный] сбор оплачен перед выходом?",
+            "english": "Was the fee paid before departure?",
+            "transcription": "[wоз ðэ фи: пэйд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are paid",
+        "examples": [
+          {
+            "ours": "Сборы за стоянку оплачивают каждый месяц.",
+            "thought": "Стояночные сборы есть оплачены каждый месяц.",
+            "english": "Berth fees are paid every month.",
+            "transcription": "[бœ:θ фи:з а: пэйд **э**ври манθ]"
+          },
+          {
+            "ours": "Счёт оплачивают картой?",
+            "thought": "Есть [известный] счёт оплачен по карте?",
+            "english": "Is the bill paid by card?",
+            "transcription": "[из ðэ бил пэйд бай ка:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be paid",
+        "examples": [
+          {
+            "ours": "Завтра оплатят ремонт.",
+            "thought": "[Известные] ремонты будут быть оплачены за завтра.",
+            "english": "The repairs will be paid for tomorrow.",
+            "transcription": "[ðэ рип**э**эз wил би: пэйд фо: тэм**о**роу]"
+          },
+          {
+            "ours": "Сбор оплатят до выхода?",
+            "thought": "Будет [известный] сбор быть оплачен перед выходом?",
+            "english": "Will the fee be paid before departure?",
+            "transcription": "[wил ðэ фи: би: пэйд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being paid",
+        "examples": [
+          {
+            "ours": "Вчера счета оплачивали весь день.",
+            "thought": "Вчера [известные] счета были «долго» оплачены весь день.",
+            "english": "Yesterday the bills were being paid all day.",
+            "transcription": "[й**э**стэдэй ðэ билз wœ: б**и**:иŋ пэйд о:л дэй]"
+          },
+          {
+            "ours": "Сбор оплачивали, когда ты пришёл?",
+            "thought": "Был [известный] сбор «долго» оплачен, когда ты пришёл?",
+            "english": "Was the fee being paid when you came?",
+            "transcription": "[wоз ðэ фи: б**и**:иŋ пэйд wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being paid",
+        "examples": [
+          {
+            "ours": "Сейчас счета марины оплачивают.",
+            "thought": "[Известные] марины счета есть «долго» оплачены сейчас.",
+            "english": "The marina bills are being paid now.",
+            "transcription": "[ðэ мэр**и**:нэ билз а: б**и**:иŋ пэйд нау]"
+          },
+          {
+            "ours": "Сейчас оплачивают сбор?",
+            "thought": "Есть [известный] сбор «долго» оплачен сейчас?",
+            "english": "Is the fee being paid now?",
+            "transcription": "[из ðэ фи: б**и**:иŋ пэйд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be paying",
+        "examples": [
+          {
+            "ours": "Завтра они будут оплачивать счета марины.",
+            "thought": "Завтра они будут быть оплачивающими [известные] марины счета.",
+            "english": "Tomorrow they will be paying the marina bills.",
+            "transcription": "[тэм**о**роу ðэй wил би: п**э**йиŋ ðэ мэр**и**:нэ билз]"
+          },
+          {
+            "ours": "Они будут оплачивать сбор до выхода?",
+            "thought": "Будут они быть оплачивающими [известный] сбор перед выходом?",
+            "english": "Will they be paying the fee before departure?",
+            "transcription": "[wил ðэй би: п**э**йиŋ ðэ фи: биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been paid",
+        "examples": [
+          {
+            "ours": "Вчера к пяти счёт марины уже оплатили.",
+            "thought": "К пяти вчера [известный] марины счёт имел уже быть оплачен.",
+            "english": "By five yesterday the marina bill had already been paid.",
+            "transcription": "[бай файв й**э**стэдэй ðэ мэр**и**:нэ бил хæд о:лр**э**ди би:н пэйд]"
+          },
+          {
+            "ours": "Сбор оплатили до выхода?",
+            "thought": "Имел [известный] сбор быть оплачен перед выходом?",
+            "english": "Had the fee been paid before departure?",
+            "transcription": "[хæд ðэ фи: би:н пэйд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been paid",
+        "examples": [
+          {
+            "ours": "Счета марины уже оплачены.",
+            "thought": "[Известные] марины счета имеют уже быть оплачены.",
+            "english": "The marina bills have already been paid.",
+            "transcription": "[ðэ мэр**и**:нэ билз хæв о:лр**э**ди би:н пэйд]"
+          },
+          {
+            "ours": "Сбор уже оплатили?",
+            "thought": "Имеет [известный] сбор уже быть оплачен?",
+            "english": "Has the fee already been paid?",
+            "transcription": "[хæз ðэ фи: о:лр**э**ди би:н пэйд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been paid",
+        "examples": [
+          {
+            "ours": "К пяти завтра счёт уже оплатят.",
+            "thought": "К пяти завтра [известный] счёт будет уже иметь быть оплачен.",
+            "english": "By five tomorrow the bill will already have been paid.",
+            "transcription": "[бай файв тэм**о**роу ðэ бил wил о:лр**э**ди хæв би:н пэйд]"
+          },
+          {
+            "ours": "Сбор оплатят до выхода?",
+            "thought": "Будет [известный] сбор иметь быть оплачен перед выходом?",
+            "english": "Will the fee have been paid before departure?",
+            "transcription": "[wил ðэ фи: хæв би:н пэйд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The bill has been paid. Или: They have been paying marina fees."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они оплатят счёт.",
+        "thought": "[Известный] капитан сказал, что они будут оплачивать [известный] счёт.",
+        "english": "The captain said that they would pay the bill.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд пэй ðэ бил]"
+      },
+      {
+        "ours": "Я знал, что ты не будешь платить за топливо.",
+        "thought": "Я знал, что ты будешь не платить за топливо.",
+        "english": "I knew that you wouldn't pay for fuel.",
+        "transcription": "[ай нью: ðæт ю: wуднт пэй фо: фь**ю**:эл]"
+      },
+      {
+        "ours": "Капитан сказал, что мы оплатим сбор.",
+        "thought": "[Известный] капитан сказал, что мы будем оплачивать [известный] сбор.",
+        "english": "The captain said that we would pay the fee.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд пэй ðэ фи:]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "fee",
+      "meaning": "сбор",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "fee"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "fee"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "fee"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "fee"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "fees"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "fees"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "fee"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "fees"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "fee"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "fee"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "fee"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "fee"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "fee"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "fee"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "fee"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "fee"
+        }
+      ]
+    },
+    {
+      "word": "fuel",
+      "meaning": "топливо",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "fuel"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "repairs"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "owner",
+      "meaning": "владелец",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "owner"
+        }
+      ]
+    },
+    {
+      "word": "berth",
+      "meaning": "место стоянки",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "berth"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Berth"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "month"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "month"
+        }
+      ]
+    },
+    {
+      "word": "bill",
+      "meaning": "счёт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "bills"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "bill"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "bills"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "bill"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "bills"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "bill"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "bill"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "bill"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "bill"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "bills"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "bills"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "bills"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "bill"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "bills"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "bill"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "bill"
+        }
+      ]
+    },
+    {
+      "word": "card",
+      "meaning": "карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "card"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "card"
+        }
+      ]
+    },
+    {
+      "word": "mooring",
+      "meaning": "швартовка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "mooring"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "mooring"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "выход",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "spec": 3,
+  "verb": "call",
+  "forms": {
+    "base": [
+      {
+        "word": "call",
+        "transcription": "[ко:л]"
+      }
+    ],
+    "past": [
+      {
+        "word": "called",
+        "transcription": "[ко:лд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "called",
+        "transcription": "[ко:лд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "calling",
+        "transcription": "[к**о**:лиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "calls",
+        "transcription": "[ко:лз]"
+      }
+    ]
+  },
+  "meaning": "вызывать, звонить, называть",
+  "notes": "правильный глагол; call может иметь прямое дополнение и образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "called",
+        "examples": [
+          {
+            "ours": "Вчера шкипер вызвал марину.",
+            "thought": "Вчера [известный] шкипер вызвал [известную] марину.",
+            "english": "Yesterday the skipper called the marina.",
+            "transcription": "[й**э**стэдэй ðэ ск**и**пэ ко:лд ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Ты вызывал береговую охрану?",
+            "thought": "[Сделал] ты вызывать [известную] береговую охрану?",
+            "english": "Did you call the coastguard?",
+            "transcription": "[дид ю: ко:л ðэ к**о**устга:д]"
+          },
+          {
+            "ours": "Она не позвонила механику.",
+            "thought": "Она [сделала] не звонить [известному] механику.",
+            "english": "She did not call the mechanic.",
+            "transcription": "[ши: дид нот ко:л ðэ мик**æ**ник]"
+          }
+        ]
+      },
+      "present": {
+        "form": "call, calls",
+        "examples": [
+          {
+            "ours": "Шкипер каждое утро вызывает марину.",
+            "thought": "[Известный] шкипер вызывает [известную] марину каждое утро.",
+            "english": "The skipper calls the marina every morning.",
+            "transcription": "[ðэ ск**и**пэ ко:лз ðэ мэр**и**:нэ **э**ври м**о**:ниŋ]"
+          },
+          {
+            "ours": "Ты звонишь владельцу яхты?",
+            "thought": "[Делаешь] ты звонить [известному] яхтенному владельцу?",
+            "english": "Do you call the yacht owner?",
+            "transcription": "[ду: ю: ко:л ðэ йот **о**унэ]"
+          },
+          {
+            "ours": "Мы не называем эту лодку яхтой.",
+            "thought": "Мы [делаем] не называть эту лодку [какой-то] яхтой.",
+            "english": "We do not call this boat a yacht.",
+            "transcription": "[wи: ду: нот ко:л ðис боут э йот]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will call",
+        "examples": [
+          {
+            "ours": "Завтра я позвоню механику.",
+            "thought": "Завтра я буду звонить [известному] механику.",
+            "english": "Tomorrow I will call the mechanic.",
+            "transcription": "[тэм**о**роу ай wил ко:л ðэ мик**æ**ник]"
+          },
+          {
+            "ours": "Ты вызовешь марину по радио?",
+            "thought": "Будешь ты вызывать [известную] марину по радио?",
+            "english": "Will you call the marina by radio?",
+            "transcription": "[wил ю: ко:л ðэ мэр**и**:нэ бай р**э**йдиоу]"
+          },
+          {
+            "ours": "Она не будет вызывать помощь сегодня.",
+            "thought": "Она будет не звать на помощь сегодня.",
+            "english": "She will not call for help today.",
+            "transcription": "[ши: wил нот ко:л фо: хэлп тэд**э**й]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were calling",
+        "examples": [
+          {
+            "ours": "Вчера утром он вызывал марину по радио.",
+            "thought": "Вчера утром он был вызывающим [известную] марину по радио.",
+            "english": "Yesterday morning he was calling the marina by radio.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ хи: wоз к**о**:лиŋ ðэ мэр**и**:нэ бай р**э**йдиоу]"
+          },
+          {
+            "ours": "Ты вызывал береговую охрану, когда я вошёл?",
+            "thought": "Был ты вызывающим [известную] береговую охрану, когда я вошёл?",
+            "english": "Were you calling the coastguard when I entered?",
+            "transcription": "[wœ: ю: к**о**:лиŋ ðэ к**о**устга:д wэн ай **э**нтэд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are calling",
+        "examples": [
+          {
+            "ours": "Я сейчас звоню механику.",
+            "thought": "Я являюсь звонящим [известному] механику сейчас.",
+            "english": "I am calling the mechanic now.",
+            "transcription": "[ай æм к**о**:лиŋ ðэ мик**æ**ник нау]"
+          },
+          {
+            "ours": "Шкипер сейчас вызывает марину?",
+            "thought": "Является [известный] шкипер вызывающим [известную] марину сейчас?",
+            "english": "Is the skipper calling the marina now?",
+            "transcription": "[из ðэ ск**и**пэ к**о**:лиŋ ðэ мэр**и**:нэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be calling",
+        "examples": [
+          {
+            "ours": "Завтра утром я буду звонить владельцам яхт.",
+            "thought": "Завтра утром я буду быть звонящим яхтенным владельцам.",
+            "english": "Tomorrow morning I will be calling yacht owners.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ай wил би: к**о**:лиŋ йот **о**унэз]"
+          },
+          {
+            "ours": "Ты будешь вызывать другие лодки днём?",
+            "thought": "Будешь ты быть вызывающим [известные] другие лодки этим днём?",
+            "english": "Will you be calling the other boats this afternoon?",
+            "transcription": "[wил ю: би: к**о**:лиŋ ðи **а**ðэ боутс ðис а:фтэн**у**:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had called",
+        "examples": [
+          {
+            "ours": "К полудню мы уже вызвали марину.",
+            "thought": "К полудню мы имели уже вызванной [известную] марину.",
+            "english": "By noon we had already called the marina.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди ко:лд ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "К пяти она вызвала береговую охрану?",
+            "thought": "Имела она вызванной [известную] береговую охрану к пяти?",
+            "english": "Had she called the coastguard by five?",
+            "transcription": "[хæд ши: ко:лд ðэ к**о**устга:д бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has called",
+        "examples": [
+          {
+            "ours": "Я уже позвонил механику.",
+            "thought": "Я имею уже вызванным [известного] механика.",
+            "english": "I have already called the mechanic.",
+            "transcription": "[ай хæв о:лр**э**ди ко:лд ðэ мик**æ**ник]"
+          },
+          {
+            "ours": "Шкипер уже вызвал марину?",
+            "thought": "Имеет [известный] шкипер вызванной [известную] марину уже?",
+            "english": "Has the skipper called the marina yet?",
+            "transcription": "[хæз ðэ ск**и**пэ ко:лд ðэ мэр**и**:нэ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have called",
+        "examples": [
+          {
+            "ours": "К полудню я позвоню владельцу.",
+            "thought": "К полудню я буду иметь вызванным [известного] владельца.",
+            "english": "By noon I will have called the owner.",
+            "transcription": "[бай ну:н ай wил хæв ко:лд ðи **о**унэ]"
+          },
+          {
+            "ours": "К пяти она вызовет береговую охрану?",
+            "thought": "Будет она иметь вызванной [известную] береговую охрану к пяти?",
+            "english": "Will she have called the coastguard by five?",
+            "transcription": "[wил ши: хæв ко:лд ðэ к**о**устга:д бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been calling",
+        "examples": [
+          {
+            "ours": "Мы целый час вызывали марину, прежде чем ответили.",
+            "thought": "Мы имели быть вызывающими [известную] марину целый [какой-то] час перед они ответили.",
+            "english": "We had been calling the marina for an hour before they answered.",
+            "transcription": "[wи: хæд би:н к**о**:лиŋ ðэ мэр**и**:нэ фо: эн **а**уэ биф**о**: ðэй **а**:нсэд]"
+          },
+          {
+            "ours": "Вы два часа вызывали лодку до рассвета?",
+            "thought": "Имели вы быть вызывающими [известную] лодку целых два часа перед рассветом?",
+            "english": "Had you been calling the boat for two hours before dawn?",
+            "transcription": "[хæд ю: би:н к**о**:лиŋ ðэ боут фо: ту: **а**уэз биф**о**: до:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been calling",
+        "examples": [
+          {
+            "ours": "Мы уже час вызываем марину без ответа.",
+            "thought": "Мы имеем быть вызывающими [известную] марину целый [какой-то] час без [какого-то] ответа.",
+            "english": "We have been calling the marina for an hour without a reply.",
+            "transcription": "[wи: хæв би:н к**о**:лиŋ ðэ мэр**и**:нэ фо: эн **а**уэ wиð**а**ут э рипл**а**й]"
+          },
+          {
+            "ours": "Ты уже два часа вызываешь лодку?",
+            "thought": "Имеешь ты быть вызывающим [известную] лодку целых два часа?",
+            "english": "Have you been calling the boat for two hours?",
+            "transcription": "[хæв ю: би:н к**о**:лиŋ ðэ боут фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been calling",
+        "examples": [
+          {
+            "ours": "К пяти мы будем вызывать марину уже два часа.",
+            "thought": "К пяти мы будем иметь быть вызывающими [известную] марину целых два часа.",
+            "english": "By five we will have been calling the marina for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н к**о**:лиŋ ðэ мэр**и**:нэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь вызывать лодку уже час?",
+            "thought": "Будешь ты иметь быть вызывающим [известную] лодку целый [какой-то] час к полудню?",
+            "english": "Will you have been calling the boat for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н к**о**:лиŋ ðэ боут фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were called",
+        "examples": [
+          {
+            "ours": "Вчера вызвали береговую охрану.",
+            "thought": "[Известная] береговая охрана была вызвана вчера.",
+            "english": "The coastguard was called yesterday.",
+            "transcription": "[ðэ к**о**устга:д wоз ко:лд й**э**стэдэй]"
+          },
+          {
+            "ours": "Механику позвонили до выхода?",
+            "thought": "Был [известный] механик вызван перед выходом?",
+            "english": "Was the mechanic called before departure?",
+            "transcription": "[wоз ðэ мик**æ**ник ко:лд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are called",
+        "examples": [
+          {
+            "ours": "Этот тип паруса называется гротом.",
+            "thought": "Этот тип от паруса есть назван [каким-то] гротом.",
+            "english": "This type of sail is called a mainsail.",
+            "transcription": "[ðис тайп ов сэйл из ко:лд э м**э**йнсэйл]"
+          },
+          {
+            "ours": "Эти лодки называют килевыми?",
+            "thought": "Есть эти лодки названы килевыми лодками?",
+            "english": "Are these boats called keelboats?",
+            "transcription": "[а: ðи:з боутс ко:лд к**и**:лбоутс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be called",
+        "examples": [
+          {
+            "ours": "Завтра вызовут механика.",
+            "thought": "[Известный] механик будет быть вызван завтра.",
+            "english": "The mechanic will be called tomorrow.",
+            "transcription": "[ðэ мик**æ**ник wил би: ко:лд тэм**о**роу]"
+          },
+          {
+            "ours": "Если мотор сломается, вызовут береговую охрану?",
+            "thought": "Будет [известная] береговая охрана быть вызвана, если [известный] мотор ломается?",
+            "english": "Will the coastguard be called if the engine fails?",
+            "transcription": "[wил ðэ к**о**устга:д би: ко:лд иф ðи **э**нджин фэйлз]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being called",
+        "examples": [
+          {
+            "ours": "Когда я вошёл, марину вызывали по радио.",
+            "thought": "[Известная] марина была «долго» вызвана по радио, когда я вошёл.",
+            "english": "The marina was being called by radio when I entered.",
+            "transcription": "[ðэ мэр**и**:нэ wоз б**и**:иŋ ко:лд бай р**э**йдиоу wэн ай **э**нтэд]"
+          },
+          {
+            "ours": "Когда ты пришёл, вызывали другие лодки?",
+            "thought": "Были [известные] другие лодки «долго» вызваны, когда ты пришёл?",
+            "english": "Were the other boats being called when you arrived?",
+            "transcription": "[wœ: ðи **а**ðэ боутс б**и**:иŋ ко:лд wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being called",
+        "examples": [
+          {
+            "ours": "Марину сейчас вызывают по радио.",
+            "thought": "[Известная] марина есть «долго» вызвана по радио сейчас.",
+            "english": "The marina is being called by radio now.",
+            "transcription": "[ðэ мэр**и**:нэ из б**и**:иŋ ко:лд бай р**э**йдиоу нау]"
+          },
+          {
+            "ours": "Другие лодки сейчас вызывают?",
+            "thought": "Есть [известные] другие лодки «долго» вызваны сейчас?",
+            "english": "Are the other boats being called now?",
+            "transcription": "[а: ðи **а**ðэ боутс б**и**:иŋ ко:лд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be calling",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут вызывать соседние лодки.",
+            "thought": "Завтра утром они будут быть вызывающими соседние лодки.",
+            "english": "Tomorrow morning they will be calling nearby boats.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: к**о**:лиŋ н**и**эбай боутс]"
+          },
+          {
+            "ours": "Они будут звонить владельцам днём?",
+            "thought": "Будут они быть звонящими [известным] владельцам этим днём?",
+            "english": "Will they be calling the owners this afternoon?",
+            "transcription": "[wил ðэй би: к**о**:лиŋ ðи **о**унэз ðис а:фтэн**у**:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been called",
+        "examples": [
+          {
+            "ours": "К полудню механика уже вызвали.",
+            "thought": "К полудню [известный] механик имел уже быть вызван.",
+            "english": "By noon the mechanic had already been called.",
+            "transcription": "[бай ну:н ðэ мик**æ**ник хæд о:лр**э**ди би:н ко:лд]"
+          },
+          {
+            "ours": "Береговую охрану вызвали к пяти?",
+            "thought": "Имела [известная] береговая охрана быть вызвана к пяти?",
+            "english": "Had the coastguard been called by five?",
+            "transcription": "[хæд ðэ к**о**устга:д би:н ко:лд бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been called",
+        "examples": [
+          {
+            "ours": "Механику уже позвонили.",
+            "thought": "[Известный] механик имеет уже быть вызван.",
+            "english": "The mechanic has already been called.",
+            "transcription": "[ðэ мик**æ**ник хæз о:лр**э**ди би:н ко:лд]"
+          },
+          {
+            "ours": "Береговую охрану уже вызвали?",
+            "thought": "Имеет [известная] береговая охрана быть вызвана уже?",
+            "english": "Has the coastguard been called yet?",
+            "transcription": "[хæз ðэ к**о**устга:д би:н ко:лд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been called",
+        "examples": [
+          {
+            "ours": "К полудню механику уже позвонят.",
+            "thought": "К полудню [известный] механик будет иметь быть вызван.",
+            "english": "By noon the mechanic will have been called.",
+            "transcription": "[бай ну:н ðэ мик**æ**ник wил хæв би:н ко:лд]"
+          },
+          {
+            "ours": "Береговую охрану вызовут к пяти?",
+            "thought": "Будет [известная] береговая охрана иметь быть вызвана к пяти?",
+            "english": "Will the coastguard have been called by five?",
+            "transcription": "[wил ðэ к**о**устга:д хæв би:н ко:лд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been calling the marina."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она вызовет марину.",
+        "thought": "Я знал, она будет вызывать [известную] марину.",
+        "english": "I knew she would call the marina.",
+        "transcription": "[ай нью: ши: wуд ко:л ðэ мэр**и**:нэ]"
+      },
+      {
+        "ours": "Он думал, что мы не позвоним механику.",
+        "thought": "Он думал, мы будем не вызывать [известного] механика.",
+        "english": "He thought we would not call the mechanic.",
+        "transcription": "[хи: θо:т wи: wуд нот ко:л ðэ мик**æ**ник]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "coastguard",
+      "meaning": "береговая охрана",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "coastguard"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "coastguard"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "coastguard"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "coastguard"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "coastguard"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "coastguard"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "coastguard"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "coastguard"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "coastguard"
+        }
+      ]
+    },
+    {
+      "word": "mechanic",
+      "meaning": "механик",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "mechanic"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "mechanic"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "mechanic"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "mechanic"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "mechanic"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "mechanic"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "mechanic"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "mechanic"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "mechanic"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "mechanic"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "owner",
+      "meaning": "владелец",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "owners"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "owners"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "boats"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "help",
+      "meaning": "помощь",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "help"
+        }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "meaning": "время после полудня",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "afternoon"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "afternoon"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "reply",
+      "meaning": "ответ",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "reply"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "type",
+      "meaning": "тип",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "type"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "mainsail",
+      "meaning": "грот",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "mainsail"
+        }
+      ]
+    },
+    {
+      "word": "keelboat",
+      "meaning": "килевая лодка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "keelboats"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "engine"
+        }
+      ]
+    }
+  ]
+}

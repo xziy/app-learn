@@ -1,0 +1,617 @@
+{
+  "spec": 3,
+  "verb": "go",
+  "forms": {
+    "base": [
+      {
+        "word": "go",
+        "transcription": "[гоу]"
+      }
+    ],
+    "past": [
+      {
+        "word": "went",
+        "transcription": "[wэнт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "gone",
+        "transcription": "[гон]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "going",
+        "transcription": "[г**о**уиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "goes",
+        "transcription": "[гоуз]"
+      }
+    ]
+  },
+  "meaning": "идти, направляться, отправляться",
+  "notes": "неправильный непереходный глагол; пассив в значении движения не образуется",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "went",
+        "examples": [
+          {
+            "ours": "Вчера мы вышли в море.",
+            "thought": "Вчера мы направились в море.",
+            "english": "Yesterday we went to sea.",
+            "transcription": "[й**э**стэдэй wи: wэнт ту си:]"
+          },
+          {
+            "ours": "Ты ходил в марину вчера?",
+            "thought": "[Сделал] ты направляться в [известную] марину вчера?",
+            "english": "Did you go to the marina yesterday?",
+            "transcription": "[дид ю: гоу ту ðэ мэр**и**:нэ й**э**стэдэй]"
+          },
+          {
+            "ours": "Она не пошла на палубу вчера.",
+            "thought": "Она [сделала] не направляться на палубу вчера.",
+            "english": "She did not go on deck yesterday.",
+            "transcription": "[ши: дид нот гоу он дэк й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "go, goes",
+        "examples": [
+          {
+            "ours": "Летом мы часто выходим в море.",
+            "thought": "В лете мы часто направляемся в море.",
+            "english": "In summer we often go to sea.",
+            "transcription": "[ин с**а**мэ wи: **о**фэн гоу ту си:]"
+          },
+          {
+            "ours": "Он не ходит на нос яхты.",
+            "thought": "Он [делает] не направляться на [известный] нос.",
+            "english": "He does not go to the bow.",
+            "transcription": "[хи: даз нот гоу ту ðэ бау]"
+          },
+          {
+            "ours": "Ты ходишь в марину каждый день?",
+            "thought": "[Делаешь] ты направляться в [известную] марину каждый день?",
+            "english": "Do you go to the marina every day?",
+            "transcription": "[ду: ю: гоу ту ðэ мэр**и**:нэ **э**ври дэй]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will go",
+        "examples": [
+          {
+            "ours": "Завтра мы выйдем в море.",
+            "thought": "Завтра мы будем направляться в море.",
+            "english": "Tomorrow we will go to sea.",
+            "transcription": "[тэм**о**роу wи: wил гоу ту си:]"
+          },
+          {
+            "ours": "Она не пойдёт на палубу завтра.",
+            "thought": "Она будет не направляться на палубу завтра.",
+            "english": "She will not go on deck tomorrow.",
+            "transcription": "[ши: wил нот гоу он дэк тэм**о**роу]"
+          },
+          {
+            "ours": "Вы завтра пойдёте в марину?",
+            "thought": "Будете вы направляться в [известную] марину завтра?",
+            "english": "Will you go to the marina tomorrow?",
+            "transcription": "[wил ю: гоу ту ðэ мэр**и**:нэ тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were going",
+        "examples": [
+          {
+            "ours": "Вчера утром мы шли к гавани.",
+            "thought": "Вчера утром мы были идущими к [известной] гавани.",
+            "english": "Yesterday morning we were going to the harbor.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: г**о**уиŋ ту ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Он не шёл к берегу тогда.",
+            "thought": "Он был не идущим к берегу тогда.",
+            "english": "He was not going to shore then.",
+            "transcription": "[хи: wоз нот г**о**уиŋ ту шо: ðэн]"
+          },
+          {
+            "ours": "Ты шёл к причалу тогда?",
+            "thought": "Был ты идущим к [известному] причалу тогда?",
+            "english": "Were you going to the dock then?",
+            "transcription": "[wœ: ю: г**о**уиŋ ту ðэ док ðэн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are going",
+        "examples": [
+          {
+            "ours": "Сейчас мы идём к гавани.",
+            "thought": "Мы являемся идущими к [известной] гавани сейчас.",
+            "english": "We are going to the harbor now.",
+            "transcription": "[wи: а: г**о**уиŋ ту ðэ х**а**:бэ нау]"
+          },
+          {
+            "ours": "Она сейчас не идёт к берегу.",
+            "thought": "Она является не идущей к берегу сейчас.",
+            "english": "She is not going to shore now.",
+            "transcription": "[ши: из нот г**о**уиŋ ту шо: нау]"
+          },
+          {
+            "ours": "Ты сейчас идёшь к причалу?",
+            "thought": "Являешься ты идущим к [известному] причалу сейчас?",
+            "english": "Are you going to the dock now?",
+            "transcription": "[а: ю: г**о**уиŋ ту ðэ док нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be going",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем идти к гавани.",
+            "thought": "Завтра утром мы будем быть идущими к [известной] гавани.",
+            "english": "Tomorrow morning we will be going to the harbor.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: г**о**уиŋ ту ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Она не будет идти к берегу в полдень.",
+            "thought": "Она будет не быть идущей к берегу в полдень.",
+            "english": "She will not be going to shore at noon.",
+            "transcription": "[ши: wил нот би: г**о**уиŋ ту шо: æт ну:н]"
+          },
+          {
+            "ours": "Вы будете идти к причалу в пять?",
+            "thought": "Будете вы быть идущими к [известному] причалу в пять?",
+            "english": "Will you be going to the dock at five?",
+            "transcription": "[wил ю: би: г**о**уиŋ ту ðэ док æт файв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had gone",
+        "examples": [
+          {
+            "ours": "К полудню яхта уже вышла в море.",
+            "thought": "К полудню [известная] яхта имела уже направленным в море.",
+            "english": "By noon the yacht had already gone to sea.",
+            "transcription": "[бай ну:н ðэ йот хæд о:лр**э**ди гон ту си:]"
+          },
+          {
+            "ours": "К пяти команда ещё не ушла на берег.",
+            "thought": "К пяти [известная] команда имела не направленным на берег.",
+            "english": "By five the crew had not gone ashore.",
+            "transcription": "[бай файв ðэ кру: хæд нот гон эш**о**:]"
+          },
+          {
+            "ours": "К полудню он уже ушёл на берег?",
+            "thought": "Имел он уже направленным на берег к полудню?",
+            "english": "Had he already gone ashore by noon?",
+            "transcription": "[хæд хи: о:лр**э**ди гон эш**о**: бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has gone",
+        "examples": [
+          {
+            "ours": "Яхта уже вышла в море.",
+            "thought": "[Известная] яхта имеет уже направленным в море.",
+            "english": "The yacht has already gone to sea.",
+            "transcription": "[ðэ йот хæз о:лр**э**ди гон ту си:]"
+          },
+          {
+            "ours": "Команда ещё не ушла на берег.",
+            "thought": "[Известная] команда имеет не направленным на берег ещё.",
+            "english": "The crew has not gone ashore yet.",
+            "transcription": "[ðэ кру: хæз нот гон эш**о**: йэт]"
+          },
+          {
+            "ours": "Он уже ушёл на берег?",
+            "thought": "Имеет он уже направленным на берег?",
+            "english": "Has he already gone ashore?",
+            "transcription": "[хæз хи: о:лр**э**ди гон эш**о**:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have gone",
+        "examples": [
+          {
+            "ours": "К полудню яхта уже выйдет в море.",
+            "thought": "К полудню [известная] яхта будет иметь направленным в море.",
+            "english": "By noon the yacht will have gone to sea.",
+            "transcription": "[бай ну:н ðэ йот wил хæв гон ту си:]"
+          },
+          {
+            "ours": "К пяти команда ещё не уйдёт на берег.",
+            "thought": "К пяти [известная] команда будет не иметь направленным на берег.",
+            "english": "By five the crew will not have gone ashore.",
+            "transcription": "[бай файв ðэ кру: wил нот хæв гон эш**о**:]"
+          },
+          {
+            "ours": "Он уже уйдёт на берег к полудню?",
+            "thought": "Будет он иметь направленным на берег к полудню?",
+            "english": "Will he have gone ashore by noon?",
+            "transcription": "[wил хи: хæв гон эш**о**: бай ну:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been going",
+        "examples": [
+          {
+            "ours": "Мы шли на север два часа, когда ветер стих.",
+            "thought": "Мы имели быть идущими на север целых два часа, когда [известный] ветер стих.",
+            "english": "We had been going north for two hours when the wind dropped.",
+            "transcription": "[wи: хæд би:н г**о**уиŋ но:θ фо: ту: **а**уэз wэн ðэ wинд дропт]"
+          },
+          {
+            "ours": "Вы шли на юг два часа до шторма?",
+            "thought": "Имели вы быть идущими на юг целых два часа перед [известным] штормом?",
+            "english": "Had you been going south for two hours before the storm?",
+            "transcription": "[хæд ю: би:н г**о**уиŋ сауθ фо: ту: **а**уэз биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been going",
+        "examples": [
+          {
+            "ours": "Мы идём на север уже два часа.",
+            "thought": "Мы имеем быть идущими на север целых два часа.",
+            "english": "We have been going north for two hours.",
+            "transcription": "[wи: хæв би:н г**о**уиŋ но:θ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Вы идёте на юг уже два часа?",
+            "thought": "Имеете вы быть идущими на юг целых два часа?",
+            "english": "Have you been going south for two hours?",
+            "transcription": "[хæв ю: би:н г**о**уиŋ сауθ фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been going",
+        "examples": [
+          {
+            "ours": "К полудню мы будем идти на север уже два часа.",
+            "thought": "К полудню мы будем иметь быть идущими на север целых два часа.",
+            "english": "By noon we will have been going north for two hours.",
+            "transcription": "[бай ну:н wи: wил хæв би:н г**о**уиŋ но:θ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти вы будете идти на юг уже два часа?",
+            "thought": "Будете вы иметь быть идущими на юг целых два часа к пяти?",
+            "english": "Will you have been going south for two hours by five?",
+            "transcription": "[wил ю: хæв би:н г**о**уиŋ сауθ фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "В значении движения go не имеет прямого дополнения и не образует пассив. Вместо этого: The yacht went to sea."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что мы выйдем в море.",
+        "thought": "Я знал, мы будем направляться в море.",
+        "english": "I knew we would go to sea.",
+        "transcription": "[ай нью: wи: wуд гоу ту си:]"
+      },
+      {
+        "ours": "Она думала, что он не уйдёт на берег.",
+        "thought": "Она думала, он будет не направляться на берег.",
+        "english": "She thought he would not go ashore.",
+        "transcription": "[ши: θо:т хи: wуд нот гоу эш**о**:]"
+      },
+      {
+        "ours": "Ты думал, что они пойдут в марину?",
+        "thought": "[Сделал] ты думать, они будут направляться в [известную] марину?",
+        "english": "Did you think they would go to the marina?",
+        "transcription": "[дид ю: θинк ðэй wуд гоу ту ðэ мэр**и**:нэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "summer",
+      "meaning": "лето",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "summer"
+        }
+      ]
+    },
+    {
+      "word": "bow",
+      "meaning": "нос судна",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "bow"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "shore",
+      "meaning": "берег",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "shore"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "shore"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "shore"
+        }
+      ]
+    },
+    {
+      "word": "dock",
+      "meaning": "причал",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "dock"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "storm"
+        }
+      ]
+    }
+  ]
+}

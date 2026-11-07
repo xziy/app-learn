@@ -1,0 +1,1688 @@
+{
+  "spec": 3,
+  "verb": "accumulate",
+  "forms": {
+    "base": [
+      {
+        "word": "accumulate",
+        "transcription": "[экь**ю**:мюлэйт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "accumulated",
+        "transcription": "[экь**ю**:мюлэйтид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "accumulated",
+        "transcription": "[экь**ю**:мюлэйтид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "accumulating",
+        "transcription": "[экь**ю**:мюлэйтиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "accumulates",
+        "transcription": "[экь**ю**:мюлэйтс]"
+      }
+    ]
+  },
+  "meaning": "накапливать, копить, собирать (деньги, опыт, вещи), накапливаться, скапливаться (о пыли, снеге, мусоре, долгах)",
+  "notes": "правильный глагол, бывает с объектом и без объекта, есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "accumulated",
+        "examples": [
+          {
+            "ours": "За эти годы мой дедушка собрал огромную библиотеку.",
+            "thought": "За [известные] годы мой дедушка накопил [какую-то] огромную библиотеку.",
+            "english": "Over the years my grandfather accumulated a huge library.",
+            "transcription": "[**о**увэ ðэ йиэз май гр**æ**нфа:ðэ экь**ю**:мюлэйтид э хью:дж л**а**йбрэри]"
+          },
+          {
+            "ours": "Прошлой ночью снег на дорогах не лёг.",
+            "thought": "Снег [сделал] не накапливаться на [известных] дорогах прошлой ночью.",
+            "english": "Snow didn't accumulate on the roads last night.",
+            "transcription": "[сноу диднт экь**ю**:мюлэйт он ðэ роудз ла:ст найт]"
+          },
+          {
+            "ours": "Ты успел накопить какие-нибудь сбережения до пенсии?",
+            "thought": "[Сделал] ты накапливать какие-либо сбережения перед ты вышел на пенсию?",
+            "english": "Did you accumulate any savings before you retired?",
+            "transcription": "[дид ю: экь**ю**:мюлэйт **э**ни с**э**йвиŋз биф**о**: ю: рит**а**йэд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "accumulate, accumulates",
+        "examples": [
+          {
+            "ours": "Каждую осень в наших водостоках скапливаются мокрые листья.",
+            "thought": "Каждую осень мокрые листья накапливаются в наших водостоках.",
+            "english": "Every autumn wet leaves accumulate in our gutters.",
+            "transcription": "[**э**ври **о**:тэм wэт ли:вз экь**ю**:мюлэйт ин ауэ г**а**тэз]"
+          },
+          {
+            "ours": "Моя сестра не копит хлам.",
+            "thought": "Моя сестра [делает] не накапливать хлам.",
+            "english": "My sister doesn't accumulate junk.",
+            "transcription": "[май с**и**стэ дазнт экь**ю**:мюлэйт джанк]"
+          },
+          {
+            "ours": "Жир скапливается в печени?",
+            "thought": "[Делает] жир накапливаться в [известной] печени?",
+            "english": "Does fat accumulate in the liver?",
+            "transcription": "[даз фæт экь**ю**:мюлэйт ин ðэ л**и**вэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will accumulate",
+        "examples": [
+          {
+            "ours": "В следующем году мы накопим достаточно капитала на второй магазин.",
+            "thought": "Следующий год мы будем накапливать достаточно капитала для [какого-то] второго магазина.",
+            "english": "Next year we will accumulate enough capital for a second shop.",
+            "transcription": "[нэкст йиэ wи: wил экь**ю**:мюлэйт ин**а**ф к**æ**питл фо: э с**э**кэнд шоп]"
+          },
+          {
+            "ours": "Эти мелкие долги не накопятся, если ты будешь платить вовремя.",
+            "thought": "Эти мелкие долги будут не накапливаться, если ты платишь во время.",
+            "english": "These small debts won't accumulate if you pay on time.",
+            "transcription": "[ðи:з смо:л дэтс wоунт экь**ю**:мюлэйт иф ю: пэй он тайм]"
+          },
+          {
+            "ours": "После дождя в этом подвале будет скапливаться вода?",
+            "thought": "Будет вода накапливаться в этом подвале после [известного] дождя?",
+            "english": "Will water accumulate in this basement after the rain?",
+            "transcription": "[wил w**о**:тэ экь**ю**:мюлэйт ин ðис б**э**йсмэнт **а**:фтэ ðэ рэйн]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were accumulating",
+        "examples": [
+          {
+            "ours": "Всю ту неделю во дворе копился мусор.",
+            "thought": "Всю ту неделю мусор был накапливающимся в [известном] дворе.",
+            "english": "All that week rubbish was accumulating in the yard.",
+            "transcription": "[о:л ðæт wи:к р**а**биш wоз экь**ю**:мюлэйтиŋ ин ðэ йа:д]"
+          },
+          {
+            "ours": "В те годы я никакого богатства не накапливал.",
+            "thought": "В те годы я был не накапливающим какое-либо богатство.",
+            "english": "In those years I wasn't accumulating any wealth.",
+            "transcription": "[ин ðоуз йиэз ай wознт экь**ю**:мюлэйтиŋ **э**ни wэлθ]"
+          },
+          {
+            "ours": "Они скупали акции, когда компания рухнула?",
+            "thought": "Были они накапливающими акции, когда [известная] компания рухнула?",
+            "english": "Were they accumulating shares when the company collapsed?",
+            "transcription": "[wœ: ðэй экь**ю**:мюлэйтиŋ шээз wэн ðэ к**а**мпэни кэл**æ**пст]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are accumulating",
+        "examples": [
+          {
+            "ours": "Сейчас в его организме накапливаются токсины.",
+            "thought": "Токсины являются накапливающимися в его теле сейчас.",
+            "english": "Toxins are accumulating in his body now.",
+            "transcription": "[т**о**ксинз а: экь**ю**:мюлэйтиŋ ин хиз б**о**ди нау]"
+          },
+          {
+            "ours": "Сейчас мы не накапливаем товар на складе.",
+            "thought": "Мы являемся не накапливающими какой-либо запас сейчас.",
+            "english": "We aren't accumulating any inventory now.",
+            "transcription": "[wи: а:нт экь**ю**:мюлэйтиŋ **э**ни **и**нвэнтри нау]"
+          },
+          {
+            "ours": "Ты в этом году копишь дни отпуска?",
+            "thought": "Являешься ты накапливающим отпускные дни этот год?",
+            "english": "Are you accumulating vacation days this year?",
+            "transcription": "[а: ю: экь**ю**:мюлэйтиŋ вэк**э**йшн дэйз ðис йиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be accumulating",
+        "examples": [
+          {
+            "ours": "С мая по октябрь наша команда будет собирать данные о пробках.",
+            "thought": "С мая до октября наша команда будет быть накапливающей данные о движении.",
+            "english": "From May to October our team will be accumulating data on traffic.",
+            "transcription": "[фром мэй ту окт**о**убэ ауэ ти:м wил би: экь**ю**:мюлэйтиŋ д**э**йтэ он тр**æ**фик]"
+          },
+          {
+            "ours": "На этой работе он много опыта не наберёт.",
+            "thought": "Он будет не быть накапливающим много опыта в этой работе.",
+            "english": "He won't be accumulating much experience in this job.",
+            "transcription": "[хи: wоунт би: экь**ю**:мюлэйтиŋ мач иксп**и**эриэнс ин ðис джоб]"
+          },
+          {
+            "ours": "В следующем году ты продолжишь копить недвижимость?",
+            "thought": "Будешь ты быть накапливающим больше недвижимости следующий год?",
+            "english": "Will you be accumulating more property next year?",
+            "transcription": "[wил ю: би: экь**ю**:мюлэйтиŋ мо: пр**о**пэти нэкст йиэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had accumulated",
+        "examples": [
+          {
+            "ours": "К сорока годам он накопил небольшое состояние.",
+            "thought": "К сорока он имел накопленным [какое-то] маленькое состояние.",
+            "english": "By forty he had accumulated a small fortune.",
+            "transcription": "[бай ф**о**:ти хи: хæд экь**ю**:мюлэйтид э смо:л ф**о**:чу:н]"
+          },
+          {
+            "ours": "К марту мы ещё не набрали достаточно подписей.",
+            "thought": "К марту мы имели не накопленными достаточно подписей.",
+            "english": "By March we hadn't accumulated enough signatures.",
+            "transcription": "[бай ма:ч wи: хæднт экь**ю**:мюлэйтид ин**а**ф с**и**гнэчэз]"
+          },
+          {
+            "ours": "К моменту переезда ты уже накопил много книг?",
+            "thought": "Имел ты накопленными много книг к [известному] времени ты переехал?",
+            "english": "Had you accumulated many books by the time you moved?",
+            "transcription": "[хæд ю: экь**ю**:мюлэйтид м**э**ни букс бай ðэ тайм ю: му:вд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has accumulated",
+        "examples": [
+          {
+            "ours": "Наша семья уже накопила слишком много старой мебели.",
+            "thought": "Наша семья имеет уже накопленной слишком много старой мебели.",
+            "english": "Our family has already accumulated too much old furniture.",
+            "transcription": "[ауэ ф**æ**мили хæз о:лр**э**ди экь**ю**:мюлэйтид ту: мач оулд ф**œ**:ничэ]"
+          },
+          {
+            "ours": "Ты ещё не набрал достаточно зачётов для диплома.",
+            "thought": "Ты имеешь не накопленными достаточно зачётов для твоего диплома.",
+            "english": "You haven't accumulated enough credits for your diploma.",
+            "transcription": "[ю: хæвнт экь**ю**:мюлэйтид ин**а**ф кр**э**дитс фо: йо: дипл**о**умэ]"
+          },
+          {
+            "ours": "Твой банк накопил плохие кредиты?",
+            "thought": "Имеет твой банк накопленными какие-либо плохие кредиты?",
+            "english": "Has your bank accumulated any bad loans?",
+            "transcription": "[хæз йо: бæнк экь**ю**:мюлэйтид **э**ни бæд лоунз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have accumulated",
+        "examples": [
+          {
+            "ours": "К концу этого года она накопит десять тысяч фунтов.",
+            "thought": "К [известному] концу от этого года она будет иметь накопленными десять тысяч фунтов.",
+            "english": "By the end of this year she will have accumulated ten thousand pounds.",
+            "transcription": "[бай ðи энд ов ðис йиэ ши: wил хæв экь**ю**:мюлэйтид тэн θ**а**узэнд паундз]"
+          },
+          {
+            "ours": "К осени они ещё не соберут достаточно средств на крышу.",
+            "thought": "К осени они будут не иметь накопленными достаточно средств для [известной] крыши.",
+            "english": "By autumn they won't have accumulated enough funds for the roof.",
+            "transcription": "[бай **о**:тэм ðэй wоунт хæв экь**ю**:мюлэйтид ин**а**ф фандз фо: ðэ ру:ф]"
+          },
+          {
+            "ours": "К лету твой брат наберёт достаточно лётных часов?",
+            "thought": "Будет твой брат иметь накопленными достаточно лётных часов к лету?",
+            "english": "Will your brother have accumulated enough flying hours by summer?",
+            "transcription": "[wил йо: бр**а**ðэ хæв экь**ю**:мюлэйтид ин**а**ф фл**а**йиŋ **а**уэз бай с**а**мэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been accumulating",
+        "examples": [
+          {
+            "ours": "Пыль копилась на этих полках уже десять лет, когда мы въехали.",
+            "thought": "Пыль имела быть накапливающейся на этих полках целых десять лет, когда мы въехали.",
+            "english": "Dust had been accumulating on these shelves for ten years when we moved in.",
+            "transcription": "[даст хæд би:н экь**ю**:мюлэйтиŋ он ðи:з шэлвз фо: тэн йиэз wэн wи: му:вд ин]"
+          },
+          {
+            "ours": "Жидкость копилась у него в лёгких уже неделю до операции?",
+            "thought": "Имела жидкость быть накапливающейся в его лёгких целую [какую-то] неделю перед [известной] операцией?",
+            "english": "Had fluid been accumulating in his lungs for a week before the operation?",
+            "transcription": "[хæд фл**у**:ид би:н экь**ю**:мюлэйтиŋ ин хиз лаŋз фо: э wи:к биф**о**: ðи опэр**э**йшн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been accumulating",
+        "examples": [
+          {
+            "ours": "Мой отец собирает эти старые газеты уже целых тридцать лет.",
+            "thought": "Мой отец имеет быть накапливающим эти старые газеты целых тридцать лет.",
+            "english": "My father has been accumulating these old newspapers for thirty years.",
+            "transcription": "[май ф**а**:ðэ хæз би:н экь**ю**:мюлэйтиŋ ðи:з оулд нь**ю**:зпэйпэз фо: θ**œ**:ти йиэз]"
+          },
+          {
+            "ours": "Эти неоплаченные счета копятся уже целый год?",
+            "thought": "Имеют эти неоплаченные счета быть накапливающимися целый [какой-то] год?",
+            "english": "Have these unpaid bills been accumulating for a year?",
+            "transcription": "[хæв ðи:з анп**э**йд билз би:н экь**ю**:мюлэйтиŋ фо: э йиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been accumulating",
+        "examples": [
+          {
+            "ours": "К весне наша фирма будет копить наличные уже целых пять лет.",
+            "thought": "К весне наша фирма будет иметь быть накапливающей наличные целых пять лет.",
+            "english": "By spring our firm will have been accumulating cash for five years.",
+            "transcription": "[бай сприŋ ауэ фœ:м wил хæв би:н экь**ю**:мюлэйтиŋ кæш фо: файв йиэз]"
+          },
+          {
+            "ours": "К тому времени пластик будет скапливаться в этом озере уже пятьдесят лет?",
+            "thought": "Будет пластик иметь быть накапливающимся в этом озере целых пятьдесят лет к тогда?",
+            "english": "Will plastic have been accumulating in this lake for fifty years by then?",
+            "transcription": "[wил пл**æ**стик хæв би:н экь**ю**:мюлэйтиŋ ин ðис лэйк фо: ф**и**фти йиэз бай ðэн]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were accumulated",
+        "examples": [
+          {
+            "ours": "Эти знания накапливались три поколения.",
+            "thought": "Это знание было накоплено за три поколения.",
+            "english": "This knowledge was accumulated over three generations.",
+            "transcription": "[ðис н**о**лидж wоз экь**ю**:мюлэйтид **о**увэ θри: джэнэр**э**йшнз]"
+          },
+          {
+            "ours": "Эту коллекцию собрали не за одну ночь.",
+            "thought": "Эта коллекция была не накоплена за ночь.",
+            "english": "This collection wasn't accumulated overnight.",
+            "transcription": "[ðис кэл**э**кшн wознт экь**ю**:мюлэйтид оувэн**а**йт]"
+          },
+          {
+            "ours": "Все эти записи собрали до войны?",
+            "thought": "Были все эти записи накоплены перед [известной] войной?",
+            "english": "Were all these records accumulated before the war?",
+            "transcription": "[wœ: о:л ðи:з р**э**ко:дз экь**ю**:мюлэйтид биф**о**: ðэ wо:]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are accumulated",
+        "examples": [
+          {
+            "ours": "Тяжёлые металлы накапливаются в почках.",
+            "thought": "Тяжёлые металлы есть накоплены в [известных] почках.",
+            "english": "Heavy metals are accumulated in the kidneys.",
+            "transcription": "[х**э**ви м**э**тлз а: экь**ю**:мюлэйтид ин ðэ к**и**дниз]"
+          },
+          {
+            "ours": "Настоящее мастерство не накапливается за неделю.",
+            "thought": "Настоящее мастерство есть не накоплено в [какую-то] неделю.",
+            "english": "Real expertise isn't accumulated in a week.",
+            "transcription": "[риэл экспœ:т**и**:з изнт экь**ю**:мюлэйтид ин э wи:к]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be accumulated",
+        "examples": [
+          {
+            "ours": "За следующие пять лет будут накоплены дополнительные резервы.",
+            "thought": "За [известные] следующие пять лет дальнейшие резервы будут быть накоплены.",
+            "english": "Over the next five years further reserves will be accumulated.",
+            "transcription": "[**о**увэ ðэ нэкст файв йиэз ф**œ**:ðэ риз**œ**:вз wил би: экь**ю**:мюлэйтид]"
+          },
+          {
+            "ours": "На этот мост накопят достаточно денег?",
+            "thought": "Будет достаточно денег быть накоплено для этого моста?",
+            "english": "Will enough money be accumulated for this bridge?",
+            "transcription": "[wил ин**а**ф м**а**ни би: экь**ю**:мюлэйтид фо: ðис бридж]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being accumulated",
+        "examples": [
+          {
+            "ours": "Всю ту весну у границы накапливали оружие.",
+            "thought": "Всю ту весну вооружения были «долго» накоплены около [известной] границы.",
+            "english": "All that spring weapons were being accumulated near the border.",
+            "transcription": "[о:л ðæт сприŋ w**э**пэнз wœ: б**и**:иŋ экь**ю**:мюлэйтид ниэ ðэ б**о**:дэ]"
+          },
+          {
+            "ours": "Это зерно накапливали, когда началась засуха?",
+            "thought": "Было это зерно «долго» накоплено, когда [известная] засуха началась?",
+            "english": "Was this grain being accumulated when the drought began?",
+            "transcription": "[wоз ðис грэйн б**и**:иŋ экь**ю**:мюлэйтид wэн ðэ драут биг**æ**н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being accumulated",
+        "examples": [
+          {
+            "ours": "Сейчас накапливается ценный опыт.",
+            "thought": "Ценный опыт есть «долго» накоплен сейчас.",
+            "english": "Valuable experience is being accumulated now.",
+            "transcription": "[в**æ**люэбл иксп**и**эриэнс из б**и**:иŋ экь**ю**:мюлэйтид нау]"
+          },
+          {
+            "ours": "Иностранную валюту сейчас не накапливают.",
+            "thought": "Иностранная валюта есть не «долго» накоплена сейчас.",
+            "english": "Foreign currency isn't being accumulated now.",
+            "transcription": "[ф**о**рин к**а**рэнси изнт б**и**:иŋ экь**ю**:мюлэйтид нау]"
+          },
+          {
+            "ours": "Для этого исследования сейчас собирают новый материал?",
+            "thought": "Есть новый материал «долго» накоплен для этого исследования сейчас?",
+            "english": "Is new material being accumulated for this study now?",
+            "transcription": "[из нью: мэт**и**эриэл б**и**:иŋ экь**ю**:мюлэйтид фо: ðис ст**а**ди нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be accumulating",
+        "examples": [
+          {
+            "ours": "Весь следующий год будут запасать топливо на зиму.",
+            "thought": "Весь следующий год они будут быть накапливающими топливо для [известной] зимы.",
+            "english": "All next year they will be accumulating fuel for the winter.",
+            "transcription": "[о:л нэкст йиэ ðэй wил би: экь**ю**:мюлэйтиŋ фь**ю**:эл фо: ðэ w**и**нтэ]"
+          },
+          {
+            "ours": "Этой осенью никаких припасов накапливать не будут.",
+            "thought": "Они будут не быть накапливающими какие-либо припасы этой осенью.",
+            "english": "They won't be accumulating any supplies this autumn.",
+            "transcription": "[ðэй wоунт би: экь**ю**:мюлэйтиŋ **э**ни сэпл**а**йз ðис **о**:тэм]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been accumulated",
+        "examples": [
+          {
+            "ours": "К тому времени накопили огромные суммы.",
+            "thought": "К тому времени огромные суммы имели быть накоплены.",
+            "english": "By that time vast sums had been accumulated.",
+            "transcription": "[бай ðæт тайм ва:ст самз хæд би:н экь**ю**:мюлэйтид]"
+          },
+          {
+            "ours": "К июлю нужную сумму ещё не накопили.",
+            "thought": "К июлю [известное] требуемое количество имело не быть накоплено.",
+            "english": "By July the required amount hadn't been accumulated.",
+            "transcription": "[бай джул**а**й ðэ рикw**а**йэд эм**а**унт хæднт би:н экь**ю**:мюлэйтид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been accumulated",
+        "examples": [
+          {
+            "ours": "Уже накоплен большой излишек.",
+            "thought": "[Какой-то] большой излишек имеет уже быть накоплен.",
+            "english": "A large surplus has already been accumulated.",
+            "transcription": "[э ла:дж с**œ**:плэс хæз о:лр**э**ди би:н экь**ю**:мюлэйтид]"
+          },
+          {
+            "ours": "Достаточных доказательств не собрано.",
+            "thought": "Достаточные доказательства имеют не быть накоплены.",
+            "english": "Sufficient evidence hasn't been accumulated.",
+            "transcription": "[сэф**и**шнт **э**видэнс хæзнт би:н экь**ю**:мюлэйтид]"
+          },
+          {
+            "ours": "Эти мили накоплены на одной карте?",
+            "thought": "Имеют эти мили быть накоплены на одной карте?",
+            "english": "Have these miles been accumulated on one card?",
+            "transcription": "[хæв ðи:з майлз би:н экь**ю**:мюлэйтид он wан ка:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been accumulated",
+        "examples": [
+          {
+            "ours": "К декабрю накопят достаточно газа.",
+            "thought": "К декабрю достаточно газа будет иметь быть накоплено.",
+            "english": "By December enough gas will have been accumulated.",
+            "transcription": "[бай дис**э**мбэ ин**а**ф гæс wил хæв би:н экь**ю**:мюлэйтид]"
+          },
+          {
+            "ours": "К апрелю нужный первый взнос ещё не накопят.",
+            "thought": "К апрелю [известный] требуемый взнос будет не иметь быть накоплен.",
+            "english": "By April the required deposit won't have been accumulated.",
+            "transcription": "[бай **э**йпрэл ðэ рикw**а**йэд дип**о**зит wоунт хæв би:н экь**ю**:мюлэйтид]"
+          },
+          {
+            "ours": "Нужный запас накопят к сентябрю?",
+            "thought": "Будет [известный] необходимый запас иметь быть накоплен к сентябрю?",
+            "english": "Will the necessary stock have been accumulated by September?",
+            "transcription": "[wил ðэ н**э**сэсэри сток хæв би:н экь**ю**:мюлэйтид бай сэпт**э**мбэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being accumulated` не употребляется. Вместо этого скажут: `A large surplus has been accumulated.` или `They have been accumulating a large surplus.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что под этим ковром будет скапливаться грязь.",
+        "thought": "Я знал, что грязь будет накапливаться под этим ковром.",
+        "english": "I knew that dirt would accumulate under this carpet.",
+        "transcription": "[ай нью: ðæт дœ:т wуд экь**ю**:мюлэйт **а**ндэ ðис к**а**:пит]"
+      },
+      {
+        "ours": "Он пообещал, что больше не будет копить штрафы за парковку.",
+        "thought": "Он пообещал, что он будет не накапливать какие-либо ещё парковочные штрафы.",
+        "english": "He promised that he wouldn't accumulate any more parking tickets.",
+        "transcription": "[хи: пр**о**мист ðæт хи: wуднт экь**ю**:мюлэйт **э**ни мо: п**а**:киŋ т**и**китс]"
+      },
+      {
+        "ours": "Ты думал, что твой клуб наберёт столько очков?",
+        "thought": "[Сделал] ты думать, что твой клуб будет накапливать так много очков?",
+        "english": "Did you think that your club would accumulate so many points?",
+        "transcription": "[дид ю: θинк ðæт йо: клаб wуд экь**ю**:мюлэйт соу м**э**ни пойнтс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "year"
+        },
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "years"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "grandfather",
+      "meaning": "дедушка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "grandfather"
+        }
+      ]
+    },
+    {
+      "word": "library",
+      "meaning": "библиотека",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "library"
+        }
+      ]
+    },
+    {
+      "word": "snow",
+      "meaning": "снег",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "Snow"
+        }
+      ]
+    },
+    {
+      "word": "road",
+      "meaning": "дорога",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "roads"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "savings",
+      "meaning": "сбережения",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "savings"
+        }
+      ]
+    },
+    {
+      "word": "autumn",
+      "meaning": "осень",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "autumn"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "autumn"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "autumn"
+        }
+      ]
+    },
+    {
+      "word": "leaf",
+      "meaning": "лист",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "leaves"
+        }
+      ]
+    },
+    {
+      "word": "gutter",
+      "meaning": "водосток",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "gutters"
+        }
+      ]
+    },
+    {
+      "word": "sister",
+      "meaning": "сестра",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sister"
+        }
+      ]
+    },
+    {
+      "word": "junk",
+      "meaning": "хлам",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "junk"
+        }
+      ]
+    },
+    {
+      "word": "fat",
+      "meaning": "жир",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "fat"
+        }
+      ]
+    },
+    {
+      "word": "liver",
+      "meaning": "печень",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "liver"
+        }
+      ]
+    },
+    {
+      "word": "capital",
+      "meaning": "капитал",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "capital"
+        }
+      ]
+    },
+    {
+      "word": "shop",
+      "meaning": "магазин",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "shop"
+        }
+      ]
+    },
+    {
+      "word": "debt",
+      "meaning": "долг",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "debts"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время, момент",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "time"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "time"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "basement",
+      "meaning": "подвал",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "basement"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "week"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "week"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "week"
+        }
+      ]
+    },
+    {
+      "word": "rubbish",
+      "meaning": "мусор",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "rubbish"
+        }
+      ]
+    },
+    {
+      "word": "yard",
+      "meaning": "двор",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yard"
+        }
+      ]
+    },
+    {
+      "word": "wealth",
+      "meaning": "богатство",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "wealth"
+        }
+      ]
+    },
+    {
+      "word": "share",
+      "meaning": "акция",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "shares"
+        }
+      ]
+    },
+    {
+      "word": "company",
+      "meaning": "компания",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "company"
+        }
+      ]
+    },
+    {
+      "word": "toxin",
+      "meaning": "токсин",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "Toxins"
+        }
+      ]
+    },
+    {
+      "word": "body",
+      "meaning": "организм",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "body"
+        }
+      ]
+    },
+    {
+      "word": "inventory",
+      "meaning": "товар",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "inventory"
+        }
+      ]
+    },
+    {
+      "word": "vacation",
+      "meaning": "отпуск",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "vacation"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "days"
+        }
+      ]
+    },
+    {
+      "word": "May",
+      "meaning": "май",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "May"
+        }
+      ]
+    },
+    {
+      "word": "October",
+      "meaning": "октябрь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "October"
+        }
+      ]
+    },
+    {
+      "word": "team",
+      "meaning": "команда",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "team"
+        }
+      ]
+    },
+    {
+      "word": "data",
+      "meaning": "данные",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "data"
+        }
+      ]
+    },
+    {
+      "word": "traffic",
+      "meaning": "пробки",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "traffic"
+        }
+      ]
+    },
+    {
+      "word": "experience",
+      "meaning": "опыт",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "experience"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "experience"
+        }
+      ]
+    },
+    {
+      "word": "job",
+      "meaning": "работа",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "job"
+        }
+      ]
+    },
+    {
+      "word": "property",
+      "meaning": "недвижимость",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "property"
+        }
+      ]
+    },
+    {
+      "word": "fortune",
+      "meaning": "состояние",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "fortune"
+        }
+      ]
+    },
+    {
+      "word": "March",
+      "meaning": "март",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "March"
+        }
+      ]
+    },
+    {
+      "word": "signature",
+      "meaning": "подпись",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "signatures"
+        }
+      ]
+    },
+    {
+      "word": "book",
+      "meaning": "книга",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "books"
+        }
+      ]
+    },
+    {
+      "word": "family",
+      "meaning": "семья",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "family"
+        }
+      ]
+    },
+    {
+      "word": "furniture",
+      "meaning": "мебель",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "furniture"
+        }
+      ]
+    },
+    {
+      "word": "credit",
+      "meaning": "зачёт",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "credits"
+        }
+      ]
+    },
+    {
+      "word": "diploma",
+      "meaning": "диплом",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "diploma"
+        }
+      ]
+    },
+    {
+      "word": "bank",
+      "meaning": "банк",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "bank"
+        }
+      ]
+    },
+    {
+      "word": "loan",
+      "meaning": "кредит",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "loans"
+        }
+      ]
+    },
+    {
+      "word": "end",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "end"
+        }
+      ]
+    },
+    {
+      "word": "pound",
+      "meaning": "фунт",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "pounds"
+        }
+      ]
+    },
+    {
+      "word": "fund",
+      "meaning": "средства",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "funds"
+        }
+      ]
+    },
+    {
+      "word": "roof",
+      "meaning": "крыша",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "roof"
+        }
+      ]
+    },
+    {
+      "word": "brother",
+      "meaning": "брат",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "brother"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "summer",
+      "meaning": "лето",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "summer"
+        }
+      ]
+    },
+    {
+      "word": "dust",
+      "meaning": "пыль",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "Dust"
+        }
+      ]
+    },
+    {
+      "word": "shelf",
+      "meaning": "полка",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "shelves"
+        }
+      ]
+    },
+    {
+      "word": "fluid",
+      "meaning": "жидкость",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "Fluid"
+        }
+      ]
+    },
+    {
+      "word": "lung",
+      "meaning": "лёгкое",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "lungs"
+        }
+      ]
+    },
+    {
+      "word": "operation",
+      "meaning": "операция",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "operation"
+        }
+      ]
+    },
+    {
+      "word": "father",
+      "meaning": "отец",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "father"
+        }
+      ]
+    },
+    {
+      "word": "newspaper",
+      "meaning": "газета",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "newspapers"
+        }
+      ]
+    },
+    {
+      "word": "bill",
+      "meaning": "счёт",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "bills"
+        }
+      ]
+    },
+    {
+      "word": "spring",
+      "meaning": "весна",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "spring"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "spring"
+        }
+      ]
+    },
+    {
+      "word": "firm",
+      "meaning": "фирма",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "firm"
+        }
+      ]
+    },
+    {
+      "word": "cash",
+      "meaning": "наличные",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "cash"
+        }
+      ]
+    },
+    {
+      "word": "plastic",
+      "meaning": "пластик",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "Plastic"
+        }
+      ]
+    },
+    {
+      "word": "lake",
+      "meaning": "озеро",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "lake"
+        }
+      ]
+    },
+    {
+      "word": "knowledge",
+      "meaning": "знания",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "knowledge"
+        }
+      ]
+    },
+    {
+      "word": "generation",
+      "meaning": "поколение",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "generations"
+        }
+      ]
+    },
+    {
+      "word": "collection",
+      "meaning": "коллекция",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "collection"
+        }
+      ]
+    },
+    {
+      "word": "record",
+      "meaning": "запись",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "records"
+        }
+      ]
+    },
+    {
+      "word": "war",
+      "meaning": "война",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "war"
+        }
+      ]
+    },
+    {
+      "word": "metal",
+      "meaning": "металл",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "metals"
+        }
+      ]
+    },
+    {
+      "word": "kidney",
+      "meaning": "почка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "kidneys"
+        }
+      ]
+    },
+    {
+      "word": "expertise",
+      "meaning": "мастерство",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "expertise"
+        }
+      ]
+    },
+    {
+      "word": "reserve",
+      "meaning": "резерв",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "reserves"
+        }
+      ]
+    },
+    {
+      "word": "money",
+      "meaning": "деньги",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "money"
+        }
+      ]
+    },
+    {
+      "word": "bridge",
+      "meaning": "мост",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "bridge"
+        }
+      ]
+    },
+    {
+      "word": "weapon",
+      "meaning": "оружие",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "weapons"
+        }
+      ]
+    },
+    {
+      "word": "border",
+      "meaning": "граница",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "border"
+        }
+      ]
+    },
+    {
+      "word": "grain",
+      "meaning": "зерно",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "grain"
+        }
+      ]
+    },
+    {
+      "word": "drought",
+      "meaning": "засуха",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "drought"
+        }
+      ]
+    },
+    {
+      "word": "currency",
+      "meaning": "валюта",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "currency"
+        }
+      ]
+    },
+    {
+      "word": "material",
+      "meaning": "материал",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "material"
+        }
+      ]
+    },
+    {
+      "word": "study",
+      "meaning": "исследование",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "study"
+        }
+      ]
+    },
+    {
+      "word": "fuel",
+      "meaning": "топливо",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "fuel"
+        }
+      ]
+    },
+    {
+      "word": "winter",
+      "meaning": "зима",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "winter"
+        }
+      ]
+    },
+    {
+      "word": "supply",
+      "meaning": "припасы",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "supplies"
+        }
+      ]
+    },
+    {
+      "word": "sum",
+      "meaning": "сумма",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "sums"
+        }
+      ]
+    },
+    {
+      "word": "July",
+      "meaning": "июль",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "July"
+        }
+      ]
+    },
+    {
+      "word": "amount",
+      "meaning": "сумма",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "amount"
+        }
+      ]
+    },
+    {
+      "word": "surplus",
+      "meaning": "излишек",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "surplus"
+        }
+      ]
+    },
+    {
+      "word": "evidence",
+      "meaning": "доказательства",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "Evidence"
+        }
+      ]
+    },
+    {
+      "word": "mile",
+      "meaning": "миля",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "miles"
+        }
+      ]
+    },
+    {
+      "word": "card",
+      "meaning": "карта",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "card"
+        }
+      ]
+    },
+    {
+      "word": "December",
+      "meaning": "декабрь",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "December"
+        }
+      ]
+    },
+    {
+      "word": "gas",
+      "meaning": "газ",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "gas"
+        }
+      ]
+    },
+    {
+      "word": "April",
+      "meaning": "апрель",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "April"
+        }
+      ]
+    },
+    {
+      "word": "deposit",
+      "meaning": "первый взнос",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "deposit"
+        }
+      ]
+    },
+    {
+      "word": "stock",
+      "meaning": "запас",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "stock"
+        }
+      ]
+    },
+    {
+      "word": "September",
+      "meaning": "сентябрь",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "September"
+        }
+      ]
+    },
+    {
+      "word": "dirt",
+      "meaning": "грязь",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "dirt"
+        }
+      ]
+    },
+    {
+      "word": "carpet",
+      "meaning": "ковёр",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "carpet"
+        }
+      ]
+    },
+    {
+      "word": "parking ticket",
+      "meaning": "штраф за парковку",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "parking tickets"
+        }
+      ]
+    },
+    {
+      "word": "club",
+      "meaning": "клуб",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "club"
+        }
+      ]
+    },
+    {
+      "word": "point",
+      "meaning": "очко",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "points"
+        }
+      ]
+    }
+  ]
+}

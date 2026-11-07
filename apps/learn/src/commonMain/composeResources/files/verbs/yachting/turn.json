@@ -1,0 +1,852 @@
+{
+  "spec": 3,
+  "verb": "turn",
+  "forms": {
+    "base": [
+      {
+        "word": "turn",
+        "transcription": "[тœ:н]"
+      }
+    ],
+    "past": [
+      {
+        "word": "turned",
+        "transcription": "[тœ:нд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "turned",
+        "transcription": "[тœ:нд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "turning",
+        "transcription": "[т**œ**:ниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "turns",
+        "transcription": "[тœ:нз]"
+      }
+    ]
+  },
+  "meaning": "поворачивать, поворачиваться",
+  "notes": "правильный глагол, переходный и непереходный; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "turned",
+        "examples": [
+          {
+            "ours": "Вчера мы повернули к берегу.",
+            "thought": "Вчера мы повернули к [известному] берегу.",
+            "english": "Yesterday we turned toward the coast.",
+            "transcription": "[й**э**стэдэй wи: тœ:нд тэв**о**:д ðэ коуст]"
+          },
+          {
+            "ours": "Он не повернул штурвал.",
+            "thought": "Он [сделал] не поворачивать [известный] штурвал.",
+            "english": "He didn't turn the wheel.",
+            "transcription": "[хи: диднт тœ:н ðэ wи:л]"
+          },
+          {
+            "ours": "Ты повернул лодку до буя?",
+            "thought": "[Сделал] ты поворачивать [известную] лодку перед [известным] буем?",
+            "english": "Did you turn the boat before the buoy?",
+            "transcription": "[дид ю: тœ:н ðэ боут биф**о**: ðэ бой]"
+          }
+        ]
+      },
+      "present": {
+        "form": "turn, turns",
+        "examples": [
+          {
+            "ours": "Капитан поворачивает лодку к ветру.",
+            "thought": "[Известный] капитан поворачивает [известную] лодку в [известный] ветер.",
+            "english": "The captain turns the boat into the wind.",
+            "transcription": "[ðэ к**æ**птин тœ:нз ðэ боут **и**нту ðэ wинд]"
+          },
+          {
+            "ours": "Он не поворачивает штурвал.",
+            "thought": "Он [делает] не поворачивать [известный] штурвал.",
+            "english": "He doesn't turn the wheel.",
+            "transcription": "[хи: дазнт тœ:н ðэ wи:л]"
+          },
+          {
+            "ours": "Ты поворачиваешь к гавани?",
+            "thought": "[Делаешь] ты поворачивать к [известной] гавани?",
+            "english": "Do you turn toward the harbor?",
+            "transcription": "[ду: ю: тœ:н тэв**о**:д ðэ х**а**:бэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will turn",
+        "examples": [
+          {
+            "ours": "Завтра мы повернём на восток.",
+            "thought": "Завтра мы будем поворачивать восток.",
+            "english": "Tomorrow we will turn east.",
+            "transcription": "[тэм**о**роу wи: wил тœ:н и:ст]"
+          },
+          {
+            "ours": "Он не повернёт штурвал.",
+            "thought": "Он будет не поворачивать [известный] штурвал.",
+            "english": "He won't turn the wheel.",
+            "transcription": "[хи: wоунт тœ:н ðэ wи:л]"
+          },
+          {
+            "ours": "Ты повернёшь к берегу до гонки?",
+            "thought": "Будешь ты поворачивать к [известному] берегу перед [известной] гонкой?",
+            "english": "Will you turn toward the coast before the race?",
+            "transcription": "[wил ю: тœ:н тэв**о**:д ðэ коуст биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were turning",
+        "examples": [
+          {
+            "ours": "Вчера весь день ветер постепенно поворачивал к северу.",
+            "thought": "Вчера [известный] ветер был поворачивающим север весь день.",
+            "english": "Yesterday the wind was turning north all day.",
+            "transcription": "[й**э**стэдэй ðэ wинд wоз т**œ**:ниŋ но:θ о:л дэй]"
+          },
+          {
+            "ours": "Ты поворачивал штурвал, когда я пришёл?",
+            "thought": "Был ты поворачивающим [известный] штурвал, когда я пришёл?",
+            "english": "Were you turning the wheel when I came?",
+            "transcription": "[wœ: ю: т**œ**:ниŋ ðэ wи:л wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are turning",
+        "examples": [
+          {
+            "ours": "Сейчас мы поворачиваем лодку к ветру.",
+            "thought": "Мы являемся поворачивающими [известную] лодку в [известный] ветер сейчас.",
+            "english": "We are turning the boat into the wind now.",
+            "transcription": "[wи: а: т**œ**:ниŋ ðэ боут **и**нту ðэ wинд нау]"
+          },
+          {
+            "ours": "Ты сейчас поворачиваешь штурвал?",
+            "thought": "Являешься ты поворачивающим [известный] штурвал сейчас?",
+            "english": "Are you turning the wheel now?",
+            "transcription": "[а: ю: т**œ**:ниŋ ðэ wи:л нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be turning",
+        "examples": [
+          {
+            "ours": "Завтра ветер весь день будет постепенно поворачивать к северу.",
+            "thought": "Завтра [известный] ветер будет быть поворачивающим север весь день.",
+            "english": "Tomorrow the wind will be turning north all day.",
+            "transcription": "[тэм**о**роу ðэ wинд wил би: т**œ**:ниŋ но:θ о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь поворачивать лодку к ветру?",
+            "thought": "Будешь ты быть поворачивающим [известную] лодку в [известный] ветер?",
+            "english": "Will you be turning the boat into the wind?",
+            "transcription": "[wил ю: би: т**œ**:ниŋ ðэ боут **и**нту ðэ wинд]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had turned",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже повернули к берегу.",
+            "thought": "К пяти вчера мы имели уже повёрнутым к [известному] берегу.",
+            "english": "By five yesterday we had already turned toward the coast.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди тœ:нд тэв**о**:д ðэ коуст]"
+          },
+          {
+            "ours": "Ты повернул лодку до шторма?",
+            "thought": "Имел ты повёрнутой [известную] лодку перед [известным] штормом?",
+            "english": "Had you turned the boat before the storm?",
+            "transcription": "[хæд ю: тœ:нд ðэ боут биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has turned",
+        "examples": [
+          {
+            "ours": "Мы уже повернули лодку к ветру.",
+            "thought": "Мы имеем уже повёрнутой [известную] лодку в [известный] ветер.",
+            "english": "We have already turned the boat into the wind.",
+            "transcription": "[wи: хæв о:лр**э**ди тœ:нд ðэ боут **и**нту ðэ wинд]"
+          },
+          {
+            "ours": "Ты уже повернул штурвал?",
+            "thought": "Имеешь ты уже повёрнутым [известный] штурвал?",
+            "english": "Have you already turned the wheel?",
+            "transcription": "[хæв ю: о:лр**э**ди тœ:нд ðэ wи:л]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have turned",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже повернём лодку к берегу.",
+            "thought": "К пяти завтра мы будем иметь уже повёрнутой [известную] лодку к [известному] берегу.",
+            "english": "By five tomorrow we will have already turned the boat toward the coast.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди тœ:нд ðэ боут тэв**о**:д ðэ коуст]"
+          },
+          {
+            "ours": "Ты повернёшь лодку до шторма?",
+            "thought": "Будешь ты иметь повёрнутой [известную] лодку перед [известным] штормом?",
+            "english": "Will you have turned the boat before the storm?",
+            "transcription": "[wил ю: хæв тœ:нд ðэ боут биф**о**: ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been turning",
+        "examples": [
+          {
+            "ours": "Ветер уже два часа поворачивал к северу, когда ты пришёл.",
+            "thought": "[Известный] ветер имел быть поворачивающим север целых два часа, когда ты пришёл.",
+            "english": "The wind had been turning north for two hours when you came.",
+            "transcription": "[ðэ wинд хæд би:н т**œ**:ниŋ но:θ фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ветер уже два часа поворачивал на восток, когда он пришёл?",
+            "thought": "Имел [известный] ветер быть поворачивающим восток целых два часа, когда он пришёл?",
+            "english": "Had the wind been turning east for two hours when he came?",
+            "transcription": "[хæд ðэ wинд би:н т**œ**:ниŋ и:ст фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been turning",
+        "examples": [
+          {
+            "ours": "Ветер уже два часа поворачивает к северу.",
+            "thought": "[Известный] ветер имеет быть поворачивающим север целых два часа.",
+            "english": "The wind has been turning north for two hours.",
+            "transcription": "[ðэ wинд хæз би:н т**œ**:ниŋ но:θ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ветер уже два часа поворачивает на восток?",
+            "thought": "Имеет [известный] ветер быть поворачивающим восток целых два часа?",
+            "english": "Has the wind been turning east for two hours?",
+            "transcription": "[хæз ðэ wинд би:н т**œ**:ниŋ и:ст фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been turning",
+        "examples": [
+          {
+            "ours": "К пяти ветер будет поворачивать к северу уже два часа.",
+            "thought": "К пяти [известный] ветер будет иметь быть поворачивающим север целых два часа.",
+            "english": "By five the wind will have been turning north for two hours.",
+            "transcription": "[бай файв ðэ wинд wил хæв би:н т**œ**:ниŋ но:θ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ветер будет поворачивать на восток уже два часа?",
+            "thought": "Будет [известный] ветер иметь быть поворачивающим восток целых два часа к пяти?",
+            "english": "Will the wind have been turning east for two hours by five?",
+            "transcription": "[wил ðэ wинд хæв би:н т**œ**:ниŋ и:ст фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were turned",
+        "examples": [
+          {
+            "ours": "Вчера лодку повернули к ветру.",
+            "thought": "[Известная] лодка была повёрнута в [известный] ветер вчера.",
+            "english": "The boat was turned into the wind yesterday.",
+            "transcription": "[ðэ боут wоз тœ:нд **и**нту ðэ wинд й**э**стэдэй]"
+          },
+          {
+            "ours": "Штурвал повернули до шторма?",
+            "thought": "Был [известный] штурвал повёрнут перед [известным] штормом?",
+            "english": "Was the wheel turned before the storm?",
+            "transcription": "[wоз ðэ wи:л тœ:нд биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are turned",
+        "examples": [
+          {
+            "ours": "Лодку поворачивают к ветру перед гонкой.",
+            "thought": "[Известная] лодка есть повёрнута в [известный] ветер перед [известной] гонкой.",
+            "english": "The boat is turned into the wind before the race.",
+            "transcription": "[ðэ боут из тœ:нд **и**нту ðэ wинд биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Штурвал поворачивают к берегу?",
+            "thought": "Есть [известный] штурвал повёрнут к [известному] берегу?",
+            "english": "Is the wheel turned toward the coast?",
+            "transcription": "[из ðэ wи:л тœ:нд тэв**о**:д ðэ коуст]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be turned",
+        "examples": [
+          {
+            "ours": "Завтра лодку повернут к ветру.",
+            "thought": "[Известная] лодка будет быть повёрнута в [известный] ветер завтра.",
+            "english": "The boat will be turned into the wind tomorrow.",
+            "transcription": "[ðэ боут wил би: тœ:нд **и**нту ðэ wинд тэм**о**роу]"
+          },
+          {
+            "ours": "Штурвал повернут до гонки?",
+            "thought": "Будет [известный] штурвал быть повёрнут перед [известной] гонкой?",
+            "english": "Will the wheel be turned before the race?",
+            "transcription": "[wил ðэ wи:л би: тœ:нд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being turned",
+        "examples": [
+          {
+            "ours": "Вчера лодку поворачивали к ветру.",
+            "thought": "Вчера [известная] лодка была «долго» повёрнута в [известный] ветер.",
+            "english": "Yesterday the boat was being turned into the wind.",
+            "transcription": "[й**э**стэдэй ðэ боут wоз б**и**:иŋ тœ:нд **и**нту ðэ wинд]"
+          },
+          {
+            "ours": "Штурвал поворачивали, когда ты пришёл?",
+            "thought": "Был [известный] штурвал «долго» повёрнут, когда ты пришёл?",
+            "english": "Was the wheel being turned when you came?",
+            "transcription": "[wоз ðэ wи:л б**и**:иŋ тœ:нд wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being turned",
+        "examples": [
+          {
+            "ours": "Сейчас лодку поворачивают к ветру.",
+            "thought": "[Известная] лодка есть «долго» повёрнута в [известный] ветер сейчас.",
+            "english": "The boat is being turned into the wind now.",
+            "transcription": "[ðэ боут из б**и**:иŋ тœ:нд **и**нту ðэ wинд нау]"
+          },
+          {
+            "ours": "Сейчас поворачивают штурвал?",
+            "thought": "Есть [известный] штурвал «долго» повёрнут сейчас?",
+            "english": "Is the wheel being turned now?",
+            "transcription": "[из ðэ wи:л б**и**:иŋ тœ:нд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be turning",
+        "examples": [
+          {
+            "ours": "Завтра они будут поворачивать лодку к ветру.",
+            "thought": "Завтра они будут быть поворачивающими [известную] лодку в [известный] ветер.",
+            "english": "Tomorrow they will be turning the boat into the wind.",
+            "transcription": "[тэм**о**роу ðэй wил би: т**œ**:ниŋ ðэ боут **и**нту ðэ wинд]"
+          },
+          {
+            "ours": "Они будут поворачивать штурвал до гонки?",
+            "thought": "Будут они быть поворачивающими [известный] штурвал перед [известной] гонкой?",
+            "english": "Will they be turning the wheel before the race?",
+            "transcription": "[wил ðэй би: т**œ**:ниŋ ðэ wи:л биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been turned",
+        "examples": [
+          {
+            "ours": "Вчера к пяти лодку уже повернули.",
+            "thought": "К пяти вчера [известная] лодка имела уже быть повёрнута.",
+            "english": "By five yesterday the boat had already been turned.",
+            "transcription": "[бай файв й**э**стэдэй ðэ боут хæд о:лр**э**ди би:н тœ:нд]"
+          },
+          {
+            "ours": "Штурвал повернули до шторма?",
+            "thought": "Имел [известный] штурвал быть повёрнут перед [известным] штормом?",
+            "english": "Had the wheel been turned before the storm?",
+            "transcription": "[хæд ðэ wи:л би:н тœ:нд биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been turned",
+        "examples": [
+          {
+            "ours": "Лодку уже повернули к ветру.",
+            "thought": "[Известная] лодка имеет уже быть повёрнута в [известный] ветер.",
+            "english": "The boat has already been turned into the wind.",
+            "transcription": "[ðэ боут хæз о:лр**э**ди би:н тœ:нд **и**нту ðэ wинд]"
+          },
+          {
+            "ours": "Штурвал уже повернули?",
+            "thought": "Имеет [известный] штурвал уже быть повёрнут?",
+            "english": "Has the wheel already been turned?",
+            "transcription": "[хæз ðэ wи:л о:лр**э**ди би:н тœ:нд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been turned",
+        "examples": [
+          {
+            "ours": "К пяти завтра лодку уже повернут.",
+            "thought": "К пяти завтра [известная] лодка будет уже иметь быть повёрнута.",
+            "english": "By five tomorrow the boat will already have been turned.",
+            "transcription": "[бай файв тэм**о**роу ðэ боут wил о:лр**э**ди хæв би:н тœ:нд]"
+          },
+          {
+            "ours": "Штурвал повернут до гонки?",
+            "thought": "Будет [известный] штурвал иметь быть повёрнут перед [известной] гонкой?",
+            "english": "Will the wheel have been turned before the race?",
+            "transcription": "[wил ðэ wи:л хæв би:н тœ:нд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The boat has been turned. Или: They have been turning the boat."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они повернут лодку к ветру.",
+        "thought": "[Известный] капитан сказал, что они будут поворачивать [известную] лодку в [известный] ветер.",
+        "english": "The captain said that they would turn the boat into the wind.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд тœ:н ðэ боут **и**нту ðэ wинд]"
+      },
+      {
+        "ours": "Я знал, что ты не повернёшь штурвал.",
+        "thought": "Я знал, что ты будешь не поворачивать [известный] штурвал.",
+        "english": "I knew that you wouldn't turn the wheel.",
+        "transcription": "[ай нью: ðæт ю: wуднт тœ:н ðэ wи:л]"
+      },
+      {
+        "ours": "Капитан сказал, что мы повернём к берегу.",
+        "thought": "[Известный] капитан сказал, что мы будем поворачивать к [известному] берегу.",
+        "english": "The captain said that we would turn toward the coast.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд тœ:н тэв**о**:д ðэ коуст]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "coast",
+      "meaning": "побережье",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "coast"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "coast"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "coast"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "coast"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "coast"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "coast"
+        }
+      ]
+    },
+    {
+      "word": "wheel",
+      "meaning": "штурвал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "wheel"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "wheel"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "wheel"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "wheel"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "wheel"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "wheel"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "wheel"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "wheel"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "wheel"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "wheel"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "wheel"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "wheel"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "wheel"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "wheel"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "wheel"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "wheel"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "meaning": "буй",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "buoy"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,808 @@
+{
+  "spec": 3,
+  "verb": "use",
+  "forms": {
+    "base": [
+      {
+        "word": "use",
+        "transcription": "[ю:з]"
+      }
+    ],
+    "past": [
+      {
+        "word": "used",
+        "transcription": "[ю:зд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "used",
+        "transcription": "[ю:зд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "using",
+        "transcription": "[й**у**:зиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "uses",
+        "transcription": "[й**у**:зиз]"
+      }
+    ]
+  },
+  "meaning": "использовать, пользоваться",
+  "notes": "правильный глагол, переходный; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "used",
+        "examples": [
+          {
+            "ours": "Вчера мы пользовались рацией.",
+            "thought": "Вчера мы использовали [известную] рацию.",
+            "english": "Yesterday we used the radio.",
+            "transcription": "[й**э**стэдэй wи: ю:зд ðэ р**э**йдиоу]"
+          },
+          {
+            "ours": "Ты пользовался картой до гонки?",
+            "thought": "[Сделал] ты использовать [известную] карту перед [известной] гонкой?",
+            "english": "Did you use the chart before the race?",
+            "transcription": "[дид ю: ю:з ðэ ча:т биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Он не использовал компас.",
+            "thought": "Он [сделал] не использовать [известный] компас.",
+            "english": "He didn't use the compass.",
+            "transcription": "[хи: диднт ю:з ðэ к**а**мпэс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "use, uses",
+        "examples": [
+          {
+            "ours": "Экипаж часто пользуется рацией.",
+            "thought": "[Известный] экипаж часто использует [известную] рацию.",
+            "english": "The crew often uses the radio.",
+            "transcription": "[ðэ кру: **о**фэн й**у**:зиз ðэ р**э**йдиоу]"
+          },
+          {
+            "ours": "Он не пользуется картой.",
+            "thought": "Он [делает] не использовать [известную] карту.",
+            "english": "He doesn't use the chart.",
+            "transcription": "[хи: дазнт ю:з ðэ ча:т]"
+          },
+          {
+            "ours": "Ты используешь компас в море?",
+            "thought": "[Делаешь] ты использовать [известный] компас в море?",
+            "english": "Do you use the compass at sea?",
+            "transcription": "[ду: ю: ю:з ðэ к**а**мпэс æт си:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will use",
+        "examples": [
+          {
+            "ours": "Завтра мы будем пользоваться рацией.",
+            "thought": "Завтра мы будем использовать [известную] рацию.",
+            "english": "Tomorrow we will use the radio.",
+            "transcription": "[тэм**о**роу wи: wил ю:з ðэ р**э**йдиоу]"
+          },
+          {
+            "ours": "Он не будет пользоваться картой.",
+            "thought": "Он будет не использовать [известную] карту.",
+            "english": "He won't use the chart.",
+            "transcription": "[хи: wоунт ю:з ðэ ча:т]"
+          },
+          {
+            "ours": "Ты воспользуешься компасом в море?",
+            "thought": "Будешь ты использовать [известный] компас в море?",
+            "english": "Will you use the compass at sea?",
+            "transcription": "[wил ю: ю:з ðэ к**а**мпэс æт си:]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were using",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день пользовались рацией.",
+            "thought": "Вчера мы были использующими [известную] рацию весь день.",
+            "english": "Yesterday we were using the radio all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: й**у**:зиŋ ðэ р**э**йдиоу о:л дэй]"
+          },
+          {
+            "ours": "Ты весь день пользовался картой?",
+            "thought": "Был ты использующим [известную] карту весь день?",
+            "english": "Were you using the chart all day?",
+            "transcription": "[wœ: ю: й**у**:зиŋ ðэ ча:т о:л дэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are using",
+        "examples": [
+          {
+            "ours": "Сейчас мы пользуемся рацией.",
+            "thought": "Мы являемся использующими [известную] рацию сейчас.",
+            "english": "We are using the radio now.",
+            "transcription": "[wи: а: й**у**:зиŋ ðэ р**э**йдиоу нау]"
+          },
+          {
+            "ours": "Ты сейчас пользуешься компасом?",
+            "thought": "Являешься ты использующим [известный] компас сейчас?",
+            "english": "Are you using the compass now?",
+            "transcription": "[а: ю: й**у**:зиŋ ðэ к**а**мпэс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be using",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем пользоваться рацией.",
+            "thought": "Завтра мы будем быть использующими [известную] рацию весь день.",
+            "english": "Tomorrow we will be using the radio all day.",
+            "transcription": "[тэм**о**роу wи: wил би: й**у**:зиŋ ðэ р**э**йдиоу о:л дэй]"
+          },
+          {
+            "ours": "Ты завтра весь день будешь пользоваться картой?",
+            "thought": "Будешь ты быть использующим [известную] карту весь день завтра?",
+            "english": "Will you be using the chart all day tomorrow?",
+            "transcription": "[wил ю: би: й**у**:зиŋ ðэ ча:т о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had used",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже воспользовались рацией.",
+            "thought": "К пяти вчера мы имели уже использованной [известную] рацию.",
+            "english": "By five yesterday we had already used the radio.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди ю:зд ðэ р**э**йдиоу]"
+          },
+          {
+            "ours": "Ты пользовался картой до гонки?",
+            "thought": "Имел ты использованной [известную] карту перед [известной] гонкой?",
+            "english": "Had you used the chart before the race?",
+            "transcription": "[хæд ю: ю:зд ðэ ча:т биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has used",
+        "examples": [
+          {
+            "ours": "Мы уже воспользовались рацией.",
+            "thought": "Мы имеем уже использованной [известную] рацию.",
+            "english": "We have already used the radio.",
+            "transcription": "[wи: хæв о:лр**э**ди ю:зд ðэ р**э**йдиоу]"
+          },
+          {
+            "ours": "Ты уже использовал карту?",
+            "thought": "Имеешь ты уже использованной [известную] карту?",
+            "english": "Have you already used the chart?",
+            "transcription": "[хæв ю: о:лр**э**ди ю:зд ðэ ча:т]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have used",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже воспользуемся рацией.",
+            "thought": "К пяти завтра мы будем иметь уже использованной [известную] рацию.",
+            "english": "By five tomorrow we will have already used the radio.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди ю:зд ðэ р**э**йдиоу]"
+          },
+          {
+            "ours": "Ты используешь карту до гонки?",
+            "thought": "Будешь ты иметь использованной [известную] карту перед [известной] гонкой?",
+            "english": "Will you have used the chart before the race?",
+            "transcription": "[wил ю: хæв ю:зд ðэ ча:т биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been using",
+        "examples": [
+          {
+            "ours": "Мы уже два часа пользовались рацией, когда ты пришёл.",
+            "thought": "Мы имели быть использующими [известную] рацию целых два часа, когда ты пришёл.",
+            "english": "We had been using the radio for two hours when you came.",
+            "transcription": "[wи: хæд би:н й**у**:зиŋ ðэ р**э**йдиоу фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа пользовался картой, когда он пришёл?",
+            "thought": "Имел ты быть использующим [известную] карту целых два часа, когда он пришёл?",
+            "english": "Had you been using the chart for two hours when he came?",
+            "transcription": "[хæд ю: би:н й**у**:зиŋ ðэ ча:т фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been using",
+        "examples": [
+          {
+            "ours": "Мы уже два часа пользуемся рацией.",
+            "thought": "Мы имеем быть использующими [известную] рацию целых два часа.",
+            "english": "We have been using the radio for two hours.",
+            "transcription": "[wи: хæв би:н й**у**:зиŋ ðэ р**э**йдиоу фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа пользуешься картой?",
+            "thought": "Имеешь ты быть использующим [известную] карту целых два часа?",
+            "english": "Have you been using the chart for two hours?",
+            "transcription": "[хæв ю: би:н й**у**:зиŋ ðэ ча:т фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been using",
+        "examples": [
+          {
+            "ours": "К пяти мы будем пользоваться рацией уже два часа.",
+            "thought": "К пяти мы будем иметь быть использующими [известную] рацию целых два часа.",
+            "english": "By five we will have been using the radio for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н й**у**:зиŋ ðэ р**э**йдиоу фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь пользоваться картой уже два часа?",
+            "thought": "Будешь ты иметь быть использующим [известную] карту целых два часа к пяти?",
+            "english": "Will you have been using the chart for two hours by five?",
+            "transcription": "[wил ю: хæв би:н й**у**:зиŋ ðэ ча:т фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were used",
+        "examples": [
+          {
+            "ours": "Вчера рацией пользовались.",
+            "thought": "[Известная] рация была использована вчера.",
+            "english": "The radio was used yesterday.",
+            "transcription": "[ðэ р**э**йдиоу wоз ю:зд й**э**стэдэй]"
+          },
+          {
+            "ours": "Карту использовали до гонки?",
+            "thought": "Была [известная] карта использована перед [известной] гонкой?",
+            "english": "Was the chart used before the race?",
+            "transcription": "[wоз ðэ ча:т ю:зд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are used",
+        "examples": [
+          {
+            "ours": "Рацией пользуются каждый день.",
+            "thought": "[Известная] рация есть использована каждый день.",
+            "english": "The radio is used every day.",
+            "transcription": "[ðэ р**э**йдиоу из ю:зд **э**ври дэй]"
+          },
+          {
+            "ours": "Карту используют на борту?",
+            "thought": "Есть [известная] карта использована на борту?",
+            "english": "Is the chart used on board?",
+            "transcription": "[из ðэ ча:т ю:зд он бо:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be used",
+        "examples": [
+          {
+            "ours": "Завтра будут пользоваться рацией.",
+            "thought": "[Известная] рация будет быть использована завтра.",
+            "english": "The radio will be used tomorrow.",
+            "transcription": "[ðэ р**э**йдиоу wил би: ю:зд тэм**о**роу]"
+          },
+          {
+            "ours": "Карту используют до гонки?",
+            "thought": "Будет [известная] карта быть использована перед [известной] гонкой?",
+            "english": "Will the chart be used before the race?",
+            "transcription": "[wил ðэ ча:т би: ю:зд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being used",
+        "examples": [
+          {
+            "ours": "Вчера рацией пользовались весь день.",
+            "thought": "Вчера [известная] рация была «долго» использована весь день.",
+            "english": "Yesterday the radio was being used all day.",
+            "transcription": "[й**э**стэдэй ðэ р**э**йдиоу wоз б**и**:иŋ ю:зд о:л дэй]"
+          },
+          {
+            "ours": "Вчера весь день пользовались картой?",
+            "thought": "Была [известная] карта «долго» использована весь день вчера?",
+            "english": "Was the chart being used all day yesterday?",
+            "transcription": "[wоз ðэ ча:т б**и**:иŋ ю:зд о:л дэй й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being used",
+        "examples": [
+          {
+            "ours": "Сейчас рацией пользуются.",
+            "thought": "[Известная] рация есть «долго» использована сейчас.",
+            "english": "The radio is being used now.",
+            "transcription": "[ðэ р**э**йдиоу из б**и**:иŋ ю:зд нау]"
+          },
+          {
+            "ours": "Сейчас пользуются картой?",
+            "thought": "Есть [известная] карта «долго» использована сейчас?",
+            "english": "Is the chart being used now?",
+            "transcription": "[из ðэ ча:т б**и**:иŋ ю:зд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be using",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут пользоваться рацией.",
+            "thought": "Завтра они будут быть использующими [известную] рацию весь день.",
+            "english": "Tomorrow they will be using the radio all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: й**у**:зиŋ ðэ р**э**йдиоу о:л дэй]"
+          },
+          {
+            "ours": "Завтра они весь день будут пользоваться картой?",
+            "thought": "Будут они быть использующими [известную] карту весь день завтра?",
+            "english": "Will they be using the chart all day tomorrow?",
+            "transcription": "[wил ðэй би: й**у**:зиŋ ðэ ча:т о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been used",
+        "examples": [
+          {
+            "ours": "Вчера к пяти рацией уже воспользовались.",
+            "thought": "К пяти вчера [известная] рация имела уже быть использована.",
+            "english": "By five yesterday the radio had already been used.",
+            "transcription": "[бай файв й**э**стэдэй ðэ р**э**йдиоу хæд о:лр**э**ди би:н ю:зд]"
+          },
+          {
+            "ours": "Карту использовали до гонки?",
+            "thought": "Имела [известная] карта быть использована перед [известной] гонкой?",
+            "english": "Had the chart been used before the race?",
+            "transcription": "[хæд ðэ ча:т би:н ю:зд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been used",
+        "examples": [
+          {
+            "ours": "Рацией уже воспользовались.",
+            "thought": "[Известная] рация имеет уже быть использована.",
+            "english": "The radio has already been used.",
+            "transcription": "[ðэ р**э**йдиоу хæз о:лр**э**ди би:н ю:зд]"
+          },
+          {
+            "ours": "Карту уже использовали?",
+            "thought": "Имеет [известная] карта уже быть использована?",
+            "english": "Has the chart already been used?",
+            "transcription": "[хæз ðэ ча:т о:лр**э**ди би:н ю:зд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been used",
+        "examples": [
+          {
+            "ours": "Завтра к пяти рацией уже воспользуются.",
+            "thought": "К пяти завтра [известная] рация будет уже иметь быть использована.",
+            "english": "By five tomorrow the radio will already have been used.",
+            "transcription": "[бай файв тэм**о**роу ðэ р**э**йдиоу wил о:лр**э**ди хæв би:н ю:зд]"
+          },
+          {
+            "ours": "Карту используют до гонки?",
+            "thought": "Будет [известная] карта иметь быть использована перед [известной] гонкой?",
+            "english": "Will the chart have been used before the race?",
+            "transcription": "[wил ðэ ча:т хæв би:н ю:зд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The radio has been used. Или: They have been using the radio."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они воспользуются рацией.",
+        "thought": "[Известный] капитан сказал, что они будут использовать [известную] рацию.",
+        "english": "The captain said that they would use the radio.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд ю:з ðэ р**э**йдиоу]"
+      },
+      {
+        "ours": "Я знал, что ты используешь карту.",
+        "thought": "Я знал, что ты будешь использовать [известную] карту.",
+        "english": "I knew that you would use the chart.",
+        "transcription": "[ай нью: ðæт ю: wуд ю:з ðэ ча:т]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "radio",
+      "meaning": "рация",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

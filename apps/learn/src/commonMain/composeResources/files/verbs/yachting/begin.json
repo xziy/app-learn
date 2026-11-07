@@ -1,0 +1,483 @@
+{
+  "spec": 3,
+  "verb": "begin",
+  "forms": {
+    "base": [
+      {
+        "word": "begin",
+        "transcription": "[биг**и**н]"
+      }
+    ],
+    "past": [
+      {
+        "word": "began",
+        "transcription": "[биг**æ**н]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "begun",
+        "transcription": "[биг**а**н]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "beginning",
+        "transcription": "[биг**и**ниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "begins",
+        "transcription": "[биг**и**нз]"
+      }
+    ]
+  },
+  "meaning": "начинаться, начинать",
+  "notes": "неправильный глагол; здесь begin употребляется непереходно в значении «начинаться»",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "began",
+        "examples": [
+          {
+            "ours": "Регата началась вчера.",
+            "thought": "[Известная] регата началась вчера.",
+            "english": "The regatta began yesterday.",
+            "transcription": "[ðэ риг**æ**тэ биг**æ**н й**э**стэдэй]"
+          },
+          {
+            "ours": "Вахта началась в шесть?",
+            "thought": "[Сделала] [известная] вахта начинаться в шесть?",
+            "english": "Did the watch begin at six?",
+            "transcription": "[дид ðэ wоч биг**и**н æт сикс]"
+          },
+          {
+            "ours": "Шторм не начался до рассвета.",
+            "thought": "[Известный] шторм [сделал] не начинаться перед рассветом.",
+            "english": "The storm did not begin before dawn.",
+            "transcription": "[ðэ сто:м дид нот биг**и**н биф**о**: до:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "begin, begins",
+        "examples": [
+          {
+            "ours": "Гонка начинается в полдень.",
+            "thought": "[Известная] гонка начинается в полдень.",
+            "english": "The race begins at noon.",
+            "transcription": "[ðэ рэйс биг**и**нз æт ну:н]"
+          },
+          {
+            "ours": "Ваши тренировки начинаются в марине?",
+            "thought": "[Делают] ваши тренировки начинаться в [известной] марине?",
+            "english": "Do your lessons begin at the marina?",
+            "transcription": "[ду: йо: л**э**снз биг**и**н æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Сезон не начинается в марте.",
+            "thought": "[Известный] сезон [делает] не начинаться в марте.",
+            "english": "The season does not begin in March.",
+            "transcription": "[ðэ с**и**:зн даз нот биг**и**н ин ма:ч]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will begin",
+        "examples": [
+          {
+            "ours": "Завтра начнётся переход.",
+            "thought": "Завтра [известный] переход будет начинаться.",
+            "english": "Tomorrow the passage will begin.",
+            "transcription": "[тэм**о**роу ðэ п**æ**сидж wил биг**и**н]"
+          },
+          {
+            "ours": "Гонка начнётся вовремя?",
+            "thought": "Будет [известная] гонка начинаться во время?",
+            "english": "Will the race begin on time?",
+            "transcription": "[wил ðэ рэйс биг**и**н он тайм]"
+          },
+          {
+            "ours": "Ремонт не начнётся до понедельника.",
+            "thought": "[Известные] ремонты будут не начинаться перед понедельником.",
+            "english": "The repairs will not begin before Monday.",
+            "transcription": "[ðэ рип**э**эз wил нот биг**и**н биф**о**: м**а**ндэй]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were beginning",
+        "examples": [
+          {
+            "ours": "Гонка начиналась, когда мы пришли к причалу.",
+            "thought": "[Известная] гонка была начинающейся, когда мы достигли [известного] причала.",
+            "english": "The race was beginning when we reached the dock.",
+            "transcription": "[ðэ рэйс wоз биг**и**ниŋ wэн wи: ри:чт ðэ док]"
+          },
+          {
+            "ours": "Когда ты проснулся, уже начинался шторм?",
+            "thought": "Был [известный] шторм начинающимся, когда ты проснулся?",
+            "english": "Was the storm beginning when you woke up?",
+            "transcription": "[wоз ðэ сто:м биг**и**ниŋ wэн ю: wоук ап]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are beginning",
+        "examples": [
+          {
+            "ours": "Сейчас начинается инструктаж.",
+            "thought": "[Известный] инструктаж является начинающимся сейчас.",
+            "english": "The briefing is beginning now.",
+            "transcription": "[ðэ бр**и**:фиŋ из биг**и**ниŋ нау]"
+          },
+          {
+            "ours": "Гонка уже начинается?",
+            "thought": "Является [известная] гонка начинающейся сейчас?",
+            "english": "Is the race beginning now?",
+            "transcription": "[из ðэ рэйс биг**и**ниŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be beginning",
+        "examples": [
+          {
+            "ours": "Завтра в полдень будет начинаться гонка.",
+            "thought": "Завтра в полдень [известная] гонка будет быть начинающейся.",
+            "english": "Tomorrow at noon the race will be beginning.",
+            "transcription": "[тэм**о**роу æт ну:н ðэ рэйс wил би: биг**и**ниŋ]"
+          },
+          {
+            "ours": "Инструктаж будет начинаться, когда мы прибудем?",
+            "thought": "Будет [известный] инструктаж быть начинающимся, когда мы прибываем?",
+            "english": "Will the briefing be beginning when we arrive?",
+            "transcription": "[wил ðэ бр**и**:фиŋ би: биг**и**ниŋ wэн wи: эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had begun",
+        "examples": [
+          {
+            "ours": "К полудню гонка уже началась.",
+            "thought": "К полудню [известная] гонка имела уже начатым.",
+            "english": "By noon the race had already begun.",
+            "transcription": "[бай ну:н ðэ рэйс хæд о:лр**э**ди биг**а**н]"
+          },
+          {
+            "ours": "Шторм начался к пяти?",
+            "thought": "Имел [известный] шторм начатым к пяти?",
+            "english": "Had the storm begun by five?",
+            "transcription": "[хæд ðэ сто:м биг**а**н бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has begun",
+        "examples": [
+          {
+            "ours": "Регата уже началась.",
+            "thought": "[Известная] регата имеет уже начатым.",
+            "english": "The regatta has already begun.",
+            "transcription": "[ðэ риг**æ**тэ хæз о:лр**э**ди биг**а**н]"
+          },
+          {
+            "ours": "Твоя вахта уже началась?",
+            "thought": "Имеет твоя вахта начатым уже?",
+            "english": "Has your watch begun yet?",
+            "transcription": "[хæз йо: wоч биг**а**н йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have begun",
+        "examples": [
+          {
+            "ours": "К полудню гонка уже начнётся.",
+            "thought": "К полудню [известная] гонка будет иметь начатым.",
+            "english": "By noon the race will have begun.",
+            "transcription": "[бай ну:н ðэ рэйс wил хæв биг**а**н]"
+          },
+          {
+            "ours": "К пяти ремонт уже начнётся?",
+            "thought": "Будут [известные] ремонты иметь начатым к пяти?",
+            "english": "Will the repairs have begun by five?",
+            "transcription": "[wил ðэ рип**э**эз хæв биг**а**н бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Начало — краткий переход к событию, поэтому выражать его как действие, продолжающееся целый час, обычно неестественно. Скажут: The race has already begun или The crew has been preparing for an hour."
+    }
+  },
+  "passive": {
+    "not_possible": "В значении «начинаться» begin непереходный, поэтому пассив не образуется: The race began at noon."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что гонка начнётся в полдень.",
+        "thought": "Я знал, [известная] гонка будет начинаться в полдень.",
+        "english": "I knew the race would begin at noon.",
+        "transcription": "[ай нью: ðэ рэйс wуд биг**и**н æт ну:н]"
+      },
+      {
+        "ours": "Она думала, что шторм не начнётся ночью.",
+        "thought": "Она думала, [известный] шторм будет не начинаться в ночи.",
+        "english": "She thought the storm would not begin at night.",
+        "transcription": "[ши: θо:т ðэ сто:м wуд нот биг**и**н æт найт]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "watch",
+      "meaning": "вахта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "watch"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "watch"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "lesson",
+      "meaning": "урок",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "lessons"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "season",
+      "meaning": "сезон",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "season"
+        }
+      ]
+    },
+    {
+      "word": "March",
+      "meaning": "март",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "March"
+        }
+      ]
+    },
+    {
+      "word": "passage",
+      "meaning": "морской переход",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "passage"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "repairs",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "repairs"
+        }
+      ]
+    },
+    {
+      "word": "Monday",
+      "meaning": "понедельник",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "Monday"
+        }
+      ]
+    },
+    {
+      "word": "dock",
+      "meaning": "причал",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "dock"
+        }
+      ]
+    },
+    {
+      "word": "briefing",
+      "meaning": "инструктаж",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "briefing"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "night"
+        }
+      ]
+    }
+  ]
+}

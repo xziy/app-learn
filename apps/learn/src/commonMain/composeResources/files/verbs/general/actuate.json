@@ -1,0 +1,884 @@
+{
+  "spec": 3,
+  "verb": "actuate",
+  "forms": {
+    "base": [
+      {
+        "word": "actuate",
+        "transcription": "[**æ**ктчуэйт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "actuated",
+        "transcription": "[**æ**ктчуэйтид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "actuated",
+        "transcription": "[**æ**ктчуэйтид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "actuating",
+        "transcription": "[**æ**ктчуэйтиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "actuates",
+        "transcription": "[**æ**ктчуэйтс]"
+      }
+    ]
+  },
+  "meaning": "приводить в действие, побуждать",
+  "notes": "правильный переходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "actuated",
+        "examples": [
+          {
+            "ours": "Вчера выключатель привёл клапан в действие.",
+            "thought": "[Известный] выключатель привёл в действие [известный] клапан вчера.",
+            "english": "The switch actuated the valve yesterday.",
+            "transcription": "[ðэ сwич **æ**ктчуэйтид ðэ вæлв й**э**стэдэй]"
+          },
+          {
+            "ours": "Датчик привёл насос в действие вчера?",
+            "thought": "[Сделал] [известный] датчик приводить в действие [известный] насос вчера?",
+            "english": "Did the sensor actuate the pump yesterday?",
+            "transcription": "[дид ðэ с**э**нсэ **æ**ктчуэйт ðэ памп й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "actuate, actuates",
+        "examples": [
+          {
+            "ours": "Датчик приводит клапан в действие.",
+            "thought": "[Известный] датчик приводит в действие [известный] клапан.",
+            "english": "The sensor actuates the valve.",
+            "transcription": "[ðэ с**э**нсэ **æ**ктчуэйтс ðэ вæлв]"
+          },
+          {
+            "ours": "Выключатель приводит в действие насос?",
+            "thought": "[Делает] [известный] выключатель приводить в действие [известный] насос?",
+            "english": "Does the switch actuate the pump?",
+            "transcription": "[даз ðэ сwич **æ**ктчуэйт ðэ памп]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will actuate",
+        "examples": [
+          {
+            "ours": "Завтра рычаг приведёт клапан в действие.",
+            "thought": "[Известный] рычаг будет приводить в действие [известный] клапан завтра.",
+            "english": "The lever will actuate the valve tomorrow.",
+            "transcription": "[ðэ л**и**:вэ wил **æ**ктчуэйт ðэ вæлв тэм**о**роу]"
+          },
+          {
+            "ours": "Датчик завтра приведёт в действие сигнализацию?",
+            "thought": "Будет [известный] датчик приводить в действие [известную] сигнализацию завтра?",
+            "english": "Will the sensor actuate the alarm tomorrow?",
+            "transcription": "[wил ðэ с**э**нсэ **æ**ктчуэйт ðэ эл**а**:м тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were actuating",
+        "examples": [
+          {
+            "ours": "Вчера оператор весь день приводил клапан в действие при испытаниях.",
+            "thought": "[Известный] оператор был приводящим в действие [известный] клапан во время испытаний весь день вчера.",
+            "english": "The operator was actuating the valve during tests all day yesterday.",
+            "transcription": "[ðэ **о**пэрэйтэ wоз **æ**ктчуэйтиŋ ðэ вæлв дь**ю**эриŋ тэстс о:л дэй й**э**стэдэй]"
+          },
+          {
+            "ours": "Инженер весь день приводил насос в действие при испытаниях вчера?",
+            "thought": "Был [известный] инженер приводящим в действие [известный] насос во время испытаний весь день вчера?",
+            "english": "Was the engineer actuating the pump during tests all day yesterday?",
+            "transcription": "[wоз ðэ энджин**и**э **æ**ктчуэйтиŋ ðэ памп дь**ю**эриŋ тэстс о:л дэй й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are actuating",
+        "examples": [
+          {
+            "ours": "Оператор сейчас приводит в действие клапан.",
+            "thought": "[Известный] оператор является приводящим в действие [известный] клапан сейчас.",
+            "english": "The operator is actuating the valve now.",
+            "transcription": "[ðэ **о**пэрэйтэ из **æ**ктчуэйтиŋ ðэ вæлв нау]"
+          },
+          {
+            "ours": "Инженер сейчас приводит в действие насос?",
+            "thought": "Является [известный] инженер приводящим в действие [известный] насос сейчас?",
+            "english": "Is the engineer actuating the pump now?",
+            "transcription": "[из ðэ энджин**и**э **æ**ктчуэйтиŋ ðэ памп нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be actuating",
+        "examples": [
+          {
+            "ours": "Завтра оператор будет весь день приводить клапан в действие при испытаниях.",
+            "thought": "Завтра [известный] оператор будет быть приводящим в действие [известный] клапан во время испытаний весь день.",
+            "english": "Tomorrow the operator will be actuating the valve during tests all day.",
+            "transcription": "[тэм**о**роу ðэ **о**пэрэйтэ wил би: **æ**ктчуэйтиŋ ðэ вæлв дь**ю**эриŋ тэстс о:л дэй]"
+          },
+          {
+            "ours": "Завтра инженер будет весь день приводить насос в действие при испытаниях?",
+            "thought": "Будет [известный] инженер быть приводящим в действие [известный] насос во время испытаний весь день завтра?",
+            "english": "Will the engineer be actuating the pump during tests all day tomorrow?",
+            "transcription": "[wил ðэ энджин**и**э би: **æ**ктчуэйтиŋ ðэ памп дь**ю**эриŋ тэстс о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had actuated",
+        "examples": [
+          {
+            "ours": "Вчера к пяти оператор привёл клапан в действие.",
+            "thought": "К пяти вчера [известный] оператор имел приведённым в действие [известный] клапан.",
+            "english": "By five yesterday the operator had actuated the valve.",
+            "transcription": "[бай файв й**э**стэдэй ðэ **о**пэрэйтэ хæд **æ**ктчуэйтид ðэ вæлв]"
+          },
+          {
+            "ours": "Вчера к пяти инженер привёл насос в действие?",
+            "thought": "Имел [известный] инженер приведённым в действие [известный] насос к пяти вчера?",
+            "english": "Had the engineer actuated the pump by five yesterday?",
+            "transcription": "[хæд ðэ энджин**и**э **æ**ктчуэйтид ðэ памп бай файв й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has actuated",
+        "examples": [
+          {
+            "ours": "Оператор уже привёл клапан в действие.",
+            "thought": "[Известный] оператор имеет уже приведённым в действие [известный] клапан.",
+            "english": "The operator has already actuated the valve.",
+            "transcription": "[ðэ **о**пэрэйтэ хæз о:лр**э**ди **æ**ктчуэйтид ðэ вæлв]"
+          },
+          {
+            "ours": "Инженер уже привёл насос в действие?",
+            "thought": "Имеет [известный] инженер уже приведённым в действие [известный] насос?",
+            "english": "Has the engineer already actuated the pump?",
+            "transcription": "[хæз ðэ энджин**и**э о:лр**э**ди **æ**ктчуэйтид ðэ памп]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have actuated",
+        "examples": [
+          {
+            "ours": "Завтра к пяти оператор приведёт клапан в действие.",
+            "thought": "К пяти завтра [известный] оператор будет иметь приведённым в действие [известный] клапан.",
+            "english": "By five tomorrow the operator will have actuated the valve.",
+            "transcription": "[бай файв тэм**о**роу ðэ **о**пэрэйтэ wил хæв **æ**ктчуэйтид ðэ вæлв]"
+          },
+          {
+            "ours": "Инженер приведёт насос в действие к пяти завтра?",
+            "thought": "Будет [известный] инженер иметь приведённым в действие [известный] насос к пяти завтра?",
+            "english": "Will the engineer have actuated the pump by five tomorrow?",
+            "transcription": "[wил ðэ энджин**и**э хæв **æ**ктчуэйтид ðэ памп бай файв тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been actuating",
+        "examples": [
+          {
+            "ours": "Оператор приводил клапан в действие два часа, когда я пришёл.",
+            "thought": "[Известный] оператор имел быть приводящим в действие [известный] клапан целых два часа, когда я пришёл.",
+            "english": "The operator had been actuating the valve for two hours when I arrived.",
+            "transcription": "[ðэ **о**пэрэйтэ хæд би:н **æ**ктчуэйтиŋ ðэ вæлв фо: ту: **а**уэз wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Инженер приводил насос в действие два часа, когда я пришёл?",
+            "thought": "Имел [известный] инженер быть приводящим в действие [известный] насос целых два часа, когда я пришёл?",
+            "english": "Had the engineer been actuating the pump for two hours when I arrived?",
+            "transcription": "[хæд ðэ энджин**и**э би:н **æ**ктчуэйтиŋ ðэ памп фо: ту: **а**уэз wэн ай эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been actuating",
+        "examples": [
+          {
+            "ours": "Оператор уже два часа приводит клапан в действие.",
+            "thought": "[Известный] оператор имеет быть приводящим в действие [известный] клапан целых два часа.",
+            "english": "The operator has been actuating the valve for two hours.",
+            "transcription": "[ðэ **о**пэрэйтэ хæз би:н **æ**ктчуэйтиŋ ðэ вæлв фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Инженер уже два часа приводит насос в действие?",
+            "thought": "Имеет [известный] инженер быть приводящим в действие [известный] насос целых два часа?",
+            "english": "Has the engineer been actuating the pump for two hours?",
+            "transcription": "[хæз ðэ энджин**и**э би:н **æ**ктчуэйтиŋ ðэ памп фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been actuating",
+        "examples": [
+          {
+            "ours": "К пяти оператор будет приводить клапан в действие уже два часа.",
+            "thought": "К пяти [известный] оператор будет иметь быть приводящим в действие [известный] клапан целых два часа.",
+            "english": "By five the operator will have been actuating the valve for two hours.",
+            "transcription": "[бай файв ðэ **о**пэрэйтэ wил хæв би:н **æ**ктчуэйтиŋ ðэ вæлв фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти инженер будет приводить насос в действие уже два часа?",
+            "thought": "Будет [известный] инженер иметь быть приводящим в действие [известный] насос целых два часа к пяти?",
+            "english": "Will the engineer have been actuating the pump for two hours by five?",
+            "transcription": "[wил ðэ энджин**и**э хæв би:н **æ**ктчуэйтиŋ ðэ памп фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were actuated",
+        "examples": [
+          {
+            "ours": "Клапан привели в действие вчера.",
+            "thought": "[Известный] клапан был приведён в действие вчера.",
+            "english": "The valve was actuated yesterday.",
+            "transcription": "[ðэ вæлв wоз **æ**ктчуэйтид й**э**стэдэй]"
+          },
+          {
+            "ours": "Насос привели в действие вчера?",
+            "thought": "Был [известный] насос приведён в действие вчера?",
+            "english": "Was the pump actuated yesterday?",
+            "transcription": "[wоз ðэ памп **æ**ктчуэйтид й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are actuated",
+        "examples": [
+          {
+            "ours": "Клапан приводится в действие датчиком.",
+            "thought": "[Известный] клапан есть приведён в действие от [известного] датчика.",
+            "english": "The valve is actuated by the sensor.",
+            "transcription": "[ðэ вæлв из **æ**ктчуэйтид бай ðэ с**э**нсэ]"
+          },
+          {
+            "ours": "Насос приводится в действие выключателем?",
+            "thought": "Есть [известный] насос приведён в действие от [известного] выключателя?",
+            "english": "Is the pump actuated by the switch?",
+            "transcription": "[из ðэ памп **æ**ктчуэйтид бай ðэ сwич]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be actuated",
+        "examples": [
+          {
+            "ours": "Клапан приведут в действие завтра.",
+            "thought": "[Известный] клапан будет быть приведён в действие завтра.",
+            "english": "The valve will be actuated tomorrow.",
+            "transcription": "[ðэ вæлв wил би: **æ**ктчуэйтид тэм**о**роу]"
+          },
+          {
+            "ours": "Насос приведут в действие завтра?",
+            "thought": "Будет [известный] насос быть приведён в действие завтра?",
+            "english": "Will the pump be actuated tomorrow?",
+            "transcription": "[wил ðэ памп би: **æ**ктчуэйтид тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being actuated",
+        "examples": [
+          {
+            "ours": "Клапан вчера неоднократно приводили в действие при испытаниях.",
+            "thought": "[Известный] клапан был «долго» приведён в действие неоднократно во время испытаний вчера.",
+            "english": "The valve was being actuated repeatedly during tests yesterday.",
+            "transcription": "[ðэ вæлв wоз б**и**:иŋ **æ**ктчуэйтид рип**и**:тидли дь**ю**эриŋ тэстс й**э**стэдэй]"
+          },
+          {
+            "ours": "Насос вчера неоднократно приводили в действие при испытаниях?",
+            "thought": "Был [известный] насос «долго» приведён в действие неоднократно во время испытаний вчера?",
+            "english": "Was the pump being actuated repeatedly during tests yesterday?",
+            "transcription": "[wоз ðэ памп б**и**:иŋ **æ**ктчуэйтид рип**и**:тидли дь**ю**эриŋ тэстс й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being actuated",
+        "examples": [
+          {
+            "ours": "Клапан сейчас неоднократно приводят в действие при испытаниях.",
+            "thought": "[Известный] клапан есть «долго» приведён в действие неоднократно во время испытаний сейчас.",
+            "english": "The valve is being actuated repeatedly during tests now.",
+            "transcription": "[ðэ вæлв из б**и**:иŋ **æ**ктчуэйтид рип**и**:тидли дь**ю**эриŋ тэстс нау]"
+          },
+          {
+            "ours": "Насос сейчас неоднократно приводят в действие при испытаниях?",
+            "thought": "Есть [известный] насос «долго» приведён в действие неоднократно во время испытаний сейчас?",
+            "english": "Is the pump being actuated repeatedly during tests now?",
+            "transcription": "[из ðэ памп б**и**:иŋ **æ**ктчуэйтид рип**и**:тидли дь**ю**эриŋ тэстс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be actuating",
+        "examples": [
+          {
+            "ours": "Завтра они будут весь день приводить клапан в действие при испытаниях.",
+            "thought": "Завтра они будут быть приводящими в действие [известный] клапан во время испытаний весь день.",
+            "english": "Tomorrow they will be actuating the valve during tests all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: **æ**ктчуэйтиŋ ðэ вæлв дь**ю**эриŋ тэстс о:л дэй]"
+          },
+          {
+            "ours": "Они завтра будут весь день приводить насос в действие при испытаниях?",
+            "thought": "Будут они быть приводящими в действие [известный] насос во время испытаний весь день завтра?",
+            "english": "Will they be actuating the pump during tests all day tomorrow?",
+            "transcription": "[wил ðэй би: **æ**ктчуэйтиŋ ðэ памп дь**ю**эриŋ тэстс о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been actuated",
+        "examples": [
+          {
+            "ours": "Вчера к пяти клапан привели в действие.",
+            "thought": "К пяти вчера [известный] клапан имел быть приведён в действие.",
+            "english": "By five yesterday the valve had been actuated.",
+            "transcription": "[бай файв й**э**стэдэй ðэ вæлв хæд би:н **æ**ктчуэйтид]"
+          },
+          {
+            "ours": "Насос привели в действие к пяти вчера?",
+            "thought": "Имел [известный] насос быть приведён в действие к пяти вчера?",
+            "english": "Had the pump been actuated by five yesterday?",
+            "transcription": "[хæд ðэ памп би:н **æ**ктчуэйтид бай файв й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been actuated",
+        "examples": [
+          {
+            "ours": "Клапан уже привели в действие.",
+            "thought": "[Известный] клапан имеет уже быть приведён в действие.",
+            "english": "The valve has already been actuated.",
+            "transcription": "[ðэ вæлв хæз о:лр**э**ди би:н **æ**ктчуэйтид]"
+          },
+          {
+            "ours": "Насос уже привели в действие?",
+            "thought": "Имеет [известный] насос уже быть приведён в действие?",
+            "english": "Has the pump already been actuated?",
+            "transcription": "[хæз ðэ памп о:лр**э**ди би:н **æ**ктчуэйтид]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been actuated",
+        "examples": [
+          {
+            "ours": "К пяти завтра клапан приведут в действие.",
+            "thought": "К пяти завтра [известный] клапан будет иметь быть приведён в действие.",
+            "english": "By five tomorrow the valve will have been actuated.",
+            "transcription": "[бай файв тэм**о**роу ðэ вæлв wил хæв би:н **æ**ктчуэйтид]"
+          },
+          {
+            "ours": "Насос приведут в действие к пяти завтра?",
+            "thought": "Будет [известный] насос иметь быть приведён в действие к пяти завтра?",
+            "english": "Will the pump have been actuated by five tomorrow?",
+            "transcription": "[wил ðэ памп хæв би:н **æ**ктчуэйтид бай файв тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Формы вроде `has been being actuated` практически не употребляются. Вместо этого скажут: `The valve has been actuated.` или `They have been actuating the valve.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Инженер сказал, что выключатель приведёт клапан в действие.",
+        "thought": "[Известный] инженер сказал, что [известный] выключатель будет приводить в действие [известный] клапан.",
+        "english": "The engineer said that the switch would actuate the valve.",
+        "transcription": "[ðэ энджин**и**э сэд ðæт ðэ сwич wуд **æ**ктчуэйт ðэ вæлв]"
+      },
+      {
+        "ours": "Оператор сказал, что датчик приведёт насос в действие.",
+        "thought": "[Известный] оператор сказал, что [известный] датчик будет приводить в действие [известный] насос.",
+        "english": "The operator said that the sensor would actuate the pump.",
+        "transcription": "[ðэ **о**пэрэйтэ сэд ðæт ðэ с**э**нсэ wуд **æ**ктчуэйт ðэ памп]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "switch",
+      "meaning": "выключатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "switch"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "switch"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "switch"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "switch"
+        }
+      ]
+    },
+    {
+      "word": "valve",
+      "meaning": "клапан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "valve"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "valve"
+        }
+      ]
+    },
+    {
+      "word": "sensor",
+      "meaning": "датчик",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sensor"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sensor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sensor"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "sensor"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "sensor"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "насос",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "lever",
+      "meaning": "рычаг",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "lever"
+        }
+      ]
+    },
+    {
+      "word": "alarm",
+      "meaning": "сигнализация",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "alarm"
+        }
+      ]
+    },
+    {
+      "word": "operator",
+      "meaning": "оператор",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "operator"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "operator"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "operator"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "operator"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "operator"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "operator"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "operator"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "operator"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "operator"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "operator"
+        }
+      ]
+    },
+    {
+      "word": "test",
+      "meaning": "испытание",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "tests"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "tests"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "tests"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "tests"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "tests"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "tests"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "tests"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "tests"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "tests"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "tests"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "engineer",
+      "meaning": "инженер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "engineer"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "engineer"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "engineer"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "engineer"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "engineer"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "engineer"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "engineer"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "engineer"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "engineer"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "engineer"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    }
+  ]
+}

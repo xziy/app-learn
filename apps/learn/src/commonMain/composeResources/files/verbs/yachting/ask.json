@@ -1,0 +1,1034 @@
+{
+  "spec": 3,
+  "verb": "ask",
+  "forms": {
+    "base": [
+      {
+        "word": "ask",
+        "transcription": "[а:ск]"
+      }
+    ],
+    "past": [
+      {
+        "word": "asked",
+        "transcription": "[а:скт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "asked",
+        "transcription": "[а:скт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "asking",
+        "transcription": "[**а**:скиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "asks",
+        "transcription": "[а:скс]"
+      }
+    ]
+  },
+  "meaning": "спрашивать, расспрашивать, просить",
+  "notes": "правильный переходный глагол; ask someone about something — спрашивать кого-либо о чём-либо; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "asked",
+        "examples": [
+          {
+            "ours": "Вчера я спросил команду о старте.",
+            "thought": "Вчера я спросил [известную] команду о [известном] старте.",
+            "english": "Yesterday I asked the crew about the start.",
+            "transcription": "[й**э**стэдэй ай а:скт ðэ кру: эб**а**ут ðэ ста:т]"
+          },
+          {
+            "ours": "Ты спросил шкипера о ветре?",
+            "thought": "[Сделал] ты спрашивать [известного] шкипера о [известном] ветре?",
+            "english": "Did you ask the skipper about the wind?",
+            "transcription": "[дид ю: а:ск ðэ ск**и**пэ эб**а**ут ðэ wинд]"
+          },
+          {
+            "ours": "Она не спросила нас о прогнозе.",
+            "thought": "Она [сделала] не спрашивать нас о [известном] прогнозе.",
+            "english": "She did not ask us about the forecast.",
+            "transcription": "[ши: дид нот а:ск ас эб**а**ут ðэ ф**о**:ка:ст]"
+          }
+        ]
+      },
+      "present": {
+        "form": "ask, asks",
+        "examples": [
+          {
+            "ours": "Шкипер каждый день спрашивает нас о погоде.",
+            "thought": "[Известный] шкипер спрашивает нас о [известной] погоде каждый день.",
+            "english": "The skipper asks us about the weather every day.",
+            "transcription": "[ðэ ск**и**пэ а:скс ас эб**а**ут ðэ w**э**ðэ **э**ври дэй]"
+          },
+          {
+            "ours": "Ты спрашиваешь команду о маршруте?",
+            "thought": "[Делаешь] ты спрашивать [известную] команду о [известном] маршруте?",
+            "english": "Do you ask the crew about the route?",
+            "transcription": "[ду: ю: а:ск ðэ кру: эб**а**ут ðэ ру:т]"
+          },
+          {
+            "ours": "Он не просит помощи на борту.",
+            "thought": "Он [делает] не просить о помощи на борту.",
+            "english": "He does not ask for help on board.",
+            "transcription": "[хи: даз нот а:ск фо: хэлп он бо:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will ask",
+        "examples": [
+          {
+            "ours": "Завтра я спрошу команду о причале.",
+            "thought": "Завтра я буду спрашивать [известную] команду о [известном] причале.",
+            "english": "Tomorrow I will ask the crew about the berth.",
+            "transcription": "[тэм**о**роу ай wил а:ск ðэ кру: эб**а**ут ðэ бœ:θ]"
+          },
+          {
+            "ours": "Ты спросишь шкипера о приливе?",
+            "thought": "Будешь ты спрашивать [известного] шкипера о [известном] приливе?",
+            "english": "Will you ask the skipper about the tide?",
+            "transcription": "[wил ю: а:ск ðэ ск**и**пэ эб**а**ут ðэ тайд]"
+          },
+          {
+            "ours": "Она не спросит нас о прогнозе.",
+            "thought": "Она будет не спрашивать нас о [известном] прогнозе.",
+            "english": "She will not ask us about the forecast.",
+            "transcription": "[ши: wил нот а:ск ас эб**а**ут ðэ ф**о**:ка:ст]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were asking",
+        "examples": [
+          {
+            "ours": "Вчера он весь вечер спрашивал нас о парусе.",
+            "thought": "Вчера он был спрашивающим нас о [известном] парусе весь вечер.",
+            "english": "Yesterday he was asking us about the sail all evening.",
+            "transcription": "[й**э**стэдэй хи: wоз **а**:скиŋ ас эб**а**ут ðэ сэйл о:л **и**:вниŋ]"
+          },
+          {
+            "ours": "Она спрашивала команду о якоре, когда ты пришёл?",
+            "thought": "Была она спрашивающей [известную] команду о [известном] якоре, когда ты прибыл?",
+            "english": "Was she asking the crew about the anchor when you arrived?",
+            "transcription": "[wоз ши: **а**:скиŋ ðэ кру: эб**а**ут ðэ **æ**нкэ wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are asking",
+        "examples": [
+          {
+            "ours": "Он сейчас спрашивает нас о погоде.",
+            "thought": "Он является спрашивающим нас о [известной] погоде сейчас.",
+            "english": "He is asking us about the weather now.",
+            "transcription": "[хи: из **а**:скиŋ ас эб**а**ут ðэ w**э**ðэ нау]"
+          },
+          {
+            "ours": "Она сейчас спрашивает команду о маршруте?",
+            "thought": "Является она спрашивающей [известную] команду о [известном] маршруте сейчас?",
+            "english": "Is she asking the crew about the route now?",
+            "transcription": "[из ши: **а**:скиŋ ðэ кру: эб**а**ут ðэ ру:т нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be asking",
+        "examples": [
+          {
+            "ours": "Завтра вечером он будет спрашивать нас о гавани.",
+            "thought": "Завтра вечером он будет быть спрашивающим нас о [известной] гавани.",
+            "english": "Tomorrow evening he will be asking us about the harbor.",
+            "transcription": "[тэм**о**роу **и**:вниŋ хи: wил би: **а**:скиŋ ас эб**а**ут ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Она будет спрашивать команду о приливе утром?",
+            "thought": "Будет она быть спрашивающей [известную] команду о [известном] приливе это утро?",
+            "english": "Will she be asking the crew about the tide this morning?",
+            "transcription": "[wил ши: би: **а**:скиŋ ðэ кру: эб**а**ут ðэ тайд ðис м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had asked",
+        "examples": [
+          {
+            "ours": "К полудню я уже спросил команду о двигателе.",
+            "thought": "К полудню я имел уже спрошенной [известную] команду о [известном] двигателе.",
+            "english": "By noon I had already asked the crew about the engine.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди а:скт ðэ кру: эб**а**ут ðэ **э**нджин]"
+          },
+          {
+            "ours": "К пяти она спросила нас о причале?",
+            "thought": "Имела она спрошенными нас о [известном] причале к пяти?",
+            "english": "Had she asked us about the berth by five?",
+            "transcription": "[хæд ши: а:скт ас эб**а**ут ðэ бœ:θ бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has asked",
+        "examples": [
+          {
+            "ours": "Я уже спросил команду о якоре.",
+            "thought": "Я имею уже спрошенной [известную] команду о [известном] якоре.",
+            "english": "I have already asked the crew about the anchor.",
+            "transcription": "[ай хæв о:лр**э**ди а:скт ðэ кру: эб**а**ут ðэ **æ**нкэ]"
+          },
+          {
+            "ours": "Она уже спросила нас о прогнозе?",
+            "thought": "Имеет она спрошенными нас о [известном] прогнозе уже?",
+            "english": "Has she asked us about the forecast yet?",
+            "transcription": "[хæз ши: а:скт ас эб**а**ут ðэ ф**о**:ка:ст йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have asked",
+        "examples": [
+          {
+            "ours": "К полудню я спрошу команду о приливе.",
+            "thought": "К полудню я буду иметь спрошенной [известную] команду о [известном] приливе.",
+            "english": "By noon I will have asked the crew about the tide.",
+            "transcription": "[бай ну:н ай wил хæв а:скт ðэ кру: эб**а**ут ðэ тайд]"
+          },
+          {
+            "ours": "Она спросит нас о парусе к пяти?",
+            "thought": "Будет она иметь спрошенными нас о [известном] парусе к пяти?",
+            "english": "Will she have asked us about the sail by five?",
+            "transcription": "[wил ши: хæв а:скт ас эб**а**ут ðэ сэйл бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been asking",
+        "examples": [
+          {
+            "ours": "Она спрашивала нас о переходе час, когда начался дождь.",
+            "thought": "Она имела быть спрашивающей нас о [известном] переходе целый [какой-то] час, когда дождь начался.",
+            "english": "She had been asking us about the crossing for an hour when rain began.",
+            "transcription": "[ши: хæд би:н **а**:скиŋ ас эб**а**ут ðэ кр**о**сиŋ фо: эн **а**уэ wэн рэйн биг**æ**н]"
+          },
+          {
+            "ours": "Он спрашивал команду о море два часа до обеда?",
+            "thought": "Имел он быть спрашивающим [известную] команду о [известном] море целых два часа перед обедом?",
+            "english": "Had he been asking the crew about the sea for two hours before lunch?",
+            "transcription": "[хæд хи: би:н **а**:скиŋ ðэ кру: эб**а**ут ðэ си: фо: ту: **а**уэз биф**о**: ланч]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been asking",
+        "examples": [
+          {
+            "ours": "Она уже час спрашивает нас о плавании.",
+            "thought": "Она имеет быть спрашивающей нас о [известном] плавании целый [какой-то] час.",
+            "english": "She has been asking us about the voyage for an hour.",
+            "transcription": "[ши: хæз би:н **а**:скиŋ ас эб**а**ут ðэ в**о**йидж фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Он уже два часа спрашивает команду о гавани?",
+            "thought": "Имеет он быть спрашивающим [известную] команду о [известной] гавани целых два часа?",
+            "english": "Has he been asking the crew about the harbor for two hours?",
+            "transcription": "[хæз хи: би:н **а**:скиŋ ðэ кру: эб**а**ут ðэ х**а**:бэ фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been asking",
+        "examples": [
+          {
+            "ours": "К полудню она будет спрашивать нас о регате уже час.",
+            "thought": "К полудню она будет иметь быть спрашивающей нас о [известной] регате целый [какой-то] час.",
+            "english": "By noon she will have been asking us about the regatta for an hour.",
+            "transcription": "[бай ну:н ши: wил хæв би:н **а**:скиŋ ас эб**а**ут ðэ риг**æ**тэ фо: эн **а**уэ]"
+          },
+          {
+            "ours": "К пяти он будет спрашивать команду о море уже два часа?",
+            "thought": "Будет он иметь быть спрашивающим [известную] команду о [известном] море целых два часа к пяти?",
+            "english": "Will he have been asking the crew about the sea for two hours by five?",
+            "transcription": "[wил хи: хæв би:н **а**:скиŋ ðэ кру: эб**а**ут ðэ си: фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were asked",
+        "examples": [
+          {
+            "ours": "Вчера команду спросили о причале.",
+            "thought": "[Известная] команда была спрошена о [известном] причале вчера.",
+            "english": "The crew was asked about the berth yesterday.",
+            "transcription": "[ðэ кру: wоз а:скт эб**а**ут ðэ бœ:θ й**э**стэдэй]"
+          },
+          {
+            "ours": "Шкипера спросили о ветре?",
+            "thought": "Был [известный] шкипер спрошен о [известном] ветре?",
+            "english": "Was the skipper asked about the wind?",
+            "transcription": "[wоз ðэ ск**и**пэ а:скт эб**а**ут ðэ wинд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are asked",
+        "examples": [
+          {
+            "ours": "Команду каждый день спрашивают о погоде.",
+            "thought": "[Известная] команда есть спрошена о [известной] погоде каждый день.",
+            "english": "The crew is asked about the weather every day.",
+            "transcription": "[ðэ кру: из а:скт эб**а**ут ðэ w**э**ðэ **э**ври дэй]"
+          },
+          {
+            "ours": "Шкипера спрашивают о приливе?",
+            "thought": "Есть [известный] шкипер спрошен о [известном] приливе?",
+            "english": "Is the skipper asked about the tide?",
+            "transcription": "[из ðэ ск**и**пэ а:скт эб**а**ут ðэ тайд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be asked",
+        "examples": [
+          {
+            "ours": "Команду завтра спросят о якоре.",
+            "thought": "[Известная] команда будет быть спрошена о [известном] якоре завтра.",
+            "english": "The crew will be asked about the anchor tomorrow.",
+            "transcription": "[ðэ кру: wил би: а:скт эб**а**ут ðэ **æ**нкэ тэм**о**роу]"
+          },
+          {
+            "ours": "Шкипера спросят о ветре?",
+            "thought": "Будет [известный] шкипер быть спрошен о [известном] ветре?",
+            "english": "Will the skipper be asked about the wind?",
+            "transcription": "[wил ðэ ск**и**пэ би: а:скт эб**а**ут ðэ wинд]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being asked",
+        "examples": [
+          {
+            "ours": "Команду спрашивали о двигателе, когда я вошёл.",
+            "thought": "[Известная] команда была «долго» спрошена о [известном] двигателе, когда я вошёл.",
+            "english": "The crew was being asked about the engine when I entered.",
+            "transcription": "[ðэ кру: wоз б**и**:иŋ а:скт эб**а**ут ðэ **э**нджин wэн ай **э**нтэд]"
+          },
+          {
+            "ours": "Когда ты пришёл, пассажиров спрашивали о яхте?",
+            "thought": "Были [известные] пассажиры «долго» спрошены о [известной] яхте, когда ты прибыл?",
+            "english": "Were the passengers being asked about the yacht when you arrived?",
+            "transcription": "[wœ: ðэ п**æ**синджэз б**и**:иŋ а:скт эб**а**ут ðэ йот wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being asked",
+        "examples": [
+          {
+            "ours": "Команду сейчас спрашивают о маршруте.",
+            "thought": "[Известная] команда есть «долго» спрошена о [известном] маршруте сейчас.",
+            "english": "The crew is being asked about the route now.",
+            "transcription": "[ðэ кру: из б**и**:иŋ а:скт эб**а**ут ðэ ру:т нау]"
+          },
+          {
+            "ours": "Пассажиров сейчас спрашивают о переходе?",
+            "thought": "Есть [известные] пассажиры «долго» спрошены о [известном] переходе сейчас?",
+            "english": "Are the passengers being asked about the crossing now?",
+            "transcription": "[а: ðэ п**æ**синджэз б**и**:иŋ а:скт эб**а**ут ðэ кр**о**сиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be asking",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут спрашивать команду о парусе.",
+            "thought": "Завтра утром они будут быть спрашивающими [известную] команду о [известном] парусе.",
+            "english": "Tomorrow morning they will be asking the crew about the sail.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: **а**:скиŋ ðэ кру: эб**а**ут ðэ сэйл]"
+          },
+          {
+            "ours": "Они будут спрашивать пассажиров о яхте утром?",
+            "thought": "Будут они быть спрашивающими [известных] пассажиров о [известной] яхте это утро?",
+            "english": "Will they be asking the passengers about the yacht this morning?",
+            "transcription": "[wил ðэй би: **а**:скиŋ ðэ п**æ**синджэз эб**а**ут ðэ йот ðис м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been asked",
+        "examples": [
+          {
+            "ours": "К полудню команду уже спросили о гавани.",
+            "thought": "К полудню [известная] команда имела уже быть спрошена о [известной] гавани.",
+            "english": "By noon the crew had already been asked about the harbor.",
+            "transcription": "[бай ну:н ðэ кру: хæд о:лр**э**ди би:н а:скт эб**а**ут ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Шкипера спросили о ветре к пяти?",
+            "thought": "Имел [известный] шкипер быть спрошен о [известном] ветре к пяти?",
+            "english": "Had the skipper been asked about the wind by five?",
+            "transcription": "[хæд ðэ ск**и**пэ би:н а:скт эб**а**ут ðэ wинд бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been asked",
+        "examples": [
+          {
+            "ours": "Команду уже спросили о гонке.",
+            "thought": "[Известная] команда имеет уже быть спрошена о [известной] гонке.",
+            "english": "The crew has already been asked about the race.",
+            "transcription": "[ðэ кру: хæз о:лр**э**ди би:н а:скт эб**а**ут ðэ рэйс]"
+          },
+          {
+            "ours": "Шкипера уже спросили о двигателе?",
+            "thought": "Имеет [известный] шкипер быть спрошен о [известном] двигателе уже?",
+            "english": "Has the skipper been asked about the engine yet?",
+            "transcription": "[хæз ðэ ск**и**пэ би:н а:скт эб**а**ут ðэ **э**нджин йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been asked",
+        "examples": [
+          {
+            "ours": "К полудню команду уже спросят о приливе.",
+            "thought": "К полудню [известная] команда будет иметь быть спрошена о [известном] приливе.",
+            "english": "By noon the crew will have been asked about the tide.",
+            "transcription": "[бай ну:н ðэ кру: wил хæв би:н а:скт эб**а**ут ðэ тайд]"
+          },
+          {
+            "ours": "Шкипера спросят о причале к пяти?",
+            "thought": "Будет [известный] шкипер иметь быть спрошен о [известном] причале к пяти?",
+            "english": "Will the skipper have been asked about the berth by five?",
+            "transcription": "[wил ðэ ск**и**пэ хæв би:н а:скт эб**а**ут ðэ бœ:θ бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been asking the crew about the route."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она спросит команду о якоре.",
+        "thought": "Я знал, она будет спрашивать [известную] команду о [известном] якоре.",
+        "english": "I knew she would ask the crew about the anchor.",
+        "transcription": "[ай нью: ши: wуд а:ск ðэ кру: эб**а**ут ðэ **æ**нкэ]"
+      },
+      {
+        "ours": "Он думал, что мы не спросим его о прогнозе.",
+        "thought": "Он думал, мы будем не спрашивать его о [известном] прогнозе.",
+        "english": "He thought we would not ask him about the forecast.",
+        "transcription": "[хи: θо:т wи: wуд нот а:ск хим эб**а**ут ðэ ф**о**:ка:ст]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "start",
+      "meaning": "старт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "start"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "help",
+      "meaning": "помощь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "help"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "berth",
+      "meaning": "место у причала",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "berth"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "berth"
+        }
+      ]
+    },
+    {
+      "word": "tide",
+      "meaning": "прилив, отлив",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "tide"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "tide"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "evening"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "crossing",
+      "meaning": "переход",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "crossing"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "crossing"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "meaning": "обед",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "lunch"
+        }
+      ]
+    },
+    {
+      "word": "voyage",
+      "meaning": "плавание",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "voyage"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "passenger",
+      "meaning": "пассажир",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "passengers"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "passengers"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "passengers"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "race"
+        }
+      ]
+    }
+  ]
+}

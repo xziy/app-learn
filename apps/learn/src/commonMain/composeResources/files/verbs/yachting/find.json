@@ -1,0 +1,852 @@
+{
+  "spec": 3,
+  "verb": "find",
+  "forms": {
+    "base": [
+      {
+        "word": "find",
+        "transcription": "[файнд]"
+      }
+    ],
+    "past": [
+      {
+        "word": "found",
+        "transcription": "[фаунд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "found",
+        "transcription": "[фаунд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "finding",
+        "transcription": "[ф**а**йндиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "finds",
+        "transcription": "[файндз]"
+      }
+    ]
+  },
+  "meaning": "находить, обнаруживать",
+  "notes": "неправильный глагол, переходный; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "found",
+        "examples": [
+          {
+            "ours": "Вчера мы обнаружили течь.",
+            "thought": "Вчера мы нашли [какую-то] течь.",
+            "english": "Yesterday we found a leak.",
+            "transcription": "[й**э**стэдэй wи: фаунд э ли:к]"
+          },
+          {
+            "ours": "Ты нашёл буй до гонки?",
+            "thought": "[Сделал] ты находить [известный] буй перед [известной] гонкой?",
+            "english": "Did you find the buoy before the race?",
+            "transcription": "[дид ю: файнд ðэ бой биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Он не нашёл течь.",
+            "thought": "Он [сделал] не находить [известную] течь.",
+            "english": "He didn't find the leak.",
+            "transcription": "[хи: диднт файнд ðэ ли:к]"
+          }
+        ]
+      },
+      "present": {
+        "form": "find, finds",
+        "examples": [
+          {
+            "ours": "Экипаж часто находит повреждённые тросы.",
+            "thought": "[Известный] экипаж часто находит повреждённые тросы.",
+            "english": "The crew often finds damaged ropes.",
+            "transcription": "[ðэ кру: **о**фэн файндз д**æ**миджд роупс]"
+          },
+          {
+            "ours": "Он не всегда находит буй.",
+            "thought": "Он [делает] не находить [известный] буй каждый раз.",
+            "english": "He doesn't find the buoy every time.",
+            "transcription": "[хи: дазнт файнд ðэ бой **э**ври тайм]"
+          },
+          {
+            "ours": "Ты находишь течи во время осмотра?",
+            "thought": "[Делаешь] ты находить течи во время [известного] осмотра?",
+            "english": "Do you find leaks during the inspection?",
+            "transcription": "[ду: ю: файнд ли:кс дь**ю**эриŋ ðэ инсп**э**кшн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will find",
+        "examples": [
+          {
+            "ours": "Завтра мы найдём течь.",
+            "thought": "Завтра мы будем находить [известную] течь.",
+            "english": "Tomorrow we will find the leak.",
+            "transcription": "[тэм**о**роу wи: wил файнд ðэ ли:к]"
+          },
+          {
+            "ours": "Он не найдёт буй до гонки.",
+            "thought": "Он будет не находить [известный] буй перед [известной] гонкой.",
+            "english": "He won't find the buoy before the race.",
+            "transcription": "[хи: wоунт файнд ðэ бой биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Ты найдёшь гавань до гонки?",
+            "thought": "Будешь ты находить [известную] гавань перед [известной] гонкой?",
+            "english": "Will you find the harbor before the race?",
+            "transcription": "[wил ю: файнд ðэ х**а**:бэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were finding",
+        "examples": [
+          {
+            "ours": "После шторма экипаж весь день находил новые течи.",
+            "thought": "После [известного] шторма [известный] экипаж был находящим новые течи весь день.",
+            "english": "After the storm the crew was finding new leaks all day.",
+            "transcription": "[**а**:фтэ ðэ сто:м ðэ кру: wоз ф**а**йндиŋ нью: ли:кс о:л дэй]"
+          },
+          {
+            "ours": "Вчера вы находили новые течи весь день?",
+            "thought": "Были вы находящими новые течи весь день вчера?",
+            "english": "Were you finding new leaks all day yesterday?",
+            "transcription": "[wœ: ю: ф**а**йндиŋ нью: ли:кс о:л дэй й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are finding",
+        "examples": [
+          {
+            "ours": "Мы всё ещё находим новые течи после шторма.",
+            "thought": "Мы являемся всё ещё находящими новые течи после [известного] шторма.",
+            "english": "We are still finding new leaks after the storm.",
+            "transcription": "[wи: а: стил ф**а**йндиŋ нью: ли:кс **а**:фтэ ðэ сто:м]"
+          },
+          {
+            "ours": "Вы сейчас находите новые течи?",
+            "thought": "Являетесь вы находящими новые течи сейчас?",
+            "english": "Are you finding new leaks now?",
+            "transcription": "[а: ю: ф**а**йндиŋ нью: ли:кс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be finding",
+        "examples": [
+          {
+            "ours": "После шторма завтра мы весь день будем находить новые течи.",
+            "thought": "После [известного] шторма завтра мы будем быть находящими новые течи весь день.",
+            "english": "After the storm tomorrow we will be finding new leaks all day.",
+            "transcription": "[**а**:фтэ ðэ сто:м тэм**о**роу wи: wил би: ф**а**йндиŋ нью: ли:кс о:л дэй]"
+          },
+          {
+            "ours": "Завтра вы будете весь день находить новые течи?",
+            "thought": "Будете вы быть находящими новые течи весь день завтра?",
+            "english": "Will you be finding new leaks all day tomorrow?",
+            "transcription": "[wил ю: би: ф**а**йндиŋ нью: ли:кс о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had found",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы обнаружили течь.",
+            "thought": "К пяти вчера мы имели найденной [известную] течь.",
+            "english": "By five yesterday we had found the leak.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд фаунд ðэ ли:к]"
+          },
+          {
+            "ours": "Ты нашёл буй до гонки?",
+            "thought": "Имел ты найденным [известный] буй перед [известной] гонкой?",
+            "english": "Had you found the buoy before the race?",
+            "transcription": "[хæд ю: фаунд ðэ бой биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has found",
+        "examples": [
+          {
+            "ours": "Мы уже обнаружили течь.",
+            "thought": "Мы имеем уже найденной [известную] течь.",
+            "english": "We have already found the leak.",
+            "transcription": "[wи: хæв о:лр**э**ди фаунд ðэ ли:к]"
+          },
+          {
+            "ours": "Ты уже нашёл буй?",
+            "thought": "Имеешь ты уже найденным [известный] буй?",
+            "english": "Have you already found the buoy?",
+            "transcription": "[хæв ю: о:лр**э**ди фаунд ðэ бой]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have found",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы найдём течь.",
+            "thought": "К пяти завтра мы будем иметь найденной [известную] течь.",
+            "english": "By five tomorrow we will have found the leak.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв фаунд ðэ ли:к]"
+          },
+          {
+            "ours": "Ты найдёшь буй до гонки?",
+            "thought": "Будешь ты иметь найденным [известный] буй перед [известной] гонкой?",
+            "english": "Will you have found the buoy before the race?",
+            "transcription": "[wил ю: хæв фаунд ðэ бой биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been finding",
+        "examples": [
+          {
+            "ours": "Мы уже два часа находили новые течи, когда ты пришёл.",
+            "thought": "Мы имели быть находящими новые течи целых два часа, когда ты пришёл.",
+            "english": "We had been finding new leaks for two hours when you came.",
+            "transcription": "[wи: хæд би:н ф**а**йндиŋ нью: ли:кс фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Вы уже два часа находили новые течи, когда он пришёл?",
+            "thought": "Имели вы быть находящими новые течи целых два часа, когда он пришёл?",
+            "english": "Had you been finding new leaks for two hours when he came?",
+            "transcription": "[хæд ю: би:н ф**а**йндиŋ нью: ли:кс фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been finding",
+        "examples": [
+          {
+            "ours": "Мы уже два часа находим новые течи.",
+            "thought": "Мы имеем быть находящими новые течи целых два часа.",
+            "english": "We have been finding new leaks for two hours.",
+            "transcription": "[wи: хæв би:н ф**а**йндиŋ нью: ли:кс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Вы уже два часа находите новые течи?",
+            "thought": "Имеете вы быть находящими новые течи целых два часа?",
+            "english": "Have you been finding new leaks for two hours?",
+            "transcription": "[хæв ю: би:н ф**а**йндиŋ нью: ли:кс фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been finding",
+        "examples": [
+          {
+            "ours": "К пяти мы уже два часа будем находить новые течи.",
+            "thought": "К пяти мы будем иметь быть находящими новые течи целых два часа.",
+            "english": "By five we will have been finding new leaks for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н ф**а**йндиŋ нью: ли:кс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти вы уже два часа будете находить новые течи?",
+            "thought": "Будете вы иметь быть находящими новые течи целых два часа к пяти?",
+            "english": "Will you have been finding new leaks for two hours by five?",
+            "transcription": "[wил ю: хæв би:н ф**а**йндиŋ нью: ли:кс фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were found",
+        "examples": [
+          {
+            "ours": "Вчера обнаружили течь.",
+            "thought": "[Известная] течь была найдена вчера.",
+            "english": "The leak was found yesterday.",
+            "transcription": "[ðэ ли:к wоз фаунд й**э**стэдэй]"
+          },
+          {
+            "ours": "Буй нашли до гонки?",
+            "thought": "Был [известный] буй найден перед [известной] гонкой?",
+            "english": "Was the buoy found before the race?",
+            "transcription": "[wоз ðэ бой фаунд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are found",
+        "examples": [
+          {
+            "ours": "После шторма часто находят повреждённые тросы.",
+            "thought": "Повреждённые тросы есть часто найдены после [какого-то] шторма.",
+            "english": "Damaged ropes are often found after a storm.",
+            "transcription": "[д**æ**миджд роупс а: **о**фэн фаунд **а**:фтэ э сто:м]"
+          },
+          {
+            "ours": "При осмотре находят течи?",
+            "thought": "Есть течи найдены во время [известного] осмотра?",
+            "english": "Are leaks found during the inspection?",
+            "transcription": "[а: ли:кс фаунд дь**ю**эриŋ ðэ инсп**э**кшн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be found",
+        "examples": [
+          {
+            "ours": "Течь обнаружат завтра.",
+            "thought": "[Известная] течь будет быть найдена завтра.",
+            "english": "The leak will be found tomorrow.",
+            "transcription": "[ðэ ли:к wил би: фаунд тэм**о**роу]"
+          },
+          {
+            "ours": "Буй найдут до гонки?",
+            "thought": "Будет [известный] буй быть найден перед [известной] гонкой?",
+            "english": "Will the buoy be found before the race?",
+            "transcription": "[wил ðэ бой би: фаунд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being found",
+        "examples": [
+          {
+            "ours": "После шторма весь день находили новые течи.",
+            "thought": "После [известного] шторма новые течи были «долго» найдены весь день.",
+            "english": "After the storm new leaks were being found all day.",
+            "transcription": "[**а**:фтэ ðэ сто:м нью: ли:кс wœ: б**и**:иŋ фаунд о:л дэй]"
+          },
+          {
+            "ours": "Вчера весь день находили новые течи?",
+            "thought": "Были новые течи «долго» найдены весь день вчера?",
+            "english": "Were new leaks being found all day yesterday?",
+            "transcription": "[wœ: нью: ли:кс б**и**:иŋ фаунд о:л дэй й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being found",
+        "examples": [
+          {
+            "ours": "После шторма до сих пор находят новые течи.",
+            "thought": "После [известного] шторма новые течи есть всё ещё «долго» найдены.",
+            "english": "After the storm new leaks are still being found.",
+            "transcription": "[**а**:фтэ ðэ сто:м нью: ли:кс а: стил б**и**:иŋ фаунд]"
+          },
+          {
+            "ours": "Сейчас находят новые течи?",
+            "thought": "Есть новые течи «долго» найдены сейчас?",
+            "english": "Are new leaks being found now?",
+            "transcription": "[а: нью: ли:кс б**и**:иŋ фаунд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be finding",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут находить новые течи.",
+            "thought": "Завтра они будут быть находящими новые течи весь день.",
+            "english": "Tomorrow they will be finding new leaks all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: ф**а**йндиŋ нью: ли:кс о:л дэй]"
+          },
+          {
+            "ours": "Завтра они весь день будут находить новые течи?",
+            "thought": "Будут они быть находящими новые течи весь день завтра?",
+            "english": "Will they be finding new leaks all day tomorrow?",
+            "transcription": "[wил ðэй би: ф**а**йндиŋ нью: ли:кс о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been found",
+        "examples": [
+          {
+            "ours": "Вчера к пяти течь уже обнаружили.",
+            "thought": "К пяти вчера [известная] течь имела уже быть найдена.",
+            "english": "By five yesterday the leak had already been found.",
+            "transcription": "[бай файв й**э**стэдэй ðэ ли:к хæд о:лр**э**ди би:н фаунд]"
+          },
+          {
+            "ours": "Буй нашли до гонки?",
+            "thought": "Имел [известный] буй быть найден перед [известной] гонкой?",
+            "english": "Had the buoy been found before the race?",
+            "transcription": "[хæд ðэ бой би:н фаунд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been found",
+        "examples": [
+          {
+            "ours": "Течь уже обнаружена.",
+            "thought": "[Известная] течь имеет уже быть найдена.",
+            "english": "The leak has already been found.",
+            "transcription": "[ðэ ли:к хæз о:лр**э**ди би:н фаунд]"
+          },
+          {
+            "ours": "Буй уже найден?",
+            "thought": "Имеет [известный] буй уже быть найден?",
+            "english": "Has the buoy already been found?",
+            "transcription": "[хæз ðэ бой о:лр**э**ди би:н фаунд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been found",
+        "examples": [
+          {
+            "ours": "Завтра к пяти течь уже найдут.",
+            "thought": "К пяти завтра [известная] течь будет иметь быть найдена.",
+            "english": "By five tomorrow the leak will have been found.",
+            "transcription": "[бай файв тэм**о**роу ðэ ли:к wил хæв би:н фаунд]"
+          },
+          {
+            "ours": "Буй найдут до гонки?",
+            "thought": "Будет [известный] буй иметь быть найден перед [известной] гонкой?",
+            "english": "Will the buoy have been found before the race?",
+            "transcription": "[wил ðэ бой хæв би:н фаунд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The leaks have been found. Или: They have been finding new leaks."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они найдут течь.",
+        "thought": "[Известный] капитан сказал, что они будут находить [известную] течь.",
+        "english": "The captain said that they would find the leak.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд файнд ðэ ли:к]"
+      },
+      {
+        "ours": "Я знал, что ты найдёшь буй.",
+        "thought": "Я знал, что ты будешь находить [известный] буй.",
+        "english": "I knew that you would find the buoy.",
+        "transcription": "[ай нью: ðæт ю: wуд файнд ðэ бой]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "leak",
+      "meaning": "течь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "leaks"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "leaks"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "leaks"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "leaks"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "leaks"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "leak"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "meaning": "буй",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "buoy"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "buoy"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "buoy"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "buoy"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "buoy"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "buoy"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "buoy"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "трос",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "ropes"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "раз",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "inspection",
+      "meaning": "осмотр",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "inspection"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "inspection"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

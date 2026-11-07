@@ -1,0 +1,58 @@
+# Build output, in every module.
+build/
+out/
+captures/
+
+# Xcode's per-person state.
+xcuserdata/
+
+# Gradle's and Kotlin's own caches.
+.gradle/
+.kotlin/
+*.hprof
+
+# The JVM's crash reports.
+hs_err_pid*
+replay_pid*
+
+# Node's packages and logs, for tools/ and the prototypes.
+node_modules/
+*.log
+
+# Machine-local paths and settings.
+local.properties
+.env
+.env.*
+
+# Links to the neighbouring checkouts, made by hand. The build itself reads ../superizer.
+/superizer
+
+# Anything that could sign or publish a release.
+.secrets/
+keystore.properties
+*.jks
+*.keystore
+*.p12
+*.p8
+*.pem
+*.key
+*.mobileprovision
+google-services*.json
+GoogleService-Info*.plist
+
+# Release packages.
+*.apk
+*.aab
+*.ipa
+
+# IDEs and editors.
+.idea/
+*.iml
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# Local state of the AI tools.
+.claude/settings.local.json
+.playwright-mcp/

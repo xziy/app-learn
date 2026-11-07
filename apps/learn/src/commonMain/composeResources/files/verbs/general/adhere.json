@@ -1,0 +1,627 @@
+{
+  "spec": 3,
+  "verb": "adhere",
+  "forms": {
+    "base": [
+      {
+        "word": "adhere",
+        "transcription": "[эдх**и**э]"
+      }
+    ],
+    "past": [
+      {
+        "word": "adhered",
+        "transcription": "[эдх**и**эд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "adhered",
+        "transcription": "[эдх**и**эд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "adhering",
+        "transcription": "[эдх**и**эриŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "adheres",
+        "transcription": "[эдх**и**эз]"
+      }
+    ]
+  },
+  "meaning": "придерживаться, соблюдать; прилипать",
+  "notes": "правильный глагол; употребляется с предлогом to, прямого дополнения нет",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "adhered to",
+        "examples": [
+          {
+            "ours": "Мы соблюдали план.",
+            "thought": "Мы придерживались к [известному] плану.",
+            "english": "We adhered to the plan.",
+            "transcription": "[wи: эдх**и**эд ту ðэ плæн]"
+          },
+          {
+            "ours": "Она не соблюдала правила.",
+            "thought": "Она [сделала] не придерживаться к [известным] правилам.",
+            "english": "She did not adhere to the rules.",
+            "transcription": "[ши: дид нот эдх**и**э ту ðэ ру:лз]"
+          },
+          {
+            "ours": "Ты придерживался графика?",
+            "thought": "[Сделал] ты придерживаться к [известному] графику?",
+            "english": "Did you adhere to the schedule?",
+            "transcription": "[дид ю: эдх**и**э ту ðэ ш**э**дюл]"
+          }
+        ]
+      },
+      "present": {
+        "form": "adhere to, adheres to",
+        "examples": [
+          {
+            "ours": "Он следует своим принципам.",
+            "thought": "Он придерживается к его принципам.",
+            "english": "He adheres to his principles.",
+            "transcription": "[хи: эдх**и**эз ту хиз пр**и**нсэплз]"
+          },
+          {
+            "ours": "Мы не придерживаемся этого метода.",
+            "thought": "Мы [делаем] не придерживаться к этому методу.",
+            "english": "We do not adhere to this method.",
+            "transcription": "[wи: ду: нот эдх**и**э ту ðис м**э**θэд]"
+          },
+          {
+            "ours": "Вы соблюдаете правила?",
+            "thought": "[Делаете] вы придерживаться к [известным] правилам?",
+            "english": "Do you adhere to the rules?",
+            "transcription": "[ду: ю: эдх**и**э ту ðэ ру:лз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will adhere to",
+        "examples": [
+          {
+            "ours": "Мы будем придерживаться плана.",
+            "thought": "Мы будем придерживаться к [известному] плану.",
+            "english": "We will adhere to the plan.",
+            "transcription": "[wи: wил эдх**и**э ту ðэ плæн]"
+          },
+          {
+            "ours": "Он не станет соблюдать график.",
+            "thought": "Он будет не придерживаться к [известному] графику.",
+            "english": "He will not adhere to the schedule.",
+            "transcription": "[хи: wил нот эдх**и**э ту ðэ ш**э**дюл]"
+          },
+          {
+            "ours": "Вы будете соблюдать правила?",
+            "thought": "Будете вы придерживаться к [известным] правилам?",
+            "english": "Will you adhere to the rules?",
+            "transcription": "[wил ю: эдх**и**э ту ðэ ру:лз]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were adhering to",
+        "examples": [
+          {
+            "ours": "Тогда мы соблюдали план.",
+            "thought": "Мы были придерживающимися к [известному] плану тогда.",
+            "english": "We were adhering to the plan then.",
+            "transcription": "[wи: wœ: эдх**и**эриŋ ту ðэ плæн ðэн]"
+          },
+          {
+            "ours": "Тогда она не соблюдала правила.",
+            "thought": "Она была не придерживающейся к [известным] правилам тогда.",
+            "english": "She was not adhering to the rules then.",
+            "transcription": "[ши: wоз нот эдх**и**эриŋ ту ðэ ру:лз ðэн]"
+          },
+          {
+            "ours": "Вы тогда придерживались графика?",
+            "thought": "Были вы придерживающимися к [известному] графику тогда?",
+            "english": "Were you adhering to the schedule then?",
+            "transcription": "[wœ: ю: эдх**и**эриŋ ту ðэ ш**э**дюл ðэн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are adhering to",
+        "examples": [
+          {
+            "ours": "Сейчас мы соблюдаем план.",
+            "thought": "Мы являемся придерживающимися к [известному] плану сейчас.",
+            "english": "We are adhering to the plan now.",
+            "transcription": "[wи: а: эдх**и**эриŋ ту ðэ плæн нау]"
+          },
+          {
+            "ours": "Он сейчас не соблюдает правила.",
+            "thought": "Он является не придерживающимся к [известным] правилам сейчас.",
+            "english": "He is not adhering to the rules now.",
+            "transcription": "[хи: из нот эдх**и**эриŋ ту ðэ ру:лз нау]"
+          },
+          {
+            "ours": "Вы сейчас придерживаетесь графика?",
+            "thought": "Являетесь вы придерживающимися к [известному] графику сейчас?",
+            "english": "Are you adhering to the schedule now?",
+            "transcription": "[а: ю: эдх**и**эриŋ ту ðэ ш**э**дюл нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be adhering to",
+        "examples": [
+          {
+            "ours": "Завтра мы будем соблюдать план весь день.",
+            "thought": "Завтра мы будем быть придерживающимися к [известному] плану весь день.",
+            "english": "Tomorrow we will be adhering to the plan all day.",
+            "transcription": "[тэм**о**роу wи: wил би: эдх**и**эриŋ ту ðэ плæн о:л дэй]"
+          },
+          {
+            "ours": "На следующей неделе она не будет придерживаться диеты.",
+            "thought": "Она будет не быть придерживающейся к [известной] диете следующую неделю.",
+            "english": "She will not be adhering to the diet next week.",
+            "transcription": "[ши: wил нот би: эдх**и**эриŋ ту ðэ д**а**йэт нэкст wи:к]"
+          },
+          {
+            "ours": "Вы будете придерживаться графика на следующей неделе?",
+            "thought": "Будете вы быть придерживающимися к [известному] графику следующую неделю?",
+            "english": "Will you be adhering to the schedule next week?",
+            "transcription": "[wил ю: би: эдх**и**эриŋ ту ðэ ш**э**дюл нэкст wи:к]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had adhered to",
+        "examples": [
+          {
+            "ours": "До проверки мы соблюдали правила.",
+            "thought": "Мы имели соблюдённым к [известным] правилам перед [известной] проверкой.",
+            "english": "We had adhered to the rules before the inspection.",
+            "transcription": "[wи: хæд эдх**и**эд ту ðэ ру:лз биф**о**: ðи инсп**э**кшн]"
+          },
+          {
+            "ours": "До проверки он не соблюдал план.",
+            "thought": "Он имел не соблюдённым к [известному] плану перед [известной] проверкой.",
+            "english": "He had not adhered to the plan before the inspection.",
+            "transcription": "[хи: хæд нот эдх**и**эд ту ðэ плæн биф**о**: ðи инсп**э**кшн]"
+          },
+          {
+            "ours": "Вы соблюдали график до проверки?",
+            "thought": "Имели вы соблюдённым к [известному] графику перед [известной] проверкой?",
+            "english": "Had you adhered to the schedule before the inspection?",
+            "transcription": "[хæд ю: эдх**и**эд ту ðэ ш**э**дюл биф**о**: ðи инсп**э**кшн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has adhered to",
+        "examples": [
+          {
+            "ours": "Мы до сих пор соблюдали правила.",
+            "thought": "Мы имеем соблюдённым к [известным] правилам так далеко.",
+            "english": "We have adhered to the rules so far.",
+            "transcription": "[wи: хæв эдх**и**эд ту ðэ ру:лз соу фа:]"
+          },
+          {
+            "ours": "Он не соблюдал план.",
+            "thought": "Он имеет не соблюдённым к [известному] плану.",
+            "english": "He has not adhered to the plan.",
+            "transcription": "[хи: хæз нот эдх**и**эд ту ðэ плæн]"
+          },
+          {
+            "ours": "Вы соблюдали график?",
+            "thought": "Имеете вы соблюдённым к [известному] графику?",
+            "english": "Have you adhered to the schedule?",
+            "transcription": "[хæв ю: эдх**и**эд ту ðэ ш**э**дюл]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have adhered to",
+        "examples": [
+          {
+            "ours": "К декабрю мы будем соблюдать этот план уже год.",
+            "thought": "К декабрю мы будем иметь соблюдённым к этому плану целый [какой-то] год.",
+            "english": "By December we will have adhered to this plan for a year.",
+            "transcription": "[бай дис**э**мбэ wи: wил хæв эдх**и**эд ту ðис плæн фо: э йиэ]"
+          },
+          {
+            "ours": "К декабрю он не будет соблюдать диету и года.",
+            "thought": "К декабрю он будет не иметь соблюдённым к [известной] диете целый [какой-то] год.",
+            "english": "By December he will not have adhered to the diet for a year.",
+            "transcription": "[бай дис**э**мбэ хи: wил нот хæв эдх**и**эд ту ðэ д**а**йэт фо: э йиэ]"
+          },
+          {
+            "ours": "К декабрю вы будете соблюдать план уже год?",
+            "thought": "Будете вы иметь соблюдённым к [известному] плану целый [какой-то] год к декабрю?",
+            "english": "Will you have adhered to the plan for a year by December?",
+            "transcription": "[wил ю: хæв эдх**и**эд ту ðэ плæн фо: э йиэ бай дис**э**мбэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been adhering to",
+        "examples": [
+          {
+            "ours": "До проверки мы целый год соблюдали правила.",
+            "thought": "Мы имели быть придерживающимися к [известным] правилам целый [какой-то] год перед [известной] проверкой.",
+            "english": "We had been adhering to the rules for a year before the inspection.",
+            "transcription": "[wи: хæд би:н эдх**и**эриŋ ту ðэ ру:лз фо: э йиэ биф**о**: ðи инсп**э**кшн]"
+          },
+          {
+            "ours": "До проверки вы целый год соблюдали план?",
+            "thought": "Имели вы быть придерживающимися к [известному] плану целый [какой-то] год перед [известной] проверкой?",
+            "english": "Had you been adhering to the plan for a year before the inspection?",
+            "transcription": "[хæд ю: би:н эдх**и**эриŋ ту ðэ плæн фо: э йиэ биф**о**: ðи инсп**э**кшн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been adhering to",
+        "examples": [
+          {
+            "ours": "Мы соблюдаем этот план уже год.",
+            "thought": "Мы имеем быть придерживающимися к этому плану целый [какой-то] год.",
+            "english": "We have been adhering to this plan for a year.",
+            "transcription": "[wи: хæв би:н эдх**и**эриŋ ту ðис плæн фо: э йиэ]"
+          },
+          {
+            "ours": "Вы соблюдаете диету уже месяц?",
+            "thought": "Имеете вы быть придерживающимися к [известной] диете целый [какой-то] месяц?",
+            "english": "Have you been adhering to the diet for a month?",
+            "transcription": "[хæв ю: би:н эдх**и**эриŋ ту ðэ д**а**йэт фо: э манθ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been adhering to",
+        "examples": [
+          {
+            "ours": "К декабрю мы будем соблюдать план уже год.",
+            "thought": "К декабрю мы будем иметь быть придерживающимися к [известному] плану целый [какой-то] год.",
+            "english": "By December we will have been adhering to the plan for a year.",
+            "transcription": "[бай дис**э**мбэ wи: wил хæв би:н эдх**и**эриŋ ту ðэ плæн фо: э йиэ]"
+          },
+          {
+            "ours": "К декабрю вы будете соблюдать диету уже год?",
+            "thought": "Будете вы иметь быть придерживающимися к [известной] диете целый [какой-то] год к декабрю?",
+            "english": "Will you have been adhering to the diet for a year by December?",
+            "transcription": "[wил ю: хæв би:н эдх**и**эриŋ ту ðэ д**а**йэт фо: э йиэ бай дис**э**мбэ]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "Adhere to не имеет прямого дополнения и обычно не образует пассив. Вместо этого скажут: They follow the rules."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она будет соблюдать план.",
+        "thought": "Я знал, что она будет придерживаться к [известному] плану.",
+        "english": "I knew that she would adhere to the plan.",
+        "transcription": "[ай нью: ðæт ши: wуд эдх**и**э ту ðэ плæн]"
+      },
+      {
+        "ours": "Я думал, что он не будет соблюдать правила.",
+        "thought": "Я думал, что он будет не придерживаться к [известным] правилам.",
+        "english": "I thought that he would not adhere to the rules.",
+        "transcription": "[ай θо:т ðæт хи: wуд нот эдх**и**э ту ðэ ру:лз]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "plan",
+      "meaning": "план",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "plan"
+        }
+      ]
+    },
+    {
+      "word": "rule",
+      "meaning": "правило",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "rules"
+        }
+      ]
+    },
+    {
+      "word": "schedule",
+      "meaning": "расписание",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "schedule"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "schedule"
+        },
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "schedule"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "schedule"
+        },
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "schedule"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "schedule"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "schedule"
+        }
+      ]
+    },
+    {
+      "word": "principle",
+      "meaning": "принцип",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "principles"
+        }
+      ]
+    },
+    {
+      "word": "method",
+      "meaning": "метод",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "method"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "diet",
+      "meaning": "диета",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "diet"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "diet"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "diet"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "diet"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "week"
+        },
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "week"
+        }
+      ]
+    },
+    {
+      "word": "inspection",
+      "meaning": "проверка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "inspection"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "inspection"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "inspection"
+        }
+      ]
+    },
+    {
+      "word": "December",
+      "meaning": "декабрь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "December"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "December"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "December"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "December"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "December"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "month"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,934 @@
+{
+  "spec": 3,
+  "verb": "abhor",
+  "forms": {
+    "base": [
+      {
+        "word": "abhor",
+        "transcription": "[эбх**о**:]"
+      }
+    ],
+    "past": [
+      {
+        "word": "abhorred",
+        "transcription": "[эбх**о**:д]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "abhorred",
+        "transcription": "[эбх**о**:д]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "abhorring",
+        "transcription": "[эбх**о**:риŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "abhors",
+        "transcription": "[эбх**о**:з]"
+      }
+    ]
+  },
+  "meaning": "ненавидеть, питать отвращение, не выносить",
+  "notes": "правильный глагол, r удваивается в abhorred и abhorring, глагол состояния, бывает с объектом, есть пассив, книжное слово",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "abhorred",
+        "examples": [
+          {
+            "ours": "Мой дед терпеть не мог войну.",
+            "thought": "Мой дедушка ненавидел войну.",
+            "english": "My grandfather abhorred war.",
+            "transcription": "[май гр**æ**нфа:ðэ эбх**о**:д wо:]"
+          },
+          {
+            "ours": "Наш начальник лести не чурался.",
+            "thought": "Наш начальник [сделал] не ненавидеть лесть.",
+            "english": "Our boss didn't abhor flattery.",
+            "transcription": "[ауэ бос диднт эбх**о**: фл**æ**тэри]"
+          },
+          {
+            "ours": "Те писатели правда ненавидели цензуру?",
+            "thought": "[Сделали] те писатели ненавидеть цензуру?",
+            "english": "Did those writers abhor censorship?",
+            "transcription": "[дид ðоуз р**а**йтэз эбх**о**: с**э**нсэшип]"
+          }
+        ]
+      },
+      "present": {
+        "form": "abhor, abhors",
+        "examples": [
+          {
+            "ours": "Я не выношу жестокость к животным.",
+            "thought": "Я ненавижу жестокость к животным.",
+            "english": "I abhor cruelty to animals.",
+            "transcription": "[ай эбх**о**: кр**у**:элти ту **æ**нимлз]"
+          },
+          {
+            "ours": "Моя сестра вовсе не против сплетен.",
+            "thought": "Моя сестра [делает] не ненавидеть сплетни.",
+            "english": "My sister doesn't abhor gossip.",
+            "transcription": "[май с**и**стэ дазнт эбх**о**: г**о**сип]"
+          },
+          {
+            "ours": "Ты не переносишь лицемерие?",
+            "thought": "[Делаешь] ты ненавидеть лицемерие?",
+            "english": "Do you abhor hypocrisy?",
+            "transcription": "[ду: ю: эбх**о**: хип**о**крэси]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will abhor",
+        "examples": [
+          {
+            "ours": "Наши внуки возненавидят этот закон.",
+            "thought": "Наши внуки будут ненавидеть этот закон.",
+            "english": "Our grandchildren will abhor this law.",
+            "transcription": "[ауэ гр**æ**нчилдрэн wил эбх**о**: ðис ло:]"
+          },
+          {
+            "ours": "Они эту традицию не возненавидят.",
+            "thought": "Они будут не ненавидеть эту традицию.",
+            "english": "They won't abhor this tradition.",
+            "transcription": "[ðэй wоунт эбх**о**: ðис трэд**и**шн]"
+          },
+          {
+            "ours": "Избиратели возненавидят этот налог?",
+            "thought": "Будут избиратели ненавидеть этот налог?",
+            "english": "Will voters abhor this tax?",
+            "transcription": "[wил в**о**утэз эбх**о**: ðис тæкс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "abhor описывает состояние, в Continuous так не говорят. Вместо этого скажут: I abhor this idea."
+    },
+    "perfect": {
+      "past": {
+        "form": "had abhorred",
+        "examples": [
+          {
+            "ours": "Она с детства ненавидела насилие.",
+            "thought": "Она имела ненавидимым насилие с детства.",
+            "english": "She had abhorred violence since childhood.",
+            "transcription": "[ши: хæд эбх**о**:д в**а**йэлэнс синс ч**а**йлдхуд]"
+          },
+          {
+            "ours": "До той зимы сельчане не питали ненависти к помещику.",
+            "thought": "[Известные] сельчане имели не ненавидимым их помещика перед той зимой.",
+            "english": "The villagers hadn't abhorred their landlord before that winter.",
+            "transcription": "[ðэ в**и**лиджэз хæднт эбх**о**:д ðээ л**æ**ндло:д биф**о**: ðæт w**и**нтэ]"
+          },
+          {
+            "ours": "Твой дядя ненавидел взяточничество ещё до того суда?",
+            "thought": "Имел твой дядя ненавидимым взяточничество перед тем судом?",
+            "english": "Had your uncle abhorred bribery before that trial?",
+            "transcription": "[хæд йо: **а**нкл эбх**о**:д бр**а**йбэри биф**о**: ðæт тр**а**йэл]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have abhorred, has abhorred",
+        "examples": [
+          {
+            "ours": "Я всегда ненавидел расизм.",
+            "thought": "Я имею всегда ненавидимым расизм.",
+            "english": "I have always abhorred racism.",
+            "transcription": "[ай хæв **о**:лwэйз эбх**о**:д р**э**йсизэм]"
+          },
+          {
+            "ours": "Он не всегда так ненавидел расточительность.",
+            "thought": "Он имеет не всегда ненавидимой расточительность.",
+            "english": "He hasn't always abhorred waste.",
+            "transcription": "[хи: хæзнт **о**:лwэйз эбх**о**:д wэйст]"
+          },
+          {
+            "ours": "Они всегда ненавидели нечестность?",
+            "thought": "Имеют они всегда ненавидимой нечестность?",
+            "english": "Have they always abhorred dishonesty?",
+            "transcription": "[хæв ðэй **о**:лwэйз эбх**о**:д дис**о**нисти]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have abhorred",
+        "not_possible": "abhor описывает состояние, которое не завершается к моменту, и `will have abhorred` носитель не скажет. Вместо этого скажут: By then she will abhor this town."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "abhor описывает состояние, `have been abhorring` не употребляется. Вместо этого скажут: I have always abhorred this idea."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was abhorred, were abhorred",
+        "examples": [
+          {
+            "ours": "В северных штатах рабство ненавидели.",
+            "thought": "Рабство было ненавидимо в [известных] северных штатах.",
+            "english": "Slavery was abhorred in the northern states.",
+            "transcription": "[сл**э**йвэри wоз эбх**о**:д ин ðэ н**о**:ðэн стэйтс]"
+          },
+          {
+            "ours": "Тогда эти обычаи никого не возмущали.",
+            "thought": "Эти обычаи были не ненавидимы в то время.",
+            "english": "These customs weren't abhorred at that time.",
+            "transcription": "[ðи:з к**а**стэмз wœ:нт эбх**о**:д æт ðæт тайм]"
+          },
+          {
+            "ours": "Собственный народ ненавидел диктатора?",
+            "thought": "Был [известный] диктатор ненавидим от его собственного народа?",
+            "english": "Was the dictator abhorred by his own people?",
+            "transcription": "[wоз ðэ дикт**э**йтэ эбх**о**:д бай хиз оун п**и**:пл]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am abhorred, is abhorred, are abhorred",
+        "examples": [
+          {
+            "ours": "Пытки ненавидят в каждой цивилизованной стране.",
+            "thought": "Пытка есть ненавидима в каждой цивилизованной стране.",
+            "english": "Torture is abhorred in every civilised country.",
+            "transcription": "[т**о**:чэ из эбх**о**:д ин **э**ври с**и**вэлайзд к**а**нтри]"
+          },
+          {
+            "ours": "В нашем бизнесе жадность никого не возмущает.",
+            "thought": "Жадность есть не ненавидима в нашем бизнесе.",
+            "english": "Greed isn't abhorred in our business.",
+            "transcription": "[гри:д изнт эбх**о**:д ин ауэ б**и**знис]"
+          },
+          {
+            "ours": "Такие методы в современной медицине вызывают отвращение?",
+            "thought": "Есть такие методы ненавидимы в современной медицине?",
+            "english": "Are such methods abhorred in modern medicine?",
+            "transcription": "[а: сач м**э**θэдз эбх**о**:д ин м**о**дэн м**э**дсин]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be abhorred",
+        "examples": [
+          {
+            "ours": "Этот режим будут ненавидеть веками.",
+            "thought": "Этот режим будет быть ненавидим целые столетия.",
+            "english": "This regime will be abhorred for centuries.",
+            "transcription": "[ðис рэйж**и**:м wил би: эбх**о**:д фо: с**э**нчэриз]"
+          },
+          {
+            "ours": "После смерти этого поэта ненавидеть не будут.",
+            "thought": "Этот поэт будет не быть ненавидим после его смерти.",
+            "english": "This poet won't be abhorred after his death.",
+            "transcription": "[ðис п**о**уит wоунт би: эбх**о**:д **а**:фтэ хиз дэθ]"
+          },
+          {
+            "ours": "История будет ненавидеть этих правителей?",
+            "thought": "Будут эти правители быть ненавидимы от истории?",
+            "english": "Will these rulers be abhorred by history?",
+            "transcription": "[wил ðи:з р**у**:лэз би: эбх**о**:д бай х**и**стри]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "abhor описывает состояние, `is being abhorred` не говорят. Вместо этого скажут: This idea is abhorred everywhere."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been abhorred",
+        "examples": [
+          {
+            "ours": "К тому времени генерала ненавидели уже целых десять лет.",
+            "thought": "К тогда [известный] генерал имел быть ненавидим целых десять лет.",
+            "english": "By then the general had been abhorred for ten years.",
+            "transcription": "[бай ðэн ðэ дж**э**нрэл хæд би:н эбх**о**:д фо: тэн йиэз]"
+          },
+          {
+            "ours": "До того скандала эту практику никто не осуждал.",
+            "thought": "Эта практика имела не быть ненавидима перед тем скандалом.",
+            "english": "This practice hadn't been abhorred before that scandal.",
+            "transcription": "[ðис пр**æ**ктис хæднт би:н эбх**о**:д биф**о**: ðæт ск**æ**ндл]"
+          },
+          {
+            "ours": "Этого министра ненавидели ещё до выборов?",
+            "thought": "Имел этот министр быть ненавидим перед [известными] выборами?",
+            "english": "Had this minister been abhorred before the election?",
+            "transcription": "[хæд ðис м**и**нистэ би:н эбх**о**:д биф**о**: ðи ил**э**кшн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have been abhorred, has been abhorred",
+        "examples": [
+          {
+            "ours": "В Европе детский труд давно вызывает отвращение.",
+            "thought": "Детский труд имеет давно быть ненавидим в Европе.",
+            "english": "Child labour has long been abhorred in Europe.",
+            "transcription": "[чайлд л**э**йбэ хæз лоŋ би:н эбх**о**:д ин й**у**эрэп]"
+          },
+          {
+            "ours": "Охоту не всегда так ненавидели.",
+            "thought": "Охота имеет не всегда быть ненавидима.",
+            "english": "Hunting hasn't always been abhorred.",
+            "transcription": "[х**а**нтиŋ хæзнт **о**:лwэйз би:н эбх**о**:д]"
+          },
+          {
+            "ours": "Эти старые обряды всегда вызывали отвращение?",
+            "thought": "Имеют эти старые обряды всегда быть ненавидимы?",
+            "english": "Have these old rituals always been abhorred?",
+            "transcription": "[хæв ðи:з оулд р**и**чуэлз **о**:лwэйз би:н эбх**о**:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been abhorred",
+        "not_possible": "abhor описывает состояние, и `will have been abhorred` не употребляется. Вместо этого скажут: By then this method will be abhorred."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being abhorred` не употребляется. Вместо этого скажут: This idea has been abhorred for years."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что жена возненавидит эту квартиру.",
+        "thought": "Я знал, что моя жена будет ненавидеть эту квартиру.",
+        "english": "I knew that my wife would abhor this flat.",
+        "transcription": "[ай нью: ðæт май wайф wуд эбх**о**: ðис флæт]"
+      },
+      {
+        "ours": "Мы надеялись, что соседи не возненавидят этот забор.",
+        "thought": "Мы надеялись, что наши соседи будут не ненавидеть этот забор.",
+        "english": "We hoped that our neighbours wouldn't abhor this fence.",
+        "transcription": "[wи: хоупт ðæт ауэ н**э**йбэз wуднт эбх**о**: ðис фэнс]"
+      },
+      {
+        "ours": "Она знала, что студенты возненавидят это правило?",
+        "thought": "[Сделала] она знать, что [известные] студенты будут ненавидеть это правило?",
+        "english": "Did she know that the students would abhor this rule?",
+        "transcription": "[дид ши: ноу ðæт ðэ сть**ю**:дэнтс wуд эбх**о**: ðис ру:л]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "grandfather",
+      "meaning": "дед",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "grandfather"
+        }
+      ]
+    },
+    {
+      "word": "war",
+      "meaning": "война",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "war"
+        }
+      ]
+    },
+    {
+      "word": "boss",
+      "meaning": "начальник",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "boss"
+        }
+      ]
+    },
+    {
+      "word": "flattery",
+      "meaning": "лесть",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "flattery"
+        }
+      ]
+    },
+    {
+      "word": "writer",
+      "meaning": "писатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "writers"
+        }
+      ]
+    },
+    {
+      "word": "censorship",
+      "meaning": "цензура",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "censorship"
+        }
+      ]
+    },
+    {
+      "word": "cruelty",
+      "meaning": "жестокость",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "cruelty"
+        }
+      ]
+    },
+    {
+      "word": "animal",
+      "meaning": "животное",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "animals"
+        }
+      ]
+    },
+    {
+      "word": "sister",
+      "meaning": "сестра",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sister"
+        }
+      ]
+    },
+    {
+      "word": "gossip",
+      "meaning": "сплетни",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "gossip"
+        }
+      ]
+    },
+    {
+      "word": "hypocrisy",
+      "meaning": "лицемерие",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "hypocrisy"
+        }
+      ]
+    },
+    {
+      "word": "grandchild",
+      "meaning": "внук",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "grandchildren"
+        }
+      ]
+    },
+    {
+      "word": "law",
+      "meaning": "закон",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "law"
+        }
+      ]
+    },
+    {
+      "word": "tradition",
+      "meaning": "традиция",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "tradition"
+        }
+      ]
+    },
+    {
+      "word": "voter",
+      "meaning": "избиратель",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "voters"
+        }
+      ]
+    },
+    {
+      "word": "tax",
+      "meaning": "налог",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "tax"
+        }
+      ]
+    },
+    {
+      "word": "violence",
+      "meaning": "насилие",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "violence"
+        }
+      ]
+    },
+    {
+      "word": "childhood",
+      "meaning": "детство",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "childhood"
+        }
+      ]
+    },
+    {
+      "word": "villager",
+      "meaning": "сельчанин",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "villagers"
+        }
+      ]
+    },
+    {
+      "word": "landlord",
+      "meaning": "помещик",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "landlord"
+        }
+      ]
+    },
+    {
+      "word": "winter",
+      "meaning": "зима",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "winter"
+        }
+      ]
+    },
+    {
+      "word": "uncle",
+      "meaning": "дядя",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "uncle"
+        }
+      ]
+    },
+    {
+      "word": "bribery",
+      "meaning": "взяточничество",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "bribery"
+        }
+      ]
+    },
+    {
+      "word": "trial",
+      "meaning": "суд",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "trial"
+        }
+      ]
+    },
+    {
+      "word": "racism",
+      "meaning": "расизм",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "racism"
+        }
+      ]
+    },
+    {
+      "word": "waste",
+      "meaning": "расточительность",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "waste"
+        }
+      ]
+    },
+    {
+      "word": "dishonesty",
+      "meaning": "нечестность",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "dishonesty"
+        }
+      ]
+    },
+    {
+      "word": "slavery",
+      "meaning": "рабство",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "slavery"
+        }
+      ]
+    },
+    {
+      "word": "state",
+      "meaning": "штат",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "states"
+        }
+      ]
+    },
+    {
+      "word": "custom",
+      "meaning": "обычай",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "customs"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "dictator",
+      "meaning": "диктатор",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "dictator"
+        }
+      ]
+    },
+    {
+      "word": "people",
+      "meaning": "народ",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "people"
+        }
+      ]
+    },
+    {
+      "word": "torture",
+      "meaning": "пытки",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "torture"
+        }
+      ]
+    },
+    {
+      "word": "country",
+      "meaning": "страна",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "country"
+        }
+      ]
+    },
+    {
+      "word": "greed",
+      "meaning": "жадность",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "greed"
+        }
+      ]
+    },
+    {
+      "word": "business",
+      "meaning": "бизнес",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "business"
+        }
+      ]
+    },
+    {
+      "word": "method",
+      "meaning": "метод",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "methods"
+        }
+      ]
+    },
+    {
+      "word": "medicine",
+      "meaning": "медицина",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "medicine"
+        }
+      ]
+    },
+    {
+      "word": "regime",
+      "meaning": "режим",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "regime"
+        }
+      ]
+    },
+    {
+      "word": "century",
+      "meaning": "век",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "centuries"
+        }
+      ]
+    },
+    {
+      "word": "poet",
+      "meaning": "поэт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "poet"
+        }
+      ]
+    },
+    {
+      "word": "death",
+      "meaning": "смерть",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "death"
+        }
+      ]
+    },
+    {
+      "word": "ruler",
+      "meaning": "правитель",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "rulers"
+        }
+      ]
+    },
+    {
+      "word": "history",
+      "meaning": "история",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "history"
+        }
+      ]
+    },
+    {
+      "word": "general",
+      "meaning": "генерал",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "general"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "practice",
+      "meaning": "практика",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "practice"
+        }
+      ]
+    },
+    {
+      "word": "scandal",
+      "meaning": "скандал",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "scandal"
+        }
+      ]
+    },
+    {
+      "word": "minister",
+      "meaning": "министр",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "minister"
+        }
+      ]
+    },
+    {
+      "word": "election",
+      "meaning": "выборы",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "election"
+        }
+      ]
+    },
+    {
+      "word": "child",
+      "meaning": "ребёнок",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "child"
+        }
+      ]
+    },
+    {
+      "word": "labour",
+      "meaning": "труд",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "labour"
+        }
+      ]
+    },
+    {
+      "word": "hunting",
+      "meaning": "охота",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "Hunting"
+        }
+      ]
+    },
+    {
+      "word": "ritual",
+      "meaning": "обряд",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "rituals"
+        }
+      ]
+    },
+    {
+      "word": "wife",
+      "meaning": "жена",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "wife"
+        }
+      ]
+    },
+    {
+      "word": "flat",
+      "meaning": "квартира",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "flat"
+        }
+      ]
+    },
+    {
+      "word": "neighbour",
+      "meaning": "сосед",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "neighbours"
+        }
+      ]
+    },
+    {
+      "word": "fence",
+      "meaning": "забор",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "fence"
+        }
+      ]
+    },
+    {
+      "word": "student",
+      "meaning": "студент",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "students"
+        }
+      ]
+    },
+    {
+      "word": "rule",
+      "meaning": "правило",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "rule"
+        }
+      ]
+    }
+  ]
+}

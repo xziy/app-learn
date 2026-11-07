@@ -1,0 +1,1024 @@
+{
+  "spec": 3,
+  "verb": "provide",
+  "forms": {
+    "base": [
+      {
+        "word": "provide",
+        "transcription": "[прэв**а**йд]"
+      }
+    ],
+    "past": [
+      {
+        "word": "provided",
+        "transcription": "[прэв**а**йдид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "provided",
+        "transcription": "[прэв**а**йдид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "providing",
+        "transcription": "[прэв**а**йдиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "provides",
+        "transcription": "[прэв**а**йдз]"
+      }
+    ]
+  },
+  "meaning": "предоставлять, обеспечивать",
+  "notes": "правильный переходный глагол, имеет пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "provided",
+        "examples": [
+          {
+            "ours": "Вчера марина предоставила нам воду.",
+            "thought": "Вчера [известная] марина предоставила воду для нас.",
+            "english": "Yesterday the marina provided water for us.",
+            "transcription": "[й**э**стэдэй ðэ мэр**и**:нэ прэв**а**йдид w**о**:тэ фо: ас]"
+          },
+          {
+            "ours": "Клуб не предоставил лодку.",
+            "thought": "[Известный] клуб [сделал] не предоставлять [какую-то] лодку.",
+            "english": "The club did not provide a boat.",
+            "transcription": "[ðэ клаб дид нот прэв**а**йд э боут]"
+          },
+          {
+            "ours": "Ты предоставил карту?",
+            "thought": "[Сделал] ты предоставлять [какую-то] карту?",
+            "english": "Did you provide a chart?",
+            "transcription": "[дид ю: прэв**а**йд э ча:т]"
+          }
+        ]
+      },
+      "present": {
+        "form": "provide, provides",
+        "examples": [
+          {
+            "ours": "Марина обеспечивает электричеством.",
+            "thought": "[Известная] марина предоставляет электричество.",
+            "english": "The marina provides electricity.",
+            "transcription": "[ðэ мэр**и**:нэ прэв**а**йдз илэктр**и**сити]"
+          },
+          {
+            "ours": "Клуб не предоставляет еду.",
+            "thought": "[Известный] клуб [делает] не предоставлять еду.",
+            "english": "The club does not provide food.",
+            "transcription": "[ðэ клаб даз нот прэв**а**йд фу:д]"
+          },
+          {
+            "ours": "Вы предоставляете жилеты?",
+            "thought": "[Делаете] вы предоставлять спасательные жилеты?",
+            "english": "Do you provide life jackets?",
+            "transcription": "[ду: ю: прэв**а**йд лайф дж**æ**китс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will provide",
+        "examples": [
+          {
+            "ours": "Завтра капитан предоставит прогноз.",
+            "thought": "Завтра [известный] шкипер будет предоставлять [какой-то] прогноз.",
+            "english": "Tomorrow the skipper will provide a forecast.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил прэв**а**йд э ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Марина не предоставит топливо.",
+            "thought": "[Известная] марина будет не предоставлять топливо.",
+            "english": "The marina will not provide fuel.",
+            "transcription": "[ðэ мэр**и**:нэ wил нот прэв**а**йд фь**ю**:эл]"
+          },
+          {
+            "ours": "Вы предоставите карту?",
+            "thought": "Будете вы предоставлять [какую-то] карту?",
+            "english": "Will you provide a chart?",
+            "transcription": "[wил ю: прэв**а**йд э ча:т]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were providing",
+        "examples": [
+          {
+            "ours": "Вчера клуб весь день предоставлял поддержку.",
+            "thought": "Вчера [известный] клуб был предоставляющим поддержку весь день.",
+            "english": "Yesterday the club was providing support all day.",
+            "transcription": "[й**э**стэдэй ðэ клаб wоз прэв**а**йдиŋ сэп**о**:т о:л дэй]"
+          },
+          {
+            "ours": "Марина снабжала водой, когда вы прибыли?",
+            "thought": "Была [известная] марина предоставляющей воду, когда вы прибыли?",
+            "english": "Was the marina providing water when you arrived?",
+            "transcription": "[wоз ðэ мэр**и**:нэ прэв**а**йдиŋ w**о**:тэ wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are providing",
+        "examples": [
+          {
+            "ours": "Сейчас клуб оказывает поддержку.",
+            "thought": "[Известный] клуб является предоставляющим поддержку сейчас.",
+            "english": "The club is providing support now.",
+            "transcription": "[ðэ клаб из прэв**а**йдиŋ сэп**о**:т нау]"
+          },
+          {
+            "ours": "Марина сейчас не поставляет топливо.",
+            "thought": "[Известная] марина является не предоставляющей топливо сейчас.",
+            "english": "The marina is not providing fuel now.",
+            "transcription": "[ðэ мэр**и**:нэ из нот прэв**а**йдиŋ фь**ю**:эл нау]"
+          },
+          {
+            "ours": "Вы сейчас обеспечиваете связь?",
+            "thought": "Являетесь вы предоставляющими связь сейчас?",
+            "english": "Are you providing communications now?",
+            "transcription": "[а: ю: прэв**а**йдиŋ кэмьюник**э**йшнз нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be providing",
+        "examples": [
+          {
+            "ours": "Завтра клуб будет оказывать поддержку весь день.",
+            "thought": "Завтра [известный] клуб будет быть предоставляющим поддержку весь день.",
+            "english": "Tomorrow the club will be providing support all day.",
+            "transcription": "[тэм**о**роу ðэ клаб wил би: прэв**а**йдиŋ сэп**о**:т о:л дэй]"
+          },
+          {
+            "ours": "Завтра вы будете снабжать водой весь день?",
+            "thought": "Будете вы быть предоставляющими воду весь день завтра?",
+            "english": "Will you be providing water all day tomorrow?",
+            "transcription": "[wил ю: би: прэв**а**йдиŋ w**о**:тэ о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had provided",
+        "examples": [
+          {
+            "ours": "К полудню клуб уже предоставил лодку.",
+            "thought": "К полудню [известный] клуб имел уже предоставленной [какую-то] лодку.",
+            "english": "By noon the club had already provided a boat.",
+            "transcription": "[бай ну:н ðэ клаб хæд о:лр**э**ди прэв**а**йдид э боут]"
+          },
+          {
+            "ours": "К пяти марина ещё не предоставила топливо.",
+            "thought": "К пяти [известная] марина имела не предоставленным топливо ещё.",
+            "english": "By five the marina had not provided fuel yet.",
+            "transcription": "[бай файв ðэ мэр**и**:нэ хæд нот прэв**а**йдид фь**ю**:эл йэт]"
+          },
+          {
+            "ours": "К пяти вы предоставили карту?",
+            "thought": "Имели вы предоставленной [какую-то] карту к пяти?",
+            "english": "Had you provided a chart by five?",
+            "transcription": "[хæд ю: прэв**а**йдид э ча:т бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has provided",
+        "examples": [
+          {
+            "ours": "Клуб уже предоставил лодку.",
+            "thought": "[Известный] клуб имеет уже предоставленной [какую-то] лодку.",
+            "english": "The club has already provided a boat.",
+            "transcription": "[ðэ клаб хæз о:лр**э**ди прэв**а**йдид э боут]"
+          },
+          {
+            "ours": "Марина ещё не предоставила топливо.",
+            "thought": "[Известная] марина имеет не предоставленным топливо ещё.",
+            "english": "The marina has not provided fuel yet.",
+            "transcription": "[ðэ мэр**и**:нэ хæз нот прэв**а**йдид фь**ю**:эл йэт]"
+          },
+          {
+            "ours": "Вы уже предоставили карту?",
+            "thought": "Имеете вы предоставленной [какую-то] карту уже?",
+            "english": "Have you provided a chart yet?",
+            "transcription": "[хæв ю: прэв**а**йдид э ча:т йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have provided",
+        "examples": [
+          {
+            "ours": "К полудню клуб предоставит лодку.",
+            "thought": "К полудню [известный] клуб будет иметь предоставленной [какую-то] лодку.",
+            "english": "By noon the club will have provided a boat.",
+            "transcription": "[бай ну:н ðэ клаб wил хæв прэв**а**йдид э боут]"
+          },
+          {
+            "ours": "К пяти марина ещё не предоставит топливо.",
+            "thought": "К пяти [известная] марина будет не иметь предоставленным топливо ещё.",
+            "english": "By five the marina will not have provided fuel yet.",
+            "transcription": "[бай файв ðэ мэр**и**:нэ wил нот хæв прэв**а**йдид фь**ю**:эл йэт]"
+          },
+          {
+            "ours": "К пяти вы предоставите карту?",
+            "thought": "Будете вы иметь предоставленной [какую-то] карту к пяти?",
+            "english": "Will you have provided a chart by five?",
+            "transcription": "[wил ю: хæв прэв**а**йдид э ча:т бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been providing",
+        "examples": [
+          {
+            "ours": "Клуб предоставлял поддержку два часа, когда ветер усилился.",
+            "thought": "[Известный] клуб имел быть предоставляющим поддержку целых два часа, когда [известный] ветер усилился.",
+            "english": "The club had been providing support for two hours when the wind rose.",
+            "transcription": "[ðэ клаб хæд би:н прэв**а**йдиŋ сэп**о**:т фо: ту: **а**уэз wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Марина давно снабжала водой, когда вы прибыли?",
+            "thought": "Имела [известная] марина быть предоставляющей воду долго, когда вы прибыли?",
+            "english": "Had the marina been providing water long when you arrived?",
+            "transcription": "[хæд ðэ мэр**и**:нэ би:н прэв**а**йдиŋ w**о**:тэ лоŋ wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been providing",
+        "examples": [
+          {
+            "ours": "Клуб уже два часа оказывает поддержку.",
+            "thought": "[Известный] клуб имеет быть предоставляющим поддержку целых два часа.",
+            "english": "The club has been providing support for two hours.",
+            "transcription": "[ðэ клаб хæз би:н прэв**а**йдиŋ сэп**о**:т фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Марина уже год снабжает водой?",
+            "thought": "Имеет [известная] марина быть предоставляющей воду целый [какой-то] год?",
+            "english": "Has the marina been providing water for a year?",
+            "transcription": "[хæз ðэ мэр**и**:нэ би:н прэв**а**йдиŋ w**о**:тэ фо: э йиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been providing",
+        "examples": [
+          {
+            "ours": "К июню клуб будет обеспечивать обучение уже год.",
+            "thought": "К июню [известный] клуб будет иметь быть предоставляющим обучение целый [какой-то] год.",
+            "english": "By June the club will have been providing training for a year.",
+            "transcription": "[бай джу:н ðэ клаб wил хæв би:н прэв**а**йдиŋ тр**э**йниŋ фо: э йиэ]"
+          },
+          {
+            "ours": "К июню марина будет снабжать водой уже год?",
+            "thought": "Будет [известная] марина иметь быть предоставляющей воду целый [какой-то] год к июню?",
+            "english": "Will the marina have been providing water for a year by June?",
+            "transcription": "[wил ðэ мэр**и**:нэ хæв би:н прэв**а**йдиŋ w**о**:тэ фо: э йиэ бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were provided",
+        "examples": [
+          {
+            "ours": "Вчера предоставили воду.",
+            "thought": "Вода была предоставлена вчера.",
+            "english": "Water was provided yesterday.",
+            "transcription": "[w**о**:тэ wоз прэв**а**йдид й**э**стэдэй]"
+          },
+          {
+            "ours": "Топливо не предоставили.",
+            "thought": "Топливо было не предоставлено.",
+            "english": "Fuel was not provided.",
+            "transcription": "[фь**ю**:эл wоз нот прэв**а**йдид]"
+          },
+          {
+            "ours": "Карту предоставили?",
+            "thought": "Была [какая-то] карта предоставлена?",
+            "english": "Was a chart provided?",
+            "transcription": "[wоз э ча:т прэв**а**йдид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are provided",
+        "examples": [
+          {
+            "ours": "Спасательные жилеты предоставляются на борту.",
+            "thought": "Спасательные жилеты есть предоставлены на борту.",
+            "english": "Life jackets are provided on board.",
+            "transcription": "[лайф дж**æ**китс а: прэв**а**йдид он бо:д]"
+          },
+          {
+            "ours": "Еда не предоставляется.",
+            "thought": "Еда есть не предоставлена.",
+            "english": "Food is not provided.",
+            "transcription": "[фу:д из нот прэв**а**йдид]"
+          },
+          {
+            "ours": "Воду предоставляют здесь?",
+            "thought": "Есть вода предоставлена здесь?",
+            "english": "Is water provided here?",
+            "transcription": "[из w**о**:тэ прэв**а**йдид хиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be provided",
+        "examples": [
+          {
+            "ours": "Завтра предоставят прогноз.",
+            "thought": "Завтра [какой-то] прогноз будет быть предоставлен.",
+            "english": "Tomorrow a forecast will be provided.",
+            "transcription": "[тэм**о**роу э ф**о**:ка:ст wил би: прэв**а**йдид]"
+          },
+          {
+            "ours": "Топливо не предоставят.",
+            "thought": "Топливо будет не быть предоставлено.",
+            "english": "Fuel will not be provided.",
+            "transcription": "[фь**ю**:эл wил нот би: прэв**а**йдид]"
+          },
+          {
+            "ours": "Лодку предоставят завтра?",
+            "thought": "Будет [какая-то] лодка быть предоставлена завтра?",
+            "english": "Will a boat be provided tomorrow?",
+            "transcription": "[wил э боут би: прэв**а**йдид тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being provided",
+        "examples": [
+          {
+            "ours": "Вчера поддержку оказывали весь день.",
+            "thought": "Вчера поддержка была «долго» предоставлена весь день.",
+            "english": "Yesterday support was being provided all day.",
+            "transcription": "[й**э**стэдэй сэп**о**:т wоз б**и**:иŋ прэв**а**йдид о:л дэй]"
+          },
+          {
+            "ours": "Воду подавали, когда вы прибыли?",
+            "thought": "Была вода «долго» предоставлена, когда вы прибыли?",
+            "english": "Was water being provided when you arrived?",
+            "transcription": "[wоз w**о**:тэ б**и**:иŋ прэв**а**йдид wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being provided",
+        "examples": [
+          {
+            "ours": "Сейчас оказывают поддержку.",
+            "thought": "Поддержка есть «долго» предоставлена сейчас.",
+            "english": "Support is being provided now.",
+            "transcription": "[сэп**о**:т из б**и**:иŋ прэв**а**йдид нау]"
+          },
+          {
+            "ours": "Топливо сейчас не предоставляют.",
+            "thought": "Топливо есть не «долго» предоставлено сейчас.",
+            "english": "Fuel is not being provided now.",
+            "transcription": "[фь**ю**:эл из нот б**и**:иŋ прэв**а**йдид нау]"
+          },
+          {
+            "ours": "Воду сейчас предоставляют?",
+            "thought": "Есть вода «долго» предоставлена сейчас?",
+            "english": "Is water being provided now?",
+            "transcription": "[из w**о**:тэ б**и**:иŋ прэв**а**йдид нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be providing",
+        "examples": [
+          {
+            "ours": "Завтра они будут оказывать поддержку весь день.",
+            "thought": "Завтра они будут быть предоставляющими поддержку весь день.",
+            "english": "Tomorrow they will be providing support all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: прэв**а**йдиŋ сэп**о**:т о:л дэй]"
+          },
+          {
+            "ours": "Они будут снабжать водой весь день завтра?",
+            "thought": "Будут они быть предоставляющими воду весь день завтра?",
+            "english": "Will they be providing water all day tomorrow?",
+            "transcription": "[wил ðэй би: прэв**а**йдиŋ w**о**:тэ о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been provided",
+        "examples": [
+          {
+            "ours": "К пяти лодку уже предоставили.",
+            "thought": "К пяти [известная] лодка имела уже быть предоставлена.",
+            "english": "By five the boat had already been provided.",
+            "transcription": "[бай файв ðэ боут хæд о:лр**э**ди би:н прэв**а**йдид]"
+          },
+          {
+            "ours": "К тому времени топливо ещё не предоставили.",
+            "thought": "К тогда топливо имело не быть предоставлено ещё.",
+            "english": "By then fuel had not been provided yet.",
+            "transcription": "[бай ðэн фь**ю**:эл хæд нот би:н прэв**а**йдид йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been provided",
+        "examples": [
+          {
+            "ours": "Лодку уже предоставили.",
+            "thought": "[Известная] лодка имеет уже быть предоставлена.",
+            "english": "The boat has already been provided.",
+            "transcription": "[ðэ боут хæз о:лр**э**ди би:н прэв**а**йдид]"
+          },
+          {
+            "ours": "Топливо ещё не предоставили.",
+            "thought": "Топливо имеет не быть предоставлено ещё.",
+            "english": "Fuel has not been provided yet.",
+            "transcription": "[фь**ю**:эл хæз нот би:н прэв**а**йдид йэт]"
+          },
+          {
+            "ours": "Карту уже предоставили?",
+            "thought": "Имеет [известная] карта быть предоставлена уже?",
+            "english": "Has the chart been provided yet?",
+            "transcription": "[хæз ðэ ча:т би:н прэв**а**йдид йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been provided",
+        "examples": [
+          {
+            "ours": "К пяти лодку предоставят.",
+            "thought": "К пяти [известная] лодка будет иметь быть предоставлена.",
+            "english": "By five the boat will have been provided.",
+            "transcription": "[бай файв ðэ боут wил хæв би:н прэв**а**йдид]"
+          },
+          {
+            "ours": "К пяти топливо ещё не предоставят.",
+            "thought": "К пяти топливо будет не иметь быть предоставлено ещё.",
+            "english": "By five fuel will not have been provided yet.",
+            "transcription": "[бай файв фь**ю**:эл wил нот хæв би:н прэв**а**йдид йэт]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него скажут: They have been providing support."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что клуб предоставит лодку.",
+        "thought": "Я знал, [известный] клуб будет предоставлять [какую-то] лодку.",
+        "english": "I knew the club would provide a boat.",
+        "transcription": "[ай нью: ðэ клаб wуд прэв**а**йд э боут]"
+      },
+      {
+        "ours": "Она думала, что марина не предоставит топливо.",
+        "thought": "Она думала, [известная] марина будет не предоставлять топливо.",
+        "english": "She thought the marina would not provide fuel.",
+        "transcription": "[ши: θо:т ðэ мэр**и**:нэ wуд нот прэв**а**йд фь**ю**:эл]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "club",
+      "meaning": "клуб",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "club"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "club"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "electricity",
+      "meaning": "электричество",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "electricity"
+        }
+      ]
+    },
+    {
+      "word": "food",
+      "meaning": "еда",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "food"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "food"
+        }
+      ]
+    },
+    {
+      "word": "life jacket",
+      "meaning": "спасательный жилет",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "life jackets"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "fuel",
+      "meaning": "топливо",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "fuel"
+        }
+      ]
+    },
+    {
+      "word": "support",
+      "meaning": "поддержка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "support"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "support"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "support"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "support"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "support"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "support"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "support"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "support"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "communications",
+      "meaning": "связь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "communications"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "training",
+      "meaning": "обучение",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "training"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "board"
+        }
+      ]
+    }
+  ]
+}

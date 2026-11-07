@@ -1,0 +1,842 @@
+{
+  "spec": 3,
+  "verb": "meet",
+  "forms": {
+    "base": [
+      {
+        "word": "meet",
+        "transcription": "[ми:т]"
+      }
+    ],
+    "past": [
+      {
+        "word": "met",
+        "transcription": "[мэт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "met",
+        "transcription": "[мэт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "meeting",
+        "transcription": "[м**и**:тиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "meets",
+        "transcription": "[ми:тс]"
+      }
+    ]
+  },
+  "meaning": "встречать, знакомиться, встречаться",
+  "notes": "неправильный глагол; переходное значение «встречать кого-либо» образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "met",
+        "examples": [
+          {
+            "ours": "Вчера я встретил шкипера.",
+            "thought": "Вчера я встретил [известного] шкипера.",
+            "english": "Yesterday I met the skipper.",
+            "transcription": "[й**э**стэдэй ай мэт ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Ты познакомился с экипажем?",
+            "thought": "[Сделал] ты встречать [известный] экипаж?",
+            "english": "Did you meet the crew?",
+            "transcription": "[дид ю: ми:т ðэ кру:]"
+          },
+          {
+            "ours": "Она не встретила владельца яхты.",
+            "thought": "Она [сделала] не встречать [известного] яхтенного владельца.",
+            "english": "She did not meet the yacht owner.",
+            "transcription": "[ши: дид нот ми:т ðэ йот **о**унэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "meet, meets",
+        "examples": [
+          {
+            "ours": "Он каждое утро встречает гостей у причала.",
+            "thought": "Он встречает гостей у [известного] причала каждое утро.",
+            "english": "He meets guests at the dock every morning.",
+            "transcription": "[хи: ми:тс гэстс æт ðэ док **э**ври м**о**:ниŋ]"
+          },
+          {
+            "ours": "Ты встречаешь новых матросов в марине?",
+            "thought": "[Делаешь] ты встречать новых матросов в [известной] марине?",
+            "english": "Do you meet new sailors at the marina?",
+            "transcription": "[ду: ю: ми:т нью: с**э**йлэз æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Мы не встречаем посетителей на палубе.",
+            "thought": "Мы [делаем] не встречать посетителей на палубе.",
+            "english": "We do not meet visitors on deck.",
+            "transcription": "[wи: ду: нот ми:т в**и**зитэз он дэк]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will meet",
+        "examples": [
+          {
+            "ours": "Завтра я встречу шкипера в марине.",
+            "thought": "Завтра я буду встречать [известного] шкипера в [известной] марине.",
+            "english": "Tomorrow I will meet the skipper at the marina.",
+            "transcription": "[тэм**о**роу ай wил ми:т ðэ ск**и**пэ æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Ты встретишь команду у яхты?",
+            "thought": "Будешь ты встречать [известную] команду у [известной] яхты?",
+            "english": "Will you meet the crew at the yacht?",
+            "transcription": "[wил ю: ми:т ðэ кру: æт ðэ йот]"
+          },
+          {
+            "ours": "Она не встретит владельца сегодня.",
+            "thought": "Она будет не встречать [известного] владельца сегодня.",
+            "english": "She will not meet the owner today.",
+            "transcription": "[ши: wил нот ми:т ðи **о**унэ тэд**э**й]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were meeting",
+        "examples": [
+          {
+            "ours": "Вчера утром я встречался с владельцем яхты.",
+            "thought": "Вчера утром я был встречающим [известного] яхтенного владельца.",
+            "english": "Yesterday morning I was meeting the yacht owner.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ ай wоз м**и**:тиŋ ðэ йот **о**унэ]"
+          },
+          {
+            "ours": "Ты встречался со шкипером, когда я позвонил?",
+            "thought": "Был ты встречающим [известного] шкипера, когда я позвонил?",
+            "english": "Were you meeting the skipper when I called?",
+            "transcription": "[wœ: ю: м**и**:тиŋ ðэ ск**и**пэ wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are meeting",
+        "examples": [
+          {
+            "ours": "Я сейчас встречаюсь с механиком в марине.",
+            "thought": "Я являюсь встречающим [известного] механика в [известной] марине сейчас.",
+            "english": "I am meeting the mechanic at the marina now.",
+            "transcription": "[ай æм м**и**:тиŋ ðэ мик**æ**ник æт ðэ мэр**и**:нэ нау]"
+          },
+          {
+            "ours": "Она сейчас встречается с экипажем?",
+            "thought": "Является она встречающей [известный] экипаж сейчас?",
+            "english": "Is she meeting the crew now?",
+            "transcription": "[из ши: м**и**:тиŋ ðэ кру: нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be meeting",
+        "examples": [
+          {
+            "ours": "Завтра утром мы встретимся со шкипером.",
+            "thought": "Завтра утром мы будем быть встречающими [известного] шкипера.",
+            "english": "Tomorrow morning we will be meeting the skipper.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: м**и**:тиŋ ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Ты будешь встречаться с владельцем днём?",
+            "thought": "Будешь ты быть встречающим [известного] владельца этот послеполудень?",
+            "english": "Will you be meeting the owner this afternoon?",
+            "transcription": "[wил ю: би: м**и**:тиŋ ðи **о**унэ ðис а:фтэн**у**:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had met",
+        "examples": [
+          {
+            "ours": "К полудню я уже встретил всю команду.",
+            "thought": "К полудню я имел уже встреченной [известную] всю команду.",
+            "english": "By noon I had already met the whole crew.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди мэт ðэ хоул кру:]"
+          },
+          {
+            "ours": "Она познакомилась со шкипером до гонки?",
+            "thought": "Имела она встреченным [известного] шкипера перед [известной] гонкой?",
+            "english": "Had she met the skipper before the race?",
+            "transcription": "[хæд ши: мэт ðэ ск**и**пэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has met",
+        "examples": [
+          {
+            "ours": "Я уже познакомился с экипажем.",
+            "thought": "Я имею уже встреченным [известный] экипаж.",
+            "english": "I have already met the crew.",
+            "transcription": "[ай хæв о:лр**э**ди мэт ðэ кру:]"
+          },
+          {
+            "ours": "Ты уже встретил владельца яхты?",
+            "thought": "Имеешь ты встреченным [известного] яхтенного владельца уже?",
+            "english": "Have you met the yacht owner yet?",
+            "transcription": "[хæв ю: мэт ðэ йот **о**унэ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have met",
+        "examples": [
+          {
+            "ours": "К полудню мы познакомимся с экипажем.",
+            "thought": "К полудню мы будем иметь встреченным [известный] экипаж.",
+            "english": "By noon we will have met the crew.",
+            "transcription": "[бай ну:н wи: wил хæв мэт ðэ кру:]"
+          },
+          {
+            "ours": "К пяти она встретит шкипера?",
+            "thought": "Будет она иметь встреченным [известного] шкипера к пяти?",
+            "english": "Will she have met the skipper by five?",
+            "transcription": "[wил ши: хæв мэт ðэ ск**и**пэ бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been meeting",
+        "examples": [
+          {
+            "ours": "Мы встречались с командой каждую неделю месяц до регаты.",
+            "thought": "Мы имели быть встречающими [известную] команду еженедельно целый [какой-то] месяц перед [известной] регатой.",
+            "english": "We had been meeting the crew weekly for a month before the regatta.",
+            "transcription": "[wи: хæд би:н м**и**:тиŋ ðэ кру: w**и**:кли фо: э манθ биф**о**: ðэ риг**æ**тэ]"
+          },
+          {
+            "ours": "Ты встречался со шкипером каждую неделю год до гонки?",
+            "thought": "Имел ты быть встречающим [известного] шкипера еженедельно целый [какой-то] год перед [известной] гонкой?",
+            "english": "Had you been meeting the skipper weekly for a year before the race?",
+            "transcription": "[хæд ю: би:н м**и**:тиŋ ðэ ск**и**пэ w**и**:кли фо: э йиэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been meeting",
+        "examples": [
+          {
+            "ours": "Мы встречаемся с командой каждую неделю уже месяц.",
+            "thought": "Мы имеем быть встречающими [известную] команду еженедельно целый [какой-то] месяц.",
+            "english": "We have been meeting the crew weekly for a month.",
+            "transcription": "[wи: хæв би:н м**и**:тиŋ ðэ кру: w**и**:кли фо: э манθ]"
+          },
+          {
+            "ours": "Ты встречаешься со шкипером каждую неделю уже год?",
+            "thought": "Имеешь ты быть встречающим [известного] шкипера еженедельно целый [какой-то] год?",
+            "english": "Have you been meeting the skipper weekly for a year?",
+            "transcription": "[хæв ю: би:н м**и**:тиŋ ðэ ск**и**пэ w**и**:кли фо: э йиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been meeting",
+        "examples": [
+          {
+            "ours": "К июню мы будем встречаться с командой еженедельно уже год.",
+            "thought": "К июню мы будем иметь быть встречающими [известную] команду еженедельно целый [какой-то] год.",
+            "english": "By June we will have been meeting the crew weekly for a year.",
+            "transcription": "[бай джу:н wи: wил хæв би:н м**и**:тиŋ ðэ кру: w**и**:кли фо: э йиэ]"
+          },
+          {
+            "ours": "К маю ты будешь встречаться со шкипером каждую неделю уже месяц?",
+            "thought": "Будешь ты иметь быть встречающим [известного] шкипера еженедельно целый [какой-то] месяц к маю?",
+            "english": "Will you have been meeting the skipper weekly for a month by May?",
+            "transcription": "[wил ю: хæв би:н м**и**:тиŋ ðэ ск**и**пэ w**и**:кли фо: э манθ бай мэй]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were met",
+        "examples": [
+          {
+            "ours": "Вчера гостей встретили в марине.",
+            "thought": "[Известные] гости были встречены в [известной] марине вчера.",
+            "english": "The guests were met at the marina yesterday.",
+            "transcription": "[ðэ гэстс wœ: мэт æт ðэ мэр**и**:нэ й**э**стэдэй]"
+          },
+          {
+            "ours": "Шкипера встретили у причала?",
+            "thought": "Был [известный] шкипер встречен у [известного] причала?",
+            "english": "Was the skipper met at the dock?",
+            "transcription": "[wоз ðэ ск**и**пэ мэт æт ðэ док]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are met",
+        "examples": [
+          {
+            "ours": "Гостей встречают у причала каждое утро.",
+            "thought": "[Известные] гости есть встречены у [известного] причала каждое утро.",
+            "english": "The guests are met at the dock every morning.",
+            "transcription": "[ðэ гэстс а: мэт æт ðэ док **э**ври м**о**:ниŋ]"
+          },
+          {
+            "ours": "Новых матросов встречают в марине?",
+            "thought": "Есть новые матросы встречены в [известной] марине?",
+            "english": "Are new sailors met at the marina?",
+            "transcription": "[а: нью: с**э**йлэз мэт æт ðэ мэр**и**:нэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be met",
+        "examples": [
+          {
+            "ours": "Завтра команду встретят у яхты.",
+            "thought": "[Известная] команда будет быть встречена у [известной] яхты завтра.",
+            "english": "The crew will be met at the yacht tomorrow.",
+            "transcription": "[ðэ кру: wил би: мэт æт ðэ йот тэм**о**роу]"
+          },
+          {
+            "ours": "Шкипера встретят у причала?",
+            "thought": "Будет [известный] шкипер быть встречен у [известного] причала?",
+            "english": "Will the skipper be met at the dock?",
+            "transcription": "[wил ðэ ск**и**пэ би: мэт æт ðэ док]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Для отдельной встречи продолженный пассив звучит неестественно. Вместо него: The guests are arriving and the skipper is meeting them."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been met",
+        "examples": [
+          {
+            "ours": "К полудню гостей уже встретили у причала.",
+            "thought": "К полудню [известные] гости имели уже быть встречены у [известного] причала.",
+            "english": "By noon the guests had already been met at the dock.",
+            "transcription": "[бай ну:н ðэ гэстс хæд о:лр**э**ди би:н мэт æт ðэ док]"
+          },
+          {
+            "ours": "Шкипера встретили до гонки?",
+            "thought": "Имел [известный] шкипер быть встречен перед [известной] гонкой?",
+            "english": "Had the skipper been met before the race?",
+            "transcription": "[хæд ðэ ск**и**пэ би:н мэт биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been met",
+        "examples": [
+          {
+            "ours": "Команду уже встретили у яхты.",
+            "thought": "[Известная] команда имеет уже быть встречена у [известной] яхты.",
+            "english": "The crew has already been met at the yacht.",
+            "transcription": "[ðэ кру: хæз о:лр**э**ди би:н мэт æт ðэ йот]"
+          },
+          {
+            "ours": "Гостей уже встретили у причала?",
+            "thought": "Имеют [известные] гости быть встречены у [известного] причала уже?",
+            "english": "Have the guests been met at the dock yet?",
+            "transcription": "[хæв ðэ гэстс би:н мэт æт ðэ док йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been met",
+        "examples": [
+          {
+            "ours": "К полудню команду уже встретят.",
+            "thought": "К полудню [известная] команда будет иметь быть встречена.",
+            "english": "By noon the crew will have been met.",
+            "transcription": "[бай ну:н ðэ кру: wил хæв би:н мэт]"
+          },
+          {
+            "ours": "Гостей встретят к пяти?",
+            "thought": "Будут [известные] гости иметь быть встречены к пяти?",
+            "english": "Will the guests have been met by five?",
+            "transcription": "[wил ðэ гэстс хæв би:н мэт бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been meeting the crew every week."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она встретит команду.",
+        "thought": "Я знал, она будет встречать [известную] команду.",
+        "english": "I knew she would meet the crew.",
+        "transcription": "[ай нью: ши: wуд ми:т ðэ кру:]"
+      },
+      {
+        "ours": "Он думал, что мы не встретим шкипера.",
+        "thought": "Он думал, мы будем не встречать [известного] шкипера.",
+        "english": "He thought we would not meet the skipper.",
+        "transcription": "[хи: θо:т wи: wуд нот ми:т ðэ ск**и**пэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "owner",
+      "meaning": "владелец",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "owner"
+        }
+      ]
+    },
+    {
+      "word": "guest",
+      "meaning": "гость",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "guests"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "guests"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "guests"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "guests"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "guests"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "guests"
+        }
+      ]
+    },
+    {
+      "word": "dock",
+      "meaning": "причал",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "dock"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "sailors"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "visitor",
+      "meaning": "посетитель",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "visitors"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "mechanic",
+      "meaning": "механик",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "mechanic"
+        }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "meaning": "время после полудня",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "afternoon"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "month"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "month"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "month"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "May",
+      "meaning": "май",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "May"
+        }
+      ]
+    }
+  ]
+}

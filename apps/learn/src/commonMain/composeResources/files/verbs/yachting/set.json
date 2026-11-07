@@ -1,0 +1,862 @@
+{
+  "spec": 3,
+  "verb": "set",
+  "forms": {
+    "base": [
+      {
+        "word": "set",
+        "transcription": "[сэт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "set",
+        "transcription": "[сэт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "set",
+        "transcription": "[сэт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "setting",
+        "transcription": "[с**э**тиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "sets",
+        "transcription": "[сэтс]"
+      }
+    ]
+  },
+  "meaning": "устанавливать, поднимать парус, задавать курс",
+  "notes": "неправильный переходный глагол; формы base, past и participle совпадают",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "set",
+        "examples": [
+          {
+            "ours": "Вчера мы подняли парус.",
+            "thought": "Вчера мы установили [известный] парус.",
+            "english": "Yesterday we set the sail.",
+            "transcription": "[й**э**стэдэй wи: сэт ðэ сэйл]"
+          },
+          {
+            "ours": "Она не установила будильник.",
+            "thought": "Она [сделала] не устанавливать [известный] будильник.",
+            "english": "She did not set the alarm.",
+            "transcription": "[ши: дид нот сэт ðи эл**а**:м]"
+          },
+          {
+            "ours": "Ты проложил курс?",
+            "thought": "[Сделал] ты устанавливать [известный] курс?",
+            "english": "Did you set the course?",
+            "transcription": "[дид ю: сэт ðэ ко:с]"
+          }
+        ]
+      },
+      "present": {
+        "form": "set, sets",
+        "examples": [
+          {
+            "ours": "Капитан задаёт курс.",
+            "thought": "[Известный] шкипер устанавливает [известный] курс.",
+            "english": "The skipper sets the course.",
+            "transcription": "[ðэ ск**и**пэ сэтс ðэ ко:с]"
+          },
+          {
+            "ours": "Мы не ставим якорь здесь.",
+            "thought": "Мы [делаем] не устанавливать [известный] якорь здесь.",
+            "english": "We do not set the anchor here.",
+            "transcription": "[wи: ду: нот сэт ðи **æ**ŋкэ хиэ]"
+          },
+          {
+            "ours": "Ты каждый вечер ставишь будильник?",
+            "thought": "[Делаешь] ты устанавливать [известный] будильник каждый вечер?",
+            "english": "Do you set the alarm every evening?",
+            "transcription": "[ду: ю: сэт ðи эл**а**:м **э**ври **и**:вниŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will set",
+        "examples": [
+          {
+            "ours": "Завтра мы поднимем парус.",
+            "thought": "Завтра мы будем устанавливать [известный] парус.",
+            "english": "Tomorrow we will set the sail.",
+            "transcription": "[тэм**о**роу wи: wил сэт ðэ сэйл]"
+          },
+          {
+            "ours": "Она не установит будильник.",
+            "thought": "Она будет не устанавливать [известный] будильник.",
+            "english": "She will not set the alarm.",
+            "transcription": "[ши: wил нот сэт ðи эл**а**:м]"
+          },
+          {
+            "ours": "Ты проложишь курс?",
+            "thought": "Будешь ты устанавливать [известный] курс?",
+            "english": "Will you set the course?",
+            "transcription": "[wил ю: сэт ðэ ко:с]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were setting",
+        "examples": [
+          {
+            "ours": "Мы поднимали парус, когда усилился ветер.",
+            "thought": "Мы были устанавливающими [известный] парус, когда [известный] ветер усилился.",
+            "english": "We were setting the sail when the wind rose.",
+            "transcription": "[wи: wœ: с**э**тиŋ ðэ сэйл wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты ставил якорь, когда я позвонил?",
+            "thought": "Был ты устанавливающим [известный] якорь, когда я позвонил?",
+            "english": "Were you setting the anchor when I called?",
+            "transcription": "[wœ: ю: с**э**тиŋ ðи **æ**ŋкэ wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are setting",
+        "examples": [
+          {
+            "ours": "Мы сейчас поднимаем парус.",
+            "thought": "Мы являемся устанавливающими [известный] парус сейчас.",
+            "english": "We are setting the sail now.",
+            "transcription": "[wи: а: с**э**тиŋ ðэ сэйл нау]"
+          },
+          {
+            "ours": "Она сейчас не устанавливает будильник.",
+            "thought": "Она является не устанавливающей [известный] будильник сейчас.",
+            "english": "She is not setting the alarm now.",
+            "transcription": "[ши: из нот с**э**тиŋ ðи эл**а**:м нау]"
+          },
+          {
+            "ours": "Ты сейчас ставишь якорь?",
+            "thought": "Являешься ты устанавливающим [известный] якорь сейчас?",
+            "english": "Are you setting the anchor now?",
+            "transcription": "[а: ю: с**э**тиŋ ðи **æ**ŋкэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be setting",
+        "examples": [
+          {
+            "ours": "Завтра в пять мы будем поднимать парус.",
+            "thought": "Завтра в пять мы будем быть устанавливающими [известный] парус.",
+            "english": "Tomorrow at five we will be setting the sail.",
+            "transcription": "[тэм**о**роу æт файв wи: wил би: с**э**тиŋ ðэ сэйл]"
+          },
+          {
+            "ours": "Ты будешь ставить якорь в шесть?",
+            "thought": "Будешь ты быть устанавливающим [известный] якорь в шесть?",
+            "english": "Will you be setting the anchor at six?",
+            "transcription": "[wил ю: би: с**э**тиŋ ðи **æ**ŋкэ æт сикс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had set",
+        "examples": [
+          {
+            "ours": "К пяти мы уже подняли парус.",
+            "thought": "К пяти мы имели уже установленным [известный] парус.",
+            "english": "By five we had already set the sail.",
+            "transcription": "[бай файв wи: хæд о:лр**э**ди сэт ðэ сэйл]"
+          },
+          {
+            "ours": "К тому времени она ещё не поставила будильник.",
+            "thought": "К тогда она имела не установленным [известный] будильник ещё.",
+            "english": "By then she had not set the alarm yet.",
+            "transcription": "[бай ðэн ши: хæд нот сэт ðи эл**а**:м йэт]"
+          },
+          {
+            "ours": "К пяти ты проложил курс?",
+            "thought": "Имел ты установленным [известный] курс к пяти?",
+            "english": "Had you set the course by five?",
+            "transcription": "[хæд ю: сэт ðэ ко:с бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has set",
+        "examples": [
+          {
+            "ours": "Мы уже подняли парус.",
+            "thought": "Мы имеем уже установленным [известный] парус.",
+            "english": "We have already set the sail.",
+            "transcription": "[wи: хæв о:лр**э**ди сэт ðэ сэйл]"
+          },
+          {
+            "ours": "Она ещё не поставила будильник.",
+            "thought": "Она имеет не установленным [известный] будильник ещё.",
+            "english": "She has not set the alarm yet.",
+            "transcription": "[ши: хæз нот сэт ðи эл**а**:м йэт]"
+          },
+          {
+            "ours": "Ты уже поставил якорь?",
+            "thought": "Имеешь ты установленным [известный] якорь уже?",
+            "english": "Have you set the anchor yet?",
+            "transcription": "[хæв ю: сэт ðи **æ**ŋкэ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have set",
+        "examples": [
+          {
+            "ours": "К пяти мы поднимем парус.",
+            "thought": "К пяти мы будем иметь установленным [известный] парус.",
+            "english": "By five we will have set the sail.",
+            "transcription": "[бай файв wи: wил хæв сэт ðэ сэйл]"
+          },
+          {
+            "ours": "К пяти она ещё не поставит будильник.",
+            "thought": "К пяти она будет не иметь установленным [известный] будильник ещё.",
+            "english": "By five she will not have set the alarm yet.",
+            "transcription": "[бай файв ши: wил нот хæв сэт ðи эл**а**:м йэт]"
+          },
+          {
+            "ours": "К пяти ты проложишь курс?",
+            "thought": "Будешь ты иметь установленным [известный] курс к пяти?",
+            "english": "Will you have set the course by five?",
+            "transcription": "[wил ю: хæв сэт ðэ ко:с бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been setting",
+        "examples": [
+          {
+            "ours": "Мы ставили буи два часа, когда усилился ветер.",
+            "thought": "Мы имели быть устанавливающими буи целых два часа, когда [известный] ветер усилился.",
+            "english": "We had been setting buoys for two hours when the wind rose.",
+            "transcription": "[wи: хæд би:н с**э**тиŋ бойз фо: ту: **а**уэз wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Вы давно ставили буи, когда начался дождь?",
+            "thought": "Имели вы быть устанавливающими буи долго, когда [известный] дождь начался?",
+            "english": "Had you been setting buoys long when the rain started?",
+            "transcription": "[хæд ю: би:н с**э**тиŋ бойз лоŋ wэн ðэ рэйн ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been setting",
+        "examples": [
+          {
+            "ours": "Мы ставим буи уже два часа.",
+            "thought": "Мы имеем быть устанавливающими буи целых два часа.",
+            "english": "We have been setting buoys for two hours.",
+            "transcription": "[wи: хæв би:н с**э**тиŋ бойз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже час ставишь буи?",
+            "thought": "Имеешь ты быть устанавливающим буи целый [какой-то] час?",
+            "english": "Have you been setting buoys for an hour?",
+            "transcription": "[хæв ю: би:н с**э**тиŋ бойз фо: эн ауэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been setting",
+        "examples": [
+          {
+            "ours": "К пяти мы будем ставить буи уже два часа.",
+            "thought": "К пяти мы будем иметь быть устанавливающими буи целых два часа.",
+            "english": "By five we will have been setting buoys for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н с**э**тиŋ бойз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти вы будете ставить буи уже час?",
+            "thought": "Будете вы иметь быть устанавливающими буи целый [какой-то] час к пяти?",
+            "english": "Will you have been setting buoys for an hour by five?",
+            "transcription": "[wил ю: хæв би:н с**э**тиŋ бойз фо: эн ауэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were set",
+        "examples": [
+          {
+            "ours": "Парус подняли вчера.",
+            "thought": "[Известный] парус был установлен вчера.",
+            "english": "The sail was set yesterday.",
+            "transcription": "[ðэ сэйл wоз сэт й**э**стэдэй]"
+          },
+          {
+            "ours": "Будильник не установили.",
+            "thought": "[Известный] будильник был не установлен.",
+            "english": "The alarm was not set.",
+            "transcription": "[ðи эл**а**:м wоз нот сэт]"
+          },
+          {
+            "ours": "Курс проложили?",
+            "thought": "Был [известный] курс установлен?",
+            "english": "Was the course set?",
+            "transcription": "[wоз ðэ ко:с сэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are set",
+        "examples": [
+          {
+            "ours": "Буи устанавливают перед гонкой.",
+            "thought": "Буи есть установлены перед [известной] гонкой.",
+            "english": "Buoys are set before the race.",
+            "transcription": "[бойз а: сэт биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Будильник не устанавливают здесь.",
+            "thought": "[Известный] будильник есть не установлен здесь.",
+            "english": "The alarm is not set here.",
+            "transcription": "[ðи эл**а**:м из нот сэт хиэ]"
+          },
+          {
+            "ours": "Курс задаёт капитан?",
+            "thought": "Есть [известный] курс установлен от [известного] шкипера?",
+            "english": "Is the course set by the skipper?",
+            "transcription": "[из ðэ ко:с сэт бай ðэ ск**и**пэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be set",
+        "examples": [
+          {
+            "ours": "Завтра поднимут парус.",
+            "thought": "Завтра [известный] парус будет быть установлен.",
+            "english": "Tomorrow the sail will be set.",
+            "transcription": "[тэм**о**роу ðэ сэйл wил би: сэт]"
+          },
+          {
+            "ours": "Будильник не установят.",
+            "thought": "[Известный] будильник будет не быть установлен.",
+            "english": "The alarm will not be set.",
+            "transcription": "[ðи эл**а**:м wил нот би: сэт]"
+          },
+          {
+            "ours": "Курс проложат завтра?",
+            "thought": "Будет [известный] курс быть установлен завтра?",
+            "english": "Will the course be set tomorrow?",
+            "transcription": "[wил ðэ ко:с би: сэт тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being set",
+        "examples": [
+          {
+            "ours": "Парус поднимали, когда усилился ветер.",
+            "thought": "[Известный] парус был «долго» установлен, когда [известный] ветер усилился.",
+            "english": "The sail was being set when the wind rose.",
+            "transcription": "[ðэ сэйл wоз б**и**:иŋ сэт wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Буи ставили, когда ты прибыл?",
+            "thought": "Были буи «долго» установлены, когда ты прибыл?",
+            "english": "Were buoys being set when you arrived?",
+            "transcription": "[wœ: бойз б**и**:иŋ сэт wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being set",
+        "examples": [
+          {
+            "ours": "Сейчас ставят буи.",
+            "thought": "Буи есть «долго» установлены сейчас.",
+            "english": "Buoys are being set now.",
+            "transcription": "[бойз а: б**и**:иŋ сэт нау]"
+          },
+          {
+            "ours": "Парус сейчас не поднимают.",
+            "thought": "[Известный] парус есть не «долго» установлен сейчас.",
+            "english": "The sail is not being set now.",
+            "transcription": "[ðэ сэйл из нот б**и**:иŋ сэт нау]"
+          },
+          {
+            "ours": "Якорь сейчас ставят?",
+            "thought": "Есть [известный] якорь «долго» установлен сейчас?",
+            "english": "Is the anchor being set now?",
+            "transcription": "[из ðи **æ**ŋкэ б**и**:иŋ сэт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be setting",
+        "examples": [
+          {
+            "ours": "Завтра они будут ставить буи весь день.",
+            "thought": "Завтра они будут быть устанавливающими буи весь день.",
+            "english": "Tomorrow they will be setting buoys all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: с**э**тиŋ бойз о:л дэй]"
+          },
+          {
+            "ours": "Они будут поднимать парус в пять?",
+            "thought": "Будут они быть устанавливающими [известный] парус в пять?",
+            "english": "Will they be setting the sail at five?",
+            "transcription": "[wил ðэй би: с**э**тиŋ ðэ сэйл æт файв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been set",
+        "examples": [
+          {
+            "ours": "К пяти парус уже подняли.",
+            "thought": "К пяти [известный] парус имел уже быть установлен.",
+            "english": "By five the sail had already been set.",
+            "transcription": "[бай файв ðэ сэйл хæд о:лр**э**ди би:н сэт]"
+          },
+          {
+            "ours": "К тому времени будильник ещё не установили.",
+            "thought": "К тогда [известный] будильник имел не быть установлен ещё.",
+            "english": "By then the alarm had not been set yet.",
+            "transcription": "[бай ðэн ðи эл**а**:м хæд нот би:н сэт йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been set",
+        "examples": [
+          {
+            "ours": "Парус уже подняли.",
+            "thought": "[Известный] парус имеет уже быть установлен.",
+            "english": "The sail has already been set.",
+            "transcription": "[ðэ сэйл хæз о:лр**э**ди би:н сэт]"
+          },
+          {
+            "ours": "Будильник ещё не установили.",
+            "thought": "[Известный] будильник имеет не быть установлен ещё.",
+            "english": "The alarm has not been set yet.",
+            "transcription": "[ðи эл**а**:м хæз нот би:н сэт йэт]"
+          },
+          {
+            "ours": "Курс уже проложен?",
+            "thought": "Имеет [известный] курс быть установлен уже?",
+            "english": "Has the course been set yet?",
+            "transcription": "[хæз ðэ ко:с би:н сэт йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been set",
+        "examples": [
+          {
+            "ours": "К пяти парус поднимут.",
+            "thought": "К пяти [известный] парус будет иметь быть установлен.",
+            "english": "By five the sail will have been set.",
+            "transcription": "[бай файв ðэ сэйл wил хæв би:н сэт]"
+          },
+          {
+            "ours": "К пяти будильник ещё не установят.",
+            "thought": "К пяти [известный] будильник будет не иметь быть установлен ещё.",
+            "english": "By five the alarm will not have been set yet.",
+            "transcription": "[бай файв ðи эл**а**:м wил нот хæв би:н сэт йэт]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: They have been setting buoys."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что мы поднимем парус.",
+        "thought": "Я знал, мы будем устанавливать [известный] парус.",
+        "english": "I knew we would set the sail.",
+        "transcription": "[ай нью: wи: wуд сэт ðэ сэйл]"
+      },
+      {
+        "ours": "Она думала, что капитан не задаст курс.",
+        "thought": "Она думала, [известный] шкипер будет не устанавливать [известный] курс.",
+        "english": "She thought the skipper would not set the course.",
+        "transcription": "[ши: θо:т ðэ ск**и**пэ wуд нот сэт ðэ ко:с]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "alarm",
+      "meaning": "будильник",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "alarm"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "alarm"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "alarm"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "alarm"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "alarm"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "alarm"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "alarm"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "alarm"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "alarm"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "alarm"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "alarm"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "alarm"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "alarm"
+        }
+      ]
+    },
+    {
+      "word": "course",
+      "meaning": "курс",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "course"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "course"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "course"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "course"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "course"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "meaning": "буй",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "buoys"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "buoys"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "buoys"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "buoys"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "buoys"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "buoys"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "buoys"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "buoys"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "buoys"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "buoys"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    }
+  ]
+}

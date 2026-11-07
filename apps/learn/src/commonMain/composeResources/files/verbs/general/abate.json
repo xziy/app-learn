@@ -1,0 +1,937 @@
+{
+  "spec": 3,
+  "verb": "abate",
+  "forms": {
+    "base": [
+      {
+        "word": "abate",
+        "transcription": "[эб**э**йт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "abated",
+        "transcription": "[эб**э**йтид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "abated",
+        "transcription": "[эб**э**йтид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "abating",
+        "transcription": "[эб**э**йтиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "abates",
+        "transcription": "[эб**э**йтс]"
+      }
+    ]
+  },
+  "meaning": "утихать, ослабевать, спадать (о шторме, боли, шуме, кризисе)",
+  "notes": "правильный глагол, в обычном значении без объекта, нет пассива",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "abated",
+        "examples": [
+          {
+            "ours": "Вчера шторм утих.",
+            "thought": "Вчера [известный] шторм утих.",
+            "english": "Yesterday the storm abated.",
+            "transcription": "[й**э**стэдэй ðэ сто:м эб**э**йтид]"
+          },
+          {
+            "ours": "Головная боль у меня не прошла и после обеда.",
+            "thought": "Моя головная боль [сделала] не утихать после обеда.",
+            "english": "My headache didn't abate after lunch.",
+            "transcription": "[май х**э**дэйк диднт эб**э**йт **а**:фтэ ланч]"
+          },
+          {
+            "ours": "Жар у тебя спал этой ночью?",
+            "thought": "[Сделал] твой жар утихать прошлой ночью?",
+            "english": "Did your fever abate last night?",
+            "transcription": "[дид йо: ф**и**:вэ эб**э**йт ла:ст найт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "abate, abates",
+        "examples": [
+          {
+            "ours": "Каждый вечер ветер у побережья стихает.",
+            "thought": "Каждый вечер [известный] ветер утихает около [известного] побережья.",
+            "english": "Every evening the wind abates near the coast.",
+            "transcription": "[**э**ври **и**:вниŋ ðэ wинд эб**э**йтс ниэ ðэ коуст]"
+          },
+          {
+            "ours": "Шум у нас в офисе не утихает до шести.",
+            "thought": "[Известный] шум в нашем офисе [делает] не утихать до шести.",
+            "english": "The noise in our office doesn't abate until six.",
+            "transcription": "[ðэ нойз ин ауэ **о**фис дазнт эб**э**йт энт**и**л сикс]"
+          },
+          {
+            "ours": "Её кашель ночью утихает?",
+            "thought": "[Делает] её кашель утихать в ночи?",
+            "english": "Does her cough abate at night?",
+            "transcription": "[даз хœ: коф эб**э**йт æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will abate",
+        "examples": [
+          {
+            "ours": "Завтра жара спадёт.",
+            "thought": "Завтра [известная] жара будет утихать.",
+            "english": "Tomorrow the heat will abate.",
+            "transcription": "[тэм**о**роу ðэ хи:т wил эб**э**йт]"
+          },
+          {
+            "ours": "Их гнев скоро не утихнет.",
+            "thought": "Их гнев будет не утихать скоро.",
+            "english": "Their anger won't abate soon.",
+            "transcription": "[ðээ **æ**ŋгэ wоунт эб**э**йт су:н]"
+          },
+          {
+            "ours": "Наводнение спадёт к воскресенью?",
+            "thought": "Будет [известное] наводнение утихать к воскресенью?",
+            "english": "Will the flood abate by Sunday?",
+            "transcription": "[wил ðэ флад эб**э**йт бай с**а**ндэй]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were abating",
+        "examples": [
+          {
+            "ours": "Вчера метель утихала весь вечер.",
+            "thought": "Вчера [известная] метель была утихающей весь вечер.",
+            "english": "Yesterday the blizzard was abating all evening.",
+            "transcription": "[й**э**стэдэй ðэ бл**и**зэд wоз эб**э**йтиŋ о:л **и**:вниŋ]"
+          },
+          {
+            "ours": "В тот момент протесты не утихали.",
+            "thought": "[Известные] протесты были не утихающими в тот момент.",
+            "english": "The protests weren't abating at that moment.",
+            "transcription": "[ðэ пр**о**утэстс wœ:нт эб**э**йтиŋ æт ðæт м**о**умэнт]"
+          },
+          {
+            "ours": "Паника утихала, когда пришли врачи?",
+            "thought": "Была [известная] паника утихающей, когда [известные] врачи пришли?",
+            "english": "Was the panic abating when the doctors came?",
+            "transcription": "[wоз ðэ п**æ**ник эб**э**йтиŋ wэн ðэ д**о**ктэз кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are abating",
+        "examples": [
+          {
+            "ours": "Кризис сейчас ослабевает.",
+            "thought": "[Известный] кризис является ослабевающим сейчас.",
+            "english": "The crisis is abating now.",
+            "transcription": "[ðэ кр**а**йсис из эб**э**йтиŋ нау]"
+          },
+          {
+            "ours": "Инфляция сейчас не снижается.",
+            "thought": "Инфляция является не ослабевающей сейчас.",
+            "english": "Inflation isn't abating now.",
+            "transcription": "[инфл**э**йшн изнт эб**э**йтиŋ нау]"
+          },
+          {
+            "ours": "Эти трения сейчас утихают?",
+            "thought": "Являются эти трения утихающими сейчас?",
+            "english": "Are these tensions abating now?",
+            "transcription": "[а: ðи:з т**э**ншнз эб**э**йтиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be abating",
+        "examples": [
+          {
+            "ours": "Завтра с трёх до семи дождь будет стихать.",
+            "thought": "Завтра [известный] дождь будет быть утихающим с трёх до семи.",
+            "english": "Tomorrow the rain will be abating from three to seven.",
+            "transcription": "[тэм**о**роу ðэ рэйн wил би: эб**э**йтиŋ фром θри: ту с**э**вэн]"
+          },
+          {
+            "ours": "Весь следующий месяц спрос не будет ослабевать.",
+            "thought": "Спрос будет не быть ослабевающим весь следующий месяц.",
+            "english": "Demand won't be abating all next month.",
+            "transcription": "[дим**а**:нд wоунт би: эб**э**йтиŋ о:л нэкст манθ]"
+          },
+          {
+            "ours": "Завтра в это время движение будет затихать?",
+            "thought": "Будет [известное] движение быть утихающим в это время завтра?",
+            "english": "Will the traffic be abating at this time tomorrow?",
+            "transcription": "[wил ðэ тр**æ**фик би: эб**э**йтиŋ æт ðис тайм тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had abated",
+        "examples": [
+          {
+            "ours": "К пяти вчера ураган утих.",
+            "thought": "К пяти вчера [известный] ураган имел утихнутым.",
+            "english": "By five yesterday the hurricane had abated.",
+            "transcription": "[бай файв й**э**стэдэй ðэ х**а**рикэн хæд эб**э**йтид]"
+          },
+          {
+            "ours": "К понедельнику отёк ещё не спал.",
+            "thought": "К понедельнику [известный] отёк имел не утихнутым.",
+            "english": "By Monday the swelling hadn't abated.",
+            "transcription": "[бай м**а**ндэй ðэ сw**э**лиŋ хæднт эб**э**йтид]"
+          },
+          {
+            "ours": "Бои утихли, когда начались переговоры?",
+            "thought": "Имели [известные] бои утихнутым, когда [известные] переговоры начались?",
+            "english": "Had the fighting abated when the talks began?",
+            "transcription": "[хæд ðэ ф**а**йтиŋ эб**э**йтид wэн ðэ то:кс биг**æ**н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has abated",
+        "examples": [
+          {
+            "ours": "Эпидемия уже утихла.",
+            "thought": "[Известная] эпидемия имеет уже утихнутым.",
+            "english": "The epidemic has already abated.",
+            "transcription": "[ðи эпид**э**мик хæз о:лр**э**ди эб**э**йтид]"
+          },
+          {
+            "ours": "Мой страх не прошёл.",
+            "thought": "Мой страх имеет не утихнутым.",
+            "english": "My fear hasn't abated.",
+            "transcription": "[май фиэ хæзнт эб**э**йтид]"
+          },
+          {
+            "ours": "Твой стресс уже прошёл?",
+            "thought": "Имеет твой стресс уже утихнутым?",
+            "english": "Has your stress already abated?",
+            "transcription": "[хæз йо: стрэс о:лр**э**ди эб**э**йтид]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have abated",
+        "examples": [
+          {
+            "ours": "К пятнице мороз ослабнет.",
+            "thought": "К пятнице [известный] мороз будет иметь утихнутым.",
+            "english": "By Friday the frost will have abated.",
+            "transcription": "[бай фр**а**йдэй ðэ фрост wил хæв эб**э**йтид]"
+          },
+          {
+            "ours": "К весне дефицит ещё не ослабнет.",
+            "thought": "К весне [известный] дефицит будет не иметь утихнутым.",
+            "english": "By spring the shortage won't have abated.",
+            "transcription": "[бай сприŋ ðэ ш**о**:тидж wоунт хæв эб**э**йтид]"
+          },
+          {
+            "ours": "Спор утихнет к осени?",
+            "thought": "Будет [известный] спор иметь утихнутым к осени?",
+            "english": "Will the dispute have abated by autumn?",
+            "transcription": "[wил ðэ диспь**ю**:т хæв эб**э**йтид бай **о**:тэм]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been abating",
+        "examples": [
+          {
+            "ours": "Пожар стихал целых два часа, когда приехали пожарные.",
+            "thought": "[Известный] пожар имел быть утихающим целых два часа, когда [известные] пожарные пришли.",
+            "english": "The fire had been abating for two hours when the firefighters came.",
+            "transcription": "[ðэ файэ хæд би:н эб**э**йтиŋ фо: ту: **а**уэз wэн ðэ ф**а**йэфайтэз кэйм]"
+          },
+          {
+            "ours": "Насилие месяцами шло на спад, когда пришли выборы?",
+            "thought": "Имело [известное] насилие быть утихающим целые месяцы, когда [известные] выборы пришли?",
+            "english": "Had the violence been abating for months when the election came?",
+            "transcription": "[хæд ðэ в**а**йэлэнс би:н эб**э**йтиŋ фо: манθс wэн ðи ил**э**кшн кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been abating",
+        "examples": [
+          {
+            "ours": "Волны стихают уже целых два часа.",
+            "thought": "[Известные] волны имеют быть утихающими целых два часа.",
+            "english": "The waves have been abating for two hours.",
+            "transcription": "[ðэ wэйвз хæв би:н эб**э**йтиŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Общественный интерес ослабевает уже целый год?",
+            "thought": "Имеет общественный интерес быть утихающим целый [какой-то] год?",
+            "english": "Has public interest been abating for a year?",
+            "transcription": "[хæз п**а**блик **и**нтрэст би:н эб**э**йтиŋ фо: э йиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been abating",
+        "examples": [
+          {
+            "ours": "К полудню гроза будет стихать уже целых два часа.",
+            "thought": "К полудню [известная] гроза будет иметь быть утихающей целых два часа.",
+            "english": "By noon the thunderstorm will have been abating for two hours.",
+            "transcription": "[бай ну:н ðэ θ**а**ндэсто:м wил хæв би:н эб**э**йтиŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К июню волнения будут утихать уже целых три месяца?",
+            "thought": "Будут [известные] волнения иметь быть утихающими целых три месяца к июню?",
+            "english": "Will the unrest have been abating for three months by June?",
+            "transcription": "[wил ðи анр**э**ст хæв би:н эб**э**йтиŋ фо: θри: манθс бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "abate в обычном значении «утихать» идёт без объекта, поэтому пассива нет. Вместо этого скажут: The storm has abated."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что боль утихнет.",
+        "thought": "Я знал, что [известная] боль будет утихать.",
+        "english": "I knew that the pain would abate.",
+        "transcription": "[ай нью: ðæт ðэ пэйн wуд эб**э**йт]"
+      },
+      {
+        "ours": "Медсестра сказала, что зуд не утихнет.",
+        "thought": "[Известная] медсестра сказала, что [известный] зуд будет не утихать.",
+        "english": "The nurse said that the itching wouldn't abate.",
+        "transcription": "[ðэ нœ:с сэд ðæт ðи **и**чиŋ wуднт эб**э**йт]"
+      },
+      {
+        "ours": "Ты думал, что скандал утихнет?",
+        "thought": "[Сделал] ты думать, что [известный] скандал будет утихать?",
+        "english": "Did you think that the scandal would abate?",
+        "transcription": "[дид ю: θинк ðæт ðэ ск**æ**ндл wуд эб**э**йт]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "headache",
+      "meaning": "головная боль",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "headache"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "meaning": "обед",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "lunch"
+        }
+      ]
+    },
+    {
+      "word": "fever",
+      "meaning": "жар",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "fever"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "night"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "evening"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "coast",
+      "meaning": "побережье",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "coast"
+        }
+      ]
+    },
+    {
+      "word": "noise",
+      "meaning": "шум",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "noise"
+        }
+      ]
+    },
+    {
+      "word": "office",
+      "meaning": "офис",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "office"
+        }
+      ]
+    },
+    {
+      "word": "cough",
+      "meaning": "кашель",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "cough"
+        }
+      ]
+    },
+    {
+      "word": "heat",
+      "meaning": "жара",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "heat"
+        }
+      ]
+    },
+    {
+      "word": "anger",
+      "meaning": "гнев",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "anger"
+        }
+      ]
+    },
+    {
+      "word": "flood",
+      "meaning": "наводнение",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "flood"
+        }
+      ]
+    },
+    {
+      "word": "Sunday",
+      "meaning": "воскресенье",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "Sunday"
+        }
+      ]
+    },
+    {
+      "word": "blizzard",
+      "meaning": "метель",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "blizzard"
+        }
+      ]
+    },
+    {
+      "word": "protest",
+      "meaning": "протест",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "protests"
+        }
+      ]
+    },
+    {
+      "word": "moment",
+      "meaning": "момент",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "moment"
+        }
+      ]
+    },
+    {
+      "word": "panic",
+      "meaning": "паника",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "panic"
+        }
+      ]
+    },
+    {
+      "word": "doctor",
+      "meaning": "врач",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "doctors"
+        }
+      ]
+    },
+    {
+      "word": "crisis",
+      "meaning": "кризис",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "crisis"
+        }
+      ]
+    },
+    {
+      "word": "inflation",
+      "meaning": "инфляция",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "inflation"
+        }
+      ]
+    },
+    {
+      "word": "tension",
+      "meaning": "напряжённость",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "tensions"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "demand",
+      "meaning": "спрос",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "demand"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "month"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "months"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "months"
+        }
+      ]
+    },
+    {
+      "word": "traffic",
+      "meaning": "движение",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "traffic"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "hurricane",
+      "meaning": "ураган",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "hurricane"
+        }
+      ]
+    },
+    {
+      "word": "Monday",
+      "meaning": "понедельник",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "Monday"
+        }
+      ]
+    },
+    {
+      "word": "swelling",
+      "meaning": "отёк",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "swelling"
+        }
+      ]
+    },
+    {
+      "word": "fighting",
+      "meaning": "бои",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "fighting"
+        }
+      ]
+    },
+    {
+      "word": "talks",
+      "meaning": "переговоры",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "talks"
+        }
+      ]
+    },
+    {
+      "word": "epidemic",
+      "meaning": "эпидемия",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "epidemic"
+        }
+      ]
+    },
+    {
+      "word": "fear",
+      "meaning": "страх",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "fear"
+        }
+      ]
+    },
+    {
+      "word": "stress",
+      "meaning": "стресс",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "stress"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "frost",
+      "meaning": "мороз",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "frost"
+        }
+      ]
+    },
+    {
+      "word": "spring",
+      "meaning": "весна",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "spring"
+        }
+      ]
+    },
+    {
+      "word": "shortage",
+      "meaning": "дефицит",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "shortage"
+        }
+      ]
+    },
+    {
+      "word": "dispute",
+      "meaning": "спор",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "dispute"
+        }
+      ]
+    },
+    {
+      "word": "autumn",
+      "meaning": "осень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "autumn"
+        }
+      ]
+    },
+    {
+      "word": "fire",
+      "meaning": "пожар",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "fire"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "firefighter",
+      "meaning": "пожарный",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "firefighters"
+        }
+      ]
+    },
+    {
+      "word": "violence",
+      "meaning": "насилие",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "violence"
+        }
+      ]
+    },
+    {
+      "word": "election",
+      "meaning": "выборы",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "election"
+        }
+      ]
+    },
+    {
+      "word": "wave",
+      "meaning": "волна",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "waves"
+        }
+      ]
+    },
+    {
+      "word": "interest",
+      "meaning": "интерес",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "interest"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "thunderstorm",
+      "meaning": "гроза",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "word": "unrest",
+      "meaning": "волнения",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "unrest"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "pain",
+      "meaning": "боль",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "pain"
+        }
+      ]
+    },
+    {
+      "word": "nurse",
+      "meaning": "медсестра",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "nurse"
+        }
+      ]
+    },
+    {
+      "word": "itching",
+      "meaning": "зуд",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "itching"
+        }
+      ]
+    },
+    {
+      "word": "scandal",
+      "meaning": "скандал",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "scandal"
+        }
+      ]
+    }
+  ]
+}

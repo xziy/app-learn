@@ -1,0 +1,790 @@
+{
+  "spec": 3,
+  "verb": "take",
+  "forms": {
+    "base": [
+      {
+        "word": "take",
+        "transcription": "[тэйк]"
+      }
+    ],
+    "past": [
+      {
+        "word": "took",
+        "transcription": "[тук]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "taken",
+        "transcription": "[т**э**йкэн]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "taking",
+        "transcription": "[т**э**йкиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "takes",
+        "transcription": "[тэйкс]"
+      }
+    ]
+  },
+  "meaning": "брать, доставлять, принимать",
+  "notes": "неправильный переходный глагол, образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "took",
+        "examples": [
+          {
+            "ours": "Вчера я взял карту.",
+            "thought": "Вчера я взял [известную] карту.",
+            "english": "Yesterday I took the chart.",
+            "transcription": "[й**э**стэдэй ай тук ðэ ча:т]"
+          },
+          {
+            "ours": "Ты взял компас?",
+            "thought": "[Сделал] ты брать [известный] компас?",
+            "english": "Did you take the compass?",
+            "transcription": "[дид ю: тэйк ðэ к**а**мпэс]"
+          },
+          {
+            "ours": "Она не взяла рацию.",
+            "thought": "Она [сделала] не брать [известную] рацию.",
+            "english": "She did not take the radio.",
+            "transcription": "[ши: дид нот тэйк ðэ р**э**йдиоу]"
+          }
+        ]
+      },
+      "present": {
+        "form": "take, takes",
+        "examples": [
+          {
+            "ours": "Каждый день я беру вахту.",
+            "thought": "Каждый день я беру [какую-то] вахту.",
+            "english": "Every day I take a watch.",
+            "transcription": "[**э**ври дэй ай тэйк э wоч]"
+          },
+          {
+            "ours": "Он не берёт компас.",
+            "thought": "Он [делает] не брать [известный] компас.",
+            "english": "He does not take the compass.",
+            "transcription": "[хи: даз нот тэйк ðэ к**а**мпэс]"
+          },
+          {
+            "ours": "Ты берёшь рацию на берег?",
+            "thought": "[Делаешь] ты брать [известную] рацию на берег?",
+            "english": "Do you take the radio ashore?",
+            "transcription": "[ду: ю: тэйк ðэ р**э**йдиоу эш**о**:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will take",
+        "examples": [
+          {
+            "ours": "Завтра я возьму карту.",
+            "thought": "Завтра я буду брать [известную] карту.",
+            "english": "Tomorrow I will take the chart.",
+            "transcription": "[тэм**о**роу ай wил тэйк ðэ ча:т]"
+          },
+          {
+            "ours": "Она не возьмёт компас.",
+            "thought": "Она будет не брать [известный] компас.",
+            "english": "She will not take the compass.",
+            "transcription": "[ши: wил нот тэйк ðэ к**а**мпэс]"
+          },
+          {
+            "ours": "Ты возьмёшь рацию завтра?",
+            "thought": "Будешь ты брать [известную] рацию завтра?",
+            "english": "Will you take the radio tomorrow?",
+            "transcription": "[wил ю: тэйк ðэ р**э**йдиоу тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were taking",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день везли припасы на борт.",
+            "thought": "Вчера мы были несущими припасы на борт весь день.",
+            "english": "Yesterday we were taking supplies aboard all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: т**э**йкиŋ сэпл**а**йз эб**о**:д о:л дэй]"
+          },
+          {
+            "ours": "Ты нёс воду на борт, когда я позвал?",
+            "thought": "Был ты несущим воду на борт, когда я позвал?",
+            "english": "Were you taking water aboard when I called?",
+            "transcription": "[wœ: ю: т**э**йкиŋ w**о**:тэ эб**о**:д wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are taking",
+        "examples": [
+          {
+            "ours": "Мы сейчас несём припасы на борт.",
+            "thought": "Мы являемся несущими припасы на борт сейчас.",
+            "english": "We are taking supplies aboard now.",
+            "transcription": "[wи: а: т**э**йкиŋ сэпл**а**йз эб**о**:д нау]"
+          },
+          {
+            "ours": "Ты сейчас несёшь воду на борт?",
+            "thought": "Являешься ты несущим воду на борт сейчас?",
+            "english": "Are you taking water aboard now?",
+            "transcription": "[а: ю: т**э**йкиŋ w**о**:тэ эб**о**:д нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be taking",
+        "examples": [
+          {
+            "ours": "Завтра мы будем весь день нести припасы на борт.",
+            "thought": "Завтра мы будем быть несущими припасы на борт весь день.",
+            "english": "Tomorrow we will be taking supplies aboard all day.",
+            "transcription": "[тэм**о**роу wи: wил би: т**э**йкиŋ сэпл**а**йз эб**о**:д о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь нести воду на борт утром?",
+            "thought": "Будешь ты быть несущим воду на борт это утро?",
+            "english": "Will you be taking water aboard this morning?",
+            "transcription": "[wил ю: би: т**э**йкиŋ w**о**:тэ эб**о**:д ðис м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had taken",
+        "examples": [
+          {
+            "ours": "К полудню я уже взял карту.",
+            "thought": "К полудню я имел уже взятой [известную] карту.",
+            "english": "By noon I had already taken the chart.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди т**э**йкэн ðэ ча:т]"
+          },
+          {
+            "ours": "К пяти она взяла рацию?",
+            "thought": "Имела она взятой [известную] рацию к пяти?",
+            "english": "Had she taken the radio by five?",
+            "transcription": "[хæд ши: т**э**йкэн ðэ р**э**йдиоу бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has taken",
+        "examples": [
+          {
+            "ours": "Я уже взял карту.",
+            "thought": "Я имею уже взятой [известную] карту.",
+            "english": "I have already taken the chart.",
+            "transcription": "[ай хæв о:лр**э**ди т**э**йкэн ðэ ча:т]"
+          },
+          {
+            "ours": "Она уже взяла рацию?",
+            "thought": "Имеет она взятой [известную] рацию уже?",
+            "english": "Has she taken the radio yet?",
+            "transcription": "[хæз ши: т**э**йкэн ðэ р**э**йдиоу йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have taken",
+        "examples": [
+          {
+            "ours": "К полудню я возьму карту.",
+            "thought": "К полудню я буду иметь взятой [известную] карту.",
+            "english": "By noon I will have taken the chart.",
+            "transcription": "[бай ну:н ай wил хæв т**э**йкэн ðэ ча:т]"
+          },
+          {
+            "ours": "Она возьмёт рацию к пяти?",
+            "thought": "Будет она иметь взятой [известную] рацию к пяти?",
+            "english": "Will she have taken the radio by five?",
+            "transcription": "[wил ши: хæв т**э**йкэн ðэ р**э**йдиоу бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been taking",
+        "examples": [
+          {
+            "ours": "Мы два часа несли припасы на борт, когда начался дождь.",
+            "thought": "Мы имели быть несущими припасы на борт целых два часа, когда дождь начался.",
+            "english": "We had been taking supplies aboard for two hours when rain began.",
+            "transcription": "[wи: хæд би:н т**э**йкиŋ сэпл**а**йз эб**о**:д фо: ту: **а**уэз wэн рэйн биг**æ**н]"
+          },
+          {
+            "ours": "Вы несли припасы на борт два часа до дождя?",
+            "thought": "Имели вы быть несущими припасы на борт целых два часа перед [известным] дождём?",
+            "english": "Had you been taking supplies aboard for two hours before the rain?",
+            "transcription": "[хæд ю: би:н т**э**йкиŋ сэпл**а**йз эб**о**:д фо: ту: **а**уэз биф**о**: ðэ рэйн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been taking",
+        "examples": [
+          {
+            "ours": "Мы несём припасы на борт уже два часа.",
+            "thought": "Мы имеем быть несущими припасы на борт целых два часа.",
+            "english": "We have been taking supplies aboard for two hours.",
+            "transcription": "[wи: хæв би:н т**э**йкиŋ сэпл**а**йз эб**о**:д фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Вы несёте припасы на борт уже час?",
+            "thought": "Имеете вы быть несущими припасы на борт целый [какой-то] час?",
+            "english": "Have you been taking supplies aboard for an hour?",
+            "transcription": "[хæв ю: би:н т**э**йкиŋ сэпл**а**йз эб**о**:д фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been taking",
+        "examples": [
+          {
+            "ours": "К полудню мы будем нести припасы на борт уже два часа.",
+            "thought": "К полудню мы будем иметь быть несущими припасы на борт целых два часа.",
+            "english": "By noon we will have been taking supplies aboard for two hours.",
+            "transcription": "[бай ну:н wи: wил хæв би:н т**э**йкиŋ сэпл**а**йз эб**о**:д фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти вы будете нести припасы на борт уже час?",
+            "thought": "Будете вы иметь быть несущими припасы на борт целый [какой-то] час к пяти?",
+            "english": "Will you have been taking supplies aboard for an hour by five?",
+            "transcription": "[wил ю: хæв би:н т**э**йкиŋ сэпл**а**йз эб**о**:д фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were taken",
+        "examples": [
+          {
+            "ours": "Карту вчера взяли на борт.",
+            "thought": "[Известная] карта была взята на борт вчера.",
+            "english": "The chart was taken aboard yesterday.",
+            "transcription": "[ðэ ча:т wоз т**э**йкэн эб**о**:д й**э**стэдэй]"
+          },
+          {
+            "ours": "Рацию взяли на берег?",
+            "thought": "Была [известная] рация взята на берег?",
+            "english": "Was the radio taken ashore?",
+            "transcription": "[wоз ðэ р**э**йдиоу т**э**йкэн эш**о**:]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are taken",
+        "examples": [
+          {
+            "ours": "Карту всегда берут на борт.",
+            "thought": "[Известная] карта есть всегда взята на борт.",
+            "english": "The chart is always taken aboard.",
+            "transcription": "[ðэ ча:т из **о**:лwэйз т**э**йкэн эб**о**:д]"
+          },
+          {
+            "ours": "Рацию берут на берег каждый день?",
+            "thought": "Есть [известная] рация взята на берег каждый день?",
+            "english": "Is the radio taken ashore every day?",
+            "transcription": "[из ðэ р**э**йдиоу т**э**йкэн эш**о**: **э**ври дэй]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be taken",
+        "examples": [
+          {
+            "ours": "Карту завтра возьмут на борт.",
+            "thought": "[Известная] карта будет быть взята на борт завтра.",
+            "english": "The chart will be taken aboard tomorrow.",
+            "transcription": "[ðэ ча:т wил би: т**э**йкэн эб**о**:д тэм**о**роу]"
+          },
+          {
+            "ours": "Рацию возьмут на берег?",
+            "thought": "Будет [известная] рация быть взята на берег?",
+            "english": "Will the radio be taken ashore?",
+            "transcription": "[wил ðэ р**э**йдиоу би: т**э**йкэн эш**о**:]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being taken",
+        "examples": [
+          {
+            "ours": "Вчера весь день припасы несли на борт.",
+            "thought": "Вчера припасы были «долго» взяты на борт весь день.",
+            "english": "Yesterday supplies were being taken aboard all day.",
+            "transcription": "[й**э**стэдэй сэпл**а**йз wœ: б**и**:иŋ т**э**йкэн эб**о**:д о:л дэй]"
+          },
+          {
+            "ours": "Когда ты пришёл, воду несли на борт?",
+            "thought": "Была вода «долго» взята на борт, когда ты прибыл?",
+            "english": "Was water being taken aboard when you arrived?",
+            "transcription": "[wоз w**о**:тэ б**и**:иŋ т**э**йкэн эб**о**:д wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being taken",
+        "examples": [
+          {
+            "ours": "Припасы сейчас несут на борт.",
+            "thought": "Припасы есть «долго» взяты на борт сейчас.",
+            "english": "Supplies are being taken aboard now.",
+            "transcription": "[сэпл**а**йз а: б**и**:иŋ т**э**йкэн эб**о**:д нау]"
+          },
+          {
+            "ours": "Воду сейчас несут на борт?",
+            "thought": "Есть вода «долго» взята на борт сейчас?",
+            "english": "Is water being taken aboard now?",
+            "transcription": "[из w**о**:тэ б**и**:иŋ т**э**йкэн эб**о**:д нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be taking",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут нести припасы на борт.",
+            "thought": "Завтра они будут быть несущими припасы на борт весь день.",
+            "english": "Tomorrow they will be taking supplies aboard all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: т**э**йкиŋ сэпл**а**йз эб**о**:д о:л дэй]"
+          },
+          {
+            "ours": "Они будут нести воду на борт утром?",
+            "thought": "Будут они быть несущими воду на борт это утро?",
+            "english": "Will they be taking water aboard this morning?",
+            "transcription": "[wил ðэй би: т**э**йкиŋ w**о**:тэ эб**о**:д ðис м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been taken",
+        "examples": [
+          {
+            "ours": "К полудню карту уже взяли на борт.",
+            "thought": "К полудню [известная] карта имела уже быть взята на борт.",
+            "english": "By noon the chart had already been taken aboard.",
+            "transcription": "[бай ну:н ðэ ча:т хæд о:лр**э**ди би:н т**э**йкэн эб**о**:д]"
+          },
+          {
+            "ours": "Рацию взяли на берег к пяти?",
+            "thought": "Имела [известная] рация быть взята на берег к пяти?",
+            "english": "Had the radio been taken ashore by five?",
+            "transcription": "[хæд ðэ р**э**йдиоу би:н т**э**йкэн эш**о**: бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been taken",
+        "examples": [
+          {
+            "ours": "Карту уже взяли на борт.",
+            "thought": "[Известная] карта имеет уже быть взята на борт.",
+            "english": "The chart has already been taken aboard.",
+            "transcription": "[ðэ ча:т хæз о:лр**э**ди би:н т**э**йкэн эб**о**:д]"
+          },
+          {
+            "ours": "Рацию уже взяли на берег?",
+            "thought": "Имеет [известная] рация быть взята на берег уже?",
+            "english": "Has the radio been taken ashore yet?",
+            "transcription": "[хæз ðэ р**э**йдиоу би:н т**э**йкэн эш**о**: йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been taken",
+        "examples": [
+          {
+            "ours": "К полудню карту уже возьмут на борт.",
+            "thought": "К полудню [известная] карта будет иметь быть взята на борт.",
+            "english": "By noon the chart will have been taken aboard.",
+            "transcription": "[бай ну:н ðэ ча:т wил хæв би:н т**э**йкэн эб**о**:д]"
+          },
+          {
+            "ours": "Рацию возьмут на берег к пяти?",
+            "thought": "Будет [известная] рация иметь быть взята на берег к пяти?",
+            "english": "Will the radio have been taken ashore by five?",
+            "transcription": "[wил ðэ р**э**йдиоу хæв би:н т**э**йкэн эш**о**: бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него скажут: They have been taking supplies aboard."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она возьмёт карту.",
+        "thought": "Я знал, она будет брать [известную] карту.",
+        "english": "I knew she would take the chart.",
+        "transcription": "[ай нью: ши: wуд тэйк ðэ ча:т]"
+      },
+      {
+        "ours": "Он думал, что мы не возьмём рацию.",
+        "thought": "Он думал, мы будем не брать [известную] рацию.",
+        "english": "He thought we would not take the radio.",
+        "transcription": "[хи: θо:т wи: wуд нот тэйк ðэ р**э**йдиоу]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радиостанция",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "watch",
+      "meaning": "вахта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "watch"
+        }
+      ]
+    },
+    {
+      "word": "supplies",
+      "meaning": "припасы",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "supplies"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Supplies"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "supplies"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rain"
+        }
+      ]
+    }
+  ]
+}

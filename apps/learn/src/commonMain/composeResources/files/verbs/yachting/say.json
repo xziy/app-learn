@@ -1,0 +1,876 @@
+{
+  "spec": 3,
+  "verb": "say",
+  "forms": {
+    "base": [
+      {
+        "word": "say",
+        "transcription": "[сэй]"
+      }
+    ],
+    "past": [
+      {
+        "word": "said",
+        "transcription": "[сэд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "said",
+        "transcription": "[сэд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "saying",
+        "transcription": "[с**э**йиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "says",
+        "transcription": "[сэз]"
+      }
+    ]
+  },
+  "meaning": "говорить, произносить, сказать",
+  "notes": "неправильный глагол; переходный, возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "said",
+        "examples": [
+          {
+            "ours": "Вчера капитан сказал, что яхта готова.",
+            "thought": "Вчера [известный] капитан сказал, [известная] яхта была готова.",
+            "english": "Yesterday the captain said the yacht was ready.",
+            "transcription": "[й**э**стэдэй ðэ к**æ**птин сэд ðэ йот wоз р**э**ди]"
+          },
+          {
+            "ours": "Ты назвал позывной по радио?",
+            "thought": "[Сделал] ты говорить [известный] позывной по [известному] радио?",
+            "english": "Did you say the call sign on the radio?",
+            "transcription": "[дид ю: сэй ðэ ко:л сайн он ðэ р**э**йдиоу]"
+          },
+          {
+            "ours": "Он не сказал, что яхта небезопасна.",
+            "thought": "Он [сделал] не говорить, [известная] яхта была небезопасна.",
+            "english": "He didn't say the yacht was unsafe.",
+            "transcription": "[хи: диднт сэй ðэ йот wоз анс**э**йф]"
+          }
+        ]
+      },
+      "present": {
+        "form": "say, says",
+        "examples": [
+          {
+            "ours": "Капитан говорит, что яхта готова.",
+            "thought": "[Известный] капитан говорит, [известная] яхта есть готова.",
+            "english": "The captain says the yacht is ready.",
+            "transcription": "[ðэ к**æ**птин сэз ðэ йот из р**э**ди]"
+          },
+          {
+            "ours": "Она не говорит, что яхта небезопасна.",
+            "thought": "Она [делает] не говорить, [известная] яхта есть небезопасна.",
+            "english": "She doesn't say the yacht is unsafe.",
+            "transcription": "[ши: дазнт сэй ðэ йот из анс**э**йф]"
+          },
+          {
+            "ours": "Ты каждый раз произносишь позывной?",
+            "thought": "[Делаешь] ты говорить [известный] позывной каждый раз?",
+            "english": "Do you say the call sign every time?",
+            "transcription": "[ду: ю: сэй ðэ ко:л сайн **э**ври тайм]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will say",
+        "examples": [
+          {
+            "ours": "Завтра капитан скажет, что яхта готова.",
+            "thought": "Завтра [известный] капитан будет говорить, [известная] яхта есть готова.",
+            "english": "Tomorrow the captain will say the yacht is ready.",
+            "transcription": "[тэм**о**роу ðэ к**æ**птин wил сэй ðэ йот из р**э**ди]"
+          },
+          {
+            "ours": "Он не будет произносить позывной по радио.",
+            "thought": "Он будет не говорить [известный] позывной по [известному] радио.",
+            "english": "He won't say the call sign on the radio.",
+            "transcription": "[хи: wоунт сэй ðэ ко:л сайн он ðэ р**э**йдиоу]"
+          },
+          {
+            "ours": "Ты назовёшь позывной до гонки?",
+            "thought": "Будешь ты говорить [известный] позывной перед [известной] гонкой?",
+            "english": "Will you say the call sign before the race?",
+            "transcription": "[wил ю: сэй ðэ ко:л сайн биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were saying",
+        "examples": [
+          {
+            "ours": "На брифинге капитан говорил, что яхта небезопасна.",
+            "thought": "Во время [известного] брифинга [известный] капитан был говорящим, [известная] яхта была небезопасна.",
+            "english": "During the briefing the captain was saying the yacht was unsafe.",
+            "transcription": "[дь**ю**эриŋ ðэ бр**и**:фиŋ ðэ к**æ**птин wоз с**э**йиŋ ðэ йот wоз анс**э**йф]"
+          },
+          {
+            "ours": "Ты сейчас говорил, что яхта готова?",
+            "thought": "Был ты говорящим, [известная] яхта была готова?",
+            "english": "Were you saying the yacht was ready?",
+            "transcription": "[wœ: ю: с**э**йиŋ ðэ йот wоз р**э**ди]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are saying",
+        "examples": [
+          {
+            "ours": "Капитан сейчас говорит, что яхта небезопасна.",
+            "thought": "[Известный] капитан является говорящим, [известная] яхта есть небезопасна сейчас.",
+            "english": "The captain is saying the yacht is unsafe now.",
+            "transcription": "[ðэ к**æ**птин из с**э**йиŋ ðэ йот из анс**э**йф нау]"
+          },
+          {
+            "ours": "Ты говоришь, что яхта готова?",
+            "thought": "Являешься ты говорящим, [известная] яхта есть готова?",
+            "english": "Are you saying the yacht is ready?",
+            "transcription": "[а: ю: с**э**йиŋ ðэ йот из р**э**ди]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be saying",
+        "examples": [
+          {
+            "ours": "На брифинге завтра капитан будет говорить о безопасности.",
+            "thought": "Во время [известного] брифинга завтра [известный] капитан будет быть говорящим что-то о безопасности.",
+            "english": "During the briefing tomorrow the captain will be saying something about safety.",
+            "transcription": "[дь**ю**эриŋ ðэ бр**и**:фиŋ тэм**о**роу ðэ к**æ**птин wил би: с**э**йиŋ с**а**мθиŋ эб**а**ут с**э**йфти]"
+          },
+          {
+            "ours": "Ты будешь повторять позывной по радио?",
+            "thought": "Будешь ты быть говорящим [известный] позывной снова по [известному] радио?",
+            "english": "Will you be saying the call sign again on the radio?",
+            "transcription": "[wил ю: би: с**э**йиŋ ðэ ко:л сайн эг**э**н он ðэ р**э**йдиоу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had said",
+        "examples": [
+          {
+            "ours": "К пяти вчера капитан уже сказал, что яхта готова.",
+            "thought": "К пяти вчера [известный] капитан имел сказанным, [известная] яхта была готова.",
+            "english": "By five yesterday the captain had said the yacht was ready.",
+            "transcription": "[бай файв й**э**стэдэй ðэ к**æ**птин хæд сэд ðэ йот wоз р**э**ди]"
+          },
+          {
+            "ours": "Ты назвал позывной до гонки?",
+            "thought": "Имел ты сказанным [известный] позывной перед [известной] гонкой?",
+            "english": "Had you said the call sign before the race?",
+            "transcription": "[хæд ю: сэд ðэ ко:л сайн биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has said",
+        "examples": [
+          {
+            "ours": "Капитан уже сказал, что яхта готова.",
+            "thought": "[Известный] капитан имеет уже сказанным, [известная] яхта есть готова.",
+            "english": "The captain has already said the yacht is ready.",
+            "transcription": "[ðэ к**æ**птин хæз о:лр**э**ди сэд ðэ йот из р**э**ди]"
+          },
+          {
+            "ours": "Ты уже назвал позывной?",
+            "thought": "Имеешь ты уже сказанным [известный] позывной?",
+            "english": "Have you already said the call sign?",
+            "transcription": "[хæв ю: о:лр**э**ди сэд ðэ ко:л сайн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have said",
+        "examples": [
+          {
+            "ours": "К пяти завтра капитан уже скажет, что яхта готова.",
+            "thought": "К пяти завтра [известный] капитан будет иметь сказанным, [известная] яхта есть готова.",
+            "english": "By five tomorrow the captain will have said the yacht is ready.",
+            "transcription": "[бай файв тэм**о**роу ðэ к**æ**птин wил хæв сэд ðэ йот из р**э**ди]"
+          },
+          {
+            "ours": "Ты произнесёшь позывной до гонки?",
+            "thought": "Будешь ты иметь сказанным [известный] позывной перед [известной] гонкой?",
+            "english": "Will you have said the call sign before the race?",
+            "transcription": "[wил ю: хæв сэд ðэ ко:л сайн биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been saying",
+        "examples": [
+          {
+            "ours": "Капитан уже два часа говорил, что яхта небезопасна, когда ты пришёл.",
+            "thought": "[Известный] капитан имел быть говорящим, [известная] яхта была небезопасна целых два часа, когда ты пришёл.",
+            "english": "The captain had been saying the yacht was unsafe for two hours when you came.",
+            "transcription": "[ðэ к**æ**птин хæд би:н с**э**йиŋ ðэ йот wоз анс**э**йф фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа говорил, что яхта небезопасна, когда он пришёл?",
+            "thought": "Имел ты быть говорящим, [известная] яхта была небезопасна целых два часа, когда он пришёл?",
+            "english": "Had you been saying the yacht was unsafe for two hours when he came?",
+            "transcription": "[хæд ю: би:н с**э**йиŋ ðэ йот wоз анс**э**йф фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been saying",
+        "examples": [
+          {
+            "ours": "Капитан уже два часа говорит, что яхта небезопасна.",
+            "thought": "[Известный] капитан имеет быть говорящим, [известная] яхта есть небезопасна целых два часа.",
+            "english": "The captain has been saying the yacht is unsafe for two hours.",
+            "transcription": "[ðэ к**æ**птин хæз би:н с**э**йиŋ ðэ йот из анс**э**йф фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа говоришь, что яхта небезопасна?",
+            "thought": "Имеешь ты быть говорящим, [известная] яхта есть небезопасна целых два часа?",
+            "english": "Have you been saying the yacht is unsafe for two hours?",
+            "transcription": "[хæв ю: би:н с**э**йиŋ ðэ йот из анс**э**йф фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been saying",
+        "examples": [
+          {
+            "ours": "К пяти капитан уже два часа будет говорить, что яхта небезопасна.",
+            "thought": "К пяти [известный] капитан будет иметь быть говорящим, [известная] яхта есть небезопасна целых два часа.",
+            "english": "By five the captain will have been saying the yacht is unsafe for two hours.",
+            "transcription": "[бай файв ðэ к**æ**птин wил хæв би:н с**э**йиŋ ðэ йот из анс**э**йф фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты уже два часа будешь говорить, что яхта небезопасна?",
+            "thought": "Будешь ты иметь быть говорящим, [известная] яхта есть небезопасна целых два часа к пяти?",
+            "english": "Will you have been saying the yacht is unsafe for two hours by five?",
+            "transcription": "[wил ю: хæв би:н с**э**йиŋ ðэ йот из анс**э**йф фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were said",
+        "examples": [
+          {
+            "ours": "На инструктаже ничего не сказали о безопасности.",
+            "thought": "Ничто было сказано о безопасности во время [известного] инструктажа.",
+            "english": "Nothing was said about safety during the briefing.",
+            "transcription": "[н**а**θиŋ wоз сэд эб**а**ут с**э**йфти дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          },
+          {
+            "ours": "На инструктаже сказали что-нибудь о безопасности?",
+            "thought": "Было что-нибудь сказано о безопасности во время [известного] инструктажа?",
+            "english": "Was anything said about safety during the briefing?",
+            "transcription": "[wоз **э**ниθиŋ сэд эб**а**ут с**э**йфти дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are said",
+        "examples": [
+          {
+            "ours": "На каждом инструктаже много говорят о безопасности.",
+            "thought": "Много есть сказано о безопасности во время [известного] инструктажа каждый день.",
+            "english": "Much is said about safety during the briefing every day.",
+            "transcription": "[мач из сэд эб**а**ут с**э**йфти дь**ю**эриŋ ðэ бр**и**:фиŋ **э**ври дэй]"
+          },
+          {
+            "ours": "На инструктаже говорят что-нибудь о безопасности?",
+            "thought": "Есть что-нибудь сказано о безопасности во время [известного] инструктажа?",
+            "english": "Is anything said about safety during the briefing?",
+            "transcription": "[из **э**ниθиŋ сэд эб**а**ут с**э**йфти дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be said",
+        "examples": [
+          {
+            "ours": "Завтра на инструктаже много скажут о безопасности.",
+            "thought": "Много будет быть сказано о безопасности во время [известного] инструктажа завтра.",
+            "english": "Much will be said about safety during the briefing tomorrow.",
+            "transcription": "[мач wил би: сэд эб**а**ут с**э**йфти дь**ю**эриŋ ðэ бр**и**:фиŋ тэм**о**роу]"
+          },
+          {
+            "ours": "Завтра на инструктаже скажут что-нибудь о безопасности?",
+            "thought": "Будет что-нибудь быть сказано о безопасности во время [известного] инструктажа завтра?",
+            "english": "Will anything be said about safety during the briefing tomorrow?",
+            "transcription": "[wил **э**ниθиŋ би: сэд эб**а**ут с**э**йфти дь**ю**эриŋ ðэ бр**и**:фиŋ тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being said",
+        "examples": [
+          {
+            "ours": "Вчера на инструктаже много говорили о безопасности.",
+            "thought": "Вчера много было «долго» сказано о безопасности во время [известного] инструктажа.",
+            "english": "Yesterday much was being said about safety during the briefing.",
+            "transcription": "[й**э**стэдэй мач wоз б**и**:иŋ сэд эб**а**ут с**э**йфти дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          },
+          {
+            "ours": "Что говорили о безопасности на инструктаже?",
+            "thought": "Что было «долго» сказано о безопасности во время [известного] инструктажа?",
+            "english": "What was being said about safety during the briefing?",
+            "transcription": "[wот wоз б**и**:иŋ сэд эб**а**ут с**э**йфти дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being said",
+        "examples": [
+          {
+            "ours": "Сейчас на инструктаже много говорят о безопасности.",
+            "thought": "Много есть «долго» сказано о безопасности во время [известного] инструктажа сейчас.",
+            "english": "Much is being said about safety during the briefing now.",
+            "transcription": "[мач из б**и**:иŋ сэд эб**а**ут с**э**йфти дь**ю**эриŋ ðэ бр**и**:фиŋ нау]"
+          },
+          {
+            "ours": "Что сейчас говорят о безопасности?",
+            "thought": "Что есть «долго» сказано о безопасности сейчас?",
+            "english": "What is being said about safety now?",
+            "transcription": "[wот из б**и**:иŋ сэд эб**а**ут с**э**йфти нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be saying",
+        "examples": [
+          {
+            "ours": "Завтра на инструктаже они будут говорить о безопасности.",
+            "thought": "Во время [известного] инструктажа завтра они будут быть говорящими что-то о безопасности.",
+            "english": "During the briefing tomorrow they will be saying something about safety.",
+            "transcription": "[дь**ю**эриŋ ðэ бр**и**:фиŋ тэм**о**роу ðэй wил би: с**э**йиŋ с**а**мθиŋ эб**а**ут с**э**йфти]"
+          },
+          {
+            "ours": "Они будут говорить о безопасности на инструктаже?",
+            "thought": "Будут они быть говорящими что-нибудь о безопасности во время [известного] инструктажа?",
+            "english": "Will they be saying anything about safety during the briefing?",
+            "transcription": "[wил ðэй би: с**э**йиŋ **э**ниθиŋ эб**а**ут с**э**йфти дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been said",
+        "examples": [
+          {
+            "ours": "До гонки уже много сказали о безопасности.",
+            "thought": "Много имело уже быть сказано о безопасности перед [известной] гонкой.",
+            "english": "Much had already been said about safety before the race.",
+            "transcription": "[мач хæд о:лр**э**ди би:н сэд эб**а**ут с**э**йфти биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "До гонки сказали что-нибудь о безопасности?",
+            "thought": "Имело что-нибудь быть сказано о безопасности перед [известной] гонкой?",
+            "english": "Had anything been said about safety before the race?",
+            "transcription": "[хæд **э**ниθиŋ би:н сэд эб**а**ут с**э**йфти биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been said",
+        "examples": [
+          {
+            "ours": "На инструктаже уже много сказали о безопасности.",
+            "thought": "Много имеет уже быть сказано о безопасности во время [известного] инструктажа.",
+            "english": "Much has already been said about safety during the briefing.",
+            "transcription": "[мач хæз о:лр**э**ди би:н сэд эб**а**ут с**э**йфти дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          },
+          {
+            "ours": "О безопасности уже что-нибудь сказали?",
+            "thought": "Имеет что-нибудь уже быть сказано о безопасности?",
+            "english": "Has anything already been said about safety?",
+            "transcription": "[хæз **э**ниθиŋ о:лр**э**ди би:н сэд эб**а**ут с**э**йфти]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been said",
+        "examples": [
+          {
+            "ours": "К пяти завтра о безопасности уже многое скажут.",
+            "thought": "К пяти завтра много будет иметь быть сказано о безопасности.",
+            "english": "By five tomorrow much will have been said about safety.",
+            "transcription": "[бай файв тэм**о**роу мач wил хæв би:н сэд эб**а**ут с**э**йфти]"
+          },
+          {
+            "ours": "До гонки о безопасности что-нибудь скажут?",
+            "thought": "Будет что-нибудь иметь быть сказано о безопасности перед [известной] гонкой?",
+            "english": "Will anything have been said about safety before the race?",
+            "transcription": "[wил **э**ниθиŋ хæв би:н сэд эб**а**ут с**э**йфти биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The call sign has been said. Или: They have been saying the call sign."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они назовут позывной.",
+        "thought": "[Известный] капитан сказал, они будут говорить [известный] позывной.",
+        "english": "The captain said they would say the call sign.",
+        "transcription": "[ðэ к**æ**птин сэд ðэй wуд сэй ðэ ко:л сайн]"
+      },
+      {
+        "ours": "Я знал, что ты назовёшь позывной.",
+        "thought": "Я знал, ты будешь говорить [известный] позывной.",
+        "english": "I knew you would say the call sign.",
+        "transcription": "[ай нью: ю: wуд сэй ðэ ко:л сайн]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "call sign",
+      "meaning": "позывной",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "call sign"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "call sign"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "call sign"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "call sign"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "call sign"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "call sign"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "call sign"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "call sign"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "call sign"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "call sign"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "раз",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "briefing",
+      "meaning": "инструктаж",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "briefing"
+        }
+      ]
+    },
+    {
+      "word": "safety",
+      "meaning": "безопасность",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "safety"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        }
+      ]
+    }
+  ]
+}

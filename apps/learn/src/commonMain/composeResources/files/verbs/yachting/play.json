@@ -1,0 +1,926 @@
+{
+  "spec": 3,
+  "verb": "play",
+  "forms": {
+    "base": [
+      {
+        "word": "play",
+        "transcription": "[плэй]"
+      }
+    ],
+    "past": [
+      {
+        "word": "played",
+        "transcription": "[плэйд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "played",
+        "transcription": "[плэйд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "playing",
+        "transcription": "[пл**э**йиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "plays",
+        "transcription": "[плэйз]"
+      }
+    ]
+  },
+  "meaning": "играть, воспроизводить",
+  "notes": "правильный глагол, переходный и непереходный; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "played",
+        "examples": [
+          {
+            "ours": "Вчера команда играла в карты на борту.",
+            "thought": "Вчера [известная] команда играла карты на борту.",
+            "english": "Yesterday the crew played cards on board.",
+            "transcription": "[й**э**стэдэй ðэ кру: плэйд ка:дз он бо:д]"
+          },
+          {
+            "ours": "Он не играл на гитаре после ужина.",
+            "thought": "Он [сделал] не играть [известную] гитару после ужина.",
+            "english": "He didn't play the guitar after dinner.",
+            "transcription": "[хи: диднт плэй ðэ гит**а**: **а**:фтэ д**и**нэ]"
+          },
+          {
+            "ours": "Ты включил запись перед гонкой?",
+            "thought": "[Сделал] ты проигрывать [известную] запись перед [известной] гонкой?",
+            "english": "Did you play the recording before the race?",
+            "transcription": "[дид ю: плэй ðэ рик**о**:диŋ биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "play, plays",
+        "examples": [
+          {
+            "ours": "Капитан играет важную роль на борту.",
+            "thought": "[Известный] капитан играет [какую-то] важную роль на борту.",
+            "english": "The captain plays an important role on board.",
+            "transcription": "[ðэ к**æ**птин плэйз эн имп**о**:тэнт роул он бо:д]"
+          },
+          {
+            "ours": "Он не включает музыку во время гонки.",
+            "thought": "Он [делает] не проигрывать музыку во время [известной] гонки.",
+            "english": "He doesn't play music during the race.",
+            "transcription": "[хи: дазнт плэй мь**ю**:зик дь**ю**эриŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Ты играешь на гитаре на палубе?",
+            "thought": "[Делаешь] ты играть [известную] гитару на палубе?",
+            "english": "Do you play the guitar on deck?",
+            "transcription": "[ду: ю: плэй ðэ гит**а**: он дэк]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will play",
+        "examples": [
+          {
+            "ours": "Завтра мы сыграем в карты после ужина.",
+            "thought": "Завтра мы будем играть карты после ужина.",
+            "english": "Tomorrow we will play cards after dinner.",
+            "transcription": "[тэм**о**роу wи: wил плэй ка:дз **а**:фтэ д**и**нэ]"
+          },
+          {
+            "ours": "Он не будет включать музыку на борту.",
+            "thought": "Он будет не проигрывать музыку на борту.",
+            "english": "He won't play music on board.",
+            "transcription": "[хи: wоунт плэй мь**ю**:зик он бо:д]"
+          },
+          {
+            "ours": "Ты сыграешь эту песню на палубе?",
+            "thought": "Будешь ты играть эту песню на палубе?",
+            "english": "Will you play this song on deck?",
+            "transcription": "[wил ю: плэй ðис соŋ он дэк]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were playing",
+        "examples": [
+          {
+            "ours": "Вчера дети весь день играли на палубе.",
+            "thought": "Вчера [известные] дети были играющими на палубе весь день.",
+            "english": "Yesterday the children were playing on deck all day.",
+            "transcription": "[й**э**стэдэй ðэ ч**и**лдрэн wœ: пл**э**йиŋ он дэк о:л дэй]"
+          },
+          {
+            "ours": "Ты играл на гитаре, когда я пришёл?",
+            "thought": "Был ты играющим [известную] гитару, когда я пришёл?",
+            "english": "Were you playing the guitar when I came?",
+            "transcription": "[wœ: ю: пл**э**йиŋ ðэ гит**а**: wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are playing",
+        "examples": [
+          {
+            "ours": "Сейчас команда играет в карты.",
+            "thought": "[Известная] команда является играющей карты сейчас.",
+            "english": "The crew is playing cards now.",
+            "transcription": "[ðэ кру: из пл**э**йиŋ ка:дз нау]"
+          },
+          {
+            "ours": "Ты сейчас включаешь запись?",
+            "thought": "Являешься ты проигрывающим [известную] запись сейчас?",
+            "english": "Are you playing the recording now?",
+            "transcription": "[а: ю: пл**э**йиŋ ðэ рик**о**:диŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be playing",
+        "examples": [
+          {
+            "ours": "Завтра дети весь день будут играть на палубе.",
+            "thought": "Завтра [известные] дети будут быть играющими на палубе весь день.",
+            "english": "Tomorrow the children will be playing on deck all day.",
+            "transcription": "[тэм**о**роу ðэ ч**и**лдрэн wил би: пл**э**йиŋ он дэк о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь играть на гитаре после ужина?",
+            "thought": "Будешь ты быть играющим [известную] гитару после ужина?",
+            "english": "Will you be playing the guitar after dinner?",
+            "transcription": "[wил ю: би: пл**э**йиŋ ðэ гит**а**: **а**:фтэ д**и**нэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had played",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже сыграли в шахматы.",
+            "thought": "К пяти вчера мы имели уже сыгранными шахматы.",
+            "english": "By five yesterday we had already played chess.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди плэйд чэс]"
+          },
+          {
+            "ours": "Ты включил запись до гонки?",
+            "thought": "Имел ты проигранной [известную] запись перед [известной] гонкой?",
+            "english": "Had you played the recording before the race?",
+            "transcription": "[хæд ю: плэйд ðэ рик**о**:диŋ биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has played",
+        "examples": [
+          {
+            "ours": "Мы уже сыграли в карты на борту.",
+            "thought": "Мы имеем уже сыгранными карты на борту.",
+            "english": "We have already played cards on board.",
+            "transcription": "[wи: хæв о:лр**э**ди плэйд ка:дз он бо:д]"
+          },
+          {
+            "ours": "Ты уже сыграл эту песню?",
+            "thought": "Имеешь ты уже сыгранной эту песню?",
+            "english": "Have you already played this song?",
+            "transcription": "[хæв ю: о:лр**э**ди плэйд ðис соŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have played",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже сыграем в шахматы.",
+            "thought": "К пяти завтра мы будем иметь уже сыгранными шахматы.",
+            "english": "By five tomorrow we will have already played chess.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди плэйд чэс]"
+          },
+          {
+            "ours": "Ты включишь запись до гонки?",
+            "thought": "Будешь ты иметь проигранной [известную] запись перед [известной] гонкой?",
+            "english": "Will you have played the recording before the race?",
+            "transcription": "[wил ю: хæв плэйд ðэ рик**о**:диŋ биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been playing",
+        "examples": [
+          {
+            "ours": "Мы уже два часа играли в карты, когда ты пришёл.",
+            "thought": "Мы имели быть играющими карты целых два часа, когда ты пришёл.",
+            "english": "We had been playing cards for two hours when you came.",
+            "transcription": "[wи: хæд би:н пл**э**йиŋ ка:дз фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа играл на гитаре, когда он пришёл?",
+            "thought": "Имел ты быть играющим [известную] гитару целых два часа, когда он пришёл?",
+            "english": "Had you been playing the guitar for two hours when he came?",
+            "transcription": "[хæд ю: би:н пл**э**йиŋ ðэ гит**а**: фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been playing",
+        "examples": [
+          {
+            "ours": "Мы уже два часа играем в карты.",
+            "thought": "Мы имеем быть играющими карты целых два часа.",
+            "english": "We have been playing cards for two hours.",
+            "transcription": "[wи: хæв би:н пл**э**йиŋ ка:дз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа играешь на гитаре?",
+            "thought": "Имеешь ты быть играющим [известную] гитару целых два часа?",
+            "english": "Have you been playing the guitar for two hours?",
+            "transcription": "[хæв ю: би:н пл**э**йиŋ ðэ гит**а**: фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been playing",
+        "examples": [
+          {
+            "ours": "К пяти мы будем играть в карты уже два часа.",
+            "thought": "К пяти мы будем иметь быть играющими карты целых два часа.",
+            "english": "By five we will have been playing cards for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н пл**э**йиŋ ка:дз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты уже два часа будешь играть на гитаре?",
+            "thought": "Будешь ты иметь быть играющим [известную] гитару целых два часа к пяти?",
+            "english": "Will you have been playing the guitar for two hours by five?",
+            "transcription": "[wил ю: хæв би:н пл**э**йиŋ ðэ гит**а**: фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were played",
+        "examples": [
+          {
+            "ours": "Вчера на борту играла музыка.",
+            "thought": "Музыка была проиграна на борту вчера.",
+            "english": "Music was played on board yesterday.",
+            "transcription": "[мь**ю**:зик wоз плэйд он бо:д й**э**стэдэй]"
+          },
+          {
+            "ours": "Запись включили до гонки?",
+            "thought": "Была [известная] запись проиграна перед [известной] гонкой?",
+            "english": "Was the recording played before the race?",
+            "transcription": "[wоз ðэ рик**о**:диŋ плэйд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are played",
+        "examples": [
+          {
+            "ours": "После ужина на борту включают музыку.",
+            "thought": "Музыка есть проиграна на борту после ужина.",
+            "english": "Music is played on board after dinner.",
+            "transcription": "[мь**ю**:зик из плэйд он бо:д **а**:фтэ д**и**нэ]"
+          },
+          {
+            "ours": "В шахматы играют на борту?",
+            "thought": "Есть шахматы сыграны на борту?",
+            "english": "Is chess played on board?",
+            "transcription": "[из чэс плэйд он бо:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be played",
+        "examples": [
+          {
+            "ours": "Завтра на палубе включат эту песню.",
+            "thought": "Эта песня будет быть проиграна на палубе завтра.",
+            "english": "This song will be played on deck tomorrow.",
+            "transcription": "[ðис соŋ wил би: плэйд он дэк тэм**о**роу]"
+          },
+          {
+            "ours": "Запись включат до гонки?",
+            "thought": "Будет [известная] запись быть проиграна перед [известной] гонкой?",
+            "english": "Will the recording be played before the race?",
+            "transcription": "[wил ðэ рик**о**:диŋ би: плэйд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being played",
+        "examples": [
+          {
+            "ours": "Вчера на борту весь день играла музыка.",
+            "thought": "Вчера музыка была «долго» проиграна на борту весь день.",
+            "english": "Yesterday music was being played on board all day.",
+            "transcription": "[й**э**стэдэй мь**ю**:зик wоз б**и**:иŋ плэйд он бо:д о:л дэй]"
+          },
+          {
+            "ours": "Запись включали, когда ты пришёл?",
+            "thought": "Была [известная] запись «долго» проиграна, когда ты пришёл?",
+            "english": "Was the recording being played when you came?",
+            "transcription": "[wоз ðэ рик**о**:диŋ б**и**:иŋ плэйд wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being played",
+        "examples": [
+          {
+            "ours": "Сейчас на борту играет музыка.",
+            "thought": "Музыка есть «долго» проиграна на борту сейчас.",
+            "english": "Music is being played on board now.",
+            "transcription": "[мь**ю**:зик из б**и**:иŋ плэйд он бо:д нау]"
+          },
+          {
+            "ours": "Сейчас включают запись?",
+            "thought": "Есть [известная] запись «долго» проиграна сейчас?",
+            "english": "Is the recording being played now?",
+            "transcription": "[из ðэ рик**о**:диŋ б**и**:иŋ плэйд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be playing",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут включать музыку на борту.",
+            "thought": "Завтра они будут быть проигрывающими музыку на борту весь день.",
+            "english": "Tomorrow they will be playing music on board all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: пл**э**йиŋ мь**ю**:зик он бо:д о:л дэй]"
+          },
+          {
+            "ours": "Они будут включать запись до гонки?",
+            "thought": "Будут они быть проигрывающими [известную] запись перед [известной] гонкой?",
+            "english": "Will they be playing the recording before the race?",
+            "transcription": "[wил ðэй би: пл**э**йиŋ ðэ рик**о**:диŋ биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been played",
+        "examples": [
+          {
+            "ours": "Вчера к пяти эту песню уже сыграли.",
+            "thought": "К пяти вчера эта песня имела уже быть сыграна.",
+            "english": "By five yesterday this song had already been played.",
+            "transcription": "[бай файв й**э**стэдэй ðис соŋ хæд о:лр**э**ди би:н плэйд]"
+          },
+          {
+            "ours": "Запись включили до гонки?",
+            "thought": "Имела [известная] запись быть проиграна перед [известной] гонкой?",
+            "english": "Had the recording been played before the race?",
+            "transcription": "[хæд ðэ рик**о**:диŋ би:н плэйд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been played",
+        "examples": [
+          {
+            "ours": "Эту песню уже сыграли на борту.",
+            "thought": "Эта песня имеет уже быть сыграна на борту.",
+            "english": "This song has already been played on board.",
+            "transcription": "[ðис соŋ хæз о:лр**э**ди би:н плэйд он бо:д]"
+          },
+          {
+            "ours": "Запись уже включили?",
+            "thought": "Имеет [известная] запись уже быть проиграна?",
+            "english": "Has the recording already been played?",
+            "transcription": "[хæз ðэ рик**о**:диŋ о:лр**э**ди би:н плэйд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been played",
+        "examples": [
+          {
+            "ours": "К пяти завтра эту песню уже сыграют.",
+            "thought": "К пяти завтра эта песня будет уже иметь быть сыграна.",
+            "english": "By five tomorrow this song will already have been played.",
+            "transcription": "[бай файв тэм**о**роу ðис соŋ wил о:лр**э**ди хæв би:н плэйд]"
+          },
+          {
+            "ours": "Запись включат до гонки?",
+            "thought": "Будет [известная] запись иметь быть проиграна перед [известной] гонкой?",
+            "english": "Will the recording have been played before the race?",
+            "transcription": "[wил ðэ рик**о**:диŋ хæв би:н плэйд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: This song has been played. Или: They have been playing music."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они будут играть в карты на борту.",
+        "thought": "[Известный] капитан сказал, что они будут играть карты на борту.",
+        "english": "The captain said that they would play cards on board.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд плэй ка:дз он бо:д]"
+      },
+      {
+        "ours": "Я знал, что ты не включишь запись.",
+        "thought": "Я знал, что ты будешь не проигрывать [известную] запись.",
+        "english": "I knew that you wouldn't play the recording.",
+        "transcription": "[ай нью: ðæт ю: wуднт плэй ðэ рик**о**:диŋ]"
+      },
+      {
+        "ours": "Капитан сказал, что мы сыграем эту песню.",
+        "thought": "[Известный] капитан сказал, что мы будем играть эту песню.",
+        "english": "The captain said that we would play this song.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд плэй ðис соŋ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "cards",
+      "meaning": "карты",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "cards"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "cards"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "cards"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "cards"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "cards"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "cards"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "cards"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "cards"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "board"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "guitar",
+      "meaning": "гитара",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "guitar"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "guitar"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "guitar"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "guitar"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "guitar"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "guitar"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "guitar"
+        }
+      ]
+    },
+    {
+      "word": "dinner",
+      "meaning": "ужин",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "dinner"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "dinner"
+        }
+      ]
+    },
+    {
+      "word": "recording",
+      "meaning": "запись",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "recording"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "recording"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "recording"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "recording"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "recording"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "recording"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "recording"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "recording"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "recording"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "recording"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "recording"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "recording"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "recording"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "role",
+      "meaning": "роль",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "role"
+        }
+      ]
+    },
+    {
+      "word": "music",
+      "meaning": "музыка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "music"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "music"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Music"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Music"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "music"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Music"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "music"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "song",
+      "meaning": "песня",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "song"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "song"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "song"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "song"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "song"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "song"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "song"
+        }
+      ]
+    },
+    {
+      "word": "children",
+      "meaning": "дети",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "children"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "children"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "chess",
+      "meaning": "шахматы",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "chess"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "chess"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chess"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    }
+  ]
+}

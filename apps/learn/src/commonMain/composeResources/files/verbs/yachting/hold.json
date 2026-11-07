@@ -1,0 +1,986 @@
+{
+  "spec": 3,
+  "verb": "hold",
+  "forms": {
+    "base": [
+      {
+        "word": "hold",
+        "transcription": "[хоулд]"
+      }
+    ],
+    "past": [
+      {
+        "word": "held",
+        "transcription": "[хелд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "held",
+        "transcription": "[хелд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "holding",
+        "transcription": "[х**о**улдиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "holds",
+        "transcription": "[хоулдз]"
+      }
+    ]
+  },
+  "meaning": "держать, удерживать",
+  "notes": "неправильный переходный глагол, имеет пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "held",
+        "examples": [
+          {
+            "ours": "Вчера я держал шкот.",
+            "thought": "Вчера я держал [известный] шкот.",
+            "english": "Yesterday I held the sheet.",
+            "transcription": "[й**э**стэдэй ай хелд ðэ ши:т]"
+          },
+          {
+            "ours": "Якорь не удержал лодку.",
+            "thought": "[Известный] якорь [сделал] не удерживать [известную] лодку.",
+            "english": "The anchor did not hold the boat.",
+            "transcription": "[ðи **æ**нкэ дид нот хоулд ðэ боут]"
+          },
+          {
+            "ours": "Ты держал румпель?",
+            "thought": "[Сделал] ты держать [известный] румпель?",
+            "english": "Did you hold the tiller?",
+            "transcription": "[дид ю: хоулд ðэ т**и**лэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "hold, holds",
+        "examples": [
+          {
+            "ours": "Якорь удерживает яхту.",
+            "thought": "[Известный] якорь удерживает [известную] яхту.",
+            "english": "The anchor holds the yacht.",
+            "transcription": "[ðи **æ**нкэ хоулдз ðэ йот]"
+          },
+          {
+            "ours": "Она не держит шкот.",
+            "thought": "Она [делает] не держать [известный] шкот.",
+            "english": "She does not hold the sheet.",
+            "transcription": "[ши: даз нот хоулд ðэ ши:т]"
+          },
+          {
+            "ours": "Ты держишь румпель?",
+            "thought": "[Делаешь] ты держать [известный] румпель?",
+            "english": "Do you hold the tiller?",
+            "transcription": "[ду: ю: хоулд ðэ т**и**лэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will hold",
+        "examples": [
+          {
+            "ours": "Завтра я буду держать румпель.",
+            "thought": "Завтра я буду держать [известный] румпель.",
+            "english": "Tomorrow I will hold the tiller.",
+            "transcription": "[тэм**о**роу ай wил хоулд ðэ т**и**лэ]"
+          },
+          {
+            "ours": "Якорь не удержит лодку.",
+            "thought": "[Известный] якорь будет не удерживать [известную] лодку.",
+            "english": "The anchor will not hold the boat.",
+            "transcription": "[ðи **æ**нкэ wил нот хоулд ðэ боут]"
+          },
+          {
+            "ours": "Ты будешь держать шкот?",
+            "thought": "Будешь ты держать [известный] шкот?",
+            "english": "Will you hold the sheet?",
+            "transcription": "[wил ю: хоулд ðэ ши:т]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were holding",
+        "examples": [
+          {
+            "ours": "Я держал шкот, когда поднялся ветер.",
+            "thought": "Я был держащим [известный] шкот, когда [известный] ветер поднялся.",
+            "english": "I was holding the sheet when the wind rose.",
+            "transcription": "[ай wоз х**о**улдиŋ ðэ ши:т wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты держал румпель, когда пошёл дождь?",
+            "thought": "Был ты держащим [известный] румпель, когда [известный] дождь начался?",
+            "english": "Were you holding the tiller when the rain started?",
+            "transcription": "[wœ: ю: х**о**улдиŋ ðэ т**и**лэ wэн ðэ рэйн ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are holding",
+        "examples": [
+          {
+            "ours": "Я сейчас держу шкот.",
+            "thought": "Я являюсь держащим [известный] шкот сейчас.",
+            "english": "I am holding the sheet now.",
+            "transcription": "[ай æм х**о**улдиŋ ðэ ши:т нау]"
+          },
+          {
+            "ours": "Она сейчас не держит румпель.",
+            "thought": "Она является не держащей [известный] румпель сейчас.",
+            "english": "She is not holding the tiller now.",
+            "transcription": "[ши: из нот х**о**улдиŋ ðэ т**и**лэ нау]"
+          },
+          {
+            "ours": "Ты сейчас держишь верёвку?",
+            "thought": "Являешься ты держащим [известную] верёвку сейчас?",
+            "english": "Are you holding the rope now?",
+            "transcription": "[а: ю: х**о**улдиŋ ðэ роуп нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be holding",
+        "examples": [
+          {
+            "ours": "Завтра я буду держать румпель с трёх до пяти.",
+            "thought": "Завтра я буду быть держащим [известный] румпель с трёх до пяти.",
+            "english": "Tomorrow I will be holding the tiller from three to five.",
+            "transcription": "[тэм**о**роу ай wил би: х**о**улдиŋ ðэ т**и**лэ фром θри: ту файв]"
+          },
+          {
+            "ours": "Ты будешь держать шкот во время манёвра?",
+            "thought": "Будешь ты быть держащим [известный] шкот во время [известного] манёвра?",
+            "english": "Will you be holding the sheet during the maneuver?",
+            "transcription": "[wил ю: би: х**о**улдиŋ ðэ ши:т дь**ю**эриŋ ðэ мэн**у**:вэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had held",
+        "examples": [
+          {
+            "ours": "К полудню мы удерживали курс два часа.",
+            "thought": "К полудню мы имели удержанным наш курс целых два часа.",
+            "english": "By noon we had held our course for two hours.",
+            "transcription": "[бай ну:н wи: хæд хелд ауэ ко:с фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти якорь удерживал лодку уже два часа?",
+            "thought": "Имел [известный] якорь удержанной [известную] лодку целых два часа к пяти?",
+            "english": "Had the anchor held the boat for two hours by five?",
+            "transcription": "[хæд ðи **æ**нкэ хелд ðэ боут фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has held",
+        "examples": [
+          {
+            "ours": "Якорь выдержал шторм.",
+            "thought": "[Известный] якорь имеет удержанным сквозь [известный] шторм.",
+            "english": "The anchor has held through the storm.",
+            "transcription": "[ðи **æ**нкэ хæз хелд θру: ðэ сто:м]"
+          },
+          {
+            "ours": "Мы не удержали курс.",
+            "thought": "Мы имеем не удержанным наш курс.",
+            "english": "We have not held our course.",
+            "transcription": "[wи: хæв нот хелд ауэ ко:с]"
+          },
+          {
+            "ours": "Вы удержали лидерство?",
+            "thought": "Имеете вы удержанным [известное] лидерство?",
+            "english": "Have you held the lead?",
+            "transcription": "[хæв ю: хелд ðэ ли:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have held",
+        "examples": [
+          {
+            "ours": "К вечеру мы будем удерживать курс уже два часа.",
+            "thought": "К вечеру мы будем иметь удержанным наш курс целых два часа.",
+            "english": "By evening we will have held our course for two hours.",
+            "transcription": "[бай **и**:вниŋ wи: wил хæв хелд ауэ ко:с фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню якорь будет удерживать лодку уже час?",
+            "thought": "Будет [известный] якорь иметь удержанной [известную] лодку целый [какой-то] час к полудню?",
+            "english": "Will the anchor have held the boat for an hour by noon?",
+            "transcription": "[wил ðи **æ**нкэ хæв хелд ðэ боут фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been holding",
+        "examples": [
+          {
+            "ours": "Я держал шкот два часа, когда поднялся ветер.",
+            "thought": "Я имел быть держащим [известный] шкот целых два часа, когда [известный] ветер поднялся.",
+            "english": "I had been holding the sheet for two hours when the wind rose.",
+            "transcription": "[ай хæд би:н х**о**улдиŋ ðэ ши:т фо: ту: **а**уэз wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты давно держал румпель, когда начался дождь?",
+            "thought": "Имел ты быть держащим [известный] румпель долго, когда [известный] дождь начался?",
+            "english": "Had you been holding the tiller long when the rain started?",
+            "transcription": "[хæд ю: би:н х**о**улдиŋ ðэ т**и**лэ лоŋ wэн ðэ рэйн ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been holding",
+        "examples": [
+          {
+            "ours": "Я держу шкот уже два часа.",
+            "thought": "Я имею быть держащим [известный] шкот целых два часа.",
+            "english": "I have been holding the sheet for two hours.",
+            "transcription": "[ай хæв би:н х**о**улдиŋ ðэ ши:т фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже час держишь румпель?",
+            "thought": "Имеешь ты быть держащим [известный] румпель целый [какой-то] час?",
+            "english": "Have you been holding the tiller for an hour?",
+            "transcription": "[хæв ю: би:н х**о**улдиŋ ðэ т**и**лэ фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been holding",
+        "examples": [
+          {
+            "ours": "К пяти я буду держать шкот уже два часа.",
+            "thought": "К пяти я буду иметь быть держащим [известный] шкот целых два часа.",
+            "english": "By five I will have been holding the sheet for two hours.",
+            "transcription": "[бай файв ай wил хæв би:н х**о**улдиŋ ðэ ши:т фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь держать румпель уже час?",
+            "thought": "Будешь ты иметь быть держащим [известный] румпель целый [какой-то] час к пяти?",
+            "english": "Will you have been holding the tiller for an hour by five?",
+            "transcription": "[wил ю: хæв би:н х**о**улдиŋ ðэ т**и**лэ фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were held",
+        "examples": [
+          {
+            "ours": "Вчера шкот держал капитан.",
+            "thought": "[Известный] шкот был удержан от [известного] шкипера вчера.",
+            "english": "The sheet was held by the skipper yesterday.",
+            "transcription": "[ðэ ши:т wоз хелд бай ðэ ск**и**пэ й**э**стэдэй]"
+          },
+          {
+            "ours": "Верёвку не держали.",
+            "thought": "[Известная] верёвка была не удержана.",
+            "english": "The rope was not held.",
+            "transcription": "[ðэ роуп wоз нот хелд]"
+          },
+          {
+            "ours": "Румпель держали?",
+            "thought": "Был [известный] румпель удержан?",
+            "english": "Was the tiller held?",
+            "transcription": "[wоз ðэ т**и**лэ хелд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are held",
+        "examples": [
+          {
+            "ours": "Яхту удерживает якорь.",
+            "thought": "[Известная] яхта есть удержана от [какого-то] якоря.",
+            "english": "The yacht is held by an anchor.",
+            "transcription": "[ðэ йот из хелд бай эн **æ**нкэ]"
+          },
+          {
+            "ours": "Верёвку не держат.",
+            "thought": "[Известная] верёвка есть не удержана.",
+            "english": "The rope is not held.",
+            "transcription": "[ðэ роуп из нот хелд]"
+          },
+          {
+            "ours": "Лодку удерживает якорь?",
+            "thought": "Есть [известная] лодка удержана от [какого-то] якоря?",
+            "english": "Is the boat held by an anchor?",
+            "transcription": "[из ðэ боут хелд бай эн **æ**нкэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be held",
+        "examples": [
+          {
+            "ours": "Яхту будет удерживать якорь.",
+            "thought": "[Известная] яхта будет быть удержана от [какого-то] якоря.",
+            "english": "The yacht will be held by an anchor.",
+            "transcription": "[ðэ йот wил би: хелд бай эн **æ**нкэ]"
+          },
+          {
+            "ours": "Лодку не удержит якорь.",
+            "thought": "[Известная] лодка будет не быть удержана от [какого-то] якоря.",
+            "english": "The boat will not be held by an anchor.",
+            "transcription": "[ðэ боут wил нот би: хелд бай эн **æ**нкэ]"
+          },
+          {
+            "ours": "Шкот будет держать капитан?",
+            "thought": "Будет [известный] шкот быть удержан от [известного] шкипера?",
+            "english": "Will the sheet be held by the skipper?",
+            "transcription": "[wил ðэ ши:т би: хелд бай ðэ ск**и**пэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being held",
+        "examples": [
+          {
+            "ours": "Румпель держали, когда ветер усилился.",
+            "thought": "[Известный] румпель был «долго» удержан, когда [известный] ветер усилился.",
+            "english": "The tiller was being held when the wind rose.",
+            "transcription": "[ðэ т**и**лэ wоз б**и**:иŋ хелд wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Шкот держали, когда ты прибыл?",
+            "thought": "Был [известный] шкот «долго» удержан, когда ты прибыл?",
+            "english": "Was the sheet being held when you arrived?",
+            "transcription": "[wоз ðэ ши:т б**и**:иŋ хелд wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being held",
+        "examples": [
+          {
+            "ours": "Румпель сейчас держат.",
+            "thought": "[Известный] румпель есть «долго» удержан сейчас.",
+            "english": "The tiller is being held now.",
+            "transcription": "[ðэ т**и**лэ из б**и**:иŋ хелд нау]"
+          },
+          {
+            "ours": "Верёвку сейчас не держат.",
+            "thought": "[Известная] верёвка есть не «долго» удержана сейчас.",
+            "english": "The rope is not being held now.",
+            "transcription": "[ðэ роуп из нот б**и**:иŋ хелд нау]"
+          },
+          {
+            "ours": "Шкот сейчас держат?",
+            "thought": "Есть [известный] шкот «долго» удержан сейчас?",
+            "english": "Is the sheet being held now?",
+            "transcription": "[из ðэ ши:т б**и**:иŋ хелд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be holding",
+        "examples": [
+          {
+            "ours": "Завтра они будут держать верёвку весь день.",
+            "thought": "Завтра они будут быть держащими [известную] верёвку весь день.",
+            "english": "Tomorrow they will be holding the rope all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: х**о**улдиŋ ðэ роуп о:л дэй]"
+          },
+          {
+            "ours": "Они будут держать румпель с трёх до пяти?",
+            "thought": "Будут они быть держащими [известный] румпель с трёх до пяти?",
+            "english": "Will they be holding the tiller from three to five?",
+            "transcription": "[wил ðэй би: х**о**улдиŋ ðэ т**и**лэ фром θри: ту файв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been held",
+        "examples": [
+          {
+            "ours": "К вечеру курс удерживали два часа.",
+            "thought": "К вечеру [известный] курс имел быть удержан целых два часа.",
+            "english": "By evening the course had been held for two hours.",
+            "transcription": "[бай **и**:вниŋ ðэ ко:с хæд би:н хелд фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню лидерство удерживали час?",
+            "thought": "Имело [известное] лидерство быть удержано целый [какой-то] час к полудню?",
+            "english": "Had the lead been held for an hour by noon?",
+            "transcription": "[хæд ðэ ли:д би:н хелд фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been held",
+        "examples": [
+          {
+            "ours": "Курс удерживали два часа.",
+            "thought": "[Известный] курс имеет быть удержан целых два часа.",
+            "english": "The course has been held for two hours.",
+            "transcription": "[ðэ ко:с хæз би:н хелд фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Лидерство не удержали.",
+            "thought": "[Известное] лидерство имеет не быть удержано.",
+            "english": "The lead has not been held.",
+            "transcription": "[ðэ ли:д хæз нот би:н хелд]"
+          },
+          {
+            "ours": "Румпель всё время держали?",
+            "thought": "Имеет [известный] румпель быть удержан всё [известное] время?",
+            "english": "Has the tiller been held all the time?",
+            "transcription": "[хæз ðэ т**и**лэ би:н хелд о:л ðэ тайм]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been held",
+        "examples": [
+          {
+            "ours": "К вечеру курс будут удерживать уже два часа.",
+            "thought": "К вечеру [известный] курс будет иметь быть удержан целых два часа.",
+            "english": "By evening the course will have been held for two hours.",
+            "transcription": "[бай **и**:вниŋ ðэ ко:с wил хæв би:н хелд фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню лидерство будут удерживать уже час?",
+            "thought": "Будет [известное] лидерство иметь быть удержано целый [какой-то] час к полудню?",
+            "english": "Will the lead have been held for an hour by noon?",
+            "transcription": "[wил ðэ ли:д хæв би:н хелд фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: They have been holding the tiller."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она будет держать румпель.",
+        "thought": "Я знал, она будет держать [известный] румпель.",
+        "english": "I knew she would hold the tiller.",
+        "transcription": "[ай нью: ши: wуд хоулд ðэ т**и**лэ]"
+      },
+      {
+        "ours": "Мы думали, что якорь не удержит лодку.",
+        "thought": "Мы думали, [известный] якорь будет не удерживать [известную] лодку.",
+        "english": "We thought the anchor would not hold the boat.",
+        "transcription": "[wи: θо:т ðи **æ**нкэ wуд нот хоулд ðэ боут]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "sheet",
+      "meaning": "шкот",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "sheet"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "sheet"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "sheet"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "sheet"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "tiller",
+      "meaning": "румпель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "tiller"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "tiller"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "tiller"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "tiller"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "tiller"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "tiller"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "tiller"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "tiller"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "tiller"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "tiller"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "tiller"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "tiller"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "tiller"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "tiller"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "tiller"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "верёвка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "rope"
+        }
+      ]
+    },
+    {
+      "word": "maneuver",
+      "meaning": "манёвр",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "maneuver"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "course",
+      "meaning": "курс",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "course"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "course"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "course"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "lead",
+      "meaning": "лидерство",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "lead"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "lead"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "lead"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "lead"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "time"
+        }
+      ]
+    }
+  ]
+}

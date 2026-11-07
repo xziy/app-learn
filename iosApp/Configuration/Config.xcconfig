@@ -1,0 +1,6 @@
+// The same identifier as the package of the app (cx.m42.english).
+BUNDLE_ID=cx.m42.english
+APP_NAME=English
+// Kotlin builds the simulator framework for Apple silicon only (iosSimulatorArm64, no iosX64), so a
+// build for "any simulator" must not ask for an Intel slice the framework does not have.
+EXCLUDED_ARCHS[sdk=iphonesimulator*]=x86_64

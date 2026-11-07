@@ -1,0 +1,568 @@
+{
+  "spec": 3,
+  "verb": "see",
+  "forms": {
+    "base": [
+      {
+        "word": "see",
+        "transcription": "[си:]"
+      }
+    ],
+    "past": [
+      {
+        "word": "saw",
+        "transcription": "[со:]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "seen",
+        "transcription": "[си:н]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "seeing",
+        "transcription": "[с**и**:иŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "sees",
+        "transcription": "[си:з]"
+      }
+    ]
+  },
+  "meaning": "видеть, замечать",
+  "notes": "неправильный переходный глагол; в значении зрительного восприятия обычно не употребляется в длительных временах",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "saw",
+        "examples": [
+          {
+            "ours": "Вчера мы увидели маяк.",
+            "thought": "Вчера мы увидели [известный] маяк.",
+            "english": "Yesterday we saw the lighthouse.",
+            "transcription": "[й**э**стэдэй wи: со: ðэ л**а**йтхаус]"
+          },
+          {
+            "ours": "Капитан не увидел буй.",
+            "thought": "[Известный] шкипер [сделал] не видеть [известный] буй.",
+            "english": "The skipper did not see the buoy.",
+            "transcription": "[ðэ ск**и**пэ дид нот си: ðэ бой]"
+          },
+          {
+            "ours": "Ты видел яхту?",
+            "thought": "[Сделал] ты видеть [известную] яхту?",
+            "english": "Did you see the yacht?",
+            "transcription": "[дид ю: си: ðэ йот]"
+          }
+        ]
+      },
+      "present": {
+        "form": "see, sees",
+        "examples": [
+          {
+            "ours": "Я вижу берег.",
+            "thought": "Я вижу [известный] берег.",
+            "english": "I see the shore.",
+            "transcription": "[ай си: ðэ шо:]"
+          },
+          {
+            "ours": "Отсюда она не видит гавань.",
+            "thought": "Она [делает] не видеть [известную] гавань от здесь.",
+            "english": "She does not see the harbor from here.",
+            "transcription": "[ши: даз нот си: ðэ х**а**:бэ фром хиэ]"
+          },
+          {
+            "ours": "Ты видишь парус?",
+            "thought": "[Делаешь] ты видеть [известный] парус?",
+            "english": "Do you see the sail?",
+            "transcription": "[ду: ю: си: ðэ сэйл]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will see",
+        "examples": [
+          {
+            "ours": "Скоро мы увидим остров.",
+            "thought": "Мы будем видеть [известный] остров скоро.",
+            "english": "We will see the island soon.",
+            "transcription": "[wи: wил си: ðи **а**йлэнд су:н]"
+          },
+          {
+            "ours": "Завтра капитан не увидит берега.",
+            "thought": "[Известный] шкипер будет не видеть [известный] берег завтра.",
+            "english": "The skipper will not see the shore tomorrow.",
+            "transcription": "[ðэ ск**и**пэ wил нот си: ðэ шо: тэм**о**роу]"
+          },
+          {
+            "ours": "Ты увидишь маяк отсюда?",
+            "thought": "Будешь ты видеть [известный] маяк от здесь?",
+            "english": "Will you see the lighthouse from here?",
+            "transcription": "[wил ю: си: ðэ л**а**йтхаус фром хиэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had seen",
+        "examples": [
+          {
+            "ours": "К тому времени мы уже видели маяк.",
+            "thought": "К тогда мы имели уже увиденным [известный] маяк.",
+            "english": "By then we had already seen the lighthouse.",
+            "transcription": "[бай ðэн wи: хæд о:лр**э**ди си:н ðэ л**а**йтхаус]"
+          },
+          {
+            "ours": "К тому времени капитан ещё не видел буй.",
+            "thought": "К тогда [известный] шкипер имел не увиденным [известный] буй ещё.",
+            "english": "By then the skipper had not seen the buoy yet.",
+            "transcription": "[бай ðэн ðэ ск**и**пэ хæд нот си:н ðэ бой йэт]"
+          },
+          {
+            "ours": "К тому времени ты уже видел парус?",
+            "thought": "Имел ты увиденным [известный] парус к тогда?",
+            "english": "Had you seen the sail by then?",
+            "transcription": "[хæд ю: си:н ðэ сэйл бай ðэн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has seen",
+        "examples": [
+          {
+            "ours": "Мы уже видели этот остров.",
+            "thought": "Мы имеем уже увиденным этот остров.",
+            "english": "We have already seen this island.",
+            "transcription": "[wи: хæв о:лр**э**ди си:н ðис **а**йлэнд]"
+          },
+          {
+            "ours": "Я ещё не видел яхту.",
+            "thought": "Я имею не увиденной [известную] яхту ещё.",
+            "english": "I have not seen the yacht yet.",
+            "transcription": "[ай хæв нот си:н ðэ йот йэт]"
+          },
+          {
+            "ours": "Ты уже видел прогноз?",
+            "thought": "Имеешь ты увиденным [известный] прогноз уже?",
+            "english": "Have you seen the forecast yet?",
+            "transcription": "[хæв ю: си:н ðэ ф**о**:ка:ст йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have seen",
+        "examples": [
+          {
+            "ours": "К вечеру мы увидим берег.",
+            "thought": "К вечеру мы будем иметь увиденным [известный] берег.",
+            "english": "By evening we will have seen the shore.",
+            "transcription": "[бай **и**:вниŋ wи: wил хæв си:н ðэ шо:]"
+          },
+          {
+            "ours": "К завтрашнему дню она ещё не увидит остров.",
+            "thought": "К завтра она будет не иметь увиденным [известный] остров ещё.",
+            "english": "By tomorrow she will not have seen the island yet.",
+            "transcription": "[бай тэм**о**роу ши: wил нот хæв си:н ðи **а**йлэнд йэт]"
+          },
+          {
+            "ours": "К пяти вы уже увидите маяк?",
+            "thought": "Будете вы иметь увиденным [известный] маяк к пяти?",
+            "english": "Will you have seen the lighthouse by five?",
+            "transcription": "[wил ю: хæв си:н ðэ л**а**йтхаус бай файв]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "В значении зрительного восприятия see обычно не употребляется в длительных формах. Вместо этого скажут: I see the shore."
+    },
+    "perfect_continuous": {
+      "not_possible": "Для зрительного восприятия обычно не используют эту форму. Вместо этого скажут: We have seen the lighthouse."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were seen",
+        "examples": [
+          {
+            "ours": "Вчера видели яхту.",
+            "thought": "[Известная] яхта была увидена вчера.",
+            "english": "The yacht was seen yesterday.",
+            "transcription": "[ðэ йот wоз си:н й**э**стэдэй]"
+          },
+          {
+            "ours": "Парус не заметили вчера.",
+            "thought": "[Известный] парус был не увиден вчера.",
+            "english": "The sail was not seen yesterday.",
+            "transcription": "[ðэ сэйл wоз нот си:н й**э**стэдэй]"
+          },
+          {
+            "ours": "Буй вчера видели?",
+            "thought": "Был [известный] буй увиден вчера?",
+            "english": "Was the buoy seen yesterday?",
+            "transcription": "[wоз ðэ бой си:н й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are seen",
+        "examples": [
+          {
+            "ours": "Отсюда часто виден маяк.",
+            "thought": "[Известный] маяк есть часто увиден от здесь.",
+            "english": "The lighthouse is often seen from here.",
+            "transcription": "[ðэ л**а**йтхаус из **о**фэн си:н фром хиэ]"
+          },
+          {
+            "ours": "Отсюда не видно берег.",
+            "thought": "[Известный] берег есть не увиден от здесь.",
+            "english": "The shore is not seen from here.",
+            "transcription": "[ðэ шо: из нот си:н фром хиэ]"
+          },
+          {
+            "ours": "Отсюда виден остров?",
+            "thought": "Есть [известный] остров увиден от здесь?",
+            "english": "Is the island seen from here?",
+            "transcription": "[из ðи **а**йлэнд си:н фром хиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be seen",
+        "examples": [
+          {
+            "ours": "Завтра яхту увидят у берега.",
+            "thought": "[Известная] яхта будет быть увидена у [известного] берега завтра.",
+            "english": "The yacht will be seen near the shore tomorrow.",
+            "transcription": "[ðэ йот wил би: си:н ниэ ðэ шо: тэм**о**роу]"
+          },
+          {
+            "ours": "Маяк не будет виден отсюда.",
+            "thought": "[Известный] маяк будет не быть увиден от здесь.",
+            "english": "The lighthouse will not be seen from here.",
+            "transcription": "[ðэ л**а**йтхаус wил нот би: си:н фром хиэ]"
+          },
+          {
+            "ours": "Парус увидят завтра?",
+            "thought": "Будет [известный] парус быть увиден завтра?",
+            "english": "Will the sail be seen tomorrow?",
+            "transcription": "[wил ðэ сэйл би: си:н тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been seen",
+        "examples": [
+          {
+            "ours": "К тому времени яхту уже заметили.",
+            "thought": "К тогда [известная] яхта имела уже быть увидена.",
+            "english": "By then the yacht had already been seen.",
+            "transcription": "[бай ðэн ðэ йот хæд о:лр**э**ди би:н си:н]"
+          },
+          {
+            "ours": "К тому времени буй ещё не заметили.",
+            "thought": "К тогда [известный] буй имел не быть увиден ещё.",
+            "english": "By then the buoy had not been seen yet.",
+            "transcription": "[бай ðэн ðэ бой хæд нот би:н си:н йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been seen",
+        "examples": [
+          {
+            "ours": "Яхту уже заметили.",
+            "thought": "[Известная] яхта имеет уже быть увидена.",
+            "english": "The yacht has already been seen.",
+            "transcription": "[ðэ йот хæз о:лр**э**ди би:н си:н]"
+          },
+          {
+            "ours": "Буй ещё не заметили.",
+            "thought": "[Известный] буй имеет не быть увиден ещё.",
+            "english": "The buoy has not been seen yet.",
+            "transcription": "[ðэ бой хæз нот би:н си:н йэт]"
+          },
+          {
+            "ours": "Парус уже заметили?",
+            "thought": "Имеет [известный] парус быть увиден уже?",
+            "english": "Has the sail been seen yet?",
+            "transcription": "[хæз ðэ сэйл би:н си:н йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been seen",
+        "examples": [
+          {
+            "ours": "К пяти яхту уже заметят.",
+            "thought": "К пяти [известная] яхта будет иметь быть увидена.",
+            "english": "By five the yacht will have been seen.",
+            "transcription": "[бай файв ðэ йот wил хæв би:н си:н]"
+          },
+          {
+            "ours": "К пяти буй ещё не заметят.",
+            "thought": "К пяти [известный] буй будет не иметь быть увиден ещё.",
+            "english": "By five the buoy will not have been seen yet.",
+            "transcription": "[бай файв ðэ бой wил нот хæв би:н си:н йэт]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Для зрительного восприятия длительный пассив обычно не используют; скажут: The yacht can be seen from here."
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется; вместо него скажут: The yacht has been seen."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я думал, что мы увидим остров.",
+        "thought": "Я думал, мы будем видеть [известный] остров.",
+        "english": "I thought we would see the island.",
+        "transcription": "[ай θо:т wи: wуд си: ðи **а**йлэнд]"
+      },
+      {
+        "ours": "Она знала, что не увидит берег.",
+        "thought": "Она знала, она будет не видеть [известный] берег.",
+        "english": "She knew she would not see the shore.",
+        "transcription": "[ши: нью: ши: wуд нот си: ðэ шо:]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "lighthouse",
+      "meaning": "маяк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "lighthouse"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "meaning": "буй",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "buoy"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "buoy"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "shore",
+      "meaning": "берег",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "shore"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "shore"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "shore"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "island"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "island"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "island"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "evening"
+        }
+      ]
+    }
+  ]
+}

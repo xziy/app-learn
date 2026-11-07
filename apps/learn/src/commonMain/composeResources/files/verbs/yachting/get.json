@@ -1,0 +1,557 @@
+{
+  "spec": 3,
+  "verb": "get",
+  "forms": {
+    "base": [
+      {
+        "word": "get",
+        "transcription": "[гэт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "got",
+        "transcription": "[гот]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "got",
+        "transcription": "[гот]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "getting",
+        "transcription": "[г**э**тиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "gets",
+        "transcription": "[гэтс]"
+      }
+    ]
+  },
+  "meaning": "получать, доставать, добираться",
+  "notes": "неправильный глагол; британское причастие got, американский вариант gotten; в значении получения возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "got",
+        "examples": [
+          {
+            "ours": "Вчера мы получили прогноз.",
+            "thought": "Вчера мы получили [известный] прогноз.",
+            "english": "Yesterday we got the forecast.",
+            "transcription": "[й**э**стэдэй wи: гот ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты получил карту?",
+            "thought": "[Сделал] ты получать [известную] карту?",
+            "english": "Did you get the chart?",
+            "transcription": "[дид ю: гэт ðэ ча:т]"
+          },
+          {
+            "ours": "Она не получила сигнал.",
+            "thought": "Она [сделала] не получать [известный] сигнал.",
+            "english": "She did not get the signal.",
+            "transcription": "[ши: дид нот гэт ðэ с**и**гнл]"
+          }
+        ]
+      },
+      "present": {
+        "form": "get, gets",
+        "examples": [
+          {
+            "ours": "Мы получаем прогноз каждый день.",
+            "thought": "Мы получаем [известный] прогноз каждый день.",
+            "english": "We get the forecast every day.",
+            "transcription": "[wи: гэт ðэ ф**о**:ка:ст **э**ври дэй]"
+          },
+          {
+            "ours": "Он не получает сигнал здесь.",
+            "thought": "Он [делает] не получать [какой-то] сигнал здесь.",
+            "english": "He does not get a signal here.",
+            "transcription": "[хи: даз нот гэт э с**и**гнл хиэ]"
+          },
+          {
+            "ours": "Ты получаешь погоду по радио?",
+            "thought": "[Делаешь] ты получать [известную] погоду по радио?",
+            "english": "Do you get the weather by radio?",
+            "transcription": "[ду: ю: гэт ðэ w**э**ðэ бай р**э**йдиоу]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will get",
+        "examples": [
+          {
+            "ours": "Завтра мы получим прогноз.",
+            "thought": "Завтра мы будем получать [известный] прогноз.",
+            "english": "Tomorrow we will get the forecast.",
+            "transcription": "[тэм**о**роу wи: wил гэт ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Она не получит карту завтра.",
+            "thought": "Она будет не получать [известную] карту завтра.",
+            "english": "She will not get the chart tomorrow.",
+            "transcription": "[ши: wил нот гэт ðэ ча:т тэм**о**роу]"
+          },
+          {
+            "ours": "Вы получите сигнал на борту?",
+            "thought": "Будете вы получать [какой-то] сигнал на борту?",
+            "english": "Will you get a signal on board?",
+            "transcription": "[wил ю: гэт э с**и**гнл он бо:д]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were getting",
+        "examples": [
+          {
+            "ours": "Вчера весь день мы получали сводки.",
+            "thought": "Вчера мы были получающими сводки весь день.",
+            "english": "Yesterday we were getting updates all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: г**э**тиŋ **а**пдэйтс о:л дэй]"
+          },
+          {
+            "ours": "Он получал сообщения во время гонки?",
+            "thought": "Был он получающим сообщения во время [известной] гонки?",
+            "english": "Was he getting messages during the race?",
+            "transcription": "[wоз хи: г**э**тиŋ м**э**сиджиз дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are getting",
+        "examples": [
+          {
+            "ours": "Мы сейчас получаем сводки.",
+            "thought": "Мы являемся получающими сводки сейчас.",
+            "english": "We are getting updates now.",
+            "transcription": "[wи: а: г**э**тиŋ **а**пдэйтс нау]"
+          },
+          {
+            "ours": "Ты сейчас получаешь сообщения?",
+            "thought": "Являешься ты получающим сообщения сейчас?",
+            "english": "Are you getting messages now?",
+            "transcription": "[а: ю: г**э**тиŋ м**э**сиджиз нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be getting",
+        "examples": [
+          {
+            "ours": "Завтра мы будем получать сводки весь день.",
+            "thought": "Завтра мы будем быть получающими сводки весь день.",
+            "english": "Tomorrow we will be getting updates all day.",
+            "transcription": "[тэм**о**роу wи: wил би: г**э**тиŋ **а**пдэйтс о:л дэй]"
+          },
+          {
+            "ours": "Вы будете получать сообщения во время гонки?",
+            "thought": "Будете вы быть получающими сообщения во время [известной] гонки?",
+            "english": "Will you be getting messages during the race?",
+            "transcription": "[wил ю: би: г**э**тиŋ м**э**сиджиз дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had got",
+        "examples": [
+          {
+            "ours": "К полудню мы уже получили прогноз.",
+            "thought": "К полудню мы имели уже полученным [известный] прогноз.",
+            "english": "By noon we had already got the forecast.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди гот ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "К пяти она получила карту?",
+            "thought": "Имела она полученной [известную] карту к пяти?",
+            "english": "Had she got the chart by five?",
+            "transcription": "[хæд ши: гот ðэ ча:т бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has got",
+        "examples": [
+          {
+            "ours": "Мы уже получили прогноз.",
+            "thought": "Мы имеем уже полученным [известный] прогноз.",
+            "english": "We have already got the forecast.",
+            "transcription": "[wи: хæв о:лр**э**ди гот ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты уже получил карту?",
+            "thought": "Имеешь ты полученной [известную] карту уже?",
+            "english": "Have you got the chart yet?",
+            "transcription": "[хæв ю: гот ðэ ча:т йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have got",
+        "examples": [
+          {
+            "ours": "К полудню мы получим прогноз.",
+            "thought": "К полудню мы будем иметь полученным [известный] прогноз.",
+            "english": "By noon we will have got the forecast.",
+            "transcription": "[бай ну:н wи: wил хæв гот ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Она получит карту к пяти?",
+            "thought": "Будет она иметь полученной [известную] карту к пяти?",
+            "english": "Will she have got the chart by five?",
+            "transcription": "[wил ши: хæв гот ðэ ча:т бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been getting",
+        "examples": [
+          {
+            "ours": "Мы получали сводки два часа, когда радио сломалось.",
+            "thought": "Мы имели быть получающими сводки целых два часа, когда [известное] радио сломалось.",
+            "english": "We had been getting updates for two hours when the radio failed.",
+            "transcription": "[wи: хæд би:н г**э**тиŋ **а**пдэйтс фо: ту: **а**уэз wэн ðэ р**э**йдиоу фэйлд]"
+          },
+          {
+            "ours": "Вы получали сообщения два часа до шторма?",
+            "thought": "Имели вы быть получающими сообщения целых два часа перед [известным] штормом?",
+            "english": "Had you been getting messages for two hours before the storm?",
+            "transcription": "[хæд ю: би:н г**э**тиŋ м**э**сиджиз фо: ту: **а**уэз биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been getting",
+        "examples": [
+          {
+            "ours": "Мы получаем сводки уже два часа.",
+            "thought": "Мы имеем быть получающими сводки целых два часа.",
+            "english": "We have been getting updates for two hours.",
+            "transcription": "[wи: хæв би:н г**э**тиŋ **а**пдэйтс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Вы получаете сообщения уже два часа?",
+            "thought": "Имеете вы быть получающими сообщения целых два часа?",
+            "english": "Have you been getting messages for two hours?",
+            "transcription": "[хæв ю: би:н г**э**тиŋ м**э**сиджиз фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been getting",
+        "examples": [
+          {
+            "ours": "К полудню мы будем получать сводки уже два часа.",
+            "thought": "К полудню мы будем иметь быть получающими сводки целых два часа.",
+            "english": "By noon we will have been getting updates for two hours.",
+            "transcription": "[бай ну:н wи: wил хæв би:н г**э**тиŋ **а**пдэйтс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти вы будете получать сообщения уже два часа?",
+            "thought": "Будете вы иметь быть получающими сообщения целых два часа к пяти?",
+            "english": "Will you have been getting messages for two hours by five?",
+            "transcription": "[wил ю: хæв би:н г**э**тиŋ м**э**сиджиз фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "В значении «получать» пассив с got в британском английском звучит неестественно; обычно говорят The crew received the forecast или The forecast was received."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что мы получим прогноз.",
+        "thought": "Я знал, мы будем получать [известный] прогноз.",
+        "english": "I knew we would get the forecast.",
+        "transcription": "[ай нью: wи: wуд гэт ðэ ф**о**:ка:ст]"
+      },
+      {
+        "ours": "Она думала, что он не получит карту.",
+        "thought": "Она думала, он будет не получать [известную] карту.",
+        "english": "She thought he would not get the chart.",
+        "transcription": "[ши: θо:т хи: wуд нот гэт ðэ ча:т]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "signal",
+      "meaning": "сигнал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "signal"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "update",
+      "meaning": "сводка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "updates"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "updates"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "updates"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "updates"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "updates"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "updates"
+        }
+      ]
+    },
+    {
+      "word": "message",
+      "meaning": "сообщение",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "messages"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "messages"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "messages"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "messages"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "messages"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "messages"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "storm"
+        }
+      ]
+    }
+  ]
+}

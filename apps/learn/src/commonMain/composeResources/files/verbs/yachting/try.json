@@ -1,0 +1,890 @@
+{
+  "spec": 3,
+  "verb": "try",
+  "forms": {
+    "base": [
+      {
+        "word": "try",
+        "transcription": "[трай]"
+      }
+    ],
+    "past": [
+      {
+        "word": "tried",
+        "transcription": "[трайд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "tried",
+        "transcription": "[трайд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "trying",
+        "transcription": "[тр**а**йиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "tries",
+        "transcription": "[трайз]"
+      }
+    ]
+  },
+  "meaning": "пытаться, пробовать",
+  "notes": "правильный глагол; try to do — пытаться сделать, try something — пробовать что-либо; переходное значение образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "tried",
+        "examples": [
+          {
+            "ours": "Вчера я попробовал новый узел.",
+            "thought": "Вчера я попробовал [какой-то] новый узел.",
+            "english": "Yesterday I tried a new knot.",
+            "transcription": "[й**э**стэдэй ай трайд э нью: нот]"
+          },
+          {
+            "ours": "Ты пытался завести мотор?",
+            "thought": "[Сделал] ты пытаться завести [известный] мотор?",
+            "english": "Did you try to start the engine?",
+            "transcription": "[дид ю: трай ту ста:т ðи **э**нджин]"
+          },
+          {
+            "ours": "Она не пробовала эту лодку.",
+            "thought": "Она [сделала] не пробовать эту лодку.",
+            "english": "She did not try this boat.",
+            "transcription": "[ши: дид нот трай ðис боут]"
+          }
+        ]
+      },
+      "present": {
+        "form": "try, tries",
+        "examples": [
+          {
+            "ours": "Он часто пробует новые маршруты.",
+            "thought": "Он часто пробует новые маршруты.",
+            "english": "He often tries new routes.",
+            "transcription": "[хи: **о**фэн трайз нью: ру:тс]"
+          },
+          {
+            "ours": "Ты пробуешь другие паруса?",
+            "thought": "[Делаешь] ты пробовать другие паруса?",
+            "english": "Do you try other sails?",
+            "transcription": "[ду: ю: трай **а**ðэ сэйлз]"
+          },
+          {
+            "ours": "Она не пытается управлять яхтой одна.",
+            "thought": "Она [делает] не пытаться управлять яхтой одна.",
+            "english": "She does not try to sail alone.",
+            "transcription": "[ши: даз нот трай ту сэйл эл**о**ун]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will try",
+        "examples": [
+          {
+            "ours": "Завтра мы попробуем другую стоянку.",
+            "thought": "Завтра мы будем пробовать другую стоянку.",
+            "english": "Tomorrow we will try another anchorage.",
+            "transcription": "[тэм**о**роу wи: wил трай эн**а**ðэ **æ**нкэридж]"
+          },
+          {
+            "ours": "Ты попробуешь новый парус?",
+            "thought": "Будешь ты пробовать [известный] новый парус?",
+            "english": "Will you try the new sail?",
+            "transcription": "[wил ю: трай ðэ нью: сэйл]"
+          },
+          {
+            "ours": "Сегодня он не станет заводить мотор.",
+            "thought": "Он будет не пытаться заводить [известный] мотор сегодня.",
+            "english": "He will not try to start the engine today.",
+            "transcription": "[хи: wил нот трай ту ста:т ðи **э**нджин тэд**э**й]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were trying",
+        "examples": [
+          {
+            "ours": "Вчера весь день мы пытались связаться с мариной.",
+            "thought": "Вчера мы были пытающимися связаться [известную] марину весь день.",
+            "english": "Yesterday we were trying to contact the marina all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: тр**а**йиŋ ту кэнт**æ**кт ðэ мэр**и**:нэ о:л дэй]"
+          },
+          {
+            "ours": "Ты пытался поднять парус, когда начался дождь?",
+            "thought": "Был ты пытающимся поднять [известный] парус, когда это начало дождить?",
+            "english": "Were you trying to hoist the sail when it started raining?",
+            "transcription": "[wœ: ю: тр**а**йиŋ ту хойст ðэ сэйл wэн ит ст**а**:тид р**э**йниŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are trying",
+        "examples": [
+          {
+            "ours": "Мы сейчас пытаемся найти причал.",
+            "thought": "Мы являемся пытающимися найти [известный] причал сейчас.",
+            "english": "We are trying to find the berth now.",
+            "transcription": "[wи: а: тр**а**йиŋ ту файнд ðэ бœ:θ нау]"
+          },
+          {
+            "ours": "Она сейчас пробует новый узел?",
+            "thought": "Является она пробующей [какой-то] новый узел сейчас?",
+            "english": "Is she trying a new knot now?",
+            "transcription": "[из ши: тр**а**йиŋ э нью: нот нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be trying",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем пытаться починить насос.",
+            "thought": "Завтра утром мы будем быть пытающимися починить [известный] насос.",
+            "english": "Tomorrow morning we will be trying to repair the pump.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: тр**а**йиŋ ту рип**э**э ðэ памп]"
+          },
+          {
+            "ours": "Ты будешь испытывать новую лодку днём?",
+            "thought": "Будешь ты быть испытывающим [известную] новую лодку этот день?",
+            "english": "Will you be trying the new boat this afternoon?",
+            "transcription": "[wил ю: би: тр**а**йиŋ ðэ нью: боут ðис а:фтэн**у**:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had tried",
+        "examples": [
+          {
+            "ours": "К полудню я уже попробовал три узла.",
+            "thought": "К полудню я имел уже попробованными три узла.",
+            "english": "By noon I had already tried three knots.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди трайд θри: нотс]"
+          },
+          {
+            "ours": "К пяти она попробовала другой ключ?",
+            "thought": "Имела она попробованным другой ключ к пяти?",
+            "english": "Had she tried another key by five?",
+            "transcription": "[хæд ши: трайд эн**а**ðэ ки: бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has tried",
+        "examples": [
+          {
+            "ours": "Я уже попробовал запасной насос.",
+            "thought": "Я имею уже попробованным [известный] запасной насос.",
+            "english": "I have already tried the spare pump.",
+            "transcription": "[ай хæв о:лр**э**ди трайд ðэ спээ памп]"
+          },
+          {
+            "ours": "Ты уже пробовал этот способ швартовки?",
+            "thought": "Имеешь ты попробованным этот швартовочный способ уже?",
+            "english": "Have you tried this mooring method yet?",
+            "transcription": "[хæв ю: трайд ðис м**у**эриŋ м**э**θэд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have tried",
+        "examples": [
+          {
+            "ours": "К полудню мы испробуем все ключи.",
+            "thought": "К полудню мы будем иметь попробованными все [известные] ключи.",
+            "english": "By noon we will have tried all the keys.",
+            "transcription": "[бай ну:н wи: wил хæв трайд о:л ðэ ки:з]"
+          },
+          {
+            "ours": "Она попробует оба компаса к пяти?",
+            "thought": "Будет она иметь попробованными оба компаса к пяти?",
+            "english": "Will she have tried both compasses by five?",
+            "transcription": "[wил ши: хæв трайд боуθ к**а**мпэсиз бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been trying",
+        "examples": [
+          {
+            "ours": "Мы пытались запустить мотор час, когда прибыла помощь.",
+            "thought": "Мы имели быть пытающимися запустить [известный] мотор целый [какой-то] час, когда помощь прибыла.",
+            "english": "We had been trying to start the engine for an hour when help arrived.",
+            "transcription": "[wи: хæд би:н тр**а**йиŋ ту ста:т ðи **э**нджин фо: эн **а**уэ wэн хэлп эр**а**йвд]"
+          },
+          {
+            "ours": "Ты пытался связаться с берегом два часа до рассвета?",
+            "thought": "Имел ты быть пытающимся связаться берег целых два часа перед рассветом?",
+            "english": "Had you been trying to reach shore for two hours before dawn?",
+            "transcription": "[хæд ю: би:н тр**а**йиŋ ту ри:ч шо: фо: ту: **а**уэз биф**о**: до:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been trying",
+        "examples": [
+          {
+            "ours": "Мы пытаемся поднять якорь уже час.",
+            "thought": "Мы имеем быть пытающимися поднять [известный] якорь целый [какой-то] час.",
+            "english": "We have been trying to raise the anchor for an hour.",
+            "transcription": "[wи: хæв би:н тр**а**йиŋ ту рэйз ðи **æ**нкэ фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты уже два часа пытаешься связаться с мариной?",
+            "thought": "Имеешь ты быть пытающимся связаться [известную] марину целых два часа?",
+            "english": "Have you been trying to contact the marina for two hours?",
+            "transcription": "[хæв ю: би:н тр**а**йиŋ ту кэнт**æ**кт ðэ мэр**и**:нэ фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been trying",
+        "examples": [
+          {
+            "ours": "К пяти мы будем пытаться поднять якорь уже два часа.",
+            "thought": "К пяти мы будем иметь быть пытающимися поднять [известный] якорь целых два часа.",
+            "english": "By five we will have been trying to raise the anchor for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н тр**а**йиŋ ту рэйз ðи **æ**нкэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь пытаться связаться с мариной уже час?",
+            "thought": "Будешь ты иметь быть пытающимся связаться [известную] марину целый [какой-то] час к полудню?",
+            "english": "Will you have been trying to contact the marina for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н тр**а**йиŋ ту кэнт**æ**кт ðэ мэр**и**:нэ фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were tried",
+        "examples": [
+          {
+            "ours": "Вчера попробовали запасной насос.",
+            "thought": "[Известный] запасной насос был попробован вчера.",
+            "english": "The spare pump was tried yesterday.",
+            "transcription": "[ðэ спээ памп wоз трайд й**э**стэдэй]"
+          },
+          {
+            "ours": "Другие ключи пробовали?",
+            "thought": "Были [известные] другие ключи попробованы?",
+            "english": "Were the other keys tried?",
+            "transcription": "[wœ: ðи **а**ðэ ки:з трайд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are tried",
+        "examples": [
+          {
+            "ours": "Каждый новый парус испытывают перед гонкой.",
+            "thought": "Каждый новый парус есть испытан перед [известной] гонкой.",
+            "english": "Every new sail is tried before the race.",
+            "transcription": "[**э**ври нью: сэйл из трайд биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Эти лодки испытывают в море?",
+            "thought": "Есть эти лодки испытаны в море?",
+            "english": "Are these boats tried at sea?",
+            "transcription": "[а: ðи:з боутс трайд æт си:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be tried",
+        "examples": [
+          {
+            "ours": "Завтра испытают новый якорь.",
+            "thought": "[Известный] новый якорь будет быть испытан завтра.",
+            "english": "The new anchor will be tried tomorrow.",
+            "transcription": "[ðэ нью: **æ**нкэ wил би: трайд тэм**о**роу]"
+          },
+          {
+            "ours": "Другой насос испытают на воде?",
+            "thought": "Будет [известный] другой насос быть испытан на [известной] воде?",
+            "english": "Will the other pump be tried on the water?",
+            "transcription": "[wил ðи **а**ðэ памп би: трайд он ðэ w**о**:тэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being tried",
+        "examples": [
+          {
+            "ours": "Когда начался дождь, испытывали новый парус.",
+            "thought": "[Известный] новый парус был «долго» испытан, когда это начало дождить.",
+            "english": "The new sail was being tried when it started raining.",
+            "transcription": "[ðэ нью: сэйл wоз б**и**:иŋ трайд wэн ит ст**а**:тид р**э**йниŋ]"
+          },
+          {
+            "ours": "Когда ты пришёл, испытывали запасные моторы?",
+            "thought": "Были [известные] запасные моторы «долго» испытаны, когда ты прибыл?",
+            "english": "Were the spare engines being tried when you arrived?",
+            "transcription": "[wœ: ðэ спээ **э**нджинз б**и**:иŋ трайд wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being tried",
+        "examples": [
+          {
+            "ours": "Новый якорь сейчас испытывают в море.",
+            "thought": "[Известный] новый якорь есть «долго» испытан в море сейчас.",
+            "english": "The new anchor is being tried at sea now.",
+            "transcription": "[ðэ нью: **æ**нкэ из б**и**:иŋ трайд æт си: нау]"
+          },
+          {
+            "ours": "Сейчас испытывают запасные насосы?",
+            "thought": "Есть [известные] запасные насосы «долго» испытаны сейчас?",
+            "english": "Are the spare pumps being tried now?",
+            "transcription": "[а: ðэ спээ пампс б**и**:иŋ трайд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be trying",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут испытывать новые лодки.",
+            "thought": "Завтра утром они будут быть испытывающими [известные] новые лодки.",
+            "english": "Tomorrow morning they will be trying the new boats.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: тр**а**йиŋ ðэ нью: боутс]"
+          },
+          {
+            "ours": "Днём они будут испытывать парус?",
+            "thought": "Будут они быть испытывающими [известный] парус этот день?",
+            "english": "Will they be trying the sail this afternoon?",
+            "transcription": "[wил ðэй би: тр**а**йиŋ ðэ сэйл ðис а:фтэн**у**:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been tried",
+        "examples": [
+          {
+            "ours": "К полудню все ключи уже попробовали.",
+            "thought": "К полудню все [известные] ключи имели уже быть попробованы.",
+            "english": "By noon all the keys had already been tried.",
+            "transcription": "[бай ну:н о:л ðэ ки:з хæд о:лр**э**ди би:н трайд]"
+          },
+          {
+            "ours": "Запасной насос испытали до гонки?",
+            "thought": "Имел [известный] запасной насос быть испытан перед [известной] гонкой?",
+            "english": "Had the spare pump been tried before the race?",
+            "transcription": "[хæд ðэ спээ памп би:н трайд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been tried",
+        "examples": [
+          {
+            "ours": "Новый мотор уже испытали.",
+            "thought": "[Известный] новый мотор имеет уже быть испытан.",
+            "english": "The new engine has already been tried.",
+            "transcription": "[ðэ нью: **э**нджин хæз о:лр**э**ди би:н трайд]"
+          },
+          {
+            "ours": "Другие якоря уже испытывали?",
+            "thought": "Имеют [известные] другие якоря быть испытаны уже?",
+            "english": "Have the other anchors been tried yet?",
+            "transcription": "[хæв ðи **а**ðэ **æ**нкэз би:н трайд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been tried",
+        "examples": [
+          {
+            "ours": "К полудню все ключи уже попробуют.",
+            "thought": "К полудню все [известные] ключи будут иметь быть попробованы.",
+            "english": "By noon all the keys will have been tried.",
+            "transcription": "[бай ну:н о:л ðэ ки:з wил хæв би:н трайд]"
+          },
+          {
+            "ours": "Запасной насос испытают до гонки?",
+            "thought": "Будет [известный] запасной насос иметь быть испытан перед [известной] гонкой?",
+            "english": "Will the spare pump have been tried before the race?",
+            "transcription": "[wил ðэ спээ памп хæв би:н трайд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been trying the new sails."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она попробует новый парус.",
+        "thought": "Я знал, она будет пробовать [известный] новый парус.",
+        "english": "I knew she would try the new sail.",
+        "transcription": "[ай нью: ши: wуд трай ðэ нью: сэйл]"
+      },
+      {
+        "ours": "Он думал, что мы не станем заводить мотор.",
+        "thought": "Он думал, мы будем не пытаться заводить [известный] мотор.",
+        "english": "He thought we would not try to start the engine.",
+        "transcription": "[хи: θо:т wи: wуд нот трай ту ста:т ðи **э**нджин]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "knot",
+      "meaning": "узел",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "knot"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "knot"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "knots"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "мотор",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "engines"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "boats"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "routes"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sails"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "anchorage",
+      "meaning": "якорная стоянка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "anchorage"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "berth",
+      "meaning": "причальное место",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "berth"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "насос",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "pumps"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "meaning": "время после полудня",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "afternoon"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "afternoon"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "key",
+      "meaning": "ключ",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "key"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "keys"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "keys"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "keys"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "keys"
+        }
+      ]
+    },
+    {
+      "word": "mooring",
+      "meaning": "швартовка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "mooring"
+        }
+      ]
+    },
+    {
+      "word": "method",
+      "meaning": "способ",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "method"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "compasses"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "help",
+      "meaning": "помощь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "help"
+        }
+      ]
+    },
+    {
+      "word": "shore",
+      "meaning": "берег",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "shore"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "anchors"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "water"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "spec": 3,
+  "verb": "mean",
+  "forms": {
+    "base": [
+      {
+        "word": "mean",
+        "transcription": "[ми:н]"
+      }
+    ],
+    "past": [
+      {
+        "word": "meant",
+        "transcription": "[мэнт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "meant",
+        "transcription": "[мэнт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "meaning",
+        "transcription": "[м**и**:ниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "means",
+        "transcription": "[ми:нз]"
+      }
+    ]
+  },
+  "meaning": "означать, иметь в виду",
+  "notes": "неправильный глагол; в этих значениях обычно обозначает состояние",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "meant",
+        "examples": [
+          {
+            "ours": "Вчера этот флаг означал опасность.",
+            "thought": "Вчера этот флаг означал опасность.",
+            "english": "Yesterday this flag meant danger.",
+            "transcription": "[й**э**стэдэй ðис флæг мэнт д**э**йнджэ]"
+          },
+          {
+            "ours": "Сигнал не означал отказ.",
+            "thought": "[Известный] сигнал [сделал] не означать отказ.",
+            "english": "The signal did not mean refusal.",
+            "transcription": "[ðэ с**и**гнл дид нот ми:н рифь**ю**:зл]"
+          },
+          {
+            "ours": "Ты имел в виду этот буй?",
+            "thought": "[Сделал] ты иметь в виду этот буй?",
+            "english": "Did you mean this buoy?",
+            "transcription": "[дид ю: ми:н ðис бой]"
+          }
+        ]
+      },
+      "present": {
+        "form": "mean, means",
+        "examples": [
+          {
+            "ours": "Этот флаг означает опасность.",
+            "thought": "Этот флаг означает опасность.",
+            "english": "This flag means danger.",
+            "transcription": "[ðис флæг ми:нз д**э**йнджэ]"
+          },
+          {
+            "ours": "Этот сигнал не означает старт.",
+            "thought": "Этот сигнал [делает] не означать [известный] старт.",
+            "english": "This signal does not mean the start.",
+            "transcription": "[ðис с**и**гнл даз нот ми:н ðэ ста:т]"
+          },
+          {
+            "ours": "Что означает этот флаг?",
+            "thought": "Что [делает] этот флаг означать?",
+            "english": "What does this flag mean?",
+            "transcription": "[wот даз ðис флæг ми:н]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will mean",
+        "examples": [
+          {
+            "ours": "Этот флаг будет означать финиш.",
+            "thought": "Этот флаг будет означать [известный] финиш.",
+            "english": "This flag will mean the finish.",
+            "transcription": "[ðис флæг wил ми:н ðэ ф**и**ниш]"
+          },
+          {
+            "ours": "Этот сигнал не будет означать отмену.",
+            "thought": "Этот сигнал будет не означать отмену.",
+            "english": "This signal will not mean cancellation.",
+            "transcription": "[ðис с**и**гнл wил нот ми:н кæнсэл**э**йшн]"
+          },
+          {
+            "ours": "Этот флаг будет означать старт?",
+            "thought": "Будет этот флаг означать [известный] старт?",
+            "english": "Will this flag mean the start?",
+            "transcription": "[wил ðис флæг ми:н ðэ ста:т]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Mean в значении «означать» или «иметь в виду» обычно описывает состояние и не употребляется в длительной форме. Вместо этого скажут: This flag means danger."
+    },
+    "perfect": {
+      "past": {
+        "form": "had meant",
+        "examples": [
+          {
+            "ours": "До изменения правил этот флаг означал финиш.",
+            "thought": "Перед [известным] изменением этот флаг имел означенным [известный] финиш.",
+            "english": "Before the change this flag had meant the finish.",
+            "transcription": "[биф**о**: ðэ чэйндж ðис флæг хæд мэнт ðэ ф**и**ниш]"
+          },
+          {
+            "ours": "До гонки этот сигнал означал старт?",
+            "thought": "Имел этот сигнал означенным [известный] старт перед [известной] гонкой?",
+            "english": "Had this signal meant the start before the race?",
+            "transcription": "[хæд ðис с**и**гнл мэнт ðэ ста:т биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has meant",
+        "examples": [
+          {
+            "ours": "Этот флаг много лет означал опасность.",
+            "thought": "Этот флаг имеет означенной опасность целые годы.",
+            "english": "This flag has meant danger for years.",
+            "transcription": "[ðис флæг хæз мэнт д**э**йнджэ фо: йиэз]"
+          },
+          {
+            "ours": "Этот сигнал давно означает старт?",
+            "thought": "Имеет этот сигнал означенным [известный] старт целое долго?",
+            "english": "Has this signal meant the start for long?",
+            "transcription": "[хæз ðис с**и**гнл мэнт ðэ ста:т фо: лоŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have meant",
+        "not_possible": "Обычно не подводят итог состоянию значения к будущему моменту; скажут: This flag will mean danger."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Mean в значении «означать» обычно не употребляется в этой длительной форме. Вместо этого скажут: This flag has meant danger for years."
+    }
+  },
+  "passive": {
+    "not_possible": "В значении «означать» пассив обычно не строится; в значении «иметь в виду» возможны отдельные конструкции, например: That was not what I meant."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что этот флаг будет означать финиш.",
+        "thought": "Я знал, этот флаг будет означать [известный] финиш.",
+        "english": "I knew this flag would mean the finish.",
+        "transcription": "[ай нью: ðис флæг wуд ми:н ðэ ф**и**ниш]"
+      },
+      {
+        "ours": "Она думала, что сигнал не будет означать старт.",
+        "thought": "Она думала, [известный] сигнал будет не означать [известный] старт.",
+        "english": "She thought the signal would not mean the start.",
+        "transcription": "[ши: θо:т ðэ с**и**гнл wуд нот ми:н ðэ ста:т]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "flag",
+      "meaning": "флаг",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "flag"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "flag"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "flag"
+        }
+      ]
+    },
+    {
+      "word": "danger",
+      "meaning": "опасность",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "danger"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "danger"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "danger"
+        }
+      ]
+    },
+    {
+      "word": "signal",
+      "meaning": "сигнал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "signal"
+        }
+      ]
+    },
+    {
+      "word": "refusal",
+      "meaning": "отказ",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "refusal"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "meaning": "буй",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "buoy"
+        }
+      ]
+    },
+    {
+      "word": "start",
+      "meaning": "старт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "start"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "start"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "start"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "start"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "start"
+        }
+      ]
+    },
+    {
+      "word": "finish",
+      "meaning": "финиш",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "finish"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "finish"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "finish"
+        }
+      ]
+    },
+    {
+      "word": "cancellation",
+      "meaning": "отмена",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "cancellation"
+        }
+      ]
+    },
+    {
+      "word": "change",
+      "meaning": "изменение",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "change"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "years"
+        }
+      ]
+    }
+  ]
+}

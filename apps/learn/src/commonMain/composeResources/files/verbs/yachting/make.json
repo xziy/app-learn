@@ -1,0 +1,906 @@
+{
+  "spec": 3,
+  "verb": "make",
+  "forms": {
+    "base": [
+      {
+        "word": "make",
+        "transcription": "[мэйк]"
+      }
+    ],
+    "past": [
+      {
+        "word": "made",
+        "transcription": "[мэйд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "made",
+        "transcription": "[мэйд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "making",
+        "transcription": "[м**э**йкиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "makes",
+        "transcription": "[мэйкс]"
+      }
+    ]
+  },
+  "meaning": "делать, строить, готовить, принимать решение",
+  "notes": "неправильный переходный глагол, имеет пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "made",
+        "examples": [
+          {
+            "ours": "Вчера мы составили план.",
+            "thought": "Вчера мы сделали [какой-то] план.",
+            "english": "Yesterday we made a plan.",
+            "transcription": "[й**э**стэдэй wи: мэйд э плæн]"
+          },
+          {
+            "ours": "Капитан не сделал отметку.",
+            "thought": "[Известный] шкипер [сделал] не делать [какую-то] отметку.",
+            "english": "The skipper did not make a mark.",
+            "transcription": "[ðэ ск**и**пэ дид нот мэйк э ма:к]"
+          },
+          {
+            "ours": "Ты приготовил ужин?",
+            "thought": "[Сделал] ты делать ужин?",
+            "english": "Did you make dinner?",
+            "transcription": "[дид ю: мэйк д**и**нэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "make, makes",
+        "examples": [
+          {
+            "ours": "Капитан принимает решения.",
+            "thought": "[Известный] шкипер делает решения.",
+            "english": "The skipper makes decisions.",
+            "transcription": "[ðэ ск**и**пэ мэйкс дис**и**жнз]"
+          },
+          {
+            "ours": "Мы не строим лодки.",
+            "thought": "Мы [делаем] не делать лодки.",
+            "english": "We do not make boats.",
+            "transcription": "[wи: ду: нот мэйк боутс]"
+          },
+          {
+            "ours": "Ты каждый день готовишь завтрак?",
+            "thought": "[Делаешь] ты делать завтрак каждый день?",
+            "english": "Do you make breakfast every day?",
+            "transcription": "[ду: ю: мэйк бр**э**кфэст **э**ври дэй]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will make",
+        "examples": [
+          {
+            "ours": "Завтра мы составим маршрут.",
+            "thought": "Завтра мы будем делать [какой-то] план.",
+            "english": "Tomorrow we will make a plan.",
+            "transcription": "[тэм**о**роу wи: wил мэйк э плæн]"
+          },
+          {
+            "ours": "Она не будет готовить ужин.",
+            "thought": "Она будет не делать ужин.",
+            "english": "She will not make dinner.",
+            "transcription": "[ши: wил нот мэйк д**и**нэ]"
+          },
+          {
+            "ours": "Ты отметишь это на карте?",
+            "thought": "Будешь ты делать [какую-то] отметку на [известной] карте?",
+            "english": "Will you make a mark on the chart?",
+            "transcription": "[wил ю: мэйк э ма:к он ðэ ча:т]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were making",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день составляли план.",
+            "thought": "Вчера мы были делающими [какой-то] план весь день.",
+            "english": "Yesterday we were making a plan all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: м**э**йкиŋ э плæн о:л дэй]"
+          },
+          {
+            "ours": "Вчера в пять ты готовил ужин?",
+            "thought": "Был ты делающим ужин в пять вчера?",
+            "english": "Were you making dinner at five yesterday?",
+            "transcription": "[wœ: ю: м**э**йкиŋ д**и**нэ æт файв й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are making",
+        "examples": [
+          {
+            "ours": "Я сейчас готовлю ужин.",
+            "thought": "Я являюсь делающим ужин сейчас.",
+            "english": "I am making dinner now.",
+            "transcription": "[ай æм м**э**йкиŋ д**и**нэ нау]"
+          },
+          {
+            "ours": "Она сейчас не составляет план.",
+            "thought": "Она является не делающей [какой-то] план сейчас.",
+            "english": "She is not making a plan now.",
+            "transcription": "[ши: из нот м**э**йкиŋ э плæн нау]"
+          },
+          {
+            "ours": "Ты сейчас готовишь завтрак?",
+            "thought": "Являешься ты делающим завтрак сейчас?",
+            "english": "Are you making breakfast now?",
+            "transcription": "[а: ю: м**э**йкиŋ бр**э**кфэст нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be making",
+        "examples": [
+          {
+            "ours": "Завтра весь день мы будем строить лодку.",
+            "thought": "Завтра мы будем быть делающими [какую-то] лодку весь день.",
+            "english": "Tomorrow we will be making a boat all day.",
+            "transcription": "[тэм**о**роу wи: wил би: м**э**йкиŋ э боут о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь готовить ужин в шесть?",
+            "thought": "Будешь ты быть делающим ужин в шесть?",
+            "english": "Will you be making dinner at six?",
+            "transcription": "[wил ю: би: м**э**йкиŋ д**и**нэ æт сикс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had made",
+        "examples": [
+          {
+            "ours": "К пяти мы составили план.",
+            "thought": "К пяти мы имели сделанным [какой-то] план.",
+            "english": "By five we had made a plan.",
+            "transcription": "[бай файв wи: хæд мэйд э плæн]"
+          },
+          {
+            "ours": "К тому времени она ещё не приготовила ужин.",
+            "thought": "К тогда она имела не сделанным ужин ещё.",
+            "english": "By then she had not made dinner yet.",
+            "transcription": "[бай ðэн ши: хæд нот мэйд д**и**нэ йэт]"
+          },
+          {
+            "ours": "К пяти капитан принял решение?",
+            "thought": "Имел [известный] шкипер сделанным [какое-то] решение к пяти?",
+            "english": "Had the skipper made a decision by five?",
+            "transcription": "[хæд ðэ ск**и**пэ мэйд э дис**и**жн бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has made",
+        "examples": [
+          {
+            "ours": "Мы уже составили план.",
+            "thought": "Мы имеем уже сделанным [какой-то] план.",
+            "english": "We have already made a plan.",
+            "transcription": "[wи: хæв о:лр**э**ди мэйд э плæн]"
+          },
+          {
+            "ours": "Я ещё не приготовил завтрак.",
+            "thought": "Я имею не сделанным завтрак ещё.",
+            "english": "I have not made breakfast yet.",
+            "transcription": "[ай хæв нот мэйд бр**э**кфэст йэт]"
+          },
+          {
+            "ours": "Капитан уже принял решение?",
+            "thought": "Имеет [известный] шкипер сделанным [какое-то] решение уже?",
+            "english": "Has the skipper made a decision yet?",
+            "transcription": "[хæз ðэ ск**и**пэ мэйд э дис**и**жн йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have made",
+        "examples": [
+          {
+            "ours": "К завтрашнему дню мы составим план.",
+            "thought": "К завтра мы будем иметь сделанным [какой-то] план.",
+            "english": "By tomorrow we will have made a plan.",
+            "transcription": "[бай тэм**о**роу wи: wил хæв мэйд э плæн]"
+          },
+          {
+            "ours": "К шести она ещё не приготовит ужин.",
+            "thought": "К шести она будет не иметь сделанным ужин ещё.",
+            "english": "By six she will not have made dinner yet.",
+            "transcription": "[бай сикс ши: wил нот хæв мэйд д**и**нэ йэт]"
+          },
+          {
+            "ours": "К пяти капитан примет решение?",
+            "thought": "Будет [известный] шкипер иметь сделанным [какое-то] решение к пяти?",
+            "english": "Will the skipper have made a decision by five?",
+            "transcription": "[wил ðэ ск**и**пэ хæв мэйд э дис**и**жн бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been making",
+        "examples": [
+          {
+            "ours": "Мы строили лодку два месяца, когда он приехал.",
+            "thought": "Мы имели быть делающими [какую-то] лодку целых два месяца, когда он прибыл.",
+            "english": "We had been making a boat for two months when he arrived.",
+            "transcription": "[wи: хæд би:н м**э**йкиŋ э боут фо: ту: манθс wэн хи: эр**а**йвд]"
+          },
+          {
+            "ours": "Они строили лодки много лет, когда встретили тебя?",
+            "thought": "Имели они быть делающими лодки целые годы, когда они встретили тебя?",
+            "english": "Had they been making boats for years when they met you?",
+            "transcription": "[хæд ðэй би:н м**э**йкиŋ боутс фо: йиэз wэн ðэй мэт ю:]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been making",
+        "examples": [
+          {
+            "ours": "Она строит лодки уже много лет.",
+            "thought": "Она имеет быть делающей лодки целые годы.",
+            "english": "She has been making boats for years.",
+            "transcription": "[ши: хæз би:н м**э**йкиŋ боутс фо: йиэз]"
+          },
+          {
+            "ours": "Вы строите эту лодку уже два месяца?",
+            "thought": "Имеете вы быть делающими эту лодку целых два месяца?",
+            "english": "Have you been making this boat for two months?",
+            "transcription": "[хæв ю: би:н м**э**йкиŋ ðис боут фо: ту: манθс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been making",
+        "examples": [
+          {
+            "ours": "К июню мы будем строить лодки уже десять лет.",
+            "thought": "К июню мы будем иметь быть делающими лодки целых десять лет.",
+            "english": "By June we will have been making boats for ten years.",
+            "transcription": "[бай джу:н wи: wил хæв би:н м**э**йкиŋ боутс фо: тэн йиэз]"
+          },
+          {
+            "ours": "К июню ты будешь строить лодки уже десять лет?",
+            "thought": "Будешь ты иметь быть делающим лодки целых десять лет к июню?",
+            "english": "Will you have been making boats for ten years by June?",
+            "transcription": "[wил ю: хæв би:н м**э**йкиŋ боутс фо: тэн йиэз бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were made",
+        "examples": [
+          {
+            "ours": "План составили вчера.",
+            "thought": "[Известный] план был сделан вчера.",
+            "english": "The plan was made yesterday.",
+            "transcription": "[ðэ плæн wоз мэйд й**э**стэдэй]"
+          },
+          {
+            "ours": "Решение вчера не приняли.",
+            "thought": "[Известное] решение было не сделано вчера.",
+            "english": "The decision was not made yesterday.",
+            "transcription": "[ðэ дис**и**жн wоз нот мэйд й**э**стэдэй]"
+          },
+          {
+            "ours": "Лодку сделали здесь?",
+            "thought": "Была [известная] лодка сделана здесь?",
+            "english": "Was the boat made here?",
+            "transcription": "[wоз ðэ боут мэйд хиэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are made",
+        "examples": [
+          {
+            "ours": "Эти лодки делают здесь.",
+            "thought": "Эти лодки есть сделаны здесь.",
+            "english": "These boats are made here.",
+            "transcription": "[ðи:з боутс а: мэйд хиэ]"
+          },
+          {
+            "ours": "Паруса не делают здесь.",
+            "thought": "Паруса есть не сделаны здесь.",
+            "english": "Sails are not made here.",
+            "transcription": "[сэйлз а: нот мэйд хиэ]"
+          },
+          {
+            "ours": "Эти решения принимают на борту?",
+            "thought": "Есть эти решения сделаны на борту?",
+            "english": "Are these decisions made on board?",
+            "transcription": "[а: ðи:з дис**и**жнз мэйд он бо:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be made",
+        "examples": [
+          {
+            "ours": "План составят завтра.",
+            "thought": "[Известный] план будет быть сделан завтра.",
+            "english": "The plan will be made tomorrow.",
+            "transcription": "[ðэ плæн wил би: мэйд тэм**о**роу]"
+          },
+          {
+            "ours": "Решение завтра не примут.",
+            "thought": "[Известное] решение будет не быть сделано завтра.",
+            "english": "The decision will not be made tomorrow.",
+            "transcription": "[ðэ дис**и**жн wил нот би: мэйд тэм**о**роу]"
+          },
+          {
+            "ours": "Лодку построят здесь?",
+            "thought": "Будет [известная] лодка быть сделана здесь?",
+            "english": "Will the boat be made here?",
+            "transcription": "[wил ðэ боут би: мэйд хиэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being made",
+        "examples": [
+          {
+            "ours": "Вчера лодку строили весь день.",
+            "thought": "Вчера [известная] лодка была «долго» сделана весь день.",
+            "english": "Yesterday the boat was being made all day.",
+            "transcription": "[й**э**стэдэй ðэ боут wоз б**и**:иŋ мэйд о:л дэй]"
+          },
+          {
+            "ours": "Вчера весь день шили парус?",
+            "thought": "Был [известный] парус «долго» сделан весь день вчера?",
+            "english": "Was the sail being made all day yesterday?",
+            "transcription": "[wоз ðэ сэйл б**и**:иŋ мэйд о:л дэй й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being made",
+        "examples": [
+          {
+            "ours": "Сейчас строят лодку.",
+            "thought": "[Известная] лодка есть «долго» сделана сейчас.",
+            "english": "The boat is being made now.",
+            "transcription": "[ðэ боут из б**и**:иŋ мэйд нау]"
+          },
+          {
+            "ours": "Парус сейчас не шьют.",
+            "thought": "[Известный] парус есть не «долго» сделан сейчас.",
+            "english": "The sail is not being made now.",
+            "transcription": "[ðэ сэйл из нот б**и**:иŋ мэйд нау]"
+          },
+          {
+            "ours": "Лодку сейчас строят здесь?",
+            "thought": "Есть [известная] лодка «долго» сделана здесь сейчас?",
+            "english": "Is the boat being made here now?",
+            "transcription": "[из ðэ боут б**и**:иŋ мэйд хиэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be making",
+        "examples": [
+          {
+            "ours": "Завтра весь день они будут строить лодку.",
+            "thought": "Завтра они будут быть делающими [какую-то] лодку весь день.",
+            "english": "Tomorrow they will be making a boat all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: м**э**йкиŋ э боут о:л дэй]"
+          },
+          {
+            "ours": "Завтра они весь день будут шить парус?",
+            "thought": "Будут они быть делающими [какой-то] парус весь день завтра?",
+            "english": "Will they be making a sail all day tomorrow?",
+            "transcription": "[wил ðэй би: м**э**йкиŋ э сэйл о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been made",
+        "examples": [
+          {
+            "ours": "К пяти план уже составили.",
+            "thought": "К пяти [известный] план имел уже быть сделан.",
+            "english": "By five the plan had already been made.",
+            "transcription": "[бай файв ðэ плæн хæд о:лр**э**ди би:н мэйд]"
+          },
+          {
+            "ours": "К тому времени решение ещё не приняли.",
+            "thought": "К тогда [известное] решение имело не быть сделано ещё.",
+            "english": "By then the decision had not been made yet.",
+            "transcription": "[бай ðэн ðэ дис**и**жн хæд нот би:н мэйд йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been made",
+        "examples": [
+          {
+            "ours": "План уже составлен.",
+            "thought": "[Известный] план имеет уже быть сделан.",
+            "english": "The plan has already been made.",
+            "transcription": "[ðэ плæн хæз о:лр**э**ди би:н мэйд]"
+          },
+          {
+            "ours": "Решение ещё не принято.",
+            "thought": "[Известное] решение имеет не быть сделано ещё.",
+            "english": "The decision has not been made yet.",
+            "transcription": "[ðэ дис**и**жн хæз нот би:н мэйд йэт]"
+          },
+          {
+            "ours": "Лодка уже построена?",
+            "thought": "Имеет [известная] лодка быть сделана уже?",
+            "english": "Has the boat been made yet?",
+            "transcription": "[хæз ðэ боут би:н мэйд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been made",
+        "examples": [
+          {
+            "ours": "К пяти план будет составлен.",
+            "thought": "К пяти [известный] план будет иметь быть сделан.",
+            "english": "By five the plan will have been made.",
+            "transcription": "[бай файв ðэ плæн wил хæв би:н мэйд]"
+          },
+          {
+            "ours": "К шести решение ещё не будет принято.",
+            "thought": "К шести [известное] решение будет не иметь быть сделано ещё.",
+            "english": "By six the decision will not have been made yet.",
+            "transcription": "[бай сикс ðэ дис**и**жн wил нот хæв би:н мэйд йэт]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него скажут: They have been making the boat."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что мы составим план.",
+        "thought": "Я знал, мы будем делать [какой-то] план.",
+        "english": "I knew we would make a plan.",
+        "transcription": "[ай нью: wи: wуд мэйк э плæн]"
+      },
+      {
+        "ours": "Она думала, что капитан не примет решение.",
+        "thought": "Она думала, [известный] шкипер будет не делать [какое-то] решение.",
+        "english": "She thought the skipper would not make a decision.",
+        "transcription": "[ши: θо:т ðэ ск**и**пэ wуд нот мэйк э дис**и**жн]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "plan",
+      "meaning": "план",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "plan"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "mark",
+      "meaning": "отметка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "mark"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "mark"
+        }
+      ]
+    },
+    {
+      "word": "dinner",
+      "meaning": "ужин",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "dinner"
+        }
+      ]
+    },
+    {
+      "word": "decision",
+      "meaning": "решение",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "decisions"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "decision"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "decision"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "decision"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "decision"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "decisions"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "decision"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "decision"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "decision"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "decision"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "decision"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "breakfast",
+      "meaning": "завтрак",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "breakfast"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "breakfast"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "breakfast"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "months"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "months"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "sails"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "board"
+        }
+      ]
+    }
+  ]
+}

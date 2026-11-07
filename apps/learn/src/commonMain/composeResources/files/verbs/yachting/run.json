@@ -1,0 +1,561 @@
+{
+  "spec": 3,
+  "verb": "run",
+  "forms": {
+    "base": [
+      {
+        "word": "run",
+        "transcription": "[ран]"
+      }
+    ],
+    "past": [
+      {
+        "word": "ran",
+        "transcription": "[рæн]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "run",
+        "transcription": "[ран]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "running",
+        "transcription": "[р**а**ниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "runs",
+        "transcription": "[ранз]"
+      }
+    ]
+  },
+  "meaning": "работать (о двигателе), ходить",
+  "notes": "неправильный глагол; в значении работы механизма непереходный",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "ran",
+        "examples": [
+          {
+            "ours": "Вчера двигатель работал нормально.",
+            "thought": "Вчера [известный] двигатель работал плавно.",
+            "english": "Yesterday the engine ran smoothly.",
+            "transcription": "[й**э**стэдэй ðи **э**нджин рæн см**у**:ðли]"
+          },
+          {
+            "ours": "Двигатель не работал ночью.",
+            "thought": "[Известный] двигатель [сделал] не работать ночью.",
+            "english": "The engine did not run overnight.",
+            "transcription": "[ðи **э**нджин дид нот ран оувэн**а**йт]"
+          },
+          {
+            "ours": "Генератор работал вчера?",
+            "thought": "[Сделал] [известный] генератор работать вчера?",
+            "english": "Did the generator run yesterday?",
+            "transcription": "[дид ðэ дж**э**нэрэйтэ ран й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "run, runs",
+        "examples": [
+          {
+            "ours": "Двигатель работает тихо.",
+            "thought": "[Известный] двигатель работает тихо.",
+            "english": "The engine runs quietly.",
+            "transcription": "[ðи **э**нджин ранз кв**а**йэтли]"
+          },
+          {
+            "ours": "Генератор не работает на дизельном топливе.",
+            "thought": "[Известный] генератор [делает] не работать на дизеле.",
+            "english": "The generator does not run on diesel.",
+            "transcription": "[ðэ дж**э**нэрэйтэ даз нот ран он д**и**:зл]"
+          },
+          {
+            "ours": "Насос работает от аккумулятора?",
+            "thought": "[Делает] [известный] насос работать на [известном] аккумуляторе?",
+            "english": "Does the pump run on the battery?",
+            "transcription": "[даз ðэ памп ран он ðэ б**æ**тэри]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will run",
+        "examples": [
+          {
+            "ours": "Завтра двигатель будет работать весь день.",
+            "thought": "Завтра [известный] двигатель будет работать весь день.",
+            "english": "Tomorrow the engine will run all day.",
+            "transcription": "[тэм**о**роу ðи **э**нджин wил ран о:л дэй]"
+          },
+          {
+            "ours": "Насос не будет работать без электричества.",
+            "thought": "[Известный] насос будет не работать без электричества.",
+            "english": "The pump will not run without power.",
+            "transcription": "[ðэ памп wил нот ран wиð**а**ут п**а**уэ]"
+          },
+          {
+            "ours": "Генератор будет работать ночью?",
+            "thought": "Будет [известный] генератор работать ночью?",
+            "english": "Will the generator run overnight?",
+            "transcription": "[wил ðэ дж**э**нэрэйтэ ран оувэн**а**йт]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were running",
+        "examples": [
+          {
+            "ours": "Вчера двигатель работал весь день.",
+            "thought": "Вчера [известный] двигатель был работающим весь день.",
+            "english": "Yesterday the engine was running all day.",
+            "transcription": "[й**э**стэдэй ðи **э**нджин wоз р**а**ниŋ о:л дэй]"
+          },
+          {
+            "ours": "Насос работал, когда ты прибыл?",
+            "thought": "Был [известный] насос работающим, когда ты прибыл?",
+            "english": "Was the pump running when you arrived?",
+            "transcription": "[wоз ðэ памп р**а**ниŋ wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are running",
+        "examples": [
+          {
+            "ours": "Двигатель сейчас работает.",
+            "thought": "[Известный] двигатель является работающим сейчас.",
+            "english": "The engine is running now.",
+            "transcription": "[ðи **э**нджин из р**а**ниŋ нау]"
+          },
+          {
+            "ours": "Генератор сейчас не работает.",
+            "thought": "[Известный] генератор является не работающим сейчас.",
+            "english": "The generator is not running now.",
+            "transcription": "[ðэ дж**э**нэрэйтэ из нот р**а**ниŋ нау]"
+          },
+          {
+            "ours": "Насос сейчас работает?",
+            "thought": "Является [известный] насос работающим сейчас?",
+            "english": "Is the pump running now?",
+            "transcription": "[из ðэ памп р**а**ниŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be running",
+        "examples": [
+          {
+            "ours": "Завтра двигатель будет работать весь день.",
+            "thought": "Завтра [известный] двигатель будет быть работающим весь день.",
+            "english": "Tomorrow the engine will be running all day.",
+            "transcription": "[тэм**о**роу ðи **э**нджин wил би: р**а**ниŋ о:л дэй]"
+          },
+          {
+            "ours": "Насос будет работать в пять?",
+            "thought": "Будет [известный] насос быть работающим в пять?",
+            "english": "Will the pump be running at five?",
+            "transcription": "[wил ðэ памп би: р**а**ниŋ æт файв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had run",
+        "examples": [
+          {
+            "ours": "К полудню двигатель проработал два часа.",
+            "thought": "К полудню [известный] двигатель имел проработанным целых два часа.",
+            "english": "By noon the engine had run for two hours.",
+            "transcription": "[бай ну:н ðи **э**нджин хæд ран фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти насос проработал час?",
+            "thought": "Имел [известный] насос проработанным целый [какой-то] час к пяти?",
+            "english": "Had the pump run for an hour by five?",
+            "transcription": "[хæд ðэ памп ран фо: эн ауэ бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has run",
+        "examples": [
+          {
+            "ours": "Двигатель проработал уже два часа.",
+            "thought": "[Известный] двигатель имеет уже проработанным целых два часа.",
+            "english": "The engine has already run for two hours.",
+            "transcription": "[ðи **э**нджин хæз о:лр**э**ди ран фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Насос уже проработал час?",
+            "thought": "Имеет [известный] насос проработанным целый [какой-то] час уже?",
+            "english": "Has the pump run for an hour yet?",
+            "transcription": "[хæз ðэ памп ран фо: эн ауэ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have run",
+        "examples": [
+          {
+            "ours": "К полудню двигатель проработает два часа.",
+            "thought": "К полудню [известный] двигатель будет иметь проработанным целых два часа.",
+            "english": "By noon the engine will have run for two hours.",
+            "transcription": "[бай ну:н ðи **э**нджин wил хæв ран фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти насос проработает час?",
+            "thought": "Будет [известный] насос иметь проработанным целый [какой-то] час к пяти?",
+            "english": "Will the pump have run for an hour by five?",
+            "transcription": "[wил ðэ памп хæв ран фо: эн ауэ бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been running",
+        "examples": [
+          {
+            "ours": "Двигатель работал два часа, когда мы вышли из гавани.",
+            "thought": "[Известный] двигатель имел быть работающим целых два часа, когда мы покинули [известную] гавань.",
+            "english": "The engine had been running for two hours when we left the harbor.",
+            "transcription": "[ðи **э**нджин хæд би:н р**а**ниŋ фо: ту: **а**уэз wэн wи: лэфт ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Насос давно работал, когда ты прибыл?",
+            "thought": "Имел [известный] насос быть работающим долго, когда ты прибыл?",
+            "english": "Had the pump been running long when you arrived?",
+            "transcription": "[хæд ðэ памп би:н р**а**ниŋ лоŋ wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been running",
+        "examples": [
+          {
+            "ours": "Двигатель работает уже два часа.",
+            "thought": "[Известный] двигатель имеет быть работающим целых два часа.",
+            "english": "The engine has been running for two hours.",
+            "transcription": "[ðи **э**нджин хæз би:н р**а**ниŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Насос работает уже час?",
+            "thought": "Имеет [известный] насос быть работающим целый [какой-то] час?",
+            "english": "Has the pump been running for an hour?",
+            "transcription": "[хæз ðэ памп би:н р**а**ниŋ фо: эн ауэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been running",
+        "examples": [
+          {
+            "ours": "К полудню двигатель будет работать уже два часа.",
+            "thought": "К полудню [известный] двигатель будет иметь быть работающим целых два часа.",
+            "english": "By noon the engine will have been running for two hours.",
+            "transcription": "[бай ну:н ðи **э**нджин wил хæв би:н р**а**ниŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти насос будет работать уже час?",
+            "thought": "Будет [известный] насос иметь быть работающим целый [какой-то] час к пяти?",
+            "english": "Will the pump have been running for an hour by five?",
+            "transcription": "[wил ðэ памп хæв би:н р**а**ниŋ фо: эн ауэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "В значении работы механизма run непереходный и не образует пассив. Переходное run в значении управления возможно отдельно: The engine is run at low speed."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что двигатель будет работать.",
+        "thought": "Я знал, [известный] двигатель будет работать.",
+        "english": "I knew the engine would run.",
+        "transcription": "[ай нью: ðи **э**нджин wуд ран]"
+      },
+      {
+        "ours": "Она думала, что насос не будет работать ночью.",
+        "thought": "Она думала, [известный] насос будет не работать ночью.",
+        "english": "She thought the pump would not run overnight.",
+        "transcription": "[ши: θо:т ðэ памп wуд нот ран оувэн**а**йт]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "generator",
+      "meaning": "генератор",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "generator"
+        }
+      ]
+    },
+    {
+      "word": "diesel",
+      "meaning": "дизельное топливо",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "diesel"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "насос",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "battery",
+      "meaning": "аккумулятор",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "battery"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "power",
+      "meaning": "электроэнергия",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "power"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "harbor"
+        }
+      ]
+    }
+  ]
+}

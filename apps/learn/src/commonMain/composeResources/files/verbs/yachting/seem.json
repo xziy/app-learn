@@ -1,0 +1,378 @@
+{
+  "spec": 3,
+  "verb": "seem",
+  "forms": {
+    "base": [
+      {
+        "word": "seem",
+        "transcription": "[си:м]"
+      }
+    ],
+    "past": [
+      {
+        "word": "seemed",
+        "transcription": "[си:мд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "seemed",
+        "transcription": "[си:мд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "seeming",
+        "transcription": "[с**и**:миŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "seems",
+        "transcription": "[си:мз]"
+      }
+    ]
+  },
+  "meaning": "казаться, представляться",
+  "notes": "правильный связочный глагол состояния, пассив не образует",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "seemed",
+        "examples": [
+          {
+            "ours": "Вчера яхта казалась устойчивой.",
+            "thought": "Вчера [известная] яхта казалась устойчивой.",
+            "english": "Yesterday the yacht seemed stable.",
+            "transcription": "[й**э**стэдэй ðэ йот си:мд ст**э**йбл]"
+          },
+          {
+            "ours": "Экипаж не казался уставшим до гонки.",
+            "thought": "[Известный] экипаж [сделал] не казаться уставшим перед [известной] гонкой.",
+            "english": "The crew didn't seem tired before the race.",
+            "transcription": "[ðэ кру: диднт си:м т**а**йэд биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Гавань казалась безопасной до шторма?",
+            "thought": "[Сделала] [известная] гавань казаться безопасной перед [известным] штормом?",
+            "english": "Did the harbor seem safe before the storm?",
+            "transcription": "[дид ðэ х**а**:бэ си:м сэйф биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "seem, seems",
+        "examples": [
+          {
+            "ours": "Сейчас море кажется спокойным.",
+            "thought": "[Известное] море кажется спокойным сейчас.",
+            "english": "The sea seems calm now.",
+            "transcription": "[ðэ си: си:мз ка:м нау]"
+          },
+          {
+            "ours": "Яхта не кажется устойчивой.",
+            "thought": "[Известная] яхта [делает] не казаться устойчивой.",
+            "english": "The yacht doesn't seem stable.",
+            "transcription": "[ðэ йот дазнт си:м ст**э**йбл]"
+          },
+          {
+            "ours": "Экипаж кажется тебе уставшим?",
+            "thought": "[Делает] [известный] экипаж казаться уставшим к тебе?",
+            "english": "Does the crew seem tired to you?",
+            "transcription": "[даз ðэ кру: си:м т**а**йэд ту ю:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will seem",
+        "examples": [
+          {
+            "ours": "Завтра гавань покажется безопасной.",
+            "thought": "Завтра [известная] гавань будет казаться безопасной.",
+            "english": "Tomorrow the harbor will seem safe.",
+            "transcription": "[тэм**о**роу ðэ х**а**:бэ wил си:м сэйф]"
+          },
+          {
+            "ours": "После шторма море не покажется спокойным.",
+            "thought": "[Известное] море будет не казаться спокойным после [известного] шторма.",
+            "english": "The sea won't seem calm after the storm.",
+            "transcription": "[ðэ си: wоунт си:м ка:м **а**:фтэ ðэ сто:м]"
+          },
+          {
+            "ours": "Парус покажется повреждённым при этом свете?",
+            "thought": "Будет [известный] парус казаться повреждённым в этом свете?",
+            "english": "Will the sail seem damaged in this light?",
+            "transcription": "[wил ðэ сэйл си:м д**æ**миджд ин ðис лайт]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "В значении «казаться» seem обычно не употребляется в длительной форме. Вместо The yacht is seeming stable скажут: The yacht seems stable."
+    },
+    "perfect": {
+      "past": {
+        "form": "had seemed",
+        "examples": [
+          {
+            "ours": "До шторма гавань казалась безопасной.",
+            "thought": "Перед [известным] штормом [известная] гавань имела казавшимся безопасной.",
+            "english": "Before the storm the harbor had seemed safe.",
+            "transcription": "[биф**о**: ðэ сто:м ðэ х**а**:бэ хæд си:мд сэйф]"
+          },
+          {
+            "ours": "Парус не казался повреждённым до гонки.",
+            "thought": "[Известный] парус имел не казавшимся повреждённым перед [известной] гонкой.",
+            "english": "The sail hadn't seemed damaged before the race.",
+            "transcription": "[ðэ сэйл хæднт си:мд д**æ**миджд биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "До гонки экипаж казался уставшим?",
+            "thought": "Имел [известный] экипаж казавшимся уставшим перед [известной] гонкой?",
+            "english": "Had the crew seemed tired before the race?",
+            "transcription": "[хæд ðэ кру: си:мд т**а**йэд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has seemed",
+        "examples": [
+          {
+            "ours": "С утра море казалось спокойным.",
+            "thought": "[Известное] море имеет казавшимся спокойным с утра.",
+            "english": "The sea has seemed calm since morning.",
+            "transcription": "[ðэ си: хæз си:мд ка:м синс м**о**:ниŋ]"
+          },
+          {
+            "ours": "Парус не казался повреждённым с момента выхода.",
+            "thought": "[Известный] парус имеет не казавшимся повреждённым с выхода.",
+            "english": "The sail hasn't seemed damaged since departure.",
+            "transcription": "[ðэ сэйл хæзнт си:мд д**æ**миджд синс дип**а**:чэ]"
+          },
+          {
+            "ours": "Гавань казалась тебе безопасной с утра?",
+            "thought": "Имеет [известная] гавань казавшимся безопасной к тебе с утра?",
+            "english": "Has the harbor seemed safe to you since morning?",
+            "transcription": "[хæз ðэ х**а**:бэ си:мд сэйф ту ю: синс м**о**:ниŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have seemed",
+        "not_possible": "Будущая завершённая форма seem возможна при сложной ретроспективе, но для обычного описания впечатления неестественна. Вместо этого скажут: By then the harbor will seem safe."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "В значении «казаться» seem обычно не используют в длительной форме. Вместо The sea has been seeming calm скажут: The sea has seemed calm."
+    }
+  },
+  "passive": {
+    "not_possible": "Seem — связочный глагол без прямого дополнения; пассив не образуется. Скажут: The yacht seems stable."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я думал, что гавань покажется безопасной.",
+        "thought": "Я думал, [известная] гавань будет казаться безопасной.",
+        "english": "I thought the harbor would seem safe.",
+        "transcription": "[ай θо:т ðэ х**а**:бэ wуд си:м сэйф]"
+      },
+      {
+        "ours": "Я думал, что экипаж не покажется уставшим.",
+        "thought": "Я думал, [известный] экипаж будет не казаться уставшим.",
+        "english": "I thought the crew wouldn't seem tired.",
+        "transcription": "[ай θо:т ðэ кру: wуднт си:м т**а**йэд]"
+      },
+      {
+        "ours": "Капитан сказал, что море покажется спокойным.",
+        "thought": "[Известный] капитан сказал, [известное] море будет казаться спокойным.",
+        "english": "The captain said the sea would seem calm.",
+        "transcription": "[ðэ к**æ**птин сэд ðэ си: wуд си:м ка:м]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "harbor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "light",
+      "meaning": "свет",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "light"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "выход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

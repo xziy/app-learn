@@ -1,0 +1,457 @@
+{
+  "spec": 3,
+  "verb": "like",
+  "forms": {
+    "base": [
+      {
+        "word": "like",
+        "transcription": "[лайк]"
+      }
+    ],
+    "past": [
+      {
+        "word": "liked",
+        "transcription": "[лайкт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "liked",
+        "transcription": "[лайкт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "liking",
+        "transcription": "[л**а**йкиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "likes",
+        "transcription": "[лайкс]"
+      }
+    ]
+  },
+  "meaning": "нравиться, любить",
+  "notes": "правильный переходный глагол состояния; обычно не употребляется в длительных временах; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "liked",
+        "examples": [
+          {
+            "ours": "Мне понравилась вчерашняя гонка.",
+            "thought": "Я полюбил [известную] гонку вчера.",
+            "english": "I liked the race yesterday.",
+            "transcription": "[ай лайкт ðэ рэйс й**э**стэдэй]"
+          },
+          {
+            "ours": "Тебе понравилась новая яхта?",
+            "thought": "[Сделал] ты любить [известную] новую яхту?",
+            "english": "Did you like the new yacht?",
+            "transcription": "[дид ю: лайк ðэ нью: йот]"
+          },
+          {
+            "ours": "Ей не понравилась марина.",
+            "thought": "Она [сделала] не любить [известную] марину.",
+            "english": "She did not like the marina.",
+            "transcription": "[ши: дид нот лайк ðэ мэр**и**:нэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "like, likes",
+        "examples": [
+          {
+            "ours": "Шкиперу нравятся ночные вахты.",
+            "thought": "[Известный] шкипер любит ночные вахты.",
+            "english": "The skipper likes night watches.",
+            "transcription": "[ðэ ск**и**пэ лайкс найт w**о**чиз]"
+          },
+          {
+            "ours": "Тебе нравится эта лодка?",
+            "thought": "[Делаешь] ты любить эту лодку?",
+            "english": "Do you like this boat?",
+            "transcription": "[ду: ю: лайк ðис боут]"
+          },
+          {
+            "ours": "Он не любит сильный ветер.",
+            "thought": "Он [делает] не любить сильный ветер.",
+            "english": "He does not like strong wind.",
+            "transcription": "[хи: даз нот лайк строŋ wинд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will like",
+        "examples": [
+          {
+            "ours": "Тебе понравится эта бухта.",
+            "thought": "Ты будешь любить эту бухту.",
+            "english": "You will like this bay.",
+            "transcription": "[ю: wил лайк ðис бэй]"
+          },
+          {
+            "ours": "Команде понравится новый маршрут?",
+            "thought": "Будет [известная] команда любить [известный] новый маршрут?",
+            "english": "Will the crew like the new route?",
+            "transcription": "[wил ðэ кру: лайк ðэ нью: ру:т]"
+          },
+          {
+            "ours": "Ей не понравится ночной переход.",
+            "thought": "Она будет не любить [известный] ночной переход.",
+            "english": "She will not like the night passage.",
+            "transcription": "[ши: wил нот лайк ðэ найт п**æ**сидж]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Like обычно обозначает состояние и не требует длительной формы. Скажут: I like this boat, а не I am liking this boat."
+    },
+    "perfect": {
+      "past": {
+        "form": "had liked",
+        "examples": [
+          {
+            "ours": "До той гонки ей всегда нравились длинные переходы.",
+            "thought": "Перед той гонкой она имела всегда любимыми длинные переходы.",
+            "english": "Before that race she had always liked long passages.",
+            "transcription": "[биф**о**: ðæт рэйс ши: хæд **о**:лwэйз лайкт лоŋ п**æ**сиджиз]"
+          },
+          {
+            "ours": "Ты любил парусный спорт ещё до этой поездки?",
+            "thought": "Имел ты любимым хождение под парусом перед этой поездкой?",
+            "english": "Had you liked sailing before this trip?",
+            "transcription": "[хæд ю: лайкт с**э**йлиŋ биф**о**: ðис трип]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has liked",
+        "examples": [
+          {
+            "ours": "Мне всегда нравились небольшие лодки.",
+            "thought": "Я имею всегда любимыми небольшие лодки.",
+            "english": "I have always liked small boats.",
+            "transcription": "[ай хæв **о**:лwэйз лайкт смо:л боутс]"
+          },
+          {
+            "ours": "Тебе давно нравится эта яхта?",
+            "thought": "Имеешь ты любимой эту яхту целое долго?",
+            "english": "Have you liked this yacht for long?",
+            "transcription": "[хæв ю: лайкт ðис йот фо: лоŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have liked",
+        "not_possible": "Будущее совершённое с длительностью чувства грамматически возможно, но тяжеловесно. Обычно скажут: By then she will still like the boat."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Like обычно описывает состояние; для его длительности используют простой perfect: I have liked sailing for years."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were liked",
+        "examples": [
+          {
+            "ours": "Команде нравился прежний шкипер.",
+            "thought": "[Известный] прежний шкипер был любим от [известной] команды.",
+            "english": "The previous skipper was liked by the crew.",
+            "transcription": "[ðэ пр**и**:виэс ск**и**пэ wоз лайкт бай ðэ кру:]"
+          },
+          {
+            "ours": "Эта лодка нравилась морякам?",
+            "thought": "Была эта лодка любима от моряков?",
+            "english": "Was this boat liked by sailors?",
+            "transcription": "[wоз ðис боут лайкт бай с**э**йлэз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are liked",
+        "examples": [
+          {
+            "ours": "Команде нравится новый шкипер.",
+            "thought": "[Известный] новый шкипер есть любим от [известной] команды.",
+            "english": "The new skipper is liked by the crew.",
+            "transcription": "[ðэ нью: ск**и**пэ из лайкт бай ðэ кру:]"
+          },
+          {
+            "ours": "Эти лодки нравятся новичкам?",
+            "thought": "Есть эти лодки любимы от новичков?",
+            "english": "Are these boats liked by beginners?",
+            "transcription": "[а: ðи:з боутс лайкт бай биг**и**нэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be liked",
+        "examples": [
+          {
+            "ours": "Команде понравится новый шкипер.",
+            "thought": "[Известный] новый шкипер будет быть любим от [известной] команды.",
+            "english": "The new skipper will be liked by the crew.",
+            "transcription": "[ðэ нью: ск**и**пэ wил би: лайкт бай ðэ кру:]"
+          },
+          {
+            "ours": "Эта лодка понравится новичкам?",
+            "thought": "Будет эта лодка быть любима от новичков?",
+            "english": "Will this boat be liked by beginners?",
+            "transcription": "[wил ðис боут би: лайкт бай биг**и**нэз]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Длительный пассив здесь звучит неестественно, поскольку like обозначает состояние. Вместо него: The skipper is liked by the crew."
+    },
+    "perfect": {
+      "not_possible": "Для длительного отношения естественнее актив: Sailors have liked this boat for years. Пассив возможен, но звучит тяжеловесно."
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: Sailors have liked this boat for years."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что тебе понравится бухта.",
+        "thought": "Я знал, ты будешь любить [известную] бухту.",
+        "english": "I knew you would like the bay.",
+        "transcription": "[ай нью: ю: wуд лайк ðэ бэй]"
+      },
+      {
+        "ours": "Она думала, что нам не понравится лодка.",
+        "thought": "Она думала, мы будем не любить [известную] лодку.",
+        "english": "She thought we would not like the boat.",
+        "transcription": "[ши: θо:т wи: wуд нот лайк ðэ боут]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "night"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "watch",
+      "meaning": "вахта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "watches"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "bay",
+      "meaning": "бухта",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "bay"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "bay"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "passage",
+      "meaning": "морской переход",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "passage"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "passages"
+        }
+      ]
+    },
+    {
+      "word": "trip",
+      "meaning": "поездка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "trip"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sailors"
+        }
+      ]
+    },
+    {
+      "word": "beginner",
+      "meaning": "новичок",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "beginners"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "beginners"
+        }
+      ]
+    }
+  ]
+}

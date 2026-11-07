@@ -1,0 +1,616 @@
+{
+  "spec": 3,
+  "verb": "need",
+  "forms": {
+    "base": [
+      {
+        "word": "need",
+        "transcription": "[ни:д]"
+      }
+    ],
+    "past": [
+      {
+        "word": "needed",
+        "transcription": "[н**и**:дид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "needed",
+        "transcription": "[н**и**:дид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "needing",
+        "transcription": "[н**и**:диŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "needs",
+        "transcription": "[ни:дз]"
+      }
+    ]
+  },
+  "meaning": "нуждаться, требовать",
+  "notes": "правильный глагол состояния; переходный, возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "needed",
+        "examples": [
+          {
+            "ours": "Вчера нам нужна была помощь.",
+            "thought": "Вчера мы нуждались помощь.",
+            "english": "Yesterday we needed help.",
+            "transcription": "[й**э**стэдэй wи: н**и**:дид хэлп]"
+          },
+          {
+            "ours": "Ему не нужна была запасная верёвка.",
+            "thought": "Он [сделал] не нуждаться [какую-то] запасную верёвку.",
+            "english": "He didn't need a spare rope.",
+            "transcription": "[хи: диднт ни:д э спээ роуп]"
+          },
+          {
+            "ours": "Вам нужна была карта до гонки?",
+            "thought": "[Сделали] вы нуждаться [известную] карту перед [известной] гонкой?",
+            "english": "Did you need the chart before the race?",
+            "transcription": "[дид ю: ни:д ðэ ча:т биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "need, needs",
+        "examples": [
+          {
+            "ours": "Нам сейчас нужна рация.",
+            "thought": "Мы нуждаемся [известную] рацию сейчас.",
+            "english": "We need the radio now.",
+            "transcription": "[wи: ни:д ðэ р**э**йдиоу нау]"
+          },
+          {
+            "ours": "Ему не нужна новая карта.",
+            "thought": "Он [делает] не нуждаться [какую-то] новую карту.",
+            "english": "He doesn't need a new chart.",
+            "transcription": "[хи: дазнт ни:д э нью: ча:т]"
+          },
+          {
+            "ours": "Тебе нужен спасательный жилет на борту?",
+            "thought": "[Делаешь] ты нуждаться [какой-то] спасательный жилет на борту?",
+            "english": "Do you need a life jacket on board?",
+            "transcription": "[ду: ю: ни:д э лайф дж**æ**кит он бо:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will need",
+        "examples": [
+          {
+            "ours": "Завтра нам понадобится карта.",
+            "thought": "Завтра мы будем нуждаться [известную] карту.",
+            "english": "Tomorrow we will need the chart.",
+            "transcription": "[тэм**о**роу wи: wил ни:д ðэ ча:т]"
+          },
+          {
+            "ours": "Позже ему не понадобится компас.",
+            "thought": "Он будет не нуждаться [известный] компас позже.",
+            "english": "He won't need the compass later.",
+            "transcription": "[хи: wоунт ни:д ðэ к**а**мпэс л**э**йтэ]"
+          },
+          {
+            "ours": "Тебе понадобится помощь до гонки?",
+            "thought": "Будешь ты нуждаться помощь перед [известной] гонкой?",
+            "english": "Will you need help before the race?",
+            "transcription": "[wил ю: ни:д хэлп биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "В значении необходимости need обычно описывает состояние и не употребляется в длительной форме. Вместо We are needing a chart говорят: We need a chart."
+    },
+    "perfect": {
+      "past": {
+        "form": "had needed",
+        "examples": [
+          {
+            "ours": "До шторма нам нужна была помощь.",
+            "thought": "Перед [известным] штормом мы имели нуждавшейся помощь.",
+            "english": "Before the storm we had needed help.",
+            "transcription": "[биф**о**: ðэ сто:м wи: хæд н**и**:дид хэлп]"
+          },
+          {
+            "ours": "До гонки ему не требовалась карта.",
+            "thought": "Он имел не нуждавшейся [известную] карту перед [известной] гонкой.",
+            "english": "He hadn't needed the chart before the race.",
+            "transcription": "[хи: хæднт н**и**:дид ðэ ча:т биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "До гонки вам нужна была рация?",
+            "thought": "Имели вы нуждавшейся [известную] рацию перед [известной] гонкой?",
+            "english": "Had you needed the radio before the race?",
+            "transcription": "[хæд ю: н**и**:дид ðэ р**э**йдиоу биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has needed",
+        "examples": [
+          {
+            "ours": "С момента выхода нам нужна рация.",
+            "thought": "Мы имеем нуждавшейся [известную] рацию с выхода.",
+            "english": "We have needed the radio since departure.",
+            "transcription": "[wи: хæв н**и**:дид ðэ р**э**йдиоу синс дип**а**:чэ]"
+          },
+          {
+            "ours": "С утра ему не была нужна карта.",
+            "thought": "Он имеет не нуждавшейся [известную] карту с утра.",
+            "english": "He hasn't needed the chart since morning.",
+            "transcription": "[хи: хæзнт н**и**:дид ðэ ча:т синс м**о**:ниŋ]"
+          },
+          {
+            "ours": "С момента выхода вам нужна помощь?",
+            "thought": "Имеете вы нуждавшейся помощь с выхода?",
+            "english": "Have you needed help since departure?",
+            "transcription": "[хæв ю: н**и**:дид хэлп синс дип**а**:чэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have needed",
+        "not_possible": "Для будущей необходимости без ретроспективного контекста обычно используют will need. Например: By then we will need help."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "В значении необходимости need обычно не употребляется в длительной форме. Вместо We have been needing a chart говорят: We have needed a chart."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were needed",
+        "examples": [
+          {
+            "ours": "Вчера понадобилась помощь.",
+            "thought": "Помощь была нужна вчера.",
+            "english": "Help was needed yesterday.",
+            "transcription": "[хэлп wоз н**и**:дид й**э**стэдэй]"
+          },
+          {
+            "ours": "До гонки карта не понадобилась.",
+            "thought": "[Известная] карта была не нужна перед [известной] гонкой.",
+            "english": "The chart wasn't needed before the race.",
+            "transcription": "[ðэ ча:т wознт н**и**:дид биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Рация была нужна до шторма?",
+            "thought": "Была [известная] рация нужна перед [известным] штормом?",
+            "english": "Was the radio needed before the storm?",
+            "transcription": "[wоз ðэ р**э**йдиоу н**и**:дид биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are needed",
+        "examples": [
+          {
+            "ours": "Сейчас нужна помощь.",
+            "thought": "Помощь есть нужна сейчас.",
+            "english": "Help is needed now.",
+            "transcription": "[хэлп из н**и**:дид нау]"
+          },
+          {
+            "ours": "Карта не нужна на борту.",
+            "thought": "[Известная] карта есть не нужна на борту.",
+            "english": "The chart isn't needed on board.",
+            "transcription": "[ðэ ча:т изнт н**и**:дид он бо:д]"
+          },
+          {
+            "ours": "Для гонки нужна рация?",
+            "thought": "Есть [известная] рация нужна для [известной] гонки?",
+            "english": "Is the radio needed for the race?",
+            "transcription": "[из ðэ р**э**йдиоу н**и**:дид фо: ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be needed",
+        "examples": [
+          {
+            "ours": "Завтра понадобится помощь.",
+            "thought": "Помощь будет быть нужна завтра.",
+            "english": "Help will be needed tomorrow.",
+            "transcription": "[хэлп wил би: н**и**:дид тэм**о**роу]"
+          },
+          {
+            "ours": "Позже карта не понадобится.",
+            "thought": "[Известная] карта будет не быть нужна позже.",
+            "english": "The chart won't be needed later.",
+            "transcription": "[ðэ ча:т wоунт би: н**и**:дид л**э**йтэ]"
+          },
+          {
+            "ours": "Перед гонкой понадобится рация?",
+            "thought": "Будет [известная] рация быть нужна перед [известной] гонкой?",
+            "english": "Will the radio be needed before the race?",
+            "transcription": "[wил ðэ р**э**йдиоу би: н**и**:дид биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Пассивное being needed в обычном значении необходимости звучит неестественно. Вместо Help is being needed now говорят: Help is needed now."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been needed",
+        "examples": [
+          {
+            "ours": "До шторма нужна была помощь.",
+            "thought": "Перед [известным] штормом помощь имела быть нужна.",
+            "english": "Before the storm help had been needed.",
+            "transcription": "[биф**о**: ðэ сто:м хэлп хæд би:н н**и**:дид]"
+          },
+          {
+            "ours": "До гонки карта не понадобилась.",
+            "thought": "[Известная] карта имела не быть нужна перед [известной] гонкой.",
+            "english": "The chart hadn't been needed before the race.",
+            "transcription": "[ðэ ча:т хæднт би:н н**и**:дид биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Рация требовалась до шторма?",
+            "thought": "Имела [известная] рация быть нужна перед [известным] штормом?",
+            "english": "Had the radio been needed before the storm?",
+            "transcription": "[хæд ðэ р**э**йдиоу би:н н**и**:дид биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been needed",
+        "examples": [
+          {
+            "ours": "С момента выхода требовалась помощь.",
+            "thought": "Помощь имеет быть нужна с выхода.",
+            "english": "Help has been needed since departure.",
+            "transcription": "[хэлп хæз би:н н**и**:дид синс дип**а**:чэ]"
+          },
+          {
+            "ours": "С утра карта не требовалась.",
+            "thought": "[Известная] карта имеет не быть нужна с утра.",
+            "english": "The chart hasn't been needed since morning.",
+            "transcription": "[ðэ ча:т хæзнт би:н н**и**:дид синс м**о**:ниŋ]"
+          },
+          {
+            "ours": "С момента выхода нужна была рация?",
+            "thought": "Имеет [известная] рация быть нужна с выхода?",
+            "english": "Has the radio been needed since departure?",
+            "transcription": "[хæз ðэ р**э**йдиоу би:н н**и**:дид синс дип**а**:чэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been needed",
+        "not_possible": "Future perfect passive в этом значении требует редкой ретроспективы. Для обычного прогноза говорят: Help will be needed by then."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: Help has been needed since departure."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что им понадобится помощь.",
+        "thought": "[Известный] капитан сказал, что они будут нуждаться помощь.",
+        "english": "The captain said that they would need help.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд ни:д хэлп]"
+      },
+      {
+        "ours": "Я знал, что тебе не понадобится компас.",
+        "thought": "Я знал, что ты будешь не нуждаться [известный] компас.",
+        "english": "I knew that you wouldn't need the compass.",
+        "transcription": "[ай нью: ðæт ю: wуднт ни:д ðэ к**а**мпэс]"
+      },
+      {
+        "ours": "Капитан сказал, что нам понадобится карта.",
+        "thought": "[Известный] капитан сказал, что мы будем нуждаться [известную] карту.",
+        "english": "The captain said that we would need the chart.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд ни:д ðэ ча:т]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "help",
+      "meaning": "помощь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "help"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "help"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "help"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "help"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Help"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Help"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Help"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "help"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "Help"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "help"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "верёвка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "rope"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "рация",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "life jacket",
+      "meaning": "спасательный жилет",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "life jacket"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "compass"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "выход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

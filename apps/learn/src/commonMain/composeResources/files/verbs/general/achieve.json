@@ -1,0 +1,1513 @@
+{
+  "spec": 3,
+  "verb": "achieve",
+  "forms": {
+    "base": [
+      {
+        "word": "achieve",
+        "transcription": "[эч**и**:в]"
+      }
+    ],
+    "past": [
+      {
+        "word": "achieved",
+        "transcription": "[эч**и**:вд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "achieved",
+        "transcription": "[эч**и**:вд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "achieving",
+        "transcription": "[эч**и**:виŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "achieves",
+        "transcription": "[эч**и**:вз]"
+      }
+    ]
+  },
+  "meaning": "достигать, добиваться",
+  "notes": "правильный глагол, бывает с объектом, есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "achieved",
+        "examples": [
+          {
+            "ours": "В прошлом году наша команда добилась рекордных продаж.",
+            "thought": "Прошлый год наша команда достигла рекордных продаж.",
+            "english": "Last year our team achieved record sales.",
+            "transcription": "[ла:ст йиэ ауэ ти:м эч**и**:вд р**э**ко:д сэйлз]"
+          },
+          {
+            "ours": "Мой брат в школе мало чего добился.",
+            "thought": "Мой брат [сделал] не достигать многого в школе.",
+            "english": "My brother didn't achieve much at school.",
+            "transcription": "[май бр**а**ðэ диднт эч**и**:в мач æт ску:л]"
+          },
+          {
+            "ours": "Она добилась своей цели?",
+            "thought": "[Сделала] она достигать её цели?",
+            "english": "Did she achieve her goal?",
+            "transcription": "[дид ши: эч**и**:в хœ: гоул]"
+          }
+        ]
+      },
+      "present": {
+        "form": "achieve, achieves",
+        "examples": [
+          {
+            "ours": "Моя сестра всегда добивается того, чего хочет.",
+            "thought": "Моя сестра всегда достигает, что она хочет.",
+            "english": "My sister always achieves what she wants.",
+            "transcription": "[май с**и**стэ **о**:лwэйз эч**и**:вз wот ши: wонтс]"
+          },
+          {
+            "ours": "Криком мы ничего не добиваемся.",
+            "thought": "Мы [делаем] не достигать чего-либо посредством крика.",
+            "english": "We don't achieve anything by shouting.",
+            "transcription": "[wи: доунт эч**и**:в **э**ниθиŋ бай ш**а**утиŋ]"
+          },
+          {
+            "ours": "Это лечение даёт нужный эффект?",
+            "thought": "[Делает] это лечение достигать [известного] желаемого эффекта?",
+            "english": "Does this treatment achieve the desired effect?",
+            "transcription": "[даз ðис тр**и**:тмэнт эч**и**:в ðэ диз**а**йэд иф**э**кт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will achieve",
+        "examples": [
+          {
+            "ours": "В следующем году наша компания добьётся большей прибыли.",
+            "thought": "Следующий год наша компания будет достигать более высоких прибылей.",
+            "english": "Next year our company will achieve higher profits.",
+            "transcription": "[нэкст йиэ ауэ к**а**мпэни wил эч**и**:в х**а**йэ пр**о**фитс]"
+          },
+          {
+            "ours": "Без дисциплины ты не добьёшься успеха.",
+            "thought": "Ты будешь не достигать успеха без дисциплины.",
+            "english": "You won't achieve success without discipline.",
+            "transcription": "[ю: wоунт эч**и**:в сэкс**э**с wиð**а**ут д**и**сиплин]"
+          },
+          {
+            "ours": "Они добьются мира в этом регионе?",
+            "thought": "Будут они достигать мира в этом регионе?",
+            "english": "Will they achieve peace in this region?",
+            "transcription": "[wил ðэй эч**и**:в пи:с ин ðис р**и**:джэн]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were achieving",
+        "examples": [
+          {
+            "ours": "Весь прошлый сезон наши бегуны показывали своё лучшее время.",
+            "thought": "Весь прошлый сезон наши бегуны были достигающими их лучших времён.",
+            "english": "All last season our runners were achieving their best times.",
+            "transcription": "[о:л ла:ст с**и**:зн ауэ р**а**нэз wœ: эч**и**:виŋ ðээ бэст таймз]"
+          },
+          {
+            "ours": "На той работе я ничего не добивался.",
+            "thought": "На той работе я был не достигающим чего-либо.",
+            "english": "At that job I wasn't achieving anything.",
+            "transcription": "[æт ðæт джоб ай wознт эч**и**:виŋ **э**ниθиŋ]"
+          },
+          {
+            "ours": "Твой сын получал хорошие оценки до болезни?",
+            "thought": "Был твой сын достигающим хороших оценок перед его болезнью?",
+            "english": "Was your son achieving good marks before his illness?",
+            "transcription": "[wоз йо: сан эч**и**:виŋ гуд ма:кс биф**о**: хиз **и**лнис]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are achieving",
+        "examples": [
+          {
+            "ours": "Наша новая учительница добивается с этими детьми отличных результатов.",
+            "thought": "Наша новая учительница является достигающей отличных результатов с этими детьми.",
+            "english": "Our new teacher is achieving excellent results with these children.",
+            "transcription": "[ауэ нью: т**и**:чэ из эч**и**:виŋ **э**ксэлэнт риз**а**лтс wиð ðи:з ч**и**лдрэн]"
+          },
+          {
+            "ours": "Наша фабрика не выполняет месячную норму.",
+            "thought": "Наша фабрика является не достигающей её месячной нормы.",
+            "english": "Our factory isn't achieving its monthly quota.",
+            "transcription": "[ауэ ф**æ**ктэри изнт эч**и**:виŋ итс м**а**нθли кw**о**утэ]"
+          },
+          {
+            "ours": "Твои сотрудники сейчас раскрывают свой потенциал?",
+            "thought": "Являются твои сотрудники достигающими их потенциала сейчас?",
+            "english": "Are your employees achieving their potential now?",
+            "transcription": "[а: йо: импл**о**йи:з эч**и**:виŋ ðээ пэт**э**ншл нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be achieving",
+        "examples": [
+          {
+            "ours": "Скоро наши молодые игроки будут добиваться больших успехов.",
+            "thought": "Скоро наши молодые игроки будут быть достигающими великих вещей.",
+            "english": "Soon our young players will be achieving great things.",
+            "transcription": "[су:н ауэ йаŋ пл**э**йэз wил би: эч**и**:виŋ грэйт θиŋз]"
+          },
+          {
+            "ours": "В этом квартале мы не будем выполнять наши планы.",
+            "thought": "Мы будем не быть достигающими наших целей этот квартал.",
+            "english": "We won't be achieving our targets this quarter.",
+            "transcription": "[wи: wоунт би: эч**и**:виŋ ауэ т**а**:гитс ðис кw**о**:тэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had achieved",
+        "examples": [
+          {
+            "ours": "К тридцати она уже добилась славы.",
+            "thought": "К тридцати она имела уже достигнутой славу.",
+            "english": "By thirty she had already achieved fame.",
+            "transcription": "[бай θ**œ**:ти ши: хæд о:лр**э**ди эч**и**:вд фэйм]"
+          },
+          {
+            "ours": "К сроку строители не достигли нужного стандарта.",
+            "thought": "К [известному] сроку [известные] строители имели не достигнутым [известный] требуемый стандарт.",
+            "english": "By the deadline the builders hadn't achieved the required standard.",
+            "transcription": "[бай ðэ д**э**длайн ðэ б**и**лдэз хæднт эч**и**:вд ðэ рикw**а**йэд ст**æ**ндэд]"
+          },
+          {
+            "ours": "Твоя страна к тому времени уже получила независимость?",
+            "thought": "Имела твоя страна уже достигнутой независимость к тогда?",
+            "english": "Had your country already achieved independence by then?",
+            "transcription": "[хæд йо: к**а**нтри о:лр**э**ди эч**и**:вд индип**э**ндэнс бай ðэн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has achieved",
+        "examples": [
+          {
+            "ours": "Мы уже достигли нашей главной цели.",
+            "thought": "Мы имеем уже достигнутой нашу главную цель.",
+            "english": "We have already achieved our main aim.",
+            "transcription": "[wи: хæв о:лр**э**ди эч**и**:вд ауэ мэйн эйм]"
+          },
+          {
+            "ours": "Переговоры пока ничего не дали.",
+            "thought": "[Известные] переговоры имеют не достигнутым что-либо ещё.",
+            "english": "The talks haven't achieved anything yet.",
+            "transcription": "[ðэ то:кс хæвнт эч**и**:вд **э**ниθиŋ йэт]"
+          },
+          {
+            "ours": "Ты добился всего, чего хотел?",
+            "thought": "Имеешь ты достигнутым всё, что ты хотел?",
+            "english": "Have you achieved everything that you wanted?",
+            "transcription": "[хæв ю: эч**и**:вд **э**вриθиŋ ðæт ю: w**о**нтид]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have achieved",
+        "examples": [
+          {
+            "ours": "К Рождеству я дойду до идеального веса.",
+            "thought": "К Рождеству я буду иметь достигнутым мой идеальный вес.",
+            "english": "By Christmas I will have achieved my ideal weight.",
+            "transcription": "[бай кр**и**смэс ай wил хæв эч**и**:вд май айд**и**эл wэйт]"
+          },
+          {
+            "ours": "К следующему лету ты осуществишь свою мечту?",
+            "thought": "Будешь ты иметь достигнутой твою мечту к следующему лету?",
+            "english": "Will you have achieved your dream by next summer?",
+            "transcription": "[wил ю: хæв эч**и**:вд йо: дри:м бай нэкст с**а**мэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been achieving",
+        "examples": [
+          {
+            "ours": "Эта фирма целых пять лет устойчиво росла, когда начался кризис.",
+            "thought": "Эта фирма имела быть достигающей устойчивого роста целых пять лет, когда [известный] кризис начался.",
+            "english": "This firm had been achieving steady growth for five years when the crisis began.",
+            "transcription": "[ðис фœ:м хæд би:н эч**и**:виŋ ст**э**ди гроуθ фо: файв йиэз wэн ðэ кр**а**йсис биг**æ**н]"
+          },
+          {
+            "ours": "Ученики месяцами набирали высшие баллы перед проверкой?",
+            "thought": "Имели [известные] ученики быть достигающими высших баллов целые месяцы перед [известной] проверкой?",
+            "english": "Had the pupils been achieving top scores for months before the inspection?",
+            "transcription": "[хæд ðэ пь**ю**:плз би:н эч**и**:виŋ топ ско:з фо: манθс биф**о**: ðи инсп**э**кшн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been achieving",
+        "examples": [
+          {
+            "ours": "Эта больница уже целых десять лет добивается отличной выживаемости.",
+            "thought": "Эта больница имеет быть достигающей отличных показателей выживания целых десять лет.",
+            "english": "This hospital has been achieving excellent survival rates for ten years.",
+            "transcription": "[ðис х**о**спитл хæз би:н эч**и**:виŋ **э**ксэлэнт сэв**а**йвл рэйтс фо: тэн йиэз]"
+          },
+          {
+            "ours": "Твоя племянница с лета получает оценки получше?",
+            "thought": "Имеет твоя племянница быть достигающей лучших оценок с [известного] лета?",
+            "english": "Has your niece been achieving better grades since the summer?",
+            "transcription": "[хæз йо: ни:с би:н эч**и**:виŋ б**э**тэ грэйдз синс ðэ с**а**мэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been achieving",
+        "not_possible": "`will have been achieving` грамматически верно, но с achieve звучит натянуто: носитель подведёт такой итог через простой перфект. Вместо этого скажут: `By next spring this factory will have achieved record output three years in a row.`"
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were achieved",
+        "examples": [
+          {
+            "ours": "Эта победа была одержана без нашего капитана.",
+            "thought": "Эта победа была достигнута без нашего капитана.",
+            "english": "This victory was achieved without our captain.",
+            "transcription": "[ðис в**и**ктэри wоз эч**и**:вд wиð**а**ут ауэ к**æ**птин]"
+          },
+          {
+            "ours": "За одно поколение равенства не добились.",
+            "thought": "Равенство было не достигнуто в одно поколение.",
+            "english": "Equality wasn't achieved in one generation.",
+            "transcription": "[икw**о**лити wознт эч**и**:вд ин wан джэнэр**э**йшн]"
+          },
+          {
+            "ours": "Этот цвет получили натуральными красителями?",
+            "thought": "Был этот цвет достигнут с натуральными красителями?",
+            "english": "Was this colour achieved with natural dyes?",
+            "transcription": "[wоз ðис к**а**лэ эч**и**:вд wиð н**æ**чрл дайз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are achieved",
+        "examples": [
+          {
+            "ours": "Настоящий прогресс достигается ежедневной практикой.",
+            "thought": "Настоящий прогресс есть достигнут через ежедневную практику.",
+            "english": "Real progress is achieved through daily practice.",
+            "transcription": "[риэл пр**о**угрэс из эч**и**:вд θру: д**э**йли пр**æ**ктис]"
+          },
+          {
+            "ours": "Крепкое здоровье не приходит за одну ночь.",
+            "thought": "Хорошее здоровье есть не достигнуто за ночь.",
+            "english": "Good health isn't achieved overnight.",
+            "transcription": "[гуд хэлθ изнт эч**и**:вд оувэн**а**йт]"
+          },
+          {
+            "ours": "Как достигается этот баланс?",
+            "thought": "Как есть этот баланс достигнут?",
+            "english": "How is this balance achieved?",
+            "transcription": "[хау из ðис б**æ**лэнс эч**и**:вд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be achieved",
+        "examples": [
+          {
+            "ours": "Полное выздоровление наступит через шесть недель.",
+            "thought": "Полное выздоровление будет быть достигнуто через шесть недель.",
+            "english": "Full recovery will be achieved in six weeks.",
+            "transcription": "[фул рик**а**вэри wил би: эч**и**:вд ин сикс wи:кс]"
+          },
+          {
+            "ours": "Без сокращений такой экономии не добиться.",
+            "thought": "Эти сбережения будут не быть достигнуты без сокращений.",
+            "english": "These savings won't be achieved without cuts.",
+            "transcription": "[ðи:з с**э**йвиŋз wоунт би: эч**и**:вд wиð**а**ут катс]"
+          },
+          {
+            "ours": "На завтрашнем саммите будет достигнут консенсус?",
+            "thought": "Будет консенсус быть достигнут на завтрашнем саммите?",
+            "english": "Will consensus be achieved at tomorrow's summit?",
+            "transcription": "[wил кэнс**э**нсэс би: эч**и**:вд æт тэм**о**роуз с**а**мит]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being achieved",
+        "examples": [
+          {
+            "ours": "Весь прошлый год шли устойчивые улучшения.",
+            "thought": "Устойчивые улучшения были «долго» достигнуты весь прошлый год.",
+            "english": "Steady improvements were being achieved all last year.",
+            "transcription": "[ст**э**ди импр**у**:вмэнтс wœ: б**и**:иŋ эч**и**:вд о:л ла:ст йиэ]"
+          },
+          {
+            "ours": "На тех совещаниях ничего не решалось.",
+            "thought": "Ничто было «долго» достигнуто на тех встречах.",
+            "english": "Nothing was being achieved at those meetings.",
+            "transcription": "[н**а**θиŋ wоз б**и**:иŋ эч**и**:вд æт ðоуз м**и**:тиŋз]"
+          },
+          {
+            "ours": "Чего-нибудь добивались, когда ты пришёл в этот проект?",
+            "thought": "Было что-либо «долго» достигнуто, когда ты присоединился [известный] проект?",
+            "english": "Was anything being achieved when you joined the project?",
+            "transcription": "[wоз **э**ниθиŋ б**и**:иŋ эч**и**:вд wэн ю: джойнд ðэ пр**о**джэкт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being achieved",
+        "examples": [
+          {
+            "ours": "Сейчас на этих фермах получают более высокие урожаи.",
+            "thought": "Более высокие урожаи есть «долго» достигнуты на этих фермах сейчас.",
+            "english": "Higher yields are being achieved on these farms now.",
+            "transcription": "[х**а**йэ йи:лдз а: б**и**:иŋ эч**и**:вд он ðи:з фа:мз нау]"
+          },
+          {
+            "ours": "Сейчас наши задачи не выполняются.",
+            "thought": "Наши задачи есть не «долго» достигнуты в [известный] момент.",
+            "english": "Our objectives aren't being achieved at the moment.",
+            "transcription": "[ауэ эбдж**э**ктивз а:нт б**и**:иŋ эч**и**:вд æт ðэ м**о**умэнт]"
+          },
+          {
+            "ours": "В этом городе сейчас что-то реально меняется?",
+            "thought": "Есть настоящая перемена «долго» достигнута в этом городе?",
+            "english": "Is real change being achieved in this city?",
+            "transcription": "[из риэл чэйндж б**и**:иŋ эч**и**:вд ин ðис с**и**ти]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be achieving",
+        "examples": [
+          {
+            "ours": "Через несколько лет они будут достигать невероятной точности.",
+            "thought": "Через несколько лет они будут быть достигающими невероятной точности.",
+            "english": "In a few years they will be achieving incredible accuracy.",
+            "transcription": "[ин э фью: йиэз ðэй wил би: эч**и**:виŋ инкр**э**дибл **æ**кюрэси]"
+          },
+          {
+            "ours": "В следующем сезоне они многого не добьются.",
+            "thought": "Они будут не быть достигающими многого следующий сезон.",
+            "english": "They won't be achieving much next season.",
+            "transcription": "[ðэй wоунт би: эч**и**:виŋ мач нэкст с**и**:зн]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been achieved",
+        "examples": [
+          {
+            "ours": "К марту была достигнута полная занятость.",
+            "thought": "К марту полная занятость имела быть достигнута.",
+            "english": "By March full employment had been achieved.",
+            "transcription": "[бай ма:ч фул импл**о**ймэнт хæд би:н эч**и**:вд]"
+          },
+          {
+            "ours": "До той гонки такой скорости не достигали.",
+            "thought": "Перед той гонкой эта скорость имела не быть достигнута.",
+            "english": "Before that race this speed hadn't been achieved.",
+            "transcription": "[биф**о**: ðæт рэйс ðис спи:д хæднт би:н эч**и**:вд]"
+          },
+          {
+            "ours": "Такую высоту кто-нибудь брал до того турнира?",
+            "thought": "Имела эта высота быть достигнута перед тем турниром?",
+            "english": "Had this height been achieved before that tournament?",
+            "transcription": "[хæд ðис хайт би:н эч**и**:вд биф**о**: ðæт т**о**:нэмэнт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been achieved",
+        "examples": [
+          {
+            "ours": "В этом году уже многое сделано.",
+            "thought": "Многое имеет уже быть достигнуто этот год.",
+            "english": "Much has already been achieved this year.",
+            "transcription": "[мач хæз о:лр**э**ди би:н эч**и**:вд ðис йиэ]"
+          },
+          {
+            "ours": "Стабильность ещё не достигнута.",
+            "thought": "Стабильность имеет не быть достигнута ещё.",
+            "english": "Stability hasn't been achieved yet.",
+            "transcription": "[стэб**и**лити хæзнт би:н эч**и**:вд йэт]"
+          },
+          {
+            "ours": "В вашей партии достигнуто настоящее единство?",
+            "thought": "Имеет настоящее единство быть достигнуто в твоей партии?",
+            "english": "Has real unity been achieved in your party?",
+            "transcription": "[хæз риэл **ю**:нити би:н эч**и**:вд ин йо: п**а**:ти]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been achieved",
+        "examples": [
+          {
+            "ours": "К осени это сокращение будет достигнуто.",
+            "thought": "К осени это сокращение будет иметь быть достигнуто.",
+            "english": "By autumn this reduction will have been achieved.",
+            "transcription": "[бай **о**:тэм ðис рид**а**кшн wил хæв би:н эч**и**:вд]"
+          },
+          {
+            "ours": "К апрелю этот этап будет пройден?",
+            "thought": "Будет эта веха иметь быть достигнута к апрелю?",
+            "english": "Will this milestone have been achieved by April?",
+            "transcription": "[wил ðис м**а**йлстоун хæв би:н эч**и**:вд бай **э**йпрэл]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being achieved` не употребляется. Вместо этого скажут: `Our goal has been achieved.` или `We have been achieving our goals for years.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она добьётся своего.",
+        "thought": "Я знал, что она будет достигать её амбиции.",
+        "english": "I knew that she would achieve her ambition.",
+        "transcription": "[ай нью: ðæт ши: wуд эч**и**:в хœ: æмб**и**шн]"
+      },
+      {
+        "ours": "Нам говорили, что мы ничего не добьёмся.",
+        "thought": "Они сказали, что мы будем не достигать чего-либо.",
+        "english": "They said that we wouldn't achieve anything.",
+        "transcription": "[ðэй сэд ðæт wи: wуднт эч**и**:в **э**ниθиŋ]"
+      },
+      {
+        "ours": "Ты верил, что твоя дочь столького добьётся?",
+        "thought": "[Сделал] ты верить, что твоя дочь будет достигать так много?",
+        "english": "Did you believe that your daughter would achieve so much?",
+        "transcription": "[дид ю: бил**и**:в ðæт йо: д**о**:тэ wуд эч**и**:в соу мач]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "year"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "team",
+      "meaning": "команда",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "team"
+        }
+      ]
+    },
+    {
+      "word": "sales",
+      "meaning": "продажи",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sales"
+        }
+      ]
+    },
+    {
+      "word": "brother",
+      "meaning": "брат",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "brother"
+        }
+      ]
+    },
+    {
+      "word": "school",
+      "meaning": "школа",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "school"
+        }
+      ]
+    },
+    {
+      "word": "goal",
+      "meaning": "цель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "goal"
+        }
+      ]
+    },
+    {
+      "word": "sister",
+      "meaning": "сестра",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sister"
+        }
+      ]
+    },
+    {
+      "word": "treatment",
+      "meaning": "лечение",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "treatment"
+        }
+      ]
+    },
+    {
+      "word": "effect",
+      "meaning": "эффект",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "effect"
+        }
+      ]
+    },
+    {
+      "word": "company",
+      "meaning": "компания",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "company"
+        }
+      ]
+    },
+    {
+      "word": "profit",
+      "meaning": "прибыль",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "profits"
+        }
+      ]
+    },
+    {
+      "word": "success",
+      "meaning": "успех",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "success"
+        }
+      ]
+    },
+    {
+      "word": "discipline",
+      "meaning": "дисциплина",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "discipline"
+        }
+      ]
+    },
+    {
+      "word": "peace",
+      "meaning": "мир",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "peace"
+        }
+      ]
+    },
+    {
+      "word": "region",
+      "meaning": "регион",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "region"
+        }
+      ]
+    },
+    {
+      "word": "season",
+      "meaning": "сезон",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "season"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "season"
+        }
+      ]
+    },
+    {
+      "word": "runner",
+      "meaning": "бегун",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "runners"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "times"
+        }
+      ]
+    },
+    {
+      "word": "job",
+      "meaning": "работа",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "job"
+        }
+      ]
+    },
+    {
+      "word": "son",
+      "meaning": "сын",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "son"
+        }
+      ]
+    },
+    {
+      "word": "mark",
+      "meaning": "оценка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "marks"
+        }
+      ]
+    },
+    {
+      "word": "illness",
+      "meaning": "болезнь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "illness"
+        }
+      ]
+    },
+    {
+      "word": "teacher",
+      "meaning": "учитель",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "teacher"
+        }
+      ]
+    },
+    {
+      "word": "result",
+      "meaning": "результат",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "results"
+        }
+      ]
+    },
+    {
+      "word": "child",
+      "meaning": "ребёнок",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "children"
+        }
+      ]
+    },
+    {
+      "word": "factory",
+      "meaning": "фабрика",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "factory"
+        }
+      ]
+    },
+    {
+      "word": "quota",
+      "meaning": "норма",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "quota"
+        }
+      ]
+    },
+    {
+      "word": "employee",
+      "meaning": "сотрудник",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "employees"
+        }
+      ]
+    },
+    {
+      "word": "potential",
+      "meaning": "потенциал",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "potential"
+        }
+      ]
+    },
+    {
+      "word": "player",
+      "meaning": "игрок",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "players"
+        }
+      ]
+    },
+    {
+      "word": "thing",
+      "meaning": "дело",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "things"
+        }
+      ]
+    },
+    {
+      "word": "target",
+      "meaning": "план",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "targets"
+        }
+      ]
+    },
+    {
+      "word": "quarter",
+      "meaning": "квартал",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "quarter"
+        }
+      ]
+    },
+    {
+      "word": "fame",
+      "meaning": "слава",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "fame"
+        }
+      ]
+    },
+    {
+      "word": "deadline",
+      "meaning": "срок",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "deadline"
+        }
+      ]
+    },
+    {
+      "word": "builder",
+      "meaning": "строитель",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "builders"
+        }
+      ]
+    },
+    {
+      "word": "standard",
+      "meaning": "стандарт",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "standard"
+        }
+      ]
+    },
+    {
+      "word": "country",
+      "meaning": "страна",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "country"
+        }
+      ]
+    },
+    {
+      "word": "independence",
+      "meaning": "независимость",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "independence"
+        }
+      ]
+    },
+    {
+      "word": "aim",
+      "meaning": "цель",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "aim"
+        }
+      ]
+    },
+    {
+      "word": "talks",
+      "meaning": "переговоры",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "talks"
+        }
+      ]
+    },
+    {
+      "word": "Christmas",
+      "meaning": "Рождество",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "Christmas"
+        }
+      ]
+    },
+    {
+      "word": "weight",
+      "meaning": "вес",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "weight"
+        }
+      ]
+    },
+    {
+      "word": "dream",
+      "meaning": "мечта",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "dream"
+        }
+      ]
+    },
+    {
+      "word": "summer",
+      "meaning": "лето",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "summer"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "summer"
+        }
+      ]
+    },
+    {
+      "word": "firm",
+      "meaning": "фирма",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "firm"
+        }
+      ]
+    },
+    {
+      "word": "growth",
+      "meaning": "рост",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "growth"
+        }
+      ]
+    },
+    {
+      "word": "crisis",
+      "meaning": "кризис",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "crisis"
+        }
+      ]
+    },
+    {
+      "word": "pupil",
+      "meaning": "ученик",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "pupils"
+        }
+      ]
+    },
+    {
+      "word": "score",
+      "meaning": "балл",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "scores"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "months"
+        }
+      ]
+    },
+    {
+      "word": "inspection",
+      "meaning": "проверка",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "inspection"
+        }
+      ]
+    },
+    {
+      "word": "hospital",
+      "meaning": "больница",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hospital"
+        }
+      ]
+    },
+    {
+      "word": "survival rate",
+      "meaning": "выживаемость",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "survival rates"
+        }
+      ]
+    },
+    {
+      "word": "niece",
+      "meaning": "племянница",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "niece"
+        }
+      ]
+    },
+    {
+      "word": "grade",
+      "meaning": "оценка",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "grades"
+        }
+      ]
+    },
+    {
+      "word": "victory",
+      "meaning": "победа",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "victory"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "equality",
+      "meaning": "равенство",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "Equality"
+        }
+      ]
+    },
+    {
+      "word": "generation",
+      "meaning": "поколение",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "generation"
+        }
+      ]
+    },
+    {
+      "word": "colour",
+      "meaning": "цвет",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "colour"
+        }
+      ]
+    },
+    {
+      "word": "dye",
+      "meaning": "краситель",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "dyes"
+        }
+      ]
+    },
+    {
+      "word": "progress",
+      "meaning": "прогресс",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Progress"
+        }
+      ]
+    },
+    {
+      "word": "practice",
+      "meaning": "практика",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "practice"
+        }
+      ]
+    },
+    {
+      "word": "health",
+      "meaning": "здоровье",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "Health"
+        }
+      ]
+    },
+    {
+      "word": "balance",
+      "meaning": "баланс",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "balance"
+        }
+      ]
+    },
+    {
+      "word": "recovery",
+      "meaning": "выздоровление",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Recovery"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "weeks"
+        }
+      ]
+    },
+    {
+      "word": "saving",
+      "meaning": "экономия",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "savings"
+        }
+      ]
+    },
+    {
+      "word": "cut",
+      "meaning": "сокращение",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "cuts"
+        }
+      ]
+    },
+    {
+      "word": "consensus",
+      "meaning": "консенсус",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "consensus"
+        }
+      ]
+    },
+    {
+      "word": "summit",
+      "meaning": "саммит",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "summit"
+        }
+      ]
+    },
+    {
+      "word": "improvement",
+      "meaning": "улучшение",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Improvements"
+        }
+      ]
+    },
+    {
+      "word": "meeting",
+      "meaning": "совещание",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "meetings"
+        }
+      ]
+    },
+    {
+      "word": "project",
+      "meaning": "проект",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.2",
+          "form": "project"
+        }
+      ]
+    },
+    {
+      "word": "yield",
+      "meaning": "урожай",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "yields"
+        }
+      ]
+    },
+    {
+      "word": "farm",
+      "meaning": "ферма",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "farms"
+        }
+      ]
+    },
+    {
+      "word": "objective",
+      "meaning": "задача",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "objectives"
+        }
+      ]
+    },
+    {
+      "word": "moment",
+      "meaning": "момент",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "moment"
+        }
+      ]
+    },
+    {
+      "word": "change",
+      "meaning": "перемена",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "change"
+        }
+      ]
+    },
+    {
+      "word": "city",
+      "meaning": "город",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "city"
+        }
+      ]
+    },
+    {
+      "word": "accuracy",
+      "meaning": "точность",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "accuracy"
+        }
+      ]
+    },
+    {
+      "word": "March",
+      "meaning": "март",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "March"
+        }
+      ]
+    },
+    {
+      "word": "employment",
+      "meaning": "занятость",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "employment"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "speed",
+      "meaning": "скорость",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "speed"
+        }
+      ]
+    },
+    {
+      "word": "height",
+      "meaning": "высота",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "height"
+        }
+      ]
+    },
+    {
+      "word": "tournament",
+      "meaning": "турнир",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "tournament"
+        }
+      ]
+    },
+    {
+      "word": "stability",
+      "meaning": "стабильность",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "Stability"
+        }
+      ]
+    },
+    {
+      "word": "unity",
+      "meaning": "единство",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "unity"
+        }
+      ]
+    },
+    {
+      "word": "party",
+      "meaning": "партия",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "party"
+        }
+      ]
+    },
+    {
+      "word": "autumn",
+      "meaning": "осень",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "autumn"
+        }
+      ]
+    },
+    {
+      "word": "reduction",
+      "meaning": "сокращение",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "reduction"
+        }
+      ]
+    },
+    {
+      "word": "milestone",
+      "meaning": "этап",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "milestone"
+        }
+      ]
+    },
+    {
+      "word": "April",
+      "meaning": "апрель",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "April"
+        }
+      ]
+    },
+    {
+      "word": "ambition",
+      "meaning": "стремление",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "ambition"
+        }
+      ]
+    },
+    {
+      "word": "daughter",
+      "meaning": "дочь",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "daughter"
+        }
+      ]
+    }
+  ]
+}

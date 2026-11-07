@@ -1,0 +1,808 @@
+{
+  "spec": 3,
+  "verb": "look",
+  "forms": {
+    "base": [
+      {
+        "word": "look",
+        "transcription": "[лук]"
+      }
+    ],
+    "past": [
+      {
+        "word": "looked",
+        "transcription": "[лукт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "looked",
+        "transcription": "[лукт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "looking",
+        "transcription": "[л**у**киŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "looks",
+        "transcription": "[лукс]"
+      }
+    ]
+  },
+  "meaning": "смотреть, взглянуть",
+  "notes": "правильный глагол; look at используется с объектом предлога и допускает пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "looked at",
+        "examples": [
+          {
+            "ours": "Вчера мы посмотрели на карту.",
+            "thought": "Вчера мы посмотрели на [известную] карту.",
+            "english": "Yesterday we looked at the chart.",
+            "transcription": "[й**э**стэдэй wи: лукт æт ðэ ча:т]"
+          },
+          {
+            "ours": "Ты посмотрел на парус до гонки?",
+            "thought": "[Сделал] ты смотреть на [известный] парус перед [известной] гонкой?",
+            "english": "Did you look at the sail before the race?",
+            "transcription": "[дид ю: лук æт ðэ сэйл биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Он не посмотрел на компас.",
+            "thought": "Он [сделал] не смотреть на [известный] компас.",
+            "english": "He didn't look at the compass.",
+            "transcription": "[хи: диднт лук æт ðэ к**а**мпэс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "look at, looks at",
+        "examples": [
+          {
+            "ours": "Экипаж часто смотрит на горизонт.",
+            "thought": "[Известный] экипаж часто смотрит на [известный] горизонт.",
+            "english": "The crew often looks at the horizon.",
+            "transcription": "[ðэ кру: **о**фэн лукс æт ðэ хэр**а**йзн]"
+          },
+          {
+            "ours": "Он не смотрит на карту.",
+            "thought": "Он [делает] не смотреть на [известную] карту.",
+            "english": "He doesn't look at the chart.",
+            "transcription": "[хи: дазнт лук æт ðэ ча:т]"
+          },
+          {
+            "ours": "Ты смотришь на компас в море?",
+            "thought": "[Делаешь] ты смотреть на [известный] компас в море?",
+            "english": "Do you look at the compass at sea?",
+            "transcription": "[ду: ю: лук æт ðэ к**а**мпэс æт си:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will look at",
+        "examples": [
+          {
+            "ours": "Завтра мы посмотрим на карту.",
+            "thought": "Завтра мы будем смотреть на [известную] карту.",
+            "english": "Tomorrow we will look at the chart.",
+            "transcription": "[тэм**о**роу wи: wил лук æт ðэ ча:т]"
+          },
+          {
+            "ours": "Он не посмотрит на компас.",
+            "thought": "Он будет не смотреть на [известный] компас.",
+            "english": "He won't look at the compass.",
+            "transcription": "[хи: wоунт лук æт ðэ к**а**мпэс]"
+          },
+          {
+            "ours": "Ты посмотришь на парус до гонки?",
+            "thought": "Будешь ты смотреть на [известный] парус перед [известной] гонкой?",
+            "english": "Will you look at the sail before the race?",
+            "transcription": "[wил ю: лук æт ðэ сэйл биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were looking at",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день смотрели на карту.",
+            "thought": "Вчера мы были смотрящими на [известную] карту весь день.",
+            "english": "Yesterday we were looking at the chart all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: л**у**киŋ æт ðэ ча:т о:л дэй]"
+          },
+          {
+            "ours": "Ты весь день смотрел на горизонт?",
+            "thought": "Был ты смотрящим на [известный] горизонт весь день?",
+            "english": "Were you looking at the horizon all day?",
+            "transcription": "[wœ: ю: л**у**киŋ æт ðэ хэр**а**йзн о:л дэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are looking at",
+        "examples": [
+          {
+            "ours": "Сейчас мы смотрим на карту.",
+            "thought": "Мы являемся смотрящими на [известную] карту сейчас.",
+            "english": "We are looking at the chart now.",
+            "transcription": "[wи: а: л**у**киŋ æт ðэ ча:т нау]"
+          },
+          {
+            "ours": "Ты сейчас смотришь на компас?",
+            "thought": "Являешься ты смотрящим на [известный] компас сейчас?",
+            "english": "Are you looking at the compass now?",
+            "transcription": "[а: ю: л**у**киŋ æт ðэ к**а**мпэс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be looking at",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем изучать карту.",
+            "thought": "Завтра мы будем быть смотрящими на [известную] карту весь день.",
+            "english": "Tomorrow we will be looking at the chart all day.",
+            "transcription": "[тэм**о**роу wи: wил би: л**у**киŋ æт ðэ ча:т о:л дэй]"
+          },
+          {
+            "ours": "Ты завтра весь день будешь смотреть на горизонт?",
+            "thought": "Будешь ты быть смотрящим на [известный] горизонт весь день завтра?",
+            "english": "Will you be looking at the horizon all day tomorrow?",
+            "transcription": "[wил ю: би: л**у**киŋ æт ðэ хэр**а**йзн о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had looked at",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже посмотрели на карту.",
+            "thought": "К пяти вчера мы имели уже посмотренным на [известную] карту.",
+            "english": "By five yesterday we had already looked at the chart.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди лукт æт ðэ ча:т]"
+          },
+          {
+            "ours": "Ты посмотрел на парус до гонки?",
+            "thought": "Имел ты посмотренным на [известный] парус перед [известной] гонкой?",
+            "english": "Had you looked at the sail before the race?",
+            "transcription": "[хæд ю: лукт æт ðэ сэйл биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has looked at",
+        "examples": [
+          {
+            "ours": "Мы уже посмотрели на карту.",
+            "thought": "Мы имеем уже посмотренным на [известную] карту.",
+            "english": "We have already looked at the chart.",
+            "transcription": "[wи: хæв о:лр**э**ди лукт æт ðэ ча:т]"
+          },
+          {
+            "ours": "Ты уже посмотрел на парус?",
+            "thought": "Имеешь ты уже посмотренным на [известный] парус?",
+            "english": "Have you already looked at the sail?",
+            "transcription": "[хæв ю: о:лр**э**ди лукт æт ðэ сэйл]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have looked at",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже посмотрим на карту.",
+            "thought": "К пяти завтра мы будем иметь уже посмотренным на [известную] карту.",
+            "english": "By five tomorrow we will have already looked at the chart.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди лукт æт ðэ ча:т]"
+          },
+          {
+            "ours": "Ты посмотришь на парус до гонки?",
+            "thought": "Будешь ты иметь посмотренным на [известный] парус перед [известной] гонкой?",
+            "english": "Will you have looked at the sail before the race?",
+            "transcription": "[wил ю: хæв лукт æт ðэ сэйл биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been looking at",
+        "examples": [
+          {
+            "ours": "Мы уже два часа изучали карту, когда ты пришёл.",
+            "thought": "Мы имели быть смотрящими на [известную] карту целых два часа, когда ты пришёл.",
+            "english": "We had been looking at the chart for two hours when you came.",
+            "transcription": "[wи: хæд би:н л**у**киŋ æт ðэ ча:т фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа смотрел на горизонт, когда он пришёл?",
+            "thought": "Имел ты быть смотрящим на [известный] горизонт целых два часа, когда он пришёл?",
+            "english": "Had you been looking at the horizon for two hours when he came?",
+            "transcription": "[хæд ю: би:н л**у**киŋ æт ðэ хэр**а**йзн фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been looking at",
+        "examples": [
+          {
+            "ours": "Мы уже два часа изучаем карту.",
+            "thought": "Мы имеем быть смотрящими на [известную] карту целых два часа.",
+            "english": "We have been looking at the chart for two hours.",
+            "transcription": "[wи: хæв би:н л**у**киŋ æт ðэ ча:т фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа смотришь на горизонт?",
+            "thought": "Имеешь ты быть смотрящим на [известный] горизонт целых два часа?",
+            "english": "Have you been looking at the horizon for two hours?",
+            "transcription": "[хæв ю: би:н л**у**киŋ æт ðэ хэр**а**йзн фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been looking at",
+        "examples": [
+          {
+            "ours": "К пяти мы уже два часа будем изучать карту.",
+            "thought": "К пяти мы будем иметь быть смотрящими на [известную] карту целых два часа.",
+            "english": "By five we will have been looking at the chart for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н л**у**киŋ æт ðэ ча:т фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты уже два часа будешь смотреть на горизонт?",
+            "thought": "Будешь ты иметь быть смотрящим на [известный] горизонт целых два часа к пяти?",
+            "english": "Will you have been looking at the horizon for two hours by five?",
+            "transcription": "[wил ю: хæв би:н л**у**киŋ æт ðэ хэр**а**йзн фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were looked at",
+        "examples": [
+          {
+            "ours": "Вчера карту изучили.",
+            "thought": "[Известная] карта была посмотрена на вчера.",
+            "english": "The chart was looked at yesterday.",
+            "transcription": "[ðэ ча:т wоз лукт æт й**э**стэдэй]"
+          },
+          {
+            "ours": "Парус осмотрели до гонки?",
+            "thought": "Был [известный] парус посмотрен на перед [известной] гонкой?",
+            "english": "Was the sail looked at before the race?",
+            "transcription": "[wоз ðэ сэйл лукт æт биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are looked at",
+        "examples": [
+          {
+            "ours": "Карту изучают каждый день.",
+            "thought": "[Известная] карта есть посмотрена на каждый день.",
+            "english": "The chart is looked at every day.",
+            "transcription": "[ðэ ча:т из лукт æт **э**ври дэй]"
+          },
+          {
+            "ours": "Парус осматривают перед гонкой?",
+            "thought": "Есть [известный] парус посмотрен на перед [известной] гонкой?",
+            "english": "Is the sail looked at before the race?",
+            "transcription": "[из ðэ сэйл лукт æт биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be looked at",
+        "examples": [
+          {
+            "ours": "Завтра карту изучат.",
+            "thought": "[Известная] карта будет быть посмотрена на завтра.",
+            "english": "The chart will be looked at tomorrow.",
+            "transcription": "[ðэ ча:т wил би: лукт æт тэм**о**роу]"
+          },
+          {
+            "ours": "Парус осмотрят до гонки?",
+            "thought": "Будет [известный] парус быть посмотрен на перед [известной] гонкой?",
+            "english": "Will the sail be looked at before the race?",
+            "transcription": "[wил ðэ сэйл би: лукт æт биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being looked at",
+        "examples": [
+          {
+            "ours": "Вчера карту изучали весь день.",
+            "thought": "Вчера [известная] карта была «долго» посмотрена на весь день.",
+            "english": "Yesterday the chart was being looked at all day.",
+            "transcription": "[й**э**стэдэй ðэ ча:т wоз б**и**:иŋ лукт æт о:л дэй]"
+          },
+          {
+            "ours": "Вчера весь день осматривали парус?",
+            "thought": "Был [известный] парус «долго» посмотрен на весь день вчера?",
+            "english": "Was the sail being looked at all day yesterday?",
+            "transcription": "[wоз ðэ сэйл б**и**:иŋ лукт æт о:л дэй й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being looked at",
+        "examples": [
+          {
+            "ours": "Сейчас карту изучают.",
+            "thought": "[Известная] карта есть «долго» посмотрена на сейчас.",
+            "english": "The chart is being looked at now.",
+            "transcription": "[ðэ ча:т из б**и**:иŋ лукт æт нау]"
+          },
+          {
+            "ours": "Сейчас осматривают парус?",
+            "thought": "Есть [известный] парус «долго» посмотрен на сейчас?",
+            "english": "Is the sail being looked at now?",
+            "transcription": "[из ðэ сэйл б**и**:иŋ лукт æт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be looking at",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут изучать карту.",
+            "thought": "Завтра они будут быть смотрящими на [известную] карту весь день.",
+            "english": "Tomorrow they will be looking at the chart all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: л**у**киŋ æт ðэ ча:т о:л дэй]"
+          },
+          {
+            "ours": "Завтра они весь день будут осматривать парус?",
+            "thought": "Будут они быть смотрящими на [известный] парус весь день завтра?",
+            "english": "Will they be looking at the sail all day tomorrow?",
+            "transcription": "[wил ðэй би: л**у**киŋ æт ðэ сэйл о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been looked at",
+        "examples": [
+          {
+            "ours": "Вчера к пяти карту уже изучили.",
+            "thought": "К пяти вчера [известная] карта имела уже быть посмотрена на.",
+            "english": "By five yesterday the chart had already been looked at.",
+            "transcription": "[бай файв й**э**стэдэй ðэ ча:т хæд о:лр**э**ди би:н лукт æт]"
+          },
+          {
+            "ours": "Парус осмотрели до гонки?",
+            "thought": "Имел [известный] парус быть посмотрен на перед [известной] гонкой?",
+            "english": "Had the sail been looked at before the race?",
+            "transcription": "[хæд ðэ сэйл би:н лукт æт биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been looked at",
+        "examples": [
+          {
+            "ours": "Карту уже изучили.",
+            "thought": "[Известная] карта имеет уже быть посмотрена на.",
+            "english": "The chart has already been looked at.",
+            "transcription": "[ðэ ча:т хæз о:лр**э**ди би:н лукт æт]"
+          },
+          {
+            "ours": "Парус уже осмотрели?",
+            "thought": "Имеет [известный] парус уже быть посмотрен на?",
+            "english": "Has the sail already been looked at?",
+            "transcription": "[хæз ðэ сэйл о:лр**э**ди би:н лукт æт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been looked at",
+        "examples": [
+          {
+            "ours": "Завтра к пяти карту уже изучат.",
+            "thought": "К пяти завтра [известная] карта будет уже иметь быть посмотрена на.",
+            "english": "By five tomorrow the chart will already have been looked at.",
+            "transcription": "[бай файв тэм**о**роу ðэ ча:т wил о:лр**э**ди хæв би:н лукт æт]"
+          },
+          {
+            "ours": "Парус осмотрят до гонки?",
+            "thought": "Будет [известный] парус иметь быть посмотрен на перед [известной] гонкой?",
+            "english": "Will the sail have been looked at before the race?",
+            "transcription": "[wил ðэ сэйл хæв би:н лукт æт биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The chart has been looked at. Или: They have been looking at the chart."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они посмотрят на карту.",
+        "thought": "[Известный] капитан сказал, что они будут смотреть на [известную] карту.",
+        "english": "The captain said that they would look at the chart.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд лук æт ðэ ча:т]"
+      },
+      {
+        "ours": "Я знал, что ты посмотришь на парус.",
+        "thought": "Я знал, что ты будешь смотреть на [известный] парус.",
+        "english": "I knew that you would look at the sail.",
+        "transcription": "[ай нью: ðæт ю: wуд лук æт ðэ сэйл]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "horizon",
+      "meaning": "горизонт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "horizon"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

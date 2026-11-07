@@ -1,0 +1,1134 @@
+{
+  "spec": 3,
+  "verb": "do",
+  "forms": {
+    "base": [
+      {
+        "word": "do",
+        "transcription": "[ду:]"
+      }
+    ],
+    "past": [
+      {
+        "word": "did",
+        "transcription": "[дид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "done",
+        "transcription": "[дан]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "doing",
+        "transcription": "[д**у**:иŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "does",
+        "transcription": "[даз]"
+      }
+    ]
+  },
+  "meaning": "делать, выполнять",
+  "notes": "неправильный глагол; переходный, есть пассив; также вспомогательный глагол",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "did",
+        "examples": [
+          {
+            "ours": "Вчера мы сделали ремонт.",
+            "thought": "Вчера мы сделали [известные] ремонты.",
+            "english": "Yesterday we did the repairs.",
+            "transcription": "[й**э**стэдэй wи: дид ðэ рип**э**эз]"
+          },
+          {
+            "ours": "Ты проверил оборудование перед гонкой?",
+            "thought": "[Сделал] ты делать [известную] безопасности проверку перед [известной] гонкой?",
+            "english": "Did you do the safety check before the race?",
+            "transcription": "[дид ю: ду: ðэ с**э**йфти чэк биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Вчера он не занимался двигателем.",
+            "thought": "Он [сделал] не делать двигателя обслуживание вчера.",
+            "english": "He didn't do engine maintenance yesterday.",
+            "transcription": "[хи: диднт ду: **э**нджин м**э**йнтэнэнс й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "do, does",
+        "examples": [
+          {
+            "ours": "Мы каждый день проверяем безопасность.",
+            "thought": "Мы делаем безопасности проверки каждый день.",
+            "english": "We do safety checks every day.",
+            "transcription": "[wи: ду: с**э**йфти чэкс **э**ври дэй]"
+          },
+          {
+            "ours": "Он не занимается ремонтом.",
+            "thought": "Он [делает] не делать [известные] ремонты.",
+            "english": "He doesn't do the repairs.",
+            "transcription": "[хи: дазнт ду: ðэ рип**э**эз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will do",
+        "examples": [
+          {
+            "ours": "Завтра мы займёмся ремонтом.",
+            "thought": "Завтра мы будем делать [известные] ремонты.",
+            "english": "Tomorrow we will do the repairs.",
+            "transcription": "[тэм**о**роу wи: wил ду: ðэ рип**э**эз]"
+          },
+          {
+            "ours": "Ты проверишь безопасность перед гонкой?",
+            "thought": "Будешь ты делать [известную] безопасности проверку перед [известной] гонкой?",
+            "english": "Will you do the safety check before the race?",
+            "transcription": "[wил ю: ду: ðэ с**э**йфти чэк биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Завтра мы не будем обслуживать двигатель.",
+            "thought": "Завтра мы будем не делать двигателя обслуживание.",
+            "english": "Tomorrow we won't do engine maintenance.",
+            "transcription": "[тэм**о**роу wи: wоунт ду: **э**нджин м**э**йнтэнэнс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were doing",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день занимались ремонтом.",
+            "thought": "Вчера мы были делающими [известные] ремонты весь день.",
+            "english": "Yesterday we were doing the repairs all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: д**у**:иŋ ðэ рип**э**эз о:л дэй]"
+          },
+          {
+            "ours": "Ты вчера весь день занимался ремонтом?",
+            "thought": "Был ты делающим [известные] ремонты весь день вчера?",
+            "english": "Were you doing the repairs all day yesterday?",
+            "transcription": "[wœ: ю: д**у**:иŋ ðэ рип**э**эз о:л дэй й**э**стэдэй]"
+          },
+          {
+            "ours": "Вчера я не занимался двигателем весь день.",
+            "thought": "Вчера я был не делающим двигателя обслуживание весь день.",
+            "english": "Yesterday I wasn't doing engine maintenance all day.",
+            "transcription": "[й**э**стэдэй ай wознт д**у**:иŋ **э**нджин м**э**йнтэнэнс о:л дэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are doing",
+        "examples": [
+          {
+            "ours": "Мы сейчас занимаемся ремонтом.",
+            "thought": "Мы являемся делающими [известные] ремонты сейчас.",
+            "english": "We are doing the repairs now.",
+            "transcription": "[wи: а: д**у**:иŋ ðэ рип**э**эз нау]"
+          },
+          {
+            "ours": "Ты сейчас проверяешь безопасность?",
+            "thought": "Являешься ты делающим [известную] безопасности проверку сейчас?",
+            "english": "Are you doing the safety check now?",
+            "transcription": "[а: ю: д**у**:иŋ ðэ с**э**йфти чэк нау]"
+          },
+          {
+            "ours": "Сейчас он не обслуживает двигатель.",
+            "thought": "Он является не делающим двигателя обслуживание сейчас.",
+            "english": "He isn't doing engine maintenance now.",
+            "transcription": "[хи: изнт д**у**:иŋ **э**нджин м**э**йнтэнэнс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be doing",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем заниматься ремонтом.",
+            "thought": "Завтра мы будем быть делающими [известные] ремонты весь день.",
+            "english": "Tomorrow we will be doing the repairs all day.",
+            "transcription": "[тэм**о**роу wи: wил би: д**у**:иŋ ðэ рип**э**эз о:л дэй]"
+          },
+          {
+            "ours": "Ты завтра весь день будешь проверять безопасность?",
+            "thought": "Будешь ты быть делающим безопасности проверки весь день завтра?",
+            "english": "Will you be doing safety checks all day tomorrow?",
+            "transcription": "[wил ю: би: д**у**:иŋ с**э**йфти чэкс о:л дэй тэм**о**роу]"
+          },
+          {
+            "ours": "Завтра мы не будем заниматься двигателем весь день.",
+            "thought": "Завтра мы будем не быть делающими двигателя обслуживание весь день.",
+            "english": "Tomorrow we won't be doing engine maintenance all day.",
+            "transcription": "[тэм**о**роу wи: wоунт би: д**у**:иŋ **э**нджин м**э**йнтэнэнс о:л дэй]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had done",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы закончили ремонт.",
+            "thought": "К пяти вчера мы имели сделанными [известные] ремонты.",
+            "english": "By five yesterday we had done the repairs.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд дан ðэ рип**э**эз]"
+          },
+          {
+            "ours": "Ты закончил проверку безопасности до гонки?",
+            "thought": "Имел ты сделанной [известную] безопасности проверку перед [известной] гонкой?",
+            "english": "Had you done the safety check before the race?",
+            "transcription": "[хæд ю: дан ðэ с**э**йфти чэк биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Вчера к пяти он ещё не закончил обслуживание двигателя.",
+            "thought": "К пяти вчера он имел не сделанным двигателя обслуживание.",
+            "english": "By five yesterday he hadn't done engine maintenance.",
+            "transcription": "[бай файв й**э**стэдэй хи: хæднт дан **э**нджин м**э**йнтэнэнс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has done",
+        "examples": [
+          {
+            "ours": "Мы уже закончили ремонт.",
+            "thought": "Мы имеем уже сделанными [известные] ремонты.",
+            "english": "We have already done the repairs.",
+            "transcription": "[wи: хæв о:лр**э**ди дан ðэ рип**э**эз]"
+          },
+          {
+            "ours": "Ты уже проверил безопасность?",
+            "thought": "Имеешь ты уже сделанной [известную] безопасности проверку?",
+            "english": "Have you already done the safety check?",
+            "transcription": "[хæв ю: о:лр**э**ди дан ðэ с**э**йфти чэк]"
+          },
+          {
+            "ours": "Он ещё не обслужил двигатель.",
+            "thought": "Он имеет не сделанным двигателя обслуживание.",
+            "english": "He hasn't done engine maintenance.",
+            "transcription": "[хи: хæзнт дан **э**нджин м**э**йнтэнэнс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have done",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы закончим ремонт.",
+            "thought": "К пяти завтра мы будем иметь сделанными [известные] ремонты.",
+            "english": "By five tomorrow we will have done the repairs.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв дан ðэ рип**э**эз]"
+          },
+          {
+            "ours": "Ты проверишь безопасность до гонки?",
+            "thought": "Будешь ты иметь сделанной [известную] безопасности проверку перед [известной] гонкой?",
+            "english": "Will you have done the safety check before the race?",
+            "transcription": "[wил ю: хæв дан ðэ с**э**йфти чэк биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Завтра к пяти он ещё не закончит обслуживание двигателя.",
+            "thought": "К пяти завтра он будет не иметь сделанным двигателя обслуживание.",
+            "english": "By five tomorrow he won't have done engine maintenance.",
+            "transcription": "[бай файв тэм**о**роу хи: wоунт хæв дан **э**нджин м**э**йнтэнэнс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been doing",
+        "examples": [
+          {
+            "ours": "Мы уже два часа занимались ремонтом, когда ты пришёл.",
+            "thought": "Мы имели быть делающими [известные] ремонты целых два часа, когда ты пришёл.",
+            "english": "We had been doing the repairs for two hours when you came.",
+            "transcription": "[wи: хæд би:н д**у**:иŋ ðэ рип**э**эз фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа проверял безопасность, когда он пришёл?",
+            "thought": "Имел ты быть делающим безопасности проверки целых два часа, когда он пришёл?",
+            "english": "Had you been doing safety checks for two hours when he came?",
+            "transcription": "[хæд ю: би:н д**у**:иŋ с**э**йфти чэкс фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been doing",
+        "examples": [
+          {
+            "ours": "Мы уже два часа занимаемся ремонтом.",
+            "thought": "Мы имеем быть делающими [известные] ремонты целых два часа.",
+            "english": "We have been doing the repairs for two hours.",
+            "transcription": "[wи: хæв би:н д**у**:иŋ ðэ рип**э**эз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа проверяешь безопасность?",
+            "thought": "Имеешь ты быть делающим безопасности проверки целых два часа?",
+            "english": "Have you been doing safety checks for two hours?",
+            "transcription": "[хæв ю: би:н д**у**:иŋ с**э**йфти чэкс фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been doing",
+        "examples": [
+          {
+            "ours": "К пяти мы будем заниматься ремонтом уже два часа.",
+            "thought": "К пяти мы будем иметь быть делающими [известные] ремонты целых два часа.",
+            "english": "By five we will have been doing the repairs for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н д**у**:иŋ ðэ рип**э**эз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь проверять безопасность уже два часа?",
+            "thought": "Будешь ты иметь быть делающим безопасности проверки целых два часа к пяти?",
+            "english": "Will you have been doing safety checks for two hours by five?",
+            "transcription": "[wил ю: хæв би:н д**у**:иŋ с**э**йфти чэкс фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were done",
+        "examples": [
+          {
+            "ours": "Ремонт сделали вчера.",
+            "thought": "[Известные] ремонты были сделаны вчера.",
+            "english": "The repairs were done yesterday.",
+            "transcription": "[ðэ рип**э**эз wœ: дан й**э**стэдэй]"
+          },
+          {
+            "ours": "Проверку безопасности провели до гонки?",
+            "thought": "Была [известная] безопасности проверка сделана перед [известной] гонкой?",
+            "english": "Was the safety check done before the race?",
+            "transcription": "[wоз ðэ с**э**йфти чэк дан биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Вчера двигатель не обслужили.",
+            "thought": "Двигателя обслуживание было не сделано вчера.",
+            "english": "Engine maintenance wasn't done yesterday.",
+            "transcription": "[**э**нджин м**э**йнтэнэнс wознт дан й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are done",
+        "examples": [
+          {
+            "ours": "Проверки безопасности проводятся каждый день.",
+            "thought": "Безопасности проверки есть сделаны каждый день.",
+            "english": "Safety checks are done every day.",
+            "transcription": "[с**э**йфти чэкс а: дан **э**ври дэй]"
+          },
+          {
+            "ours": "Ремонт делают на борту?",
+            "thought": "Есть [известные] ремонты сделаны на борту?",
+            "english": "Are the repairs done on board?",
+            "transcription": "[а: ðэ рип**э**эз дан он бо:д]"
+          },
+          {
+            "ours": "Обслуживание двигателя не проводят каждый день.",
+            "thought": "Двигателя обслуживание есть не сделано каждый день.",
+            "english": "Engine maintenance isn't done every day.",
+            "transcription": "[**э**нджин м**э**йнтэнэнс изнт дан **э**ври дэй]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be done",
+        "examples": [
+          {
+            "ours": "Ремонт сделают завтра.",
+            "thought": "[Известные] ремонты будут быть сделаны завтра.",
+            "english": "The repairs will be done tomorrow.",
+            "transcription": "[ðэ рип**э**эз wил би: дан тэм**о**роу]"
+          },
+          {
+            "ours": "Проверку безопасности проведут до гонки?",
+            "thought": "Будет [известная] безопасности проверка быть сделана перед [известной] гонкой?",
+            "english": "Will the safety check be done before the race?",
+            "transcription": "[wил ðэ с**э**йфти чэк би: дан биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Завтра двигатель обслуживать не будут.",
+            "thought": "Двигателя обслуживание будет не быть сделано завтра.",
+            "english": "Engine maintenance won't be done tomorrow.",
+            "transcription": "[**э**нджин м**э**йнтэнэнс wоунт би: дан тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being done",
+        "examples": [
+          {
+            "ours": "Вчера ремонт делали весь день.",
+            "thought": "Вчера [известные] ремонты были «долго» сделаны весь день.",
+            "english": "Yesterday the repairs were being done all day.",
+            "transcription": "[й**э**стэдэй ðэ рип**э**эз wœ: б**и**:иŋ дан о:л дэй]"
+          },
+          {
+            "ours": "Вчера весь день проводили проверки безопасности?",
+            "thought": "Были безопасности проверки «долго» сделаны весь день вчера?",
+            "english": "Were safety checks being done all day yesterday?",
+            "transcription": "[wœ: с**э**йфти чэкс б**и**:иŋ дан о:л дэй й**э**стэдэй]"
+          },
+          {
+            "ours": "Вчера двигатель не обслуживали весь день.",
+            "thought": "Вчера двигателя обслуживание было не «долго» сделано весь день.",
+            "english": "Yesterday engine maintenance wasn't being done all day.",
+            "transcription": "[й**э**стэдэй **э**нджин м**э**йнтэнэнс wознт б**и**:иŋ дан о:л дэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being done",
+        "examples": [
+          {
+            "ours": "Сейчас идёт ремонт.",
+            "thought": "[Известные] ремонты есть «долго» сделаны сейчас.",
+            "english": "The repairs are being done now.",
+            "transcription": "[ðэ рип**э**эз а: б**и**:иŋ дан нау]"
+          },
+          {
+            "ours": "Сейчас проводят проверку безопасности?",
+            "thought": "Есть [известная] безопасности проверка «долго» сделана сейчас?",
+            "english": "Is the safety check being done now?",
+            "transcription": "[из ðэ с**э**йфти чэк б**и**:иŋ дан нау]"
+          },
+          {
+            "ours": "Сейчас двигатель не обслуживают.",
+            "thought": "Двигателя обслуживание есть не «долго» сделано сейчас.",
+            "english": "Engine maintenance isn't being done now.",
+            "transcription": "[**э**нджин м**э**йнтэнэнс изнт б**и**:иŋ дан нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be doing",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут заниматься ремонтом.",
+            "thought": "Завтра они будут быть делающими [известные] ремонты весь день.",
+            "english": "Tomorrow they will be doing the repairs all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: д**у**:иŋ ðэ рип**э**эз о:л дэй]"
+          },
+          {
+            "ours": "Завтра они весь день будут проверять безопасность?",
+            "thought": "Будут они быть делающими безопасности проверки весь день завтра?",
+            "english": "Will they be doing safety checks all day tomorrow?",
+            "transcription": "[wил ðэй би: д**у**:иŋ с**э**йфти чэкс о:л дэй тэм**о**роу]"
+          },
+          {
+            "ours": "Завтра они не будут заниматься двигателем весь день.",
+            "thought": "Завтра они будут не быть делающими двигателя обслуживание весь день.",
+            "english": "Tomorrow they won't be doing engine maintenance all day.",
+            "transcription": "[тэм**о**роу ðэй wоунт би: д**у**:иŋ **э**нджин м**э**йнтэнэнс о:л дэй]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been done",
+        "examples": [
+          {
+            "ours": "Вчера к пяти ремонт был закончен.",
+            "thought": "К пяти вчера [известные] ремонты имели быть сделаны.",
+            "english": "By five yesterday the repairs had been done.",
+            "transcription": "[бай файв й**э**стэдэй ðэ рип**э**эз хæд би:н дан]"
+          },
+          {
+            "ours": "Проверку безопасности провели до гонки?",
+            "thought": "Имела [известная] безопасности проверка быть сделана перед [известной] гонкой?",
+            "english": "Had the safety check been done before the race?",
+            "transcription": "[хæд ðэ с**э**йфти чэк би:н дан биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Вчера к пяти обслуживание двигателя не закончили.",
+            "thought": "К пяти вчера двигателя обслуживание имело не быть сделано.",
+            "english": "By five yesterday engine maintenance hadn't been done.",
+            "transcription": "[бай файв й**э**стэдэй **э**нджин м**э**йнтэнэнс хæднт би:н дан]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been done",
+        "examples": [
+          {
+            "ours": "Ремонт уже сделан.",
+            "thought": "[Известные] ремонты имеют уже быть сделаны.",
+            "english": "The repairs have already been done.",
+            "transcription": "[ðэ рип**э**эз хæв о:лр**э**ди би:н дан]"
+          },
+          {
+            "ours": "Проверку безопасности уже провели?",
+            "thought": "Имеет [известная] безопасности проверка уже быть сделана?",
+            "english": "Has the safety check already been done?",
+            "transcription": "[хæз ðэ с**э**йфти чэк о:лр**э**ди би:н дан]"
+          },
+          {
+            "ours": "Обслуживание двигателя ещё не закончили.",
+            "thought": "Двигателя обслуживание имеет не быть сделано.",
+            "english": "Engine maintenance hasn't been done.",
+            "transcription": "[**э**нджин м**э**йнтэнэнс хæзнт би:н дан]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been done",
+        "examples": [
+          {
+            "ours": "Завтра к пяти ремонт закончат.",
+            "thought": "К пяти завтра [известные] ремонты будут иметь быть сделаны.",
+            "english": "By five tomorrow the repairs will have been done.",
+            "transcription": "[бай файв тэм**о**роу ðэ рип**э**эз wил хæв би:н дан]"
+          },
+          {
+            "ours": "Проверку безопасности проведут до гонки?",
+            "thought": "Будет [известная] безопасности проверка иметь быть сделана перед [известной] гонкой?",
+            "english": "Will the safety check have been done before the race?",
+            "transcription": "[wил ðэ с**э**йфти чэк хæв би:н дан биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Завтра к пяти обслуживание двигателя не закончат.",
+            "thought": "К пяти завтра двигателя обслуживание будет не иметь быть сделано.",
+            "english": "By five tomorrow engine maintenance won't have been done.",
+            "transcription": "[бай файв тэм**о**роу **э**нджин м**э**йнтэнэнс wоунт хæв би:н дан]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Формы пассива типа 4 практически не употребляются. Вместо этого скажут: The repairs have been done. Или: They have been doing the repairs."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они сделают ремонт.",
+        "thought": "[Известный] капитан сказал, что они будут делать [известные] ремонты.",
+        "english": "The captain said that they would do the repairs.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд ду: ðэ рип**э**эз]"
+      },
+      {
+        "ours": "Я знал, что ты проверишь безопасность.",
+        "thought": "Я знал, что ты будешь делать [известную] безопасности проверку.",
+        "english": "I knew that you would do the safety check.",
+        "transcription": "[ай нью: ðæт ю: wуд ду: ðэ с**э**йфти чэк]"
+      },
+      {
+        "ours": "Капитан сказал, что они не будут обслуживать двигатель.",
+        "thought": "[Известный] капитан сказал, что они будут не делать двигателя обслуживание.",
+        "english": "The captain said that they wouldn't do engine maintenance.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуднт ду: **э**нджин м**э**йнтэнэнс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "repair",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "repairs"
+        }
+      ]
+    },
+    {
+      "word": "safety",
+      "meaning": "безопасность",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Safety"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "safety"
+        }
+      ]
+    },
+    {
+      "word": "check",
+      "meaning": "проверка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "check"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "checks"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "check"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "check"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "checks"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "check"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "check"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "check"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "checks"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "checks"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "checks"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "check"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "checks"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "check"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "checks"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "check"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "checks"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "check"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "check"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "check"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "check"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "Engine"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "Engine"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "Engine"
+        },
+        {
+          "phrase": "passive.continuous.past.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "Engine"
+        },
+        {
+          "phrase": "passive.continuous.future.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "Engine"
+        },
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "maintenance",
+      "meaning": "обслуживание",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "passive.continuous.past.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "passive.continuous.future.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "maintenance"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.2",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.2",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

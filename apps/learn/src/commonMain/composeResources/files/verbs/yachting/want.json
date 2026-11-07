@@ -1,0 +1,488 @@
+{
+  "spec": 3,
+  "verb": "want",
+  "forms": {
+    "base": [
+      {
+        "word": "want",
+        "transcription": "[wонт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "wanted",
+        "transcription": "[w**о**нтид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "wanted",
+        "transcription": "[w**о**нтид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "wanting",
+        "transcription": "[w**о**нтиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "wants",
+        "transcription": "[wонтс]"
+      }
+    ]
+  },
+  "meaning": "хотеть, желать; разыскивать",
+  "notes": "правильный глагол состояния; в значении желания обычно не используется в продолженных временах",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "wanted",
+        "examples": [
+          {
+            "ours": "Вчера мы хотели выйти в море.",
+            "thought": "Вчера мы хотели выйти в море.",
+            "english": "Yesterday we wanted to go to sea.",
+            "transcription": "[й**э**стэдэй wи: w**о**нтид ту гоу ту си:]"
+          },
+          {
+            "ours": "Ты хотел новую яхту?",
+            "thought": "[Сделал] ты хотеть [какую-то] новую яхту?",
+            "english": "Did you want a new yacht?",
+            "transcription": "[дид ю: wонт э нью: йот]"
+          },
+          {
+            "ours": "Она не хотела идти на берег.",
+            "thought": "Она [сделала] не хотеть идти на берег.",
+            "english": "She did not want to go ashore.",
+            "transcription": "[ши: дид нот wонт ту гоу эш**о**:]"
+          }
+        ]
+      },
+      "present": {
+        "form": "want, wants",
+        "examples": [
+          {
+            "ours": "Мы хотим выйти в море.",
+            "thought": "Мы хотим выйти в море.",
+            "english": "We want to go to sea.",
+            "transcription": "[wи: wонт ту гоу ту си:]"
+          },
+          {
+            "ours": "Он не хочет новую яхту.",
+            "thought": "Он [делает] не хотеть [какую-то] новую яхту.",
+            "english": "He does not want a new yacht.",
+            "transcription": "[хи: даз нот wонт э нью: йот]"
+          },
+          {
+            "ours": "Ты хочешь идти на берег?",
+            "thought": "[Делаешь] ты хотеть идти на берег?",
+            "english": "Do you want to go ashore?",
+            "transcription": "[ду: ю: wонт ту гоу эш**о**:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will want",
+        "examples": [
+          {
+            "ours": "Завтра мы захотим выйти в море.",
+            "thought": "Завтра мы будем хотеть выйти в море.",
+            "english": "Tomorrow we will want to go to sea.",
+            "transcription": "[тэм**о**роу wи: wил wонт ту гоу ту си:]"
+          },
+          {
+            "ours": "Он не захочет новую яхту.",
+            "thought": "Он будет не хотеть [какую-то] новую яхту.",
+            "english": "He will not want a new yacht.",
+            "transcription": "[хи: wил нот wонт э нью: йот]"
+          },
+          {
+            "ours": "Вы захотите идти на берег после гонки?",
+            "thought": "Будете вы хотеть идти на берег после [известной] гонки?",
+            "english": "Will you want to go ashore after the race?",
+            "transcription": "[wил ю: wонт ту гоу эш**о**: **а**:фтэ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Want обычно описывает состояние, поэтому продолженная форма в этих ситуациях не нужна: We want to go sailing now."
+    },
+    "perfect": {
+      "past": {
+        "form": "had wanted",
+        "examples": [
+          {
+            "ours": "До гонки мы давно хотели новую яхту.",
+            "thought": "Перед [известной] гонкой мы имели давно желанной [какую-то] новую яхту.",
+            "english": "Before the race we had long wanted a new yacht.",
+            "transcription": "[биф**о**: ðэ рэйс wи: хæд лоŋ w**о**нтид э нью: йот]"
+          },
+          {
+            "ours": "Он давно хотел ходить под парусом до той поездки?",
+            "thought": "Имел он давно желанным ходить под парусом перед той поездкой?",
+            "english": "Had he long wanted to sail before that trip?",
+            "transcription": "[хæд хи: лоŋ w**о**нтид ту сэйл биф**о**: ðæт трип]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has wanted",
+        "examples": [
+          {
+            "ours": "Мы давно хотели новую яхту.",
+            "thought": "Мы имеем давно желанной [какую-то] новую яхту.",
+            "english": "We have long wanted a new yacht.",
+            "transcription": "[wи: хæв лоŋ w**о**нтид э нью: йот]"
+          },
+          {
+            "ours": "Он давно хотел ходить под парусом?",
+            "thought": "Имеет он давно желанным ходить под парусом?",
+            "english": "Has he long wanted to sail?",
+            "transcription": "[хæз хи: лоŋ w**о**нтид ту сэйл]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have wanted",
+        "not_possible": "Срок завершения желания обычно выражают иначе: By then we will have wanted a yacht for years — возможно, но в разговоре естественнее We will still want a yacht by then."
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been wanting",
+        "examples": [
+          {
+            "ours": "Мы давно хотели выйти под парусом, когда ветер наконец поднялся.",
+            "thought": "Мы имели быть желающими выйти под парусом целые недели, когда [известный] ветер наконец поднялся.",
+            "english": "We had been wanting to sail for weeks when the wind finally rose.",
+            "transcription": "[wи: хæд би:н w**о**нтиŋ ту сэйл фо: wи:кс wэн ðэ wинд ф**а**йнэли роуз]"
+          },
+          {
+            "ours": "Ты давно хотел выйти в море до этого отпуска?",
+            "thought": "Имел ты быть желающим выйти под парусом целые месяцы перед тем отпуском?",
+            "english": "Had you been wanting to sail for months before that holiday?",
+            "transcription": "[хæд ю: би:н w**о**нтиŋ ту сэйл фо: манθс биф**о**: ðæт х**о**лэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been wanting",
+        "examples": [
+          {
+            "ours": "Мы уже несколько недель хотим выйти под парусом.",
+            "thought": "Мы имеем быть желающими выйти под парусом целые недели.",
+            "english": "We have been wanting to sail for weeks.",
+            "transcription": "[wи: хæв би:н w**о**нтиŋ ту сэйл фо: wи:кс]"
+          },
+          {
+            "ours": "Ты уже несколько месяцев хочешь яхту?",
+            "thought": "Имеешь ты быть желающим [какую-то] яхту целые месяцы?",
+            "english": "Have you been wanting a yacht for months?",
+            "transcription": "[хæв ю: би:н w**о**нтиŋ э йот фо: манθс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been wanting",
+        "not_possible": "Будущее продолженное совершённое с want грамматически возможно, но для желания звучит тяжеловесно. Естественнее: By then I will have wanted a yacht for years."
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were wanted",
+        "examples": [
+          {
+            "ours": "В прошлом году для регаты искали добровольцев.",
+            "thought": "Добровольцы были нужны для [известной] регаты прошлый год.",
+            "english": "Volunteers were wanted for the regatta last year.",
+            "transcription": "[волэнт**и**эз wœ: w**о**нтид фо: ðэ риг**æ**тэ ла:ст йиэ]"
+          },
+          {
+            "ours": "Для яхты искали матросов?",
+            "thought": "Были матросы нужны для [известной] яхты?",
+            "english": "Were sailors wanted for the yacht?",
+            "transcription": "[wœ: с**э**йлэз w**о**нтид фо: ðэ йот]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are wanted",
+        "examples": [
+          {
+            "ours": "Для регаты ищут добровольцев.",
+            "thought": "Добровольцы есть нужны для [известной] регаты.",
+            "english": "Volunteers are wanted for the regatta.",
+            "transcription": "[волэнт**и**эз а: w**о**нтид фо: ðэ риг**æ**тэ]"
+          },
+          {
+            "ours": "Для яхты ищут матросов?",
+            "thought": "Есть матросы нужны для [известной] яхты?",
+            "english": "Are sailors wanted for the yacht?",
+            "transcription": "[а: с**э**йлэз w**о**нтид фо: ðэ йот]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be wanted",
+        "examples": [
+          {
+            "ours": "На следующей неделе для регаты понадобятся добровольцы.",
+            "thought": "Добровольцы будут быть нужны для [известной] регаты следующую неделю.",
+            "english": "Volunteers will be wanted for the regatta next week.",
+            "transcription": "[волэнт**и**эз wил би: w**о**нтид фо: ðэ риг**æ**тэ нэкст wи:к]"
+          },
+          {
+            "ours": "На следующей неделе для яхты понадобятся матросы?",
+            "thought": "Будут матросы быть нужны для [известной] яхты следующую неделю?",
+            "english": "Will sailors be wanted for the yacht next week?",
+            "transcription": "[wил с**э**йлэз би: w**о**нтид фо: ðэ йот нэкст wи:к]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "В объявлениях wanted означает «нужны», обозначая состояние, поэтому длительный пассив здесь неестественен. Говорят: Volunteers are wanted."
+    },
+    "perfect": {
+      "not_possible": "В объявлениях форму состояния wanted обычно выражают простым временем: Volunteers are wanted. Если нужно подчеркнуть длительность, скажут: The regatta has needed volunteers for months."
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: The regatta has needed volunteers for months."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она захочет выйти в море.",
+        "thought": "Я знал, она будет хотеть выйти в море.",
+        "english": "I knew she would want to go to sea.",
+        "transcription": "[ай нью: ши: wуд wонт ту гоу ту си:]"
+      },
+      {
+        "ours": "Он думал, что мы не захотим яхту.",
+        "thought": "Он думал, мы будем не хотеть [какую-то] яхту.",
+        "english": "He thought we would not want a yacht.",
+        "transcription": "[хи: θо:т wи: wуд нот wонт э йот]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "trip",
+      "meaning": "поездка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "trip"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "weeks"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "weeks"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "week"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "week"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "months"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "months"
+        }
+      ]
+    },
+    {
+      "word": "holiday",
+      "meaning": "отпуск",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "holiday"
+        }
+      ]
+    },
+    {
+      "word": "volunteer",
+      "meaning": "доброволец",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Volunteers"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Volunteers"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Volunteers"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "матрос",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "sailors"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+# The iPhone app, unsigned: a plain English-<run>.ipa in the run's artifacts. No certificate and no
+# secret is involved. To put it on a phone, it has to be signed where the certificate is.
+#
+# Built on main and by hand. macOS minutes cost ten Linux ones on a private
+# repository, so a commit of notes alone builds nothing.
+name: ios
+
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['.ai-notes/**', '**.md']
+  workflow_dispatch:
+
+# Read only: a run has nothing to push. What it leaves behind goes to its artifacts, never into git.
+permissions:
+  contents: read
+
+# A newer push replaces the build before it.
+concurrency:
+  group: ios-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  # Compose Multiplatform 1.11.1 references UIViewLayoutRegion, an iOS 26 class, behind an availability check.
+  OTHER_LDFLAGS: '$(inherited) -Wl,-U,_OBJC_CLASS_$_UIViewLayoutRegion'
+
+jobs:
+  ipa:
+    runs-on: macos-26
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/checkout@v4
+        with:
+          repository: adminization/superizer
+          ref: 97bece157e3c8c0f50b212cb807cfc92021bb58b
+          path: superizer-checkout
+
+      - name: Put the library where settings.gradle.kts looks for it
+        run: mv superizer-checkout ../superizer
+
+      - name: Xcode
+        run: xcodebuild -version && xcrun --sdk iphoneos --show-sdk-version
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - uses: gradle/actions/setup-gradle@v4
+
+      # The build number is the run number, so two installs never carry the same CFBundleVersion.
+      - name: Build for a device, unsigned
+        run: |
+          set -o pipefail
+          mkdir -p build
+          xcodebuild -project iosApp/iosApp.xcodeproj -scheme iosApp -configuration Release \
+            -sdk iphoneos -destination 'generic/platform=iOS' \
+            -derivedDataPath build/ios-dd \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY= \
+            CURRENT_PROJECT_VERSION=${{ github.run_number }} \
+            OTHER_LDFLAGS="$OTHER_LDFLAGS" \
+            build 2>&1 | tee build/xcodebuild.log
+
+      # An .ipa is a zip with the app under Payload/. -y keeps the symlinks of the bundle as symlinks.
+      - name: Pack the .ipa
+        run: |
+          mkdir -p build/ipa/Payload
+          cp -R build/ios-dd/Build/Products/Release-iphoneos/English.app build/ipa/Payload/
+          cd build/ipa
+          zip -qry "English-${{ github.run_number }}.ipa" Payload
+
+      # archive: false uploads the file itself, not a zip around it. The artifact takes the file's name.
+      - uses: actions/upload-artifact@v7
+        with:
+          path: build/ipa/English-${{ github.run_number }}.ipa
+          archive: false
+          if-no-files-found: error
+
+      # The log of a failed build is the one thing worth keeping from it, hence always().
+      - uses: actions/upload-artifact@v7
+        if: always()
+        with:
+          name: xcodebuild-log
+          path: build/xcodebuild.log
+          retention-days: 14
+          if-no-files-found: ignore

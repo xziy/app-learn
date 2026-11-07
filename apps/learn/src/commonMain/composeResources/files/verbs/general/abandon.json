@@ -1,0 +1,1642 @@
+{
+  "spec": 3,
+  "verb": "abandon",
+  "forms": {
+    "base": [
+      {
+        "word": "abandon",
+        "transcription": "[эб**æ**ндэн]"
+      }
+    ],
+    "past": [
+      {
+        "word": "abandoned",
+        "transcription": "[эб**æ**ндэнд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "abandoned",
+        "transcription": "[эб**æ**ндэнд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "abandoning",
+        "transcription": "[эб**æ**ндэниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "abandons",
+        "transcription": "[эб**æ**ндэнз]"
+      }
+    ]
+  },
+  "meaning": "покидать, бросать; отказываться (от плана, надежды); прерывать (матч)",
+  "notes": "правильный глагол, бывает с объектом, есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "abandoned",
+        "examples": [
+          {
+            "ours": "Вчера моряки покинули судно.",
+            "thought": "Вчера [известные] моряки покинули [известное] судно.",
+            "english": "Yesterday the sailors abandoned the ship.",
+            "transcription": "[й**э**стэдэй ðэ с**э**йлэз эб**æ**ндэнд ðэ шип]"
+          },
+          {
+            "ours": "Он не бросил свою семью.",
+            "thought": "Он [сделал] не бросать его семью.",
+            "english": "He didn't abandon his family.",
+            "transcription": "[хи: диднт эб**æ**ндэн хиз ф**æ**мили]"
+          },
+          {
+            "ours": "Ты отказался от своего плана?",
+            "thought": "[Сделал] ты бросать твой план?",
+            "english": "Did you abandon your plan?",
+            "transcription": "[дид ю: эб**æ**ндэн йо: плæн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "abandon, abandons",
+        "examples": [
+          {
+            "ours": "Каждое лето люди бросают своих собак на этой дороге.",
+            "thought": "Каждое лето люди бросают их собак на этой дороге.",
+            "english": "Every summer people abandon their dogs on this road.",
+            "transcription": "[**э**ври с**а**мэ п**и**:пл эб**æ**ндэн ðээ догз он ðис роуд]"
+          },
+          {
+            "ours": "Хороший капитан не бросает свою команду.",
+            "thought": "[Какой-то] хороший капитан [делает] не бросать его команду.",
+            "english": "A good captain doesn't abandon his crew.",
+            "transcription": "[э гуд к**æ**птин дазнт эб**æ**ндэн хиз кру:]"
+          },
+          {
+            "ours": "Она часто бросает свои проекты?",
+            "thought": "[Делает] она часто бросать её проекты?",
+            "english": "Does she often abandon her projects?",
+            "transcription": "[даз ши: **о**фэн эб**æ**ндэн хœ: пр**о**джэктс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will abandon",
+        "examples": [
+          {
+            "ours": "Завтра они прекратят поиски.",
+            "thought": "Завтра они будут бросать [известный] поиск.",
+            "english": "Tomorrow they will abandon the search.",
+            "transcription": "[тэм**о**роу ðэй wил эб**æ**ндэн ðэ сœ:ч]"
+          },
+          {
+            "ours": "Я не брошу своих друзей.",
+            "thought": "Я буду не бросать моих друзей.",
+            "english": "I won't abandon my friends.",
+            "transcription": "[ай wоунт эб**æ**ндэн май фрэндз]"
+          },
+          {
+            "ours": "Наш начальник откажется от этой идеи?",
+            "thought": "Будет наш начальник бросать эту идею?",
+            "english": "Will our boss abandon this idea?",
+            "transcription": "[wил ауэ бос эб**æ**ндэн ðис айд**и**э]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were abandoning",
+        "examples": [
+          {
+            "ours": "В тот момент пассажиры покидали горящий паром.",
+            "thought": "В тот момент [известные] пассажиры были покидающими [известный] горящий паром.",
+            "english": "At that moment the passengers were abandoning the burning ferry.",
+            "transcription": "[æт ðæт м**о**умэнт ðэ п**æ**синджэз wœ: эб**æ**ндэниŋ ðэ б**œ**:ниŋ ф**э**ри]"
+          },
+          {
+            "ours": "Когда начался дождь, мы не покидали лагерь.",
+            "thought": "Мы были не покидающими наш лагерь, когда [известный] дождь начался.",
+            "english": "We weren't abandoning our camp when the rain started.",
+            "transcription": "[wи: wœ:нт эб**æ**ндэниŋ ауэ кæмп wэн ðэ рэйн ст**а**:тид]"
+          },
+          {
+            "ours": "Они покидали здание, когда приехала полиция?",
+            "thought": "Были они покидающими [известное] здание, когда [известная] полиция прибыла?",
+            "english": "Were they abandoning the building when the police arrived?",
+            "transcription": "[wœ: ðэй эб**æ**ндэниŋ ðэ б**и**лдиŋ wэн ðэ пэл**и**:с эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are abandoning",
+        "examples": [
+          {
+            "ours": "Компания сейчас уходит с этого рынка.",
+            "thought": "[Известная] компания является покидающей этот рынок сейчас.",
+            "english": "The company is abandoning this market now.",
+            "transcription": "[ðэ к**а**мпэни из эб**æ**ндэниŋ ðис м**а**:кит нау]"
+          },
+          {
+            "ours": "Я сейчас не бросаю учёбу.",
+            "thought": "Я являюсь не бросающим мою учёбу сейчас.",
+            "english": "I am not abandoning my studies now.",
+            "transcription": "[ай æм нот эб**æ**ндэниŋ май ст**а**диз нау]"
+          },
+          {
+            "ours": "Ты что, сейчас бросаешь диету?",
+            "thought": "Являешься ты бросающим твою диету сейчас?",
+            "english": "Are you abandoning your diet now?",
+            "transcription": "[а: ю: эб**æ**ндэниŋ йо: д**а**йэт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be abandoning",
+        "examples": [
+          {
+            "ours": "Завтра в это время мы будем покидать старый офис.",
+            "thought": "В это время завтра мы будем быть покидающими [известный] старый офис.",
+            "english": "At this time tomorrow we will be abandoning the old office.",
+            "transcription": "[æт ðис тайм тэм**о**роу wи: wил би: эб**æ**ндэниŋ ðи оулд **о**фис]"
+          },
+          {
+            "ours": "Во время забастовки она не будет бросать своих пациентов.",
+            "thought": "Она будет не быть бросающей её пациентов во время [известной] забастовки.",
+            "english": "She won't be abandoning her patients during the strike.",
+            "transcription": "[ши: wоунт би: эб**æ**ндэниŋ хœ: п**э**йшэнтс дь**ю**эриŋ ðэ страйк]"
+          },
+          {
+            "ours": "Солдаты будут покидать этот форт на рассвете?",
+            "thought": "Будут [известные] солдаты быть покидающими этот форт на рассвете?",
+            "english": "Will the soldiers be abandoning this fort at dawn?",
+            "transcription": "[wил ðэ с**о**улджэз би: эб**æ**ндэниŋ ðис фо:т æт до:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had abandoned",
+        "examples": [
+          {
+            "ours": "К пяти вчера альпинисты отказались от своей попытки.",
+            "thought": "К пяти вчера [известные] альпинисты имели брошенной их попытку.",
+            "english": "By five yesterday the climbers had abandoned their attempt.",
+            "transcription": "[бай файв й**э**стэдэй ðэ кл**а**ймэз хæд эб**æ**ндэнд ðээ эт**э**мпт]"
+          },
+          {
+            "ours": "К понедельнику я ещё не оставил надежду.",
+            "thought": "К понедельнику я имел не брошенной надежду.",
+            "english": "By Monday I hadn't abandoned hope.",
+            "transcription": "[бай м**а**ндэй ай хæднт эб**æ**ндэнд хоуп]"
+          },
+          {
+            "ours": "Она уже бросила машину, когда кончился снег?",
+            "thought": "Имела она уже брошенной её машину, когда [известный] снег прекратился?",
+            "english": "Had she already abandoned her car when the snow stopped?",
+            "transcription": "[хæд ши: о:лр**э**ди эб**æ**ндэнд хœ: ка: wэн ðэ сноу стопт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has abandoned",
+        "examples": [
+          {
+            "ours": "Хозяин уже бросил этот старый дом.",
+            "thought": "[Известный] владелец имеет уже брошенным этот старый дом.",
+            "english": "The owner has already abandoned this old house.",
+            "transcription": "[ðи **о**унэ хæз о:лр**э**ди эб**æ**ндэнд ðис оулд хаус]"
+          },
+          {
+            "ours": "Мы не отказались от своей мечты.",
+            "thought": "Мы имеем не брошенной нашу мечту.",
+            "english": "We haven't abandoned our dream.",
+            "transcription": "[wи: хæвнт эб**æ**ндэнд ауэ дри:м]"
+          },
+          {
+            "ours": "Твой брат бросил свою карьеру?",
+            "thought": "Имеет твой брат брошенной его карьеру?",
+            "english": "Has your brother abandoned his career?",
+            "transcription": "[хæз йо: бр**а**ðэ эб**æ**ндэнд хиз кэр**и**э]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have abandoned",
+        "examples": [
+          {
+            "ours": "К пятнице жильцы уже покинут эту квартиру.",
+            "thought": "К пятнице [известные] жильцы будут иметь брошенной эту квартиру.",
+            "english": "By Friday the tenants will have abandoned this flat.",
+            "transcription": "[бай фр**а**йдэй ðэ т**э**нэнтс wил хæв эб**æ**ндэнд ðис флæт]"
+          },
+          {
+            "ours": "К весне они ещё не откажутся от переговоров.",
+            "thought": "К весне они будут не иметь брошенными [известные] переговоры.",
+            "english": "By spring they won't have abandoned the talks.",
+            "transcription": "[бай сприŋ ðэй wоунт хæв эб**æ**ндэнд ðэ то:кс]"
+          },
+          {
+            "ours": "Правительство откажется от этой реформы к осени?",
+            "thought": "Будет [известное] правительство иметь брошенной эту реформу к осени?",
+            "english": "Will the government have abandoned this reform by autumn?",
+            "transcription": "[wил ðэ г**а**вэнмэнт хæв эб**æ**ндэнд ðис риф**о**:м бай **о**:тэм]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been abandoning",
+        "examples": [
+          {
+            "ours": "Фермеры бросали эти поля целых десять лет, когда кончилась засуха.",
+            "thought": "Фермеры имели быть бросающими эти поля целых десять лет, когда [известная] засуха кончилась.",
+            "english": "Farmers had been abandoning these fields for ten years when the drought ended.",
+            "transcription": "[ф**а**:мэз хæд би:н эб**æ**ндэниŋ ðи:з фи:лдз фо: тэн йиэз wэн ðэ драут **э**ндид]"
+          },
+          {
+            "ours": "Студенты месяцами бросали этот курс, когда декан это заметил?",
+            "thought": "Имели студенты быть бросающими этот курс целые месяцы, когда [известный] декан заметил?",
+            "english": "Had students been abandoning this course for months when the dean noticed?",
+            "transcription": "[хæд сть**ю**:дэнтс би:н эб**æ**ндэниŋ ðис ко:с фо: манθс wэн ðэ ди:н н**о**утист]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been abandoning",
+        "examples": [
+          {
+            "ours": "Покупатели уходят из нашего магазина целых два года.",
+            "thought": "Покупатели имеют быть покидающими наш магазин целых два года.",
+            "english": "Customers have been abandoning our shop for two years.",
+            "transcription": "[к**а**стэмэз хæв би:н эб**æ**ндэниŋ ауэ шоп фо: ту: йиэз]"
+          },
+          {
+            "ours": "Твой отдел уже целый год отказывается от этих методов?",
+            "thought": "Имеет твой отдел быть бросающим эти методы целый [какой-то] год?",
+            "english": "Has your department been abandoning these methods for a year?",
+            "transcription": "[хæз йо: дип**а**:тмэнт би:н эб**æ**ндэниŋ ðи:з м**э**θэдз фо: э йиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been abandoning",
+        "examples": [
+          {
+            "ours": "К следующей зиме селяне будут уезжать из этой долины уже целых двадцать лет.",
+            "thought": "К следующей зиме [известные] селяне будут иметь быть покидающими эту долину целых двадцать лет.",
+            "english": "By next winter the villagers will have been abandoning this valley for twenty years.",
+            "transcription": "[бай нэкст w**и**нтэ ðэ в**и**лиджэз wил хæв би:н эб**æ**ндэниŋ ðис в**æ**ли фо: тw**э**нти йиэз]"
+          },
+          {
+            "ours": "К декабрю актёры будут уходить из этого театра уже целый год?",
+            "thought": "Будут актёры иметь быть покидающими этот театр целый [какой-то] год к декабрю?",
+            "english": "Will actors have been abandoning this theatre for a year by December?",
+            "transcription": "[wил **æ**ктэз хæв би:н эб**æ**ндэниŋ ðис θ**и**этэ фо: э йиэ бай дис**э**мбэ]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were abandoned",
+        "examples": [
+          {
+            "ours": "Этого щенка бросили вчера.",
+            "thought": "Этот щенок был брошен вчера.",
+            "english": "This puppy was abandoned yesterday.",
+            "transcription": "[ðис п**а**пи wоз эб**æ**ндэнд й**э**стэдэй]"
+          },
+          {
+            "ours": "Матч не прервали из-за тумана.",
+            "thought": "[Известный] матч был не прерван из-за [известного] тумана.",
+            "english": "The match wasn't abandoned because of the fog.",
+            "transcription": "[ðэ мæч wознт эб**æ**ндэнд бик**о**з ов ðэ фог]"
+          },
+          {
+            "ours": "Эти сумки бросили на вокзале?",
+            "thought": "Были эти сумки брошены на [известном] вокзале?",
+            "english": "Were these bags abandoned at the station?",
+            "transcription": "[wœ: ðи:з бæгз эб**æ**ндэнд æт ðэ ст**э**йшн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are abandoned",
+        "examples": [
+          {
+            "ours": "Многие старые лодки здесь бросают каждый год.",
+            "thought": "Многие старые лодки есть брошены здесь каждый год.",
+            "english": "Many old boats are abandoned here every year.",
+            "transcription": "[м**э**ни оулд боутс а: эб**æ**ндэнд хиэ **э**ври йиэ]"
+          },
+          {
+            "ours": "От таких традиций легко не отказываются.",
+            "thought": "Такие традиции есть не брошены легко.",
+            "english": "Such traditions aren't abandoned easily.",
+            "transcription": "[сач трэд**и**шнз а:нт эб**æ**ндэнд **и**:зили]"
+          },
+          {
+            "ours": "Эти шахты бросают, когда падают цены?",
+            "thought": "Есть эти шахты брошены, когда цены падают?",
+            "english": "Are these mines abandoned when prices fall?",
+            "transcription": "[а: ðи:з майнз эб**æ**ндэнд wэн пр**а**йсиз фо:л]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be abandoned",
+        "examples": [
+          {
+            "ours": "Завтра от этого законопроекта откажутся.",
+            "thought": "Этот законопроект будет быть брошен завтра.",
+            "english": "This bill will be abandoned tomorrow.",
+            "transcription": "[ðис бил wил би: эб**æ**ндэнд тэм**о**роу]"
+          },
+          {
+            "ours": "Твой багаж в аэропорту не бросят.",
+            "thought": "Твой багаж будет не быть брошен в [известном] аэропорту.",
+            "english": "Your luggage won't be abandoned at the airport.",
+            "transcription": "[йо: л**а**гидж wоунт би: эб**æ**ндэнд æт ðи **э**эпо:т]"
+          },
+          {
+            "ours": "От этого маршрута откажутся в следующем году?",
+            "thought": "Будет этот маршрут быть брошен следующий год?",
+            "english": "Will this route be abandoned next year?",
+            "transcription": "[wил ðис ру:т би: эб**æ**ндэнд нэкст йиэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being abandoned",
+        "examples": [
+          {
+            "ours": "Эту фабрику покидали весь прошлый год.",
+            "thought": "Эта фабрика была «долго» брошена весь прошлый год.",
+            "english": "This factory was being abandoned all last year.",
+            "transcription": "[ðис ф**æ**ктэри wоз б**и**:иŋ эб**æ**ндэнд о:л ла:ст йиэ]"
+          },
+          {
+            "ours": "Те палатки бросали, когда поднялся ветер?",
+            "thought": "Были те палатки «долго» брошены, когда [известный] ветер поднялся?",
+            "english": "Were those tents being abandoned when the wind rose?",
+            "transcription": "[wœ: ðоуз тэнтс б**и**:иŋ эб**æ**ндэнд wэн ðэ wинд роуз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being abandoned",
+        "examples": [
+          {
+            "ours": "Этот район сейчас покидают.",
+            "thought": "Этот район есть «долго» брошен сейчас.",
+            "english": "This neighbourhood is being abandoned now.",
+            "transcription": "[ðис н**э**йбэхуд из б**и**:иŋ эб**æ**ндэнд нау]"
+          },
+          {
+            "ours": "От этого стандарта сейчас не отказываются.",
+            "thought": "Этот стандарт есть не «долго» брошен сейчас.",
+            "english": "This standard isn't being abandoned now.",
+            "transcription": "[ðис ст**æ**ндэд изнт б**и**:иŋ эб**æ**ндэнд нау]"
+          },
+          {
+            "ours": "От этого лечения сейчас отказываются?",
+            "thought": "Есть это лечение «долго» брошено сейчас?",
+            "english": "Is this treatment being abandoned now?",
+            "transcription": "[из ðис тр**и**:тмэнт б**и**:иŋ эб**æ**ндэнд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be abandoning",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут покидать эту базу.",
+            "thought": "Завтра они будут быть покидающими эту базу весь день.",
+            "english": "Tomorrow they will be abandoning this base all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: эб**æ**ндэниŋ ðис бэйс о:л дэй]"
+          },
+          {
+            "ours": "Всю следующую неделю они не будут бросать этот склад.",
+            "thought": "Они будут не быть бросающими этот склад всю следующую неделю.",
+            "english": "They won't be abandoning this warehouse all next week.",
+            "transcription": "[ðэй wоунт би: эб**æ**ндэниŋ ðис w**э**эхаус о:л нэкст wи:к]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been abandoned",
+        "examples": [
+          {
+            "ours": "К пяти вчера пещеру уже покинули.",
+            "thought": "К пяти вчера [известная] пещера имела быть брошена.",
+            "english": "By five yesterday the cave had been abandoned.",
+            "transcription": "[бай файв й**э**стэдэй ðэ кэйв хæд би:н эб**æ**ндэнд]"
+          },
+          {
+            "ours": "К полудню этот маяк ещё не покинули.",
+            "thought": "К полудню этот маяк имел не быть брошен.",
+            "english": "By noon this lighthouse hadn't been abandoned.",
+            "transcription": "[бай ну:н ðис л**а**йтхаус хæднт би:н эб**æ**ндэнд]"
+          },
+          {
+            "ours": "От этой сделки отказались к марту?",
+            "thought": "Имела эта сделка быть брошена к марту?",
+            "english": "Had this deal been abandoned by March?",
+            "transcription": "[хæд ðис ди:л би:н эб**æ**ндэнд бай ма:ч]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been abandoned",
+        "examples": [
+          {
+            "ours": "Этот сад уже забросили.",
+            "thought": "Этот сад имеет уже быть брошен.",
+            "english": "This garden has already been abandoned.",
+            "transcription": "[ðис г**а**:дэн хæз о:лр**э**ди би:н эб**æ**ндэнд]"
+          },
+          {
+            "ours": "От этих экспериментов ещё не отказались.",
+            "thought": "Эти эксперименты имеют не быть брошены ещё.",
+            "english": "These experiments haven't been abandoned yet.",
+            "transcription": "[ðи:з икст**э**римэнтс хæвнт би:н эб**æ**ндэнд йэт]"
+          },
+          {
+            "ours": "Этот коттедж уже забросили?",
+            "thought": "Имеет этот коттедж уже быть брошен?",
+            "english": "Has this cottage already been abandoned?",
+            "transcription": "[хæз ðис к**о**тидж о:лр**э**ди би:н эб**æ**ндэнд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been abandoned",
+        "examples": [
+          {
+            "ours": "К пяти завтра это убежище уже покинут.",
+            "thought": "К пяти завтра это убежище будет иметь быть брошено.",
+            "english": "By five tomorrow this shelter will have been abandoned.",
+            "transcription": "[бай файв тэм**о**роу ðис ш**э**лтэ wил хæв би:н эб**æ**ндэнд]"
+          },
+          {
+            "ours": "К лету от этой программы ещё не откажутся.",
+            "thought": "К лету эта программа будет не иметь быть брошена.",
+            "english": "By summer this programme won't have been abandoned.",
+            "transcription": "[бай с**а**мэ ðис пр**о**угрæм wоунт хæв би:н эб**æ**ндэнд]"
+          },
+          {
+            "ours": "Старый трубопровод забросят к следующему году?",
+            "thought": "Будет [известный] старый трубопровод иметь быть брошен к следующему году?",
+            "english": "Will the old pipeline have been abandoned by next year?",
+            "transcription": "[wил ðи оулд п**а**йплайн хæв би:н эб**æ**ндэнд бай нэкст йиэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being abandoned` не употребляется. Вместо этого скажут: `This house has been abandoned.` или `They have been abandoning this house.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что он бросит этот бизнес.",
+        "thought": "Я знал, что он будет бросать этот бизнес.",
+        "english": "I knew that he would abandon this business.",
+        "transcription": "[ай нью: ðæт хи: wуд эб**æ**ндэн ðис б**и**знис]"
+      },
+      {
+        "ours": "Она сказала, что не бросит сына.",
+        "thought": "Она сказала, что она будет не бросать её сына.",
+        "english": "She said that she wouldn't abandon her son.",
+        "transcription": "[ши: сэд ðæт ши: wуднт эб**æ**ндэн хœ: сан]"
+      },
+      {
+        "ours": "Ты думал, что они покинут деревню?",
+        "thought": "[Сделал] ты думать, что они будут покидать [известную] деревню?",
+        "english": "Did you think that they would abandon the village?",
+        "transcription": "[дид ю: θинк ðæт ðэй wуд эб**æ**ндэн ðэ в**и**лидж]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sailors"
+        }
+      ]
+    },
+    {
+      "word": "ship",
+      "meaning": "корабль",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "ship"
+        }
+      ]
+    },
+    {
+      "word": "family",
+      "meaning": "семья",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "family"
+        }
+      ]
+    },
+    {
+      "word": "plan",
+      "meaning": "план",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "plan"
+        }
+      ]
+    },
+    {
+      "word": "summer",
+      "meaning": "лето",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "summer"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "summer"
+        }
+      ]
+    },
+    {
+      "word": "people",
+      "meaning": "люди",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "people"
+        }
+      ]
+    },
+    {
+      "word": "dog",
+      "meaning": "собака",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "dogs"
+        }
+      ]
+    },
+    {
+      "word": "road",
+      "meaning": "дорога",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "road"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "project",
+      "meaning": "проект",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "projects"
+        }
+      ]
+    },
+    {
+      "word": "search",
+      "meaning": "поиски",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "search"
+        }
+      ]
+    },
+    {
+      "word": "friend",
+      "meaning": "друг",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "friends"
+        }
+      ]
+    },
+    {
+      "word": "boss",
+      "meaning": "начальник",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "boss"
+        }
+      ]
+    },
+    {
+      "word": "idea",
+      "meaning": "идея",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "idea"
+        }
+      ]
+    },
+    {
+      "word": "moment",
+      "meaning": "момент",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "moment"
+        }
+      ]
+    },
+    {
+      "word": "passenger",
+      "meaning": "пассажир",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "passengers"
+        }
+      ]
+    },
+    {
+      "word": "ferry",
+      "meaning": "паром",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "ferry"
+        }
+      ]
+    },
+    {
+      "word": "camp",
+      "meaning": "лагерь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "camp"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "building",
+      "meaning": "здание",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "building"
+        }
+      ]
+    },
+    {
+      "word": "police",
+      "meaning": "полиция",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "police"
+        }
+      ]
+    },
+    {
+      "word": "company",
+      "meaning": "компания",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "company"
+        }
+      ]
+    },
+    {
+      "word": "market",
+      "meaning": "рынок",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "market"
+        }
+      ]
+    },
+    {
+      "word": "studies",
+      "meaning": "учёба",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "studies"
+        }
+      ]
+    },
+    {
+      "word": "diet",
+      "meaning": "диета",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "diet"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "office",
+      "meaning": "офис",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "office"
+        }
+      ]
+    },
+    {
+      "word": "patient",
+      "meaning": "пациент",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "patients"
+        }
+      ]
+    },
+    {
+      "word": "strike",
+      "meaning": "забастовка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "strike"
+        }
+      ]
+    },
+    {
+      "word": "soldier",
+      "meaning": "солдат",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "soldiers"
+        }
+      ]
+    },
+    {
+      "word": "fort",
+      "meaning": "форт",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "fort"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "climber",
+      "meaning": "альпинист",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "climbers"
+        }
+      ]
+    },
+    {
+      "word": "attempt",
+      "meaning": "попытка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "attempt"
+        }
+      ]
+    },
+    {
+      "word": "Monday",
+      "meaning": "понедельник",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "Monday"
+        }
+      ]
+    },
+    {
+      "word": "hope",
+      "meaning": "надежда",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "hope"
+        }
+      ]
+    },
+    {
+      "word": "car",
+      "meaning": "машина",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "car"
+        }
+      ]
+    },
+    {
+      "word": "snow",
+      "meaning": "снег",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "snow"
+        }
+      ]
+    },
+    {
+      "word": "owner",
+      "meaning": "владелец",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "owner"
+        }
+      ]
+    },
+    {
+      "word": "house",
+      "meaning": "дом",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "house"
+        }
+      ]
+    },
+    {
+      "word": "dream",
+      "meaning": "мечта",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "dream"
+        }
+      ]
+    },
+    {
+      "word": "brother",
+      "meaning": "брат",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "brother"
+        }
+      ]
+    },
+    {
+      "word": "career",
+      "meaning": "карьера",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "career"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "tenant",
+      "meaning": "жилец",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "tenants"
+        }
+      ]
+    },
+    {
+      "word": "flat",
+      "meaning": "квартира",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "flat"
+        }
+      ]
+    },
+    {
+      "word": "spring",
+      "meaning": "весна",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "spring"
+        }
+      ]
+    },
+    {
+      "word": "talks",
+      "meaning": "переговоры",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "talks"
+        }
+      ]
+    },
+    {
+      "word": "government",
+      "meaning": "правительство",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "government"
+        }
+      ]
+    },
+    {
+      "word": "reform",
+      "meaning": "реформа",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "reform"
+        }
+      ]
+    },
+    {
+      "word": "autumn",
+      "meaning": "осень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "autumn"
+        }
+      ]
+    },
+    {
+      "word": "farmer",
+      "meaning": "фермер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "Farmers"
+        }
+      ]
+    },
+    {
+      "word": "field",
+      "meaning": "поле",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "fields"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "year"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "year"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "year"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "year"
+        },
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "drought",
+      "meaning": "засуха",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "drought"
+        }
+      ]
+    },
+    {
+      "word": "student",
+      "meaning": "студент",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "students"
+        }
+      ]
+    },
+    {
+      "word": "course",
+      "meaning": "курс",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "course"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "months"
+        }
+      ]
+    },
+    {
+      "word": "dean",
+      "meaning": "декан",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "dean"
+        }
+      ]
+    },
+    {
+      "word": "customer",
+      "meaning": "покупатель",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "Customers"
+        }
+      ]
+    },
+    {
+      "word": "shop",
+      "meaning": "магазин",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "shop"
+        }
+      ]
+    },
+    {
+      "word": "department",
+      "meaning": "отдел",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "department"
+        }
+      ]
+    },
+    {
+      "word": "method",
+      "meaning": "метод",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "methods"
+        }
+      ]
+    },
+    {
+      "word": "winter",
+      "meaning": "зима",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "winter"
+        }
+      ]
+    },
+    {
+      "word": "villager",
+      "meaning": "житель деревни",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "villagers"
+        }
+      ]
+    },
+    {
+      "word": "valley",
+      "meaning": "долина",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "valley"
+        }
+      ]
+    },
+    {
+      "word": "actor",
+      "meaning": "актёр",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "actors"
+        }
+      ]
+    },
+    {
+      "word": "theatre",
+      "meaning": "театр",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "theatre"
+        }
+      ]
+    },
+    {
+      "word": "December",
+      "meaning": "декабрь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "December"
+        }
+      ]
+    },
+    {
+      "word": "puppy",
+      "meaning": "щенок",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "puppy"
+        }
+      ]
+    },
+    {
+      "word": "match",
+      "meaning": "матч",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "match"
+        }
+      ]
+    },
+    {
+      "word": "fog",
+      "meaning": "туман",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "fog"
+        }
+      ]
+    },
+    {
+      "word": "bag",
+      "meaning": "сумка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "bags"
+        }
+      ]
+    },
+    {
+      "word": "station",
+      "meaning": "вокзал",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "station"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "boats"
+        }
+      ]
+    },
+    {
+      "word": "tradition",
+      "meaning": "традиция",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "traditions"
+        }
+      ]
+    },
+    {
+      "word": "mine",
+      "meaning": "шахта",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "mines"
+        }
+      ]
+    },
+    {
+      "word": "price",
+      "meaning": "цена",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "prices"
+        }
+      ]
+    },
+    {
+      "word": "bill",
+      "meaning": "законопроект",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "bill"
+        }
+      ]
+    },
+    {
+      "word": "luggage",
+      "meaning": "багаж",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "luggage"
+        }
+      ]
+    },
+    {
+      "word": "airport",
+      "meaning": "аэропорт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "airport"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "factory",
+      "meaning": "завод",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "factory"
+        }
+      ]
+    },
+    {
+      "word": "tent",
+      "meaning": "палатка",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "tents"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "neighbourhood",
+      "meaning": "район",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "neighbourhood"
+        }
+      ]
+    },
+    {
+      "word": "standard",
+      "meaning": "стандарт",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "standard"
+        }
+      ]
+    },
+    {
+      "word": "treatment",
+      "meaning": "лечение",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "treatment"
+        }
+      ]
+    },
+    {
+      "word": "base",
+      "meaning": "база",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "base"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "warehouse",
+      "meaning": "склад",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "warehouse"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "week"
+        }
+      ]
+    },
+    {
+      "word": "cave",
+      "meaning": "пещера",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "cave"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "lighthouse",
+      "meaning": "маяк",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "lighthouse"
+        }
+      ]
+    },
+    {
+      "word": "deal",
+      "meaning": "сделка",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "deal"
+        }
+      ]
+    },
+    {
+      "word": "March",
+      "meaning": "март",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "March"
+        }
+      ]
+    },
+    {
+      "word": "garden",
+      "meaning": "сад",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "garden"
+        }
+      ]
+    },
+    {
+      "word": "experiment",
+      "meaning": "эксперимент",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "experiments"
+        }
+      ]
+    },
+    {
+      "word": "cottage",
+      "meaning": "коттедж",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "cottage"
+        }
+      ]
+    },
+    {
+      "word": "shelter",
+      "meaning": "укрытие",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "shelter"
+        }
+      ]
+    },
+    {
+      "word": "programme",
+      "meaning": "программа",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "programme"
+        }
+      ]
+    },
+    {
+      "word": "pipeline",
+      "meaning": "трубопровод",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "pipeline"
+        }
+      ]
+    },
+    {
+      "word": "business",
+      "meaning": "бизнес",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "business"
+        }
+      ]
+    },
+    {
+      "word": "son",
+      "meaning": "сын",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "son"
+        }
+      ]
+    },
+    {
+      "word": "village",
+      "meaning": "деревня",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "village"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1608 @@
+{
+  "spec": 3,
+  "verb": "abort",
+  "forms": {
+    "base": [
+      {
+        "word": "abort",
+        "transcription": "[эб**о**:т]"
+      }
+    ],
+    "past": [
+      {
+        "word": "aborted",
+        "transcription": "[эб**о**:тид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "aborted",
+        "transcription": "[эб**о**:тид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "aborting",
+        "transcription": "[эб**о**:тиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "aborts",
+        "transcription": "[эб**о**:тс]"
+      }
+    ]
+  },
+  "meaning": "прерывать, досрочно прекращать (полёт, запуск, операцию, программу), прерываться; прерывать беременность",
+  "notes": "правильный глагол, бывает с объектом и без него, есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "aborted",
+        "examples": [
+          {
+            "ours": "Вчера пилот прервал посадку.",
+            "thought": "Вчера [известный] пилот прервал [известную] посадку.",
+            "english": "Yesterday the pilot aborted the landing.",
+            "transcription": "[й**э**стэдэй ðэ п**а**йлэт эб**о**:тид ðэ л**æ**ндиŋ]"
+          },
+          {
+            "ours": "Несмотря на туман, мы не прервали восхождение.",
+            "thought": "Мы [сделали] не прерывать [известное] восхождение несмотря на [известный] туман.",
+            "english": "We didn't abort the climb despite the fog.",
+            "transcription": "[wи: диднт эб**о**:т ðэ клайм дисп**а**йт ðэ фог]"
+          },
+          {
+            "ours": "Ты прервал обновление?",
+            "thought": "[Сделал] ты прерывать [известное] обновление?",
+            "english": "Did you abort the update?",
+            "transcription": "[дид ю: эб**о**:т ðи **а**пдэйт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "abort, aborts",
+        "examples": [
+          {
+            "ours": "Эта программа прерывается каждый раз, когда обрывается связь.",
+            "thought": "Эта программа прерывается каждый раз, [известная] связь обрывается.",
+            "english": "This program aborts every time the connection drops.",
+            "transcription": "[ðис пр**о**угрæм эб**о**:тс **э**ври тайм ðэ кэн**э**кшн дропс]"
+          },
+          {
+            "ours": "Опытные водолазы не прерывают погружение без причины.",
+            "thought": "Опытные водолазы [делают] не прерывать [какое-то] погружение без [какой-то] причины.",
+            "english": "Experienced divers don't abort a dive without a reason.",
+            "transcription": "[иксп**и**эриэнст д**а**йвэз доунт эб**о**:т э дайв wиð**а**ут э р**и**:зэн]"
+          },
+          {
+            "ours": "Твой хирург когда-нибудь прерывает операцию?",
+            "thought": "[Делает] твой хирург когда-либо прерывать [какую-то] операцию?",
+            "english": "Does your surgeon ever abort an operation?",
+            "transcription": "[даз йо: с**œ**:джн **э**вэ эб**о**:т эн опэр**э**йшн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will abort",
+        "examples": [
+          {
+            "ours": "Экипаж прервёт полёт, если погода ухудшится.",
+            "thought": "[Известный] экипаж будет прерывать [известный] полёт, если [известная] погода становится хуже.",
+            "english": "The crew will abort the flight if the weather gets worse.",
+            "transcription": "[ðэ кру: wил эб**о**:т ðэ флайт иф ðэ w**э**ðэ гэтс wœ:с]"
+          },
+          {
+            "ours": "Она не прервёт эксперимент.",
+            "thought": "Она будет не прерывать [известный] эксперимент.",
+            "english": "She won't abort the experiment.",
+            "transcription": "[ши: wоунт эб**о**:т ðи иксп**э**римэнт]"
+          },
+          {
+            "ours": "Они завтра прервут запуск?",
+            "thought": "Будут они прерывать [известный] запуск завтра?",
+            "english": "Will they abort the launch tomorrow?",
+            "transcription": "[wил ðэй эб**о**:т ðэ ло:нч тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were aborting",
+        "examples": [
+          {
+            "ours": "Вчера в пять капитан как раз прерывал плавание.",
+            "thought": "В пять вчера [известный] капитан был прерывающим [известное] плавание.",
+            "english": "At five yesterday the captain was aborting the voyage.",
+            "transcription": "[æт файв й**э**стэдэй ðэ к**æ**птин wоз эб**о**:тиŋ ðэ в**о**йидж]"
+          },
+          {
+            "ours": "Я не прерывал загрузку, когда погас экран.",
+            "thought": "Я был не прерывающим [известную] загрузку, когда [известный] экран стал чёрным.",
+            "english": "I wasn't aborting the download when the screen went black.",
+            "transcription": "[ай wознт эб**о**:тиŋ ðэ д**а**унлоуд wэн ðэ скри:н wэнт блæк]"
+          },
+          {
+            "ours": "Они прерывали налёт, когда пришло сообщение?",
+            "thought": "Были они прерывающими [известный] налёт, когда [известное] сообщение пришло?",
+            "english": "Were they aborting the raid when the message came?",
+            "transcription": "[wœ: ðэй эб**о**:тиŋ ðэ рэйд wэн ðэ м**э**сидж кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are aborting",
+        "examples": [
+          {
+            "ours": "Я сейчас прерываю этот тест.",
+            "thought": "Я являюсь прерывающим этот тест сейчас.",
+            "english": "I am aborting this test now.",
+            "transcription": "[ай æм эб**о**:тиŋ ðис тэст нау]"
+          },
+          {
+            "ours": "Наша команда сейчас не сворачивает проект.",
+            "thought": "Наша команда является не прерывающей [известный] проект сейчас.",
+            "english": "Our team isn't aborting the project now.",
+            "transcription": "[ауэ ти:м изнт эб**о**:тиŋ ðэ пр**о**джэкт нау]"
+          },
+          {
+            "ours": "Ты сейчас прерываешь резервное копирование?",
+            "thought": "Являешься ты прерывающим [известное] резервное копирование сейчас?",
+            "english": "Are you aborting the backup now?",
+            "transcription": "[а: ю: эб**о**:тиŋ ðэ б**æ**кап нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be aborting",
+        "examples": [
+          {
+            "ours": "Завтра с трёх до семи мы будем прерывать все пробные прогоны.",
+            "thought": "Завтра с трёх до семи мы будем быть прерывающими все [известные] пробные прогоны.",
+            "english": "Tomorrow from three to seven we will be aborting all the trial runs.",
+            "transcription": "[тэм**о**роу фром θри: ту с**э**вэн wи: wил би: эб**о**:тиŋ о:л ðэ тр**а**йэл ранз]"
+          },
+          {
+            "ours": "На следующей неделе генерал не будет прерывать наступление.",
+            "thought": "[Известный] генерал будет не быть прерывающим [известное] наступление следующую неделю.",
+            "english": "The general won't be aborting the offensive next week.",
+            "transcription": "[ðэ дж**э**нрэл wоунт би: эб**о**:тиŋ ðи эф**э**нсив нэкст wи:к]"
+          },
+          {
+            "ours": "Он будет прерывать гастроли в следующем месяце?",
+            "thought": "Будет он быть прерывающим [известные] гастроли следующий месяц?",
+            "english": "Will he be aborting the tour next month?",
+            "transcription": "[wил хи: би: эб**о**:тиŋ ðэ туэ нэкст манθ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had aborted",
+        "examples": [
+          {
+            "ours": "К полудню вчера спасатели уже прервали поиски.",
+            "thought": "К полудню вчера [известные] спасатели имели уже прерванными [известные] поиски.",
+            "english": "By noon yesterday the rescuers had already aborted the search.",
+            "transcription": "[бай ну:н й**э**стэдэй ðэ р**э**скью:эз хæд о:лр**э**ди эб**о**:тид ðэ сœ:ч]"
+          },
+          {
+            "ours": "К понедельнику мой брат ещё не прервал поездку.",
+            "thought": "К понедельнику мой брат имел не прерванной его поездку.",
+            "english": "By Monday my brother hadn't aborted his trip.",
+            "transcription": "[бай м**а**ндэй май бр**а**ðэ хæднт эб**о**:тид хиз трип]"
+          },
+          {
+            "ours": "Ты успел прервать сделку к тому времени?",
+            "thought": "Имел ты прерванной [известную] сделку к тогда?",
+            "english": "Had you aborted the deal by then?",
+            "transcription": "[хæд ю: эб**о**:тид ðэ ди:л бай ðэн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has aborted",
+        "examples": [
+          {
+            "ours": "Наш банк уже прервал платёж.",
+            "thought": "Наш банк имеет уже прерванным [известный] платёж.",
+            "english": "Our bank has already aborted the payment.",
+            "transcription": "[ауэ бæнк хæз о:лр**э**ди эб**о**:тид ðэ п**э**ймэнт]"
+          },
+          {
+            "ours": "Я не прерывал установку.",
+            "thought": "Я имею не прерванной [известную] установку.",
+            "english": "I haven't aborted the installation.",
+            "transcription": "[ай хæвнт эб**о**:тид ðи инстэл**э**йшн]"
+          },
+          {
+            "ours": "Они прервали взлёт?",
+            "thought": "Имеют они прерванным [известный] взлёт?",
+            "english": "Have they aborted the takeoff?",
+            "transcription": "[хæв ðэй эб**о**:тид ðэ т**э**йкоф]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have aborted",
+        "examples": [
+          {
+            "ours": "К полуночи инженеры прервут обратный отсчёт.",
+            "thought": "К полуночи [известные] инженеры будут иметь прерванным [известный] обратный отсчёт.",
+            "english": "By midnight the engineers will have aborted the countdown.",
+            "transcription": "[бай м**и**днайт ðи инджин**и**эз wил хæв эб**о**:тид ðэ к**а**унтдаун]"
+          },
+          {
+            "ours": "К воскресенью она ещё не прервёт экспедицию.",
+            "thought": "К воскресенью она будет не иметь прерванной [известную] экспедицию.",
+            "english": "By Sunday she won't have aborted the expedition.",
+            "transcription": "[бай с**а**ндэй ши: wоунт хæв эб**о**:тид ðи экспид**и**шн]"
+          },
+          {
+            "ours": "Гид успеет прервать поход до заката?",
+            "thought": "Будет [известный] гид иметь прерванным [известный] поход к закату?",
+            "english": "Will the guide have aborted the hike by sunset?",
+            "transcription": "[wил ðэ гайд хæв эб**о**:тид ðэ хайк бай с**а**нсэт]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been aborting",
+        "examples": [
+          {
+            "ours": "Диспетчеры уже два часа прерывали заходы на посадку, когда прошла гроза.",
+            "thought": "[Известные] диспетчеры имели быть прерывающими заходы на посадку целых два часа, когда [известная] гроза прошла.",
+            "english": "The controllers had been aborting approaches for two hours when the storm passed.",
+            "transcription": "[ðэ кэнтр**о**улэз хæд би:н эб**о**:тиŋ эпр**о**учиз фо: ту: **а**уэз wэн ðэ сто:м па:ст]"
+          },
+          {
+            "ours": "Они уже целый час прерывали эти задания, когда упал сервер?",
+            "thought": "Имели они быть прерывающими эти задания целый [какой-то] час, когда [известный] сервер упал?",
+            "english": "Had they been aborting these jobs for an hour when the server crashed?",
+            "transcription": "[хæд ðэй би:н эб**о**:тиŋ ðи:з джобз фо: эн **а**уэ wэн ðэ с**œ**:вэ крæшт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been aborting",
+        "examples": [
+          {
+            "ours": "Приложение уже два часа прерывает мои загрузки.",
+            "thought": "[Известное] приложение имеет быть прерывающим мои загрузки целых два часа.",
+            "english": "The app has been aborting my uploads for two hours.",
+            "transcription": "[ðи æп хæз би:н эб**о**:тиŋ май **а**плоудз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже целый час прерываешь эти симуляции?",
+            "thought": "Имеешь ты быть прерывающим эти симуляции целый [какой-то] целый час?",
+            "english": "Have you been aborting these simulations for a whole hour?",
+            "transcription": "[хæв ю: би:н эб**о**:тиŋ ðи:з симюл**э**йшнз фо: э хоул **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been aborting",
+        "examples": [
+          {
+            "ours": "К пяти техники будут прерывать эти циклы уже два часа.",
+            "thought": "К пяти [известные] техники будут иметь быть прерывающими эти циклы целых два часа.",
+            "english": "By five the technicians will have been aborting these cycles for two hours.",
+            "transcription": "[бай файв ðэ тэкн**и**шнз wил хæв би:н эб**о**:тиŋ ðи:з с**а**йклз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пятнице они будут прерывать эти миссии уже целый месяц?",
+            "thought": "К пятнице будут они иметь быть прерывающими эти миссии целый [какой-то] целый месяц?",
+            "english": "By Friday will they have been aborting these missions for a whole month?",
+            "transcription": "[бай фр**а**йдэй wил ðэй хæв би:н эб**о**:тиŋ ðи:з м**и**шнз фо: э хоул манθ]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were aborted",
+        "examples": [
+          {
+            "ours": "Беременность прервали по медицинским показаниям.",
+            "thought": "[Известная] беременность была прервана по медицинским причинам.",
+            "english": "The pregnancy was aborted for medical reasons.",
+            "transcription": "[ðэ пр**э**гнэнси wоз эб**о**:тид фо: м**э**дикл р**и**:зэнз]"
+          },
+          {
+            "ours": "Атаку прервали в последнюю минуту?",
+            "thought": "Была [известная] атака прервана в [известную] последнюю минуту?",
+            "english": "Was the attack aborted at the last minute?",
+            "transcription": "[wоз ðи эт**æ**к эб**о**:тид æт ðэ ла:ст м**и**нит]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are aborted",
+        "examples": [
+          {
+            "ours": "Каждый день прерываются сотни процессов.",
+            "thought": "Сотни от процессов есть прерваны каждый день.",
+            "english": "Hundreds of processes are aborted every day.",
+            "transcription": "[х**а**ндрэдз ов пр**о**усэсиз а: эб**о**:тид **э**ври дэй]"
+          },
+          {
+            "ours": "При слабом ветре подъём не прерывают.",
+            "thought": "[Известный] подъём есть не прерван в слабых ветрах.",
+            "english": "The ascent isn't aborted in light winds.",
+            "transcription": "[ðи эс**э**нт изнт эб**о**:тид ин лайт wиндз]"
+          },
+          {
+            "ours": "Ночные патрули часто прерывают?",
+            "thought": "Есть ночные патрули часто прерваны?",
+            "english": "Are night patrols often aborted?",
+            "transcription": "[а: найт пэтр**о**улз **о**фэн эб**о**:тид]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be aborted",
+        "examples": [
+          {
+            "ours": "Выход в космос прервут завтра.",
+            "thought": "[Известный] выход в космос будет быть прерван завтра.",
+            "english": "The spacewalk will be aborted tomorrow.",
+            "transcription": "[ðэ сп**э**йсwо:к wил би: эб**о**:тид тэм**о**роу]"
+          },
+          {
+            "ours": "Несмотря на снег, эвакуацию не прервут.",
+            "thought": "[Известная] эвакуация будет не быть прервана несмотря на [известный] снег.",
+            "english": "The evacuation won't be aborted despite the snow.",
+            "transcription": "[ðи ивæкю**э**йшн wоунт би: эб**о**:тид дисп**а**йт ðэ сноу]"
+          },
+          {
+            "ours": "Слияние прервут на следующей неделе?",
+            "thought": "Будет [известное] слияние быть прервано следующую неделю?",
+            "english": "Will the merger be aborted next week?",
+            "transcription": "[wил ðэ м**œ**:джэ би: эб**о**:тид нэкст wи:к]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being aborted",
+        "examples": [
+          {
+            "ours": "Всё утро пробные заезды прерывали.",
+            "thought": "Всё утро [известные] пробные заезды были «долго» прерваны.",
+            "english": "All morning the test drives were being aborted.",
+            "transcription": "[о:л м**о**:ниŋ ðэ тэст драйвз wœ: б**и**:иŋ эб**о**:тид]"
+          },
+          {
+            "ours": "В тот момент церемонию не прерывали.",
+            "thought": "[Известная] церемония была не «долго» прервана в тот момент.",
+            "english": "The ceremony wasn't being aborted at that moment.",
+            "transcription": "[ðэ с**э**римэни wознт б**и**:иŋ эб**о**:тид æт ðæт м**о**умэнт]"
+          },
+          {
+            "ours": "Поставку прерывали, когда ты позвонил?",
+            "thought": "Была [известная] поставка «долго» прервана, когда ты позвонил?",
+            "english": "Was the shipment being aborted when you called?",
+            "transcription": "[wоз ðэ ш**и**пмэнт б**и**:иŋ эб**о**:тид wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being aborted",
+        "examples": [
+          {
+            "ours": "Поглощение сейчас прерывают.",
+            "thought": "[Известное] поглощение есть «долго» прервано сейчас.",
+            "english": "The takeover is being aborted now.",
+            "transcription": "[ðэ т**э**йкоувэ из б**и**:иŋ эб**о**:тид нау]"
+          },
+          {
+            "ours": "Трансляцию сейчас не прерывают.",
+            "thought": "[Известная] трансляция есть не «долго» прервана сейчас.",
+            "english": "The broadcast isn't being aborted now.",
+            "transcription": "[ðэ бр**о**:дка:ст изнт б**и**:иŋ эб**о**:тид нау]"
+          },
+          {
+            "ours": "Эти тренировки сейчас прерывают?",
+            "thought": "Есть эти тренировки «долго» прерваны сейчас?",
+            "english": "Are these drills being aborted now?",
+            "transcription": "[а: ðи:з дрилз б**и**:иŋ эб**о**:тид нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be aborting",
+        "examples": [
+          {
+            "ours": "Завтра весь день будут прерывать конвои снабжения.",
+            "thought": "Завтра они будут быть прерывающими [известные] снабженческие конвои весь день.",
+            "english": "Tomorrow they will be aborting the supply convoys all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: эб**о**:тиŋ ðэ сэпл**а**й к**о**нвойз о:л дэй]"
+          },
+          {
+            "ours": "В пятницу запуск прерывать не будут.",
+            "thought": "Они будут не быть прерывающими [известный] запуск в пятницу.",
+            "english": "They won't be aborting the launch on Friday.",
+            "transcription": "[ðэй wоунт би: эб**о**:тиŋ ðэ ло:нч он фр**а**йдэй]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been aborted",
+        "examples": [
+          {
+            "ours": "К тому времени снос уже прервали.",
+            "thought": "К тому времени [известный] снос имел быть прерван.",
+            "english": "By that time the demolition had been aborted.",
+            "transcription": "[бай ðæт тайм ðэ дэмэл**и**шн хæд би:н эб**о**:тид]"
+          },
+          {
+            "ours": "К вечеру ралли ещё не прервали.",
+            "thought": "К вечеру [известное] ралли имело не быть прервано.",
+            "english": "By evening the rally hadn't been aborted.",
+            "transcription": "[бай **и**:вниŋ ðэ р**æ**ли хæднт би:н эб**о**:тид]"
+          },
+          {
+            "ours": "Тендер успели прервать к марту?",
+            "thought": "Имел [известный] тендер быть прерван к марту?",
+            "english": "Had the tender been aborted by March?",
+            "transcription": "[хæд ðэ т**э**ндэ би:н эб**о**:тид бай ма:ч]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been aborted",
+        "examples": [
+          {
+            "ours": "Это внедрение уже прервали.",
+            "thought": "Это внедрение имеет уже быть прервано.",
+            "english": "This rollout has already been aborted.",
+            "transcription": "[ðис р**о**улаут хæз о:лр**э**ди би:н эб**о**:тид]"
+          },
+          {
+            "ours": "Голосование не прервали.",
+            "thought": "[Известное] голосование имеет не быть прервано.",
+            "english": "The vote hasn't been aborted.",
+            "transcription": "[ðэ воут хæзнт би:н эб**о**:тид]"
+          },
+          {
+            "ours": "Процедуру прервали?",
+            "thought": "Имеет [известная] процедура быть прервана?",
+            "english": "Has the procedure been aborted?",
+            "transcription": "[хæз ðэ прэс**и**:джэ би:н эб**о**:тид]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been aborted",
+        "examples": [
+          {
+            "ours": "К пяти завтра исследование прервут.",
+            "thought": "К пяти завтра [известное] исследование будет иметь быть прервано.",
+            "english": "By five tomorrow the study will have been aborted.",
+            "transcription": "[бай файв тэм**о**роу ðэ ст**а**ди wил хæв би:н эб**о**:тид]"
+          },
+          {
+            "ours": "Продажу успеют прервать к выходным?",
+            "thought": "Будет [известная] продажа иметь быть прервана к [известным] выходным?",
+            "english": "Will the sale have been aborted by the weekend?",
+            "transcription": "[wил ðэ сэйл хæв би:н эб**о**:тид бай ðэ wи:к**э**нд]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being aborted` не употребляется. Вместо этого скажут: `This flight has been aborted.` или `They have been aborting this flight.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Мы знали, что астронавты прервут стыковку.",
+        "thought": "Мы знали, что [известные] астронавты будут прерывать [известную] стыковку.",
+        "english": "We knew that the astronauts would abort the docking.",
+        "transcription": "[wи: нью: ðæт ðи **æ**стрэно:тс wуд эб**о**:т ðэ д**о**киŋ]"
+      },
+      {
+        "ours": "Он сказал, что фирма не прервёт покупку.",
+        "thought": "Он сказал, что [известная] фирма будет не прерывать [известную] покупку.",
+        "english": "He said that the firm wouldn't abort the purchase.",
+        "transcription": "[хи: сэд ðæт ðэ фœ:м wуднт эб**о**:т ðэ п**œ**:чэс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "pilot",
+      "meaning": "пилот",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "pilot"
+        }
+      ]
+    },
+    {
+      "word": "landing",
+      "meaning": "посадка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "landing"
+        }
+      ]
+    },
+    {
+      "word": "climb",
+      "meaning": "восхождение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "climb"
+        }
+      ]
+    },
+    {
+      "word": "fog",
+      "meaning": "туман",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "fog"
+        }
+      ]
+    },
+    {
+      "word": "update",
+      "meaning": "обновление",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "update"
+        }
+      ]
+    },
+    {
+      "word": "program",
+      "meaning": "программа",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "program"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "time"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "connection",
+      "meaning": "связь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "connection"
+        }
+      ]
+    },
+    {
+      "word": "diver",
+      "meaning": "водолаз",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "divers"
+        }
+      ]
+    },
+    {
+      "word": "dive",
+      "meaning": "погружение",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "dive"
+        }
+      ]
+    },
+    {
+      "word": "reason",
+      "meaning": "причина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "reason"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "reasons"
+        }
+      ]
+    },
+    {
+      "word": "surgeon",
+      "meaning": "хирург",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "surgeon"
+        }
+      ]
+    },
+    {
+      "word": "operation",
+      "meaning": "операция",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "operation"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "flight",
+      "meaning": "полёт",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "flight"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "experiment",
+      "meaning": "эксперимент",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "experiment"
+        }
+      ]
+    },
+    {
+      "word": "launch",
+      "meaning": "запуск",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "launch"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "launch"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "voyage",
+      "meaning": "плавание",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "voyage"
+        }
+      ]
+    },
+    {
+      "word": "download",
+      "meaning": "загрузка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "download"
+        }
+      ]
+    },
+    {
+      "word": "screen",
+      "meaning": "экран",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "screen"
+        }
+      ]
+    },
+    {
+      "word": "raid",
+      "meaning": "налёт",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "raid"
+        }
+      ]
+    },
+    {
+      "word": "message",
+      "meaning": "сообщение",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "message"
+        }
+      ]
+    },
+    {
+      "word": "test",
+      "meaning": "тест",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "test"
+        }
+      ]
+    },
+    {
+      "word": "team",
+      "meaning": "команда",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "team"
+        }
+      ]
+    },
+    {
+      "word": "project",
+      "meaning": "проект",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "project"
+        }
+      ]
+    },
+    {
+      "word": "backup",
+      "meaning": "резервное копирование",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "backup"
+        }
+      ]
+    },
+    {
+      "word": "trial run",
+      "meaning": "пробный прогон",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "trial runs"
+        }
+      ]
+    },
+    {
+      "word": "general",
+      "meaning": "генерал",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "general"
+        }
+      ]
+    },
+    {
+      "word": "offensive",
+      "meaning": "наступление",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "offensive"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "week"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "week"
+        }
+      ]
+    },
+    {
+      "word": "tour",
+      "meaning": "гастроли",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "tour"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "month"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "month"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "rescuer",
+      "meaning": "спасатель",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "rescuers"
+        }
+      ]
+    },
+    {
+      "word": "search",
+      "meaning": "поиски",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "search"
+        }
+      ]
+    },
+    {
+      "word": "Monday",
+      "meaning": "понедельник",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "Monday"
+        }
+      ]
+    },
+    {
+      "word": "brother",
+      "meaning": "брат",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "brother"
+        }
+      ]
+    },
+    {
+      "word": "trip",
+      "meaning": "поездка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "trip"
+        }
+      ]
+    },
+    {
+      "word": "deal",
+      "meaning": "сделка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "deal"
+        }
+      ]
+    },
+    {
+      "word": "bank",
+      "meaning": "банк",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "bank"
+        }
+      ]
+    },
+    {
+      "word": "payment",
+      "meaning": "платёж",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "payment"
+        }
+      ]
+    },
+    {
+      "word": "installation",
+      "meaning": "установка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "installation"
+        }
+      ]
+    },
+    {
+      "word": "takeoff",
+      "meaning": "взлёт",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "takeoff"
+        }
+      ]
+    },
+    {
+      "word": "midnight",
+      "meaning": "полночь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "midnight"
+        }
+      ]
+    },
+    {
+      "word": "engineer",
+      "meaning": "инженер",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "engineers"
+        }
+      ]
+    },
+    {
+      "word": "countdown",
+      "meaning": "обратный отсчёт",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "countdown"
+        }
+      ]
+    },
+    {
+      "word": "Sunday",
+      "meaning": "воскресенье",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "Sunday"
+        }
+      ]
+    },
+    {
+      "word": "expedition",
+      "meaning": "экспедиция",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "expedition"
+        }
+      ]
+    },
+    {
+      "word": "guide",
+      "meaning": "гид",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "guide"
+        }
+      ]
+    },
+    {
+      "word": "hike",
+      "meaning": "поход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "hike"
+        }
+      ]
+    },
+    {
+      "word": "sunset",
+      "meaning": "закат",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "sunset"
+        }
+      ]
+    },
+    {
+      "word": "controller",
+      "meaning": "диспетчер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "controllers"
+        }
+      ]
+    },
+    {
+      "word": "approach",
+      "meaning": "заход на посадку",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "approaches"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "гроза",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "job",
+      "meaning": "задание",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "jobs"
+        }
+      ]
+    },
+    {
+      "word": "server",
+      "meaning": "сервер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "server"
+        }
+      ]
+    },
+    {
+      "word": "app",
+      "meaning": "приложение",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "app"
+        }
+      ]
+    },
+    {
+      "word": "upload",
+      "meaning": "загрузка",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "uploads"
+        }
+      ]
+    },
+    {
+      "word": "simulation",
+      "meaning": "симуляция",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "simulations"
+        }
+      ]
+    },
+    {
+      "word": "technician",
+      "meaning": "техник",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "technicians"
+        }
+      ]
+    },
+    {
+      "word": "cycle",
+      "meaning": "цикл",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "cycles"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "Friday"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "mission",
+      "meaning": "миссия",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "missions"
+        }
+      ]
+    },
+    {
+      "word": "pregnancy",
+      "meaning": "беременность",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "pregnancy"
+        }
+      ]
+    },
+    {
+      "word": "attack",
+      "meaning": "атака",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "attack"
+        }
+      ]
+    },
+    {
+      "word": "minute",
+      "meaning": "минута",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "minute"
+        }
+      ]
+    },
+    {
+      "word": "process",
+      "meaning": "процесс",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "processes"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "ascent",
+      "meaning": "подъём",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "ascent"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "winds"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "patrol",
+      "meaning": "патруль",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "patrols"
+        }
+      ]
+    },
+    {
+      "word": "spacewalk",
+      "meaning": "выход в космос",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "spacewalk"
+        }
+      ]
+    },
+    {
+      "word": "evacuation",
+      "meaning": "эвакуация",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "evacuation"
+        }
+      ]
+    },
+    {
+      "word": "snow",
+      "meaning": "снег",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "snow"
+        }
+      ]
+    },
+    {
+      "word": "merger",
+      "meaning": "слияние",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "merger"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "test drive",
+      "meaning": "пробный заезд",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "test drives"
+        }
+      ]
+    },
+    {
+      "word": "ceremony",
+      "meaning": "церемония",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "ceremony"
+        }
+      ]
+    },
+    {
+      "word": "moment",
+      "meaning": "момент",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "moment"
+        }
+      ]
+    },
+    {
+      "word": "shipment",
+      "meaning": "поставка",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.2",
+          "form": "shipment"
+        }
+      ]
+    },
+    {
+      "word": "takeover",
+      "meaning": "поглощение",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "takeover"
+        }
+      ]
+    },
+    {
+      "word": "broadcast",
+      "meaning": "трансляция",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "broadcast"
+        }
+      ]
+    },
+    {
+      "word": "drill",
+      "meaning": "тренировка",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "drills"
+        }
+      ]
+    },
+    {
+      "word": "supply",
+      "meaning": "снабжение",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "supply"
+        }
+      ]
+    },
+    {
+      "word": "convoy",
+      "meaning": "конвой",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "convoys"
+        }
+      ]
+    },
+    {
+      "word": "demolition",
+      "meaning": "снос",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "demolition"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "rally",
+      "meaning": "ралли",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "rally"
+        }
+      ]
+    },
+    {
+      "word": "tender",
+      "meaning": "тендер",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "tender"
+        }
+      ]
+    },
+    {
+      "word": "March",
+      "meaning": "март",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "March"
+        }
+      ]
+    },
+    {
+      "word": "rollout",
+      "meaning": "внедрение",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "rollout"
+        }
+      ]
+    },
+    {
+      "word": "vote",
+      "meaning": "голосование",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "vote"
+        }
+      ]
+    },
+    {
+      "word": "procedure",
+      "meaning": "процедура",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "procedure"
+        }
+      ]
+    },
+    {
+      "word": "study",
+      "meaning": "исследование",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "study"
+        }
+      ]
+    },
+    {
+      "word": "sale",
+      "meaning": "продажа",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "sale"
+        }
+      ]
+    },
+    {
+      "word": "weekend",
+      "meaning": "выходные",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "weekend"
+        }
+      ]
+    },
+    {
+      "word": "astronaut",
+      "meaning": "астронавт",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "astronauts"
+        }
+      ]
+    },
+    {
+      "word": "docking",
+      "meaning": "стыковка",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "docking"
+        }
+      ]
+    },
+    {
+      "word": "firm",
+      "meaning": "фирма",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "firm"
+        }
+      ]
+    },
+    {
+      "word": "purchase",
+      "meaning": "покупка",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "purchase"
+        }
+      ]
+    }
+  ]
+}

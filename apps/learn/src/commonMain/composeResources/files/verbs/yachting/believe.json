@@ -1,0 +1,415 @@
+{
+  "spec": 3,
+  "verb": "believe",
+  "forms": {
+    "base": [
+      {
+        "word": "believe",
+        "transcription": "[бил**и**:в]"
+      }
+    ],
+    "past": [
+      {
+        "word": "believed",
+        "transcription": "[бил**и**:вд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "believed",
+        "transcription": "[бил**и**:вд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "believing",
+        "transcription": "[бил**и**:виŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "believes",
+        "transcription": "[бил**и**:вз]"
+      }
+    ]
+  },
+  "meaning": "верить, полагать, считать",
+  "notes": "правильный переходный глагол состояния; обычно не употребляется в длительных временах; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "believed",
+        "examples": [
+          {
+            "ours": "Вчера я поверил шкиперу.",
+            "thought": "Вчера я поверил [известному] шкиперу.",
+            "english": "Yesterday I believed the skipper.",
+            "transcription": "[й**э**стэдэй ай бил**и**:вд ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Ты поверил прогнозу?",
+            "thought": "[Сделал] ты верить [известному] прогнозу?",
+            "english": "Did you believe the forecast?",
+            "transcription": "[дид ю: бил**и**:в ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Она не поверила капитану.",
+            "thought": "Она [сделала] не верить [известному] капитану.",
+            "english": "She did not believe the captain.",
+            "transcription": "[ши: дид нот бил**и**:в ðэ к**æ**птин]"
+          }
+        ]
+      },
+      "present": {
+        "form": "believe, believes",
+        "examples": [
+          {
+            "ours": "Шкипер верит прогнозу.",
+            "thought": "[Известный] шкипер верит [известному] прогнозу.",
+            "english": "The skipper believes the forecast.",
+            "transcription": "[ðэ ск**и**пэ бил**и**:вз ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты веришь матросу?",
+            "thought": "[Делаешь] ты верить [известному] матросу?",
+            "english": "Do you believe the sailor?",
+            "transcription": "[ду: ю: бил**и**:в ðэ с**э**йлэ]"
+          },
+          {
+            "ours": "Мы не верим слуху.",
+            "thought": "Мы [делаем] не верить [известному] слуху.",
+            "english": "We do not believe the rumor.",
+            "transcription": "[wи: ду: нот бил**и**:в ðэ р**у**:мэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will believe",
+        "examples": [
+          {
+            "ours": "Завтра команда поверит прогнозу.",
+            "thought": "Завтра [известная] команда будет верить [известному] прогнозу.",
+            "english": "Tomorrow the crew will believe the forecast.",
+            "transcription": "[тэм**о**роу ðэ кру: wил бил**и**:в ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты поверишь шкиперу?",
+            "thought": "Будешь ты верить [известному] шкиперу?",
+            "english": "Will you believe the skipper?",
+            "transcription": "[wил ю: бил**и**:в ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Она не поверит этому сообщению.",
+            "thought": "Она будет не верить этому сообщению.",
+            "english": "She will not believe this report.",
+            "transcription": "[ши: wил нот бил**и**:в ðис рип**о**:т]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Believe в значении мнения обычно обозначает состояние. Естественнее сказать I believe the forecast, чем I am believing the forecast."
+    },
+    "perfect": {
+      "past": {
+        "form": "had believed",
+        "examples": [
+          {
+            "ours": "До той гонки я всегда верил этому прогнозу.",
+            "thought": "Перед той гонкой я имел всегда веримым этот прогноз.",
+            "english": "Before that race I had always believed this forecast.",
+            "transcription": "[биф**о**: ðæт рэйс ай хæд **о**:лwэйз бил**и**:вд ðис ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты верил шкиперу до шторма?",
+            "thought": "Имел ты веримым [известного] шкипера перед [известным] штормом?",
+            "english": "Had you believed the skipper before the storm?",
+            "transcription": "[хæд ю: бил**и**:вд ðэ ск**и**пэ биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has believed",
+        "examples": [
+          {
+            "ours": "Я всегда верил шкиперу.",
+            "thought": "Я имею всегда веримым [известного] шкипера.",
+            "english": "I have always believed the skipper.",
+            "transcription": "[ай хæв **о**:лwэйз бил**и**:вд ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Ты давно считаешь эту лодку безопасной?",
+            "thought": "Имеешь ты давно считаемым, эта лодка есть безопасна?",
+            "english": "Have you long believed this boat is safe?",
+            "transcription": "[хæв ю: лоŋ бил**и**:вд ðис боут из сэйф]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have believed",
+        "not_possible": "Будущее совершённое для длительности убеждения грамматически возможно, но здесь тяжеловесно. Естественнее: By then I will still believe the skipper."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Believe обычно выражает состояние, а не длительное действие. Вместо продолженной формы: I have believed the skipper for years."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were believed",
+        "examples": [
+          {
+            "ours": "Рассказу шкипера поверили.",
+            "thought": "[Известного] шкипера рассказ был верим.",
+            "english": "The skipper’s account was believed.",
+            "transcription": "[ðэ ск**и**пэз эк**а**унт wоз бил**и**:вд]"
+          },
+          {
+            "ours": "Прогнозу верили все?",
+            "thought": "Был [известный] прогноз верим от всех?",
+            "english": "Was the forecast believed by everyone?",
+            "transcription": "[wоз ðэ ф**о**:ка:ст бил**и**:вд бай **э**вриwан]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are believed",
+        "examples": [
+          {
+            "ours": "Эта яхта считается безопасной.",
+            "thought": "Эта яхта есть считаема быть безопасной.",
+            "english": "This yacht is believed to be safe.",
+            "transcription": "[ðис йот из бил**и**:вд ту би: сэйф]"
+          },
+          {
+            "ours": "Считается, что лодки рядом?",
+            "thought": "Есть [известные] лодки считаемы быть рядом?",
+            "english": "Are the boats believed to be nearby?",
+            "transcription": "[а: ðэ боутс бил**и**:вд ту би: н**и**эбай]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be believed",
+        "examples": [
+          {
+            "ours": "Этому сообщению поверят.",
+            "thought": "Это сообщение будет быть веримо.",
+            "english": "This report will be believed.",
+            "transcription": "[ðис рип**о**:т wил би: бил**и**:вд]"
+          },
+          {
+            "ours": "Шкиперу поверят?",
+            "thought": "Будет [известный] шкипер быть верим?",
+            "english": "Will the skipper be believed?",
+            "transcription": "[wил ðэ ск**и**пэ би: бил**и**:вд]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "В пассиве с believe обычно описывают состояние, поэтому длительная форма не нужна. Скажут: The yacht is believed to be safe."
+    },
+    "perfect": {
+      "not_possible": "Для продолжительного убеждения естественнее назвать тех, кто верит: Sailors have believed the account for years. Пассив возможен, но здесь звучит тяжеловесно."
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: Sailors have believed the account for years."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она поверит прогнозу.",
+        "thought": "Я знал, она будет верить [известному] прогнозу.",
+        "english": "I knew she would believe the forecast.",
+        "transcription": "[ай нью: ши: wуд бил**и**:в ðэ ф**о**:ка:ст]"
+      },
+      {
+        "ours": "Он думал, что мы не поверим шкиперу.",
+        "thought": "Он думал, мы будем не верить [известному] шкиперу.",
+        "english": "He thought we would not believe the skipper.",
+        "transcription": "[хи: θо:т wи: wуд нот бил**и**:в ðэ ск**и**пэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "rumor",
+      "meaning": "слух",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "rumor"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "report",
+      "meaning": "сообщение",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "report"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "boats"
+        }
+      ]
+    },
+    {
+      "word": "account",
+      "meaning": "рассказ",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "account"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sailor"
+        }
+      ]
+    }
+  ]
+}

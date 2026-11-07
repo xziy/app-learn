@@ -1,0 +1,970 @@
+{
+  "spec": 3,
+  "verb": "tell",
+  "forms": {
+    "base": [
+      {
+        "word": "tell",
+        "transcription": "[тэл]"
+      }
+    ],
+    "past": [
+      {
+        "word": "told",
+        "transcription": "[тоулд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "told",
+        "transcription": "[тоулд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "telling",
+        "transcription": "[т**э**лиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "tells",
+        "transcription": "[тэлз]"
+      }
+    ]
+  },
+  "meaning": "рассказывать, сообщать, велеть",
+  "notes": "неправильный переходный глагол; tell обычно требует указания адресата; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "told",
+        "examples": [
+          {
+            "ours": "Вчера я рассказал команде о гонке.",
+            "thought": "Вчера я рассказал [известной] команде о [известной] гонке.",
+            "english": "Yesterday I told the crew about the race.",
+            "transcription": "[й**э**стэдэй ай тоулд ðэ кру: эб**а**ут ðэ рэйс]"
+          },
+          {
+            "ours": "Ты рассказал шкиперу о ветре?",
+            "thought": "[Сделал] ты рассказывать [известному] шкиперу о [известном] ветре?",
+            "english": "Did you tell the skipper about the wind?",
+            "transcription": "[дид ю: тэл ðэ ск**и**пэ эб**а**ут ðэ wинд]"
+          },
+          {
+            "ours": "Она не сообщила нам прогноз.",
+            "thought": "Она [сделала] не сообщать нам [известный] прогноз.",
+            "english": "She did not tell us the forecast.",
+            "transcription": "[ши: дид нот тэл ас ðэ ф**о**:ка:ст]"
+          }
+        ]
+      },
+      "present": {
+        "form": "tell, tells",
+        "examples": [
+          {
+            "ours": "Шкипер каждый день рассказывает нам о погоде.",
+            "thought": "[Известный] шкипер рассказывает нам о [известной] погоде каждый день.",
+            "english": "The skipper tells us about the weather every day.",
+            "transcription": "[ðэ ск**и**пэ тэлз ас эб**а**ут ðэ w**э**ðэ **э**ври дэй]"
+          },
+          {
+            "ours": "Ты рассказываешь команде о маршруте?",
+            "thought": "[Делаешь] ты рассказывать [известной] команде о [известном] маршруте?",
+            "english": "Do you tell the crew about the route?",
+            "transcription": "[ду: ю: тэл ðэ кру: эб**а**ут ðэ ру:т]"
+          },
+          {
+            "ours": "Он не сообщает нам прогноз.",
+            "thought": "Он [делает] не сообщать нам [известный] прогноз.",
+            "english": "He does not tell us the forecast.",
+            "transcription": "[хи: даз нот тэл ас ðэ ф**о**:ка:ст]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will tell",
+        "examples": [
+          {
+            "ours": "Завтра я расскажу команде о гонке.",
+            "thought": "Завтра я буду рассказывать [известной] команде о [известной] гонке.",
+            "english": "Tomorrow I will tell the crew about the race.",
+            "transcription": "[тэм**о**роу ай wил тэл ðэ кру: эб**а**ут ðэ рэйс]"
+          },
+          {
+            "ours": "Ты расскажешь шкиперу о ветре?",
+            "thought": "Будешь ты рассказывать [известному] шкиперу о [известном] ветре?",
+            "english": "Will you tell the skipper about the wind?",
+            "transcription": "[wил ю: тэл ðэ ск**и**пэ эб**а**ут ðэ wинд]"
+          },
+          {
+            "ours": "Она не сообщит нам прогноз.",
+            "thought": "Она будет не сообщать нам [известный] прогноз.",
+            "english": "She will not tell us the forecast.",
+            "transcription": "[ши: wил нот тэл ас ðэ ф**о**:ка:ст]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were telling",
+        "examples": [
+          {
+            "ours": "Вчера он весь вечер рассказывал нам о гонке.",
+            "thought": "Вчера он был рассказывающим нам о [известной] гонке весь вечер.",
+            "english": "Yesterday he was telling us about the race all evening.",
+            "transcription": "[й**э**стэдэй хи: wоз т**э**лиŋ ас эб**а**ут ðэ рэйс о:л **и**:вниŋ]"
+          },
+          {
+            "ours": "Она рассказывала команде о маршруте, когда ты пришёл?",
+            "thought": "Была она рассказывающей [известной] команде о [известном] маршруте, когда ты пришёл?",
+            "english": "Was she telling the crew about the route when you arrived?",
+            "transcription": "[wоз ши: т**э**лиŋ ðэ кру: эб**а**ут ðэ ру:т wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are telling",
+        "examples": [
+          {
+            "ours": "Он сейчас рассказывает нам о гонке.",
+            "thought": "Он является рассказывающим нам о [известной] гонке сейчас.",
+            "english": "He is telling us about the race now.",
+            "transcription": "[хи: из т**э**лиŋ ас эб**а**ут ðэ рэйс нау]"
+          },
+          {
+            "ours": "Она сейчас рассказывает команде о маршруте?",
+            "thought": "Является она рассказывающей [известной] команде о [известном] маршруте сейчас?",
+            "english": "Is she telling the crew about the route now?",
+            "transcription": "[из ши: т**э**лиŋ ðэ кру: эб**а**ут ðэ ру:т нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be telling",
+        "examples": [
+          {
+            "ours": "Завтра вечером он будет рассказывать нам о гонке.",
+            "thought": "Завтра вечером он будет быть рассказывающим нам о [известной] гонке.",
+            "english": "Tomorrow evening he will be telling us about the race.",
+            "transcription": "[тэм**о**роу **и**:вниŋ хи: wил би: т**э**лиŋ ас эб**а**ут ðэ рэйс]"
+          },
+          {
+            "ours": "Она будет рассказывать команде о маршруте утром?",
+            "thought": "Будет она быть рассказывающей [известной] команде о [известном] маршруте этим утром?",
+            "english": "Will she be telling the crew about the route this morning?",
+            "transcription": "[wил ши: би: т**э**лиŋ ðэ кру: эб**а**ут ðэ ру:т ðис м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had told",
+        "examples": [
+          {
+            "ours": "К полудню я уже рассказал команде о гонке.",
+            "thought": "К полудню я имел уже рассказанным [известной] команде о [известной] гонке.",
+            "english": "By noon I had already told the crew about the race.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди тоулд ðэ кру: эб**а**ут ðэ рэйс]"
+          },
+          {
+            "ours": "К пяти она сообщила нам прогноз?",
+            "thought": "Имела она сообщённым нам [известный] прогноз к пяти?",
+            "english": "Had she told us the forecast by five?",
+            "transcription": "[хæд ши: тоулд ас ðэ ф**о**:ка:ст бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has told",
+        "examples": [
+          {
+            "ours": "Я уже рассказал команде о гонке.",
+            "thought": "Я имею уже рассказанным [известной] команде о [известной] гонке.",
+            "english": "I have already told the crew about the race.",
+            "transcription": "[ай хæв о:лр**э**ди тоулд ðэ кру: эб**а**ут ðэ рэйс]"
+          },
+          {
+            "ours": "Она уже сообщила нам прогноз?",
+            "thought": "Имеет она сообщённым нам [известный] прогноз уже?",
+            "english": "Has she told us the forecast yet?",
+            "transcription": "[хæз ши: тоулд ас ðэ ф**о**:ка:ст йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have told",
+        "examples": [
+          {
+            "ours": "К полудню я расскажу команде о гонке.",
+            "thought": "К полудню я буду иметь рассказанным [известной] команде о [известной] гонке.",
+            "english": "By noon I will have told the crew about the race.",
+            "transcription": "[бай ну:н ай wил хæв тоулд ðэ кру: эб**а**ут ðэ рэйс]"
+          },
+          {
+            "ours": "Она сообщит нам прогноз к пяти?",
+            "thought": "Будет она иметь сообщённым нам [известный] прогноз к пяти?",
+            "english": "Will she have told us the forecast by five?",
+            "transcription": "[wил ши: хæв тоулд ас ðэ ф**о**:ка:ст бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been telling",
+        "examples": [
+          {
+            "ours": "Она рассказывала нам о плавании час, когда начался дождь.",
+            "thought": "Она имела быть рассказывающей нам о [известном] плавании целый [какой-то] час, когда дождь начался.",
+            "english": "She had been telling us about the voyage for an hour when rain began.",
+            "transcription": "[ши: хæд би:н т**э**лиŋ ас эб**а**ут ðэ в**о**йидж фо: эн **а**уэ wэн рэйн биг**æ**н]"
+          },
+          {
+            "ours": "Он рассказывал истории о море два часа до обеда?",
+            "thought": "Имел он быть рассказывающим морские истории целых два часа перед обедом?",
+            "english": "Had he been telling sea stories for two hours before lunch?",
+            "transcription": "[хæд хи: би:н т**э**лиŋ си: ст**о**:риз фо: ту: **а**уэз биф**о**: ланч]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been telling",
+        "examples": [
+          {
+            "ours": "Она уже час рассказывает нам о плавании.",
+            "thought": "Она имеет быть рассказывающей нам о [известном] плавании целый [какой-то] час.",
+            "english": "She has been telling us about the voyage for an hour.",
+            "transcription": "[ши: хæз би:н т**э**лиŋ ас эб**а**ут ðэ в**о**йидж фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Он уже два часа рассказывает истории о море?",
+            "thought": "Имеет он быть рассказывающим морские истории целых два часа?",
+            "english": "Has he been telling sea stories for two hours?",
+            "transcription": "[хæз хи: би:н т**э**лиŋ си: ст**о**:риз фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been telling",
+        "examples": [
+          {
+            "ours": "К полудню она будет рассказывать нам о плавании уже час.",
+            "thought": "К полудню она будет иметь быть рассказывающей нам о [известном] плавании целый [какой-то] час.",
+            "english": "By noon she will have been telling us about the voyage for an hour.",
+            "transcription": "[бай ну:н ши: wил хæв би:н т**э**лиŋ ас эб**а**ут ðэ в**о**йидж фо: эн **а**уэ]"
+          },
+          {
+            "ours": "К пяти он будет рассказывать истории о море уже два часа?",
+            "thought": "Будет он иметь быть рассказывающим морские истории целых два часа к пяти?",
+            "english": "Will he have been telling sea stories for two hours by five?",
+            "transcription": "[wил хи: хæв би:н т**э**лиŋ си: ст**о**:риз фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were told",
+        "examples": [
+          {
+            "ours": "Вчера команде рассказали о гонке.",
+            "thought": "[Известная] команда была уведомлена о [известной] гонке вчера.",
+            "english": "The crew was told about the race yesterday.",
+            "transcription": "[ðэ кру: wоз тоулд эб**а**ут ðэ рэйс й**э**стэдэй]"
+          },
+          {
+            "ours": "Шкиперу рассказали о ветре?",
+            "thought": "Был [известный] шкипер уведомлён о [известном] ветре?",
+            "english": "Was the skipper told about the wind?",
+            "transcription": "[wоз ðэ ск**и**пэ тоулд эб**а**ут ðэ wинд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are told",
+        "examples": [
+          {
+            "ours": "Команде каждый день рассказывают о погоде.",
+            "thought": "[Известная] команда есть уведомлена о [известной] погоде каждый день.",
+            "english": "The crew is told about the weather every day.",
+            "transcription": "[ðэ кру: из тоулд эб**а**ут ðэ w**э**ðэ **э**ври дэй]"
+          },
+          {
+            "ours": "Шкиперу сообщают о ветре?",
+            "thought": "Есть [известный] шкипер уведомлён о [известном] ветре?",
+            "english": "Is the skipper told about the wind?",
+            "transcription": "[из ðэ ск**и**пэ тоулд эб**а**ут ðэ wинд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be told",
+        "examples": [
+          {
+            "ours": "Команде завтра расскажут о гонке.",
+            "thought": "[Известная] команда будет быть уведомлена о [известной] гонке завтра.",
+            "english": "The crew will be told about the race tomorrow.",
+            "transcription": "[ðэ кру: wил би: тоулд эб**а**ут ðэ рэйс тэм**о**роу]"
+          },
+          {
+            "ours": "Шкиперу расскажут о ветре?",
+            "thought": "Будет [известный] шкипер быть уведомлён о [известном] ветре?",
+            "english": "Will the skipper be told about the wind?",
+            "transcription": "[wил ðэ ск**и**пэ би: тоулд эб**а**ут ðэ wинд]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being told",
+        "examples": [
+          {
+            "ours": "Команде рассказывали о маршруте, когда я вошёл.",
+            "thought": "[Известная] команда была «долго» уведомлена о [известном] маршруте, когда я вошёл.",
+            "english": "The crew was being told about the route when I entered.",
+            "transcription": "[ðэ кру: wоз б**и**:иŋ тоулд эб**а**ут ðэ ру:т wэн ай **э**нтэд]"
+          },
+          {
+            "ours": "Когда ты пришёл, пассажирам рассказывали о яхте?",
+            "thought": "Были [известные] пассажиры «долго» уведомлены о [известной] яхте, когда ты пришёл?",
+            "english": "Were the passengers being told about the yacht when you arrived?",
+            "transcription": "[wœ: ðэ п**æ**синджэз б**и**:иŋ тоулд эб**а**ут ðэ йот wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being told",
+        "examples": [
+          {
+            "ours": "Команде сейчас рассказывают о маршруте.",
+            "thought": "[Известная] команда есть «долго» уведомлена о [известном] маршруте сейчас.",
+            "english": "The crew is being told about the route now.",
+            "transcription": "[ðэ кру: из б**и**:иŋ тоулд эб**а**ут ðэ ру:т нау]"
+          },
+          {
+            "ours": "Пассажирам сейчас рассказывают о яхте?",
+            "thought": "Есть [известные] пассажиры «долго» уведомлены о [известной] яхте сейчас?",
+            "english": "Are the passengers being told about the yacht now?",
+            "transcription": "[а: ðэ п**æ**синджэз б**и**:иŋ тоулд эб**а**ут ðэ йот нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be telling",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут рассказывать команде о маршруте.",
+            "thought": "Завтра утром они будут быть рассказывающими [известной] команде о [известном] маршруте.",
+            "english": "Tomorrow morning they will be telling the crew about the route.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: т**э**лиŋ ðэ кру: эб**а**ут ðэ ру:т]"
+          },
+          {
+            "ours": "Они будут рассказывать пассажирам о яхте утром?",
+            "thought": "Будут они быть рассказывающими [известным] пассажирам о [известной] яхте этим утром?",
+            "english": "Will they be telling the passengers about the yacht this morning?",
+            "transcription": "[wил ðэй би: т**э**лиŋ ðэ п**æ**синджэз эб**а**ут ðэ йот ðис м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been told",
+        "examples": [
+          {
+            "ours": "К полудню команде уже рассказали о гонке.",
+            "thought": "К полудню [известная] команда имела уже быть уведомлена о [известной] гонке.",
+            "english": "By noon the crew had already been told about the race.",
+            "transcription": "[бай ну:н ðэ кру: хæд о:лр**э**ди би:н тоулд эб**а**ут ðэ рэйс]"
+          },
+          {
+            "ours": "Шкиперу рассказали о ветре к пяти?",
+            "thought": "Имел [известный] шкипер быть уведомлён о [известном] ветре к пяти?",
+            "english": "Had the skipper been told about the wind by five?",
+            "transcription": "[хæд ðэ ск**и**пэ би:н тоулд эб**а**ут ðэ wинд бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been told",
+        "examples": [
+          {
+            "ours": "Команде уже рассказали о гонке.",
+            "thought": "[Известная] команда имеет уже быть уведомлена о [известной] гонке.",
+            "english": "The crew has already been told about the race.",
+            "transcription": "[ðэ кру: хæз о:лр**э**ди би:н тоулд эб**а**ут ðэ рэйс]"
+          },
+          {
+            "ours": "Шкиперу уже рассказали о ветре?",
+            "thought": "Имеет [известный] шкипер быть уведомлён о [известном] ветре уже?",
+            "english": "Has the skipper been told about the wind yet?",
+            "transcription": "[хæз ðэ ск**и**пэ би:н тоулд эб**а**ут ðэ wинд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been told",
+        "examples": [
+          {
+            "ours": "К полудню команде уже расскажут о гонке.",
+            "thought": "К полудню [известная] команда будет иметь быть уведомлена о [известной] гонке.",
+            "english": "By noon the crew will have been told about the race.",
+            "transcription": "[бай ну:н ðэ кру: wил хæв би:н тоулд эб**а**ут ðэ рэйс]"
+          },
+          {
+            "ours": "Шкиперу расскажут о ветре к пяти?",
+            "thought": "Будет [известный] шкипер иметь быть уведомлён о [известном] ветре к пяти?",
+            "english": "Will the skipper have been told about the wind by five?",
+            "transcription": "[wил ðэ ск**и**пэ хæв би:н тоулд эб**а**ут ðэ wинд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been telling the crew about the route."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она расскажет команде о гонке.",
+        "thought": "Я знал, она будет рассказывать [известной] команде о [известной] гонке.",
+        "english": "I knew she would tell the crew about the race.",
+        "transcription": "[ай нью: ши: wуд тэл ðэ кру: эб**а**ут ðэ рэйс]"
+      },
+      {
+        "ours": "Он думал, что мы не сообщим ему прогноз.",
+        "thought": "Он думал, мы будем не сообщать ему [известный] прогноз.",
+        "english": "He thought we would not tell him the forecast.",
+        "transcription": "[хи: θо:т wи: wуд нот тэл хим ðэ ф**о**:ка:ст]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "evening"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "voyage",
+      "meaning": "плавание",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "voyage"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "voyage"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "voyage"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "story",
+      "meaning": "история",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "stories"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "stories"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "stories"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "meaning": "обед",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "lunch"
+        }
+      ]
+    },
+    {
+      "word": "passenger",
+      "meaning": "пассажир",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "passengers"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "passengers"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "passengers"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "yacht"
+        }
+      ]
+    }
+  ]
+}

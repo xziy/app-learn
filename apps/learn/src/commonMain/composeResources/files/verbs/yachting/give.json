@@ -1,0 +1,932 @@
+{
+  "spec": 3,
+  "verb": "give",
+  "forms": {
+    "base": [
+      {
+        "word": "give",
+        "transcription": "[гив]"
+      }
+    ],
+    "past": [
+      {
+        "word": "gave",
+        "transcription": "[гэйв]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "given",
+        "transcription": "[г**и**вн]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "giving",
+        "transcription": "[г**и**виŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "gives",
+        "transcription": "[гивз]"
+      }
+    ]
+  },
+  "meaning": "давать, подавать, отдавать",
+  "notes": "неправильный переходный глагол, имеет пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "gave",
+        "examples": [
+          {
+            "ours": "Вчера капитан дал мне карту.",
+            "thought": "Вчера [известный] шкипер дал мне [какую-то] карту.",
+            "english": "Yesterday the skipper gave me a chart.",
+            "transcription": "[й**э**стэдэй ðэ ск**и**пэ гэйв ми: э ча:т]"
+          },
+          {
+            "ours": "Она не подала сигнал.",
+            "thought": "Она [сделала] не давать [какой-то] сигнал.",
+            "english": "She did not give a signal.",
+            "transcription": "[ши: дид нот гив э с**и**гнл]"
+          },
+          {
+            "ours": "Ты дал ему компас?",
+            "thought": "[Сделал] ты давать ему [какой-то] компас?",
+            "english": "Did you give him a compass?",
+            "transcription": "[дид ю: гив хим э к**а**мпэс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "give, gives",
+        "examples": [
+          {
+            "ours": "Капитан отдаёт команды.",
+            "thought": "[Известный] шкипер даёт команды.",
+            "english": "The skipper gives orders.",
+            "transcription": "[ðэ ск**и**пэ гивз **о**:дэз]"
+          },
+          {
+            "ours": "Мы не даём уроки зимой.",
+            "thought": "Мы [делаем] не давать уроки в зиме.",
+            "english": "We do not give lessons in winter.",
+            "transcription": "[wи: ду: нот гив л**э**снз ин w**и**нтэ]"
+          },
+          {
+            "ours": "Ты даёшь уроки плавания под парусом?",
+            "thought": "[Делаешь] ты давать парусные уроки?",
+            "english": "Do you give sailing lessons?",
+            "transcription": "[ду: ю: гив с**э**йлиŋ л**э**снз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will give",
+        "examples": [
+          {
+            "ours": "Завтра капитан даст нам прогноз.",
+            "thought": "Завтра [известный] шкипер будет давать нам [какой-то] прогноз.",
+            "english": "Tomorrow the skipper will give us a forecast.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил гив ас э ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Она не подаст сигнал.",
+            "thought": "Она будет не давать [какой-то] сигнал.",
+            "english": "She will not give a signal.",
+            "transcription": "[ши: wил нот гив э с**и**гнл]"
+          },
+          {
+            "ours": "Ты дашь мне карту?",
+            "thought": "Будешь ты давать мне [какую-то] карту?",
+            "english": "Will you give me a chart?",
+            "transcription": "[wил ю: гив ми: э ча:т]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were giving",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день давали уроки.",
+            "thought": "Вчера мы были дающими уроки весь день.",
+            "english": "Yesterday we were giving lessons all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: г**и**виŋ л**э**снз о:л дэй]"
+          },
+          {
+            "ours": "Он давал указания, когда ты пришёл?",
+            "thought": "Был он дающим указания, когда ты прибыл?",
+            "english": "Was he giving instructions when you arrived?",
+            "transcription": "[wоз хи: г**и**виŋ инстр**а**кшнз wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are giving",
+        "examples": [
+          {
+            "ours": "Капитан сейчас даёт указания.",
+            "thought": "[Известный] шкипер является дающим указания сейчас.",
+            "english": "The skipper is giving instructions now.",
+            "transcription": "[ðэ ск**и**пэ из г**и**виŋ инстр**а**кшнз нау]"
+          },
+          {
+            "ours": "Она сейчас не даёт урок.",
+            "thought": "Она является не дающей [какой-то] урок сейчас.",
+            "english": "She is not giving a lesson now.",
+            "transcription": "[ши: из нот г**и**виŋ э л**э**сн нау]"
+          },
+          {
+            "ours": "Ты сейчас даёшь урок?",
+            "thought": "Являешься ты дающим [какой-то] урок сейчас?",
+            "english": "Are you giving a lesson now?",
+            "transcription": "[а: ю: г**и**виŋ э л**э**сн нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be giving",
+        "examples": [
+          {
+            "ours": "Завтра мы будем давать уроки весь день.",
+            "thought": "Завтра мы будем быть дающими уроки весь день.",
+            "english": "Tomorrow we will be giving lessons all day.",
+            "transcription": "[тэм**о**роу wи: wил би: г**и**виŋ л**э**снз о:л дэй]"
+          },
+          {
+            "ours": "Ты завтра будешь давать уроки весь день?",
+            "thought": "Будешь ты быть дающим уроки весь день завтра?",
+            "english": "Will you be giving lessons all day tomorrow?",
+            "transcription": "[wил ю: би: г**и**виŋ л**э**снз о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had given",
+        "examples": [
+          {
+            "ours": "К пяти капитан уже дал нам карту.",
+            "thought": "К пяти [известный] шкипер имел уже данной нам [какую-то] карту.",
+            "english": "By five the skipper had already given us a chart.",
+            "transcription": "[бай файв ðэ ск**и**пэ хæд о:лр**э**ди г**и**вн ас э ча:т]"
+          },
+          {
+            "ours": "К тому времени она ещё не подала сигнал.",
+            "thought": "К тогда она имела не данным [какой-то] сигнал ещё.",
+            "english": "By then she had not given a signal yet.",
+            "transcription": "[бай ðэн ши: хæд нот г**и**вн э с**и**гнл йэт]"
+          },
+          {
+            "ours": "К пяти ты дал ему компас?",
+            "thought": "Имел ты данным ему [какой-то] компас к пяти?",
+            "english": "Had you given him a compass by five?",
+            "transcription": "[хæд ю: г**и**вн хим э к**а**мпэс бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has given",
+        "examples": [
+          {
+            "ours": "Капитан уже отдал указания.",
+            "thought": "[Известный] шкипер имеет уже данными указания.",
+            "english": "The skipper has already given instructions.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди г**и**вн инстр**а**кшнз]"
+          },
+          {
+            "ours": "Я ещё не подал сигнал.",
+            "thought": "Я имею не данным [какой-то] сигнал ещё.",
+            "english": "I have not given a signal yet.",
+            "transcription": "[ай хæв нот г**и**вн э с**и**гнл йэт]"
+          },
+          {
+            "ours": "Ты уже дал ей карту?",
+            "thought": "Имеешь ты данной ей [какую-то] карту уже?",
+            "english": "Have you given her a chart yet?",
+            "transcription": "[хæв ю: г**и**вн хœ: э ча:т йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have given",
+        "examples": [
+          {
+            "ours": "К пяти капитан даст нам карту.",
+            "thought": "К пяти [известный] шкипер будет иметь данной нам [какую-то] карту.",
+            "english": "By five the skipper will have given us a chart.",
+            "transcription": "[бай файв ðэ ск**и**пэ wил хæв г**и**вн ас э ча:т]"
+          },
+          {
+            "ours": "К пяти она ещё не подаст сигнал.",
+            "thought": "К пяти она будет не иметь данным [какой-то] сигнал ещё.",
+            "english": "By five she will not have given a signal yet.",
+            "transcription": "[бай файв ши: wил нот хæв г**и**вн э с**и**гнл йэт]"
+          },
+          {
+            "ours": "К пяти ты дашь ему компас?",
+            "thought": "Будешь ты иметь данным ему [какой-то] компас к пяти?",
+            "english": "Will you have given him a compass by five?",
+            "transcription": "[wил ю: хæв г**и**вн хим э к**а**мпэс бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been giving",
+        "examples": [
+          {
+            "ours": "Она давала уроки два часа, когда начался дождь.",
+            "thought": "Она имела быть дающей уроки целых два часа, когда [известный] дождь начался.",
+            "english": "She had been giving lessons for two hours when the rain started.",
+            "transcription": "[ши: хæд би:н г**и**виŋ л**э**снз фо: ту: **а**уэз wэн ðэ рэйн ст**а**:тид]"
+          },
+          {
+            "ours": "Ты долго давал уроки, когда мы встретились?",
+            "thought": "Имел ты быть дающим уроки долго, когда мы встретились?",
+            "english": "Had you been giving lessons long when we met?",
+            "transcription": "[хæд ю: би:н г**и**виŋ л**э**снз лоŋ wэн wи: мэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been giving",
+        "examples": [
+          {
+            "ours": "Она уже два часа даёт уроки.",
+            "thought": "Она имеет быть дающей уроки целых два часа.",
+            "english": "She has been giving lessons for two hours.",
+            "transcription": "[ши: хæз би:н г**и**виŋ л**э**снз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже год даёшь уроки?",
+            "thought": "Имеешь ты быть дающим уроки целый [какой-то] год?",
+            "english": "Have you been giving lessons for a year?",
+            "transcription": "[хæв ю: би:н г**и**виŋ л**э**снз фо: э йиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been giving",
+        "examples": [
+          {
+            "ours": "К июню я буду давать уроки уже год.",
+            "thought": "К июню я буду иметь быть дающим уроки целый [какой-то] год.",
+            "english": "By June I will have been giving lessons for a year.",
+            "transcription": "[бай джу:н ай wил хæв би:н г**и**виŋ л**э**снз фо: э йиэ]"
+          },
+          {
+            "ours": "К июню ты будешь давать уроки уже год?",
+            "thought": "Будешь ты иметь быть дающим уроки целый [какой-то] год к июню?",
+            "english": "Will you have been giving lessons for a year by June?",
+            "transcription": "[wил ю: хæв би:н г**и**виŋ л**э**снз фо: э йиэ бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were given",
+        "examples": [
+          {
+            "ours": "Капитану дали карту вчера.",
+            "thought": "[Известному] шкиперу была дана [какая-то] карта вчера.",
+            "english": "The skipper was given a chart yesterday.",
+            "transcription": "[ðэ ск**и**пэ wоз г**и**вн э ча:т й**э**стэдэй]"
+          },
+          {
+            "ours": "Сигнал вчера не подали.",
+            "thought": "[Известный] сигнал был не дан вчера.",
+            "english": "The signal was not given yesterday.",
+            "transcription": "[ðэ с**и**гнл wоз нот г**и**вн й**э**стэдэй]"
+          },
+          {
+            "ours": "Вчера отдали команду?",
+            "thought": "Была [известная] команда дана вчера?",
+            "english": "Was the order given yesterday?",
+            "transcription": "[wоз ðи **о**:дэ г**и**вн й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are given",
+        "examples": [
+          {
+            "ours": "Уроки дают каждый день.",
+            "thought": "Уроки есть даны каждый день.",
+            "english": "Lessons are given every day.",
+            "transcription": "[л**э**снз а: г**и**вн **э**ври дэй]"
+          },
+          {
+            "ours": "Зимой уроки не дают.",
+            "thought": "Уроки есть не даны в зиме.",
+            "english": "Lessons are not given in winter.",
+            "transcription": "[л**э**снз а: нот г**и**вн ин w**и**нтэ]"
+          },
+          {
+            "ours": "Здесь дают уроки?",
+            "thought": "Есть уроки даны здесь?",
+            "english": "Are lessons given here?",
+            "transcription": "[а: л**э**снз г**и**вн хиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be given",
+        "examples": [
+          {
+            "ours": "Завтра капитану дадут карту.",
+            "thought": "Завтра [известному] шкиперу будет быть дана [какая-то] карта.",
+            "english": "Tomorrow the skipper will be given a chart.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил би: г**и**вн э ча:т]"
+          },
+          {
+            "ours": "Сигнал не подадут завтра.",
+            "thought": "[Известный] сигнал будет не быть дан завтра.",
+            "english": "The signal will not be given tomorrow.",
+            "transcription": "[ðэ с**и**гнл wил нот би: г**и**вн тэм**о**роу]"
+          },
+          {
+            "ours": "Команду отдадут завтра?",
+            "thought": "Будет [известная] команда быть дана завтра?",
+            "english": "Will the order be given tomorrow?",
+            "transcription": "[wил ðи **о**:дэ би: г**и**вн тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being given",
+        "examples": [
+          {
+            "ours": "Вчера уроки давали весь день.",
+            "thought": "Вчера уроки были «долго» даны весь день.",
+            "english": "Yesterday lessons were being given all day.",
+            "transcription": "[й**э**стэдэй л**э**снз wœ: б**и**:иŋ г**и**вн о:л дэй]"
+          },
+          {
+            "ours": "Вчера в пять давали урок?",
+            "thought": "Был [какой-то] урок «долго» дан в пять вчера?",
+            "english": "Was a lesson being given at five yesterday?",
+            "transcription": "[wоз э л**э**сн б**и**:иŋ г**и**вн æт файв й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being given",
+        "examples": [
+          {
+            "ours": "Сейчас дают урок.",
+            "thought": "[Какой-то] урок есть «долго» дан сейчас.",
+            "english": "A lesson is being given now.",
+            "transcription": "[э л**э**сн из б**и**:иŋ г**и**вн нау]"
+          },
+          {
+            "ours": "Сейчас урок не дают.",
+            "thought": "[Какой-то] урок есть не «долго» дан сейчас.",
+            "english": "A lesson is not being given now.",
+            "transcription": "[э л**э**сн из нот б**и**:иŋ г**и**вн нау]"
+          },
+          {
+            "ours": "Сейчас дают указания?",
+            "thought": "Есть указания «долго» даны сейчас?",
+            "english": "Are instructions being given now?",
+            "transcription": "[а: инстр**а**кшнз б**и**:иŋ г**и**вн нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be giving",
+        "examples": [
+          {
+            "ours": "Завтра они будут давать уроки весь день.",
+            "thought": "Завтра они будут быть дающими уроки весь день.",
+            "english": "Tomorrow they will be giving lessons all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: г**и**виŋ л**э**снз о:л дэй]"
+          },
+          {
+            "ours": "Они будут давать уроки завтра весь день?",
+            "thought": "Будут они быть дающими уроки весь день завтра?",
+            "english": "Will they be giving lessons all day tomorrow?",
+            "transcription": "[wил ðэй би: г**и**виŋ л**э**снз о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been given",
+        "examples": [
+          {
+            "ours": "К пяти сигнал уже подали.",
+            "thought": "К пяти [известный] сигнал имел уже быть дан.",
+            "english": "By five the signal had already been given.",
+            "transcription": "[бай файв ðэ с**и**гнл хæд о:лр**э**ди би:н г**и**вн]"
+          },
+          {
+            "ours": "К тому времени команду ещё не отдали.",
+            "thought": "К тогда [известная] команда имела не быть дана ещё.",
+            "english": "By then the order had not been given yet.",
+            "transcription": "[бай ðэн ðи **о**:дэ хæд нот би:н г**и**вн йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been given",
+        "examples": [
+          {
+            "ours": "Сигнал уже подали.",
+            "thought": "[Известный] сигнал имеет уже быть дан.",
+            "english": "The signal has already been given.",
+            "transcription": "[ðэ с**и**гнл хæз о:лр**э**ди би:н г**и**вн]"
+          },
+          {
+            "ours": "Команду ещё не отдали.",
+            "thought": "[Известная] команда имеет не быть дана ещё.",
+            "english": "The order has not been given yet.",
+            "transcription": "[ðи **о**:дэ хæз нот би:н г**и**вн йэт]"
+          },
+          {
+            "ours": "Указания уже дали?",
+            "thought": "Имеют [известные] указания быть даны уже?",
+            "english": "Have the instructions been given yet?",
+            "transcription": "[хæв ðи инстр**а**кшнз би:н г**и**вн йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been given",
+        "examples": [
+          {
+            "ours": "К пяти сигнал будет подан.",
+            "thought": "К пяти [известный] сигнал будет иметь быть дан.",
+            "english": "By five the signal will have been given.",
+            "transcription": "[бай файв ðэ с**и**гнл wил хæв би:н г**и**вн]"
+          },
+          {
+            "ours": "К пяти команду ещё не отдадут.",
+            "thought": "К пяти [известная] команда будет не иметь быть дана ещё.",
+            "english": "By five the order will not have been given yet.",
+            "transcription": "[бай файв ðи **о**:дэ wил нот хæв би:н г**и**вн йэт]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: They have been giving sailing lessons."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она даст нам карту.",
+        "thought": "Я знал, она будет давать нам [какую-то] карту.",
+        "english": "I knew she would give us a chart.",
+        "transcription": "[ай нью: ши: wуд гив ас э ча:т]"
+      },
+      {
+        "ours": "Мы думали, что капитан не подаст сигнал.",
+        "thought": "Мы думали, [известный] шкипер будет не давать [какой-то] сигнал.",
+        "english": "We thought the skipper would not give a signal.",
+        "transcription": "[wи: θо:т ðэ ск**и**пэ wуд нот гив э с**и**гнл]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "signal",
+      "meaning": "сигнал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "signal"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "order",
+      "meaning": "команда",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "orders"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "order"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "order"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "order"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "order"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "order"
+        }
+      ]
+    },
+    {
+      "word": "lesson",
+      "meaning": "урок",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "lessons"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "lessons"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "lessons"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "lesson"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "lesson"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "lessons"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "lessons"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "lessons"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "lessons"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "lessons"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "lessons"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "lessons"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "lessons"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "lessons"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "lessons"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "lessons"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "lessons"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "lesson"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "lesson"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "lesson"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "lessons"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "lessons"
+        }
+      ]
+    },
+    {
+      "word": "winter",
+      "meaning": "зима",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "winter"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "winter"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "instructions",
+      "meaning": "указания",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "instructions"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "instructions"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "instructions"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "sailing",
+      "meaning": "парусный спорт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sailing"
+        }
+      ]
+    }
+  ]
+}

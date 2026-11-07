@@ -1,0 +1,872 @@
+{
+  "spec": 3,
+  "verb": "feel",
+  "forms": {
+    "base": [
+      {
+        "word": "feel",
+        "transcription": "[фи:л]"
+      }
+    ],
+    "past": [
+      {
+        "word": "felt",
+        "transcription": "[фэлт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "felt",
+        "transcription": "[фэлт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "feeling",
+        "transcription": "[ф**и**:лиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "feels",
+        "transcription": "[фи:лз]"
+      }
+    ]
+  },
+  "meaning": "чувствовать, ощущать, чувствовать себя",
+  "notes": "неправильный глагол; в значении ощущения переходный, возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "felt",
+        "examples": [
+          {
+            "ours": "Вчера я почувствовал ветер на лице.",
+            "thought": "Вчера я почувствовал [известный] ветер на моём лице.",
+            "english": "Yesterday I felt the wind on my face.",
+            "transcription": "[й**э**стэдэй ай фэлт ðэ wинд он май фэйс]"
+          },
+          {
+            "ours": "Он не чувствовал движения лодки.",
+            "thought": "Он [сделал] не чувствовать [известное] движение от [известной] лодки.",
+            "english": "He didn't feel the motion of the boat.",
+            "transcription": "[хи: диднт фи:л ðэ м**о**ушн ов ðэ боут]"
+          },
+          {
+            "ours": "Ты почувствовал волну?",
+            "thought": "[Сделал] ты чувствовать [известную] волну?",
+            "english": "Did you feel the wave?",
+            "transcription": "[дид ю: фи:л ðэ wэйв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "feel, feels",
+        "examples": [
+          {
+            "ours": "Сейчас я чувствую ветер.",
+            "thought": "Я чувствую [известный] ветер сейчас.",
+            "english": "I feel the wind now.",
+            "transcription": "[ай фи:л ðэ wинд нау]"
+          },
+          {
+            "ours": "Он не чувствует качку на палубе.",
+            "thought": "Он [делает] не чувствовать [известное] движение на палубе.",
+            "english": "He doesn't feel the motion on deck.",
+            "transcription": "[хи: дазнт фи:л ðэ м**о**ушн он дэк]"
+          },
+          {
+            "ours": "Ты чувствуешь ветер на лице?",
+            "thought": "[Делаешь] ты чувствовать [известный] ветер на твоём лице?",
+            "english": "Do you feel the wind on your face?",
+            "transcription": "[ду: ю: фи:л ðэ wинд он йо: фэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will feel",
+        "examples": [
+          {
+            "ours": "Завтра я буду чувствовать себя лучше.",
+            "thought": "Завтра я буду чувствовать лучше.",
+            "english": "Tomorrow I will feel better.",
+            "transcription": "[тэм**о**роу ай wил фи:л б**э**тэ]"
+          },
+          {
+            "ours": "После отдыха он не будет чувствовать усталость.",
+            "thought": "Он будет не чувствовать уставшим после [известного] отдыха.",
+            "english": "He won't feel tired after the rest.",
+            "transcription": "[хи: wоунт фи:л т**а**йэд **а**:фтэ ðэ рэст]"
+          },
+          {
+            "ours": "Ты почувствуешь волну на палубе?",
+            "thought": "Будешь ты чувствовать [известную] волну на палубе?",
+            "english": "Will you feel the wave on deck?",
+            "transcription": "[wил ю: фи:л ðэ wэйв он дэк]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were feeling",
+        "examples": [
+          {
+            "ours": "Вчера весь день меня укачивало.",
+            "thought": "Вчера я был чувствующим укачанным весь день.",
+            "english": "Yesterday I was feeling seasick all day.",
+            "transcription": "[й**э**стэдэй ай wоз ф**и**:лиŋ с**и**:сик о:л дэй]"
+          },
+          {
+            "ours": "Ты чувствовал себя лучше после отдыха?",
+            "thought": "Был ты чувствующим лучше после [известного] отдыха?",
+            "english": "Were you feeling better after the rest?",
+            "transcription": "[wœ: ю: ф**и**:лиŋ б**э**тэ **а**:фтэ ðэ рэст]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are feeling",
+        "examples": [
+          {
+            "ours": "Сейчас меня укачивает.",
+            "thought": "Я являюсь чувствующим укачанным сейчас.",
+            "english": "I am feeling seasick now.",
+            "transcription": "[ай æм ф**и**:лиŋ с**и**:сик нау]"
+          },
+          {
+            "ours": "Ты сейчас чувствуешь себя лучше?",
+            "thought": "Являешься ты чувствующим лучше сейчас?",
+            "english": "Are you feeling better now?",
+            "transcription": "[а: ю: ф**и**:лиŋ б**э**тэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be feeling",
+        "examples": [
+          {
+            "ours": "После отдыха завтра я буду чувствовать себя лучше.",
+            "thought": "После [известного] отдыха завтра я буду быть чувствующим лучше.",
+            "english": "After the rest tomorrow I will be feeling better.",
+            "transcription": "[**а**:фтэ ðэ рэст тэм**о**роу ай wил би: ф**и**:лиŋ б**э**тэ]"
+          },
+          {
+            "ours": "Завтра ты будешь чувствовать себя лучше?",
+            "thought": "Будешь ты быть чувствующим лучше завтра?",
+            "english": "Will you be feeling better tomorrow?",
+            "transcription": "[wил ю: би: ф**и**:лиŋ б**э**тэ тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had felt",
+        "examples": [
+          {
+            "ours": "До гонки я уже почувствовал ветер.",
+            "thought": "Перед [известной] гонкой я имел уже почувствованным [известный] ветер.",
+            "english": "Before the race I had already felt the wind.",
+            "transcription": "[биф**о**: ðэ рэйс ай хæд о:лр**э**ди фэлт ðэ wинд]"
+          },
+          {
+            "ours": "Ты чувствовал качку до шторма?",
+            "thought": "Имел ты почувствованным [известное] движение перед [известным] штормом?",
+            "english": "Had you felt the motion before the storm?",
+            "transcription": "[хæд ю: фэлт ðэ м**о**ушн биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has felt",
+        "examples": [
+          {
+            "ours": "Я уже почувствовал ветер на лице.",
+            "thought": "Я имею уже почувствованным [известный] ветер на моём лице.",
+            "english": "I have already felt the wind on my face.",
+            "transcription": "[ай хæв о:лр**э**ди фэлт ðэ wинд он май фэйс]"
+          },
+          {
+            "ours": "Ты уже почувствовал волну?",
+            "thought": "Имеешь ты уже почувствованной [известную] волну?",
+            "english": "Have you already felt the wave?",
+            "transcription": "[хæв ю: о:лр**э**ди фэлт ðэ wэйв]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have felt",
+        "examples": [
+          {
+            "ours": "К пяти завтра я уже почувствую ветер.",
+            "thought": "К пяти завтра я буду иметь уже почувствованным [известный] ветер.",
+            "english": "By five tomorrow I will have already felt the wind.",
+            "transcription": "[бай файв тэм**о**роу ай wил хæв о:лр**э**ди фэлт ðэ wинд]"
+          },
+          {
+            "ours": "Ты почувствуешь качку до гонки?",
+            "thought": "Будешь ты иметь почувствованным [известное] движение перед [известной] гонкой?",
+            "english": "Will you have felt the motion before the race?",
+            "transcription": "[wил ю: хæв фэлт ðэ м**о**ушн биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been feeling",
+        "examples": [
+          {
+            "ours": "Меня уже два часа укачивало, когда ты пришёл.",
+            "thought": "Я имел быть чувствующим укачанным целых два часа, когда ты пришёл.",
+            "english": "I had been feeling seasick for two hours when you came.",
+            "transcription": "[ай хæд би:н ф**и**:лиŋ с**и**:сик фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Тебя уже два часа укачивало, когда он пришёл?",
+            "thought": "Имел ты быть чувствующим укачанным целых два часа, когда он пришёл?",
+            "english": "Had you been feeling seasick for two hours when he came?",
+            "transcription": "[хæд ю: би:н ф**и**:лиŋ с**и**:сик фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been feeling",
+        "examples": [
+          {
+            "ours": "Меня уже два часа укачивает.",
+            "thought": "Я имею быть чувствующим укачанным целых два часа.",
+            "english": "I have been feeling seasick for two hours.",
+            "transcription": "[ай хæв би:н ф**и**:лиŋ с**и**:сик фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Тебя уже два часа укачивает?",
+            "thought": "Имеешь ты быть чувствующим укачанным целых два часа?",
+            "english": "Have you been feeling seasick for two hours?",
+            "transcription": "[хæв ю: би:н ф**и**:лиŋ с**и**:сик фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been feeling",
+        "examples": [
+          {
+            "ours": "К пяти меня будет укачивать уже два часа.",
+            "thought": "К пяти я буду иметь быть чувствующим укачанным целых два часа.",
+            "english": "By five I will have been feeling seasick for two hours.",
+            "transcription": "[бай файв ай wил хæв би:н ф**и**:лиŋ с**и**:сик фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти тебя будет укачивать уже два часа?",
+            "thought": "Будешь ты иметь быть чувствующим укачанным целых два часа к пяти?",
+            "english": "Will you have been feeling seasick for two hours by five?",
+            "transcription": "[wил ю: хæв би:н ф**и**:лиŋ с**и**:сик фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were felt",
+        "examples": [
+          {
+            "ours": "Вчера ветер ощущался на палубе.",
+            "thought": "[Известный] ветер был почувствован на палубе вчера.",
+            "english": "The wind was felt on deck yesterday.",
+            "transcription": "[ðэ wинд wоз фэлт он дэк й**э**стэдэй]"
+          },
+          {
+            "ours": "Волну почувствовали на палубе?",
+            "thought": "Была [известная] волна почувствована на палубе?",
+            "english": "Was the wave felt on deck?",
+            "transcription": "[wоз ðэ wэйв фэлт он дэк]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are felt",
+        "examples": [
+          {
+            "ours": "Ветер ощущается на палубе.",
+            "thought": "[Известный] ветер есть почувствован на палубе.",
+            "english": "The wind is felt on deck.",
+            "transcription": "[ðэ wинд из фэлт он дэк]"
+          },
+          {
+            "ours": "Волны ощущаются через корпус?",
+            "thought": "Есть [известные] волны почувствованы через [известный] корпус?",
+            "english": "Are the waves felt through the hull?",
+            "transcription": "[а: ðэ wэйвз фэлт θру: ðэ хал]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be felt",
+        "examples": [
+          {
+            "ours": "Завтра ветер будет ощущаться на палубе.",
+            "thought": "[Известный] ветер будет быть почувствован на палубе завтра.",
+            "english": "The wind will be felt on deck tomorrow.",
+            "transcription": "[ðэ wинд wил би: фэлт он дэк тэм**о**роу]"
+          },
+          {
+            "ours": "Волну почувствуют на палубе?",
+            "thought": "Будет [известная] волна быть почувствована на палубе?",
+            "english": "Will the wave be felt on deck?",
+            "transcription": "[wил ðэ wэйв би: фэлт он дэк]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being felt",
+        "examples": [
+          {
+            "ours": "Вчера команда весь день ощущала последствия шторма.",
+            "thought": "[Известные] последствия от [известного] шторма были «долго» почувствованы на борту весь день вчера.",
+            "english": "The effects of the storm were being felt on board all day yesterday.",
+            "transcription": "[ðэ иф**э**ктс ов ðэ сто:м wœ: б**и**:иŋ фэлт он бо:д о:л дэй й**э**стэдэй]"
+          },
+          {
+            "ours": "Вчера последствия шторма ещё ощущались на борту?",
+            "thought": "Были [известные] последствия от [известного] шторма «долго» почувствованы на борту вчера?",
+            "english": "Were the effects of the storm being felt on board yesterday?",
+            "transcription": "[wœ: ðэ иф**э**ктс ов ðэ сто:м б**и**:иŋ фэлт он бо:д й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being felt",
+        "examples": [
+          {
+            "ours": "Сейчас на борту ощущаются последствия шторма.",
+            "thought": "[Известные] последствия от [известного] шторма есть «долго» почувствованы на борту сейчас.",
+            "english": "The effects of the storm are being felt on board now.",
+            "transcription": "[ðэ иф**э**ктс ов ðэ сто:м а: б**и**:иŋ фэлт он бо:д нау]"
+          },
+          {
+            "ours": "Сейчас на борту ощущаются последствия шторма?",
+            "thought": "Есть [известные] последствия от [известного] шторма «долго» почувствованы на борту сейчас?",
+            "english": "Are the effects of the storm being felt on board now?",
+            "transcription": "[а: ðэ иф**э**ктс ов ðэ сто:м б**и**:иŋ фэлт он бо:д нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be feeling",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут ощущать последствия шторма.",
+            "thought": "Завтра они будут быть чувствующими [известные] последствия от [известного] шторма весь день.",
+            "english": "Tomorrow they will be feeling the effects of the storm all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: ф**и**:лиŋ ðэ иф**э**ктс ов ðэ сто:м о:л дэй]"
+          },
+          {
+            "ours": "Завтра они весь день будут ощущать последствия шторма?",
+            "thought": "Будут они быть чувствующими [известные] последствия от [известного] шторма весь день завтра?",
+            "english": "Will they be feeling the effects of the storm all day tomorrow?",
+            "transcription": "[wил ðэй би: ф**и**:лиŋ ðэ иф**э**ктс ов ðэ сто:м о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been felt",
+        "examples": [
+          {
+            "ours": "До шторма ветер уже ощущался на палубе.",
+            "thought": "Перед [известным] штормом [известный] ветер имел уже быть почувствован на палубе.",
+            "english": "Before the storm the wind had already been felt on deck.",
+            "transcription": "[биф**о**: ðэ сто:м ðэ wинд хæд о:лр**э**ди би:н фэлт он дэк]"
+          },
+          {
+            "ours": "Волну почувствовали до гонки?",
+            "thought": "Имела [известная] волна быть почувствована перед [известной] гонкой?",
+            "english": "Had the wave been felt before the race?",
+            "transcription": "[хæд ðэ wэйв би:н фэлт биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been felt",
+        "examples": [
+          {
+            "ours": "Ветер уже ощущался на палубе.",
+            "thought": "[Известный] ветер имеет уже быть почувствован на палубе.",
+            "english": "The wind has already been felt on deck.",
+            "transcription": "[ðэ wинд хæз о:лр**э**ди би:н фэлт он дэк]"
+          },
+          {
+            "ours": "Волну уже почувствовали на палубе?",
+            "thought": "Имеет [известная] волна уже быть почувствована на палубе?",
+            "english": "Has the wave already been felt on deck?",
+            "transcription": "[хæз ðэ wэйв о:лр**э**ди би:н фэлт он дэк]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been felt",
+        "examples": [
+          {
+            "ours": "Завтра к пяти ветер уже почувствуют на палубе.",
+            "thought": "К пяти завтра [известный] ветер будет уже иметь быть почувствован на палубе.",
+            "english": "By five tomorrow the wind will already have been felt on deck.",
+            "transcription": "[бай файв тэм**о**роу ðэ wинд wил о:лр**э**ди хæв би:н фэлт он дэк]"
+          },
+          {
+            "ours": "Волну почувствуют до гонки?",
+            "thought": "Будет [известная] волна иметь быть почувствована перед [известной] гонкой?",
+            "english": "Will the wave have been felt before the race?",
+            "transcription": "[wил ðэ wэйв хæв би:н фэлт биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The wind has been felt. Или: We have been feeling the wind."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что ветер будет чувствоваться на палубе.",
+        "thought": "[Известный] капитан сказал, что они будут чувствовать [известный] ветер на палубе.",
+        "english": "The captain said that they would feel the wind on deck.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд фи:л ðэ wинд он дэк]"
+      },
+      {
+        "ours": "Я знал, что тебя не укачает.",
+        "thought": "Я знал, что ты будешь не чувствовать укачанным.",
+        "english": "I knew that you wouldn't feel seasick.",
+        "transcription": "[ай нью: ðæт ю: wуднт фи:л с**и**:сик]"
+      },
+      {
+        "ours": "Капитан сказал, что мы почувствуем волну.",
+        "thought": "[Известный] капитан сказал, что мы будем чувствовать [известную] волну.",
+        "english": "The captain said that we would feel the wave.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд фи:л ðэ wэйв]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "face",
+      "meaning": "лицо",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "face"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "face"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "face"
+        }
+      ]
+    },
+    {
+      "word": "motion",
+      "meaning": "движение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "motion"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "motion"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "motion"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "motion"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "wave",
+      "meaning": "волна",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "wave"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "wave"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "waves"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "wave"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "rest",
+      "meaning": "отдых",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "rest"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "rest"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "rest"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "hull",
+      "meaning": "корпус",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "hull"
+        }
+      ]
+    },
+    {
+      "word": "effect",
+      "meaning": "последствие",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "effects"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "effects"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "effects"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "effects"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "effects"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "effects"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

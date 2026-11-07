@@ -1,0 +1,960 @@
+{
+  "spec": 3,
+  "verb": "help",
+  "forms": {
+    "base": [
+      {
+        "word": "help",
+        "transcription": "[хелп]"
+      }
+    ],
+    "past": [
+      {
+        "word": "helped",
+        "transcription": "[хелпт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "helped",
+        "transcription": "[хелпт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "helping",
+        "transcription": "[х**э**лпиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "helps",
+        "transcription": "[хелпс]"
+      }
+    ]
+  },
+  "meaning": "помогать",
+  "notes": "правильный переходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "helped",
+        "examples": [
+          {
+            "ours": "Вчера я помог капитану с парусом.",
+            "thought": "Вчера я помог [известному] шкиперу с [известным] парусом.",
+            "english": "Yesterday I helped the skipper with the sail.",
+            "transcription": "[й**э**стэдэй ай хелпт ðэ ск**и**пэ wиð ðэ сэйл]"
+          },
+          {
+            "ours": "Она не помогла команде.",
+            "thought": "Она [сделала] не помогать [известной] команде.",
+            "english": "She did not help the crew.",
+            "transcription": "[ши: дид нот хелп ðэ кру:]"
+          },
+          {
+            "ours": "Ты помог моряку?",
+            "thought": "[Сделал] ты помогать [известному] моряку?",
+            "english": "Did you help the sailor?",
+            "transcription": "[дид ю: хелп ðэ с**э**йлэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "help, helps",
+        "examples": [
+          {
+            "ours": "Мы помогаем новичкам.",
+            "thought": "Мы помогаем новичкам.",
+            "english": "We help beginners.",
+            "transcription": "[wи: хелп биг**и**нэз]"
+          },
+          {
+            "ours": "Он не помогает капитану.",
+            "thought": "Он [делает] не помогать [известному] шкиперу.",
+            "english": "He does not help the skipper.",
+            "transcription": "[хи: даз нот хелп ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Ты помогаешь команде с швартовкой?",
+            "thought": "[Делаешь] ты помогать [известной] команде с [известной] швартовкой?",
+            "english": "Do you help the crew with the mooring?",
+            "transcription": "[ду: ю: хелп ðэ кру: wиð ðэ м**у**эриŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will help",
+        "examples": [
+          {
+            "ours": "Завтра я помогу капитану с якорем.",
+            "thought": "Завтра я буду помогать [известному] шкиперу с [известным] якорем.",
+            "english": "Tomorrow I will help the skipper with the anchor.",
+            "transcription": "[тэм**о**роу ай wил хелп ðэ ск**и**пэ wиð ðи **æ**ŋкэ]"
+          },
+          {
+            "ours": "Она не поможет команде.",
+            "thought": "Она будет не помогать [известной] команде.",
+            "english": "She will not help the crew.",
+            "transcription": "[ши: wил нот хелп ðэ кру:]"
+          },
+          {
+            "ours": "Ты поможешь моряку?",
+            "thought": "Будешь ты помогать [известному] моряку?",
+            "english": "Will you help the sailor?",
+            "transcription": "[wил ю: хелп ðэ с**э**йлэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were helping",
+        "examples": [
+          {
+            "ours": "Вчера я весь день помогал команде с навигацией.",
+            "thought": "Вчера я был помогающим [известной] команде весь день с [известной] навигацией.",
+            "english": "Yesterday I was helping the crew all day with the navigation.",
+            "transcription": "[й**э**стэдэй ай wоз х**э**лпиŋ ðэ кру: о:л дэй wиð ðэ нæвиг**э**йшн]"
+          },
+          {
+            "ours": "Ты помогал капитану, когда поднялся ветер?",
+            "thought": "Был ты помогающим [известному] шкиперу, когда [известный] ветер поднялся?",
+            "english": "Were you helping the skipper when the wind rose?",
+            "transcription": "[wœ: ю: х**э**лпиŋ ðэ ск**и**пэ wэн ðэ wинд роуз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are helping",
+        "examples": [
+          {
+            "ours": "Я сейчас помогаю команде.",
+            "thought": "Я являюсь помогающим [известной] команде сейчас.",
+            "english": "I am helping the crew now.",
+            "transcription": "[ай æм х**э**лпиŋ ðэ кру: нау]"
+          },
+          {
+            "ours": "Она сейчас не помогает капитану.",
+            "thought": "Она является не помогающей [известному] шкиперу сейчас.",
+            "english": "She is not helping the skipper now.",
+            "transcription": "[ши: из нот х**э**лпиŋ ðэ ск**и**пэ нау]"
+          },
+          {
+            "ours": "Ты сейчас помогаешь моряку с такелажем?",
+            "thought": "Являешься ты помогающим [известному] моряку сейчас с [известным] такелажем?",
+            "english": "Are you helping the sailor now with the rigging?",
+            "transcription": "[а: ю: х**э**лпиŋ ðэ с**э**йлэ нау wиð ðэ р**и**гиŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be helping",
+        "examples": [
+          {
+            "ours": "Завтра я буду помогать команде весь день.",
+            "thought": "Завтра я буду быть помогающим [известной] команде весь день.",
+            "english": "Tomorrow I will be helping the crew all day.",
+            "transcription": "[тэм**о**роу ай wил би: х**э**лпиŋ ðэ кру: о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь помогать капитану в пять с двигателем?",
+            "thought": "Будешь ты быть помогающим [известному] шкиперу в пять с [известным] двигателем?",
+            "english": "Will you be helping the skipper at five with the engine?",
+            "transcription": "[wил ю: би: х**э**лпиŋ ðэ ск**и**пэ æт файв wиð ðи **э**нджин]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had helped",
+        "examples": [
+          {
+            "ours": "К пяти я уже помог капитану с парусом.",
+            "thought": "К пяти я имел уже помогнутым [известного] шкипера с [известным] парусом.",
+            "english": "By five I had already helped the skipper with the sail.",
+            "transcription": "[бай файв ай хæд о:лр**э**ди хелпт ðэ ск**и**пэ wиð ðэ сэйл]"
+          },
+          {
+            "ours": "К тому времени она ещё не помогла команде.",
+            "thought": "К тогда она имела не помогнутой [известную] команду ещё.",
+            "english": "By then she had not helped the crew yet.",
+            "transcription": "[бай ðэн ши: хæд нот хелпт ðэ кру: йэт]"
+          },
+          {
+            "ours": "К пяти ты помог моряку?",
+            "thought": "Имел ты помогнутым [известного] моряка к пяти?",
+            "english": "Had you helped the sailor by five?",
+            "transcription": "[хæд ю: хелпт ðэ с**э**йлэ бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has helped",
+        "examples": [
+          {
+            "ours": "Я уже помог капитану.",
+            "thought": "Я имею уже помогнутым [известного] шкипера.",
+            "english": "I have already helped the skipper.",
+            "transcription": "[ай хæв о:лр**э**ди хелпт ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Она ещё не помогла команде с швартовкой.",
+            "thought": "Она имеет не помогнутой [известную] команду ещё с [известной] швартовкой.",
+            "english": "She has not helped the crew yet with the mooring.",
+            "transcription": "[ши: хæз нот хелпт ðэ кру: йэт wиð ðэ м**у**эриŋ]"
+          },
+          {
+            "ours": "Ты уже помог моряку?",
+            "thought": "Имеешь ты помогнутым [известного] моряка уже?",
+            "english": "Have you helped the sailor yet?",
+            "transcription": "[хæв ю: хелпт ðэ с**э**йлэ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have helped",
+        "examples": [
+          {
+            "ours": "К пяти я помогу капитану.",
+            "thought": "К пяти я буду иметь помогнутым [известного] шкипера.",
+            "english": "By five I will have helped the skipper.",
+            "transcription": "[бай файв ай wил хæв хелпт ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "К пяти она ещё не поможет команде.",
+            "thought": "К пяти она будет не иметь помогнутой [известную] команду ещё.",
+            "english": "By five she will not have helped the crew yet.",
+            "transcription": "[бай файв ши: wил нот хæв хелпт ðэ кру: йэт]"
+          },
+          {
+            "ours": "К пяти ты поможешь моряку с якорем?",
+            "thought": "Будешь ты иметь помогнутым [известного] моряка к пяти с [известным] якорем?",
+            "english": "Will you have helped the sailor by five with the anchor?",
+            "transcription": "[wил ю: хæв хелпт ðэ с**э**йлэ бай файв wиð ðи **æ**ŋкэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been helping",
+        "examples": [
+          {
+            "ours": "Я помогал команде два часа, когда поднялся ветер с навигацией.",
+            "thought": "Я имел быть помогающим [известной] команде целых два часа, когда [известный] ветер поднялся с [известной] навигацией.",
+            "english": "I had been helping the crew for two hours when the wind rose with the navigation.",
+            "transcription": "[ай хæд би:н х**э**лпиŋ ðэ кру: фо: ту: **а**уэз wэн ðэ wинд роуз wиð ðэ нæвиг**э**йшн]"
+          },
+          {
+            "ours": "Ты давно помогал капитану, когда начался дождь?",
+            "thought": "Имел ты быть помогающим [известному] шкиперу долго, когда [известный] дождь начался?",
+            "english": "Had you been helping the skipper long when the rain started?",
+            "transcription": "[хæд ю: би:н х**э**лпиŋ ðэ ск**и**пэ лоŋ wэн ðэ рэйн ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been helping",
+        "examples": [
+          {
+            "ours": "Я помогаю команде уже два часа.",
+            "thought": "Я имею быть помогающим [известной] команде целых два часа.",
+            "english": "I have been helping the crew for two hours.",
+            "transcription": "[ай хæв би:н х**э**лпиŋ ðэ кру: фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже час помогаешь капитану с такелажем?",
+            "thought": "Имеешь ты быть помогающим [известному] шкиперу целый [какой-то] час с [известным] такелажем?",
+            "english": "Have you been helping the skipper for an hour with the rigging?",
+            "transcription": "[хæв ю: би:н х**э**лпиŋ ðэ ск**и**пэ фо: эн ауэ wиð ðэ р**и**гиŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been helping",
+        "examples": [
+          {
+            "ours": "К пяти я буду помогать команде уже два часа с двигателем.",
+            "thought": "К пяти я буду иметь быть помогающим [известной] команде целых два часа с [известным] двигателем.",
+            "english": "By five I will have been helping the crew for two hours with the engine.",
+            "transcription": "[бай файв ай wил хæв би:н х**э**лпиŋ ðэ кру: фо: ту: **а**уэз wиð ðи **э**нджин]"
+          },
+          {
+            "ours": "К пяти ты будешь помогать капитану уже час?",
+            "thought": "Будешь ты иметь быть помогающим [известному] шкиперу целый [какой-то] час к пяти?",
+            "english": "Will you have been helping the skipper for an hour by five?",
+            "transcription": "[wил ю: хæв би:н х**э**лпиŋ ðэ ск**и**пэ фо: эн ауэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were helped",
+        "examples": [
+          {
+            "ours": "Вчера капитану помогли с парусом.",
+            "thought": "[Известный] шкипер был помогнут вчера с [известным] парусом.",
+            "english": "The skipper was helped yesterday with the sail.",
+            "transcription": "[ðэ ск**и**пэ wоз хелпт й**э**стэдэй wиð ðэ сэйл]"
+          },
+          {
+            "ours": "Команде не помогли.",
+            "thought": "[Известная] команда была не помогнута.",
+            "english": "The crew was not helped.",
+            "transcription": "[ðэ кру: wоз нот хелпт]"
+          },
+          {
+            "ours": "Моряку помогли?",
+            "thought": "Был [известный] моряк помогнут?",
+            "english": "Was the sailor helped?",
+            "transcription": "[wоз ðэ с**э**йлэ хелпт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are helped",
+        "examples": [
+          {
+            "ours": "Новичкам помогают на борту с швартовкой.",
+            "thought": "Новички есть помогнуты на борту с [известной] швартовкой.",
+            "english": "Beginners are helped on board with the mooring.",
+            "transcription": "[биг**и**нэз а: хелпт он бо:д wиð ðэ м**у**эриŋ]"
+          },
+          {
+            "ours": "Команде не помогают.",
+            "thought": "[Известная] команда есть не помогнута.",
+            "english": "The crew is not helped.",
+            "transcription": "[ðэ кру: из нот хелпт]"
+          },
+          {
+            "ours": "Моряку помогают?",
+            "thought": "Есть [известный] моряк помогнут?",
+            "english": "Is the sailor helped?",
+            "transcription": "[из ðэ с**э**йлэ хелпт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be helped",
+        "examples": [
+          {
+            "ours": "Завтра капитану помогут.",
+            "thought": "Завтра [известный] шкипер будет быть помогнут.",
+            "english": "Tomorrow the skipper will be helped.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил би: хелпт]"
+          },
+          {
+            "ours": "Команде не помогут с якорем.",
+            "thought": "[Известная] команда будет не быть помогнута с [известным] якорем.",
+            "english": "The crew will not be helped with the anchor.",
+            "transcription": "[ðэ кру: wил нот би: хелпт wиð ðи **æ**ŋкэ]"
+          },
+          {
+            "ours": "Моряку помогут завтра?",
+            "thought": "Будет [известный] моряк быть помогнут завтра?",
+            "english": "Will the sailor be helped tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: хелпт тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being helped",
+        "examples": [
+          {
+            "ours": "Капитану помогали, когда усилился ветер с навигацией.",
+            "thought": "[Известный] шкипер был «долго» помогнут, когда [известный] ветер усилился с [известной] навигацией.",
+            "english": "The skipper was being helped when the wind rose with the navigation.",
+            "transcription": "[ðэ ск**и**пэ wоз б**и**:иŋ хелпт wэн ðэ wинд роуз wиð ðэ нæвиг**э**йшн]"
+          },
+          {
+            "ours": "Моряку помогали, когда ты прибыл?",
+            "thought": "Был [известный] моряк «долго» помогнут, когда ты прибыл?",
+            "english": "Was the sailor being helped when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ б**и**:иŋ хелпт wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being helped",
+        "examples": [
+          {
+            "ours": "Команде сейчас помогают.",
+            "thought": "[Известная] команда есть «долго» помогнута сейчас.",
+            "english": "The crew is being helped now.",
+            "transcription": "[ðэ кру: из б**и**:иŋ хелпт нау]"
+          },
+          {
+            "ours": "Капитану сейчас не помогают с такелажем.",
+            "thought": "[Известный] шкипер есть не «долго» помогнут сейчас с [известным] такелажем.",
+            "english": "The skipper is not being helped now with the rigging.",
+            "transcription": "[ðэ ск**и**пэ из нот б**и**:иŋ хелпт нау wиð ðэ р**и**гиŋ]"
+          },
+          {
+            "ours": "Моряку сейчас помогают?",
+            "thought": "Есть [известный] моряк «долго» помогнут сейчас?",
+            "english": "Is the sailor being helped now?",
+            "transcription": "[из ðэ с**э**йлэ б**и**:иŋ хелпт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be helping",
+        "examples": [
+          {
+            "ours": "Завтра они будут помогать команде весь день с двигателем.",
+            "thought": "Завтра они будут быть помогающими [известной] команде весь день с [известным] двигателем.",
+            "english": "Tomorrow they will be helping the crew all day with the engine.",
+            "transcription": "[тэм**о**роу ðэй wил би: х**э**лпиŋ ðэ кру: о:л дэй wиð ðи **э**нджин]"
+          },
+          {
+            "ours": "Они будут помогать капитану в пять?",
+            "thought": "Будут они быть помогающими [известному] шкиперу в пять?",
+            "english": "Will they be helping the skipper at five?",
+            "transcription": "[wил ðэй би: х**э**лпиŋ ðэ ск**и**пэ æт файв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been helped",
+        "examples": [
+          {
+            "ours": "К пяти капитану уже помогли.",
+            "thought": "К пяти [известный] шкипер имел уже быть помогнут.",
+            "english": "By five the skipper had already been helped.",
+            "transcription": "[бай файв ðэ ск**и**пэ хæд о:лр**э**ди би:н хелпт]"
+          },
+          {
+            "ours": "К тому времени команде ещё не помогли с парусом.",
+            "thought": "К тогда [известная] команда имела не быть помогнута ещё с [известным] парусом.",
+            "english": "By then the crew had not been helped yet with the sail.",
+            "transcription": "[бай ðэн ðэ кру: хæд нот би:н хелпт йэт wиð ðэ сэйл]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been helped",
+        "examples": [
+          {
+            "ours": "Капитану уже помогли с швартовкой.",
+            "thought": "[Известный] шкипер имеет уже быть помогнут с [известной] швартовкой.",
+            "english": "The skipper has already been helped with the mooring.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди би:н хелпт wиð ðэ м**у**эриŋ]"
+          },
+          {
+            "ours": "Команде ещё не помогли.",
+            "thought": "[Известная] команда имеет не быть помогнута ещё.",
+            "english": "The crew has not been helped yet.",
+            "transcription": "[ðэ кру: хæз нот би:н хелпт йэт]"
+          },
+          {
+            "ours": "Моряку уже помогли?",
+            "thought": "Имеет [известный] моряк быть помогнут уже?",
+            "english": "Has the sailor been helped yet?",
+            "transcription": "[хæз ðэ с**э**йлэ би:н хелпт йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been helped",
+        "examples": [
+          {
+            "ours": "К пяти капитану помогут.",
+            "thought": "К пяти [известный] шкипер будет иметь быть помогнут.",
+            "english": "By five the skipper will have been helped.",
+            "transcription": "[бай файв ðэ ск**и**пэ wил хæв би:н хелпт]"
+          },
+          {
+            "ours": "К пяти команде ещё не помогут с якорем.",
+            "thought": "К пяти [известная] команда будет не иметь быть помогнута ещё с [известным] якорем.",
+            "english": "By five the crew will not have been helped yet with the anchor.",
+            "transcription": "[бай файв ðэ кру: wил нот хæв би:н хелпт йэт wиð ðи **æ**ŋкэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: They have been helping the crew."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она поможет капитану с навигацией.",
+        "thought": "Я знал, она будет помогать [известному] шкиперу с [известной] навигацией.",
+        "english": "I knew she would help the skipper with the navigation.",
+        "transcription": "[ай нью: ши: wуд хелп ðэ ск**и**пэ wиð ðэ нæвиг**э**йшн]"
+      },
+      {
+        "ours": "Мы думали, что он не поможет команде.",
+        "thought": "Мы думали, он будет не помогать [известной] команде.",
+        "english": "We thought he would not help the crew.",
+        "transcription": "[wи: θо:т хи: wуд нот хелп ðэ кру:]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "beginner",
+      "meaning": "новичок",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "beginners"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "beginners"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "mooring",
+      "meaning": "швартовка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "mooring"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "mooring"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "mooring"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "mooring"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "navigation",
+      "meaning": "навигация",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "navigation"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "navigation"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "navigation"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "navigation"
+        }
+      ]
+    },
+    {
+      "word": "rigging",
+      "meaning": "такелаж",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "rigging"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "rigging"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "rigging"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "engine"
+        }
+      ]
+    }
+  ]
+}

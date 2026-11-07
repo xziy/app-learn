@@ -1,0 +1,1240 @@
+{
+  "spec": 3,
+  "verb": "acquire",
+  "forms": {
+    "base": [
+      {
+        "word": "acquire",
+        "transcription": "[экw**а**йэ]"
+      }
+    ],
+    "past": [
+      {
+        "word": "acquired",
+        "transcription": "[экw**а**йэд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "acquired",
+        "transcription": "[экw**а**йэд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "acquiring",
+        "transcription": "[экw**а**йэриŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "acquires",
+        "transcription": "[экw**а**йэз]"
+      }
+    ]
+  },
+  "meaning": "приобретать, получать, осваивать",
+  "notes": "правильный переходный глагол; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "acquired",
+        "examples": [
+          {
+            "ours": "Она приобрела опыт за границей.",
+            "thought": "Она приобрела опыт за границей.",
+            "english": "She acquired experience abroad.",
+            "transcription": "[ши: экw**а**йэд иксп**и**эриэнс эбр**о**:д]"
+          },
+          {
+            "ours": "Компания не купила здание.",
+            "thought": "[Известная] компания [сделала] не приобретать [известное] здание.",
+            "english": "The company didn't acquire the building.",
+            "transcription": "[ðэ к**а**мпэни диднт экw**а**йэ ðэ б**и**лдиŋ]"
+          },
+          {
+            "ours": "Ты приобрёл эти акции?",
+            "thought": "[Сделал] ты приобретать эти акции?",
+            "english": "Did you acquire these shares?",
+            "transcription": "[дид ю: экw**а**йэ ðи:з шээз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "acquire, acquires",
+        "examples": [
+          {
+            "ours": "Дети быстро осваивают язык.",
+            "thought": "Дети приобретают язык быстро.",
+            "english": "Children acquire language quickly.",
+            "transcription": "[ч**и**лдрэн экw**а**йэ л**æ**ŋгwидж кw**и**кли]"
+          },
+          {
+            "ours": "Он не покупает антиквариат.",
+            "thought": "Он [делает] не приобретать антиквариат.",
+            "english": "He doesn't acquire antiques.",
+            "transcription": "[хи: дазнт экw**а**йэ энт**и**:кс]"
+          },
+          {
+            "ours": "Вы приобретаете книги на аукционах?",
+            "thought": "[Делаете] вы приобретать книги на аукционах?",
+            "english": "Do you acquire books at auctions?",
+            "transcription": "[ду: ю: экw**а**йэ букс æт **о**:кшнз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will acquire",
+        "examples": [
+          {
+            "ours": "Музей приобретёт картину завтра.",
+            "thought": "[Известный] музей будет приобретать [известную] картину завтра.",
+            "english": "The museum will acquire the painting tomorrow.",
+            "transcription": "[ðэ мьюз**и**:эм wил экw**а**йэ ðэ п**э**йнтиŋ тэм**о**роу]"
+          },
+          {
+            "ours": "Мы не купим землю в этом году.",
+            "thought": "Мы будем не приобретать землю этот год.",
+            "english": "We won't acquire land this year.",
+            "transcription": "[wи: wоунт экw**а**йэ лæнд ðис йиэ]"
+          },
+          {
+            "ours": "Она приобретёт долю в компании?",
+            "thought": "Будет она приобретать [какую-то] долю в [известной] компании?",
+            "english": "Will she acquire a stake in the company?",
+            "transcription": "[wил ши: экw**а**йэ э стэйк ин ðэ к**а**мпэни]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were acquiring",
+        "examples": [
+          {
+            "ours": "В то время она постепенно набиралась опыта.",
+            "thought": "Она была приобретающей опыт постепенно в [известное] время.",
+            "english": "She was acquiring experience gradually at the time.",
+            "transcription": "[ши: wоз экw**а**йэриŋ иксп**и**эриэнс гр**æ**джуэли æт ðэ тайм]"
+          },
+          {
+            "ours": "Дети тогда ещё не осваивали письменные навыки.",
+            "thought": "[Известные] дети были не приобретающими письменные навыки ещё.",
+            "english": "The children weren't acquiring writing skills yet.",
+            "transcription": "[ðэ ч**и**лдрэн wœ:нт экw**а**йэриŋ р**а**йтиŋ скилз йэт]"
+          },
+          {
+            "ours": "В то время он набирался уверенности?",
+            "thought": "Был он приобретающим уверенность в [известное] время?",
+            "english": "Was he acquiring confidence at the time?",
+            "transcription": "[wоз хи: экw**а**йэриŋ к**о**нфидэнс æт ðэ тайм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are acquiring",
+        "examples": [
+          {
+            "ours": "Сейчас она осваивает новые навыки.",
+            "thought": "Она является приобретающей новые навыки сейчас.",
+            "english": "She is acquiring new skills now.",
+            "transcription": "[ши: из экw**а**йэриŋ нью: скилз нау]"
+          },
+          {
+            "ours": "Мы пока не набираемся опыта в этой области.",
+            "thought": "Мы являемся не приобретающими опыт в этой области ещё.",
+            "english": "We aren't acquiring experience in this field yet.",
+            "transcription": "[wи: а:нт экw**а**йэриŋ иксп**и**эриэнс ин ðис фи:лд йэт]"
+          },
+          {
+            "ours": "Сейчас они скупают земли?",
+            "thought": "Являются они приобретающими землю сейчас?",
+            "english": "Are they acquiring land now?",
+            "transcription": "[а: ðэй экw**а**йэриŋ лæнд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be acquiring",
+        "examples": [
+          {
+            "ours": "В следующем году они будут осваивать новые навыки.",
+            "thought": "Следующий год они будут быть приобретающими новые навыки.",
+            "english": "Next year they will be acquiring new skills.",
+            "transcription": "[нэкст йиэ ðэй wил би: экw**а**йэриŋ нью: скилз]"
+          },
+          {
+            "ours": "В течение курса мы не будем набираться практического опыта.",
+            "thought": "Во время [известного] курса мы будем не быть приобретающими практический опыт.",
+            "english": "During the course we won't be acquiring practical experience.",
+            "transcription": "[дь**ю**эриŋ ðэ ко:с wи: wоунт би: экw**а**йэриŋ пр**æ**ктикл иксп**и**эриэнс]"
+          },
+          {
+            "ours": "Она будет постепенно набираться уверенности в новом классе?",
+            "thought": "Будет она быть приобретающей уверенность постепенно в её новом классе?",
+            "english": "Will she be acquiring confidence gradually in her new class?",
+            "transcription": "[wил ши: би: экw**а**йэриŋ к**о**нфидэнс гр**æ**джуэли ин хœ: нью: кла:с]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had acquired",
+        "examples": [
+          {
+            "ours": "К тому времени она уже приобрела дом.",
+            "thought": "К тогда она имела уже приобретённым [какой-то] дом.",
+            "english": "By then she had already acquired a house.",
+            "transcription": "[бай ðэн ши: хæд о:лр**э**ди экw**а**йэд э хаус]"
+          },
+          {
+            "ours": "До переезда мы не приобрели нужных навыков.",
+            "thought": "Перед [известным] переездом мы имели не приобретёнными [известные] необходимые навыки.",
+            "english": "Before the move we hadn't acquired the necessary skills.",
+            "transcription": "[биф**о**: ðэ му:в wи: хæднт экw**а**йэд ðэ н**э**сэсэри скилз]"
+          },
+          {
+            "ours": "К началу войны они приобрели корабль?",
+            "thought": "Имели они приобретённым [известный] корабль к [известной] войны началу?",
+            "english": "Had they acquired the ship by the war's start?",
+            "transcription": "[хæд ðэй экw**а**йэд ðэ шип бай ðэ wо:з ста:т]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has acquired",
+        "examples": [
+          {
+            "ours": "Она уже приобрела большой опыт.",
+            "thought": "Она имеет уже приобретённым значительный опыт.",
+            "english": "She has already acquired considerable experience.",
+            "transcription": "[ши: хæз о:лр**э**ди экw**а**йэд кэнс**и**дэрэбл иксп**и**эриэнс]"
+          },
+          {
+            "ours": "Мы ещё не купили оборудование.",
+            "thought": "Мы имеем не приобретённым [известное] оборудование ещё.",
+            "english": "We haven't acquired the equipment yet.",
+            "transcription": "[wи: хæвнт экw**а**йэд ðи икw**и**пмэнт йэт]"
+          },
+          {
+            "ours": "Вы уже приобрели необходимые знания?",
+            "thought": "Имеете вы приобретёнными [известные] необходимые знания уже?",
+            "english": "Have you acquired the necessary knowledge yet?",
+            "transcription": "[хæв ю: экw**а**йэд ðэ н**э**сэсэри н**о**лидж йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have acquired",
+        "examples": [
+          {
+            "ours": "К июню она освоит необходимые навыки.",
+            "thought": "К июню она будет иметь приобретёнными [известные] необходимые навыки.",
+            "english": "By June she will have acquired the necessary skills.",
+            "transcription": "[бай джу:н ши: wил хæв экw**а**йэд ðэ н**э**сэсэри скилз]"
+          },
+          {
+            "ours": "К пятнице мы ещё не купим здание.",
+            "thought": "К пятнице мы будем не иметь приобретённым [известное] здание ещё.",
+            "english": "By Friday we won't have acquired the building yet.",
+            "transcription": "[бай фр**а**йдэй wи: wоунт хæв экw**а**йэд ðэ б**и**лдиŋ йэт]"
+          },
+          {
+            "ours": "К концу курса он приобретёт достаточно опыта?",
+            "thought": "Будет он иметь приобретённым достаточно опыта к [известного] курса концу?",
+            "english": "Will he have acquired enough experience by the course's end?",
+            "transcription": "[wил хи: хæв экw**а**йэд ин**а**ф иксп**и**эриэнс бай ðэ ко:сиз энд]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been acquiring",
+        "examples": [
+          {
+            "ours": "До переезда она два года набиралась опыта.",
+            "thought": "Она имела быть приобретающей опыт целых два года перед переездом.",
+            "english": "She had been acquiring experience for two years before moving.",
+            "transcription": "[ши: хæд би:н экw**а**йэриŋ иксп**и**эриэнс фо: ту: йиэз биф**о**: м**у**:виŋ]"
+          },
+          {
+            "ours": "Он целый год скупал акции до краха?",
+            "thought": "Имел он быть приобретающим акции целый [какой-то] год перед [известным] крахом?",
+            "english": "Had he been acquiring shares for a year before the crash?",
+            "transcription": "[хæд хи: би:н экw**а**йэриŋ шээз фо: э йиэ биф**о**: ðэ крæш]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been acquiring",
+        "examples": [
+          {
+            "ours": "Она два года осваивает новые навыки.",
+            "thought": "Она имеет быть приобретающей новые навыки целых два года.",
+            "english": "She has been acquiring new skills for two years.",
+            "transcription": "[ши: хæз би:н экw**а**йэриŋ нью: скилз фо: ту: йиэз]"
+          },
+          {
+            "ours": "Они уже несколько месяцев скупают землю?",
+            "thought": "Имеют они быть приобретающими землю целых несколько месяцев?",
+            "english": "Have they been acquiring land for several months?",
+            "transcription": "[хæв ðэй би:н экw**а**йэриŋ лæнд фо: с**э**врэл манθс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been acquiring",
+        "examples": [
+          {
+            "ours": "К июню она будет набираться опыта уже два года.",
+            "thought": "К июню она будет иметь быть приобретающей опыт целых два года.",
+            "english": "By June she will have been acquiring experience for two years.",
+            "transcription": "[бай джу:н ши: wил хæв би:н экw**а**йэриŋ иксп**и**эриэнс фо: ту: йиэз]"
+          },
+          {
+            "ours": "К декабрю они будут скупать акции уже год?",
+            "thought": "Будут они иметь быть приобретающими акции целый [какой-то] год к декабрю?",
+            "english": "Will they have been acquiring shares for a year by December?",
+            "transcription": "[wил ðэй хæв би:н экw**а**йэриŋ шээз фо: э йиэ бай дис**э**мбэ]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were acquired",
+        "examples": [
+          {
+            "ours": "Картину приобрели вчера.",
+            "thought": "[Известная] картина была приобретена вчера.",
+            "english": "The painting was acquired yesterday.",
+            "transcription": "[ðэ п**э**йнтиŋ wоз экw**а**йэд й**э**стэдэй]"
+          },
+          {
+            "ours": "Акции не были куплены на аукционе.",
+            "thought": "[Известные] акции были не приобретены на аукционе.",
+            "english": "The shares weren't acquired at auction.",
+            "transcription": "[ðэ шээз wœ:нт экw**а**йэд æт **о**:кшн]"
+          },
+          {
+            "ours": "Эту землю купили в прошлом году?",
+            "thought": "Была эта земля приобретена прошлый год?",
+            "english": "Was this land acquired last year?",
+            "transcription": "[wоз ðис лæнд экw**а**йэд ла:ст йиэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are acquired",
+        "examples": [
+          {
+            "ours": "Язык усваивается постепенно.",
+            "thought": "Язык есть приобретён постепенно.",
+            "english": "Language is acquired gradually.",
+            "transcription": "[л**æ**ŋгwидж из экw**а**йэд гр**æ**джуэли]"
+          },
+          {
+            "ours": "Эти навыки не приобретаются за один день.",
+            "thought": "Эти навыки есть не приобретены в один день.",
+            "english": "These skills aren't acquired in one day.",
+            "transcription": "[ðи:з скилз а:нт экw**а**йэд ин wан дэй]"
+          },
+          {
+            "ours": "Опыт приобретают на практике?",
+            "thought": "Есть опыт приобретён через практику?",
+            "english": "Is experience acquired through practice?",
+            "transcription": "[из иксп**и**эриэнс экw**а**йэд θру: пр**æ**ктис]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be acquired",
+        "examples": [
+          {
+            "ours": "Коллекцию приобретут завтра.",
+            "thought": "[Известная] коллекция будет быть приобретена завтра.",
+            "english": "The collection will be acquired tomorrow.",
+            "transcription": "[ðэ кэл**э**кшн wил би: экw**а**йэд тэм**о**роу]"
+          },
+          {
+            "ours": "Компания не купит эту землю.",
+            "thought": "Эта земля будет не быть приобретена от [известной] компании.",
+            "english": "This land won't be acquired by the company.",
+            "transcription": "[ðис лæнд wоунт би: экw**а**йэд бай ðэ к**а**мпэни]"
+          },
+          {
+            "ours": "Картину приобретут для музея?",
+            "thought": "Будет [известная] картина быть приобретена для [известного] музея?",
+            "english": "Will the painting be acquired for the museum?",
+            "transcription": "[wил ðэ п**э**йнтиŋ би: экw**а**йэд фо: ðэ мьюз**и**:эм]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being acquired",
+        "examples": [
+          {
+            "ours": "В то время музей приобретал картины.",
+            "thought": "Картины были «долго» приобретены от [известного] музея в [известное] время.",
+            "english": "Paintings were being acquired by the museum at the time.",
+            "transcription": "[п**э**йнтиŋз wœ: б**и**:иŋ экw**а**йэд бай ðэ мьюз**и**:эм æт ðэ тайм]"
+          },
+          {
+            "ours": "Тогда эти участки не покупали.",
+            "thought": "Эти участки были не «долго» приобретены тогда.",
+            "english": "These plots weren't being acquired then.",
+            "transcription": "[ðи:з плотс wœ:нт б**и**:иŋ экw**а**йэд ðэн]"
+          },
+          {
+            "ours": "В то время компания скупала акции?",
+            "thought": "Были акции «долго» приобретены от [известной] компании в [известное] время?",
+            "english": "Were shares being acquired by the company at the time?",
+            "transcription": "[wœ: шээз б**и**:иŋ экw**а**йэд бай ðэ к**а**мпэни æт ðэ тайм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being acquired",
+        "examples": [
+          {
+            "ours": "Сейчас музей приобретает новые экспонаты.",
+            "thought": "Новые экспонаты есть «долго» приобретены от [известного] музея сейчас.",
+            "english": "New exhibits are being acquired by the museum now.",
+            "transcription": "[нью: игз**и**битс а: б**и**:иŋ экw**а**йэд бай ðэ мьюз**и**:эм нау]"
+          },
+          {
+            "ours": "Сейчас эти земли не скупают.",
+            "thought": "Эти земли есть не «долго» приобретены сейчас.",
+            "english": "These lands aren't being acquired now.",
+            "transcription": "[ðи:з лæндз а:нт б**и**:иŋ экw**а**йэд нау]"
+          },
+          {
+            "ours": "В настоящий момент компания скупает акции?",
+            "thought": "Есть акции «долго» приобретены от [известной] компании сейчас?",
+            "english": "Are shares being acquired by the company now?",
+            "transcription": "[а: шээз б**и**:иŋ экw**а**йэд бай ðэ к**а**мпэни нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be acquiring",
+        "examples": [
+          {
+            "ours": "В следующем году музей будет приобретать картины.",
+            "thought": "Следующий год они будут быть приобретающими картины для [известного] музея.",
+            "english": "Next year they will be acquiring paintings for the museum.",
+            "transcription": "[нэкст йиэ ðэй wил би: экw**а**йэриŋ п**э**йнтиŋз фо: ðэ мьюз**и**:эм]"
+          },
+          {
+            "ours": "В течение месяца они не будут скупать акции.",
+            "thought": "Они будут не быть приобретающими акции в течение [известного] следующего месяца.",
+            "english": "They won't be acquiring shares during the next month.",
+            "transcription": "[ðэй wоунт би: экw**а**йэриŋ шээз дь**ю**эриŋ ðэ нэкст манθ]"
+          },
+          {
+            "ours": "Завтра они будут покупать участки?",
+            "thought": "Будут они быть приобретающими участки завтра?",
+            "english": "Will they be acquiring plots tomorrow?",
+            "transcription": "[wил ðэй би: экw**а**йэриŋ плотс тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been acquired",
+        "examples": [
+          {
+            "ours": "К тому времени музей уже приобрёл коллекцию.",
+            "thought": "К тогда [известная] коллекция имела уже быть приобретена.",
+            "english": "By then the collection had already been acquired.",
+            "transcription": "[бай ðэн ðэ кэл**э**кшн хæд о:лр**э**ди би:н экw**а**йэд]"
+          },
+          {
+            "ours": "До кризиса эти земли не были куплены.",
+            "thought": "Эти земли имели не быть приобретены перед [известным] кризисом.",
+            "english": "These lands hadn't been acquired before the crisis.",
+            "transcription": "[ðи:з лæндз хæднт би:н экw**а**йэд биф**о**: ðэ кр**а**йсис]"
+          },
+          {
+            "ours": "К 2020 году картину уже приобрели?",
+            "thought": "Имела [известная] картина быть приобретена к двадцать двадцать?",
+            "english": "Had the painting been acquired by twenty twenty?",
+            "transcription": "[хæд ðэ п**э**йнтиŋ би:н экw**а**йэд бай тw**э**нти тw**э**нти]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been acquired",
+        "examples": [
+          {
+            "ours": "Музей уже приобрёл картину.",
+            "thought": "[Известная] картина имеет уже быть приобретена от [известного] музея.",
+            "english": "The painting has already been acquired by the museum.",
+            "transcription": "[ðэ п**э**йнтиŋ хæз о:лр**э**ди би:н экw**а**йэд бай ðэ мьюз**и**:эм]"
+          },
+          {
+            "ours": "Эти участки ещё не куплены.",
+            "thought": "Эти участки имеют не быть приобретены ещё.",
+            "english": "These plots haven't been acquired yet.",
+            "transcription": "[ðи:з плотс хæвнт би:н экw**а**йэд йэт]"
+          },
+          {
+            "ours": "Коллекцию уже приобрели?",
+            "thought": "Имеет [известная] коллекция быть приобретена уже?",
+            "english": "Has the collection been acquired yet?",
+            "transcription": "[хæз ðэ кэл**э**кшн би:н экw**а**йэд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been acquired",
+        "examples": [
+          {
+            "ours": "К июню компания купит здание.",
+            "thought": "К июню [известное] здание будет иметь быть приобретено.",
+            "english": "By June the building will have been acquired.",
+            "transcription": "[бай джу:н ðэ б**и**лдиŋ wил хæв би:н экw**а**йэд]"
+          },
+          {
+            "ours": "К пятнице акции ещё не будут куплены.",
+            "thought": "К пятнице [известные] акции будут не иметь быть приобретены ещё.",
+            "english": "By Friday the shares won't have been acquired yet.",
+            "transcription": "[бай фр**а**йдэй ðэ шээз wоунт хæв би:н экw**а**йэд йэт]"
+          },
+          {
+            "ours": "К декабрю коллекцию приобретут?",
+            "thought": "Будет [известная] коллекция иметь быть приобретена к декабрю?",
+            "english": "Will the collection have been acquired by December?",
+            "transcription": "[wил ðэ кэл**э**кшн хæв би:н экw**а**йэд бай дис**э**мбэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Форма `has been being acquired` практически не употребляется. Вместо неё скажут: The museum has been acquiring paintings."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она приобретёт опыт.",
+        "thought": "Я знал, что она будет приобретать опыт.",
+        "english": "I knew that she would acquire experience.",
+        "transcription": "[ай нью: ðæт ши: wуд экw**а**йэ иксп**и**эриэнс]"
+      },
+      {
+        "ours": "Мы думали, что они не купят картину.",
+        "thought": "Мы думали, они будут не приобретать [известную] картину.",
+        "english": "We thought they wouldn't acquire the painting.",
+        "transcription": "[wи: θо:т ðэй wуднт экw**а**йэ ðэ п**э**йнтиŋ]"
+      },
+      {
+        "ours": "Он спросил, купим ли мы землю.",
+        "thought": "Он спросил, ли мы будем приобретать [известную] землю.",
+        "english": "He asked whether we would acquire the land.",
+        "transcription": "[хи: а:скт w**э**ðэ wи: wуд экw**а**йэ ðэ лæнд]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "experience",
+      "meaning": "опыт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "experience"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "experience"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "experience"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "experience"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "experience"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "experience"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "experience"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "experience"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "experience"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "experience"
+        }
+      ]
+    },
+    {
+      "word": "company",
+      "meaning": "компания",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "company"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "company"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "company"
+        },
+        {
+          "phrase": "passive.continuous.past.2",
+          "form": "company"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "company"
+        }
+      ]
+    },
+    {
+      "word": "building",
+      "meaning": "здание",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "building"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "building"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "building"
+        }
+      ]
+    },
+    {
+      "word": "share",
+      "meaning": "акция",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "shares"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "shares"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "shares"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "shares"
+        },
+        {
+          "phrase": "passive.continuous.past.2",
+          "form": "Shares"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "shares"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "shares"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "shares"
+        }
+      ]
+    },
+    {
+      "word": "child",
+      "meaning": "ребёнок",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "Children"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "children"
+        }
+      ]
+    },
+    {
+      "word": "language",
+      "meaning": "язык",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "language"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "language"
+        }
+      ]
+    },
+    {
+      "word": "antique",
+      "meaning": "антиквариат",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "antiques"
+        }
+      ]
+    },
+    {
+      "word": "book",
+      "meaning": "книга",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "books"
+        }
+      ]
+    },
+    {
+      "word": "auction",
+      "meaning": "аукцион",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "auctions"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "auction"
+        }
+      ]
+    },
+    {
+      "word": "museum",
+      "meaning": "музей",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "museum"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "museum"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "museum"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "museum"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "museum"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "museum"
+        }
+      ]
+    },
+    {
+      "word": "painting",
+      "meaning": "картина",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "painting"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "painting"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "painting"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Paintings"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "paintings"
+        },
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "painting"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "painting"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "painting"
+        }
+      ]
+    },
+    {
+      "word": "land",
+      "meaning": "земля",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "land"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "land"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "land"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "land"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "land"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "lands"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "lands"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "land"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "year"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "year"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "stake",
+      "meaning": "доля",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "stake"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "time"
+        },
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "time"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "time"
+        },
+        {
+          "phrase": "passive.continuous.past.2",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "writing",
+      "meaning": "письмо",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "writing"
+        }
+      ]
+    },
+    {
+      "word": "skill",
+      "meaning": "навык",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "skills"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skills"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "skills"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "skills"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "skills"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "skills"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "skills"
+        }
+      ]
+    },
+    {
+      "word": "confidence",
+      "meaning": "уверенность",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "confidence"
+        },
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "confidence"
+        }
+      ]
+    },
+    {
+      "word": "field",
+      "meaning": "область",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "field"
+        }
+      ]
+    },
+    {
+      "word": "course",
+      "meaning": "курс",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "course"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "course"
+        }
+      ]
+    },
+    {
+      "word": "class",
+      "meaning": "класс",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "class"
+        }
+      ]
+    },
+    {
+      "word": "house",
+      "meaning": "дом",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "house"
+        }
+      ]
+    },
+    {
+      "word": "move",
+      "meaning": "переезд",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "move"
+        }
+      ]
+    },
+    {
+      "word": "ship",
+      "meaning": "корабль",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "ship"
+        }
+      ]
+    },
+    {
+      "word": "war",
+      "meaning": "война",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "war"
+        }
+      ]
+    },
+    {
+      "word": "start",
+      "meaning": "начало",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "start"
+        }
+      ]
+    },
+    {
+      "word": "equipment",
+      "meaning": "оборудование",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "equipment"
+        }
+      ]
+    },
+    {
+      "word": "knowledge",
+      "meaning": "знания",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "knowledge"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "Friday"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "end",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "end"
+        }
+      ]
+    },
+    {
+      "word": "crash",
+      "meaning": "крах",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "crash"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "months"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "month"
+        }
+      ]
+    },
+    {
+      "word": "December",
+      "meaning": "декабрь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "December"
+        },
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "December"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "practice",
+      "meaning": "практика",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "practice"
+        }
+      ]
+    },
+    {
+      "word": "collection",
+      "meaning": "коллекция",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "collection"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "collection"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "collection"
+        },
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "collection"
+        }
+      ]
+    },
+    {
+      "word": "plot",
+      "meaning": "участок",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "plots"
+        },
+        {
+          "phrase": "passive.continuous.future.2",
+          "form": "plots"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "plots"
+        }
+      ]
+    },
+    {
+      "word": "exhibit",
+      "meaning": "экспонат",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "exhibits"
+        }
+      ]
+    },
+    {
+      "word": "crisis",
+      "meaning": "кризис",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "crisis"
+        }
+      ]
+    }
+  ]
+}

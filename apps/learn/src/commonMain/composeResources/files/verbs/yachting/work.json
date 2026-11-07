@@ -1,0 +1,609 @@
+{
+  "spec": 3,
+  "verb": "work",
+  "forms": {
+    "base": [
+      {
+        "word": "work",
+        "transcription": "[wœ:к]"
+      }
+    ],
+    "past": [
+      {
+        "word": "worked",
+        "transcription": "[wœ:кт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "worked",
+        "transcription": "[wœ:кт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "working",
+        "transcription": "[w**œ**:киŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "works",
+        "transcription": "[wœ:кс]"
+      }
+    ]
+  },
+  "meaning": "работать, трудиться; работать исправно",
+  "notes": "правильный глагол, в значении трудиться и работать исправно непереходный",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "worked",
+        "examples": [
+          {
+            "ours": "Вчера я работал на яхте.",
+            "thought": "Вчера я работал на [известной] яхте.",
+            "english": "Yesterday I worked on the yacht.",
+            "transcription": "[й**э**стэдэй ай wœ:кт он ðэ йот]"
+          },
+          {
+            "ours": "Радио работало во время гонки?",
+            "thought": "[Сделало] [известное] радио работать во время [известной] гонки?",
+            "english": "Did the radio work during the race?",
+            "transcription": "[дид ðэ р**э**йдиоу wœ:к дь**ю**эриŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Насос вчера не работал.",
+            "thought": "[Известный] насос [сделал] не работать вчера.",
+            "english": "The pump did not work yesterday.",
+            "transcription": "[ðэ памп дид нот wœ:к й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "work, works",
+        "examples": [
+          {
+            "ours": "Насос работает каждый день.",
+            "thought": "[Известный] насос работает каждый день.",
+            "english": "The pump works every day.",
+            "transcription": "[ðэ памп wœ:кс **э**ври дэй]"
+          },
+          {
+            "ours": "Радио работает во время гонки?",
+            "thought": "[Делает] [известное] радио работать во время [известной] гонки?",
+            "english": "Does the radio work during the race?",
+            "transcription": "[даз ðэ р**э**йдиоу wœ:к дь**ю**эриŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Насос не работает.",
+            "thought": "[Известный] насос [делает] не работать.",
+            "english": "The pump does not work.",
+            "transcription": "[ðэ памп даз нот wœ:к]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will work",
+        "examples": [
+          {
+            "ours": "Завтра я буду работать на яхте.",
+            "thought": "Завтра я буду работать на [известной] яхте.",
+            "english": "Tomorrow I will work on the yacht.",
+            "transcription": "[тэм**о**роу ай wил wœ:к он ðэ йот]"
+          },
+          {
+            "ours": "Радио будет работать во время гонки?",
+            "thought": "Будет [известное] радио работать во время [известной] гонки?",
+            "english": "Will the radio work during the race?",
+            "transcription": "[wил ðэ р**э**йдиоу wœ:к дь**ю**эриŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Насос не будет работать без питания.",
+            "thought": "[Известный] насос будет не работать без питания.",
+            "english": "The pump will not work without power.",
+            "transcription": "[ðэ памп wил нот wœ:к wиð**а**ут п**а**уэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were working",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день работали на яхте.",
+            "thought": "Вчера мы были работающими на [известной] яхте весь день.",
+            "english": "Yesterday we were working on the yacht all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: w**œ**:киŋ он ðэ йот о:л дэй]"
+          },
+          {
+            "ours": "Ты работал на палубе, когда я позвал?",
+            "thought": "Был ты работающим на палубе, когда я позвал?",
+            "english": "Were you working on deck when I called?",
+            "transcription": "[wœ: ю: w**œ**:киŋ он дэк wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are working",
+        "examples": [
+          {
+            "ours": "Мы сейчас работаем на яхте.",
+            "thought": "Мы являемся работающими на [известной] яхте сейчас.",
+            "english": "We are working on the yacht now.",
+            "transcription": "[wи: а: w**œ**:киŋ он ðэ йот нау]"
+          },
+          {
+            "ours": "Ты сейчас работаешь на палубе?",
+            "thought": "Являешься ты работающим на палубе сейчас?",
+            "english": "Are you working on deck now?",
+            "transcription": "[а: ю: w**œ**:киŋ он дэк нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be working",
+        "examples": [
+          {
+            "ours": "Завтра мы будем весь день работать на яхте.",
+            "thought": "Завтра мы будем быть работающими на [известной] яхте весь день.",
+            "english": "Tomorrow we will be working on the yacht all day.",
+            "transcription": "[тэм**о**роу wи: wил би: w**œ**:киŋ он ðэ йот о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь работать на палубе утром?",
+            "thought": "Будешь ты быть работающим на палубе это утро?",
+            "english": "Will you be working on deck this morning?",
+            "transcription": "[wил ю: би: w**œ**:киŋ он дэк ðис м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had worked",
+        "examples": [
+          {
+            "ours": "К началу гонки мы уже работали на этой яхте.",
+            "thought": "К [известному] началу от [известной] гонки мы имели уже отработанным на этой яхте.",
+            "english": "By the start of the race we had already worked on this yacht.",
+            "transcription": "[бай ðэ ста:т ов ðэ рэйс wи: хæд о:лр**э**ди wœ:кт он ðис йот]"
+          },
+          {
+            "ours": "Она работала на яхте до того рейса?",
+            "thought": "Имела она отработанным на [какой-то] яхте перед тем рейсом?",
+            "english": "Had she worked on a yacht before that voyage?",
+            "transcription": "[хæд ши: wœ:кт он э йот биф**о**: ðæт в**о**йидж]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has worked",
+        "examples": [
+          {
+            "ours": "Я уже работал на этой яхте.",
+            "thought": "Я имею уже отработанным на этой яхте.",
+            "english": "I have already worked on this yacht.",
+            "transcription": "[ай хæв о:лр**э**ди wœ:кт он ðис йот]"
+          },
+          {
+            "ours": "Она когда-нибудь работала на яхте?",
+            "thought": "Имеет она когда-либо отработанным на [какой-то] яхте?",
+            "english": "Has she ever worked on a yacht?",
+            "transcription": "[хæз ши: **э**вэ wœ:кт он э йот]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have worked",
+        "examples": [
+          {
+            "ours": "К концу сезона я проработаю на этой яхте год.",
+            "thought": "К [известному] концу от [известного] сезона я буду иметь отработанным на этой яхте целый [какой-то] год.",
+            "english": "By the end of the season I will have worked on this yacht for a year.",
+            "transcription": "[бай ðи энд ов ðэ с**и**:зн ай wил хæв wœ:кт он ðис йот фо: э йиэ]"
+          },
+          {
+            "ours": "К июню она проработает на яхте год?",
+            "thought": "Будет она иметь отработанным на [известной] яхте целый [какой-то] год к июню?",
+            "english": "Will she have worked on the yacht for a year by June?",
+            "transcription": "[wил ши: хæв wœ:кт он ðэ йот фо: э йиэ бай джу:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been working",
+        "examples": [
+          {
+            "ours": "Мы два часа работали на яхте, когда начался дождь.",
+            "thought": "Мы имели быть работающими на [известной] яхте целых два часа, когда дождь начался.",
+            "english": "We had been working on the yacht for two hours when rain began.",
+            "transcription": "[wи: хæд би:н w**œ**:киŋ он ðэ йот фо: ту: **а**уэз wэн рэйн биг**æ**н]"
+          },
+          {
+            "ours": "Вы работали на палубе два часа до дождя?",
+            "thought": "Имели вы быть работающими на палубе целых два часа перед [известным] дождём?",
+            "english": "Had you been working on deck for two hours before the rain?",
+            "transcription": "[хæд ю: би:н w**œ**:киŋ он дэк фо: ту: **а**уэз биф**о**: ðэ рэйн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been working",
+        "examples": [
+          {
+            "ours": "Мы работаем на яхте уже два часа.",
+            "thought": "Мы имеем быть работающими на [известной] яхте целых два часа.",
+            "english": "We have been working on the yacht for two hours.",
+            "transcription": "[wи: хæв би:н w**œ**:киŋ он ðэ йот фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Вы работаете на палубе уже час?",
+            "thought": "Имеете вы быть работающими на палубе целый [какой-то] час?",
+            "english": "Have you been working on deck for an hour?",
+            "transcription": "[хæв ю: би:н w**œ**:киŋ он дэк фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been working",
+        "examples": [
+          {
+            "ours": "К полудню мы будем работать на яхте уже два часа.",
+            "thought": "К полудню мы будем иметь быть работающими на [известной] яхте целых два часа.",
+            "english": "By noon we will have been working on the yacht for two hours.",
+            "transcription": "[бай ну:н wи: wил хæв би:н w**œ**:киŋ он ðэ йот фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти вы будете работать на палубе уже час?",
+            "thought": "Будете вы иметь быть работающими на палубе целый [какой-то] час к пяти?",
+            "english": "Will you have been working on deck for an hour by five?",
+            "transcription": "[wил ю: хæв би:н w**œ**:киŋ он дэк фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "В значениях «трудиться» и «работать исправно» work не имеет прямого дополнения и не образует пассив. Переходное work со значением управлять механизмом существует, но в большинстве ситуаций естественнее operate."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она будет работать на яхте.",
+        "thought": "Я знал, она будет работать на [известной] яхте.",
+        "english": "I knew she would work on the yacht.",
+        "transcription": "[ай нью: ши: wуд wœ:к он ðэ йот]"
+      },
+      {
+        "ours": "Он думал, что насос не будет работать.",
+        "thought": "Он думал, [известный] насос будет не работать.",
+        "english": "He thought the pump would not work.",
+        "transcription": "[хи: θо:т ðэ памп wуд нот wœ:к]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "насос",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "power",
+      "meaning": "питание",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "power"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "start",
+      "meaning": "начало",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "start"
+        }
+      ]
+    },
+    {
+      "word": "voyage",
+      "meaning": "рейс",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "voyage"
+        }
+      ]
+    },
+    {
+      "word": "end",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "end"
+        }
+      ]
+    },
+    {
+      "word": "season",
+      "meaning": "сезон",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "season"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "noon"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1068 @@
+{
+  "spec": 3,
+  "verb": "add",
+  "forms": {
+    "base": [
+      {
+        "word": "add",
+        "transcription": "[æд]"
+      }
+    ],
+    "past": [
+      {
+        "word": "added",
+        "transcription": "[**æ**дид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "added",
+        "transcription": "[**æ**дид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "adding",
+        "transcription": "[**æ**диŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "adds",
+        "transcription": "[æдз]"
+      }
+    ]
+  },
+  "meaning": "добавлять, складывать числа",
+  "notes": "правильный глагол, бывает переходным; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "added",
+        "examples": [
+          {
+            "ours": "Она добавила соль в суп.",
+            "thought": "Она добавила соль в [известный] суп.",
+            "english": "She added salt to the soup.",
+            "transcription": "[ши: **æ**дид со:лт ту ðэ су:п]"
+          },
+          {
+            "ours": "Я не добавил сахар.",
+            "thought": "Я [сделал] не добавлять сахар.",
+            "english": "I didn't add sugar.",
+            "transcription": "[ай диднт æд ш**у**гэ]"
+          },
+          {
+            "ours": "Ты добавил её имя?",
+            "thought": "[Сделал] ты добавлять её имя?",
+            "english": "Did you add her name?",
+            "transcription": "[дид ю: æд хœ: нэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "add, adds",
+        "examples": [
+          {
+            "ours": "Он всегда добавляет молоко в кофе.",
+            "thought": "Он всегда добавляет молоко в его кофе.",
+            "english": "He always adds milk to his coffee.",
+            "transcription": "[хи: **о**:лwэйз æдз милк ту хиз к**о**фи]"
+          },
+          {
+            "ours": "Я не добавляю соль.",
+            "thought": "Я [делаю] не добавлять соль.",
+            "english": "I don't add salt.",
+            "transcription": "[ай доунт æд со:лт]"
+          },
+          {
+            "ours": "Она хорошо складывает числа?",
+            "thought": "[Делает] она складывать числа хорошо?",
+            "english": "Does she add numbers well?",
+            "transcription": "[даз ши: æд н**а**мбэз wэл]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will add",
+        "examples": [
+          {
+            "ours": "Завтра мы добавим новую главу.",
+            "thought": "Завтра мы будем добавлять [какую-то] новую главу.",
+            "english": "Tomorrow we will add a new chapter.",
+            "transcription": "[тэм**о**роу wи: wил æд э нью: ч**æ**птэ]"
+          },
+          {
+            "ours": "Я не добавлю масло.",
+            "thought": "Я буду не добавлять масло.",
+            "english": "I won't add butter.",
+            "transcription": "[ай wоунт æд б**а**тэ]"
+          },
+          {
+            "ours": "Ты добавишь адрес позже?",
+            "thought": "Будешь ты добавлять [известный] адрес позже?",
+            "english": "Will you add the address later?",
+            "transcription": "[wил ю: æд ðи эдр**э**с л**э**йтэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were adding",
+        "examples": [
+          {
+            "ours": "Когда я вошёл, она добавляла овощи.",
+            "thought": "Она была добавляющей овощи, когда я пришёл внутрь.",
+            "english": "She was adding vegetables when I came in.",
+            "transcription": "[ши: wоз **æ**диŋ в**э**джитэблз wэн ай кэйм ин]"
+          },
+          {
+            "ours": "Тогда я не добавлял соль.",
+            "thought": "Я был не добавляющим соль тогда.",
+            "english": "I wasn't adding salt then.",
+            "transcription": "[ай wознт **æ**диŋ со:лт ðэн]"
+          },
+          {
+            "ours": "Ты добавлял имена, когда я позвонил?",
+            "thought": "Был ты добавляющим имена, когда я позвонил?",
+            "english": "Were you adding names when I called?",
+            "transcription": "[wœ: ю: **æ**диŋ нэймз wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are adding",
+        "examples": [
+          {
+            "ours": "Я сейчас добавляю фотографии.",
+            "thought": "Я являюсь добавляющим фотографии сейчас.",
+            "english": "I am adding photos now.",
+            "transcription": "[ай æм **æ**диŋ ф**о**утоуз нау]"
+          },
+          {
+            "ours": "Она сейчас не добавляет сахар.",
+            "thought": "Она является не добавляющей сахар сейчас.",
+            "english": "She isn't adding sugar now.",
+            "transcription": "[ши: изнт **æ**диŋ ш**у**гэ нау]"
+          },
+          {
+            "ours": "Вы сейчас добавляете адрес?",
+            "thought": "Являетесь вы добавляющими [известный] адрес сейчас?",
+            "english": "Are you adding the address now?",
+            "transcription": "[а: ю: **æ**диŋ ðи эдр**э**с нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be adding",
+        "examples": [
+          {
+            "ours": "Завтра весь день мы будем добавлять данные.",
+            "thought": "Завтра мы будем быть добавляющими данные весь день.",
+            "english": "Tomorrow we will be adding data all day.",
+            "transcription": "[тэм**о**роу wи: wил би: **æ**диŋ д**э**йтэ о:л дэй]"
+          },
+          {
+            "ours": "Вечером он не будет добавлять фотографии.",
+            "thought": "Он будет не быть добавляющим фотографии этот вечер.",
+            "english": "He won't be adding photos this evening.",
+            "transcription": "[хи: wоунт би: **æ**диŋ ф**о**утоуз ðис **и**:вниŋ]"
+          },
+          {
+            "ours": "Ты будешь добавлять имена утром?",
+            "thought": "Будешь ты быть добавляющим имена в [известное] утро?",
+            "english": "Will you be adding names in the morning?",
+            "transcription": "[wил ю: би: **æ**диŋ нэймз ин ðэ м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had added",
+        "examples": [
+          {
+            "ours": "К полудню я уже добавил адрес.",
+            "thought": "К полудню я имел уже добавленным [известный] адрес.",
+            "english": "By noon I had already added the address.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди **æ**дид ðи эдр**э**с]"
+          },
+          {
+            "ours": "До этого она не добавила подпись.",
+            "thought": "Перед тем она имела не добавленной [какую-то] подпись.",
+            "english": "Before that she hadn't added a signature.",
+            "transcription": "[биф**о**: ðæт ши: хæднт **æ**дид э с**и**гнэчэ]"
+          },
+          {
+            "ours": "Ты добавил соль до подачи?",
+            "thought": "Имел ты добавленной соль перед подачей?",
+            "english": "Had you added salt before serving?",
+            "transcription": "[хæд ю: **æ**дид со:лт биф**о**: с**œ**:виŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has added",
+        "examples": [
+          {
+            "ours": "Я уже добавил адрес.",
+            "thought": "Я имею уже добавленным [известный] адрес.",
+            "english": "I have already added the address.",
+            "transcription": "[ай хæв о:лр**э**ди **æ**дид ðи эдр**э**с]"
+          },
+          {
+            "ours": "Она ещё не добавила подпись.",
+            "thought": "Она имеет не добавленной [какую-то] подпись ещё.",
+            "english": "She hasn't added a signature yet.",
+            "transcription": "[ши: хæзнт **æ**дид э с**и**гнэчэ йэт]"
+          },
+          {
+            "ours": "Вы уже добавили фото?",
+            "thought": "Имеете вы добавленными фотографии уже?",
+            "english": "Have you added photos yet?",
+            "transcription": "[хæв ю: **æ**дид ф**о**утоуз йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have added",
+        "examples": [
+          {
+            "ours": "К пятнице мы добавим главу.",
+            "thought": "К пятнице мы будем иметь добавленной [известную] главу.",
+            "english": "By Friday we will have added the chapter.",
+            "transcription": "[бай фр**а**йдэй wи: wил хæв **æ**дид ðэ ч**æ**птэ]"
+          },
+          {
+            "ours": "К вечеру он ещё не добавит все имена.",
+            "thought": "К вечеру он будет не иметь добавленными все [известные] имена ещё.",
+            "english": "By evening he won't have added all the names yet.",
+            "transcription": "[бай **и**:вниŋ хи: wоунт хæв **æ**дид о:л ðэ нэймз йэт]"
+          },
+          {
+            "ours": "Ты добавишь адрес к полудню?",
+            "thought": "Будешь ты иметь добавленным [известный] адрес к полудню?",
+            "english": "Will you have added the address by noon?",
+            "transcription": "[wил ю: хæв **æ**дид ðи эдр**э**с бай ну:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been adding",
+        "examples": [
+          {
+            "ours": "До перерыва она два часа добавляла данные.",
+            "thought": "Она имела быть добавляющей данные целых два часа перед [известным] перерывом.",
+            "english": "She had been adding data for two hours before the break.",
+            "transcription": "[ши: хæд би:н **æ**диŋ д**э**йтэ фо: ту: **а**уэз биф**о**: ðэ брэйк]"
+          },
+          {
+            "ours": "До обеда ты целый час добавлял имена?",
+            "thought": "Имел ты быть добавляющим имена целый [какой-то] час перед обедом?",
+            "english": "Had you been adding names for an hour before lunch?",
+            "transcription": "[хæд ю: би:н **æ**диŋ нэймз фо: эн **а**уэ биф**о**: ланч]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been adding",
+        "examples": [
+          {
+            "ours": "Я уже два часа добавляю данные.",
+            "thought": "Я имею быть добавляющим данные целых два часа.",
+            "english": "I have been adding data for two hours.",
+            "transcription": "[ай хæв би:н **æ**диŋ д**э**йтэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже час добавляешь фотографии?",
+            "thought": "Имеешь ты быть добавляющим фотографии целый [какой-то] час?",
+            "english": "Have you been adding photos for an hour?",
+            "transcription": "[хæв ю: би:н **æ**диŋ ф**о**утоуз фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been adding",
+        "examples": [
+          {
+            "ours": "К полудню я буду добавлять имена уже два часа.",
+            "thought": "К полудню я буду иметь быть добавляющим имена целых два часа.",
+            "english": "By noon I will have been adding names for two hours.",
+            "transcription": "[бай ну:н ай wил хæв би:н **æ**диŋ нэймз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти она будет добавлять фотографии уже час?",
+            "thought": "Будет она иметь быть добавляющей фотографии целый [какой-то] час к пяти?",
+            "english": "Will she have been adding photos for an hour by five?",
+            "transcription": "[wил ши: хæв би:н **æ**диŋ ф**о**утоуз фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were added",
+        "examples": [
+          {
+            "ours": "Соль добавили вчера.",
+            "thought": "Соль была добавлена вчера.",
+            "english": "Salt was added yesterday.",
+            "transcription": "[со:лт wоз **æ**дид й**э**стэдэй]"
+          },
+          {
+            "ours": "Имена не добавили в список.",
+            "thought": "[Известные] имена были не добавлены в [известный] список.",
+            "english": "The names weren't added to the list.",
+            "transcription": "[ðэ нэймз wœ:нт **æ**дид ту ðэ лист]"
+          },
+          {
+            "ours": "Адрес добавили утром?",
+            "thought": "Был [известный] адрес добавлен в [известное] утро?",
+            "english": "Was the address added in the morning?",
+            "transcription": "[wоз ðи эдр**э**с **æ**дид ин ðэ м**о**:ниŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are added",
+        "examples": [
+          {
+            "ours": "Молоко добавляют в конце.",
+            "thought": "Молоко есть добавлено в [известном] конце.",
+            "english": "Milk is added at the end.",
+            "transcription": "[милк из **æ**дид æт ðи энд]"
+          },
+          {
+            "ours": "Сахар сюда не добавляют.",
+            "thought": "Сахар есть не добавлен здесь.",
+            "english": "Sugar isn't added here.",
+            "transcription": "[ш**у**гэ изнт **æ**дид хиэ]"
+          },
+          {
+            "ours": "Фотографии добавляют каждый день?",
+            "thought": "Есть фотографии добавлены каждый день?",
+            "english": "Are photos added every day?",
+            "transcription": "[а: ф**о**утоуз **æ**дид **э**ври дэй]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be added",
+        "examples": [
+          {
+            "ours": "Новая глава появится завтра.",
+            "thought": "[Какая-то] новая глава будет быть добавлена завтра.",
+            "english": "A new chapter will be added tomorrow.",
+            "transcription": "[э нью: ч**æ**птэ wил би: **æ**дид тэм**о**роу]"
+          },
+          {
+            "ours": "Соль добавлять не будут.",
+            "thought": "Соль будет не быть добавлена.",
+            "english": "Salt won't be added.",
+            "transcription": "[со:лт wоунт би: **æ**дид]"
+          },
+          {
+            "ours": "Адрес добавят позже?",
+            "thought": "Будет [известный] адрес быть добавлен позже?",
+            "english": "Will the address be added later?",
+            "transcription": "[wил ðи эдр**э**с би: **æ**дид л**э**йтэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being added",
+        "examples": [
+          {
+            "ours": "Данные добавляли весь день.",
+            "thought": "Данные были «долго» добавлены весь день.",
+            "english": "Data was being added all day.",
+            "transcription": "[д**э**йтэ wоз б**и**:иŋ **æ**дид о:л дэй]"
+          },
+          {
+            "ours": "Имена тогда не добавляли.",
+            "thought": "Имена были не «долго» добавлены тогда.",
+            "english": "Names weren't being added then.",
+            "transcription": "[нэймз wœ:нт б**и**:иŋ **æ**дид ðэн]"
+          },
+          {
+            "ours": "Когда ты пришёл, добавляли фотографии?",
+            "thought": "Были фотографии «долго» добавлены, когда ты пришёл?",
+            "english": "Were photos being added when you arrived?",
+            "transcription": "[wœ: ф**о**утоуз б**и**:иŋ **æ**дид wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being added",
+        "examples": [
+          {
+            "ours": "Фотографии сейчас добавляют.",
+            "thought": "Фотографии есть «долго» добавлены сейчас.",
+            "english": "Photos are being added now.",
+            "transcription": "[ф**о**утоуз а: б**и**:иŋ **æ**дид нау]"
+          },
+          {
+            "ours": "Сейчас соль не добавляют.",
+            "thought": "Соль есть не «долго» добавлена сейчас.",
+            "english": "Salt isn't being added now.",
+            "transcription": "[со:лт изнт б**и**:иŋ **æ**дид нау]"
+          },
+          {
+            "ours": "Имена сейчас добавляют?",
+            "thought": "Есть имена «долго» добавлены сейчас?",
+            "english": "Are names being added now?",
+            "transcription": "[а: нэймз б**и**:иŋ **æ**дид нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be adding",
+        "examples": [
+          {
+            "ours": "Завтра они будут добавлять фотографии весь день.",
+            "thought": "Завтра они будут быть добавляющими фотографии весь день.",
+            "english": "Tomorrow they will be adding photos all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: **æ**диŋ ф**о**утоуз о:л дэй]"
+          },
+          {
+            "ours": "Вечером они не будут добавлять имена.",
+            "thought": "Они будут не быть добавляющими имена этот вечер.",
+            "english": "They won't be adding names this evening.",
+            "transcription": "[ðэй wоунт би: **æ**диŋ нэймз ðис **и**:вниŋ]"
+          },
+          {
+            "ours": "Завтра утром они будут добавлять данные?",
+            "thought": "Будут они быть добавляющими данные завтра утром?",
+            "english": "Will they be adding data tomorrow morning?",
+            "transcription": "[wил ðэй би: **æ**диŋ д**э**йтэ тэм**о**роу м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been added",
+        "examples": [
+          {
+            "ours": "К полудню адрес уже добавили.",
+            "thought": "К полудню [известный] адрес имел уже быть добавлен.",
+            "english": "By noon the address had already been added.",
+            "transcription": "[бай ну:н ðи эдр**э**с хæд о:лр**э**ди би:н **æ**дид]"
+          },
+          {
+            "ours": "К тому времени имена ещё не добавили.",
+            "thought": "К тогда [известные] имена имели не быть добавлены ещё.",
+            "english": "By then the names hadn't been added yet.",
+            "transcription": "[бай ðэн ðэ нэймз хæднт би:н **æ**дид йэт]"
+          },
+          {
+            "ours": "К пятнице главу добавили?",
+            "thought": "Имела [известная] глава быть добавлена к пятнице?",
+            "english": "Had the chapter been added by Friday?",
+            "transcription": "[хæд ðэ ч**æ**птэ би:н **æ**дид бай фр**а**йдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been added",
+        "examples": [
+          {
+            "ours": "Адрес уже добавили.",
+            "thought": "[Известный] адрес имеет уже быть добавлен.",
+            "english": "The address has already been added.",
+            "transcription": "[ðи эдр**э**с хæз о:лр**э**ди би:н **æ**дид]"
+          },
+          {
+            "ours": "Фотографии ещё не добавили.",
+            "thought": "[Известные] фотографии имеют не быть добавлены ещё.",
+            "english": "The photos haven't been added yet.",
+            "transcription": "[ðэ ф**о**утоуз хæвнт би:н **æ**дид йэт]"
+          },
+          {
+            "ours": "Соль уже добавили?",
+            "thought": "Имеет соль быть добавлена уже?",
+            "english": "Has salt been added yet?",
+            "transcription": "[хæз со:лт би:н **æ**дид йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been added",
+        "examples": [
+          {
+            "ours": "К пятнице главу добавят.",
+            "thought": "К пятнице [известная] глава будет иметь быть добавлена.",
+            "english": "By Friday the chapter will have been added.",
+            "transcription": "[бай фр**а**йдэй ðэ ч**æ**птэ wил хæв би:н **æ**дид]"
+          },
+          {
+            "ours": "К полудню имена ещё не добавят.",
+            "thought": "К полудню [известные] имена будут не иметь быть добавлены ещё.",
+            "english": "By noon the names won't have been added yet.",
+            "transcription": "[бай ну:н ðэ нэймз wоунт хæв би:н **æ**дид йэт]"
+          },
+          {
+            "ours": "К вечеру адрес добавят?",
+            "thought": "Будет [известный] адрес иметь быть добавлен к вечеру?",
+            "english": "Will the address have been added by evening?",
+            "transcription": "[wил ðи эдр**э**с хæв би:н **æ**дид бай **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Форма `has been being added` практически не употребляется. Вместо неё скажут: They have been adding data."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она добавит адрес.",
+        "thought": "Я знал, она будет добавлять [известный] адрес.",
+        "english": "I knew she would add the address.",
+        "transcription": "[ай нью: ши: wуд æд ðи эдр**э**с]"
+      },
+      {
+        "ours": "Мы думали, что он не добавит соль.",
+        "thought": "Мы думали, он будет не добавлять соль.",
+        "english": "We thought he wouldn't add salt.",
+        "transcription": "[wи: θо:т хи: wуднт æд со:лт]"
+      },
+      {
+        "ours": "Она спросила, добавим ли мы фото.",
+        "thought": "Она спросила, ли мы будем добавлять фотографии.",
+        "english": "She asked whether we would add photos.",
+        "transcription": "[ши: а:скт w**э**ðэ wи: wуд æд ф**о**утоуз]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "salt",
+      "meaning": "соль",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "salt"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "salt"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "salt"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "salt"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Salt"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "Salt"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "Salt"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "salt"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "salt"
+        }
+      ]
+    },
+    {
+      "word": "soup",
+      "meaning": "суп",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "soup"
+        }
+      ]
+    },
+    {
+      "word": "sugar",
+      "meaning": "сахар",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sugar"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "sugar"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "Sugar"
+        }
+      ]
+    },
+    {
+      "word": "name",
+      "meaning": "имя",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "name"
+        },
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "names"
+        },
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "names"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "names"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "names"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "names"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "names"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "Names"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "names"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "names"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "names"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "names"
+        }
+      ]
+    },
+    {
+      "word": "milk",
+      "meaning": "молоко",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "milk"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Milk"
+        }
+      ]
+    },
+    {
+      "word": "coffee",
+      "meaning": "кофе",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "coffee"
+        }
+      ]
+    },
+    {
+      "word": "number",
+      "meaning": "число",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "numbers"
+        }
+      ]
+    },
+    {
+      "word": "chapter",
+      "meaning": "глава",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "chapter"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "chapter"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "chapter"
+        },
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "chapter"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "chapter"
+        }
+      ]
+    },
+    {
+      "word": "butter",
+      "meaning": "масло",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "butter"
+        }
+      ]
+    },
+    {
+      "word": "address",
+      "meaning": "адрес",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "address"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "address"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "address"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "address"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "address"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "address"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "address"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "address"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "address"
+        },
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "address"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "address"
+        }
+      ]
+    },
+    {
+      "word": "vegetable",
+      "meaning": "овощ",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "vegetables"
+        }
+      ]
+    },
+    {
+      "word": "photo",
+      "meaning": "фото",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "photos"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "photos"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "photos"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "photos"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "photos"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "photos"
+        },
+        {
+          "phrase": "passive.continuous.past.2",
+          "form": "photos"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Photos"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "photos"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "photos"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "photos"
+        }
+      ]
+    },
+    {
+      "word": "data",
+      "meaning": "данные",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "data"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "data"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "data"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Data"
+        },
+        {
+          "phrase": "passive.continuous.future.2",
+          "form": "data"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.2",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "signature",
+      "meaning": "подпись",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "signature"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "signature"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "Friday"
+        },
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "Friday"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "break",
+      "meaning": "перерыв",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "break"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "meaning": "обед",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "lunch"
+        }
+      ]
+    },
+    {
+      "word": "list",
+      "meaning": "список",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "list"
+        }
+      ]
+    },
+    {
+      "word": "end",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "end"
+        }
+      ]
+    }
+  ]
+}

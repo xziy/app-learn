@@ -1,0 +1,936 @@
+{
+  "spec": 3,
+  "verb": "move",
+  "forms": {
+    "base": [
+      {
+        "word": "move",
+        "transcription": "[му:в]"
+      }
+    ],
+    "past": [
+      {
+        "word": "moved",
+        "transcription": "[му:вд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "moved",
+        "transcription": "[му:вд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "moving",
+        "transcription": "[м**у**:виŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "moves",
+        "transcription": "[му:вз]"
+      }
+    ]
+  },
+  "meaning": "двигаться, перемещать, переставлять",
+  "notes": "правильный глагол, переходный и непереходный; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "moved",
+        "examples": [
+          {
+            "ours": "Вчера мы переставили ящики в каюту.",
+            "thought": "Вчера мы переместили [известные] ящики в [известную] каюту.",
+            "english": "Yesterday we moved the boxes into the cabin.",
+            "transcription": "[й**э**стэдэй wи: му:вд ðэ б**о**ксиз **и**нту ðэ к**æ**бин]"
+          },
+          {
+            "ours": "Он не переставил лодку к причалу.",
+            "thought": "Он [сделал] не перемещать [известную] лодку к [известному] причалу.",
+            "english": "He didn't move the boat to the dock.",
+            "transcription": "[хи: диднт му:в ðэ боут ту ðэ док]"
+          },
+          {
+            "ours": "Ты перенёс инструменты до гонки?",
+            "thought": "[Сделал] ты перемещать [известные] инструменты перед [известной] гонкой?",
+            "english": "Did you move the tools before the race?",
+            "transcription": "[дид ю: му:в ðэ ту:лз биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "move, moves",
+        "examples": [
+          {
+            "ours": "Экипаж каждый день переносит оборудование.",
+            "thought": "[Известный] экипаж перемещает оборудование каждый день.",
+            "english": "The crew moves equipment every day.",
+            "transcription": "[ðэ кру: му:вз икw**и**пмэнт **э**ври дэй]"
+          },
+          {
+            "ours": "Лодка не движется без ветра.",
+            "thought": "[Известная] лодка [делает] не двигаться без ветра.",
+            "english": "The boat doesn't move without wind.",
+            "transcription": "[ðэ боут дазнт му:в wиð**а**ут wинд]"
+          },
+          {
+            "ours": "Ты переносишь тросы на палубу?",
+            "thought": "[Делаешь] ты перемещать [известные] тросы на [известную] палубу?",
+            "english": "Do you move the ropes onto the deck?",
+            "transcription": "[ду: ю: му:в ðэ роупс **о**нту ðэ дэк]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will move",
+        "examples": [
+          {
+            "ours": "Завтра мы переставим яхту к причалу.",
+            "thought": "Завтра мы будем перемещать [известную] яхту к [известному] причалу.",
+            "english": "Tomorrow we will move the yacht to the dock.",
+            "transcription": "[тэм**о**роу wи: wил му:в ðэ йот ту ðэ док]"
+          },
+          {
+            "ours": "Он не перенесёт топливо в каюту.",
+            "thought": "Он будет не перемещать топливо в [известную] каюту.",
+            "english": "He won't move fuel into the cabin.",
+            "transcription": "[хи: wоунт му:в фь**ю**:эл **и**нту ðэ к**æ**бин]"
+          },
+          {
+            "ours": "Ты перенесёшь инструменты до гонки?",
+            "thought": "Будешь ты перемещать [известные] инструменты перед [известной] гонкой?",
+            "english": "Will you move the tools before the race?",
+            "transcription": "[wил ю: му:в ðэ ту:лз биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were moving",
+        "examples": [
+          {
+            "ours": "Вчера лодка весь день медленно двигалась к гавани.",
+            "thought": "Вчера [известная] лодка была движущейся медленно к [известной] гавани весь день.",
+            "english": "Yesterday the boat was moving slowly toward the harbor all day.",
+            "transcription": "[й**э**стэдэй ðэ боут wоз м**у**:виŋ сл**о**ули тэв**о**:д ðэ х**а**:бэ о:л дэй]"
+          },
+          {
+            "ours": "Ты переносил ящики, когда я пришёл?",
+            "thought": "Был ты перемещающим [известные] ящики, когда я пришёл?",
+            "english": "Were you moving the boxes when I came?",
+            "transcription": "[wœ: ю: м**у**:виŋ ðэ б**о**ксиз wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are moving",
+        "examples": [
+          {
+            "ours": "Сейчас мы переносим оборудование на палубу.",
+            "thought": "Мы являемся перемещающими оборудование на [известную] палубу сейчас.",
+            "english": "We are moving equipment onto the deck now.",
+            "transcription": "[wи: а: м**у**:виŋ икw**и**пмэнт **о**нту ðэ дэк нау]"
+          },
+          {
+            "ours": "Лодка сейчас движется к причалу?",
+            "thought": "Является [известная] лодка движущейся к [известному] причалу сейчас?",
+            "english": "Is the boat moving toward the dock now?",
+            "transcription": "[из ðэ боут м**у**:виŋ тэв**о**:д ðэ док нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be moving",
+        "examples": [
+          {
+            "ours": "Завтра лодка весь день будет медленно идти к гавани.",
+            "thought": "Завтра [известная] лодка будет быть движущейся медленно к [известной] гавани весь день.",
+            "english": "Tomorrow the boat will be moving slowly toward the harbor all day.",
+            "transcription": "[тэм**о**роу ðэ боут wил би: м**у**:виŋ сл**о**ули тэв**о**:д ðэ х**а**:бэ о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь переносить оборудование до гонки?",
+            "thought": "Будешь ты быть перемещающим оборудование перед [известной] гонкой?",
+            "english": "Will you be moving equipment before the race?",
+            "transcription": "[wил ю: би: м**у**:виŋ икw**и**пмэнт биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had moved",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже перенесли оборудование.",
+            "thought": "К пяти вчера мы имели уже перемещённым [известное] оборудование.",
+            "english": "By five yesterday we had already moved the equipment.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди му:вд ðэ икw**и**пмэнт]"
+          },
+          {
+            "ours": "Ты перенёс ящики до гонки?",
+            "thought": "Имел ты перемещёнными [известные] ящики перед [известной] гонкой?",
+            "english": "Had you moved the boxes before the race?",
+            "transcription": "[хæд ю: му:вд ðэ б**о**ксиз биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has moved",
+        "examples": [
+          {
+            "ours": "Мы уже переставили лодку к причалу.",
+            "thought": "Мы имеем уже перемещённой [известную] лодку к [известному] причалу.",
+            "english": "We have already moved the boat to the dock.",
+            "transcription": "[wи: хæв о:лр**э**ди му:вд ðэ боут ту ðэ док]"
+          },
+          {
+            "ours": "Ты уже перенёс инструменты?",
+            "thought": "Имеешь ты уже перемещёнными [известные] инструменты?",
+            "english": "Have you already moved the tools?",
+            "transcription": "[хæв ю: о:лр**э**ди му:вд ðэ ту:лз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have moved",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже перенесём оборудование.",
+            "thought": "К пяти завтра мы будем иметь уже перемещённым [известное] оборудование.",
+            "english": "By five tomorrow we will have already moved the equipment.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди му:вд ðэ икw**и**пмэнт]"
+          },
+          {
+            "ours": "Ты перенесёшь ящики до гонки?",
+            "thought": "Будешь ты иметь перемещёнными [известные] ящики перед [известной] гонкой?",
+            "english": "Will you have moved the boxes before the race?",
+            "transcription": "[wил ю: хæв му:вд ðэ б**о**ксиз биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been moving",
+        "examples": [
+          {
+            "ours": "Лодка уже два часа медленно двигалась, когда ты пришёл.",
+            "thought": "[Известная] лодка имела быть движущейся медленно целых два часа, когда ты пришёл.",
+            "english": "The boat had been moving slowly for two hours when you came.",
+            "transcription": "[ðэ боут хæд би:н м**у**:виŋ сл**о**ули фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа переносил ящики, когда он пришёл?",
+            "thought": "Имел ты быть перемещающим ящики целых два часа, когда он пришёл?",
+            "english": "Had you been moving boxes for two hours when he came?",
+            "transcription": "[хæд ю: би:н м**у**:виŋ б**о**ксиз фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been moving",
+        "examples": [
+          {
+            "ours": "Лодка уже два часа медленно движется.",
+            "thought": "[Известная] лодка имеет быть движущейся медленно целых два часа.",
+            "english": "The boat has been moving slowly for two hours.",
+            "transcription": "[ðэ боут хæз би:н м**у**:виŋ сл**о**ули фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа переносишь ящики?",
+            "thought": "Имеешь ты быть перемещающим ящики целых два часа?",
+            "english": "Have you been moving boxes for two hours?",
+            "transcription": "[хæв ю: би:н м**у**:виŋ б**о**ксиз фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been moving",
+        "examples": [
+          {
+            "ours": "К пяти лодка будет медленно двигаться уже два часа.",
+            "thought": "К пяти [известная] лодка будет иметь быть движущейся медленно целых два часа.",
+            "english": "By five the boat will have been moving slowly for two hours.",
+            "transcription": "[бай файв ðэ боут wил хæв би:н м**у**:виŋ сл**о**ули фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь переносить ящики уже два часа?",
+            "thought": "Будешь ты иметь быть перемещающим ящики целых два часа к пяти?",
+            "english": "Will you have been moving boxes for two hours by five?",
+            "transcription": "[wил ю: хæв би:н м**у**:виŋ б**о**ксиз фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were moved",
+        "examples": [
+          {
+            "ours": "Вчера оборудование перенесли на палубу.",
+            "thought": "Оборудование было перемещено на [известную] палубу вчера.",
+            "english": "Equipment was moved onto the deck yesterday.",
+            "transcription": "[икw**и**пмэнт wоз му:вд **о**нту ðэ дэк й**э**стэдэй]"
+          },
+          {
+            "ours": "Ящики перенесли до гонки?",
+            "thought": "Были [известные] ящики перемещены перед [известной] гонкой?",
+            "english": "Were the boxes moved before the race?",
+            "transcription": "[wœ: ðэ б**о**ксиз му:вд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are moved",
+        "examples": [
+          {
+            "ours": "Оборудование переносят на палубу каждый день.",
+            "thought": "Оборудование есть перемещено на [известную] палубу каждый день.",
+            "english": "Equipment is moved onto the deck every day.",
+            "transcription": "[икw**и**пмэнт из му:вд **о**нту ðэ дэк **э**ври дэй]"
+          },
+          {
+            "ours": "Ящики переносят в каюту?",
+            "thought": "Есть [известные] ящики перемещены в [известную] каюту?",
+            "english": "Are the boxes moved into the cabin?",
+            "transcription": "[а: ðэ б**о**ксиз му:вд **и**нту ðэ к**æ**бин]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be moved",
+        "examples": [
+          {
+            "ours": "Завтра яхту переставят к причалу.",
+            "thought": "[Известная] яхта будет быть перемещена к [известному] причалу завтра.",
+            "english": "The yacht will be moved to the dock tomorrow.",
+            "transcription": "[ðэ йот wил би: му:вд ту ðэ док тэм**о**роу]"
+          },
+          {
+            "ours": "Инструменты перенесут до гонки?",
+            "thought": "Будут [известные] инструменты быть перемещены перед [известной] гонкой?",
+            "english": "Will the tools be moved before the race?",
+            "transcription": "[wил ðэ ту:лз би: му:вд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being moved",
+        "examples": [
+          {
+            "ours": "Вчера оборудование переносили на палубу весь день.",
+            "thought": "Вчера оборудование было «долго» перемещено на [известную] палубу весь день.",
+            "english": "Yesterday equipment was being moved onto the deck all day.",
+            "transcription": "[й**э**стэдэй икw**и**пмэнт wоз б**и**:иŋ му:вд **о**нту ðэ дэк о:л дэй]"
+          },
+          {
+            "ours": "Ящики переносили, когда ты пришёл?",
+            "thought": "Были [известные] ящики «долго» перемещены, когда ты пришёл?",
+            "english": "Were the boxes being moved when you came?",
+            "transcription": "[wœ: ðэ б**о**ксиз б**и**:иŋ му:вд wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being moved",
+        "examples": [
+          {
+            "ours": "Сейчас оборудование переносят на палубу.",
+            "thought": "Оборудование есть «долго» перемещено на [известную] палубу сейчас.",
+            "english": "Equipment is being moved onto the deck now.",
+            "transcription": "[икw**и**пмэнт из б**и**:иŋ му:вд **о**нту ðэ дэк нау]"
+          },
+          {
+            "ours": "Сейчас переносят ящики?",
+            "thought": "Есть [известные] ящики «долго» перемещены сейчас?",
+            "english": "Are the boxes being moved now?",
+            "transcription": "[а: ðэ б**о**ксиз б**и**:иŋ му:вд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be moving",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут переносить оборудование на палубу.",
+            "thought": "Завтра они будут быть перемещающими оборудование на [известную] палубу весь день.",
+            "english": "Tomorrow they will be moving equipment onto the deck all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: м**у**:виŋ икw**и**пмэнт **о**нту ðэ дэк о:л дэй]"
+          },
+          {
+            "ours": "Они будут переносить ящики до гонки?",
+            "thought": "Будут они быть перемещающими ящики перед [известной] гонкой?",
+            "english": "Will they be moving boxes before the race?",
+            "transcription": "[wил ðэй би: м**у**:виŋ б**о**ксиз биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been moved",
+        "examples": [
+          {
+            "ours": "Вчера к пяти оборудование уже перенесли на палубу.",
+            "thought": "К пяти вчера оборудование имело уже быть перемещено на [известную] палубу.",
+            "english": "By five yesterday equipment had already been moved onto the deck.",
+            "transcription": "[бай файв й**э**стэдэй икw**и**пмэнт хæд о:лр**э**ди би:н му:вд **о**нту ðэ дэк]"
+          },
+          {
+            "ours": "Ящики перенесли до гонки?",
+            "thought": "Имели [известные] ящики быть перемещены перед [известной] гонкой?",
+            "english": "Had the boxes been moved before the race?",
+            "transcription": "[хæд ðэ б**о**ксиз би:н му:вд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been moved",
+        "examples": [
+          {
+            "ours": "Инструменты уже перенесли.",
+            "thought": "[Известные] инструменты имеют уже быть перемещены.",
+            "english": "The tools have already been moved.",
+            "transcription": "[ðэ ту:лз хæв о:лр**э**ди би:н му:вд]"
+          },
+          {
+            "ours": "Яхту уже переставили к причалу?",
+            "thought": "Имеет [известная] яхта уже быть перемещена к [известному] причалу?",
+            "english": "Has the yacht already been moved to the dock?",
+            "transcription": "[хæз ðэ йот о:лр**э**ди би:н му:вд ту ðэ док]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been moved",
+        "examples": [
+          {
+            "ours": "К пяти завтра оборудование уже перенесут на палубу.",
+            "thought": "К пяти завтра оборудование будет уже иметь быть перемещено на [известную] палубу.",
+            "english": "By five tomorrow equipment will already have been moved onto the deck.",
+            "transcription": "[бай файв тэм**о**роу икw**и**пмэнт wил о:лр**э**ди хæв би:н му:вд **о**нту ðэ дэк]"
+          },
+          {
+            "ours": "Ящики перенесут до гонки?",
+            "thought": "Будут [известные] ящики иметь быть перемещены перед [известной] гонкой?",
+            "english": "Will the boxes have been moved before the race?",
+            "transcription": "[wил ðэ б**о**ксиз хæв би:н му:вд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: Equipment has been moved. Или: They have been moving equipment."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они перенесут оборудование.",
+        "thought": "[Известный] капитан сказал, что они будут перемещать оборудование.",
+        "english": "The captain said that they would move equipment.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд му:в икw**и**пмэнт]"
+      },
+      {
+        "ours": "Я знал, что ты не переставишь лодку.",
+        "thought": "Я знал, что ты будешь не перемещать [известную] лодку.",
+        "english": "I knew that you wouldn't move the boat.",
+        "transcription": "[ай нью: ðæт ю: wуднт му:в ðэ боут]"
+      },
+      {
+        "ours": "Капитан сказал, что мы перенесём ящики.",
+        "thought": "[Известный] капитан сказал, что мы будем перемещать [известные] ящики.",
+        "english": "The captain said that we would move the boxes.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд му:в ðэ б**о**ксиз]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "box",
+      "meaning": "ящик",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "boxes"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "boxes"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "boxes"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "boxes"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "boxes"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "boxes"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "boxes"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "boxes"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "boxes"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "boxes"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "boxes"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "boxes"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "boxes"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "boxes"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "boxes"
+        }
+      ]
+    },
+    {
+      "word": "cabin",
+      "meaning": "каюта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "cabin"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "cabin"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "cabin"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "dock",
+      "meaning": "причал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "dock"
+        }
+      ]
+    },
+    {
+      "word": "tool",
+      "meaning": "инструмент",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "tools"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "tools"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "tools"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "tools"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "tools"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "equipment",
+      "meaning": "оборудование",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Equipment"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Equipment"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Equipment"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "equipment"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "трос",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "ropes"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "fuel",
+      "meaning": "топливо",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "fuel"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

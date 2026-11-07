@@ -1,0 +1,904 @@
+{
+  "spec": 3,
+  "verb": "adjourn",
+  "forms": {
+    "base": [
+      {
+        "word": "adjourn",
+        "transcription": "[эдж**œ**:н]"
+      }
+    ],
+    "past": [
+      {
+        "word": "adjourned",
+        "transcription": "[эдж**œ**:нд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "adjourned",
+        "transcription": "[эдж**œ**:нд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "adjourning",
+        "transcription": "[эдж**œ**:ниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "adjourns",
+        "transcription": "[эдж**œ**:нз]"
+      }
+    ]
+  },
+  "meaning": "откладывать, прерывать или закрывать заседание; расходиться на перерыв",
+  "notes": "правильный глагол, переходный и непереходный; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "adjourned",
+        "examples": [
+          {
+            "ours": "Судья вчера отложил слушание.",
+            "thought": "[Известный] судья отложил [известное] слушание вчера.",
+            "english": "The judge adjourned the hearing yesterday.",
+            "transcription": "[ðэ джадж эдж**œ**:нд ðэ х**и**эриŋ й**э**стэдэй]"
+          },
+          {
+            "ours": "Председатель вчера прервал заседание?",
+            "thought": "[Сделал] [известный] председатель прерывать [известное] заседание вчера?",
+            "english": "Did the chair adjourn the meeting yesterday?",
+            "transcription": "[дид ðэ чээ эдж**œ**:н ðэ м**и**:тиŋ й**э**стэдэй]"
+          },
+          {
+            "ours": "Они не прервали заседание на обед.",
+            "thought": "Они [сделали] не прерывать [известное] заседание на обед.",
+            "english": "They didn't adjourn the meeting for lunch.",
+            "transcription": "[ðэй диднт эдж**œ**:н ðэ м**и**:тиŋ фо: ланч]"
+          }
+        ]
+      },
+      "present": {
+        "form": "adjourn, adjourns",
+        "examples": [
+          {
+            "ours": "Совет обычно прерывает заседание в полдень.",
+            "thought": "[Известный] совет прерывает [известное] заседание регулярно в полдень.",
+            "english": "The council adjourns the meeting regularly at noon.",
+            "transcription": "[ðэ к**а**унсл эдж**œ**:нз ðэ м**и**:тиŋ р**э**гьюлэли æт ну:н]"
+          },
+          {
+            "ours": "Суд прерывает заседание на обед?",
+            "thought": "[Делает] [известный] суд прерываться на обед?",
+            "english": "Does the court adjourn for lunch?",
+            "transcription": "[даз ðэ ко:т эдж**œ**:н фо: ланч]"
+          },
+          {
+            "ours": "Председатель не откладывает слушания.",
+            "thought": "[Известный] председатель [делает] не откладывать слушания.",
+            "english": "The chair doesn't adjourn hearings.",
+            "transcription": "[ðэ чээ дазнт эдж**œ**:н х**и**эриŋз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will adjourn",
+        "examples": [
+          {
+            "ours": "Суд отложит слушание до понедельника.",
+            "thought": "[Известный] суд будет откладывать [известное] слушание до понедельника.",
+            "english": "The court will adjourn the hearing until Monday.",
+            "transcription": "[ðэ ко:т wил эдж**œ**:н ðэ х**и**эриŋ энт**и**л м**а**ндэй]"
+          },
+          {
+            "ours": "Председатель завтра прервёт заседание?",
+            "thought": "Будет [известный] председатель прерывать [известное] заседание завтра?",
+            "english": "Will the chair adjourn the meeting tomorrow?",
+            "transcription": "[wил ðэ чээ эдж**œ**:н ðэ м**и**:тиŋ тэм**о**роу]"
+          },
+          {
+            "ours": "Они не прервут заседание на обед.",
+            "thought": "Они будут не прерывать [известное] заседание на обед.",
+            "english": "They won't adjourn the meeting for lunch.",
+            "transcription": "[ðэй wоунт эдж**œ**:н ðэ м**и**:тиŋ фо: ланч]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were adjourning",
+        "examples": [
+          {
+            "ours": "Судья как раз объявлял перерыв, когда я пришёл.",
+            "thought": "[Известный] судья был прерывающим [известное] слушание, когда я пришёл.",
+            "english": "The judge was adjourning the hearing when I arrived.",
+            "transcription": "[ðэ джадж wоз эдж**œ**:ниŋ ðэ х**и**эриŋ wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Председатель объявлял перерыв, когда ты пришёл?",
+            "thought": "Был [известный] председатель прерывающим [известное] заседание, когда ты пришёл?",
+            "english": "Was the chair adjourning the meeting when you arrived?",
+            "transcription": "[wоз ðэ чээ эдж**œ**:ниŋ ðэ м**и**:тиŋ wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are adjourning",
+        "examples": [
+          {
+            "ours": "Судья сейчас объявляет перерыв в слушании.",
+            "thought": "[Известный] судья является прерывающим [известное] слушание сейчас.",
+            "english": "The judge is adjourning the hearing now.",
+            "transcription": "[ðэ джадж из эдж**œ**:ниŋ ðэ х**и**эриŋ нау]"
+          },
+          {
+            "ours": "Председатель сейчас закрывает заседание?",
+            "thought": "Является [известный] председатель прерывающим [известное] заседание сейчас?",
+            "english": "Is the chair adjourning the meeting now?",
+            "transcription": "[из ðэ чээ эдж**œ**:ниŋ ðэ м**и**:тиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be adjourning",
+        "examples": [
+          {
+            "ours": "Завтра суд прервёт заседание в полдень.",
+            "thought": "Завтра [известный] суд будет быть прерывающим [известное] заседание в полдень.",
+            "english": "Tomorrow the court will be adjourning the meeting at noon.",
+            "transcription": "[тэм**о**роу ðэ ко:т wил би: эдж**œ**:ниŋ ðэ м**и**:тиŋ æт ну:н]"
+          },
+          {
+            "ours": "Председатель завтра прервёт заседание в полдень?",
+            "thought": "Будет [известный] председатель быть прерывающим [известное] заседание в полдень завтра?",
+            "english": "Will the chair be adjourning the meeting at noon tomorrow?",
+            "transcription": "[wил ðэ чээ би: эдж**œ**:ниŋ ðэ м**и**:тиŋ æт ну:н тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had adjourned",
+        "examples": [
+          {
+            "ours": "Вчера к пяти судья отложил слушание.",
+            "thought": "К пяти вчера [известный] судья имел отложенным [известное] слушание.",
+            "english": "By five yesterday the judge had adjourned the hearing.",
+            "transcription": "[бай файв й**э**стэдэй ðэ джадж хæд эдж**œ**:нд ðэ х**и**эриŋ]"
+          },
+          {
+            "ours": "Вчера к пяти председатель закрыл заседание?",
+            "thought": "Имел [известный] председатель закрытым [известное] заседание к пяти вчера?",
+            "english": "Had the chair adjourned the meeting by five yesterday?",
+            "transcription": "[хæд ðэ чээ эдж**œ**:нд ðэ м**и**:тиŋ бай файв й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has adjourned",
+        "examples": [
+          {
+            "ours": "Судья уже отложил слушание.",
+            "thought": "[Известный] судья имеет уже отложенным [известное] слушание.",
+            "english": "The judge has already adjourned the hearing.",
+            "transcription": "[ðэ джадж хæз о:лр**э**ди эдж**œ**:нд ðэ х**и**эриŋ]"
+          },
+          {
+            "ours": "Председатель уже закрыл заседание?",
+            "thought": "Имеет [известный] председатель уже закрытым [известное] заседание?",
+            "english": "Has the chair already adjourned the meeting?",
+            "transcription": "[хæз ðэ чээ о:лр**э**ди эдж**œ**:нд ðэ м**и**:тиŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have adjourned",
+        "examples": [
+          {
+            "ours": "К пяти завтра судья отложит слушание.",
+            "thought": "К пяти завтра [известный] судья будет иметь отложенным [известное] слушание.",
+            "english": "By five tomorrow the judge will have adjourned the hearing.",
+            "transcription": "[бай файв тэм**о**роу ðэ джадж wил хæв эдж**œ**:нд ðэ х**и**эриŋ]"
+          },
+          {
+            "ours": "Председатель закроет заседание к пяти завтра?",
+            "thought": "Будет [известный] председатель иметь закрытым [известное] заседание к пяти завтра?",
+            "english": "Will the chair have adjourned the meeting by five tomorrow?",
+            "transcription": "[wил ðэ чээ хæв эдж**œ**:нд ðэ м**и**:тиŋ бай файв тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been adjourning",
+        "examples": [
+          {
+            "ours": "До обеда суд несколько часов переносил слушания.",
+            "thought": "[Известный] суд имел быть откладывающим слушания целые часы перед обедом.",
+            "english": "The court had been adjourning hearings for hours before lunch.",
+            "transcription": "[ðэ ко:т хæд би:н эдж**œ**:ниŋ х**и**эриŋз фо: **а**уэз биф**о**: ланч]"
+          },
+          {
+            "ours": "Судьи несколько месяцев переносили слушания до понедельника?",
+            "thought": "Имели судьи быть откладывающими слушания целые месяцы перед понедельником?",
+            "english": "Had judges been adjourning hearings for months before Monday?",
+            "transcription": "[хæд дж**а**джиз би:н эдж**œ**:ниŋ х**и**эриŋз фо: манθс биф**о**: м**а**ндэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been adjourning",
+        "examples": [
+          {
+            "ours": "Суд уже несколько месяцев переносит слушания.",
+            "thought": "[Известный] суд имеет быть откладывающим слушания целые месяцы.",
+            "english": "The court has been adjourning hearings for months.",
+            "transcription": "[ðэ ко:т хæз би:н эдж**œ**:ниŋ х**и**эриŋз фо: манθс]"
+          },
+          {
+            "ours": "Судьи уже несколько недель переносят слушания?",
+            "thought": "Имеют судьи быть откладывающими слушания целые недели?",
+            "english": "Have judges been adjourning hearings for weeks?",
+            "transcription": "[хæв дж**а**джиз би:н эдж**œ**:ниŋ х**и**эриŋз фо: wи:кс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been adjourning",
+        "examples": [
+          {
+            "ours": "К понедельнику суд будет переносить слушания уже месяц.",
+            "thought": "К понедельнику [известный] суд будет иметь быть откладывающим слушания целый [какой-то] месяц.",
+            "english": "By Monday the court will have been adjourning hearings for a month.",
+            "transcription": "[бай м**а**ндэй ðэ ко:т wил хæв би:н эдж**œ**:ниŋ х**и**эриŋз фо: э манθ]"
+          },
+          {
+            "ours": "К понедельнику судьи будут переносить слушания уже месяц?",
+            "thought": "Будут судьи иметь быть откладывающими слушания целый [какой-то] месяц к понедельнику?",
+            "english": "Will judges have been adjourning hearings for a month by Monday?",
+            "transcription": "[wил дж**а**джиз хæв би:н эдж**œ**:ниŋ х**и**эриŋз фо: э манθ бай м**а**ндэй]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were adjourned",
+        "examples": [
+          {
+            "ours": "Слушание отложили вчера.",
+            "thought": "[Известное] слушание было отложено вчера.",
+            "english": "The hearing was adjourned yesterday.",
+            "transcription": "[ðэ х**и**эриŋ wоз эдж**œ**:нд й**э**стэдэй]"
+          },
+          {
+            "ours": "Заседание прервали вчера?",
+            "thought": "Было [известное] заседание прервано вчера?",
+            "english": "Was the meeting adjourned yesterday?",
+            "transcription": "[wоз ðэ м**и**:тиŋ эдж**œ**:нд й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are adjourned",
+        "examples": [
+          {
+            "ours": "Заседание прерывается на обед.",
+            "thought": "[Известное] заседание есть прервано на обед.",
+            "english": "The meeting is adjourned for lunch.",
+            "transcription": "[ðэ м**и**:тиŋ из эдж**œ**:нд фо: ланч]"
+          },
+          {
+            "ours": "Слушание отложено до понедельника?",
+            "thought": "Есть [известное] слушание отложено до понедельника?",
+            "english": "Is the hearing adjourned until Monday?",
+            "transcription": "[из ðэ х**и**эриŋ эдж**œ**:нд энт**и**л м**а**ндэй]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be adjourned",
+        "examples": [
+          {
+            "ours": "Слушание отложат до понедельника.",
+            "thought": "[Известное] слушание будет быть отложено до понедельника.",
+            "english": "The hearing will be adjourned until Monday.",
+            "transcription": "[ðэ х**и**эриŋ wил би: эдж**œ**:нд энт**и**л м**а**ндэй]"
+          },
+          {
+            "ours": "Заседание прервут завтра?",
+            "thought": "Будет [известное] заседание быть прервано завтра?",
+            "english": "Will the meeting be adjourned tomorrow?",
+            "transcription": "[wил ðэ м**и**:тиŋ би: эдж**œ**:нд тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being adjourned",
+        "examples": [
+          {
+            "ours": "Слушание как раз откладывали, когда я пришёл.",
+            "thought": "[Известное] слушание было «долго» отложено, когда я пришёл.",
+            "english": "The hearing was being adjourned when I arrived.",
+            "transcription": "[ðэ х**и**эриŋ wоз б**и**:иŋ эдж**œ**:нд wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Заседание как раз закрывали, когда ты пришёл?",
+            "thought": "Было [известное] заседание «долго» закрыто, когда ты пришёл?",
+            "english": "Was the meeting being adjourned when you arrived?",
+            "transcription": "[wоз ðэ м**и**:тиŋ б**и**:иŋ эдж**œ**:нд wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being adjourned",
+        "examples": [
+          {
+            "ours": "Слушание сейчас откладывают.",
+            "thought": "[Известное] слушание есть «долго» отложено сейчас.",
+            "english": "The hearing is being adjourned now.",
+            "transcription": "[ðэ х**и**эриŋ из б**и**:иŋ эдж**œ**:нд нау]"
+          },
+          {
+            "ours": "Заседание сейчас закрывают?",
+            "thought": "Есть [известное] заседание «долго» закрыто сейчас?",
+            "english": "Is the meeting being adjourned now?",
+            "transcription": "[из ðэ м**и**:тиŋ б**и**:иŋ эдж**œ**:нд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be adjourning",
+        "examples": [
+          {
+            "ours": "Завтра они прервут заседание в полдень.",
+            "thought": "Завтра они будут быть прерывающими [известное] заседание в полдень.",
+            "english": "Tomorrow they will be adjourning the meeting at noon.",
+            "transcription": "[тэм**о**роу ðэй wил би: эдж**œ**:ниŋ ðэ м**и**:тиŋ æт ну:н]"
+          },
+          {
+            "ours": "Завтра они отложат слушание в полдень?",
+            "thought": "Будут они быть откладывающими [известное] слушание в полдень завтра?",
+            "english": "Will they be adjourning the hearing at noon tomorrow?",
+            "transcription": "[wил ðэй би: эдж**œ**:ниŋ ðэ х**и**эриŋ æт ну:н тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been adjourned",
+        "examples": [
+          {
+            "ours": "К пяти вчера слушание отложили.",
+            "thought": "К пяти вчера [известное] слушание имело быть отложено.",
+            "english": "By five yesterday the hearing had been adjourned.",
+            "transcription": "[бай файв й**э**стэдэй ðэ х**и**эриŋ хæд би:н эдж**œ**:нд]"
+          },
+          {
+            "ours": "Заседание прервали к пяти вчера?",
+            "thought": "Имело [известное] заседание быть прервано к пяти вчера?",
+            "english": "Had the meeting been adjourned by five yesterday?",
+            "transcription": "[хæд ðэ м**и**:тиŋ би:н эдж**œ**:нд бай файв й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been adjourned",
+        "examples": [
+          {
+            "ours": "Слушание уже отложили.",
+            "thought": "[Известное] слушание имеет уже быть отложено.",
+            "english": "The hearing has already been adjourned.",
+            "transcription": "[ðэ х**и**эриŋ хæз о:лр**э**ди би:н эдж**œ**:нд]"
+          },
+          {
+            "ours": "Заседание уже прервали?",
+            "thought": "Имеет [известное] заседание уже быть прервано?",
+            "english": "Has the meeting already been adjourned?",
+            "transcription": "[хæз ðэ м**и**:тиŋ о:лр**э**ди би:н эдж**œ**:нд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been adjourned",
+        "examples": [
+          {
+            "ours": "К пяти завтра слушание отложат.",
+            "thought": "К пяти завтра [известное] слушание будет иметь быть отложено.",
+            "english": "By five tomorrow the hearing will have been adjourned.",
+            "transcription": "[бай файв тэм**о**роу ðэ х**и**эриŋ wил хæв би:н эдж**œ**:нд]"
+          },
+          {
+            "ours": "Заседание прервут к пяти завтра?",
+            "thought": "Будет [известное] заседание иметь быть прервано к пяти завтра?",
+            "english": "Will the meeting have been adjourned by five tomorrow?",
+            "transcription": "[wил ðэ м**и**:тиŋ хæв би:н эдж**œ**:нд бай файв тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Формы вроде `has been being adjourned` практически не употребляются. Вместо этого скажут: `The hearing has been adjourned.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что судья отложит слушание.",
+        "thought": "Я знал, что [известный] судья будет откладывать [известное] слушание.",
+        "english": "I knew that the judge would adjourn the hearing.",
+        "transcription": "[ай нью: ðæт ðэ джадж wуд эдж**œ**:н ðэ х**и**эриŋ]"
+      },
+      {
+        "ours": "Председатель сказал, что они прервут заседание.",
+        "thought": "[Известный] председатель сказал, что они будут прерывать [известное] заседание.",
+        "english": "The chair said that they would adjourn the meeting.",
+        "transcription": "[ðэ чээ сэд ðæт ðэй wуд эдж**œ**:н ðэ м**и**:тиŋ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "judge",
+      "meaning": "судья",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "judge"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "judge"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "judge"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "judge"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "judge"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "judge"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "judges"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "judges"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "judges"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "judge"
+        }
+      ]
+    },
+    {
+      "word": "hearing",
+      "meaning": "слушание",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "hearing"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "hearings"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "hearing"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "hearing"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "hearing"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "hearing"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "hearing"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "hearing"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hearings"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hearings"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hearings"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hearings"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hearings"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hearings"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "hearing"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "hearing"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "hearing"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "hearing"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "hearing"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "hearing"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "hearing"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "hearing"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "hearing"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "hearing"
+        }
+      ]
+    },
+    {
+      "word": "chair",
+      "meaning": "председатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "chair"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "chair"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "chair"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "chair"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "chair"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "chair"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chair"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "chair"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "chair"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "chair"
+        }
+      ]
+    },
+    {
+      "word": "meeting",
+      "meaning": "заседание",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "meeting"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "meeting"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "meeting"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "meeting"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "meeting"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "meeting"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "meeting"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "meeting"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "meeting"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "meeting"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "meeting"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "meeting"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "meeting"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "meeting"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "meeting"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "meeting"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "meeting"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "meeting"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "meeting"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "meeting"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "meeting"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "meeting"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "meaning": "обед",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "lunch"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "lunch"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "lunch"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "lunch"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "lunch"
+        }
+      ]
+    },
+    {
+      "word": "council",
+      "meaning": "совет",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "council"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "court",
+      "meaning": "суд",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "court"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "court"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "court"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "court"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "court"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "court"
+        }
+      ]
+    },
+    {
+      "word": "Monday",
+      "meaning": "понедельник",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "Monday"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "Monday"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "Monday"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "Monday"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "Monday"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Monday"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "months"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "months"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "month"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "month"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "weeks"
+        }
+      ]
+    }
+  ]
+}

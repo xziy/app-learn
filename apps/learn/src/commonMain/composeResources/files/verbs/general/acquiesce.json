@@ -1,0 +1,659 @@
+{
+  "spec": 3,
+  "verb": "acquiesce",
+  "forms": {
+    "base": [
+      {
+        "word": "acquiesce",
+        "transcription": "[æкwи**э**с]"
+      }
+    ],
+    "past": [
+      {
+        "word": "acquiesced",
+        "transcription": "[æкwи**э**ст]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "acquiesced",
+        "transcription": "[æкwи**э**ст]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "acquiescing",
+        "transcription": "[æкwи**э**сиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "acquiesces",
+        "transcription": "[æкwи**э**сиз]"
+      }
+    ]
+  },
+  "meaning": "неохотно соглашаться, молча уступать",
+  "notes": "правильный непереходный глагол; обычно употребляется с in или to, пассив невозможен",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "acquiesced",
+        "examples": [
+          {
+            "ours": "Она неохотно приняла решение.",
+            "thought": "Она уступила в [известном] решении.",
+            "english": "She acquiesced in the decision.",
+            "transcription": "[ши: æкwи**э**ст ин ðэ дис**и**жн]"
+          },
+          {
+            "ours": "Они не согласились с требованием.",
+            "thought": "Они [сделали] не уступать к [известному] требованию.",
+            "english": "They did not acquiesce to the demand.",
+            "transcription": "[ðэй дид нот æкwи**э**с ту ðэ дим**а**:нд]"
+          },
+          {
+            "ours": "Он уступил давлению?",
+            "thought": "[Сделал] он уступать к [известному] давлению?",
+            "english": "Did he acquiesce to the pressure?",
+            "transcription": "[дид хи: æкwи**э**с ту ðэ пр**э**шэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "acquiesce, acquiesces",
+        "examples": [
+          {
+            "ours": "Она обычно уступает его просьбам.",
+            "thought": "Она обычно уступает к его просьбам.",
+            "english": "She usually acquiesces to his requests.",
+            "transcription": "[ши: **ю**:жуэли æкwи**э**сиз ту хиз рикw**э**стс]"
+          },
+          {
+            "ours": "Мы не всегда принимаем изменения молча.",
+            "thought": "Мы [делаем] не всегда уступать в изменениях.",
+            "english": "We do not always acquiesce in changes.",
+            "transcription": "[wи: ду: нот **о**:лwэйз æкwи**э**с ин ч**э**йнджиз]"
+          },
+          {
+            "ours": "Он всегда принимает их решения без возражений?",
+            "thought": "[Делает] он всегда уступать в их решениях?",
+            "english": "Does he always acquiesce in their decisions?",
+            "transcription": "[даз хи: **о**:лwэйз æкwи**э**с ин ðээ дис**и**жнз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will acquiesce",
+        "examples": [
+          {
+            "ours": "Думаю, она уступит их требованиям.",
+            "thought": "Я думаю, она будет уступать к их требованиям.",
+            "english": "I think she will acquiesce to their demands.",
+            "transcription": "[ай θинк ши: wил æкwи**э**с ту ðээ дим**а**:ндз]"
+          },
+          {
+            "ours": "Мы не согласимся с этим планом.",
+            "thought": "Мы будем не уступать в этом плане.",
+            "english": "We will not acquiesce in this plan.",
+            "transcription": "[wи: wил нот æкwи**э**с ин ðис плæн]"
+          },
+          {
+            "ours": "Они уступят его просьбе?",
+            "thought": "Будут они уступать к его просьбе?",
+            "english": "Will they acquiesce to his request?",
+            "transcription": "[wил ðэй æкwи**э**с ту хиз рикw**э**ст]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were acquiescing",
+        "examples": [
+          {
+            "ours": "Тогда совет постоянно уступал требованиям директора.",
+            "thought": "[Известный] совет был уступающим к [известного] директора требованиям в [известное] время.",
+            "english": "The board was acquiescing to the director’s demands at the time.",
+            "transcription": "[ðэ бо:д wоз æкwи**э**сиŋ ту ðэ дир**э**ктэз дим**а**:ндз æт ðэ тайм]"
+          },
+          {
+            "ours": "В тот период она не уступала давлению коллег.",
+            "thought": "Она была не уступающей к давлению от коллег тогда.",
+            "english": "She was not acquiescing to pressure from colleagues then.",
+            "transcription": "[ши: wоз нот æкwи**э**сиŋ ту пр**э**шэ фром к**о**ли:гз ðэн]"
+          },
+          {
+            "ours": "В то время они уступали его требованиям?",
+            "thought": "Были они уступающими к его требованиям в [известное] время?",
+            "english": "Were they acquiescing to his demands at the time?",
+            "transcription": "[wœ: ðэй æкwи**э**сиŋ ту хиз дим**а**:ндз æт ðэ тайм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are acquiescing",
+        "examples": [
+          {
+            "ours": "Сейчас руководство уступает требованиям инвесторов.",
+            "thought": "Руководство является уступающим к инвесторов требованиям сейчас.",
+            "english": "Management is acquiescing to investors’ demands now.",
+            "transcription": "[м**æ**ниджмэнт из æкwи**э**сиŋ ту инв**э**стэз дим**а**:ндз нау]"
+          },
+          {
+            "ours": "Сейчас она не уступает давлению.",
+            "thought": "Она является не уступающей к [известному] давлению сейчас.",
+            "english": "She is not acquiescing to the pressure now.",
+            "transcription": "[ши: из нот æкwи**э**сиŋ ту ðэ пр**э**шэ нау]"
+          },
+          {
+            "ours": "Они сейчас уступают его требованиям?",
+            "thought": "Являются они уступающими к его требованиям сейчас?",
+            "english": "Are they acquiescing to his demands now?",
+            "transcription": "[а: ðэй æкwи**э**сиŋ ту хиз дим**а**:ндз нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be acquiescing",
+        "examples": [
+          {
+            "ours": "Если это продолжится, в следующем году мы будем уступать каждому его требованию.",
+            "thought": "Если это продолжается, мы будем быть уступающими к его каждому требованию следующий год.",
+            "english": "If this continues, we will be acquiescing to his every demand next year.",
+            "transcription": "[иф ðис кэнт**и**ньюз wи: wил би: æкwи**э**сиŋ ту хиз **э**ври дим**а**:нд нэкст йиэ]"
+          },
+          {
+            "ours": "При новом руководителе они больше не будут уступать так легко.",
+            "thought": "Под [известным] новым руководителем, они будут не быть уступающими так легко больше.",
+            "english": "Under the new leader, they will not be acquiescing so easily anymore.",
+            "transcription": "[**а**ндэ ðэ нью: л**и**:дэ ðэй wил нот би: æкwи**э**сиŋ соу **и**:зили эним**о**:]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had acquiesced",
+        "examples": [
+          {
+            "ours": "К тому времени она уже уступила его просьбе.",
+            "thought": "К тогда она имела уже уступленным к его просьбе.",
+            "english": "By then she had already acquiesced to his request.",
+            "transcription": "[бай ðэн ши: хæд о:лр**э**ди æкwи**э**ст ту хиз рикw**э**ст]"
+          },
+          {
+            "ours": "До встречи они ещё не приняли это решение.",
+            "thought": "Они имели не уступленным в [известном] решении перед [известной] встречей.",
+            "english": "They had not acquiesced in the decision before the meeting.",
+            "transcription": "[ðэй хæд нот æкwи**э**ст ин ðэ дис**и**жн биф**о**: ðэ м**и**:тиŋ]"
+          },
+          {
+            "ours": "К вечеру он уже уступил этому требованию?",
+            "thought": "Имел он уступленным к [известному] требованию к вечеру?",
+            "english": "Had he acquiesced to the demand by evening?",
+            "transcription": "[хæд хи: æкwи**э**ст ту ðэ дим**а**:нд бай **и**:вниŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has acquiesced",
+        "examples": [
+          {
+            "ours": "Она уже приняла это решение.",
+            "thought": "Она имеет уже уступленным в [известном] решении.",
+            "english": "She has already acquiesced in the decision.",
+            "transcription": "[ши: хæз о:лр**э**ди æкwи**э**ст ин ðэ дис**и**жн]"
+          },
+          {
+            "ours": "Мы ещё не уступили давлению.",
+            "thought": "Мы имеем не уступленным к [известному] давлению ещё.",
+            "english": "We have not acquiesced to the pressure yet.",
+            "transcription": "[wи: хæв нот æкwи**э**ст ту ðэ пр**э**шэ йэт]"
+          },
+          {
+            "ours": "Они уже согласились с предложением?",
+            "thought": "Имеют они уступленным в [известном] предложении уже?",
+            "english": "Have they acquiesced in the proposal yet?",
+            "transcription": "[хæв ðэй æкwи**э**ст ин ðэ прэп**о**узл йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have acquiesced",
+        "examples": [
+          {
+            "ours": "К пятнице он, вероятно, уступит давлению.",
+            "thought": "К пятнице он будет вероятно иметь уступленным к [известному] давлению.",
+            "english": "By Friday he will probably have acquiesced to the pressure.",
+            "transcription": "[бай фр**а**йдэй хи: wил пр**о**бэбли хæв æкwи**э**ст ту ðэ пр**э**шэ]"
+          },
+          {
+            "ours": "К тому времени они вряд ли примут этот план.",
+            "thought": "К тогда они вероятно будут не иметь уступленным в [известном] плане.",
+            "english": "By then they probably will not have acquiesced in the plan.",
+            "transcription": "[бай ðэн ðэй пр**о**бэбли wил нот хæв æкwи**э**ст ин ðэ плæн]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been acquiescing",
+        "examples": [
+          {
+            "ours": "Она два года уступала их требованиям, прежде чем возразила.",
+            "thought": "Она имела быть уступающей к их требованиям целых два года перед она возразила.",
+            "english": "She had been acquiescing to their demands for two years before she objected.",
+            "transcription": "[ши: хæд би:н æкwи**э**сиŋ ту ðээ дим**а**:ндз фо: ту: йиэз биф**о**: ши: эбдж**э**ктид]"
+          },
+          {
+            "ours": "Он давно уступал её просьбам, когда всё изменилось?",
+            "thought": "Имел он быть уступающим к её просьбам целый [какой-то] год когда всё изменилось?",
+            "english": "Had he been acquiescing to her requests for a year when everything changed?",
+            "transcription": "[хæд хи: би:н æкwи**э**сиŋ ту хœ: рикw**э**стс фо: э йиэ wэн **э**вриθиŋ чэйнджд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been acquiescing",
+        "examples": [
+          {
+            "ours": "Мы год уступаем их требованиям.",
+            "thought": "Мы имеем быть уступающими к их требованиям целый [какой-то] год.",
+            "english": "We have been acquiescing to their demands for a year.",
+            "transcription": "[wи: хæв би:н æкwи**э**сиŋ ту ðээ дим**а**:ндз фо: э йиэ]"
+          },
+          {
+            "ours": "Она уже несколько месяцев уступает давлению?",
+            "thought": "Имеет она быть уступающей к [известному] давлению целые месяцы?",
+            "english": "Has she been acquiescing to the pressure for months?",
+            "transcription": "[хæз ши: би:н æкwи**э**сиŋ ту ðэ пр**э**шэ фо: манθс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been acquiescing",
+        "examples": [
+          {
+            "ours": "К декабрю мы будем уже год уступать их требованиям.",
+            "thought": "К декабрю мы будем иметь быть уступающими к их требованиям целый [какой-то] год.",
+            "english": "By December we will have been acquiescing to their demands for a year.",
+            "transcription": "[бай дис**э**мбэ wи: wил хæв би:н æкwи**э**сиŋ ту ðээ дим**а**:ндз фо: э йиэ]"
+          },
+          {
+            "ours": "К июню он будет уже два года уступать этим требованиям?",
+            "thought": "Будет он иметь быть уступающим к этим требованиям целых два года к июню?",
+            "english": "Will he have been acquiescing to these demands for two years by June?",
+            "transcription": "[wил хи: хæв би:н æкwи**э**сиŋ ту ðи:з дим**а**:ндз фо: ту: йиэз бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "Acquiesce не принимает прямого дополнения: говорят acquiesce in a decision или acquiesce to a request. Поэтому пассивная форма не образуется."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я думал, что она уступит его просьбе.",
+        "thought": "Я думал, она будет уступать к его просьбе.",
+        "english": "I thought she would acquiesce to his request.",
+        "transcription": "[ай θо:т ши: wуд æкwи**э**с ту хиз рикw**э**ст]"
+      },
+      {
+        "ours": "Они знали, что мы не примем это решение.",
+        "thought": "Они знали, мы будем не уступать в [известном] решении.",
+        "english": "They knew we would not acquiesce in the decision.",
+        "transcription": "[ðэй нью: wи: wуд нот æкwи**э**с ин ðэ дис**и**жн]"
+      },
+      {
+        "ours": "Ты думал, что он уступит их требованиям?",
+        "thought": "[Сделал] ты думать, он будет уступать к их требованиям?",
+        "english": "Did you think he would acquiesce to their demands?",
+        "transcription": "[дид ю: θинк хи: wуд æкwи**э**с ту ðээ дим**а**:ндз]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "decision",
+      "meaning": "решение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "decision"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "decisions"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "decision"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "decision"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "decision"
+        }
+      ]
+    },
+    {
+      "word": "demand",
+      "meaning": "требование",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "demand"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "demands"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "demands"
+        },
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "demands"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "demands"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "demands"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "demand"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "demand"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "demands"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "demands"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "demands"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "demands"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "demands"
+        }
+      ]
+    },
+    {
+      "word": "pressure",
+      "meaning": "давление",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "pressure"
+        }
+      ]
+    },
+    {
+      "word": "request",
+      "meaning": "просьба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "requests"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "request"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "request"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "requests"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "request"
+        }
+      ]
+    },
+    {
+      "word": "change",
+      "meaning": "изменение",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "changes"
+        }
+      ]
+    },
+    {
+      "word": "plan",
+      "meaning": "план",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "plan"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "совет",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "director",
+      "meaning": "директор",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "director"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "time"
+        },
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "colleague",
+      "meaning": "коллега",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "colleagues"
+        }
+      ]
+    },
+    {
+      "word": "management",
+      "meaning": "руководство",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "management"
+        }
+      ]
+    },
+    {
+      "word": "investor",
+      "meaning": "инвестор",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "investors"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "leader",
+      "meaning": "руководитель",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "leader"
+        }
+      ]
+    },
+    {
+      "word": "meeting",
+      "meaning": "встреча",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "meeting"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "proposal",
+      "meaning": "предложение",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "proposal"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "months"
+        }
+      ]
+    },
+    {
+      "word": "December",
+      "meaning": "декабрь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "December"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    }
+  ]
+}

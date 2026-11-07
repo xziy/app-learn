@@ -1,0 +1,1086 @@
+{
+  "spec": 3,
+  "verb": "include",
+  "forms": {
+    "base": [
+      {
+        "word": "include",
+        "transcription": "[инкл**у**:д]"
+      }
+    ],
+    "past": [
+      {
+        "word": "included",
+        "transcription": "[инкл**у**:дид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "included",
+        "transcription": "[инкл**у**:дид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "including",
+        "transcription": "[инкл**у**:диŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "includes",
+        "transcription": "[инкл**у**:дз]"
+      }
+    ]
+  },
+  "meaning": "включать в себя, включать в состав",
+  "notes": "правильный переходный глагол; возможны состояние и процесс включения, есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "included",
+        "examples": [
+          {
+            "ours": "Вчера я включил топливо в бюджет.",
+            "thought": "Вчера я включил топливо в [известный] бюджет.",
+            "english": "Yesterday I included fuel in the budget.",
+            "transcription": "[й**э**стэдэй ай инкл**у**:дид фь**ю**:эл ин ðэ б**а**джит]"
+          },
+          {
+            "ours": "Ты включил карту в комплект?",
+            "thought": "[Сделал] ты включать [известную] карту в [известный] комплект?",
+            "english": "Did you include the chart in the kit?",
+            "transcription": "[дид ю: инкл**у**:д ðэ ча:т ин ðэ кит]"
+          },
+          {
+            "ours": "Цена не включала страховку.",
+            "thought": "[Известная] цена [сделала] не включать страховку.",
+            "english": "The price did not include insurance.",
+            "transcription": "[ðэ прайс дид нот инкл**у**:д инш**у**эрэнс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "include, includes",
+        "examples": [
+          {
+            "ours": "Цена включает топливо.",
+            "thought": "[Известная] цена включает топливо.",
+            "english": "The price includes fuel.",
+            "transcription": "[ðэ прайс инкл**у**:дз фь**ю**:эл]"
+          },
+          {
+            "ours": "В стоимость входят жилеты?",
+            "thought": "[Делает] [известная] цена включать спасательные жилеты?",
+            "english": "Does the price include life jackets?",
+            "transcription": "[даз ðэ прайс инкл**у**:д лайф дж**æ**китс]"
+          },
+          {
+            "ours": "Маршрут не включает ночной переход.",
+            "thought": "[Известный] маршрут [делает] не включать [какой-то] ночной переход.",
+            "english": "The route does not include a night passage.",
+            "transcription": "[ðэ ру:т даз нот инкл**у**:д э найт п**æ**сидж]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will include",
+        "examples": [
+          {
+            "ours": "Завтра мы включим топливо в бюджет.",
+            "thought": "Завтра мы будем включать топливо в [известный] бюджет.",
+            "english": "Tomorrow we will include fuel in the budget.",
+            "transcription": "[тэм**о**роу wи: wил инкл**у**:д фь**ю**:эл ин ðэ б**а**джит]"
+          },
+          {
+            "ours": "Ты включишь карту в комплект?",
+            "thought": "Будешь ты включать [известную] карту в [известный] комплект?",
+            "english": "Will you include the chart in the kit?",
+            "transcription": "[wил ю: инкл**у**:д ðэ ча:т ин ðэ кит]"
+          },
+          {
+            "ours": "Цена не будет включать страховку.",
+            "thought": "[Известная] цена будет не включать страховку.",
+            "english": "The price will not include insurance.",
+            "transcription": "[ðэ прайс wил нот инкл**у**:д инш**у**эрэнс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were including",
+        "examples": [
+          {
+            "ours": "Вчера мы включали предложения команды в план.",
+            "thought": "Вчера мы были включающими командные предложения в [известный] план.",
+            "english": "Yesterday we were including crew suggestions in the plan.",
+            "transcription": "[й**э**стэдэй wи: wœ: инкл**у**:диŋ кру: сэдж**э**счэнз ин ðэ плæн]"
+          },
+          {
+            "ours": "Ты включал фотографии яхт в отчёт, когда я вошёл?",
+            "thought": "Был ты включающим яхтенные фотографии в [известный] отчёт, когда я вошёл?",
+            "english": "Were you including yacht photos in the report when I entered?",
+            "transcription": "[wœ: ю: инкл**у**:диŋ йот ф**о**утоуз ин ðэ рип**о**:т wэн ай **э**нтэд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are including",
+        "examples": [
+          {
+            "ours": "Мы сейчас включаем новые остановки в маршрут.",
+            "thought": "Мы являемся включающими новые остановки в [известный] маршрут сейчас.",
+            "english": "We are including new stops in the route now.",
+            "transcription": "[wи: а: инкл**у**:диŋ нью: стопс ин ðэ ру:т нау]"
+          },
+          {
+            "ours": "Ты сейчас включаешь жилеты в список?",
+            "thought": "Являешься ты включающим спасательные жилеты в [известный] список сейчас?",
+            "english": "Are you including life jackets in the list now?",
+            "transcription": "[а: ю: инкл**у**:диŋ лайф дж**æ**китс ин ðэ лист нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be including",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем включать поправки в маршрут.",
+            "thought": "Завтра утром мы будем быть включающими поправки в [известный] маршрут.",
+            "english": "Tomorrow morning we will be including changes in the route.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: инкл**у**:диŋ ч**э**йнджиз ин ðэ ру:т]"
+          },
+          {
+            "ours": "Ты будешь включать фотографии в отчёт вечером?",
+            "thought": "Будешь ты быть включающим фотографии в [известный] отчёт этим вечером?",
+            "english": "Will you be including photos in the report this evening?",
+            "transcription": "[wил ю: би: инкл**у**:диŋ ф**о**утоуз ин ðэ рип**о**:т ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had included",
+        "examples": [
+          {
+            "ours": "К полудню мы уже включили топливо в бюджет.",
+            "thought": "К полудню мы имели уже включённым топливо в [известный] бюджет.",
+            "english": "By noon we had already included fuel in the budget.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди инкл**у**:дид фь**ю**:эл ин ðэ б**а**джит]"
+          },
+          {
+            "ours": "Ты включил карту в комплект до отхода?",
+            "thought": "Имел ты включённой [известную] карту в [известный] комплект перед отходом?",
+            "english": "Had you included the chart in the kit before departure?",
+            "transcription": "[хæд ю: инкл**у**:дид ðэ ча:т ин ðэ кит биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has included",
+        "examples": [
+          {
+            "ours": "Мы уже включили стоянку в маршрут.",
+            "thought": "Мы имеем уже включённой [известную] стоянку в [известный] маршрут.",
+            "english": "We have already included the stop in the route.",
+            "transcription": "[wи: хæв о:лр**э**ди инкл**у**:дид ðэ стоп ин ðэ ру:т]"
+          },
+          {
+            "ours": "Ты уже включил жилеты в список?",
+            "thought": "Имеешь ты включёнными спасательные жилеты в [известный] список уже?",
+            "english": "Have you included life jackets in the list yet?",
+            "transcription": "[хæв ю: инкл**у**:дид лайф дж**æ**китс ин ðэ лист йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have included",
+        "examples": [
+          {
+            "ours": "К полудню мы включим топливо в бюджет.",
+            "thought": "К полудню мы будем иметь включённым топливо в [известный] бюджет.",
+            "english": "By noon we will have included fuel in the budget.",
+            "transcription": "[бай ну:н wи: wил хæв инкл**у**:дид фь**ю**:эл ин ðэ б**а**джит]"
+          },
+          {
+            "ours": "Ты включишь жилеты в список к пяти?",
+            "thought": "Будешь ты иметь включёнными спасательные жилеты в [известный] список к пяти?",
+            "english": "Will you have included life jackets in the list by five?",
+            "transcription": "[wил ю: хæв инкл**у**:дид лайф дж**æ**китс ин ðэ лист бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been including",
+        "examples": [
+          {
+            "ours": "До прошлого года компания десять лет включала топливо в цену.",
+            "thought": "[Известная] компания имела быть включающей топливо в [известную] цену целых десять лет перед прошлым годом.",
+            "english": "The company had been including fuel in the price for ten years before last year.",
+            "transcription": "[ðэ к**а**мпэни хæд би:н инкл**у**:диŋ фь**ю**:эл ин ðэ прайс фо: тэн йиэз биф**о**: ла:ст йиэ]"
+          },
+          {
+            "ours": "Ты включал марину в маршрут пять лет до переезда?",
+            "thought": "Имел ты быть включающим [известную] марину в твой маршрут целых пять лет перед переездом?",
+            "english": "Had you been including the marina in your route for five years before moving?",
+            "transcription": "[хæд ю: би:н инкл**у**:диŋ ðэ мэр**и**:нэ ин йо: ру:т фо: файв йиэз биф**о**: м**у**:виŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been including",
+        "examples": [
+          {
+            "ours": "Компания включает топливо в цену уже десять лет.",
+            "thought": "[Известная] компания имеет быть включающей топливо в [известную] цену целых десять лет.",
+            "english": "The company has been including fuel in the price for ten years.",
+            "transcription": "[ðэ к**а**мпэни хæз би:н инкл**у**:диŋ фь**ю**:эл ин ðэ прайс фо: тэн йиэз]"
+          },
+          {
+            "ours": "Ты включаешь эту марину в маршрут уже пять лет?",
+            "thought": "Имеешь ты быть включающим эту марину в твой маршрут целых пять лет?",
+            "english": "Have you been including this marina in your route for five years?",
+            "transcription": "[хæв ю: би:н инкл**у**:диŋ ðис мэр**и**:нэ ин йо: ру:т фо: файв йиэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been including",
+        "examples": [
+          {
+            "ours": "К июню компания будет включать топливо в цену уже десять лет.",
+            "thought": "К июню [известная] компания будет иметь быть включающей топливо в [известную] цену целых десять лет.",
+            "english": "By June the company will have been including fuel in the price for ten years.",
+            "transcription": "[бай джу:н ðэ к**а**мпэни wил хæв би:н инкл**у**:диŋ фь**ю**:эл ин ðэ прайс фо: тэн йиэз]"
+          },
+          {
+            "ours": "К июню ты будешь включать эту марину в маршрут уже пять лет?",
+            "thought": "Будешь ты иметь быть включающим эту марину в твой маршрут целых пять лет к июню?",
+            "english": "Will you have been including this marina in your route for five years by June?",
+            "transcription": "[wил ю: хæв би:н инкл**у**:диŋ ðис мэр**и**:нэ ин йо: ру:т фо: файв йиэз бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were included",
+        "examples": [
+          {
+            "ours": "Топливо включили в цену.",
+            "thought": "Топливо было включено в [известную] цену.",
+            "english": "Fuel was included in the price.",
+            "transcription": "[фь**ю**:эл wоз инкл**у**:дид ин ðэ прайс]"
+          },
+          {
+            "ours": "Жилеты были включены в стоимость?",
+            "thought": "Были спасательные жилеты включены в [известную] цену?",
+            "english": "Were life jackets included in the price?",
+            "transcription": "[wœ: лайф дж**æ**китс инкл**у**:дид ин ðэ прайс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are included",
+        "examples": [
+          {
+            "ours": "Топливо входит в стоимость.",
+            "thought": "Топливо есть включено в [известную] цену.",
+            "english": "Fuel is included in the price.",
+            "transcription": "[фь**ю**:эл из инкл**у**:дид ин ðэ прайс]"
+          },
+          {
+            "ours": "Страховка включена в стоимость?",
+            "thought": "Есть страховка включена в [известную] цену?",
+            "english": "Is insurance included in the price?",
+            "transcription": "[из инш**у**эрэнс инкл**у**:дид ин ðэ прайс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be included",
+        "examples": [
+          {
+            "ours": "Топливо включат в стоимость.",
+            "thought": "Топливо будет быть включено в [известную] цену.",
+            "english": "Fuel will be included in the price.",
+            "transcription": "[фь**ю**:эл wил би: инкл**у**:дид ин ðэ прайс]"
+          },
+          {
+            "ours": "Карту включат в комплект?",
+            "thought": "Будет [известная] карта быть включена в [известный] комплект?",
+            "english": "Will the chart be included in the kit?",
+            "transcription": "[wил ðэ ча:т би: инкл**у**:дид ин ðэ кит]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being included",
+        "examples": [
+          {
+            "ours": "Когда я вошёл, новые остановки включали в маршрут.",
+            "thought": "Новые остановки были «долго» включены в [известный] маршрут, когда я вошёл.",
+            "english": "New stops were being included in the route when I entered.",
+            "transcription": "[нью: стопс wœ: б**и**:иŋ инкл**у**:дид ин ðэ ру:т wэн ай **э**нтэд]"
+          },
+          {
+            "ours": "Когда ты пришёл, фотографии включали в отчёт?",
+            "thought": "Были фотографии «долго» включены в [известный] отчёт, когда ты пришёл?",
+            "english": "Were photos being included in the report when you arrived?",
+            "transcription": "[wœ: ф**о**утоуз б**и**:иŋ инкл**у**:дид ин ðэ рип**о**:т wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being included",
+        "examples": [
+          {
+            "ours": "Новые остановки сейчас включают в маршрут.",
+            "thought": "Новые остановки есть «долго» включены в [известный] маршрут сейчас.",
+            "english": "New stops are being included in the route now.",
+            "transcription": "[нью: стопс а: б**и**:иŋ инкл**у**:дид ин ðэ ру:т нау]"
+          },
+          {
+            "ours": "Фотографии сейчас включают в отчёт?",
+            "thought": "Есть фотографии «долго» включены в [известный] отчёт сейчас?",
+            "english": "Are photos being included in the report now?",
+            "transcription": "[а: ф**о**утоуз б**и**:иŋ инкл**у**:дид ин ðэ рип**о**:т нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be including",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут включать поправки в маршрут.",
+            "thought": "Завтра утром они будут быть включающими поправки в [известный] маршрут.",
+            "english": "Tomorrow morning they will be including changes in the route.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: инкл**у**:диŋ ч**э**йнджиз ин ðэ ру:т]"
+          },
+          {
+            "ours": "Они будут включать фотографии в отчёт вечером?",
+            "thought": "Будут они быть включающими фотографии в [известный] отчёт этим вечером?",
+            "english": "Will they be including photos in the report this evening?",
+            "transcription": "[wил ðэй би: инкл**у**:диŋ ф**о**утоуз ин ðэ рип**о**:т ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been included",
+        "examples": [
+          {
+            "ours": "К полудню топливо уже включили в бюджет.",
+            "thought": "К полудню топливо имело уже быть включено в [известный] бюджет.",
+            "english": "By noon fuel had already been included in the budget.",
+            "transcription": "[бай ну:н фь**ю**:эл хæд о:лр**э**ди би:н инкл**у**:дид ин ðэ б**а**джит]"
+          },
+          {
+            "ours": "Карту включили в комплект до отхода?",
+            "thought": "Имела [известная] карта быть включена в [известный] комплект перед отходом?",
+            "english": "Had the chart been included in the kit before departure?",
+            "transcription": "[хæд ðэ ча:т би:н инкл**у**:дид ин ðэ кит биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been included",
+        "examples": [
+          {
+            "ours": "Стоянку уже включили в маршрут.",
+            "thought": "[Известная] стоянка имеет уже быть включена в [известный] маршрут.",
+            "english": "The stop has already been included in the route.",
+            "transcription": "[ðэ стоп хæз о:лр**э**ди би:н инкл**у**:дид ин ðэ ру:т]"
+          },
+          {
+            "ours": "Жилеты уже включили в список?",
+            "thought": "Имеют спасательные жилеты быть включены в [известный] список уже?",
+            "english": "Have life jackets been included in the list yet?",
+            "transcription": "[хæв лайф дж**æ**китс би:н инкл**у**:дид ин ðэ лист йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been included",
+        "examples": [
+          {
+            "ours": "К полудню топливо включат в бюджет.",
+            "thought": "К полудню топливо будет иметь быть включено в [известный] бюджет.",
+            "english": "By noon fuel will have been included in the budget.",
+            "transcription": "[бай ну:н фь**ю**:эл wил хæв би:н инкл**у**:дид ин ðэ б**а**джит]"
+          },
+          {
+            "ours": "Жилеты включат в список к пяти?",
+            "thought": "Будут спасательные жилеты иметь быть включены в [известный] список к пяти?",
+            "english": "Will life jackets have been included in the list by five?",
+            "transcription": "[wил лайф дж**æ**китс хæв би:н инкл**у**:дид ин ðэ лист бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been including fuel in the price."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что цена будет включать топливо.",
+        "thought": "Я знал, [известная] цена будет включать топливо.",
+        "english": "I knew the price would include fuel.",
+        "transcription": "[ай нью: ðэ прайс wуд инкл**у**:д фь**ю**:эл]"
+      },
+      {
+        "ours": "Он думал, что мы не включим карту в комплект.",
+        "thought": "Он думал, мы будем не включать [известную] карту в [известный] комплект.",
+        "english": "He thought we would not include the chart in the kit.",
+        "transcription": "[хи: θо:т wи: wуд нот инкл**у**:д ðэ ча:т ин ðэ кит]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "fuel",
+      "meaning": "топливо",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Fuel"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Fuel"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Fuel"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "fuel"
+        }
+      ]
+    },
+    {
+      "word": "budget",
+      "meaning": "бюджет",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "budget"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "budget"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "budget"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "budget"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "budget"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "budget"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "kit",
+      "meaning": "комплект",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "kit"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "kit"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "kit"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "kit"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "kit"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "kit"
+        }
+      ]
+    },
+    {
+      "word": "price",
+      "meaning": "цена",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "price"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "price"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "price"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "price"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "price"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "price"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "price"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "price"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "price"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "price"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "price"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "price"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "price"
+        }
+      ]
+    },
+    {
+      "word": "insurance",
+      "meaning": "страховка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "insurance"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "insurance"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "insurance"
+        }
+      ]
+    },
+    {
+      "word": "life jacket",
+      "meaning": "спасательный жилет",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "life jackets"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "passage",
+      "meaning": "морской переход",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "passage"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "suggestion",
+      "meaning": "предложение",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "suggestions"
+        }
+      ]
+    },
+    {
+      "word": "plan",
+      "meaning": "план",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "plan"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "photo",
+      "meaning": "фотография",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "photos"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "photos"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "photos"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "photos"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "photos"
+        }
+      ]
+    },
+    {
+      "word": "report",
+      "meaning": "отчёт",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "report"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "report"
+        }
+      ]
+    },
+    {
+      "word": "stop",
+      "meaning": "остановка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "stops"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "stop"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "stops"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "stops"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "stop"
+        }
+      ]
+    },
+    {
+      "word": "list",
+      "meaning": "список",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "list"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "list"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "list"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "list"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "list"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "change",
+      "meaning": "поправка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "changes"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "changes"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "company",
+      "meaning": "компания",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "company"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "company"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "company"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    }
+  ]
+}

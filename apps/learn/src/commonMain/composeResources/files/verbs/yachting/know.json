@@ -1,0 +1,684 @@
+{
+  "spec": 3,
+  "verb": "know",
+  "forms": {
+    "base": [
+      {
+        "word": "know",
+        "transcription": "[ноу]"
+      }
+    ],
+    "past": [
+      {
+        "word": "knew",
+        "transcription": "[нью:]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "known",
+        "transcription": "[ноун]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "knowing",
+        "transcription": "[н**о**уиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "knows",
+        "transcription": "[ноуз]"
+      }
+    ]
+  },
+  "meaning": "знать, быть знакомым",
+  "notes": "неправильный глагол состояния; переходный, возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "knew",
+        "examples": [
+          {
+            "ours": "Я знал маршрут.",
+            "thought": "Я знал [известный] маршрут.",
+            "english": "I knew the route.",
+            "transcription": "[ай нью: ðэ ру:т]"
+          },
+          {
+            "ours": "Шкипер не знал гавань.",
+            "thought": "[Известный] шкипер [сделал] не знать [известную] гавань.",
+            "english": "The skipper did not know the harbor.",
+            "transcription": "[ðэ ск**и**пэ дид нот ноу ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Экипаж знал курс?",
+            "thought": "[Сделал] [известный] экипаж знать [известный] курс?",
+            "english": "Did the crew know the course?",
+            "transcription": "[дид ðэ кру: ноу ðэ ко:с]"
+          }
+        ]
+      },
+      "present": {
+        "form": "know, knows",
+        "examples": [
+          {
+            "ours": "Я знаю этого моряка.",
+            "thought": "Я знаю этого моряка.",
+            "english": "I know this sailor.",
+            "transcription": "[ай ноу ðис с**э**йлэ]"
+          },
+          {
+            "ours": "Она не знает правила.",
+            "thought": "Она [делает] не знать [известное] правило.",
+            "english": "She does not know the rule.",
+            "transcription": "[ши: даз нот ноу ðэ ру:л]"
+          },
+          {
+            "ours": "Ты знаешь эту марину?",
+            "thought": "[Делаешь] ты знать эту марину?",
+            "english": "Do you know this marina?",
+            "transcription": "[ду: ю: ноу ðис мэр**и**:нэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will know",
+        "examples": [
+          {
+            "ours": "Завтра мы узнаем курс.",
+            "thought": "Завтра мы будем знать [известный] курс.",
+            "english": "Tomorrow we will know the course.",
+            "transcription": "[тэм**о**роу wи: wил ноу ðэ ко:с]"
+          },
+          {
+            "ours": "Он не узнает маршрут до гонки.",
+            "thought": "Он будет не знать [известный] маршрут перед [известной] гонкой.",
+            "english": "He will not know the route before the race.",
+            "transcription": "[хи: wил нот ноу ðэ ру:т биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Вы узнаете результаты завтра?",
+            "thought": "Будете вы знать [известные] результаты завтра?",
+            "english": "Will you know the results tomorrow?",
+            "transcription": "[wил ю: ноу ðэ риз**а**лтс тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had known",
+        "examples": [
+          {
+            "ours": "К тому времени я знал шкипера уже два года.",
+            "thought": "К тогда я имел знанным [известного] шкипера целых два года.",
+            "english": "By then I had known the skipper for two years.",
+            "transcription": "[бай ðэн ай хæд ноун ðэ ск**и**пэ фо: ту: йиэз]"
+          },
+          {
+            "ours": "Она знала эту лодку два года к началу гонки?",
+            "thought": "Имела она знанной эту лодку целых два года к [известной] гонке?",
+            "english": "Had she known this boat for two years by the race?",
+            "transcription": "[хæд ши: ноун ðис боут фо: ту: йиэз бай ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has known",
+        "examples": [
+          {
+            "ours": "Я знаю это побережье много лет.",
+            "thought": "Я имею знанным это побережье целые годы.",
+            "english": "I have known this coast for years.",
+            "transcription": "[ай хæв ноун ðис коуст фо: йиэз]"
+          },
+          {
+            "ours": "Ты давно знаешь этого шкипера?",
+            "thought": "Имеешь ты знанным этого шкипера целых два года?",
+            "english": "Have you known this skipper for two years?",
+            "transcription": "[хæв ю: ноун ðис ск**и**пэ фо: ту: йиэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have known",
+        "examples": [
+          {
+            "ours": "К следующему сезону я буду знать шкипера десять лет.",
+            "thought": "К следующему сезону я буду иметь знанным [известного] шкипера целых десять лет.",
+            "english": "By next season I will have known the skipper for ten years.",
+            "transcription": "[бай нэкст с**и**:зн ай wил хæв ноун ðэ ск**и**пэ фо: тэн йиэз]"
+          },
+          {
+            "ours": "К следующему сезону ты будешь знать экипаж два года?",
+            "thought": "Будешь ты иметь знанным [известный] экипаж целых два года к следующему сезону?",
+            "english": "Will you have known the crew for two years by next season?",
+            "transcription": "[wил ю: хæв ноун ðэ кру: фо: ту: йиэз бай нэкст с**и**:зн]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Know в значении «знать» обозначает состояние и обычно не употребляется в Continuous. Вместо этого: I know the route."
+    },
+    "perfect_continuous": {
+      "not_possible": "Know в значении «знать» обычно не употребляется в Perfect Continuous. Вместо этого: I have known the skipper for years."
+    }
+  },
+  "passive": {
+    "continuous": {
+      "not_possible": "Пассив Continuous с know в значении состояния звучит неестественно. Вместо этого: The bay is known to sailors."
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив Perfect Continuous практически не употребляется. Вместо этого: The bay has been known to sailors for years."
+    },
+    "simple": {
+      "past": {
+        "form": "was/were known",
+        "examples": [
+          {
+            "ours": "Эту бухту знали моряки.",
+            "thought": "Эта бухта была известна к морякам.",
+            "english": "This bay was known to sailors.",
+            "transcription": "[ðис бэй wоз ноун ту с**э**йлэз]"
+          },
+          {
+            "ours": "Этот риф не был известен команде.",
+            "thought": "Этот риф был не известен к [известному] экипажу.",
+            "english": "This reef was not known to the crew.",
+            "transcription": "[ðис ри:ф wоз нот ноун ту ðэ кру:]"
+          },
+          {
+            "ours": "Эта гавань была известна морякам?",
+            "thought": "Была эта гавань известна к морякам?",
+            "english": "Was this harbor known to sailors?",
+            "transcription": "[wоз ðис х**а**:бэ ноун ту с**э**йлэз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are known",
+        "examples": [
+          {
+            "ours": "Эта бухта известна морякам.",
+            "thought": "Эта бухта есть известна к морякам.",
+            "english": "This bay is known to sailors.",
+            "transcription": "[ðис бэй из ноун ту с**э**йлэз]"
+          },
+          {
+            "ours": "Этот риф не известен экипажу.",
+            "thought": "Этот риф есть не известен к [известному] экипажу.",
+            "english": "This reef is not known to the crew.",
+            "transcription": "[ðис ри:ф из нот ноун ту ðэ кру:]"
+          },
+          {
+            "ours": "Эта гавань известна морякам?",
+            "thought": "Есть эта гавань известна к морякам?",
+            "english": "Is this harbor known to sailors?",
+            "transcription": "[из ðис х**а**:бэ ноун ту с**э**йлэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be known",
+        "examples": [
+          {
+            "ours": "Скоро маршрут узнают все моряки.",
+            "thought": "[Известный] маршрут будет быть известен ко всем морякам скоро.",
+            "english": "The route will be known to all sailors soon.",
+            "transcription": "[ðэ ру:т wил би: ноун ту о:л с**э**йлэз су:н]"
+          },
+          {
+            "ours": "Результат ещё не будет известен экипажу.",
+            "thought": "[Известный] результат будет не быть известен к [известному] экипажу ещё.",
+            "english": "The result will not be known to the crew yet.",
+            "transcription": "[ðэ риз**а**лт wил нот би: ноун ту ðэ кру: йэт]"
+          },
+          {
+            "ours": "Завтра маршрут будет известен экипажу?",
+            "thought": "Будет [известный] маршрут быть известен к [известному] экипажу завтра?",
+            "english": "Will the route be known to the crew tomorrow?",
+            "transcription": "[wил ðэ ру:т би: ноун ту ðэ кру: тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been known",
+        "examples": [
+          {
+            "ours": "К тому времени бухта была известна морякам много лет.",
+            "thought": "К тогда [известная] бухта имела быть известна к морякам целые годы.",
+            "english": "By then the bay had been known to sailors for years.",
+            "transcription": "[бай ðэн ðэ бэй хæд би:н ноун ту с**э**йлэз фо: йиэз]"
+          },
+          {
+            "ours": "К тому времени риф был известен экипажу два года?",
+            "thought": "Имел [известный] риф быть известен к [известному] экипажу целых два года к тогда?",
+            "english": "Had the reef been known to the crew for two years by then?",
+            "transcription": "[хæд ðэ ри:ф би:н ноун ту ðэ кру: фо: ту: йиэз бай ðэн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been known",
+        "examples": [
+          {
+            "ours": "Эта бухта известна морякам много лет.",
+            "thought": "Эта бухта имеет быть известна к морякам целые годы.",
+            "english": "This bay has been known to sailors for years.",
+            "transcription": "[ðис бэй хæз би:н ноун ту с**э**йлэз фо: йиэз]"
+          },
+          {
+            "ours": "Этот риф известен экипажу уже два года?",
+            "thought": "Имеет этот риф быть известен к [известному] экипажу целых два года?",
+            "english": "Has this reef been known to the crew for two years?",
+            "transcription": "[хæз ðис ри:ф би:н ноун ту ðэ кру: фо: ту: йиэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been known",
+        "examples": [
+          {
+            "ours": "К следующему сезону риф будет известен экипажу два года.",
+            "thought": "К следующему сезону [известный] риф будет иметь быть известен к [известному] экипажу целых два года.",
+            "english": "By next season the reef will have been known to the crew for two years.",
+            "transcription": "[бай нэкст с**и**:зн ðэ ри:ф wил хæв би:н ноун ту ðэ кру: фо: ту: йиэз]"
+          },
+          {
+            "ours": "К следующему сезону бухта будет известна морякам десять лет?",
+            "thought": "Будет [известная] бухта иметь быть известна к морякам целых десять лет к следующему сезону?",
+            "english": "Will the bay have been known to sailors for ten years by next season?",
+            "transcription": "[wил ðэ бэй хæв би:н ноун ту с**э**йлэз фо: тэн йиэз бай нэкст с**и**:зн]"
+          }
+        ]
+      }
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я думал, что он будет знать курс.",
+        "thought": "Я думал, он будет знать [известный] курс.",
+        "english": "I thought he would know the course.",
+        "transcription": "[ай θо:т хи: wуд ноу ðэ ко:с]"
+      },
+      {
+        "ours": "Я думал, что она не будет знать маршрут.",
+        "thought": "Я думал, она будет не знать [известный] маршрут.",
+        "english": "I thought she would not know the route.",
+        "transcription": "[ай θо:т ши: wуд нот ноу ðэ ру:т]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "course",
+      "meaning": "курс",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "course"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "course"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "course"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "sailors"
+        }
+      ]
+    },
+    {
+      "word": "rule",
+      "meaning": "правило",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "rule"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "result",
+      "meaning": "результат",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "results"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "result"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "years"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "years"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "coast",
+      "meaning": "побережье",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "coast"
+        }
+      ]
+    },
+    {
+      "word": "season",
+      "meaning": "сезон",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "season"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "season"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "season"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "season"
+        }
+      ]
+    },
+    {
+      "word": "bay",
+      "meaning": "бухта",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "bay"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "bay"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "bay"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "bay"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "bay"
+        }
+      ]
+    },
+    {
+      "word": "reef",
+      "meaning": "риф",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "reef"
+        }
+      ]
+    }
+  ]
+}

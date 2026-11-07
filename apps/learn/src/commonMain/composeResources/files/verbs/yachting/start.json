@@ -1,0 +1,750 @@
+{
+  "spec": 3,
+  "verb": "start",
+  "forms": {
+    "base": [
+      {
+        "word": "start",
+        "transcription": "[ста:т]"
+      }
+    ],
+    "past": [
+      {
+        "word": "started",
+        "transcription": "[ст**а**:тид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "started",
+        "transcription": "[ст**а**:тид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "starting",
+        "transcription": "[ст**а**:тиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "starts",
+        "transcription": "[ста:тс]"
+      }
+    ]
+  },
+  "meaning": "начинать, начинаться, запускать",
+  "notes": "правильный глагол; бывает переходным и непереходным, переходное значение образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "started",
+        "examples": [
+          {
+            "ours": "Вчера мы начали ремонт.",
+            "thought": "Вчера мы начали [известные] ремонты.",
+            "english": "Yesterday we started the repairs.",
+            "transcription": "[й**э**стэдэй wи: ст**а**:тид ðэ рип**э**эз]"
+          },
+          {
+            "ours": "Ты завёл мотор?",
+            "thought": "[Сделал] ты запускать [известный] мотор?",
+            "english": "Did you start the engine?",
+            "transcription": "[дид ю: ста:т ðи **э**нджин]"
+          },
+          {
+            "ours": "Гонка не началась вовремя.",
+            "thought": "[Известная] гонка [сделала] не начинаться во время.",
+            "english": "The race did not start on time.",
+            "transcription": "[ðэ рэйс дид нот ста:т он тайм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "start, starts",
+        "examples": [
+          {
+            "ours": "Гонка начинается в полдень.",
+            "thought": "[Известная] гонка начинается в полдень.",
+            "english": "The race starts at noon.",
+            "transcription": "[ðэ рэйс ста:тс æт ну:н]"
+          },
+          {
+            "ours": "Ты запускаешь насос каждое утро?",
+            "thought": "[Делаешь] ты запускать [известный] насос каждое утро?",
+            "english": "Do you start the pump every morning?",
+            "transcription": "[ду: ю: ста:т ðэ памп **э**ври м**о**:ниŋ]"
+          },
+          {
+            "ours": "Мы не начинаем вахту до шести.",
+            "thought": "Мы [делаем] не начинать [известную] вахту перед шестью.",
+            "english": "We do not start the watch before six.",
+            "transcription": "[wи: ду: нот ста:т ðэ wоч биф**о**: сикс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will start",
+        "examples": [
+          {
+            "ours": "Завтра они начнут ремонт паруса.",
+            "thought": "Завтра они будут начинать [известные] парусные ремонты.",
+            "english": "Tomorrow they will start the sail repairs.",
+            "transcription": "[тэм**о**роу ðэй wил ста:т ðэ сэйл рип**э**эз]"
+          },
+          {
+            "ours": "Ты заведёшь мотор?",
+            "thought": "Будешь ты запускать [известный] мотор?",
+            "english": "Will you start the engine?",
+            "transcription": "[wил ю: ста:т ðи **э**нджин]"
+          },
+          {
+            "ours": "Гонка не начнётся без ветра.",
+            "thought": "[Известная] гонка будет не начинаться без ветра.",
+            "english": "The race will not start without wind.",
+            "transcription": "[ðэ рэйс wил нот ста:т wиð**а**ут wинд]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were starting",
+        "examples": [
+          {
+            "ours": "Гонка начиналась, когда мы прибыли в марину.",
+            "thought": "[Известная] гонка была начинающейся, когда мы достигли [известной] марины.",
+            "english": "The race was starting when we reached the marina.",
+            "transcription": "[ðэ рэйс wоз ст**а**:тиŋ wэн wи: ри:чт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Ты запускал двигатель, когда я вошёл?",
+            "thought": "Был ты запускающим [известный] двигатель, когда я вошёл?",
+            "english": "Were you starting the engine when I entered?",
+            "transcription": "[wœ: ю: ст**а**:тиŋ ðи **э**нджин wэн ай **э**нтэд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are starting",
+        "examples": [
+          {
+            "ours": "Мы сейчас начинаем инструктаж.",
+            "thought": "Мы являемся начинающими [известный] инструктаж сейчас.",
+            "english": "We are starting the briefing now.",
+            "transcription": "[wи: а: ст**а**:тиŋ ðэ бр**и**:фиŋ нау]"
+          },
+          {
+            "ours": "Гонка сейчас начинается?",
+            "thought": "Является [известная] гонка начинающейся сейчас?",
+            "english": "Is the race starting now?",
+            "transcription": "[из ðэ рэйс ст**а**:тиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be starting",
+        "examples": [
+          {
+            "ours": "Завтра утром мы начнём проверять такелаж.",
+            "thought": "Завтра утром мы будем быть начинающими [известную] такелажную проверку.",
+            "english": "Tomorrow morning we will be starting the rigging inspection.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: ст**а**:тиŋ ðэ р**и**гиŋ инсп**э**кшн]"
+          },
+          {
+            "ours": "Ты будешь запускать мотор, когда они прибудут?",
+            "thought": "Будешь ты быть запускающим [известный] мотор, когда они прибывают?",
+            "english": "Will you be starting the engine when they arrive?",
+            "transcription": "[wил ю: би: ст**а**:тиŋ ðи **э**нджин wэн ðэй эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had started",
+        "examples": [
+          {
+            "ours": "К полудню мы уже начали ремонт.",
+            "thought": "К полудню мы имели уже начатыми [известные] ремонты.",
+            "english": "By noon we had already started the repairs.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди ст**а**:тид ðэ рип**э**эз]"
+          },
+          {
+            "ours": "Ты завёл двигатель до отхода?",
+            "thought": "Имел ты запущенным [известный] двигатель перед отходом?",
+            "english": "Had you started the engine before departure?",
+            "transcription": "[хæд ю: ст**а**:тид ðи **э**нджин биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has started",
+        "examples": [
+          {
+            "ours": "Мы уже начали инструктаж.",
+            "thought": "Мы имеем уже начатым [известный] инструктаж.",
+            "english": "We have already started the briefing.",
+            "transcription": "[wи: хæв о:лр**э**ди ст**а**:тид ðэ бр**и**:фиŋ]"
+          },
+          {
+            "ours": "Ты уже завёл мотор?",
+            "thought": "Имеешь ты запущенным [известный] мотор уже?",
+            "english": "Have you started the engine yet?",
+            "transcription": "[хæв ю: ст**а**:тид ðи **э**нджин йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have started",
+        "examples": [
+          {
+            "ours": "К полудню они начнут ремонт.",
+            "thought": "К полудню они будут иметь начатыми [известные] ремонты.",
+            "english": "By noon they will have started the repairs.",
+            "transcription": "[бай ну:н ðэй wил хæв ст**а**:тид ðэ рип**э**эз]"
+          },
+          {
+            "ours": "К пяти ты заведёшь мотор?",
+            "thought": "Будешь ты иметь запущенным [известный] мотор к пяти?",
+            "english": "Will you have started the engine by five?",
+            "transcription": "[wил ю: хæв ст**а**:тид ðи **э**нджин бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Start описывает начало действия, а не действие, которое длится часами. Для длительности естественнее: We have been repairing the sail for two hours."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were started",
+        "examples": [
+          {
+            "ours": "Вчера начали ремонт.",
+            "thought": "[Известные] ремонты были начаты вчера.",
+            "english": "The repairs were started yesterday.",
+            "transcription": "[ðэ рип**э**эз wœ: ст**а**:тид й**э**стэдэй]"
+          },
+          {
+            "ours": "Двигатель запустили до отхода?",
+            "thought": "Был [известный] двигатель запущен перед отходом?",
+            "english": "Was the engine started before departure?",
+            "transcription": "[wоз ðи **э**нджин ст**а**:тид биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are started",
+        "examples": [
+          {
+            "ours": "Двигатель запускают каждое утро.",
+            "thought": "[Известный] двигатель есть запущен каждое утро.",
+            "english": "The engine is started every morning.",
+            "transcription": "[ðи **э**нджин из ст**а**:тид **э**ври м**о**:ниŋ]"
+          },
+          {
+            "ours": "Насос запускают вручную?",
+            "thought": "Есть [известный] насос запущен вручную?",
+            "english": "Is the pump started manually?",
+            "transcription": "[из ðэ памп ст**а**:тид м**æ**ньюэли]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be started",
+        "examples": [
+          {
+            "ours": "Завтра начнут проверку снастей.",
+            "thought": "[Известная] такелажная проверка будет быть начата завтра.",
+            "english": "The rigging inspection will be started tomorrow.",
+            "transcription": "[ðэ р**и**гиŋ инсп**э**кшн wил би: ст**а**:тид тэм**о**роу]"
+          },
+          {
+            "ours": "Двигатель запустят до выхода?",
+            "thought": "Будет [известный] двигатель быть запущен перед выходом?",
+            "english": "Will the engine be started before departure?",
+            "transcription": "[wил ðи **э**нджин би: ст**а**:тид биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being started",
+        "examples": [
+          {
+            "ours": "Когда я вошёл, двигатель запускали.",
+            "thought": "[Известный] двигатель был «долго» запущен, когда я вошёл.",
+            "english": "The engine was being started when I entered.",
+            "transcription": "[ðи **э**нджин wоз б**и**:иŋ ст**а**:тид wэн ай **э**нтэд]"
+          },
+          {
+            "ours": "Когда вы пришли, запускали насосы?",
+            "thought": "Были [известные] насосы «долго» запущены, когда вы пришли?",
+            "english": "Were the pumps being started when you arrived?",
+            "transcription": "[wœ: ðэ пампс б**и**:иŋ ст**а**:тид wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being started",
+        "examples": [
+          {
+            "ours": "Двигатель сейчас запускают.",
+            "thought": "[Известный] двигатель есть «долго» запущен сейчас.",
+            "english": "The engine is being started now.",
+            "transcription": "[ðи **э**нджин из б**и**:иŋ ст**а**:тид нау]"
+          },
+          {
+            "ours": "Запасные насосы сейчас запускают?",
+            "thought": "Есть [известные] запасные насосы «долго» запущены сейчас?",
+            "english": "Are the spare pumps being started now?",
+            "transcription": "[а: ðэ спээ пампс б**и**:иŋ ст**а**:тид нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be starting",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут запускать двигатели.",
+            "thought": "Завтра утром они будут быть запускающими [известные] двигатели.",
+            "english": "Tomorrow morning they will be starting the engines.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: ст**а**:тиŋ ðи **э**нджинз]"
+          },
+          {
+            "ours": "Они будут запускать насос днём?",
+            "thought": "Будут они быть запускающими [известный] насос этим днём?",
+            "english": "Will they be starting the pump this afternoon?",
+            "transcription": "[wил ðэй би: ст**а**:тиŋ ðэ памп ðис а:фтэн**у**:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been started",
+        "examples": [
+          {
+            "ours": "К полудню ремонт уже начали.",
+            "thought": "К полудню [известные] ремонты имели уже быть начаты.",
+            "english": "By noon the repairs had already been started.",
+            "transcription": "[бай ну:н ðэ рип**э**эз хæд о:лр**э**ди би:н ст**а**:тид]"
+          },
+          {
+            "ours": "Мотор запустили до отхода?",
+            "thought": "Имел [известный] мотор быть запущен перед отходом?",
+            "english": "Had the engine been started before departure?",
+            "transcription": "[хæд ðи **э**нджин би:н ст**а**:тид биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been started",
+        "examples": [
+          {
+            "ours": "Проверку снастей уже начали.",
+            "thought": "[Известная] такелажная проверка имеет уже быть начата.",
+            "english": "The rigging inspection has already been started.",
+            "transcription": "[ðэ р**и**гиŋ инсп**э**кшн хæз о:лр**э**ди би:н ст**а**:тид]"
+          },
+          {
+            "ours": "Мотор уже запустили?",
+            "thought": "Имеет [известный] мотор быть запущен уже?",
+            "english": "Has the engine been started yet?",
+            "transcription": "[хæз ðи **э**нджин би:н ст**а**:тид йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been started",
+        "examples": [
+          {
+            "ours": "К полудню ремонт уже начнут.",
+            "thought": "К полудню [известные] ремонты будут иметь быть начаты.",
+            "english": "By noon the repairs will have been started.",
+            "transcription": "[бай ну:н ðэ рип**э**эз wил хæв би:н ст**а**:тид]"
+          },
+          {
+            "ours": "Мотор запустят к пяти?",
+            "thought": "Будет [известный] мотор иметь быть запущен к пяти?",
+            "english": "Will the engine have been started by five?",
+            "transcription": "[wил ðи **э**нджин хæв би:н ст**а**:тид бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Для длительного действия скажут: They have been repairing the sail."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что гонка начнётся в полдень.",
+        "thought": "Я знал, [известная] гонка будет начинаться в полдень.",
+        "english": "I knew the race would start at noon.",
+        "transcription": "[ай нью: ðэ рэйс wуд ста:т æт ну:н]"
+      },
+      {
+        "ours": "Он думал, что мы не заведём мотор.",
+        "thought": "Он думал, мы будем не запускать [известный] мотор.",
+        "english": "He thought we would not start the engine.",
+        "transcription": "[хи: θо:т wи: wуд нот ста:т ðи **э**нджин]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "repairs",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "repairs"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "engines"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "насос",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "pumps"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "pumps"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "watch",
+      "meaning": "вахта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "watch"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "briefing",
+      "meaning": "инструктаж",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "briefing"
+        }
+      ]
+    },
+    {
+      "word": "rigging",
+      "meaning": "такелаж",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "rigging"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "rigging"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "rigging"
+        }
+      ]
+    },
+    {
+      "word": "inspection",
+      "meaning": "проверка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "inspection"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "meaning": "время после полудня",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "afternoon"
+        }
+      ]
+    }
+  ]
+}

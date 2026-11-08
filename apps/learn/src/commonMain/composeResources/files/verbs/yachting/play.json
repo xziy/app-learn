@@ -1,5 +1,5 @@
 {
-  "spec": 3,
+  "spec": 4,
   "verb": "play",
   "forms": {
     "base": [
@@ -469,8 +469,9 @@
       ]
     },
     {
-      "word": "cards",
+      "word": "card",
       "meaning": "карты",
+      "sense": "playing",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
@@ -839,8 +840,8 @@
       ]
     },
     {
-      "word": "children",
-      "meaning": "дети",
+      "word": "child",
+      "meaning": "ребёнок",
       "used_in": [
         {
           "phrase": "active.continuous.past.0",

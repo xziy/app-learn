@@ -1,0 +1,1010 @@
+{
+  "spec": 4,
+  "verb": "admit",
+  "forms": {
+    "base": [
+      {
+        "word": "admit",
+        "transcription": "[эдм**и**т]"
+      }
+    ],
+    "past": [
+      {
+        "word": "admitted",
+        "transcription": "[эдм**и**тид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "admitted",
+        "transcription": "[эдм**и**тид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "admitting",
+        "transcription": "[эдм**и**тиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "admits",
+        "transcription": "[эдм**и**тс]"
+      }
+    ]
+  },
+  "meaning": "признавать, допускать",
+  "notes": "правильный переходный глагол; допускает пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "admitted",
+        "examples": [
+          {
+            "ours": "Вчера капитан признал ошибку.",
+            "thought": "Вчера [известный] капитан признал [известную] ошибку.",
+            "english": "Yesterday the skipper admitted the mistake.",
+            "transcription": "[й**э**стэдэй ðэ ск**и**пэ эдм**и**тид ðэ мист**э**йк]"
+          },
+          {
+            "ours": "Она не признала течь.",
+            "thought": "Она [сделала] не признавать [известную] течь.",
+            "english": "She did not admit the leak.",
+            "transcription": "[ши: дид нот эдм**и**т ðэ ли:к]"
+          },
+          {
+            "ours": "Клуб принял твою яхту?",
+            "thought": "[Сделал] [известный] клуб допускать твою яхту?",
+            "english": "Did the club admit your yacht?",
+            "transcription": "[дид ðэ клаб эдм**и**т йо: йот]"
+          }
+        ]
+      },
+      "present": {
+        "form": "admit, admits",
+        "examples": [
+          {
+            "ours": "Капитан признаёт ошибку.",
+            "thought": "[Известный] капитан признаёт [известную] ошибку.",
+            "english": "The skipper admits the mistake.",
+            "transcription": "[ðэ ск**и**пэ эдм**и**тс ðэ мист**э**йк]"
+          },
+          {
+            "ours": "Марина не принимает лодки ночью.",
+            "thought": "[Известная] марина [делает] не допускать лодки ночью.",
+            "english": "The marina does not admit boats at night.",
+            "transcription": "[ðэ мэр**и**:нэ даз нот эдм**и**т боутс æт найт]"
+          },
+          {
+            "ours": "Этот клуб принимает гостей?",
+            "thought": "[Делает] этот клуб допускать гостей?",
+            "english": "Does this club admit visitors?",
+            "transcription": "[даз ðис клаб эдм**и**т в**и**зитэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will admit",
+        "examples": [
+          {
+            "ours": "Завтра капитан признает ошибку.",
+            "thought": "Завтра [известный] капитан будет признавать [известную] ошибку.",
+            "english": "Tomorrow the skipper will admit the mistake.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил эдм**и**т ðэ мист**э**йк]"
+          },
+          {
+            "ours": "Марина не примет эту яхту.",
+            "thought": "[Известная] марина будет не допускать эту яхту.",
+            "english": "The marina will not admit this yacht.",
+            "transcription": "[ðэ мэр**и**:нэ wил нот эдм**и**т ðис йот]"
+          },
+          {
+            "ours": "Клуб примет гостей завтра?",
+            "thought": "Будет [известный] клуб допускать гостей завтра?",
+            "english": "Will the club admit visitors tomorrow?",
+            "transcription": "[wил ðэ клаб эдм**и**т в**и**зитэз тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were admitting",
+        "examples": [
+          {
+            "ours": "Вчера марина весь день принимала яхты.",
+            "thought": "Вчера [известная] марина была допускающей яхты весь день.",
+            "english": "Yesterday the marina was admitting yachts all day.",
+            "transcription": "[й**э**стэдэй ðэ мэр**и**:нэ wоз эдм**и**тиŋ йотс о:л дэй]"
+          },
+          {
+            "ours": "Клуб принимал гостей, когда ты прибыл?",
+            "thought": "Был [известный] клуб допускающим гостей, когда ты прибыл?",
+            "english": "Was the club admitting visitors when you arrived?",
+            "transcription": "[wоз ðэ клаб эдм**и**тиŋ в**и**зитэз wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are admitting",
+        "examples": [
+          {
+            "ours": "Марина сейчас принимает лодки.",
+            "thought": "[Известная] марина является допускающей лодки сейчас.",
+            "english": "The marina is admitting boats now.",
+            "transcription": "[ðэ мэр**и**:нэ из эдм**и**тиŋ боутс нау]"
+          },
+          {
+            "ours": "Клуб сейчас не принимает гостей.",
+            "thought": "[Известный] клуб является не допускающим гостей сейчас.",
+            "english": "The club is not admitting visitors now.",
+            "transcription": "[ðэ клаб из нот эдм**и**тиŋ в**и**зитэз нау]"
+          },
+          {
+            "ours": "Марина сейчас принимает яхты?",
+            "thought": "Является [известная] марина допускающей яхты сейчас?",
+            "english": "Is the marina admitting yachts now?",
+            "transcription": "[из ðэ мэр**и**:нэ эдм**и**тиŋ йотс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be admitting",
+        "examples": [
+          {
+            "ours": "Завтра марина весь день будет принимать яхты.",
+            "thought": "Завтра [известная] марина будет быть допускающей яхты весь день.",
+            "english": "Tomorrow the marina will be admitting yachts all day.",
+            "transcription": "[тэм**о**роу ðэ мэр**и**:нэ wил би: эдм**и**тиŋ йотс о:л дэй]"
+          },
+          {
+            "ours": "Клуб будет принимать гостей в пять?",
+            "thought": "Будет [известный] клуб быть допускающим гостей в пять?",
+            "english": "Will the club be admitting visitors at five?",
+            "transcription": "[wил ðэ клаб би: эдм**и**тиŋ в**и**зитэз æт файв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had admitted",
+        "examples": [
+          {
+            "ours": "К полудню капитан уже признал ошибку.",
+            "thought": "К полудню [известный] капитан имел уже признанной [известную] ошибку.",
+            "english": "By noon the skipper had already admitted the mistake.",
+            "transcription": "[бай ну:н ðэ ск**и**пэ хæд о:лр**э**ди эдм**и**тид ðэ мист**э**йк]"
+          },
+          {
+            "ours": "К тому времени марина ещё не приняла яхту.",
+            "thought": "К тогда [известная] марина имела не допущенной [известную] яхту ещё.",
+            "english": "By then the marina had not admitted the yacht yet.",
+            "transcription": "[бай ðэн ðэ мэр**и**:нэ хæд нот эдм**и**тид ðэ йот йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has admitted",
+        "examples": [
+          {
+            "ours": "Капитан уже признал ошибку.",
+            "thought": "[Известный] капитан имеет уже признанной [известную] ошибку.",
+            "english": "The skipper has already admitted the mistake.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди эдм**и**тид ðэ мист**э**йк]"
+          },
+          {
+            "ours": "Марина ещё не приняла яхту.",
+            "thought": "[Известная] марина имеет не допущенной [известную] яхту ещё.",
+            "english": "The marina has not admitted the yacht yet.",
+            "transcription": "[ðэ мэр**и**:нэ хæз нот эдм**и**тид ðэ йот йэт]"
+          },
+          {
+            "ours": "Клуб уже принял гостей?",
+            "thought": "Имеет [известный] клуб допущенными гостей уже?",
+            "english": "Has the club admitted visitors yet?",
+            "transcription": "[хæз ðэ клаб эдм**и**тид в**и**зитэз йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have admitted",
+        "examples": [
+          {
+            "ours": "К полудню капитан признает ошибку.",
+            "thought": "К полудню [известный] капитан будет иметь признанной [известную] ошибку.",
+            "english": "By noon the skipper will have admitted the mistake.",
+            "transcription": "[бай ну:н ðэ ск**и**пэ wил хæв эдм**и**тид ðэ мист**э**йк]"
+          },
+          {
+            "ours": "К пяти марина примет яхту?",
+            "thought": "Будет [известная] марина иметь допущенной [известную] яхту к пяти?",
+            "english": "Will the marina have admitted the yacht by five?",
+            "transcription": "[wил ðэ мэр**и**:нэ хæв эдм**и**тид ðэ йот бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been admitting",
+        "examples": [
+          {
+            "ours": "Марина принимала лодки два часа, когда усилился ветер.",
+            "thought": "[Известная] марина имела быть допускающей лодки целых два часа, когда [известный] ветер усилился.",
+            "english": "The marina had been admitting boats for two hours when the wind rose.",
+            "transcription": "[ðэ мэр**и**:нэ хæд би:н эдм**и**тиŋ боутс фо: ту: **а**уэз wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Клуб давно принимал гостей, когда ты пришёл?",
+            "thought": "Имел [известный] клуб быть допускающим гостей долго, когда ты прибыл?",
+            "english": "Had the club been admitting visitors long when you arrived?",
+            "transcription": "[хæд ðэ клаб би:н эдм**и**тиŋ в**и**зитэз лоŋ wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been admitting",
+        "examples": [
+          {
+            "ours": "Марина принимает яхты уже два часа.",
+            "thought": "[Известная] марина имеет быть допускающей яхты целых два часа.",
+            "english": "The marina has been admitting yachts for two hours.",
+            "transcription": "[ðэ мэр**и**:нэ хæз би:н эдм**и**тиŋ йотс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Клуб уже час принимает гостей?",
+            "thought": "Имеет [известный] клуб быть допускающим гостей целый [какой-то] час?",
+            "english": "Has the club been admitting visitors for an hour?",
+            "transcription": "[хæз ðэ клаб би:н эдм**и**тиŋ в**и**зитэз фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been admitting",
+        "examples": [
+          {
+            "ours": "К пяти марина будет принимать лодки уже два часа.",
+            "thought": "К пяти [известная] марина будет иметь быть допускающей лодки целых два часа.",
+            "english": "By five the marina will have been admitting boats for two hours.",
+            "transcription": "[бай файв ðэ мэр**и**:нэ wил хæв би:н эдм**и**тиŋ боутс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти клуб будет принимать гостей уже час?",
+            "thought": "Будет [известный] клуб иметь быть допускающим гостей целый [какой-то] час к пяти?",
+            "english": "Will the club have been admitting visitors for an hour by five?",
+            "transcription": "[wил ðэ клаб хæв би:н эдм**и**тиŋ в**и**зитэз фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were admitted",
+        "examples": [
+          {
+            "ours": "Ошибку признали вчера.",
+            "thought": "[Известная] ошибка была признана вчера.",
+            "english": "The mistake was admitted yesterday.",
+            "transcription": "[ðэ мист**э**йк wоз эдм**и**тид й**э**стэдэй]"
+          },
+          {
+            "ours": "Яхту не приняли в марину.",
+            "thought": "[Известная] яхта была не допущена в [известную] марину.",
+            "english": "The yacht was not admitted to the marina.",
+            "transcription": "[ðэ йот wоз нот эдм**и**тид ту ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Гостей допустили в клуб?",
+            "thought": "Были [известные] гости допущены в [известный] клуб?",
+            "english": "Were the visitors admitted to the club?",
+            "transcription": "[wœ: ðэ в**и**зитэз эдм**и**тид ту ðэ клаб]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are admitted",
+        "examples": [
+          {
+            "ours": "Яхты допускают в гавань днём.",
+            "thought": "Яхты есть допущены в [известную] гавань днём.",
+            "english": "Yachts are admitted to the harbor by day.",
+            "transcription": "[йотс а: эдм**и**тид ту ðэ х**а**:бэ бай дэй]"
+          },
+          {
+            "ours": "Гостей не допускают ночью.",
+            "thought": "Гости есть не допущены ночью.",
+            "english": "Visitors are not admitted at night.",
+            "transcription": "[в**и**зитэз а: нот эдм**и**тид æт найт]"
+          },
+          {
+            "ours": "Лодки допускают в эту марину?",
+            "thought": "Есть лодки допущены в эту марину?",
+            "english": "Are boats admitted to this marina?",
+            "transcription": "[а: боутс эдм**и**тид ту ðис мэр**и**:нэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be admitted",
+        "examples": [
+          {
+            "ours": "Яхту допустят завтра.",
+            "thought": "[Известная] яхта будет быть допущена завтра.",
+            "english": "The yacht will be admitted tomorrow.",
+            "transcription": "[ðэ йот wил би: эдм**и**тид тэм**о**роу]"
+          },
+          {
+            "ours": "Гостей не допустят ночью.",
+            "thought": "Гости будут не быть допущены ночью.",
+            "english": "Visitors will not be admitted at night.",
+            "transcription": "[в**и**зитэз wил нот би: эдм**и**тид æт найт]"
+          },
+          {
+            "ours": "Лодку допустят в гавань завтра?",
+            "thought": "Будет [известная] лодка быть допущена в [известную] гавань завтра?",
+            "english": "Will the boat be admitted to the harbor tomorrow?",
+            "transcription": "[wил ðэ боут би: эдм**и**тид ту ðэ х**а**:бэ тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being admitted",
+        "examples": [
+          {
+            "ours": "Яхты принимали, когда поднялся ветер.",
+            "thought": "Яхты были «долго» допущены, когда [известный] ветер поднялся.",
+            "english": "Yachts were being admitted when the wind rose.",
+            "transcription": "[йотс wœ: б**и**:иŋ эдм**и**тид wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Гостей принимали, когда ты прибыл?",
+            "thought": "Были гости «долго» допущены, когда ты прибыл?",
+            "english": "Were visitors being admitted when you arrived?",
+            "transcription": "[wœ: в**и**зитэз б**и**:иŋ эдм**и**тид wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being admitted",
+        "examples": [
+          {
+            "ours": "Сейчас в гавань допускают лодки.",
+            "thought": "Лодки есть «долго» допущены в [известную] гавань сейчас.",
+            "english": "Boats are being admitted to the harbor now.",
+            "transcription": "[боутс а: б**и**:иŋ эдм**и**тид ту ðэ х**а**:бэ нау]"
+          },
+          {
+            "ours": "Гостей сейчас не допускают.",
+            "thought": "Гости есть не «долго» допущены сейчас.",
+            "english": "Visitors are not being admitted now.",
+            "transcription": "[в**и**зитэз а: нот б**и**:иŋ эдм**и**тид нау]"
+          },
+          {
+            "ours": "Яхты сейчас принимают?",
+            "thought": "Есть яхты «долго» допущены сейчас?",
+            "english": "Are yachts being admitted now?",
+            "transcription": "[а: йотс б**и**:иŋ эдм**и**тид нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be admitting",
+        "examples": [
+          {
+            "ours": "Завтра они будут принимать яхты весь день.",
+            "thought": "Завтра они будут быть допускающими яхты весь день.",
+            "english": "Tomorrow they will be admitting yachts all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: эдм**и**тиŋ йотс о:л дэй]"
+          },
+          {
+            "ours": "Они будут принимать гостей в пять?",
+            "thought": "Будут они быть допускающими гостей в пять?",
+            "english": "Will they be admitting visitors at five?",
+            "transcription": "[wил ðэй би: эдм**и**тиŋ в**и**зитэз æт файв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been admitted",
+        "examples": [
+          {
+            "ours": "К полудню ошибку уже признали.",
+            "thought": "К полудню [известная] ошибка имела уже быть признана.",
+            "english": "By noon the mistake had already been admitted.",
+            "transcription": "[бай ну:н ðэ мист**э**йк хæд о:лр**э**ди би:н эдм**и**тид]"
+          },
+          {
+            "ours": "К тому времени яхту ещё не приняли.",
+            "thought": "К тогда [известная] яхта имела не быть допущена ещё.",
+            "english": "By then the yacht had not been admitted yet.",
+            "transcription": "[бай ðэн ðэ йот хæд нот би:н эдм**и**тид йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been admitted",
+        "examples": [
+          {
+            "ours": "Ошибку уже признали.",
+            "thought": "[Известная] ошибка имеет уже быть признана.",
+            "english": "The mistake has already been admitted.",
+            "transcription": "[ðэ мист**э**йк хæз о:лр**э**ди би:н эдм**и**тид]"
+          },
+          {
+            "ours": "Яхту ещё не приняли.",
+            "thought": "[Известная] яхта имеет не быть допущена ещё.",
+            "english": "The yacht has not been admitted yet.",
+            "transcription": "[ðэ йот хæз нот би:н эдм**и**тид йэт]"
+          },
+          {
+            "ours": "Гостей уже допустили?",
+            "thought": "Имеют гости быть допущены уже?",
+            "english": "Have visitors been admitted yet?",
+            "transcription": "[хæв в**и**зитэз би:н эдм**и**тид йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been admitted",
+        "examples": [
+          {
+            "ours": "К полудню ошибку признают.",
+            "thought": "К полудню [известная] ошибка будет иметь быть признана.",
+            "english": "By noon the mistake will have been admitted.",
+            "transcription": "[бай ну:н ðэ мист**э**йк wил хæв би:н эдм**и**тид]"
+          },
+          {
+            "ours": "К пяти яхту допустят?",
+            "thought": "Будет [известная] яхта иметь быть допущена к пяти?",
+            "english": "Will the yacht have been admitted by five?",
+            "transcription": "[wил ðэ йот хæв би:н эдм**и**тид бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The marina has been admitting yachts."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что капитан признает ошибку.",
+        "thought": "Я знал [известный] капитан будет признавать [известную] ошибку.",
+        "english": "I knew the skipper would admit the mistake.",
+        "transcription": "[ай нью: ðэ ск**и**пэ wуд эдм**и**т ðэ мист**э**йк]"
+      },
+      {
+        "ours": "Мы думали, что марина не примет яхту.",
+        "thought": "Мы думали [известная] марина будет не допускать [известную] яхту.",
+        "english": "We thought the marina would not admit the yacht.",
+        "transcription": "[wи: θо:т ðэ мэр**и**:нэ wуд нот эдм**и**т ðэ йот]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "mistake",
+      "meaning": "ошибка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "mistake"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "mistake"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "mistake"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "mistake"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "mistake"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "mistake"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "mistake"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "mistake"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "mistake"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "mistake"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "mistake"
+        }
+      ]
+    },
+    {
+      "word": "leak",
+      "meaning": "течь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "leak"
+        }
+      ]
+    },
+    {
+      "word": "club",
+      "meaning": "клуб",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "club"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "club"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "club"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "club"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "club"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Yachts"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Yachts"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Boats"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "night"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "night"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "visitor",
+      "meaning": "посетитель",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "visitors"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "visitors"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "visitors"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "visitors"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "visitors"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "visitors"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "visitors"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "visitors"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "visitors"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "visitors"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "Visitors"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "Visitors"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "visitors"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "Visitors"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "visitors"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "visitors"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "harbor"
+        }
+      ]
+    }
+  ]
+}

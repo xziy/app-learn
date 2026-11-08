@@ -1,0 +1,609 @@
+{
+  "spec": 4,
+  "verb": "arrive",
+  "forms": {
+    "base": [
+      {
+        "word": "arrive",
+        "transcription": "[эр**а**йв]"
+      }
+    ],
+    "past": [
+      {
+        "word": "arrived",
+        "transcription": "[эр**а**йвд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "arrived",
+        "transcription": "[эр**а**йвд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "arriving",
+        "transcription": "[эр**а**йвиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "arrives",
+        "transcription": "[эр**а**йвз]"
+      }
+    ]
+  },
+  "meaning": "прибывать, прибыть",
+  "notes": "правильный непереходный глагол; arrive at — прибыть в место; обычного пассива нет",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "arrived",
+        "examples": [
+          {
+            "ours": "Вчера мы прибыли в марину.",
+            "thought": "Вчера мы прибыли в [известную] марину.",
+            "english": "Yesterday we arrived at the marina.",
+            "transcription": "[й**э**стэдэй wи: эр**а**йвд æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Ты прибыл в порт?",
+            "thought": "[Сделал] ты прибывать в [известный] порт?",
+            "english": "Did you arrive at the port?",
+            "transcription": "[дид ю: эр**а**йв æт ðэ по:т]"
+          },
+          {
+            "ours": "Яхта не прибыла вовремя.",
+            "thought": "[Известная] яхта [сделала] не прибывать по времени.",
+            "english": "The yacht did not arrive on time.",
+            "transcription": "[ðэ йот дид нот эр**а**йв он тайм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "arrive, arrives",
+        "examples": [
+          {
+            "ours": "Яхта прибывает в полдень.",
+            "thought": "[Известная] яхта прибывает в полдень.",
+            "english": "The yacht arrives at noon.",
+            "transcription": "[ðэ йот эр**а**йвз æт ну:н]"
+          },
+          {
+            "ours": "Ты прибываешь в марину по пятницам?",
+            "thought": "[Делаешь] ты прибывать в [известную] марину по пятницам?",
+            "english": "Do you arrive at the marina on Fridays?",
+            "transcription": "[ду: ю: эр**а**йв æт ðэ мэр**и**:нэ он фр**а**йдэйз]"
+          },
+          {
+            "ours": "Мы не прибываем ночью.",
+            "thought": "Мы [делаем] не прибывать в ночь.",
+            "english": "We do not arrive at night.",
+            "transcription": "[wи: ду: нот эр**а**йв æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will arrive",
+        "examples": [
+          {
+            "ours": "Завтра мы прибудем в марину.",
+            "thought": "Завтра мы будем прибывать в [известную] марину.",
+            "english": "Tomorrow we will arrive at the marina.",
+            "transcription": "[тэм**о**роу wи: wил эр**а**йв æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Ты прибудешь в порт?",
+            "thought": "Будешь ты прибывать в [известный] порт?",
+            "english": "Will you arrive at the port?",
+            "transcription": "[wил ю: эр**а**йв æт ðэ по:т]"
+          },
+          {
+            "ours": "Яхта не прибудет вовремя.",
+            "thought": "[Известная] яхта будет не прибывать по времени.",
+            "english": "The yacht will not arrive on time.",
+            "transcription": "[ðэ йот wил нот эр**а**йв он тайм]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were arriving",
+        "examples": [
+          {
+            "ours": "Вчера утром в марину прибывали яхты.",
+            "thought": "Вчера утром яхты были прибывающими в [известную] марину.",
+            "english": "Yesterday morning yachts were arriving at the marina.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ йотс wœ: эр**а**йвиŋ æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Ты прибывал в порт, когда я позвонил?",
+            "thought": "Был ты прибывающим в [известный] порт, когда я позвонил?",
+            "english": "Were you arriving at the port when I called?",
+            "transcription": "[wœ: ю: эр**а**йвиŋ æт ðэ по:т wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are arriving",
+        "examples": [
+          {
+            "ours": "Сейчас в марину прибывают яхты.",
+            "thought": "Яхты являются прибывающими в [известную] марину сейчас.",
+            "english": "Yachts are arriving at the marina now.",
+            "transcription": "[йотс а: эр**а**йвиŋ æт ðэ мэр**и**:нэ нау]"
+          },
+          {
+            "ours": "Шкипер сейчас прибывает в порт?",
+            "thought": "Является [известный] шкипер прибывающим в [известный] порт сейчас?",
+            "english": "Is the skipper arriving at the port now?",
+            "transcription": "[из ðэ ск**и**пэ эр**а**йвиŋ æт ðэ по:т нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be arriving",
+        "examples": [
+          {
+            "ours": "Завтра утром яхты будут прибывать в марину.",
+            "thought": "Завтра утром яхты будут быть прибывающими в [известную] марину.",
+            "english": "Tomorrow morning yachts will be arriving at the marina.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ йотс wил би: эр**а**йвиŋ æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Ты будешь прибывать в порт вечером?",
+            "thought": "Будешь ты быть прибывающим в [известный] порт этот вечер?",
+            "english": "Will you be arriving at the port this evening?",
+            "transcription": "[wил ю: би: эр**а**йвиŋ æт ðэ по:т ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had arrived",
+        "examples": [
+          {
+            "ours": "К полудню мы уже прибыли в марину.",
+            "thought": "К полудню мы имели уже прибывшим в [известную] марину.",
+            "english": "By noon we had already arrived at the marina.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди эр**а**йвд æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Яхта прибыла в порт до шторма?",
+            "thought": "Имела [известная] яхта прибывшим в [известный] порт до [известного] шторма?",
+            "english": "Had the yacht arrived at the port before the storm?",
+            "transcription": "[хæд ðэ йот эр**а**йвд æт ðэ по:т биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has arrived",
+        "examples": [
+          {
+            "ours": "Мы уже прибыли в марину.",
+            "thought": "Мы имеем уже прибывшим в [известную] марину.",
+            "english": "We have already arrived at the marina.",
+            "transcription": "[wи: хæв о:лр**э**ди эр**а**йвд æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Яхта уже прибыла в порт?",
+            "thought": "Имеет [известная] яхта прибывшим в [известный] порт уже?",
+            "english": "Has the yacht arrived at the port yet?",
+            "transcription": "[хæз ðэ йот эр**а**йвд æт ðэ по:т йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have arrived",
+        "examples": [
+          {
+            "ours": "К полудню мы прибудем в марину.",
+            "thought": "К полудню мы будем иметь прибывшим в [известную] марину.",
+            "english": "By noon we will have arrived at the marina.",
+            "transcription": "[бай ну:н wи: wил хæв эр**а**йвд æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Яхта прибудет в порт к пяти?",
+            "thought": "Будет [известная] яхта иметь прибывшим в [известный] порт к пяти?",
+            "english": "Will the yacht have arrived at the port by five?",
+            "transcription": "[wил ðэ йот хæв эр**а**йвд æт ðэ по:т бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been arriving",
+        "examples": [
+          {
+            "ours": "Яхты час прибывали в марину, когда начался дождь.",
+            "thought": "Яхты имели быть прибывающими в [известную] марину целый [какой-то] час, когда он начал идти дождём.",
+            "english": "Yachts had been arriving at the marina for an hour when it started raining.",
+            "transcription": "[йотс хæд би:н эр**а**йвиŋ æт ðэ мэр**и**:нэ фо: эн **а**уэ wэн ит ст**а**:тид р**э**йниŋ]"
+          },
+          {
+            "ours": "Лодки прибывали в порт два часа до шторма?",
+            "thought": "Имели лодки быть прибывающими в [известный] порт целых два часа до [известного] шторма?",
+            "english": "Had boats been arriving at the port for two hours before the storm?",
+            "transcription": "[хæд боутс би:н эр**а**йвиŋ æт ðэ по:т фо: ту: **а**уэз биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been arriving",
+        "examples": [
+          {
+            "ours": "Яхты прибывают в марину уже час.",
+            "thought": "Яхты имеют быть прибывающими в [известную] марину целый [какой-то] час.",
+            "english": "Yachts have been arriving at the marina for an hour.",
+            "transcription": "[йотс хæв би:н эр**а**йвиŋ æт ðэ мэр**и**:нэ фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Лодки прибывают в порт уже два часа?",
+            "thought": "Имеют лодки быть прибывающими в [известный] порт целых два часа?",
+            "english": "Have boats been arriving at the port for two hours?",
+            "transcription": "[хæв боутс би:н эр**а**йвиŋ æт ðэ по:т фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been arriving",
+        "examples": [
+          {
+            "ours": "К пяти яхты будут прибывать в марину уже два часа.",
+            "thought": "К пяти яхты будут иметь быть прибывающими в [известную] марину целых два часа.",
+            "english": "By five yachts will have been arriving at the marina for two hours.",
+            "transcription": "[бай файв йотс wил хæв би:н эр**а**йвиŋ æт ðэ мэр**и**:нэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню лодки будут прибывать в порт уже час?",
+            "thought": "Будут лодки иметь быть прибывающими в [известный] порт целый [какой-то] час к полудню?",
+            "english": "Will boats have been arriving at the port for an hour by noon?",
+            "transcription": "[wил боутс хæв би:н эр**а**йвиŋ æт ðэ по:т фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "В значении прибытия arrive непереходный и пассив не образует. Скажут: The yacht arrived at the marina."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они прибудут в марину.",
+        "thought": "Я знал, они будут прибывать в [известную] марину.",
+        "english": "I knew they would arrive at the marina.",
+        "transcription": "[ай нью: ðэй wуд эр**а**йв æт ðэ мэр**и**:нэ]"
+      },
+      {
+        "ours": "Она думала, что мы не прибудем в порт.",
+        "thought": "Она думала, мы будем не прибывать в [известный] порт.",
+        "english": "She thought we would not arrive at the port.",
+        "transcription": "[ши: θо:т wи: wуд нот эр**а**йв æт ðэ по:т]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "port",
+      "meaning": "порт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "port"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "port"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "port"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "port"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "port"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "port"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "port"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "port"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "port"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "port"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "port"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "port"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "Yachts"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "Yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "Yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "yachts"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "time"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "Fridays"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "boats"
+        }
+      ]
+    }
+  ]
+}

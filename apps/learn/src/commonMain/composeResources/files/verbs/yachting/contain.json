@@ -1,0 +1,453 @@
+{
+  "spec": 4,
+  "verb": "contain",
+  "forms": {
+    "base": [
+      {
+        "word": "contain",
+        "transcription": "[кэнт**э**йн]"
+      }
+    ],
+    "past": [
+      {
+        "word": "contained",
+        "transcription": "[кэнт**э**йнд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "contained",
+        "transcription": "[кэнт**э**йнд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "containing",
+        "transcription": "[кэнт**э**йниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "contains",
+        "transcription": "[кэнт**э**йнз]"
+      }
+    ]
+  },
+  "meaning": "содержать, вмещать",
+  "notes": "правильный переходный глагол состояния; в значении «содержать» обычно не используется в продолженных временах",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "contained",
+        "examples": [
+          {
+            "ours": "Вчера в баке было топливо.",
+            "thought": "Вчера [известный] бак содержал топливо.",
+            "english": "Yesterday the tank contained fuel.",
+            "transcription": "[й**э**стэдэй ðэ тæнк кэнт**э**йнд фь**ю**:эл]"
+          },
+          {
+            "ours": "В аптечке были бинты?",
+            "thought": "[Сделал] [известный] первой помощи набор содержать бинты?",
+            "english": "Did the first aid kit contain bandages?",
+            "transcription": "[дид ðэ фœ:ст эйд кит кэнт**э**йн б**æ**ндиджиз]"
+          },
+          {
+            "ours": "В рундуке не было жилетов.",
+            "thought": "[Известный] рундук [сделал] не содержать спасательные жилеты.",
+            "english": "The locker did not contain life jackets.",
+            "transcription": "[ðэ л**о**кэ дид нот кэнт**э**йн лайф дж**æ**китс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "contain, contains",
+        "examples": [
+          {
+            "ours": "В баке есть топливо.",
+            "thought": "[Известный] бак содержит топливо.",
+            "english": "The tank contains fuel.",
+            "transcription": "[ðэ тæнк кэнт**э**йнз фь**ю**:эл]"
+          },
+          {
+            "ours": "В аптечке есть бинты?",
+            "thought": "[Делает] [известный] первой помощи набор содержать бинты?",
+            "english": "Does the first aid kit contain bandages?",
+            "transcription": "[даз ðэ фœ:ст эйд кит кэнт**э**йн б**æ**ндиджиз]"
+          },
+          {
+            "ours": "В рундуке нет жилетов.",
+            "thought": "[Известный] рундук [делает] не содержать спасательные жилеты.",
+            "english": "The locker does not contain life jackets.",
+            "transcription": "[ðэ л**о**кэ даз нот кэнт**э**йн лайф дж**æ**китс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will contain",
+        "examples": [
+          {
+            "ours": "Завтра в баке будет топливо.",
+            "thought": "Завтра [известный] бак будет содержать топливо.",
+            "english": "Tomorrow the tank will contain fuel.",
+            "transcription": "[тэм**о**роу ðэ тæнк wил кэнт**э**йн фь**ю**:эл]"
+          },
+          {
+            "ours": "В аптечке будут бинты?",
+            "thought": "Будет [известный] первой помощи набор содержать бинты?",
+            "english": "Will the first aid kit contain bandages?",
+            "transcription": "[wил ðэ фœ:ст эйд кит кэнт**э**йн б**æ**ндиджиз]"
+          },
+          {
+            "ours": "В рундуке не будет жилетов.",
+            "thought": "[Известный] рундук будет не содержать спасательные жилеты.",
+            "english": "The locker will not contain life jackets.",
+            "transcription": "[ðэ л**о**кэ wил нот кэнт**э**йн лайф дж**æ**китс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Contain в значении «содержать» описывает состояние; вместо длительной формы говорят The tank contains fuel. Длительная форма возможна в другом значении — например, сдерживание пожара."
+    },
+    "perfect": {
+      "past": {
+        "form": "had contained",
+        "examples": [
+          {
+            "ours": "Раньше в баке было топливо.",
+            "thought": "[Известный] бак имел содержавшим топливо раньше.",
+            "english": "The tank had contained fuel before.",
+            "transcription": "[ðэ тæнк хæд кэнт**э**йнд фь**ю**:эл биф**о**:]"
+          },
+          {
+            "ours": "До отхода в рундуке были жилеты?",
+            "thought": "Имел [известный] рундук содержавшим спасательные жилеты до отхода?",
+            "english": "Had the locker contained life jackets before departure?",
+            "transcription": "[хæд ðэ л**о**кэ кэнт**э**йнд лайф дж**æ**китс биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has contained",
+        "examples": [
+          {
+            "ours": "В баке раньше было топливо.",
+            "thought": "[Известный] бак имеет содержавшим топливо раньше.",
+            "english": "The tank has contained fuel before.",
+            "transcription": "[ðэ тæнк хæз кэнт**э**йнд фь**ю**:эл биф**о**:]"
+          },
+          {
+            "ours": "В этом рундуке раньше были жилеты?",
+            "thought": "Имеет этот рундук содержавшим спасательные жилеты раньше?",
+            "english": "Has this locker contained life jackets before?",
+            "transcription": "[хæз ðис л**о**кэ кэнт**э**йнд лайф дж**æ**китс биф**о**:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have contained",
+        "not_possible": "Будущее совершённое в значении содержания тяжеловесно без специального контекста. Обычно скажут: By noon the tank will contain fuel."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Состояние contain не выражают длительной формой. Вместо этого: The tank has contained fuel for years."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were contained",
+        "examples": [
+          {
+            "ours": "Топливо было в баке.",
+            "thought": "Топливо было содержимо в [известном] баке.",
+            "english": "Fuel was contained in the tank.",
+            "transcription": "[фь**ю**:эл wоз кэнт**э**йнд ин ðэ тæнк]"
+          },
+          {
+            "ours": "Бинты были в аптечке?",
+            "thought": "Были бинты содержимы в [известном] первой помощи наборе?",
+            "english": "Were bandages contained in the first aid kit?",
+            "transcription": "[wœ: б**æ**ндиджиз кэнт**э**йнд ин ðэ фœ:ст эйд кит]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are contained",
+        "examples": [
+          {
+            "ours": "Топливо находится в баке.",
+            "thought": "Топливо есть содержимо в [известном] баке.",
+            "english": "Fuel is contained in the tank.",
+            "transcription": "[фь**ю**:эл из кэнт**э**йнд ин ðэ тæнк]"
+          },
+          {
+            "ours": "Бинты находятся в аптечке?",
+            "thought": "Есть бинты содержимы в [известном] первой помощи наборе?",
+            "english": "Are bandages contained in the first aid kit?",
+            "transcription": "[а: б**æ**ндиджиз кэнт**э**йнд ин ðэ фœ:ст эйд кит]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be contained",
+        "examples": [
+          {
+            "ours": "Топливо будет в баке.",
+            "thought": "Топливо будет быть содержимо в [известном] баке.",
+            "english": "Fuel will be contained in the tank.",
+            "transcription": "[фь**ю**:эл wил би: кэнт**э**йнд ин ðэ тæнк]"
+          },
+          {
+            "ours": "Бинты будут в аптечке?",
+            "thought": "Будут бинты быть содержимы в [известном] первой помощи наборе?",
+            "english": "Will bandages be contained in the first aid kit?",
+            "transcription": "[wил б**æ**ндиджиз би: кэнт**э**йнд ин ðэ фœ:ст эйд кит]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Длительный пассив для состояния содержания не нужен; вместо него говорят Fuel is contained in the tank."
+    },
+    "perfect": {
+      "not_possible": "Для обычного указания местонахождения естественнее простая форма: Fuel is contained in the tank; для процесса заполнения — The tank has been filled."
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется; вместо него: The tank has held fuel for years."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что в баке будет топливо.",
+        "thought": "Я знал, [известный] бак будет содержать топливо.",
+        "english": "I knew the tank would contain fuel.",
+        "transcription": "[ай нью: ðэ тæнк wуд кэнт**э**йн фь**ю**:эл]"
+      },
+      {
+        "ours": "Она думала, что в рундуке не будет жилетов.",
+        "thought": "Она думала, [известный] рундук будет не содержать спасательные жилеты.",
+        "english": "She thought the locker would not contain life jackets.",
+        "transcription": "[ши: θо:т ðэ л**о**кэ wуд нот кэнт**э**йн лайф дж**æ**китс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "tank",
+      "meaning": "бак",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "tank"
+        }
+      ]
+    },
+    {
+      "word": "fuel",
+      "meaning": "топливо",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Fuel"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Fuel"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Fuel"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "fuel"
+        }
+      ]
+    },
+    {
+      "word": "first aid kit",
+      "meaning": "аптечка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "first aid kit"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "first aid kit"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "first aid kit"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "first aid kit"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "first aid kit"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "first aid kit"
+        }
+      ]
+    },
+    {
+      "word": "bandage",
+      "meaning": "бинт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "bandages"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "bandages"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "bandages"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "bandages"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "bandages"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "bandages"
+        }
+      ]
+    },
+    {
+      "word": "locker",
+      "meaning": "рундук",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "locker"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "locker"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "locker"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "locker"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "locker"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "locker"
+        }
+      ]
+    },
+    {
+      "word": "life jacket",
+      "meaning": "спасательный жилет",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "life jackets"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    }
+  ]
+}

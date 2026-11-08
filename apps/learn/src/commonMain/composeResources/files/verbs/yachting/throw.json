@@ -1,0 +1,854 @@
+{
+  "spec": 4,
+  "verb": "throw",
+  "forms": {
+    "base": [
+      {
+        "word": "throw",
+        "transcription": "[θроу]"
+      }
+    ],
+    "past": [
+      {
+        "word": "threw",
+        "transcription": "[θру:]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "thrown",
+        "transcription": "[θроун]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "throwing",
+        "transcription": "[θр**о**уиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "throws",
+        "transcription": "[θроуз]"
+      }
+    ]
+  },
+  "meaning": "бросать, кидать",
+  "notes": "неправильный переходный глагол; throw a line — бросить конец; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "threw",
+        "examples": [
+          {
+            "ours": "Вчера я бросил верёвку.",
+            "thought": "Вчера я бросил [какую-то] верёвку.",
+            "english": "Yesterday I threw a rope.",
+            "transcription": "[й**э**стэдэй ай θру: э роуп]"
+          },
+          {
+            "ours": "Ты бросил конец?",
+            "thought": "[Сделал] ты бросать [известный] конец?",
+            "english": "Did you throw the line?",
+            "transcription": "[дид ю: θроу ðэ лайн]"
+          },
+          {
+            "ours": "Она не бросила конец.",
+            "thought": "Она [сделала] не бросать [известный] конец.",
+            "english": "She did not throw the line.",
+            "transcription": "[ши: дид нот θроу ðэ лайн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "throw, throws",
+        "examples": [
+          {
+            "ours": "Шкипер бросает конец команде.",
+            "thought": "[Известный] шкипер бросает [известный] конец к [известной] команде.",
+            "english": "The skipper throws the line to the crew.",
+            "transcription": "[ðэ ск**и**пэ θроуз ðэ лайн ту ðэ кру:]"
+          },
+          {
+            "ours": "На тренировках ты бросаешь конец на берег?",
+            "thought": "[Делаешь] ты бросать [известный] конец на берег во время тренировок?",
+            "english": "Do you throw the line ashore during drills?",
+            "transcription": "[ду: ю: θроу ðэ лайн эш**о**: дь**ю**эриŋ дрилз]"
+          },
+          {
+            "ours": "Мы не бросаем концы через другие лодки.",
+            "thought": "Мы [делаем] не бросать концы через другие лодки.",
+            "english": "We do not throw lines over other boats.",
+            "transcription": "[wи: ду: нот θроу лайнз **о**увэ **а**ðэ боутс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will throw",
+        "examples": [
+          {
+            "ours": "Завтра мы бросим конец на берег.",
+            "thought": "Завтра мы будем бросать [известный] конец на берег.",
+            "english": "Tomorrow we will throw the line ashore.",
+            "transcription": "[тэм**о**роу wи: wил θроу ðэ лайн эш**о**:]"
+          },
+          {
+            "ours": "Ты бросишь конец?",
+            "thought": "Будешь ты бросать [известный] конец?",
+            "english": "Will you throw the line?",
+            "transcription": "[wил ю: θроу ðэ лайн]"
+          },
+          {
+            "ours": "Она не бросит буй за борт.",
+            "thought": "Она будет не бросать [известный] буй за борт.",
+            "english": "She will not throw the buoy overboard.",
+            "transcription": "[ши: wил нот θроу ðэ бой **о**увэбо:д]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were throwing",
+        "examples": [
+          {
+            "ours": "Вчера утром мы отрабатывали бросание конца.",
+            "thought": "Вчера утром мы были бросающими [известный] конец во время [известной] тренировки.",
+            "english": "Yesterday morning we were throwing the line during the drill.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: θр**о**уиŋ ðэ лайн дь**ю**эриŋ ðэ дрил]"
+          },
+          {
+            "ours": "Ты бросал конец, когда я позвал?",
+            "thought": "Был ты бросающим [известный] конец, когда я позвал?",
+            "english": "Were you throwing the line when I called?",
+            "transcription": "[wœ: ю: θр**о**уиŋ ðэ лайн wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are throwing",
+        "examples": [
+          {
+            "ours": "Мы сейчас бросаем буй за борт.",
+            "thought": "Мы являемся бросающими [известный] буй за борт сейчас.",
+            "english": "We are throwing the buoy overboard now.",
+            "transcription": "[wи: а: θр**о**уиŋ ðэ бой **о**увэбо:д нау]"
+          },
+          {
+            "ours": "Шкипер сейчас бросает конец команде?",
+            "thought": "Является [известный] шкипер бросающим [известный] конец к [известной] команде сейчас?",
+            "english": "Is the skipper throwing the line to the crew now?",
+            "transcription": "[из ðэ ск**и**пэ θр**о**уиŋ ðэ лайн ту ðэ кру: нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be throwing",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем бросать верёвки.",
+            "thought": "Завтра утром мы будем быть бросающими верёвки.",
+            "english": "Tomorrow morning we will be throwing ropes.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: θр**о**уиŋ роупс]"
+          },
+          {
+            "ours": "Ты будешь бросать конец, когда они подойдут?",
+            "thought": "Будешь ты быть бросающим [известный] конец, когда они прибудут?",
+            "english": "Will you be throwing the line when they arrive?",
+            "transcription": "[wил ю: би: θр**о**уиŋ ðэ лайн wэн ðэй эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had thrown",
+        "examples": [
+          {
+            "ours": "К полудню я уже бросил верёвку.",
+            "thought": "К полудню я имел уже брошенной [какую-то] верёвку.",
+            "english": "By noon I had already thrown a rope.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди θроун э роуп]"
+          },
+          {
+            "ours": "Ты бросил конец до отхода?",
+            "thought": "Имел ты брошенным [известный] конец до отхода?",
+            "english": "Had you thrown the line before departure?",
+            "transcription": "[хæд ю: θроун ðэ лайн биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has thrown",
+        "examples": [
+          {
+            "ours": "Я уже бросил конец на берег.",
+            "thought": "Я имею уже брошенным [известный] конец на берег.",
+            "english": "I have already thrown the line ashore.",
+            "transcription": "[ай хæв о:лр**э**ди θроун ðэ лайн эш**о**:]"
+          },
+          {
+            "ours": "Ты уже бросил конец?",
+            "thought": "Имеешь ты брошенным [известный] конец уже?",
+            "english": "Have you thrown the line yet?",
+            "transcription": "[хæв ю: θроун ðэ лайн йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have thrown",
+        "examples": [
+          {
+            "ours": "К полудню я брошу верёвку.",
+            "thought": "К полудню я буду иметь брошенной [какую-то] верёвку.",
+            "english": "By noon I will have thrown a rope.",
+            "transcription": "[бай ну:н ай wил хæв θроун э роуп]"
+          },
+          {
+            "ours": "Ты бросишь конец к пяти?",
+            "thought": "Будешь ты иметь брошенным [известный] конец к пяти?",
+            "english": "Will you have thrown the line by five?",
+            "transcription": "[wил ю: хæв θроун ðэ лайн бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been throwing",
+        "examples": [
+          {
+            "ours": "Мы час бросали верёвки на тренировке, когда пошёл дождь.",
+            "thought": "Мы имели быть бросающими верёвки во время [известной] тренировки целый [какой-то] час, когда он начал идти дождём.",
+            "english": "We had been throwing ropes during the drill for an hour when it started raining.",
+            "transcription": "[wи: хæд би:н θр**о**уиŋ роупс дь**ю**эриŋ ðэ дрил фо: эн **а**уэ wэн ит ст**а**:тид р**э**йниŋ]"
+          },
+          {
+            "ours": "Ты бросал верёвки на тренировке два часа до рассвета?",
+            "thought": "Имел ты быть бросающим верёвки во время [известной] тренировки целых два часа до рассвета?",
+            "english": "Had you been throwing ropes during the drill for two hours before dawn?",
+            "transcription": "[хæд ю: би:н θр**о**уиŋ роупс дь**ю**эриŋ ðэ дрил фо: ту: **а**уэз биф**о**: до:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been throwing",
+        "examples": [
+          {
+            "ours": "Мы бросаем верёвки на тренировке уже час.",
+            "thought": "Мы имеем быть бросающими верёвки во время [известной] тренировки целый [какой-то] час.",
+            "english": "We have been throwing ropes during the drill for an hour.",
+            "transcription": "[wи: хæв би:н θр**о**уиŋ роупс дь**ю**эриŋ ðэ дрил фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты бросаешь верёвки на тренировке уже два часа?",
+            "thought": "Имеешь ты быть бросающим верёвки во время [известной] тренировки целых два часа?",
+            "english": "Have you been throwing ropes during the drill for two hours?",
+            "transcription": "[хæв ю: би:н θр**о**уиŋ роупс дь**ю**эриŋ ðэ дрил фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been throwing",
+        "examples": [
+          {
+            "ours": "К пяти мы будем бросать верёвки на тренировке уже два часа.",
+            "thought": "К пяти мы будем иметь быть бросающими верёвки во время [известной] тренировки целых два часа.",
+            "english": "By five we will have been throwing ropes during the drill for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н θр**о**уиŋ роупс дь**ю**эриŋ ðэ дрил фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь бросать верёвки на тренировке уже час?",
+            "thought": "Будешь ты иметь быть бросающим верёвки во время [известной] тренировки целый [какой-то] час к полудню?",
+            "english": "Will you have been throwing ropes during the drill for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н θр**о**уиŋ роупс дь**ю**эриŋ ðэ дрил фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were thrown",
+        "examples": [
+          {
+            "ours": "Эту верёвку бросили вчера.",
+            "thought": "Эта верёвка была брошена вчера.",
+            "english": "This rope was thrown yesterday.",
+            "transcription": "[ðис роуп wоз θроун й**э**стэдэй]"
+          },
+          {
+            "ours": "Концы бросили на палубе?",
+            "thought": "Были [известные] концы брошены на палубе?",
+            "english": "Were the lines thrown on deck?",
+            "transcription": "[wœ: ðэ лайнз θроун он дэк]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are thrown",
+        "examples": [
+          {
+            "ours": "Концы бросают с палубы.",
+            "thought": "Концы есть брошены с палубы.",
+            "english": "Lines are thrown from deck.",
+            "transcription": "[лайнз а: θроун фром дэк]"
+          },
+          {
+            "ours": "Концы бросают на палубе?",
+            "thought": "Есть [известные] концы брошены на палубе?",
+            "english": "Are the lines thrown on deck?",
+            "transcription": "[а: ðэ лайнз θроун он дэк]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be thrown",
+        "examples": [
+          {
+            "ours": "Верёвку бросят завтра.",
+            "thought": "[Известная] верёвка будет быть брошена завтра.",
+            "english": "The rope will be thrown tomorrow.",
+            "transcription": "[ðэ роуп wил би: θроун тэм**о**роу]"
+          },
+          {
+            "ours": "Конец бросят на палубе?",
+            "thought": "Будет [известный] конец быть брошен на палубе?",
+            "english": "Will the line be thrown on deck?",
+            "transcription": "[wил ðэ лайн би: θроун он дэк]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being thrown",
+        "examples": [
+          {
+            "ours": "Когда я прибыл, верёвки бросали на берег.",
+            "thought": "Верёвки были «долго» брошены на берег, когда я прибыл.",
+            "english": "Ropes were being thrown ashore when I arrived.",
+            "transcription": "[роупс wœ: б**и**:иŋ θроун эш**о**: wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, концы бросали?",
+            "thought": "Были [известные] концы «долго» брошены, когда ты позвонил?",
+            "english": "Were the lines being thrown when you called?",
+            "transcription": "[wœ: ðэ лайнз б**и**:иŋ θроун wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being thrown",
+        "examples": [
+          {
+            "ours": "Верёвки сейчас бросают на берег.",
+            "thought": "Верёвки есть «долго» брошены на берег сейчас.",
+            "english": "Ropes are being thrown ashore now.",
+            "transcription": "[роупс а: б**и**:иŋ θроун эш**о**: нау]"
+          },
+          {
+            "ours": "Концы сейчас бросают?",
+            "thought": "Есть [известные] концы «долго» брошены сейчас?",
+            "english": "Are the lines being thrown now?",
+            "transcription": "[а: ðэ лайнз б**и**:иŋ θроун нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be throwing",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут бросать верёвки.",
+            "thought": "Завтра утром они будут быть бросающими верёвки.",
+            "english": "Tomorrow morning they will be throwing ropes.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: θр**о**уиŋ роупс]"
+          },
+          {
+            "ours": "Они будут бросать конец, когда мы подойдём?",
+            "thought": "Будут они быть бросающими [известный] конец, когда мы прибудем?",
+            "english": "Will they be throwing the line when we arrive?",
+            "transcription": "[wил ðэй би: θр**о**уиŋ ðэ лайн wэн wи: эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been thrown",
+        "examples": [
+          {
+            "ours": "К полудню верёвку уже бросили.",
+            "thought": "К полудню [известная] верёвка имела уже быть брошена.",
+            "english": "By noon the rope had already been thrown.",
+            "transcription": "[бай ну:н ðэ роуп хæд о:лр**э**ди би:н θроун]"
+          },
+          {
+            "ours": "Конец бросили до отхода?",
+            "thought": "Имел [известный] конец быть брошен до отхода?",
+            "english": "Had the line been thrown before departure?",
+            "transcription": "[хæд ðэ лайн би:н θроун биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been thrown",
+        "examples": [
+          {
+            "ours": "Верёвку уже бросили.",
+            "thought": "[Известная] верёвка имеет уже быть брошенной.",
+            "english": "The rope has already been thrown.",
+            "transcription": "[ðэ роуп хæз о:лр**э**ди би:н θроун]"
+          },
+          {
+            "ours": "Конец уже бросили?",
+            "thought": "Имеет [известный] конец быть брошен уже?",
+            "english": "Has the line been thrown yet?",
+            "transcription": "[хæз ðэ лайн би:н θроун йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been thrown",
+        "examples": [
+          {
+            "ours": "К полудню верёвку бросят.",
+            "thought": "К полудню [известная] верёвка будет иметь быть брошена.",
+            "english": "By noon the rope will have been thrown.",
+            "transcription": "[бай ну:н ðэ роуп wил хæв би:н θроун]"
+          },
+          {
+            "ours": "Конец бросят к пяти?",
+            "thought": "Будет [известный] конец иметь быть брошен к пяти?",
+            "english": "Will the line have been thrown by five?",
+            "transcription": "[wил ðэ лайн хæв би:н θроун бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been throwing lines."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они бросят верёвки.",
+        "thought": "Я знал, они будут бросать верёвки.",
+        "english": "I knew they would throw ropes.",
+        "transcription": "[ай нью: ðэй wуд θроу роупс]"
+      },
+      {
+        "ours": "Она думала, что мы не бросим конец.",
+        "thought": "Она думала, мы будем не бросать [известный] конец.",
+        "english": "She thought we would not throw the line.",
+        "transcription": "[ши: θо:т wи: wуд нот θроу ðэ лайн]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "rope",
+      "meaning": "верёвка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "ropes"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Ropes"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Ropes"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "ropes"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "line"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "line"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "line"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "line"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "line"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "line"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "line"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "line"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "line"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "line"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "line"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "line"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "line"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "line"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Lines"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "line"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "line"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "line"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "line"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "line"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "drill",
+      "meaning": "тренировка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "drills"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "drill"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "drill"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "drill"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "drill"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "drill"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "drill"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "drill"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "boats"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "meaning": "буй",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "buoy"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "buoy"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "deck"
+        }
+      ]
+    }
+  ]
+}

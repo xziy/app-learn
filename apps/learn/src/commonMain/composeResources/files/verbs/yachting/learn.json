@@ -1,0 +1,766 @@
+{
+  "spec": 4,
+  "verb": "learn",
+  "forms": {
+    "base": [
+      {
+        "word": "learn",
+        "transcription": "[лœ:н]"
+      }
+    ],
+    "past": [
+      {
+        "word": "learned",
+        "transcription": "[лœ:нд]"
+      },
+      {
+        "word": "learnt",
+        "transcription": "[лœ:нт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "learned",
+        "transcription": "[лœ:нд]"
+      },
+      {
+        "word": "learnt",
+        "transcription": "[лœ:нт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "learning",
+        "transcription": "[л**œ**:ниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "learns",
+        "transcription": "[лœ:нз]"
+      }
+    ]
+  },
+  "meaning": "учить, изучать, узнавать",
+  "notes": "правильный переходный глагол; употребляется также вариант learnt",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "learned",
+        "examples": [
+          {
+            "ours": "Вчера мы изучили узлы.",
+            "thought": "Вчера мы изучили узлы.",
+            "english": "Yesterday we learned knots.",
+            "transcription": "[й**э**стэдэй wи: лœ:нд нотс]"
+          },
+          {
+            "ours": "Ты изучил правила вчера?",
+            "thought": "[Сделал] ты изучать правила вчера?",
+            "english": "Did you learn rules yesterday?",
+            "transcription": "[дид ю: лœ:н ру:лз й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "learn, learns",
+        "examples": [
+          {
+            "ours": "Мы изучаем навигацию в клубе.",
+            "thought": "Мы изучаем навигацию в [известном] клубе.",
+            "english": "We learn navigation at the club.",
+            "transcription": "[wи: лœ:н нæвиг**э**йшн æт ðэ клаб]"
+          },
+          {
+            "ours": "Ты изучаешь парусное дело в клубе?",
+            "thought": "[Делаешь] ты изучать парусное дело в [известном] клубе?",
+            "english": "Do you learn sailing at the club?",
+            "transcription": "[ду: ю: лœ:н с**э**йлиŋ æт ðэ клаб]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will learn",
+        "examples": [
+          {
+            "ours": "Завтра мы будем изучать узлы.",
+            "thought": "Завтра мы будем изучать узлы.",
+            "english": "Tomorrow we will learn knots.",
+            "transcription": "[тэм**о**роу wи: wил лœ:н нотс]"
+          },
+          {
+            "ours": "Ты будешь изучать правила завтра?",
+            "thought": "Будешь ты изучать правила завтра?",
+            "english": "Will you learn rules tomorrow?",
+            "transcription": "[wил ю: лœ:н ру:лз тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were learning",
+        "examples": [
+          {
+            "ours": "Мы изучали узлы, когда ты пришёл.",
+            "thought": "Мы были изучающими узлы, когда ты прибыл.",
+            "english": "We were learning knots when you arrived.",
+            "transcription": "[wи: wœ: л**œ**:ниŋ нотс wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Ты изучал правила, когда я пришёл?",
+            "thought": "Был ты изучающим правила, когда я прибыл?",
+            "english": "Were you learning rules when I arrived?",
+            "transcription": "[wœ: ю: л**œ**:ниŋ ру:лз wэн ай эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are learning",
+        "examples": [
+          {
+            "ours": "Мы сейчас изучаем навигацию.",
+            "thought": "Мы являемся изучающими навигацию сейчас.",
+            "english": "We are learning navigation now.",
+            "transcription": "[wи: а: л**œ**:ниŋ нæвиг**э**йшн нау]"
+          },
+          {
+            "ours": "Ты сейчас изучаешь парусное дело?",
+            "thought": "Являешься ты изучающим парусное дело сейчас?",
+            "english": "Are you learning sailing now?",
+            "transcription": "[а: ю: л**œ**:ниŋ с**э**йлиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be learning",
+        "examples": [
+          {
+            "ours": "Завтра мы будем изучать узлы весь день.",
+            "thought": "Завтра мы будем быть изучающими узлы весь день.",
+            "english": "Tomorrow we will be learning knots all day.",
+            "transcription": "[тэм**о**роу wи: wил би: л**œ**:ниŋ нотс о:л дэй]"
+          },
+          {
+            "ours": "Ты завтра будешь изучать правила?",
+            "thought": "Будешь ты быть изучающим правила завтра?",
+            "english": "Will you be learning rules tomorrow?",
+            "transcription": "[wил ю: би: л**œ**:ниŋ ру:лз тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had learned",
+        "examples": [
+          {
+            "ours": "К полудню мы уже изучили узлы.",
+            "thought": "К полудню мы имели уже изученными узлы.",
+            "english": "By noon we had already learned knots.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди лœ:нд нотс]"
+          },
+          {
+            "ours": "К полудню ты изучил правила?",
+            "thought": "Имел ты изученными правила к полудню?",
+            "english": "Had you learned rules by noon?",
+            "transcription": "[хæд ю: лœ:нд ру:лз бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has learned",
+        "examples": [
+          {
+            "ours": "Мы уже изучили навигацию.",
+            "thought": "Мы имеем уже изученной навигацию.",
+            "english": "We have already learned navigation.",
+            "transcription": "[wи: хæв о:лр**э**ди лœ:нд нæвиг**э**йшн]"
+          },
+          {
+            "ours": "Ты уже изучил парусное дело?",
+            "thought": "Имеешь ты изученным парусное дело уже?",
+            "english": "Have you learned sailing yet?",
+            "transcription": "[хæв ю: лœ:нд с**э**йлиŋ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have learned",
+        "examples": [
+          {
+            "ours": "К пятнице мы изучим узлы.",
+            "thought": "К пятнице мы будем иметь изученными узлы.",
+            "english": "By Friday we will have learned knots.",
+            "transcription": "[бай фр**а**йдэй wи: wил хæв лœ:нд нотс]"
+          },
+          {
+            "ours": "Ты изучишь правила к пятнице?",
+            "thought": "Будешь ты иметь изученными правила к пятнице?",
+            "english": "Will you have learned rules by Friday?",
+            "transcription": "[wил ю: хæв лœ:нд ру:лз бай фр**а**йдэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been learning",
+        "examples": [
+          {
+            "ours": "Мы изучали узлы два часа до обеда.",
+            "thought": "Мы имели быть изучающими узлы целых два часа перед обедом.",
+            "english": "We had been learning knots for two hours before lunch.",
+            "transcription": "[wи: хæд би:н л**œ**:ниŋ нотс фо: ту: **а**уэз биф**о**: ланч]"
+          },
+          {
+            "ours": "Ты изучал правила час до обеда?",
+            "thought": "Имел ты быть изучающим правила целый [какой-то] час перед обедом?",
+            "english": "Had you been learning rules for an hour before lunch?",
+            "transcription": "[хæд ю: би:н л**œ**:ниŋ ру:лз фо: эн **а**уэ биф**о**: ланч]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been learning",
+        "examples": [
+          {
+            "ours": "Мы изучаем навигацию уже два часа.",
+            "thought": "Мы имеем быть изучающими навигацию целых два часа.",
+            "english": "We have been learning navigation for two hours.",
+            "transcription": "[wи: хæв би:н л**œ**:ниŋ нæвиг**э**йшн фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты изучаешь парусное дело уже час?",
+            "thought": "Имеешь ты быть изучающим парусное дело целый [какой-то] час?",
+            "english": "Have you been learning sailing for an hour?",
+            "transcription": "[хæв ю: би:н л**œ**:ниŋ с**э**йлиŋ фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been learning",
+        "examples": [
+          {
+            "ours": "К пяти мы будем изучать узлы уже два часа.",
+            "thought": "К пяти мы будем иметь быть изучающими узлы целых два часа.",
+            "english": "By five we will have been learning knots for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н л**œ**:ниŋ нотс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь изучать правила уже час?",
+            "thought": "Будешь ты иметь быть изучающим правила целый [какой-то] час к пяти?",
+            "english": "Will you have been learning rules for an hour by five?",
+            "transcription": "[wил ю: хæв би:н л**œ**:ниŋ ру:лз фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were learned",
+        "examples": [
+          {
+            "ours": "Вчера изучили узлы.",
+            "thought": "Узлы были изучены вчера.",
+            "english": "Knots were learned yesterday.",
+            "transcription": "[нотс wœ: лœ:нд й**э**стэдэй]"
+          },
+          {
+            "ours": "Вчера изучили правила?",
+            "thought": "Были правила изучены вчера?",
+            "english": "Were rules learned yesterday?",
+            "transcription": "[wœ: ру:лз лœ:нд й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are learned",
+        "examples": [
+          {
+            "ours": "В клубе изучают навигацию.",
+            "thought": "Навигация есть изучена в [известном] клубе.",
+            "english": "Navigation is learned at the club.",
+            "transcription": "[нæвиг**э**йшн из лœ:нд æт ðэ клаб]"
+          },
+          {
+            "ours": "В клубе изучают парусное дело?",
+            "thought": "Есть парусное дело изучено в [известном] клубе?",
+            "english": "Is sailing learned at the club?",
+            "transcription": "[из с**э**йлиŋ лœ:нд æт ðэ клаб]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be learned",
+        "examples": [
+          {
+            "ours": "Завтра изучат узлы.",
+            "thought": "Узлы будут быть изучены завтра.",
+            "english": "Knots will be learned tomorrow.",
+            "transcription": "[нотс wил би: лœ:нд тэм**о**роу]"
+          },
+          {
+            "ours": "Завтра изучат правила?",
+            "thought": "Будут правила быть изучены завтра?",
+            "english": "Will rules be learned tomorrow?",
+            "transcription": "[wил ру:лз би: лœ:нд тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being learned",
+        "examples": [
+          {
+            "ours": "Когда ты пришёл, изучали узлы.",
+            "thought": "Узлы были «долго» изучены, когда ты прибыл.",
+            "english": "Knots were being learned when you arrived.",
+            "transcription": "[нотс wœ: б**и**:иŋ лœ:нд wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты пришёл, изучали правила?",
+            "thought": "Были правила «долго» изучены, когда ты прибыл?",
+            "english": "Were rules being learned when you arrived?",
+            "transcription": "[wœ: ру:лз б**и**:иŋ лœ:нд wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being learned",
+        "examples": [
+          {
+            "ours": "Сейчас изучают навигацию.",
+            "thought": "Навигация есть «долго» изучена сейчас.",
+            "english": "Navigation is being learned now.",
+            "transcription": "[нæвиг**э**йшн из б**и**:иŋ лœ:нд нау]"
+          },
+          {
+            "ours": "Сейчас изучают парусное дело?",
+            "thought": "Есть парусное дело «долго» изучено сейчас?",
+            "english": "Is sailing being learned now?",
+            "transcription": "[из с**э**йлиŋ б**и**:иŋ лœ:нд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be learning",
+        "examples": [
+          {
+            "ours": "Завтра они будут изучать узлы весь день.",
+            "thought": "Завтра они будут быть изучающими узлы весь день.",
+            "english": "Tomorrow they will be learning knots all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: л**œ**:ниŋ нотс о:л дэй]"
+          },
+          {
+            "ours": "Они завтра будут изучать правила?",
+            "thought": "Будут они быть изучающими правила завтра?",
+            "english": "Will they be learning rules tomorrow?",
+            "transcription": "[wил ðэй би: л**œ**:ниŋ ру:лз тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been learned",
+        "examples": [
+          {
+            "ours": "К полудню изучили узлы.",
+            "thought": "К полудню узлы имели быть изучены.",
+            "english": "By noon knots had been learned.",
+            "transcription": "[бай ну:н нотс хæд би:н лœ:нд]"
+          },
+          {
+            "ours": "К полудню изучили правила?",
+            "thought": "Имели правила быть изучены к полудню?",
+            "english": "Had rules been learned by noon?",
+            "transcription": "[хæд ру:лз би:н лœ:нд бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been learned",
+        "examples": [
+          {
+            "ours": "Уже изучили навигацию.",
+            "thought": "Навигация имеет уже быть изучена.",
+            "english": "Navigation has already been learned.",
+            "transcription": "[нæвиг**э**йшн хæз о:лр**э**ди би:н лœ:нд]"
+          },
+          {
+            "ours": "Уже изучили парусное дело?",
+            "thought": "Имеет парусное дело быть изучено уже?",
+            "english": "Has sailing been learned yet?",
+            "transcription": "[хæз с**э**йлиŋ би:н лœ:нд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been learned",
+        "examples": [
+          {
+            "ours": "К пятнице изучат узлы.",
+            "thought": "К пятнице узлы будет иметь быть изучены.",
+            "english": "By Friday knots will have been learned.",
+            "transcription": "[бай фр**а**йдэй нотс wил хæв би:н лœ:нд]"
+          },
+          {
+            "ours": "К пятнице изучат правила?",
+            "thought": "Будут правила иметь быть изучены к пятнице?",
+            "english": "Will rules have been learned by Friday?",
+            "transcription": "[wил ру:лз хæв би:н лœ:нд бай фр**а**йдэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: They have been learning navigation."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она изучит узлы.",
+        "thought": "Я знал она будет изучать узлы.",
+        "english": "I knew she would learn knots.",
+        "transcription": "[ай нью: ши: wуд лœ:н нотс]"
+      },
+      {
+        "ours": "Мы думали, что он не изучит правила.",
+        "thought": "Мы думали он будет не изучать правила.",
+        "english": "We thought he would not learn rules.",
+        "transcription": "[wи: θо:т хи: wуд нот лœ:н ру:лз]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "knot",
+      "meaning": "узел",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "knots"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "knots"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "knots"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "knots"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "knots"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "knots"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "knots"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "knots"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Knots"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Knots"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Knots"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "knots"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "knots"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "knots"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "knots"
+        }
+      ]
+    },
+    {
+      "word": "rule",
+      "meaning": "правило",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "rules"
+        }
+      ]
+    },
+    {
+      "word": "navigation",
+      "meaning": "навигация",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "navigation"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "navigation"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "navigation"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "navigation"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Navigation"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Navigation"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "Navigation"
+        }
+      ]
+    },
+    {
+      "word": "club",
+      "meaning": "клуб",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "club"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "club"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "club"
+        }
+      ]
+    },
+    {
+      "word": "sailing",
+      "meaning": "парусное дело",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sailing"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "sailing"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "sailing"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "sailing"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "sailing"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "sailing"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "sailing"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "Friday"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "Friday"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "Friday"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "meaning": "обед",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "lunch"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "lunch"
+        }
+      ]
+    }
+  ]
+}

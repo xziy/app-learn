@@ -1,5 +1,5 @@
 {
-  "spec": 3,
+  "spec": 4,
   "verb": "absorb",
   "forms": {
     "base": [
@@ -50,7 +50,7 @@
             "ours": "Моя дочь вчера не усвоила этот урок.",
             "thought": "Моя дочь [сделала] не усваивать этот урок вчера.",
             "english": "My daughter didn't absorb this lesson yesterday.",
-            "transcription": "[май д**о**:тэ диднт эбз**о**:б ðис л**э**сэн й**э**стэдэй]"
+            "transcription": "[май д**о**:тэ диднт эбз**о**:б ðис л**э**сн й**э**стэдэй]"
           },
           {
             "ours": "Твой банк покрыл эти убытки?",
@@ -318,7 +318,7 @@
             "ours": "Эти старые шины не смягчили удар.",
             "thought": "[Известный] удар был не поглощён от этих старых шин.",
             "english": "The shock wasn't absorbed by these old tyres.",
-            "transcription": "[ðэ шок wознт эбз**о**:бд бай ðи:з оулд т**а**йэз]"
+            "transcription": "[ðэ шок wознт эбз**о**:бд бай ðи:з оулд тайэз]"
           },
           {
             "ours": "Твой маленький магазин поглотила большая сеть?",
@@ -1371,6 +1371,7 @@
     {
       "word": "chain",
       "meaning": "сеть",
+      "sense": "business",
       "used_in": [
         {
           "phrase": "passive.simple.past.2",
@@ -1651,6 +1652,7 @@
     {
       "word": "term",
       "meaning": "семестр",
+      "sense": "semester",
       "used_in": [
         {
           "phrase": "passive.continuous.future.2",

@@ -1,0 +1,824 @@
+{
+  "spec": 4,
+  "verb": "open",
+  "forms": {
+    "base": [
+      {
+        "word": "open",
+        "transcription": "[**о**упэн]"
+      }
+    ],
+    "past": [
+      {
+        "word": "opened",
+        "transcription": "[**о**упэнд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "opened",
+        "transcription": "[**о**упэнд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "opening",
+        "transcription": "[**о**упэниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "opens",
+        "transcription": "[**о**упэнз]"
+      }
+    ]
+  },
+  "meaning": "открывать, открываться",
+  "notes": "правильный переходный и непереходный глагол; переходное значение образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "opened",
+        "examples": [
+          {
+            "ours": "Вчера я открыл люк.",
+            "thought": "Вчера я открыл [известный] люк.",
+            "english": "Yesterday I opened the hatch.",
+            "transcription": "[й**э**стэдэй ай **о**упэнд ðэ хæч]"
+          },
+          {
+            "ours": "Ты открыл кингстон?",
+            "thought": "[Сделал] ты открывать [известный] кингстон?",
+            "english": "Did you open the seacock?",
+            "transcription": "[дид ю: **о**упэн ðэ с**и**:кок]"
+          },
+          {
+            "ours": "Она не открыла рундук.",
+            "thought": "Она [сделала] не открывать [известный] рундук.",
+            "english": "She did not open the locker.",
+            "transcription": "[ши: дид нот **о**упэн ðэ л**о**кэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "open, opens",
+        "examples": [
+          {
+            "ours": "Марина открывается в восемь.",
+            "thought": "[Известная] марина открывается в восемь.",
+            "english": "The marina opens at eight.",
+            "transcription": "[ðэ мэр**и**:нэ **о**упэнз æт эйт]"
+          },
+          {
+            "ours": "Ты открываешь люк каждый день?",
+            "thought": "[Делаешь] ты открывать [известный] люк каждый день?",
+            "english": "Do you open the hatch every day?",
+            "transcription": "[ду: ю: **о**упэн ðэ хæч **э**ври дэй]"
+          },
+          {
+            "ours": "Мы не открываем рундуки в море.",
+            "thought": "Мы [делаем] не открывать рундуки в море.",
+            "english": "We do not open lockers at sea.",
+            "transcription": "[wи: ду: нот **о**упэн л**о**кэз æт си:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will open",
+        "examples": [
+          {
+            "ours": "Завтра я открою люк.",
+            "thought": "Завтра я буду открывать [известный] люк.",
+            "english": "Tomorrow I will open the hatch.",
+            "transcription": "[тэм**о**роу ай wил **о**упэн ðэ хæч]"
+          },
+          {
+            "ours": "Ты откроешь кингстон?",
+            "thought": "Будешь ты открывать [известный] кингстон?",
+            "english": "Will you open the seacock?",
+            "transcription": "[wил ю: **о**упэн ðэ с**и**:кок]"
+          },
+          {
+            "ours": "Марина не откроется ночью.",
+            "thought": "[Известная] марина будет не открываться в ночь.",
+            "english": "The marina will not open at night.",
+            "transcription": "[ðэ мэр**и**:нэ wил нот **о**упэн æт найт]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were opening",
+        "examples": [
+          {
+            "ours": "Вчера утром мы открывали рундуки.",
+            "thought": "Вчера утром мы были открывающими [известные] рундуки.",
+            "english": "Yesterday morning we were opening the lockers.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: **о**упэниŋ ðэ л**о**кэз]"
+          },
+          {
+            "ours": "Ты открывал люк, когда я позвал?",
+            "thought": "Был ты открывающим [известный] люк, когда я позвал?",
+            "english": "Were you opening the hatch when I called?",
+            "transcription": "[wœ: ю: **о**упэниŋ ðэ хæч wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are opening",
+        "examples": [
+          {
+            "ours": "Мы сейчас открываем люк.",
+            "thought": "Мы являемся открывающими [известный] люк сейчас.",
+            "english": "We are opening the hatch now.",
+            "transcription": "[wи: а: **о**упэниŋ ðэ хæч нау]"
+          },
+          {
+            "ours": "Шкипер сейчас открывает кингстон?",
+            "thought": "Является [известный] шкипер открывающим [известный] кингстон сейчас?",
+            "english": "Is the skipper opening the seacock now?",
+            "transcription": "[из ðэ ск**и**пэ **о**упэниŋ ðэ с**и**:кок нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be opening",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем открывать рундуки.",
+            "thought": "Завтра утром мы будем быть открывающими [известные] рундуки.",
+            "english": "Tomorrow morning we will be opening the lockers.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: **о**упэниŋ ðэ л**о**кэз]"
+          },
+          {
+            "ours": "Ты будешь открывать люк, когда они прибудут?",
+            "thought": "Будешь ты быть открывающим [известный] люк, когда они прибудут?",
+            "english": "Will you be opening the hatch when they arrive?",
+            "transcription": "[wил ю: би: **о**упэниŋ ðэ хæч wэн ðэй эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had opened",
+        "examples": [
+          {
+            "ours": "К полудню я уже открыл люк.",
+            "thought": "К полудню я имел уже открытым [известный] люк.",
+            "english": "By noon I had already opened the hatch.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди **о**упэнд ðэ хæч]"
+          },
+          {
+            "ours": "Ты открыл кингстон до отхода?",
+            "thought": "Имел ты открытым [известный] кингстон до отхода?",
+            "english": "Had you opened the seacock before departure?",
+            "transcription": "[хæд ю: **о**упэнд ðэ с**и**:кок биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has opened",
+        "examples": [
+          {
+            "ours": "Я уже открыл рундук.",
+            "thought": "Я имею уже открытым [известный] рундук.",
+            "english": "I have already opened the locker.",
+            "transcription": "[ай хæв о:лр**э**ди **о**упэнд ðэ л**о**кэ]"
+          },
+          {
+            "ours": "Ты уже открыл люк?",
+            "thought": "Имеешь ты открытым [известный] люк уже?",
+            "english": "Have you opened the hatch yet?",
+            "transcription": "[хæв ю: **о**упэнд ðэ хæч йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have opened",
+        "examples": [
+          {
+            "ours": "К полудню я открою рундук.",
+            "thought": "К полудню я буду иметь открытым [известный] рундук.",
+            "english": "By noon I will have opened the locker.",
+            "transcription": "[бай ну:н ай wил хæв **о**упэнд ðэ л**о**кэ]"
+          },
+          {
+            "ours": "Ты откроешь люк к пяти?",
+            "thought": "Будешь ты иметь открытым [известный] люк к пяти?",
+            "english": "Will you have opened the hatch by five?",
+            "transcription": "[wил ю: хæв **о**упэнд ðэ хæч бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been opening",
+        "examples": [
+          {
+            "ours": "Мы час открывали рундуки, когда пошёл дождь.",
+            "thought": "Мы имели быть открывающими рундуки целый [какой-то] час, когда он начал идти дождём.",
+            "english": "We had been opening lockers for an hour when it started raining.",
+            "transcription": "[wи: хæд би:н **о**упэниŋ л**о**кэз фо: эн **а**уэ wэн ит ст**а**:тид р**э**йниŋ]"
+          },
+          {
+            "ours": "Ты открывал упаковки два часа до отплытия?",
+            "thought": "Имел ты быть открывающим упаковки целых два часа до отхода?",
+            "english": "Had you been opening packages for two hours before departure?",
+            "transcription": "[хæд ю: би:н **о**упэниŋ п**æ**киджиз фо: ту: **а**уэз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been opening",
+        "examples": [
+          {
+            "ours": "Мы открываем рундуки уже час.",
+            "thought": "Мы имеем быть открывающими рундуки целый [какой-то] час.",
+            "english": "We have been opening lockers for an hour.",
+            "transcription": "[wи: хæв би:н **о**упэниŋ л**о**кэз фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты открываешь упаковки уже два часа?",
+            "thought": "Имеешь ты быть открывающим упаковки целых два часа?",
+            "english": "Have you been opening packages for two hours?",
+            "transcription": "[хæв ю: би:н **о**упэниŋ п**æ**киджиз фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been opening",
+        "examples": [
+          {
+            "ours": "К пяти мы будем открывать рундуки уже два часа.",
+            "thought": "К пяти мы будем иметь быть открывающими рундуки целых два часа.",
+            "english": "By five we will have been opening lockers for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н **о**упэниŋ л**о**кэз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь открывать упаковки уже час?",
+            "thought": "Будешь ты иметь быть открывающим упаковки целый [какой-то] час к полудню?",
+            "english": "Will you have been opening packages for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н **о**упэниŋ п**æ**киджиз фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were opened",
+        "examples": [
+          {
+            "ours": "Вчера люк открыли.",
+            "thought": "[Известный] люк был открыт вчера.",
+            "english": "The hatch was opened yesterday.",
+            "transcription": "[ðэ хæч wоз **о**упэнд й**э**стэдэй]"
+          },
+          {
+            "ours": "Кингстоны открыли перед отходом?",
+            "thought": "Были [известные] кингстоны открыты до отхода?",
+            "english": "Were the seacocks opened before departure?",
+            "transcription": "[wœ: ðэ с**и**:кокс **о**упэнд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are opened",
+        "examples": [
+          {
+            "ours": "Люк открывают каждое утро.",
+            "thought": "[Известный] люк есть открыт каждое утро.",
+            "english": "The hatch is opened every morning.",
+            "transcription": "[ðэ хæч из **о**упэнд **э**ври м**о**:ниŋ]"
+          },
+          {
+            "ours": "Рундуки открывают перед осмотром?",
+            "thought": "Есть [известные] рундуки открыты до [известного] осмотра?",
+            "english": "Are the lockers opened before the inspection?",
+            "transcription": "[а: ðэ л**о**кэз **о**упэнд биф**о**: ðи инсп**э**кшн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be opened",
+        "examples": [
+          {
+            "ours": "Люк откроют завтра.",
+            "thought": "[Известный] люк будет быть открыт завтра.",
+            "english": "The hatch will be opened tomorrow.",
+            "transcription": "[ðэ хæч wил би: **о**упэнд тэм**о**роу]"
+          },
+          {
+            "ours": "Кингстон откроют до отхода?",
+            "thought": "Будет [известный] кингстон быть открыт до отхода?",
+            "english": "Will the seacock be opened before departure?",
+            "transcription": "[wил ðэ с**и**:кок би: **о**упэнд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being opened",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, люк открывали.",
+            "thought": "[Известный] люк был «долго» открыт, когда я прибыл.",
+            "english": "The hatch was being opened when I arrived.",
+            "transcription": "[ðэ хæч wоз б**и**:иŋ **о**упэнд wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, рундуки открывали?",
+            "thought": "Были [известные] рундуки «долго» открыты, когда ты позвонил?",
+            "english": "Were the lockers being opened when you called?",
+            "transcription": "[wœ: ðэ л**о**кэз б**и**:иŋ **о**упэнд wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being opened",
+        "examples": [
+          {
+            "ours": "Люк сейчас открывают.",
+            "thought": "[Известный] люк есть «долго» открыт сейчас.",
+            "english": "The hatch is being opened now.",
+            "transcription": "[ðэ хæч из б**и**:иŋ **о**упэнд нау]"
+          },
+          {
+            "ours": "Рундуки сейчас открывают?",
+            "thought": "Есть [известные] рундуки «долго» открыты сейчас?",
+            "english": "Are the lockers being opened now?",
+            "transcription": "[а: ðэ л**о**кэз б**и**:иŋ **о**упэнд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be opening",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут открывать рундуки.",
+            "thought": "Завтра утром они будут быть открывающими [известные] рундуки.",
+            "english": "Tomorrow morning they will be opening the lockers.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: **о**упэниŋ ðэ л**о**кэз]"
+          },
+          {
+            "ours": "Они будут открывать люк, когда мы придём?",
+            "thought": "Будут они быть открывающими [известный] люк, когда мы прибудем?",
+            "english": "Will they be opening the hatch when we arrive?",
+            "transcription": "[wил ðэй би: **о**упэниŋ ðэ хæч wэн wи: эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been opened",
+        "examples": [
+          {
+            "ours": "К полудню люк уже открыли.",
+            "thought": "К полудню [известный] люк имел уже быть открыт.",
+            "english": "By noon the hatch had already been opened.",
+            "transcription": "[бай ну:н ðэ хæч хæд о:лр**э**ди би:н **о**упэнд]"
+          },
+          {
+            "ours": "Кингстон открыли до отхода?",
+            "thought": "Имел [известный] кингстон быть открыт до отхода?",
+            "english": "Had the seacock been opened before departure?",
+            "transcription": "[хæд ðэ с**и**:кок би:н **о**упэнд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been opened",
+        "examples": [
+          {
+            "ours": "Люк уже открыли.",
+            "thought": "[Известный] люк имеет уже быть открыт.",
+            "english": "The hatch has already been opened.",
+            "transcription": "[ðэ хæч хæз о:лр**э**ди би:н **о**упэнд]"
+          },
+          {
+            "ours": "Рундуки уже открыли?",
+            "thought": "Имеют [известные] рундуки быть открыты уже?",
+            "english": "Have the lockers been opened yet?",
+            "transcription": "[хæв ðэ л**о**кэз би:н **о**упэнд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been opened",
+        "examples": [
+          {
+            "ours": "К полудню люк уже откроют.",
+            "thought": "К полудню [известный] люк будет иметь быть открыт.",
+            "english": "By noon the hatch will have been opened.",
+            "transcription": "[бай ну:н ðэ хæч wил хæв би:н **о**упэнд]"
+          },
+          {
+            "ours": "Рундуки откроют к пяти?",
+            "thought": "Будут [известные] рундуки иметь быть открыты к пяти?",
+            "english": "Will the lockers have been opened by five?",
+            "transcription": "[wил ðэ л**о**кэз хæв би:н **о**упэнд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been opening lockers."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она откроет люк.",
+        "thought": "Я знал, она будет открывать [известный] люк.",
+        "english": "I knew she would open the hatch.",
+        "transcription": "[ай нью: ши: wуд **о**упэн ðэ хæч]"
+      },
+      {
+        "ours": "Он думал, что мы не откроем кингстон.",
+        "thought": "Он думал, мы будем не открывать [известный] кингстон.",
+        "english": "He thought we would not open the seacock.",
+        "transcription": "[хи: θо:т wи: wуд нот **о**упэн ðэ с**и**:кок]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "hatch",
+      "meaning": "люк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "hatch"
+        }
+      ]
+    },
+    {
+      "word": "seacock",
+      "meaning": "кингстон",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "seacocks"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "seacock"
+        }
+      ]
+    },
+    {
+      "word": "locker",
+      "meaning": "рундук",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "locker"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "lockers"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "lockers"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "lockers"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "locker"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "locker"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "lockers"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "lockers"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "lockers"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "lockers"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "lockers"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "lockers"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "lockers"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "lockers"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "lockers"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "package",
+      "meaning": "упаковка",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "packages"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "packages"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "packages"
+        }
+      ]
+    },
+    {
+      "word": "inspection",
+      "meaning": "осмотр",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "inspection"
+        }
+      ]
+    }
+  ]
+}

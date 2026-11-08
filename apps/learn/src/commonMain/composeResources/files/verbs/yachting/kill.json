@@ -1,0 +1,880 @@
+{
+  "spec": 4,
+  "verb": "kill",
+  "forms": {
+    "base": [
+      {
+        "word": "kill",
+        "transcription": "[кил]"
+      }
+    ],
+    "past": [
+      {
+        "word": "killed",
+        "transcription": "[килд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "killed",
+        "transcription": "[килд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "killing",
+        "transcription": "[к**и**лиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "kills",
+        "transcription": "[килз]"
+      }
+    ]
+  },
+  "meaning": "выключать двигатель; уничтожать",
+  "notes": "правильный переходный глагол; разговорное kill the engine — выключить двигатель; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "killed",
+        "examples": [
+          {
+            "ours": "Вчера мы выключили двигатель.",
+            "thought": "Вчера мы выключили [известный] двигатель.",
+            "english": "Yesterday we killed the engine.",
+            "transcription": "[й**э**стэдэй wи: килд ðи **э**нджин]"
+          },
+          {
+            "ours": "Ты выключил насос?",
+            "thought": "[Сделал] ты выключать [известный] насос?",
+            "english": "Did you kill the pump?",
+            "transcription": "[дид ю: кил ðэ памп]"
+          },
+          {
+            "ours": "Она не уничтожила водоросли.",
+            "thought": "Она [сделала] не уничтожать [известные] водоросли.",
+            "english": "She did not kill the algae.",
+            "transcription": "[ши: дид нот кил ðи **æ**лджи:]"
+          }
+        ]
+      },
+      "present": {
+        "form": "kill, kills",
+        "examples": [
+          {
+            "ours": "Шкипер выключает двигатель у причала.",
+            "thought": "[Известный] шкипер выключает [известный] двигатель у [известного] причала.",
+            "english": "The skipper kills the engine at the dock.",
+            "transcription": "[ðэ ск**и**пэ килз ðи **э**нджин æт ðэ док]"
+          },
+          {
+            "ours": "Ты выключаешь насос ночью?",
+            "thought": "[Делаешь] ты выключать [известный] насос в ночь?",
+            "english": "Do you kill the pump at night?",
+            "transcription": "[ду: ю: кил ðэ памп æт найт]"
+          },
+          {
+            "ours": "Мы не останавливаем двигатель в канале.",
+            "thought": "Мы [делаем] не выключать [известный] двигатель в [известном] канале.",
+            "english": "We do not kill the engine in the channel.",
+            "transcription": "[wи: ду: нот кил ðи **э**нджин ин ðэ ч**æ**нл]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will kill",
+        "examples": [
+          {
+            "ours": "Завтра мы выключим двигатель.",
+            "thought": "Завтра мы будем выключать [известный] двигатель.",
+            "english": "Tomorrow we will kill the engine.",
+            "transcription": "[тэм**о**роу wи: wил кил ðи **э**нджин]"
+          },
+          {
+            "ours": "Ты выключишь двигатель?",
+            "thought": "Будешь ты выключать [известный] двигатель?",
+            "english": "Will you kill the engine?",
+            "transcription": "[wил ю: кил ðи **э**нджин]"
+          },
+          {
+            "ours": "Этот фильтр не уничтожит бактерии.",
+            "thought": "Этот фильтр будет не уничтожать бактерии.",
+            "english": "This filter will not kill bacteria.",
+            "transcription": "[ðис ф**и**лтэ wил нот кил бæкт**и**эриэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were killing",
+        "examples": [
+          {
+            "ours": "Вчера мы уничтожали водоросли.",
+            "thought": "Вчера мы были уничтожающими [известные] водоросли.",
+            "english": "Yesterday we were killing the algae.",
+            "transcription": "[й**э**стэдэй wи: wœ: к**и**лиŋ ðи **æ**лджи:]"
+          },
+          {
+            "ours": "Ты выключал насос, когда я позвал?",
+            "thought": "Был ты выключающим [известный] насос, когда я позвал?",
+            "english": "Were you killing the pump when I called?",
+            "transcription": "[wœ: ю: к**и**лиŋ ðэ памп wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are killing",
+        "examples": [
+          {
+            "ours": "Мы сейчас останавливаем двигатель.",
+            "thought": "Мы являемся выключающими [известный] двигатель сейчас.",
+            "english": "We are killing the engine now.",
+            "transcription": "[wи: а: к**и**лиŋ ðи **э**нджин нау]"
+          },
+          {
+            "ours": "Фильтр сейчас уничтожает бактерии?",
+            "thought": "Является [известный] фильтр уничтожающим бактерии сейчас?",
+            "english": "Is the filter killing bacteria now?",
+            "transcription": "[из ðэ ф**и**лтэ к**и**лиŋ бæкт**и**эриэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be killing",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем уничтожать водоросли.",
+            "thought": "Завтра утром мы будем быть уничтожающими [известные] водоросли.",
+            "english": "Tomorrow morning we will be killing the algae.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: к**и**лиŋ ðи **æ**лджи:]"
+          },
+          {
+            "ours": "Ты будешь выключать двигатель, когда они прибудут?",
+            "thought": "Будешь ты быть выключающим [известный] двигатель, когда они прибудут?",
+            "english": "Will you be killing the engine when they arrive?",
+            "transcription": "[wил ю: би: к**и**лиŋ ðи **э**нджин wэн ðэй эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had killed",
+        "examples": [
+          {
+            "ours": "К полудню мы уже выключили двигатель.",
+            "thought": "К полудню мы имели уже выключенным [известный] двигатель.",
+            "english": "By noon we had already killed the engine.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди килд ðи **э**нджин]"
+          },
+          {
+            "ours": "Фильтр уничтожил бактерии до отхода?",
+            "thought": "Имел [известный] фильтр уничтоженными бактерии до отхода?",
+            "english": "Had the filter killed bacteria before departure?",
+            "transcription": "[хæд ðэ ф**и**лтэ килд бæкт**и**эриэ биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has killed",
+        "examples": [
+          {
+            "ours": "Мы уже выключили двигатель.",
+            "thought": "Мы имеем уже выключенным [известный] двигатель.",
+            "english": "We have already killed the engine.",
+            "transcription": "[wи: хæв о:лр**э**ди килд ðи **э**нджин]"
+          },
+          {
+            "ours": "Ты уже уничтожил водоросли?",
+            "thought": "Имеешь ты уничтоженными [известные] водоросли уже?",
+            "english": "Have you killed the algae yet?",
+            "transcription": "[хæв ю: килд ðи **æ**лджи: йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have killed",
+        "examples": [
+          {
+            "ours": "К полудню мы выключим двигатель.",
+            "thought": "К полудню мы будем иметь выключенным [известный] двигатель.",
+            "english": "By noon we will have killed the engine.",
+            "transcription": "[бай ну:н wи: wил хæв килд ðи **э**нджин]"
+          },
+          {
+            "ours": "Фильтр уничтожит бактерии к пяти?",
+            "thought": "Будет [известный] фильтр иметь уничтоженными бактерии к пяти?",
+            "english": "Will the filter have killed bacteria by five?",
+            "transcription": "[wил ðэ ф**и**лтэ хæв килд бæкт**и**эриэ бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been killing",
+        "examples": [
+          {
+            "ours": "Фильтр час уничтожал бактерии до ремонта.",
+            "thought": "[Известный] фильтр имел быть уничтожающим бактерии целый [какой-то] час до ремонта.",
+            "english": "The filter had been killing bacteria for an hour before repairs.",
+            "transcription": "[ðэ ф**и**лтэ хæд би:н к**и**лиŋ бæкт**и**эриэ фо: эн **а**уэ биф**о**: рип**э**эз]"
+          },
+          {
+            "ours": "Устройство два часа уничтожало водоросли до шторма?",
+            "thought": "Имело [известное] устройство быть уничтожающим водоросли целых два часа до [известного] шторма?",
+            "english": "Had the device been killing algae for two hours before the storm?",
+            "transcription": "[хæд ðэ див**а**йс би:н к**и**лиŋ **æ**лджи: фо: ту: **а**уэз биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been killing",
+        "examples": [
+          {
+            "ours": "Фильтр уничтожает бактерии уже час.",
+            "thought": "[Известный] фильтр имеет быть уничтожающим бактерии целый [какой-то] час.",
+            "english": "The filter has been killing bacteria for an hour.",
+            "transcription": "[ðэ ф**и**лтэ хæз би:н к**и**лиŋ бæкт**и**эриэ фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Устройство уничтожает водоросли уже два часа?",
+            "thought": "Имеет [известное] устройство быть уничтожающим водоросли целых два часа?",
+            "english": "Has the device been killing algae for two hours?",
+            "transcription": "[хæз ðэ див**а**йс би:н к**и**лиŋ **æ**лджи: фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been killing",
+        "examples": [
+          {
+            "ours": "К пяти фильтр будет уничтожать бактерии уже два часа.",
+            "thought": "К пяти [известный] фильтр будет иметь быть уничтожающим бактерии целых два часа.",
+            "english": "By five the filter will have been killing bacteria for two hours.",
+            "transcription": "[бай файв ðэ ф**и**лтэ wил хæв би:н к**и**лиŋ бæкт**и**эриэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню устройство будет уничтожать водоросли уже час?",
+            "thought": "Будет [известное] устройство иметь быть уничтожающим водоросли целый [какой-то] час к полудню?",
+            "english": "Will the device have been killing algae for an hour by noon?",
+            "transcription": "[wил ðэ див**а**йс хæв би:н к**и**лиŋ **æ**лджи: фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were killed",
+        "examples": [
+          {
+            "ours": "Вчера двигатель выключили.",
+            "thought": "[Известный] двигатель был выключен вчера.",
+            "english": "The engine was killed yesterday.",
+            "transcription": "[ðи **э**нджин wоз килд й**э**стэдэй]"
+          },
+          {
+            "ours": "Насосы выключили до отхода?",
+            "thought": "Были [известные] насосы выключены до отхода?",
+            "english": "Were the pumps killed before departure?",
+            "transcription": "[wœ: ðэ пампс килд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are killed",
+        "examples": [
+          {
+            "ours": "Двигатель выключают у причала.",
+            "thought": "[Известный] двигатель есть выключен у [известного] причала.",
+            "english": "The engine is killed at the dock.",
+            "transcription": "[ðи **э**нджин из килд æт ðэ док]"
+          },
+          {
+            "ours": "Насосы выключают ночью?",
+            "thought": "Есть [известные] насосы выключены в ночь?",
+            "english": "Are the pumps killed at night?",
+            "transcription": "[а: ðэ пампс килд æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be killed",
+        "examples": [
+          {
+            "ours": "Двигатель выключат у причала.",
+            "thought": "[Известный] двигатель будет быть выключен у [известного] причала.",
+            "english": "The engine will be killed at the dock.",
+            "transcription": "[ðи **э**нджин wил би: килд æт ðэ док]"
+          },
+          {
+            "ours": "Насос выключат до отхода?",
+            "thought": "Будет [известный] насос быть выключен до отхода?",
+            "english": "Will the pump be killed before departure?",
+            "transcription": "[wил ðэ памп би: килд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being killed",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, двигатель выключали.",
+            "thought": "[Известный] двигатель был «долго» выключен, когда я прибыл.",
+            "english": "The engine was being killed when I arrived.",
+            "transcription": "[ðи **э**нджин wоз б**и**:иŋ килд wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, насосы выключали?",
+            "thought": "Были [известные] насосы «долго» выключены, когда ты позвонил?",
+            "english": "Were the pumps being killed when you called?",
+            "transcription": "[wœ: ðэ пампс б**и**:иŋ килд wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being killed",
+        "examples": [
+          {
+            "ours": "Двигатель сейчас выключают.",
+            "thought": "[Известный] двигатель есть «долго» выключен сейчас.",
+            "english": "The engine is being killed now.",
+            "transcription": "[ðи **э**нджин из б**и**:иŋ килд нау]"
+          },
+          {
+            "ours": "Насосы сейчас выключают?",
+            "thought": "Есть [известные] насосы «долго» выключены сейчас?",
+            "english": "Are the pumps being killed now?",
+            "transcription": "[а: ðэ пампс б**и**:иŋ килд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be killing",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут выключать двигатель.",
+            "thought": "Завтра утром они будут быть выключающими [известный] двигатель.",
+            "english": "Tomorrow morning they will be killing the engine.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: к**и**лиŋ ðи **э**нджин]"
+          },
+          {
+            "ours": "Они будут выключать насос, когда мы прибудем?",
+            "thought": "Будут они быть выключающими [известный] насос, когда мы прибудем?",
+            "english": "Will they be killing the pump when we arrive?",
+            "transcription": "[wил ðэй би: к**и**лиŋ ðэ памп wэн wи: эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been killed",
+        "examples": [
+          {
+            "ours": "К полудню двигатель уже выключили.",
+            "thought": "К полудню [известный] двигатель имел уже быть выключен.",
+            "english": "By noon the engine had already been killed.",
+            "transcription": "[бай ну:н ðи **э**нджин хæд о:лр**э**ди би:н килд]"
+          },
+          {
+            "ours": "Насос выключили до отхода?",
+            "thought": "Имел [известный] насос быть выключен до отхода?",
+            "english": "Had the pump been killed before departure?",
+            "transcription": "[хæд ðэ памп би:н килд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been killed",
+        "examples": [
+          {
+            "ours": "Двигатель уже выключили.",
+            "thought": "[Известный] двигатель имеет уже быть выключен.",
+            "english": "The engine has already been killed.",
+            "transcription": "[ðи **э**нджин хæз о:лр**э**ди би:н килд]"
+          },
+          {
+            "ours": "Насосы уже выключили?",
+            "thought": "Имеют [известные] насосы быть выключены уже?",
+            "english": "Have the pumps been killed yet?",
+            "transcription": "[хæв ðэ пампс би:н килд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been killed",
+        "examples": [
+          {
+            "ours": "К полудню двигатель уже выключат.",
+            "thought": "К полудню [известный] двигатель будет иметь быть выключен.",
+            "english": "By noon the engine will have been killed.",
+            "transcription": "[бай ну:н ðи **э**нджин wил хæв би:н килд]"
+          },
+          {
+            "ours": "Насос выключат к пяти?",
+            "thought": "Будет [известный] насос иметь быть выключен к пяти?",
+            "english": "Will the pump have been killed by five?",
+            "transcription": "[wил ðэ памп хæв би:н килд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: The filter has been killing bacteria."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она выключит двигатель.",
+        "thought": "Я знал, она будет выключать [известный] двигатель.",
+        "english": "I knew she would kill the engine.",
+        "transcription": "[ай нью: ши: wуд кил ðи **э**нджин]"
+      },
+      {
+        "ours": "Он думал, что мы не выключим двигатель.",
+        "thought": "Он думал, мы будем не выключать [известный] двигатель.",
+        "english": "He thought we would not kill the engine.",
+        "transcription": "[хи: θо:т wи: wуд нот кил ðи **э**нджин]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "насос",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "pumps"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "pumps"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "pumps"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "pumps"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "pumps"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "algae",
+      "meaning": "водоросли",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "algae"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "algae"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "algae"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "algae"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "algae"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "algae"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "algae"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "dock",
+      "meaning": "причал",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "dock"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "night"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "channel",
+      "meaning": "канал",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "channel"
+        }
+      ]
+    },
+    {
+      "word": "filter",
+      "meaning": "фильтр",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "filter"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "filter"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "filter"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "filter"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "filter"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "filter"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "filter"
+        }
+      ]
+    },
+    {
+      "word": "bacteria",
+      "meaning": "бактерии",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "bacteria"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "bacteria"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "bacteria"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "bacteria"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "bacteria"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "bacteria"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "bacteria"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "repairs"
+        }
+      ]
+    },
+    {
+      "word": "device",
+      "meaning": "устройство",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "device"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "device"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "device"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "storm"
+        }
+      ]
+    }
+  ]
+}

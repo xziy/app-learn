@@ -1,0 +1,761 @@
+{
+  "spec": 4,
+  "verb": "finish",
+  "forms": {
+    "base": [{"word": "finish", "transcription": "[ф**и**ниш]"}],
+    "past": [{"word": "finished", "transcription": "[ф**и**ништ]"}],
+    "participle": [{"word": "finished", "transcription": "[ф**и**ништ]"}],
+    "ing": [{"word": "finishing", "transcription": "[ф**и**нишиŋ]"}],
+    "s": [{"word": "finishes", "transcription": "[ф**и**нишиз]"}]
+  },
+  "meaning": "заканчивать, финишировать, доделывать, отделывать",
+  "notes": "правильный глагол; бывает с объектом (finish the repair — закончить ремонт) и без него (the race finishes — гонка заканчивается, we finished third — мы финишировали третьими); после finish глагол идёт с -ing: finish painting — докрасить; есть пассив, в том числе в значении «отделывать»: finished in teak — отделан тиком",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "finished",
+        "examples": [
+          {
+            "ours": "Вчера мы пришли к финишу третьими.",
+            "thought": "Вчера мы закончили [известную] гонку на третьем месте.",
+            "english": "Yesterday we finished the race in third place.",
+            "transcription": "[й**э**стэдэй wи: ф**и**ништ ðэ рэйс ин θœ:д плэйс]"
+          },
+          {
+            "ours": "Экипаж не закончил ремонт до темноты.",
+            "thought": "[Известный] экипаж [сделал] не заканчивать [известный] ремонт до темноты.",
+            "english": "The crew didn't finish the repair before dark.",
+            "transcription": "[ðэ кру: диднт ф**и**ниш ðэ рип**э**э биф**о**: да:к]"
+          },
+          {
+            "ours": "Вы прошли переход за два дня?",
+            "thought": "[Сделали] вы заканчивать [известный] переход за два дня?",
+            "english": "Did you finish the crossing in two days?",
+            "transcription": "[дид ю: ф**и**ниш ðэ кр**о**сиŋ ин ту: дэйз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "finish, finishes",
+        "examples": [
+          {
+            "ours": "Гонка заканчивается у маяка.",
+            "thought": "[Известная] гонка заканчивается у [известного] маяка.",
+            "english": "The race finishes at the lighthouse.",
+            "transcription": "[ðэ рэйс ф**и**нишиз æт ðэ л**а**йтхаус]"
+          },
+          {
+            "ours": "Наш клуб закрывает сезон только в октябре.",
+            "thought": "Наш клуб [делает] не заканчивать [известный] сезон до октября.",
+            "english": "Our club doesn't finish the season until October.",
+            "transcription": "[ауэ клаб дазнт ф**и**ниш ðэ с**и**:зн энт**и**л окт**о**убэ]"
+          },
+          {
+            "ours": "Регата заканчивается в воскресенье?",
+            "thought": "[Делает] [известная] регата заканчиваться в воскресенье?",
+            "english": "Does the regatta finish on Sunday?",
+            "transcription": "[даз ðэ риг**æ**тэ ф**и**ниш он с**а**ндэй]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will finish",
+        "examples": [
+          {
+            "ours": "Завтра мы докрасим корпус.",
+            "thought": "Завтра мы будем заканчивать красить [известный] корпус.",
+            "english": "Tomorrow we will finish painting the hull.",
+            "transcription": "[тэм**о**роу wи: wил ф**и**ниш п**э**йнтиŋ ðэ хал]"
+          },
+          {
+            "ours": "Парусный мастер не дошьёт наш новый грот до мая.",
+            "thought": "[Известный] парусный мастер будет не заканчивать наш новый грот до мая.",
+            "english": "The sailmaker won't finish our new mainsail before May.",
+            "transcription": "[ðэ с**э**йлмэйкэ wоунт ф**и**ниш ауэ нью: м**э**йнсэйл биф**о**: мэй]"
+          },
+          {
+            "ours": "Ты сегодня закончишь проверку двигателя?",
+            "thought": "Будешь ты заканчивать [известную] двигателя проверку сегодня?",
+            "english": "Will you finish the engine check today?",
+            "transcription": "[wил ю: ф**и**ниш ðи **э**нджин чэк тэд**э**й]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were finishing",
+        "examples": [
+          {
+            "ours": "Мы как раз доедали ужин, когда якорь пополз.",
+            "thought": "Мы были как раз заканчивающими ужин, когда [известный] якорь начал ползти.",
+            "english": "We were just finishing dinner when the anchor started to drag.",
+            "transcription": "[wи: wœ: джаст ф**и**нишиŋ д**и**нэ wэн ðи **æ**нкэ ст**а**:тид ту дрæг]"
+          },
+          {
+            "ours": "Ты уже подходил к финишу, когда стих ветер?",
+            "thought": "Был ты заканчивающим [известную] гонку, когда [известный] ветер стих?",
+            "english": "Were you finishing the race when the wind dropped?",
+            "transcription": "[wœ: ю: ф**и**нишиŋ ðэ рэйс wэн ðэ wинд дропт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are finishing",
+        "examples": [
+          {
+            "ours": "Я сейчас доделываю сплесень на этом тросе.",
+            "thought": "Я являюсь заканчивающим [известный] сплесень на этом тросе сейчас.",
+            "english": "I am finishing the splice on this rope now.",
+            "transcription": "[ай æм ф**и**нишиŋ ðэ сплайс он ðис роуп нау]"
+          },
+          {
+            "ours": "Сегодня мы не доделываем палубу из-за дождя.",
+            "thought": "Мы являемся не заканчивающими [известную] палубу сегодня из-за [известного] дождя.",
+            "english": "We aren't finishing the deck today because of the rain.",
+            "transcription": "[wи: а:нт ф**и**нишиŋ ðэ дэк тэд**э**й бик**о**з ов ðэ рэйн]"
+          },
+          {
+            "ours": "Шкипер сейчас заканчивает инструктаж?",
+            "thought": "Является [известный] шкипер заканчивающим [известный] инструктаж сейчас?",
+            "english": "Is the skipper finishing the briefing now?",
+            "transcription": "[из ðэ ск**и**пэ ф**и**нишиŋ ðэ бр**и**:фиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be finishing",
+        "examples": [
+          {
+            "ours": "Завтра в шесть мы будем заканчивать переход к острову.",
+            "thought": "В шесть завтра мы будем быть заканчивающими [известный] переход к [известному] острову.",
+            "english": "At six tomorrow we will be finishing the passage to the island.",
+            "transcription": "[æт сикс тэм**о**роу wи: wил би: ф**и**нишиŋ ðэ п**æ**сидж ту ðи **а**йлэнд]"
+          },
+          {
+            "ours": "Она не освободится с вахты до полуночи.",
+            "thought": "Она будет не быть заканчивающей её вахту до полуночи.",
+            "english": "She won't be finishing her watch until midnight.",
+            "transcription": "[ши: wоунт би: ф**и**нишиŋ хœ: wоч энт**и**л м**и**днайт]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had finished",
+        "examples": [
+          {
+            "ours": "К полудню мы уже закончили чинить помпу.",
+            "thought": "К полудню мы имели уже законченной [известную] работу над [известной] помпой.",
+            "english": "By noon we had already finished the work on the pump.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди ф**и**ништ ðэ wœ:к он ðэ памп]"
+          },
+          {
+            "ours": "К тому времени экипаж ещё не убрал паруса.",
+            "thought": "К тогда [известный] экипаж имел не законченным укладывать [известные] паруса.",
+            "english": "By then the crew hadn't finished stowing the sails.",
+            "transcription": "[бай ðэн ðэ кру: хæднт ф**и**ништ ст**о**уиŋ ðэ сэйлз]"
+          },
+          {
+            "ours": "Механик закончил осмотр к пятнице?",
+            "thought": "Имел [известный] механик законченным его осмотр к пятнице?",
+            "english": "Had the mechanic finished his inspection by Friday?",
+            "transcription": "[хæд ðэ мик**æ**ник ф**и**ништ хиз инсп**э**кшн бай фр**а**йдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has finished",
+        "examples": [
+          {
+            "ours": "Я только что сменился с вахты.",
+            "thought": "Я имею только что законченной мою вахту.",
+            "english": "I have just finished my watch.",
+            "transcription": "[ай хæв джаст ф**и**ништ май wоч]"
+          },
+          {
+            "ours": "Мы ещё не прошли весь чек-лист.",
+            "thought": "Мы имеем не законченным [известный] чек-лист ещё.",
+            "english": "We haven't finished the checklist yet.",
+            "transcription": "[wи: хæвнт ф**и**ништ ðэ ч**э**клист йэт]"
+          },
+          {
+            "ours": "Гости уже позавтракали?",
+            "thought": "Имеют [известные] гости законченным завтрак уже?",
+            "english": "Have the guests finished breakfast yet?",
+            "transcription": "[хæв ðэ гэстс ф**и**ништ бр**э**кфэст йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have finished",
+        "examples": [
+          {
+            "ours": "К июню мы закончим переоборудование.",
+            "thought": "К июню мы будем иметь законченным [известное] переоборудование.",
+            "english": "By June we will have finished the refit.",
+            "transcription": "[бай джу:н wи: wил хæв ф**и**ништ ðэ р**и**:фит]"
+          },
+          {
+            "ours": "К шести мы ещё не закончим с такелажем.",
+            "thought": "К шести мы будем не иметь законченным [известный] такелаж.",
+            "english": "By six we won't have finished the rigging.",
+            "transcription": "[бай сикс wи: wоунт хæв ф**и**ништ ðэ р**и**гиŋ]"
+          },
+          {
+            "ours": "Ты закончишь план перехода к пятнице?",
+            "thought": "Будешь ты иметь законченным [известный] перехода план к пятнице?",
+            "english": "Will you have finished the passage plan by Friday?",
+            "transcription": "[wил ю: хæв ф**и**ништ ðэ п**æ**сидж плæн бай фр**а**йдэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been finishing",
+        "examples": [
+          {
+            "ours": "Мы два сезона приходили последними, пока не купили новые паруса.",
+            "thought": "Мы имели быть финиширующими последними целых два сезона, когда мы купили новые паруса.",
+            "english": "We had been finishing last for two seasons when we bought new sails.",
+            "transcription": "[wи: хæд би:н ф**и**нишиŋ ла:ст фо: ту: с**и**:знз wэн wи: бо:т нью: сэйлз]"
+          },
+          {
+            "ours": "К тому времени вечерние гонки уже несколько недель заканчивались в темноте?",
+            "thought": "Имели [известные] вечерние гонки быть заканчивающимися в [известной] темноте целые недели к тогда?",
+            "english": "Had the evening races been finishing in the dark for weeks by then?",
+            "transcription": "[хæд ðи **и**:вниŋ р**э**йсиз би:н ф**и**нишиŋ ин ðэ да:к фо: wи:кс бай ðэн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been finishing",
+        "examples": [
+          {
+            "ours": "Всю неделю гонки заканчиваются поздно из-за слабого ветра.",
+            "thought": "[Известные] гонки имеют быть заканчивающимися поздно всю неделю из-за слабых ветров.",
+            "english": "The races have been finishing late all week because of light winds.",
+            "transcription": "[ðэ р**э**йсиз хæв би:н ф**и**нишиŋ лэйт о:л wи:к бик**о**з ов лайт wиндз]"
+          },
+          {
+            "ours": "Как давно их яхта приходит первой?",
+            "thought": "Как долго имеет их яхта быть финиширующей первой?",
+            "english": "How long has their yacht been finishing first?",
+            "transcription": "[хау лоŋ хæз ðээ йот би:н ф**и**нишиŋ фœ:ст]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been finishing",
+        "examples": [
+          {
+            "ours": "К августу она уже два года будет приходить второй.",
+            "thought": "К августу она будет иметь быть финиширующей второй целых два года.",
+            "english": "By August she will have been finishing second for two years.",
+            "transcription": "[бай **о**:гэст ши: wил хæв би:н ф**и**нишиŋ с**э**кэнд фо: ту: йиэз]"
+          },
+          {
+            "ours": "К июню ты будешь уже год приходить первым?",
+            "thought": "Будешь ты иметь быть финиширующим первым целый [какой-то] год к июню?",
+            "english": "Will you have been finishing first for a year by June?",
+            "transcription": "[wил ю: хæв би:н ф**и**нишиŋ фœ:ст фо: э йиэ бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were finished",
+        "examples": [
+          {
+            "ours": "Новую палубу закончили в марте.",
+            "thought": "[Известная] новая палуба была закончена в марте.",
+            "english": "The new deck was finished in March.",
+            "transcription": "[ðэ нью: дэк wоз ф**и**ништ ин ма:ч]"
+          },
+          {
+            "ours": "Новые подушки не успели сшить до чартера.",
+            "thought": "[Известные] новые подушки были не закончены до [известного] чартера.",
+            "english": "The new cushions weren't finished before the charter.",
+            "transcription": "[ðэ нью: к**у**шнз wœ:нт ф**и**ништ биф**о**: ðэ ч**а**:тэ]"
+          },
+          {
+            "ours": "Инструктаж по безопасности закончили до отхода?",
+            "thought": "Был [известный] безопасности инструктаж закончен до отхода?",
+            "english": "Was the safety briefing finished before departure?",
+            "transcription": "[wоз ðэ с**э**йфти бр**и**:фиŋ ф**и**ништ биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are finished",
+        "examples": [
+          {
+            "ours": "Каюта отделана тиком.",
+            "thought": "[Известная] каюта есть отделана в тике.",
+            "english": "The cabin is finished in teak.",
+            "transcription": "[ðэ к**æ**бин из ф**и**ништ ин ти:к]"
+          },
+          {
+            "ours": "На этой лодке палубу не покрывают лаком.",
+            "thought": "На этой лодке [известная] палуба есть не отделана с лаком.",
+            "english": "On this boat the deck isn't finished with varnish.",
+            "transcription": "[он ðис боут ðэ дэк изнт ф**и**ништ wиð в**а**:ниш]"
+          },
+          {
+            "ours": "Мачту красят или покрывают лаком?",
+            "thought": "Есть [известная] мачта отделана с краской или лаком?",
+            "english": "Is the mast finished with paint or varnish?",
+            "transcription": "[из ðэ ма:ст ф**и**ништ wиð пэйнт о: в**а**:ниш]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be finished",
+        "examples": [
+          {
+            "ours": "Новый понтон достроят в мае.",
+            "thought": "[Известный] новый понтон будет быть закончен в мае.",
+            "english": "The new pontoon will be finished in May.",
+            "transcription": "[ðэ нью: понт**у**:н wил би: ф**и**ништ ин мэй]"
+          },
+          {
+            "ours": "Ремонт двигателя не закончат до регаты.",
+            "thought": "[Известный] двигателя ремонт будет не быть закончен до [известной] регаты.",
+            "english": "The engine repair won't be finished before the regatta.",
+            "transcription": "[ðи **э**нджин рип**э**э wоунт би: ф**и**ништ биф**о**: ðэ риг**æ**тэ]"
+          },
+          {
+            "ours": "Новые паруса сошьют к пятнице?",
+            "thought": "Будут [известные] новые паруса быть закончены к пятнице?",
+            "english": "Will the new sails be finished by Friday?",
+            "transcription": "[wил ðэ нью: сэйлз би: ф**и**ништ бай фр**а**йдэй]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being finished",
+        "examples": [
+          {
+            "ours": "Когда мы пришли, новую марину как раз достраивали.",
+            "thought": "[Известная] новая марина была «долго» закончена, когда мы прибыли.",
+            "english": "The new marina was being finished when we arrived.",
+            "transcription": "[ðэ нью: мэр**и**:нэ wоз б**и**:иŋ ф**и**ништ wэн wи: эр**а**йвд]"
+          },
+          {
+            "ours": "Лодку ещё доделывали, когда ты её купил?",
+            "thought": "Была [известная] лодка ещё «долго» закончена, когда ты купил её?",
+            "english": "Was the boat still being finished when you bought it?",
+            "transcription": "[wоз ðэ боут стил б**и**:иŋ ф**и**ништ wэн ю: бо:т ит]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being finished",
+        "examples": [
+          {
+            "ours": "Камбуз сейчас доделывают.",
+            "thought": "[Известный] камбуз есть «долго» закончен сейчас.",
+            "english": "The galley is being finished now.",
+            "transcription": "[ðэ г**æ**ли из б**и**:иŋ ф**и**ништ нау]"
+          },
+          {
+            "ours": "Спинакер сейчас дошивают?",
+            "thought": "Есть [известный] спинакер «долго» закончен сейчас?",
+            "english": "Is the spinnaker being finished now?",
+            "transcription": "[из ðэ сп**и**нэкэ б**и**:иŋ ф**и**ништ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be finishing",
+        "examples": [
+          {
+            "ours": "Завтра в полдень они будут заканчивать корпус.",
+            "thought": "В полдень завтра они будут быть заканчивающими [известный] корпус.",
+            "english": "At noon tomorrow they will be finishing the hull.",
+            "transcription": "[æт ну:н тэм**о**роу ðэй wил би: ф**и**нишиŋ ðэ хал]"
+          },
+          {
+            "ours": "Они будут доделывать камбуз в понедельник?",
+            "thought": "Будут они быть заканчивающими [известный] камбуз в понедельник?",
+            "english": "Will they be finishing the galley on Monday?",
+            "transcription": "[wил ðэй би: ф**и**нишиŋ ðэ г**æ**ли он м**а**ндэй]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been finished",
+        "examples": [
+          {
+            "ours": "К апрелю переоборудование уже закончили.",
+            "thought": "К апрелю [известное] переоборудование имело уже быть закончено.",
+            "english": "By April the refit had already been finished.",
+            "transcription": "[бай **э**йпрэл ðэ р**и**:фит хæд о:лр**э**ди би:н ф**и**ништ]"
+          },
+          {
+            "ours": "К тому времени паруса ещё не дошили.",
+            "thought": "К тогда [известные] паруса имели не быть закончены ещё.",
+            "english": "By then the sails hadn't been finished yet.",
+            "transcription": "[бай ðэн ðэ сэйлз хæднт би:н ф**и**ништ йэт]"
+          },
+          {
+            "ours": "Работу закончили до приезда владельца?",
+            "thought": "Имела [известная] работа быть закончена до [известного] владельца визита?",
+            "english": "Had the work been finished before the owner's visit?",
+            "transcription": "[хæд ðэ wœ:к би:н ф**и**ништ биф**о**: ðи **о**унэз в**и**зит]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been finished",
+        "examples": [
+          {
+            "ours": "Ремонт корпуса уже закончен.",
+            "thought": "[Известный] корпуса ремонт имеет уже быть закончен.",
+            "english": "The hull repair has already been finished.",
+            "transcription": "[ðэ хал рип**э**э хæз о:лр**э**ди би:н ф**и**ништ]"
+          },
+          {
+            "ours": "Новый камбуз ещё не доделали.",
+            "thought": "[Известный] новый камбуз имеет не быть закончен ещё.",
+            "english": "The new galley hasn't been finished yet.",
+            "transcription": "[ðэ нью: г**æ**ли хæзнт би:н ф**и**ништ йэт]"
+          },
+          {
+            "ours": "Проверку безопасности уже закончили?",
+            "thought": "Имеет [известная] безопасности проверка быть закончена уже?",
+            "english": "Has the safety check been finished yet?",
+            "transcription": "[хæз ðэ с**э**йфти чэк би:н ф**и**ништ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been finished",
+        "examples": [
+          {
+            "ours": "К маю новую марину достроят.",
+            "thought": "К маю [известная] новая марина будет иметь быть закончена.",
+            "english": "By May the new marina will have been finished.",
+            "transcription": "[бай мэй ðэ нью: мэр**и**:нэ wил хæв би:н ф**и**ништ]"
+          },
+          {
+            "ours": "К пятнице такелаж ещё не закончат.",
+            "thought": "К пятнице [известный] такелаж будет не иметь быть закончен.",
+            "english": "By Friday the rigging won't have been finished.",
+            "transcription": "[бай фр**а**йдэй ðэ р**и**гиŋ wоунт хæв би:н ф**и**ништ]"
+          },
+          {
+            "ours": "Яхту закончат к осени?",
+            "thought": "Будет [известная] яхта иметь быть закончена к осени?",
+            "english": "Will the yacht have been finished by autumn?",
+            "transcription": "[wил ðэ йот хæв би:н ф**и**ништ бай **о**:тэм]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being finished` не употребляется. Вместо этого скажут: `The galley has just been finished.` или `They are still finishing the galley.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что мы финишируем до заката.",
+        "thought": "Я знал, мы будем финишировать до заката.",
+        "english": "I knew we would finish before sunset.",
+        "transcription": "[ай нью: wи: wуд ф**и**ниш биф**о**: с**а**нсэт]"
+      },
+      {
+        "ours": "Она сказала, что мастер не дошьёт стаксель до вторника.",
+        "thought": "Она сказала, [известный] парусный мастер будет не заканчивать [известный] стаксель до вторника.",
+        "english": "She said the sailmaker wouldn't finish the jib until Tuesday.",
+        "transcription": "[ши: сэд ðэ с**э**йлмэйкэ wуднт ф**и**ниш ðэ джиб энт**и**л ть**ю**:здэй]"
+      },
+      {
+        "ours": "Ты думал, что экипаж закончит ремонт к полудню?",
+        "thought": "[Сделал] ты думать, [известный] экипаж будет заканчивать [известный] ремонт к полудню?",
+        "english": "Did you think the crew would finish the repair by noon?",
+        "transcription": "[дид ю: θинк ðэ кру: wуд ф**и**ниш ðэ рип**э**э бай ну:н]"
+      }
+    ]
+  },
+  "nouns": [
+    {"word": "race", "meaning": "гонка", "used_in": [
+      {"phrase": "active.simple.past.0", "form": "race"},
+      {"phrase": "active.simple.present.0", "form": "race"},
+      {"phrase": "active.continuous.past.1", "form": "race"},
+      {"phrase": "active.perfect_continuous.past.1", "form": "races"},
+      {"phrase": "active.perfect_continuous.present.0", "form": "races"}
+    ]},
+    {"word": "place", "meaning": "место", "used_in": [
+      {"phrase": "active.simple.past.0", "form": "place"}
+    ]},
+    {"word": "crew", "meaning": "экипаж", "used_in": [
+      {"phrase": "active.simple.past.1", "form": "crew"},
+      {"phrase": "active.perfect.past.1", "form": "crew"},
+      {"phrase": "future_in_past.2", "form": "crew"}
+    ]},
+    {"word": "repair", "meaning": "ремонт", "used_in": [
+      {"phrase": "active.simple.past.1", "form": "repair"},
+      {"phrase": "passive.simple.future.1", "form": "repair"},
+      {"phrase": "passive.perfect.present.0", "form": "repair"},
+      {"phrase": "future_in_past.2", "form": "repair"}
+    ]},
+    {"word": "dark", "meaning": "темнота", "used_in": [
+      {"phrase": "active.simple.past.1", "form": "dark"},
+      {"phrase": "active.perfect_continuous.past.1", "form": "dark"}
+    ]},
+    {"word": "crossing", "meaning": "переход", "used_in": [
+      {"phrase": "active.simple.past.2", "form": "crossing"}
+    ]},
+    {"word": "day", "meaning": "день", "used_in": [
+      {"phrase": "active.simple.past.2", "form": "days"}
+    ]},
+    {"word": "lighthouse", "meaning": "маяк", "used_in": [
+      {"phrase": "active.simple.present.0", "form": "lighthouse"}
+    ]},
+    {"word": "club", "meaning": "клуб", "used_in": [
+      {"phrase": "active.simple.present.1", "form": "club"}
+    ]},
+    {"word": "season", "meaning": "сезон", "used_in": [
+      {"phrase": "active.simple.present.1", "form": "season"},
+      {"phrase": "active.perfect_continuous.past.0", "form": "seasons"}
+    ]},
+    {"word": "October", "meaning": "октябрь", "used_in": [
+      {"phrase": "active.simple.present.1", "form": "October"}
+    ]},
+    {"word": "regatta", "meaning": "регата", "used_in": [
+      {"phrase": "active.simple.present.2", "form": "regatta"},
+      {"phrase": "passive.simple.future.1", "form": "regatta"}
+    ]},
+    {"word": "Sunday", "meaning": "воскресенье", "used_in": [
+      {"phrase": "active.simple.present.2", "form": "Sunday"}
+    ]},
+    {"word": "hull", "meaning": "корпус", "used_in": [
+      {"phrase": "active.simple.future.0", "form": "hull"},
+      {"phrase": "passive.continuous.future.0", "form": "hull"},
+      {"phrase": "passive.perfect.present.0", "form": "hull"}
+    ]},
+    {"word": "sailmaker", "meaning": "парусный мастер", "used_in": [
+      {"phrase": "active.simple.future.1", "form": "sailmaker"},
+      {"phrase": "future_in_past.1", "form": "sailmaker"}
+    ]},
+    {"word": "mainsail", "meaning": "грот", "used_in": [
+      {"phrase": "active.simple.future.1", "form": "mainsail"}
+    ]},
+    {"word": "May", "meaning": "май", "used_in": [
+      {"phrase": "active.simple.future.1", "form": "May"},
+      {"phrase": "passive.simple.future.0", "form": "May"},
+      {"phrase": "passive.perfect.future.0", "form": "May"}
+    ]},
+    {"word": "engine", "meaning": "двигатель", "used_in": [
+      {"phrase": "active.simple.future.2", "form": "engine"},
+      {"phrase": "passive.simple.future.1", "form": "engine"}
+    ]},
+    {"word": "check", "meaning": "проверка", "used_in": [
+      {"phrase": "active.simple.future.2", "form": "check"},
+      {"phrase": "passive.perfect.present.2", "form": "check"}
+    ]},
+    {"word": "dinner", "meaning": "ужин", "used_in": [
+      {"phrase": "active.continuous.past.0", "form": "dinner"}
+    ]},
+    {"word": "anchor", "meaning": "якорь", "used_in": [
+      {"phrase": "active.continuous.past.0", "form": "anchor"}
+    ]},
+    {"word": "wind", "meaning": "ветер", "used_in": [
+      {"phrase": "active.continuous.past.1", "form": "wind"},
+      {"phrase": "active.perfect_continuous.present.0", "form": "winds"}
+    ]},
+    {"word": "splice", "meaning": "сплесень", "used_in": [
+      {"phrase": "active.continuous.present.0", "form": "splice"}
+    ]},
+    {"word": "rope", "meaning": "трос", "used_in": [
+      {"phrase": "active.continuous.present.0", "form": "rope"}
+    ]},
+    {"word": "deck", "meaning": "палуба", "used_in": [
+      {"phrase": "active.continuous.present.1", "form": "deck"},
+      {"phrase": "passive.simple.past.0", "form": "deck"},
+      {"phrase": "passive.simple.present.1", "form": "deck"}
+    ]},
+    {"word": "rain", "meaning": "дождь", "used_in": [
+      {"phrase": "active.continuous.present.1", "form": "rain"}
+    ]},
+    {"word": "skipper", "meaning": "шкипер", "used_in": [
+      {"phrase": "active.continuous.present.2", "form": "skipper"}
+    ]},
+    {"word": "briefing", "meaning": "инструктаж", "used_in": [
+      {"phrase": "active.continuous.present.2", "form": "briefing"},
+      {"phrase": "passive.simple.past.2", "form": "briefing"}
+    ]},
+    {"word": "passage", "meaning": "переход", "used_in": [
+      {"phrase": "active.continuous.future.0", "form": "passage"},
+      {"phrase": "active.perfect.future.2", "form": "passage"}
+    ]},
+    {"word": "island", "meaning": "остров", "used_in": [
+      {"phrase": "active.continuous.future.0", "form": "island"}
+    ]},
+    {"word": "watch", "meaning": "вахта", "used_in": [
+      {"phrase": "active.continuous.future.1", "form": "watch"},
+      {"phrase": "active.perfect.present.0", "form": "watch"}
+    ]},
+    {"word": "midnight", "meaning": "полночь", "used_in": [
+      {"phrase": "active.continuous.future.1", "form": "midnight"}
+    ]},
+    {"word": "noon", "meaning": "полдень", "used_in": [
+      {"phrase": "active.perfect.past.0", "form": "noon"},
+      {"phrase": "passive.continuous.future.0", "form": "noon"},
+      {"phrase": "future_in_past.2", "form": "noon"}
+    ]},
+    {"word": "work", "meaning": "работа", "used_in": [
+      {"phrase": "active.perfect.past.0", "form": "work"},
+      {"phrase": "passive.perfect.past.2", "form": "work"}
+    ]},
+    {"word": "pump", "meaning": "помпа", "used_in": [
+      {"phrase": "active.perfect.past.0", "form": "pump"}
+    ]},
+    {"word": "sail", "meaning": "парус", "used_in": [
+      {"phrase": "active.perfect.past.1", "form": "sails"},
+      {"phrase": "active.perfect_continuous.past.0", "form": "sails"},
+      {"phrase": "passive.simple.future.2", "form": "sails"},
+      {"phrase": "passive.perfect.past.1", "form": "sails"}
+    ]},
+    {"word": "mechanic", "meaning": "механик", "used_in": [
+      {"phrase": "active.perfect.past.2", "form": "mechanic"}
+    ]},
+    {"word": "inspection", "meaning": "осмотр", "used_in": [
+      {"phrase": "active.perfect.past.2", "form": "inspection"}
+    ]},
+    {"word": "Friday", "meaning": "пятница", "used_in": [
+      {"phrase": "active.perfect.past.2", "form": "Friday"},
+      {"phrase": "active.perfect.future.2", "form": "Friday"},
+      {"phrase": "passive.simple.future.2", "form": "Friday"},
+      {"phrase": "passive.perfect.future.1", "form": "Friday"}
+    ]},
+    {"word": "checklist", "meaning": "чек-лист", "used_in": [
+      {"phrase": "active.perfect.present.1", "form": "checklist"}
+    ]},
+    {"word": "guest", "meaning": "гость", "used_in": [
+      {"phrase": "active.perfect.present.2", "form": "guests"}
+    ]},
+    {"word": "breakfast", "meaning": "завтрак", "used_in": [
+      {"phrase": "active.perfect.present.2", "form": "breakfast"}
+    ]},
+    {"word": "June", "meaning": "июнь", "used_in": [
+      {"phrase": "active.perfect.future.0", "form": "June"},
+      {"phrase": "active.perfect_continuous.future.1", "form": "June"}
+    ]},
+    {"word": "refit", "meaning": "переоборудование", "used_in": [
+      {"phrase": "active.perfect.future.0", "form": "refit"},
+      {"phrase": "passive.perfect.past.0", "form": "refit"}
+    ]},
+    {"word": "rigging", "meaning": "такелаж", "used_in": [
+      {"phrase": "active.perfect.future.1", "form": "rigging"},
+      {"phrase": "passive.perfect.future.1", "form": "rigging"}
+    ]},
+    {"word": "plan", "meaning": "план", "used_in": [
+      {"phrase": "active.perfect.future.2", "form": "plan"}
+    ]},
+    {"word": "evening", "meaning": "вечер", "used_in": [
+      {"phrase": "active.perfect_continuous.past.1", "form": "evening"}
+    ]},
+    {"word": "week", "meaning": "неделя", "used_in": [
+      {"phrase": "active.perfect_continuous.past.1", "form": "weeks"},
+      {"phrase": "active.perfect_continuous.present.0", "form": "week"}
+    ]},
+    {"word": "yacht", "meaning": "яхта", "used_in": [
+      {"phrase": "active.perfect_continuous.present.1", "form": "yacht"},
+      {"phrase": "passive.perfect.future.2", "form": "yacht"}
+    ]},
+    {"word": "August", "meaning": "август", "used_in": [
+      {"phrase": "active.perfect_continuous.future.0", "form": "August"}
+    ]},
+    {"word": "year", "meaning": "год", "used_in": [
+      {"phrase": "active.perfect_continuous.future.0", "form": "years"},
+      {"phrase": "active.perfect_continuous.future.1", "form": "year"}
+    ]},
+    {"word": "March", "meaning": "март", "used_in": [
+      {"phrase": "passive.simple.past.0", "form": "March"}
+    ]},
+    {"word": "cushion", "meaning": "подушка", "used_in": [
+      {"phrase": "passive.simple.past.1", "form": "cushions"}
+    ]},
+    {"word": "charter", "meaning": "чартер", "sense": "hire", "used_in": [
+      {"phrase": "passive.simple.past.1", "form": "charter"}
+    ]},
+    {"word": "safety", "meaning": "безопасность", "used_in": [
+      {"phrase": "passive.simple.past.2", "form": "safety"},
+      {"phrase": "passive.perfect.present.2", "form": "safety"}
+    ]},
+    {"word": "departure", "meaning": "отход", "used_in": [
+      {"phrase": "passive.simple.past.2", "form": "departure"}
+    ]},
+    {"word": "cabin", "meaning": "каюта", "used_in": [
+      {"phrase": "passive.simple.present.0", "form": "cabin"}
+    ]},
+    {"word": "teak", "meaning": "тик", "used_in": [
+      {"phrase": "passive.simple.present.0", "form": "teak"}
+    ]},
+    {"word": "boat", "meaning": "лодка", "used_in": [
+      {"phrase": "passive.simple.present.1", "form": "boat"},
+      {"phrase": "passive.continuous.past.1", "form": "boat"}
+    ]},
+    {"word": "varnish", "meaning": "лак", "used_in": [
+      {"phrase": "passive.simple.present.1", "form": "varnish"},
+      {"phrase": "passive.simple.present.2", "form": "varnish"}
+    ]},
+    {"word": "mast", "meaning": "мачта", "used_in": [
+      {"phrase": "passive.simple.present.2", "form": "mast"}
+    ]},
+    {"word": "paint", "meaning": "краска", "used_in": [
+      {"phrase": "passive.simple.present.2", "form": "paint"}
+    ]},
+    {"word": "pontoon", "meaning": "понтон", "used_in": [
+      {"phrase": "passive.simple.future.0", "form": "pontoon"}
+    ]},
+    {"word": "marina", "meaning": "марина", "used_in": [
+      {"phrase": "passive.continuous.past.0", "form": "marina"},
+      {"phrase": "passive.perfect.future.0", "form": "marina"}
+    ]},
+    {"word": "galley", "meaning": "камбуз", "used_in": [
+      {"phrase": "passive.continuous.present.0", "form": "galley"},
+      {"phrase": "passive.continuous.future.1", "form": "galley"},
+      {"phrase": "passive.perfect.present.1", "form": "galley"}
+    ]},
+    {"word": "spinnaker", "meaning": "спинакер", "used_in": [
+      {"phrase": "passive.continuous.present.1", "form": "spinnaker"}
+    ]},
+    {"word": "Monday", "meaning": "понедельник", "used_in": [
+      {"phrase": "passive.continuous.future.1", "form": "Monday"}
+    ]},
+    {"word": "April", "meaning": "апрель", "used_in": [
+      {"phrase": "passive.perfect.past.0", "form": "April"}
+    ]},
+    {"word": "owner", "meaning": "владелец", "used_in": [
+      {"phrase": "passive.perfect.past.2", "form": "owner"}
+    ]},
+    {"word": "visit", "meaning": "визит", "used_in": [
+      {"phrase": "passive.perfect.past.2", "form": "visit"}
+    ]},
+    {"word": "autumn", "meaning": "осень", "used_in": [
+      {"phrase": "passive.perfect.future.2", "form": "autumn"}
+    ]},
+    {"word": "sunset", "meaning": "закат", "used_in": [
+      {"phrase": "future_in_past.0", "form": "sunset"}
+    ]},
+    {"word": "jib", "meaning": "стаксель", "used_in": [
+      {"phrase": "future_in_past.1", "form": "jib"}
+    ]},
+    {"word": "Tuesday", "meaning": "вторник", "used_in": [
+      {"phrase": "future_in_past.1", "form": "Tuesday"}
+    ]}
+  ]
+}

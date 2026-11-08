@@ -1,5 +1,5 @@
 {
-  "spec": 3,
+  "spec": 4,
   "verb": "accrue",
   "forms": {
     "base": [
@@ -601,6 +601,7 @@
     {
       "word": "interest",
       "meaning": "проценты",
+      "sense": "money",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
@@ -959,6 +960,7 @@
     {
       "word": "balance",
       "meaning": "остаток",
+      "sense": "account",
       "used_in": [
         {
           "phrase": "active.continuous.present.0",
@@ -988,12 +990,19 @@
     },
     {
       "word": "benefit",
-      "meaning": "выплата, выгода",
+      "meaning": "выплата",
+      "sense": "payment",
       "used_in": [
         {
           "phrase": "active.continuous.present.1",
           "form": "benefits"
-        },
+        }
+      ]
+    },
+    {
+      "word": "benefit",
+      "meaning": "выгода",
+      "used_in": [
         {
           "phrase": "future_in_past.2",
           "form": "benefits"
@@ -1101,6 +1110,7 @@
     {
       "word": "appeal",
       "meaning": "апелляция",
+      "sense": "court",
       "used_in": [
         {
           "phrase": "active.continuous.future.2",
@@ -1223,6 +1233,7 @@
     {
       "word": "gain",
       "meaning": "выгода",
+      "sense": "profit",
       "used_in": [
         {
           "phrase": "active.perfect.present.1",
@@ -1507,6 +1518,7 @@
     {
       "word": "commission",
       "meaning": "комиссия, комиссионные",
+      "sense": "fee",
       "used_in": [
         {
           "phrase": "passive.simple.present.1",
@@ -1521,6 +1533,7 @@
     {
       "word": "order",
       "meaning": "заказ",
+      "sense": "purchase",
       "used_in": [
         {
           "phrase": "passive.simple.present.1",
@@ -1530,12 +1543,19 @@
     },
     {
       "word": "holiday",
-      "meaning": "отпуск, праздник",
+      "meaning": "отпуск",
       "used_in": [
         {
           "phrase": "passive.simple.present.2",
           "form": "holiday"
-        },
+        }
+      ]
+    },
+    {
+      "word": "holiday",
+      "meaning": "праздник",
+      "sense": "celebration",
+      "used_in": [
         {
           "phrase": "passive.simple.future.1",
           "form": "holidays"

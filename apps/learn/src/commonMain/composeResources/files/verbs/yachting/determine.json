@@ -1,0 +1,864 @@
+{
+  "spec": 4,
+  "verb": "determine",
+  "forms": {
+    "base": [
+      {
+        "word": "determine",
+        "transcription": "[дит**œ**:мин]"
+      }
+    ],
+    "past": [
+      {
+        "word": "determined",
+        "transcription": "[дит**œ**:минд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "determined",
+        "transcription": "[дит**œ**:минд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "determining",
+        "transcription": "[дит**œ**:миниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "determines",
+        "transcription": "[дит**œ**:минз]"
+      }
+    ]
+  },
+  "meaning": "определять, устанавливать",
+  "notes": "правильный переходный глагол; determine a position — определить местоположение; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "determined",
+        "examples": [
+          {
+            "ours": "Вчера мы определили своё местоположение.",
+            "thought": "Вчера мы определили наше местоположение.",
+            "english": "Yesterday we determined our position.",
+            "transcription": "[й**э**стэдэй wи: дит**œ**:минд ауэ пэз**и**шн]"
+          },
+          {
+            "ours": "Ты определил глубину?",
+            "thought": "[Сделал] ты определять [известную] глубину?",
+            "english": "Did you determine the depth?",
+            "transcription": "[дид ю: дит**œ**:мин ðэ дэпθ]"
+          },
+          {
+            "ours": "Она не установила причину повреждения.",
+            "thought": "Она [сделала] не определять [известную] причину от [известного] повреждения.",
+            "english": "She did not determine the cause of the damage.",
+            "transcription": "[ши: дид нот дит**œ**:мин ðэ ко:з ов ðэ д**æ**мидж]"
+          }
+        ]
+      },
+      "present": {
+        "form": "determine, determines",
+        "examples": [
+          {
+            "ours": "Шкипер определяет курс.",
+            "thought": "[Известный] шкипер определяет [известный] курс.",
+            "english": "The skipper determines the course.",
+            "transcription": "[ðэ ск**и**пэ дит**œ**:минз ðэ ко:с]"
+          },
+          {
+            "ours": "Ты определяешь местоположение по карте?",
+            "thought": "[Делаешь] ты определять [известное] местоположение используя [известную] карту?",
+            "english": "Do you determine the position using the chart?",
+            "transcription": "[ду: ю: дит**œ**:мин ðэ пэз**и**шн й**у**:зиŋ ðэ ча:т]"
+          },
+          {
+            "ours": "Мы не определяем глубину ночью.",
+            "thought": "Мы [делаем] не определять [известную] глубину в ночь.",
+            "english": "We do not determine the depth at night.",
+            "transcription": "[wи: ду: нот дит**œ**:мин ðэ дэпθ æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will determine",
+        "examples": [
+          {
+            "ours": "Завтра мы определим маршрут.",
+            "thought": "Завтра мы будем определять [известный] маршрут.",
+            "english": "Tomorrow we will determine the route.",
+            "transcription": "[тэм**о**роу wи: wил дит**œ**:мин ðэ ру:т]"
+          },
+          {
+            "ours": "Ты определишь глубину?",
+            "thought": "Будешь ты определять [известную] глубину?",
+            "english": "Will you determine the depth?",
+            "transcription": "[wил ю: дит**œ**:мин ðэ дэпθ]"
+          },
+          {
+            "ours": "Она не установит причину сегодня.",
+            "thought": "Она будет не определять [известную] причину сегодня.",
+            "english": "She will not determine the cause today.",
+            "transcription": "[ши: wил нот дит**œ**:мин ðэ ко:з тэд**э**й]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were determining",
+        "examples": [
+          {
+            "ours": "Вчера утром мы определяли местоположение.",
+            "thought": "Вчера утром мы были определяющими наше местоположение.",
+            "english": "Yesterday morning we were determining our position.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: дит**œ**:миниŋ ауэ пэз**и**шн]"
+          },
+          {
+            "ours": "Ты определял глубину, когда я позвонил?",
+            "thought": "Был ты определяющим [известную] глубину, когда я позвонил?",
+            "english": "Were you determining the depth when I called?",
+            "transcription": "[wœ: ю: дит**œ**:миниŋ ðэ дэпθ wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are determining",
+        "examples": [
+          {
+            "ours": "Мы сейчас определяем положение.",
+            "thought": "Мы являемся определяющими наше местоположение сейчас.",
+            "english": "We are determining our position now.",
+            "transcription": "[wи: а: дит**œ**:миниŋ ауэ пэз**и**шн нау]"
+          },
+          {
+            "ours": "Шкипер сейчас определяет маршрут?",
+            "thought": "Является [известный] шкипер определяющим [известный] маршрут сейчас?",
+            "english": "Is the skipper determining the route now?",
+            "transcription": "[из ðэ ск**и**пэ дит**œ**:миниŋ ðэ ру:т нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be determining",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем определять курс.",
+            "thought": "Завтра утром мы будем быть определяющими [известный] курс.",
+            "english": "Tomorrow morning we will be determining the course.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: дит**œ**:миниŋ ðэ ко:с]"
+          },
+          {
+            "ours": "Ты будешь определять глубину вечером?",
+            "thought": "Будешь ты быть определяющим [известную] глубину этот вечер?",
+            "english": "Will you be determining the depth this evening?",
+            "transcription": "[wил ю: би: дит**œ**:миниŋ ðэ дэпθ ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had determined",
+        "examples": [
+          {
+            "ours": "К полудню мы уже определили положение.",
+            "thought": "К полудню мы имели уже определённым наше местоположение.",
+            "english": "By noon we had already determined our position.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди дит**œ**:минд ауэ пэз**и**шн]"
+          },
+          {
+            "ours": "Ты определил глубину до отхода?",
+            "thought": "Имел ты определённой [известную] глубину до отхода?",
+            "english": "Had you determined the depth before departure?",
+            "transcription": "[хæд ю: дит**œ**:минд ðэ дэпθ биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has determined",
+        "examples": [
+          {
+            "ours": "Мы уже определили курс.",
+            "thought": "Мы имеем уже определённым [известный] курс.",
+            "english": "We have already determined the course.",
+            "transcription": "[wи: хæв о:лр**э**ди дит**œ**:минд ðэ ко:с]"
+          },
+          {
+            "ours": "Ты уже установил причину?",
+            "thought": "Имеешь ты определённой [известную] причину уже?",
+            "english": "Have you determined the cause yet?",
+            "transcription": "[хæв ю: дит**œ**:минд ðэ ко:з йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have determined",
+        "examples": [
+          {
+            "ours": "К полудню мы определим положение.",
+            "thought": "К полудню мы будем иметь определённым наше местоположение.",
+            "english": "By noon we will have determined our position.",
+            "transcription": "[бай ну:н wи: wил хæв дит**œ**:минд ауэ пэз**и**шн]"
+          },
+          {
+            "ours": "Ты определишь глубину к пяти?",
+            "thought": "Будешь ты иметь определённой [известную] глубину к пяти?",
+            "english": "Will you have determined the depth by five?",
+            "transcription": "[wил ю: хæв дит**œ**:минд ðэ дэпθ бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been determining",
+        "examples": [
+          {
+            "ours": "Мы час определяли положение, когда отказало радио.",
+            "thought": "Мы имели быть определяющими наше местоположение целый [какой-то] час, когда [известное] радио отказало.",
+            "english": "We had been determining our position for an hour when the radio failed.",
+            "transcription": "[wи: хæд би:н дит**œ**:миниŋ ауэ пэз**и**шн фо: эн **а**уэ wэн ðэ р**э**йдиоу фэйлд]"
+          },
+          {
+            "ours": "Ты определял причину повреждения два часа до ремонта?",
+            "thought": "Имел ты быть определяющим [известную] причину целых два часа до [известного] ремонта?",
+            "english": "Had you been determining the cause for two hours before the repairs?",
+            "transcription": "[хæд ю: би:н дит**œ**:миниŋ ðэ ко:з фо: ту: **а**уэз биф**о**: ðэ рип**э**эз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been determining",
+        "examples": [
+          {
+            "ours": "Мы определяем положение уже час.",
+            "thought": "Мы имеем быть определяющими наше местоположение целый [какой-то] час.",
+            "english": "We have been determining our position for an hour.",
+            "transcription": "[wи: хæв би:н дит**œ**:миниŋ ауэ пэз**и**шн фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты устанавливаешь причину уже два часа?",
+            "thought": "Имеешь ты быть определяющим [известную] причину целых два часа?",
+            "english": "Have you been determining the cause for two hours?",
+            "transcription": "[хæв ю: би:н дит**œ**:миниŋ ðэ ко:з фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been determining",
+        "examples": [
+          {
+            "ours": "К пяти мы будем определять положение уже два часа.",
+            "thought": "К пяти мы будем иметь быть определяющими наше местоположение целых два часа.",
+            "english": "By five we will have been determining our position for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н дит**œ**:миниŋ ауэ пэз**и**шн фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь устанавливать причину уже час?",
+            "thought": "Будешь ты иметь быть определяющим [известную] причину целый [какой-то] час к полудню?",
+            "english": "Will you have been determining the cause for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н дит**œ**:миниŋ ðэ ко:з фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were determined",
+        "examples": [
+          {
+            "ours": "Курс определили вчера.",
+            "thought": "[Известный] курс был определён вчера.",
+            "english": "The course was determined yesterday.",
+            "transcription": "[ðэ ко:с wоз дит**œ**:минд й**э**стэдэй]"
+          },
+          {
+            "ours": "Глубину определили до отхода?",
+            "thought": "Была [известная] глубина определена до отхода?",
+            "english": "Was the depth determined before departure?",
+            "transcription": "[wоз ðэ дэпθ дит**œ**:минд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are determined",
+        "examples": [
+          {
+            "ours": "Курс определяется ветром.",
+            "thought": "[Известный] курс есть определён от [известного] ветра.",
+            "english": "The course is determined by the wind.",
+            "transcription": "[ðэ ко:с из дит**œ**:минд бай ðэ wинд]"
+          },
+          {
+            "ours": "Маршрут определяется погодой?",
+            "thought": "Есть [известный] маршрут определён от [известной] погоды?",
+            "english": "Is the route determined by the weather?",
+            "transcription": "[из ðэ ру:т дит**œ**:минд бай ðэ w**э**ðэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be determined",
+        "examples": [
+          {
+            "ours": "Курс определят завтра.",
+            "thought": "[Известный] курс будет быть определён завтра.",
+            "english": "The course will be determined tomorrow.",
+            "transcription": "[ðэ ко:с wил би: дит**œ**:минд тэм**о**роу]"
+          },
+          {
+            "ours": "Глубину определят до отхода?",
+            "thought": "Будет [известная] глубина быть определена до отхода?",
+            "english": "Will the depth be determined before departure?",
+            "transcription": "[wил ðэ дэпθ би: дит**œ**:минд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being determined",
+        "examples": [
+          {
+            "ours": "Когда я вошёл, определяли курс.",
+            "thought": "[Известный] курс был «долго» определён, когда я вошёл.",
+            "english": "The course was being determined when I entered.",
+            "transcription": "[ðэ ко:с wоз б**и**:иŋ дит**œ**:минд wэн ай **э**нтэд]"
+          },
+          {
+            "ours": "Когда ты позвонил, глубину определяли?",
+            "thought": "Была [известная] глубина «долго» определена, когда ты позвонил?",
+            "english": "Was the depth being determined when you called?",
+            "transcription": "[wоз ðэ дэпθ б**и**:иŋ дит**œ**:минд wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being determined",
+        "examples": [
+          {
+            "ours": "Сейчас определяют курс.",
+            "thought": "[Известный] курс есть «долго» определён сейчас.",
+            "english": "The course is being determined now.",
+            "transcription": "[ðэ ко:с из б**и**:иŋ дит**œ**:минд нау]"
+          },
+          {
+            "ours": "Сейчас определяют глубину?",
+            "thought": "Есть [известная] глубина «долго» определена сейчас?",
+            "english": "Is the depth being determined now?",
+            "transcription": "[из ðэ дэпθ б**и**:иŋ дит**œ**:минд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be determining",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут определять курс.",
+            "thought": "Завтра утром они будут быть определяющими [известный] курс.",
+            "english": "Tomorrow morning they will be determining the course.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: дит**œ**:миниŋ ðэ ко:с]"
+          },
+          {
+            "ours": "Они будут определять глубину вечером?",
+            "thought": "Будут они быть определяющими [известную] глубину этот вечер?",
+            "english": "Will they be determining the depth this evening?",
+            "transcription": "[wил ðэй би: дит**œ**:миниŋ ðэ дэпθ ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been determined",
+        "examples": [
+          {
+            "ours": "К полудню курс уже определили.",
+            "thought": "К полудню [известный] курс имел уже быть определён.",
+            "english": "By noon the course had already been determined.",
+            "transcription": "[бай ну:н ðэ ко:с хæд о:лр**э**ди би:н дит**œ**:минд]"
+          },
+          {
+            "ours": "Глубину определили до отхода?",
+            "thought": "Имела [известная] глубина быть определена до отхода?",
+            "english": "Had the depth been determined before departure?",
+            "transcription": "[хæд ðэ дэпθ би:н дит**œ**:минд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been determined",
+        "examples": [
+          {
+            "ours": "Курс уже определили.",
+            "thought": "[Известный] курс имеет уже быть определён.",
+            "english": "The course has already been determined.",
+            "transcription": "[ðэ ко:с хæз о:лр**э**ди би:н дит**œ**:минд]"
+          },
+          {
+            "ours": "Глубину уже определили?",
+            "thought": "Имеет [известная] глубина быть определена уже?",
+            "english": "Has the depth been determined yet?",
+            "transcription": "[хæз ðэ дэпθ би:н дит**œ**:минд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been determined",
+        "examples": [
+          {
+            "ours": "К полудню курс определят.",
+            "thought": "К полудню [известный] курс будет иметь быть определён.",
+            "english": "By noon the course will have been determined.",
+            "transcription": "[бай ну:н ðэ ко:с wил хæв би:н дит**œ**:минд]"
+          },
+          {
+            "ours": "Глубину определят к пяти?",
+            "thought": "Будет [известная] глубина иметь быть определена к пяти?",
+            "english": "Will the depth have been determined by five?",
+            "transcription": "[wил ðэ дэпθ хæв би:н дит**œ**:минд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been determining the position."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они определят курс.",
+        "thought": "Я знал, они будут определять [известный] курс.",
+        "english": "I knew they would determine the course.",
+        "transcription": "[ай нью: ðэй wуд дит**œ**:мин ðэ ко:с]"
+      },
+      {
+        "ours": "Она думала, что мы не определим глубину.",
+        "thought": "Она думала, мы будем не определять [известную] глубину.",
+        "english": "She thought we would not determine the depth.",
+        "transcription": "[ши: θо:т wи: wуд нот дит**œ**:мин ðэ дэпθ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "position",
+      "meaning": "местоположение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "position"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "position"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "position"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "position"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "position"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "position"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "position"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "position"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "position"
+        }
+      ]
+    },
+    {
+      "word": "depth",
+      "meaning": "глубина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "depth"
+        }
+      ]
+    },
+    {
+      "word": "cause",
+      "meaning": "причина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "cause"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "cause"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "cause"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "cause"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "cause"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "cause"
+        }
+      ]
+    },
+    {
+      "word": "damage",
+      "meaning": "повреждение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "damage"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "course",
+      "meaning": "курс",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "course"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "course"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "course"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "repairs"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "weather"
+        }
+      ]
+    }
+  ]
+}

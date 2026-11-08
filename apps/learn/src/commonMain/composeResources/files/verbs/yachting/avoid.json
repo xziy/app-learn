@@ -1,0 +1,860 @@
+{
+  "spec": 4,
+  "verb": "avoid",
+  "forms": {
+    "base": [
+      {
+        "word": "avoid",
+        "transcription": "[эв**о**йд]"
+      }
+    ],
+    "past": [
+      {
+        "word": "avoided",
+        "transcription": "[эв**о**йдид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "avoided",
+        "transcription": "[эв**о**йдид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "avoiding",
+        "transcription": "[эв**о**йдиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "avoids",
+        "transcription": "[эв**о**йдз]"
+      }
+    ]
+  },
+  "meaning": "избегать, обходить стороной",
+  "notes": "правильный переходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "avoided",
+        "examples": [
+          {
+            "ours": "Вчера экипаж избежал столкновения.",
+            "thought": "Вчера [известный] экипаж избежал [какого-то] столкновения.",
+            "english": "Yesterday the crew avoided a collision.",
+            "transcription": "[й**э**стэдэй ðэ кру: эв**о**йдид э кэл**и**жн]"
+          },
+          {
+            "ours": "Капитан не избежал тумана.",
+            "thought": "[Известный] капитан [сделал] не избегать [известного] тумана.",
+            "english": "The captain didn't avoid the fog.",
+            "transcription": "[ðэ к**æ**птин диднт эв**о**йд ðэ фог]"
+          },
+          {
+            "ours": "Ты обошёл риф до гонки?",
+            "thought": "[Сделал] ты избегать [известного] рифа перед [известной] гонкой?",
+            "english": "Did you avoid the reef before the race?",
+            "transcription": "[дид ю: эв**о**йд ðэ ри:ф биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "avoid, avoids",
+        "examples": [
+          {
+            "ours": "Шкипер всегда избегает мелководья.",
+            "thought": "[Известный] шкипер всегда избегает мелкой воды.",
+            "english": "The skipper always avoids shallow water.",
+            "transcription": "[ðэ ск**и**пэ **о**:лwэйз эв**о**йдз ш**æ**лоу w**о**:тэ]"
+          },
+          {
+            "ours": "Он не избегает гавани ночью.",
+            "thought": "Он [делает] не избегать [известной] гавани в ночь.",
+            "english": "He doesn't avoid the harbor at night.",
+            "transcription": "[хи: дазнт эв**о**йд ðэ х**а**:бэ æт найт]"
+          },
+          {
+            "ours": "Ты избегаешь тумана в море?",
+            "thought": "[Делаешь] ты избегать тумана в море?",
+            "english": "Do you avoid fog at sea?",
+            "transcription": "[ду: ю: эв**о**йд фог æт си:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will avoid",
+        "examples": [
+          {
+            "ours": "Завтра мы обойдём скалы.",
+            "thought": "Завтра мы будем избегать [известных] скал.",
+            "english": "Tomorrow we will avoid the rocks.",
+            "transcription": "[тэм**о**роу wи: wил эв**о**йд ðэ рокс]"
+          },
+          {
+            "ours": "Он не избежит задержки.",
+            "thought": "Он будет не избегать [известной] задержки.",
+            "english": "He won't avoid the delay.",
+            "transcription": "[хи: wоунт эв**о**йд ðэ дил**э**й]"
+          },
+          {
+            "ours": "Ты избежишь столкновения до гонки?",
+            "thought": "Будешь ты избегать [какого-то] столкновения перед [известной] гонкой?",
+            "english": "Will you avoid a collision before the race?",
+            "transcription": "[wил ю: эв**о**йд э кэл**и**жн биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were avoiding",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день обходили мелководье.",
+            "thought": "Вчера мы были избегающими мелкой воды весь день.",
+            "english": "Yesterday we were avoiding shallow water all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: эв**о**йдиŋ ш**æ**лоу w**о**:тэ о:л дэй]"
+          },
+          {
+            "ours": "Ты обходил скалы, когда я пришёл?",
+            "thought": "Был ты избегающим [известных] скал когда я пришёл?",
+            "english": "Were you avoiding the rocks when I came?",
+            "transcription": "[wœ: ю: эв**о**йдиŋ ðэ рокс wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are avoiding",
+        "examples": [
+          {
+            "ours": "Сейчас мы обходим туман.",
+            "thought": "Мы являемся избегающими [известного] тумана сейчас.",
+            "english": "We are avoiding the fog now.",
+            "transcription": "[wи: а: эв**о**йдиŋ ðэ фог нау]"
+          },
+          {
+            "ours": "Ты сейчас обходишь риф?",
+            "thought": "Являешься ты избегающим [известного] рифа сейчас?",
+            "english": "Are you avoiding the reef now?",
+            "transcription": "[а: ю: эв**о**йдиŋ ðэ ри:ф нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be avoiding",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем обходить мелководье.",
+            "thought": "Завтра мы будем быть избегающими мелкой воды весь день.",
+            "english": "Tomorrow we will be avoiding shallow water all day.",
+            "transcription": "[тэм**о**роу wи: wил би: эв**о**йдиŋ ш**æ**лоу w**о**:тэ о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь обходить скалы во время гонки?",
+            "thought": "Будешь ты быть избегающим [известных] скал во время [известной] гонки?",
+            "english": "Will you be avoiding the rocks during the race?",
+            "transcription": "[wил ю: би: эв**о**йдиŋ ðэ рокс дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had avoided",
+        "examples": [
+          {
+            "ours": "Вчера к пяти экипаж уже избежал столкновения.",
+            "thought": "К пяти вчера [известный] экипаж имел уже избежанным [какое-то] столкновение.",
+            "english": "By five yesterday the crew had already avoided a collision.",
+            "transcription": "[бай файв й**э**стэдэй ðэ кру: хæд о:лр**э**ди эв**о**йдид э кэл**и**жн]"
+          },
+          {
+            "ours": "Ты обошёл риф до гонки?",
+            "thought": "Имел ты избежанным [известный] риф перед [известной] гонкой?",
+            "english": "Had you avoided the reef before the race?",
+            "transcription": "[хæд ю: эв**о**йдид ðэ ри:ф биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has avoided",
+        "examples": [
+          {
+            "ours": "Мы уже избежали столкновения.",
+            "thought": "Мы имеем уже избежанным [какое-то] столкновение.",
+            "english": "We have already avoided a collision.",
+            "transcription": "[wи: хæв о:лр**э**ди эв**о**йдид э кэл**и**жн]"
+          },
+          {
+            "ours": "Ты уже обошёл риф?",
+            "thought": "Имеешь ты уже избежанным [известный] риф?",
+            "english": "Have you already avoided the reef?",
+            "transcription": "[хæв ю: о:лр**э**ди эв**о**йдид ðэ ри:ф]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have avoided",
+        "examples": [
+          {
+            "ours": "Завтра к пяти экипаж уже избежит столкновения.",
+            "thought": "К пяти завтра [известный] экипаж будет иметь уже избежанным [какое-то] столкновение.",
+            "english": "By five tomorrow the crew will have already avoided a collision.",
+            "transcription": "[бай файв тэм**о**роу ðэ кру: wил хæв о:лр**э**ди эв**о**йдид э кэл**и**жн]"
+          },
+          {
+            "ours": "Ты обойдёшь риф до гонки?",
+            "thought": "Будешь ты иметь избежанным [известный] риф перед [известной] гонкой?",
+            "english": "Will you have avoided the reef before the race?",
+            "transcription": "[wил ю: хæв эв**о**йдид ðэ ри:ф биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been avoiding",
+        "examples": [
+          {
+            "ours": "Мы уже два часа обходили мелководье, когда ты пришёл.",
+            "thought": "Мы имели быть избегающими мелкой воды целых два часа когда ты пришёл.",
+            "english": "We had been avoiding shallow water for two hours when you came.",
+            "transcription": "[wи: хæд би:н эв**о**йдиŋ ш**æ**лоу w**о**:тэ фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа обходил скалы, когда он пришёл?",
+            "thought": "Имел ты быть избегающим скал целых два часа когда он пришёл?",
+            "english": "Had you been avoiding rocks for two hours when he came?",
+            "transcription": "[хæд ю: би:н эв**о**йдиŋ рокс фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been avoiding",
+        "examples": [
+          {
+            "ours": "Мы уже два часа обходим мелководье.",
+            "thought": "Мы имеем быть избегающими мелкой воды целых два часа.",
+            "english": "We have been avoiding shallow water for two hours.",
+            "transcription": "[wи: хæв би:н эв**о**йдиŋ ш**æ**лоу w**о**:тэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа обходишь скалы?",
+            "thought": "Имеешь ты быть избегающим скал целых два часа?",
+            "english": "Have you been avoiding rocks for two hours?",
+            "transcription": "[хæв ю: би:н эв**о**йдиŋ рокс фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been avoiding",
+        "examples": [
+          {
+            "ours": "К пяти мы будем обходить мелководье уже два часа.",
+            "thought": "К пяти мы будем иметь быть избегающими мелкой воды целых два часа.",
+            "english": "By five we will have been avoiding shallow water for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н эв**о**йдиŋ ш**æ**лоу w**о**:тэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь обходить скалы уже два часа?",
+            "thought": "Будешь ты иметь быть избегающим скал целых два часа к пяти?",
+            "english": "Will you have been avoiding rocks for two hours by five?",
+            "transcription": "[wил ю: хæв би:н эв**о**йдиŋ рокс фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were avoided",
+        "examples": [
+          {
+            "ours": "Вчера столкновения удалось избежать.",
+            "thought": "[Какое-то] столкновение было избежано вчера.",
+            "english": "A collision was avoided yesterday.",
+            "transcription": "[э кэл**и**жн wоз эв**о**йдид й**э**стэдэй]"
+          },
+          {
+            "ours": "Риф обошли до гонки?",
+            "thought": "Был [известный] риф избежан перед [известной] гонкой?",
+            "english": "Was the reef avoided before the race?",
+            "transcription": "[wоз ðэ ри:ф эв**о**йдид биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are avoided",
+        "examples": [
+          {
+            "ours": "Мелководья избегают во время гонки.",
+            "thought": "Мелкая вода есть избежана во время [известной] гонки.",
+            "english": "Shallow water is avoided during the race.",
+            "transcription": "[ш**æ**лоу w**о**:тэ из эв**о**йдид дь**ю**эриŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Этого рифа избегают ночью?",
+            "thought": "Есть этот риф избежан в ночь?",
+            "english": "Is this reef avoided at night?",
+            "transcription": "[из ðис ри:ф эв**о**йдид æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be avoided",
+        "examples": [
+          {
+            "ours": "Завтра скалы обойдут стороной.",
+            "thought": "[Известные] скалы будут быть избежаны завтра.",
+            "english": "The rocks will be avoided tomorrow.",
+            "transcription": "[ðэ рокс wил би: эв**о**йдид тэм**о**роу]"
+          },
+          {
+            "ours": "Столкновения удастся избежать?",
+            "thought": "Будет [какое-то] столкновение быть избежано?",
+            "english": "Will a collision be avoided?",
+            "transcription": "[wил э кэл**и**жн би: эв**о**йдид]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being avoided",
+        "examples": [
+          {
+            "ours": "Вчера мелководье обходили весь день.",
+            "thought": "Вчера мелкая вода была «долго» избежана весь день.",
+            "english": "Yesterday shallow water was being avoided all day.",
+            "transcription": "[й**э**стэдэй ш**æ**лоу w**о**:тэ wоз б**и**:иŋ эв**о**йдид о:л дэй]"
+          },
+          {
+            "ours": "Скалы обходили, когда ты пришёл?",
+            "thought": "Были [известные] скалы «долго» избежаны когда ты пришёл?",
+            "english": "Were the rocks being avoided when you came?",
+            "transcription": "[wœ: ðэ рокс б**и**:иŋ эв**о**йдид wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being avoided",
+        "examples": [
+          {
+            "ours": "Сейчас туман обходят стороной.",
+            "thought": "[Известный] туман есть «долго» избежан сейчас.",
+            "english": "The fog is being avoided now.",
+            "transcription": "[ðэ фог из б**и**:иŋ эв**о**йдид нау]"
+          },
+          {
+            "ours": "Сейчас обходят риф?",
+            "thought": "Есть [известный] риф «долго» избежан сейчас?",
+            "english": "Is the reef being avoided now?",
+            "transcription": "[из ðэ ри:ф б**и**:иŋ эв**о**йдид нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be avoiding",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут обходить мелководье.",
+            "thought": "Завтра они будут быть избегающими мелкой воды весь день.",
+            "english": "Tomorrow they will be avoiding shallow water all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: эв**о**йдиŋ ш**æ**лоу w**о**:тэ о:л дэй]"
+          },
+          {
+            "ours": "Они будут обходить скалы во время гонки?",
+            "thought": "Будут они быть избегающими [известных] скал во время [известной] гонки?",
+            "english": "Will they be avoiding the rocks during the race?",
+            "transcription": "[wил ðэй би: эв**о**йдиŋ ðэ рокс дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been avoided",
+        "examples": [
+          {
+            "ours": "Вчера к пяти столкновения уже избежали.",
+            "thought": "К пяти вчера [какое-то] столкновение имело уже быть избежано.",
+            "english": "By five yesterday a collision had already been avoided.",
+            "transcription": "[бай файв й**э**стэдэй э кэл**и**жн хæд о:лр**э**ди би:н эв**о**йдид]"
+          },
+          {
+            "ours": "Риф обошли до гонки?",
+            "thought": "Имел [известный] риф быть избежан перед [известной] гонкой?",
+            "english": "Had the reef been avoided before the race?",
+            "transcription": "[хæд ðэ ри:ф би:н эв**о**йдид биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been avoided",
+        "examples": [
+          {
+            "ours": "Столкновения уже удалось избежать.",
+            "thought": "[Какое-то] столкновение имеет уже быть избежано.",
+            "english": "A collision has already been avoided.",
+            "transcription": "[э кэл**и**жн хæз о:лр**э**ди би:н эв**о**йдид]"
+          },
+          {
+            "ours": "Риф уже обошли?",
+            "thought": "Имеет [известный] риф уже быть избежан?",
+            "english": "Has the reef already been avoided?",
+            "transcription": "[хæз ðэ ри:ф о:лр**э**ди би:н эв**о**йдид]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been avoided",
+        "examples": [
+          {
+            "ours": "К пяти завтра столкновения уже удастся избежать.",
+            "thought": "К пяти завтра [какое-то] столкновение будет уже иметь быть избежано.",
+            "english": "By five tomorrow a collision will already have been avoided.",
+            "transcription": "[бай файв тэм**о**роу э кэл**и**жн wил о:лр**э**ди хæв би:н эв**о**йдид]"
+          },
+          {
+            "ours": "Риф обойдут до гонки?",
+            "thought": "Будет [известный] риф иметь быть избежан перед [известной] гонкой?",
+            "english": "Will the reef have been avoided before the race?",
+            "transcription": "[wил ðэ ри:ф хæв би:н эв**о**йдид биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: A collision has been avoided. Или: They have been avoiding shallow water."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они обойдут риф.",
+        "thought": "[Известный] капитан сказал что они будут избегать [известного] рифа.",
+        "english": "The captain said that they would avoid the reef.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд эв**о**йд ðэ ри:ф]"
+      },
+      {
+        "ours": "Я знал, что ты не избежишь тумана.",
+        "thought": "Я знал что ты будешь не избегать [известного] тумана.",
+        "english": "I knew that you wouldn't avoid the fog.",
+        "transcription": "[ай нью: ðæт ю: wуднт эв**о**йд ðэ фог]"
+      },
+      {
+        "ours": "Капитан сказал, что мы обойдём скалы.",
+        "thought": "[Известный] капитан сказал что мы будем избегать [известных] скал.",
+        "english": "The captain said that we would avoid the rocks.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд эв**о**йд ðэ рокс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "collision",
+      "meaning": "столкновение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "collision"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "collision"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "collision"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "collision"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "collision"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "collision"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "collision"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "collision"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "collision"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "collision"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "fog",
+      "meaning": "туман",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "fog"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "fog"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "fog"
+        }
+      ]
+    },
+    {
+      "word": "reef",
+      "meaning": "риф",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "reef"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "reef"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "night"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "rock",
+      "meaning": "скала",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "rocks"
+        }
+      ]
+    },
+    {
+      "word": "delay",
+      "meaning": "задержка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "delay"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    }
+  ]
+}

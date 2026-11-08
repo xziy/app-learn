@@ -1,0 +1,1015 @@
+{
+  "spec": 4,
+  "verb": "place",
+  "forms": {
+    "base": [
+      {
+        "word": "place",
+        "transcription": "[плэйс]"
+      }
+    ],
+    "past": [
+      {
+        "word": "placed",
+        "transcription": "[плэйст]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "placed",
+        "transcription": "[плэйст]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "placing",
+        "transcription": "[пл**э**йсиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "places",
+        "transcription": "[пл**э**йсиз]"
+      }
+    ]
+  },
+  "meaning": "помещать, размещать",
+  "notes": "правильный переходный глагол; указывает, куда помещают предмет; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "placed",
+        "examples": [
+          {
+            "ours": "Вчера я разместил карту на палубе.",
+            "thought": "Вчера я разместил [известную] карту на палубе.",
+            "english": "Yesterday I placed the chart on deck.",
+            "transcription": "[й**э**стэдэй ай плэйст ðэ ча:т он дэк]"
+          },
+          {
+            "ours": "Ты разместил компас на палубе?",
+            "thought": "[Сделал] ты размещать [известный] компас на палубе?",
+            "english": "Did you place the compass on deck?",
+            "transcription": "[дид ю: плэйс ðэ к**а**мпэс он дэк]"
+          },
+          {
+            "ours": "Она не разместила рацию на палубе.",
+            "thought": "Она [сделала] не размещать [известную] рацию на палубе.",
+            "english": "She did not place the radio on deck.",
+            "transcription": "[ши: дид нот плэйс ðэ р**э**йдиоу он дэк]"
+          }
+        ]
+      },
+      "present": {
+        "form": "place, places",
+        "examples": [
+          {
+            "ours": "Каждый день я размещаю карту на столе.",
+            "thought": "Каждый день я размещаю [известную] карту на [известном] столе.",
+            "english": "Every day I place the chart on the table.",
+            "transcription": "[**э**ври дэй ай плэйс ðэ ча:т он ðэ т**э**йбл]"
+          },
+          {
+            "ours": "Он размещает компас на палубе.",
+            "thought": "Он размещает [известный] компас на палубе.",
+            "english": "He places the compass on deck.",
+            "transcription": "[хи: пл**э**йсиз ðэ к**а**мпэс он дэк]"
+          },
+          {
+            "ours": "Ты размещаешь рацию на палубе?",
+            "thought": "[Делаешь] ты размещать [известную] рацию на палубе?",
+            "english": "Do you place the radio on deck?",
+            "transcription": "[ду: ю: плэйс ðэ р**э**йдиоу он дэк]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will place",
+        "examples": [
+          {
+            "ours": "Завтра я размещу карту на палубе.",
+            "thought": "Завтра я буду размещать [известную] карту на палубе.",
+            "english": "Tomorrow I will place the chart on deck.",
+            "transcription": "[тэм**о**роу ай wил плэйс ðэ ча:т он дэк]"
+          },
+          {
+            "ours": "Она не разместит компас на палубе.",
+            "thought": "Она будет не размещать [известный] компас на палубе.",
+            "english": "She will not place the compass on deck.",
+            "transcription": "[ши: wил нот плэйс ðэ к**а**мпэс он дэк]"
+          },
+          {
+            "ours": "Ты разместишь рацию на палубе завтра?",
+            "thought": "Будешь ты размещать [известную] рацию на палубе завтра?",
+            "english": "Will you place the radio on deck tomorrow?",
+            "transcription": "[wил ю: плэйс ðэ р**э**йдиоу он дэк тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were placing",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день размещали припасы на палубе.",
+            "thought": "Вчера мы были размещающими припасы на палубе весь день.",
+            "english": "Yesterday we were placing supplies on deck all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: пл**э**йсиŋ сэпл**а**йз он дэк о:л дэй]"
+          },
+          {
+            "ours": "Ты размещал канистры с водой на палубе, когда я позвал?",
+            "thought": "Был ты размещающим водяные канистры на палубе, когда я позвал?",
+            "english": "Were you placing water containers on deck when I called?",
+            "transcription": "[wœ: ю: пл**э**йсиŋ w**о**:тэ кэнт**э**йнэз он дэк wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are placing",
+        "examples": [
+          {
+            "ours": "Мы сейчас размещаем припасы на палубе.",
+            "thought": "Мы являемся размещающими припасы на палубе сейчас.",
+            "english": "We are placing supplies on deck now.",
+            "transcription": "[wи: а: пл**э**йсиŋ сэпл**а**йз он дэк нау]"
+          },
+          {
+            "ours": "Ты сейчас размещаешь канистры с водой на палубе?",
+            "thought": "Являешься ты размещающим водяные канистры на палубе сейчас?",
+            "english": "Are you placing water containers on deck now?",
+            "transcription": "[а: ю: пл**э**йсиŋ w**о**:тэ кэнт**э**йнэз он дэк нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be placing",
+        "examples": [
+          {
+            "ours": "Завтра мы будем весь день размещать припасы на палубе.",
+            "thought": "Завтра мы будем быть размещающими припасы на палубе весь день.",
+            "english": "Tomorrow we will be placing supplies on deck all day.",
+            "transcription": "[тэм**о**роу wи: wил би: пл**э**йсиŋ сэпл**а**йз он дэк о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь размещать канистры с водой на палубе утром?",
+            "thought": "Будешь ты быть размещающим водяные канистры на палубе этим утром?",
+            "english": "Will you be placing water containers on deck this morning?",
+            "transcription": "[wил ю: би: пл**э**йсиŋ w**о**:тэ кэнт**э**йнэз он дэк ðис м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had placed",
+        "examples": [
+          {
+            "ours": "К полудню я уже разместил карту на палубе.",
+            "thought": "К полудню я имел уже размещённой [известную] карту на палубе.",
+            "english": "By noon I had already placed the chart on deck.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди плэйст ðэ ча:т он дэк]"
+          },
+          {
+            "ours": "К пяти она разместила рацию на палубе?",
+            "thought": "Имела она размещённой [известную] рацию на палубе к пяти?",
+            "english": "Had she placed the radio on deck by five?",
+            "transcription": "[хæд ши: плэйст ðэ р**э**йдиоу он дэк бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has placed",
+        "examples": [
+          {
+            "ours": "Я уже разместил карту на палубе.",
+            "thought": "Я имею уже размещённой [известную] карту на палубе.",
+            "english": "I have already placed the chart on deck.",
+            "transcription": "[ай хæв о:лр**э**ди плэйст ðэ ча:т он дэк]"
+          },
+          {
+            "ours": "Она уже разместила рацию на палубе?",
+            "thought": "Имеет она размещённой [известную] рацию на палубе уже?",
+            "english": "Has she placed the radio on deck yet?",
+            "transcription": "[хæз ши: плэйст ðэ р**э**йдиоу он дэк йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have placed",
+        "examples": [
+          {
+            "ours": "К полудню я размещу карту на палубе.",
+            "thought": "К полудню я буду иметь размещённой [известную] карту на палубе.",
+            "english": "By noon I will have placed the chart on deck.",
+            "transcription": "[бай ну:н ай wил хæв плэйст ðэ ча:т он дэк]"
+          },
+          {
+            "ours": "Она разместит рацию на палубе к пяти?",
+            "thought": "Будет она иметь размещённой [известную] рацию на палубе к пяти?",
+            "english": "Will she have placed the radio on deck by five?",
+            "transcription": "[wил ши: хæв плэйст ðэ р**э**йдиоу он дэк бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been placing",
+        "examples": [
+          {
+            "ours": "Мы два часа размещали припасы на палубе, когда начался дождь.",
+            "thought": "Мы имели быть размещающими припасы на палубе целых два часа, когда дождь начался.",
+            "english": "We had been placing supplies on deck for two hours when rain began.",
+            "transcription": "[wи: хæд би:н пл**э**йсиŋ сэпл**а**йз он дэк фо: ту: **а**уэз wэн рэйн биг**æ**н]"
+          },
+          {
+            "ours": "Вы размещали припасы на палубе два часа до дождя?",
+            "thought": "Имели вы быть размещающими припасы на палубе целых два часа перед [известным] дождём?",
+            "english": "Had you been placing supplies on deck for two hours before the rain?",
+            "transcription": "[хæд ю: би:н пл**э**йсиŋ сэпл**а**йз он дэк фо: ту: **а**уэз биф**о**: ðэ рэйн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been placing",
+        "examples": [
+          {
+            "ours": "Мы размещаем припасы на палубе уже два часа.",
+            "thought": "Мы имеем быть размещающими припасы на палубе целых два часа.",
+            "english": "We have been placing supplies on deck for two hours.",
+            "transcription": "[wи: хæв би:н пл**э**йсиŋ сэпл**а**йз он дэк фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Вы размещаете припасы на палубе уже час?",
+            "thought": "Имеете вы быть размещающими припасы на палубе целый [какой-то] час?",
+            "english": "Have you been placing supplies on deck for an hour?",
+            "transcription": "[хæв ю: би:н пл**э**йсиŋ сэпл**а**йз он дэк фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been placing",
+        "examples": [
+          {
+            "ours": "К полудню мы будем размещать припасы на палубе уже два часа.",
+            "thought": "К полудню мы будем иметь быть размещающими припасы на палубе целых два часа.",
+            "english": "By noon we will have been placing supplies on deck for two hours.",
+            "transcription": "[бай ну:н wи: wил хæв би:н пл**э**йсиŋ сэпл**а**йз он дэк фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти вы будете размещать припасы на палубе уже час?",
+            "thought": "Будете вы иметь быть размещающими припасы на палубе целый [какой-то] час к пяти?",
+            "english": "Will you have been placing supplies on deck for an hour by five?",
+            "transcription": "[wил ю: хæв би:н пл**э**йсиŋ сэпл**а**йз он дэк фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were placed",
+        "examples": [
+          {
+            "ours": "Карту вчера разместили на палубе.",
+            "thought": "[Известная] карта была размещена на палубе вчера.",
+            "english": "The chart was placed on deck yesterday.",
+            "transcription": "[ðэ ча:т wоз плэйст он дэк й**э**стэдэй]"
+          },
+          {
+            "ours": "Рацию разместили на палубе?",
+            "thought": "Была [известная] рация размещена на палубе?",
+            "english": "Was the radio placed on deck?",
+            "transcription": "[wоз ðэ р**э**йдиоу плэйст он дэк]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are placed",
+        "examples": [
+          {
+            "ours": "Карту всегда размещают на палубе.",
+            "thought": "[Известная] карта есть всегда размещена на палубе.",
+            "english": "The chart is always placed on deck.",
+            "transcription": "[ðэ ча:т из **о**:лwэйз плэйст он дэк]"
+          },
+          {
+            "ours": "Рацию размещают на палубе каждый день?",
+            "thought": "Есть [известная] рация размещена на палубе каждый день?",
+            "english": "Is the radio placed on deck every day?",
+            "transcription": "[из ðэ р**э**йдиоу плэйст он дэк **э**ври дэй]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be placed",
+        "examples": [
+          {
+            "ours": "Карту завтра разместят на палубе.",
+            "thought": "[Известная] карта будет быть размещена на палубе завтра.",
+            "english": "The chart will be placed on deck tomorrow.",
+            "transcription": "[ðэ ча:т wил би: плэйст он дэк тэм**о**роу]"
+          },
+          {
+            "ours": "Рацию разместят на палубе?",
+            "thought": "Будет [известная] рация быть размещена на палубе?",
+            "english": "Will the radio be placed on deck?",
+            "transcription": "[wил ðэ р**э**йдиоу би: плэйст он дэк]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being placed",
+        "examples": [
+          {
+            "ours": "Вчера весь день припасы размещали на палубе.",
+            "thought": "Вчера припасы были «долго» размещены на палубе весь день.",
+            "english": "Yesterday supplies were being placed on deck all day.",
+            "transcription": "[й**э**стэдэй сэпл**а**йз wœ: б**и**:иŋ плэйст он дэк о:л дэй]"
+          },
+          {
+            "ours": "Когда ты пришёл, канистры с водой размещали на палубе?",
+            "thought": "Были водяные канистры «долго» размещены на палубе, когда ты пришёл?",
+            "english": "Were water containers being placed on deck when you arrived?",
+            "transcription": "[wœ: w**о**:тэ кэнт**э**йнэз б**и**:иŋ плэйст он дэк wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being placed",
+        "examples": [
+          {
+            "ours": "Припасы сейчас несут на палубе.",
+            "thought": "Припасы есть «долго» размещены на палубе сейчас.",
+            "english": "Supplies are being placed on deck now.",
+            "transcription": "[сэпл**а**йз а: б**и**:иŋ плэйст он дэк нау]"
+          },
+          {
+            "ours": "Воду сейчас несут на палубе?",
+            "thought": "Есть водяные канистры «долго» размещены на палубе сейчас?",
+            "english": "Are water containers being placed on deck now?",
+            "transcription": "[а: w**о**:тэ кэнт**э**йнэз б**и**:иŋ плэйст он дэк нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be placing",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут размещать припасы на палубе.",
+            "thought": "Завтра они будут быть размещающими припасы на палубе весь день.",
+            "english": "Tomorrow they will be placing supplies on deck all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: пл**э**йсиŋ сэпл**а**йз он дэк о:л дэй]"
+          },
+          {
+            "ours": "Они будут размещать канистры с водой на палубе утром?",
+            "thought": "Будут они быть размещающими водяные канистры на палубе этим утром?",
+            "english": "Will they be placing water containers on deck this morning?",
+            "transcription": "[wил ðэй би: пл**э**йсиŋ w**о**:тэ кэнт**э**йнэз он дэк ðис м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been placed",
+        "examples": [
+          {
+            "ours": "К полудню карту уже разместили на палубе.",
+            "thought": "К полудню [известная] карта имела уже быть размещена на палубе.",
+            "english": "By noon the chart had already been placed on deck.",
+            "transcription": "[бай ну:н ðэ ча:т хæд о:лр**э**ди би:н плэйст он дэк]"
+          },
+          {
+            "ours": "Рацию разместили на палубе к пяти?",
+            "thought": "Имела [известная] рация быть размещена на палубе к пяти?",
+            "english": "Had the radio been placed on deck by five?",
+            "transcription": "[хæд ðэ р**э**йдиоу би:н плэйст он дэк бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been placed",
+        "examples": [
+          {
+            "ours": "Карту уже разместили на палубе.",
+            "thought": "[Известная] карта имеет уже быть размещена на палубе.",
+            "english": "The chart has already been placed on deck.",
+            "transcription": "[ðэ ча:т хæз о:лр**э**ди би:н плэйст он дэк]"
+          },
+          {
+            "ours": "Рацию уже разместили на палубе?",
+            "thought": "Имеет [известная] рация быть размещена на палубе уже?",
+            "english": "Has the radio been placed on deck yet?",
+            "transcription": "[хæз ðэ р**э**йдиоу би:н плэйст он дэк йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been placed",
+        "examples": [
+          {
+            "ours": "К полудню карту уже разместят на палубе.",
+            "thought": "К полудню [известная] карта будет иметь быть размещена на палубе.",
+            "english": "By noon the chart will have been placed on deck.",
+            "transcription": "[бай ну:н ðэ ча:т wил хæв би:н плэйст он дэк]"
+          },
+          {
+            "ours": "Рацию разместят на палубе к пяти?",
+            "thought": "Будет [известная] рация иметь быть размещена на палубе к пяти?",
+            "english": "Will the radio have been placed on deck by five?",
+            "transcription": "[wил ðэ р**э**йдиоу хæв би:н плэйст он дэк бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been placing supplies on deck."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она разместит карту на палубе.",
+        "thought": "Я знал, она будет размещать [известную] карту на палубе.",
+        "english": "I knew she would place the chart on deck.",
+        "transcription": "[ай нью: ши: wуд плэйс ðэ ча:т он дэк]"
+      },
+      {
+        "ours": "Он думал, что мы не разместим рацию на палубе.",
+        "thought": "Он думал, мы будем не размещать [известную] рацию на палубе.",
+        "english": "He thought we would not place the radio on deck.",
+        "transcription": "[хи: θо:т wи: wуд нот плэйс ðэ р**э**йдиоу он дэк]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радиостанция",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "table",
+      "meaning": "стол",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "table"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "supply",
+      "meaning": "припасы",
+      "sense": "stock",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "supplies"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Supplies"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "supplies"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "container",
+      "meaning": "канистра, ёмкость",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "containers"
+        }
+      ]
+    }
+  ]
+}

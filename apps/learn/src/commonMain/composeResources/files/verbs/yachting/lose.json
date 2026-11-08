@@ -1,0 +1,901 @@
+{
+  "spec": 4,
+  "verb": "lose",
+  "forms": {
+    "base": [
+      {
+        "word": "lose",
+        "transcription": "[лу:з]"
+      }
+    ],
+    "past": [
+      {
+        "word": "lost",
+        "transcription": "[лост]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "lost",
+        "transcription": "[лост]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "losing",
+        "transcription": "[л**у**:зиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "loses",
+        "transcription": "[л**у**:зиз]"
+      }
+    ]
+  },
+  "meaning": "терять, проигрывать",
+  "notes": "неправильный переходный глагол; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "lost",
+        "examples": [
+          {
+            "ours": "Вчера мы потеряли якорь.",
+            "thought": "Вчера мы потеряли [известный] якорь.",
+            "english": "Yesterday we lost the anchor.",
+            "transcription": "[й**э**стэдэй wи: лост ðи **æ**нкэ]"
+          },
+          {
+            "ours": "Ты потерял карту?",
+            "thought": "[Сделал] ты терять [известную] карту?",
+            "english": "Did you lose the chart?",
+            "transcription": "[дид ю: лу:з ðэ ча:т]"
+          },
+          {
+            "ours": "Она не проиграла гонку.",
+            "thought": "Она [сделала] не проигрывать [известную] гонку.",
+            "english": "She did not lose the race.",
+            "transcription": "[ши: дид нот лу:з ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "lose, loses",
+        "examples": [
+          {
+            "ours": "Яхта теряет скорость против ветра.",
+            "thought": "[Известная] яхта теряет скорость против [известного] ветра.",
+            "english": "The yacht loses speed against the wind.",
+            "transcription": "[ðэ йот л**у**:зиз спи:д эг**э**нст ðэ wинд]"
+          },
+          {
+            "ours": "Ты часто теряешь ключи?",
+            "thought": "[Делаешь] ты часто терять ключи?",
+            "english": "Do you often lose keys?",
+            "transcription": "[ду: ю: **о**фэн лу:з ки:з]"
+          },
+          {
+            "ours": "Мы не теряем сигнал в марине.",
+            "thought": "Мы [делаем] не терять [известный] сигнал в [известной] марине.",
+            "english": "We do not lose the signal in the marina.",
+            "transcription": "[wи: ду: нот лу:з ðэ с**и**гнл ин ðэ мэр**и**:нэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will lose",
+        "examples": [
+          {
+            "ours": "Мы потеряем ветер за островом.",
+            "thought": "Мы будем терять [известный] ветер за [известным] островом.",
+            "english": "We will lose the wind behind the island.",
+            "transcription": "[wи: wил лу:з ðэ wинд бих**а**йнд ðи **а**йлэнд]"
+          },
+          {
+            "ours": "Ты проиграешь гонку?",
+            "thought": "Будешь ты проигрывать [известную] гонку?",
+            "english": "Will you lose the race?",
+            "transcription": "[wил ю: лу:з ðэ рэйс]"
+          },
+          {
+            "ours": "Она не потеряет карту.",
+            "thought": "Она будет не терять [известную] карту.",
+            "english": "She will not lose the chart.",
+            "transcription": "[ши: wил нот лу:з ðэ ча:т]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were losing",
+        "examples": [
+          {
+            "ours": "Вчера утром яхта теряла скорость.",
+            "thought": "Вчера утром [известная] яхта была теряющей скорость.",
+            "english": "Yesterday morning the yacht was losing speed.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ ðэ йот wоз л**у**:зиŋ спи:д]"
+          },
+          {
+            "ours": "Ты терял сигнал, когда я позвал?",
+            "thought": "Был ты теряющим [известный] сигнал, когда я позвал?",
+            "english": "Were you losing the signal when I called?",
+            "transcription": "[wœ: ю: л**у**:зиŋ ðэ с**и**гнл wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are losing",
+        "examples": [
+          {
+            "ours": "Мы сейчас теряем скорость.",
+            "thought": "Мы являемся теряющими скорость сейчас.",
+            "english": "We are losing speed now.",
+            "transcription": "[wи: а: л**у**:зиŋ спи:д нау]"
+          },
+          {
+            "ours": "Яхта сейчас теряет высоту к ветру?",
+            "thought": "Является [известная] яхта теряющей высоту сейчас?",
+            "english": "Is the yacht losing height now?",
+            "transcription": "[из ðэ йот л**у**:зиŋ хайт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be losing",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем терять скорость против течения.",
+            "thought": "Завтра утром мы будем быть теряющими скорость против [известного] течения.",
+            "english": "Tomorrow morning we will be losing speed against the current.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: л**у**:зиŋ спи:д эг**э**нст ðэ к**а**рэнт]"
+          },
+          {
+            "ours": "Ты будешь терять скорость при повороте?",
+            "thought": "Будешь ты быть теряющим скорость во время [известного] поворота?",
+            "english": "Will you be losing speed during the turn?",
+            "transcription": "[wил ю: би: л**у**:зиŋ спи:д дь**ю**эриŋ ðэ тœ:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had lost",
+        "examples": [
+          {
+            "ours": "К полудню мы уже потеряли якорь.",
+            "thought": "К полудню мы имели уже потерянным [известный] якорь.",
+            "english": "By noon we had already lost the anchor.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди лост ðи **æ**нкэ]"
+          },
+          {
+            "ours": "Ты потерял карту до шторма?",
+            "thought": "Имел ты потерянной [известную] карту до [известного] шторма?",
+            "english": "Had you lost the chart before the storm?",
+            "transcription": "[хæд ю: лост ðэ ча:т биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has lost",
+        "examples": [
+          {
+            "ours": "Мы уже потеряли сигнал.",
+            "thought": "Мы имеем уже потерянным [известный] сигнал.",
+            "english": "We have already lost the signal.",
+            "transcription": "[wи: хæв о:лр**э**ди лост ðэ с**и**гнл]"
+          },
+          {
+            "ours": "Ты уже потерял ключи?",
+            "thought": "Имеешь ты потерянными [известные] ключи уже?",
+            "english": "Have you lost the keys yet?",
+            "transcription": "[хæв ю: лост ðэ ки:з йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have lost",
+        "examples": [
+          {
+            "ours": "К полудню мы потеряем связь.",
+            "thought": "К полудню мы будем иметь потерянным [известный] сигнал.",
+            "english": "By noon we will have lost the signal.",
+            "transcription": "[бай ну:н wи: wил хæв лост ðэ с**и**гнл]"
+          },
+          {
+            "ours": "К пяти яхта потеряет скорость?",
+            "thought": "Будет [известная] яхта иметь потерянной скорость к пяти?",
+            "english": "Will the yacht have lost speed by five?",
+            "transcription": "[wил ðэ йот хæв лост спи:д бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been losing",
+        "examples": [
+          {
+            "ours": "Яхта теряла скорость час, когда мы заметили проблему.",
+            "thought": "[Известная] яхта имела быть теряющей скорость целый [какой-то] час, когда мы заметили [известную] проблему.",
+            "english": "The yacht had been losing speed for an hour when we noticed the problem.",
+            "transcription": "[ðэ йот хæд би:н л**у**:зиŋ спи:д фо: эн **а**уэ wэн wи: н**о**утист ðэ пр**о**блэм]"
+          },
+          {
+            "ours": "Ты терял высоту к ветру два часа до шторма?",
+            "thought": "Имел ты быть теряющим высоту целых два часа до [известного] шторма?",
+            "english": "Had you been losing height for two hours before the storm?",
+            "transcription": "[хæд ю: би:н л**у**:зиŋ хайт фо: ту: **а**уэз биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been losing",
+        "examples": [
+          {
+            "ours": "Яхта теряет скорость уже час.",
+            "thought": "[Известная] яхта имеет быть теряющей скорость целый [какой-то] час.",
+            "english": "The yacht has been losing speed for an hour.",
+            "transcription": "[ðэ йот хæз би:н л**у**:зиŋ спи:д фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Вы теряете высоту к ветру уже два часа?",
+            "thought": "Имеете вы быть теряющими высоту целых два часа?",
+            "english": "Have you been losing height for two hours?",
+            "transcription": "[хæв ю: би:н л**у**:зиŋ хайт фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been losing",
+        "examples": [
+          {
+            "ours": "К пяти яхта будет терять скорость уже два часа.",
+            "thought": "К пяти [известная] яхта будет иметь быть теряющей скорость целых два часа.",
+            "english": "By five the yacht will have been losing speed for two hours.",
+            "transcription": "[бай файв ðэ йот wил хæв би:н л**у**:зиŋ спи:д фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню вы будете терять высоту к ветру уже час?",
+            "thought": "Будете вы иметь быть теряющими высоту целый [какой-то] час к полудню?",
+            "english": "Will you have been losing height for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н л**у**:зиŋ хайт фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were lost",
+        "examples": [
+          {
+            "ours": "Якорь потеряли вчера.",
+            "thought": "[Известный] якорь был потерян вчера.",
+            "english": "The anchor was lost yesterday.",
+            "transcription": "[ðи **æ**нкэ wоз лост й**э**стэдэй]"
+          },
+          {
+            "ours": "Карты потеряли во время шторма?",
+            "thought": "Были [известные] карты потеряны во время [известного] шторма?",
+            "english": "Were the charts lost during the storm?",
+            "transcription": "[wœ: ðэ ча:тс лост дь**ю**эриŋ ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are lost",
+        "examples": [
+          {
+            "ours": "Ключи часто теряются в марине.",
+            "thought": "Ключи есть потеряны часто в [известной] марине.",
+            "english": "Keys are often lost in the marina.",
+            "transcription": "[ки:з а: **о**фэн лост ин ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Сигнал теряется за островом?",
+            "thought": "Есть [известный] сигнал потерян за [известным] островом?",
+            "english": "Is the signal lost behind the island?",
+            "transcription": "[из ðэ с**и**гнл лост бих**а**йнд ðи **а**йлэнд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be lost",
+        "examples": [
+          {
+            "ours": "Сигнал потеряется за островом.",
+            "thought": "[Известный] сигнал будет быть потерян за [известным] островом.",
+            "english": "The signal will be lost behind the island.",
+            "transcription": "[ðэ с**и**гнл wил би: лост бих**а**йнд ðи **а**йлэнд]"
+          },
+          {
+            "ours": "Якорь потеряют в шторм?",
+            "thought": "Будет [известный] якорь быть потерян в [какой-то] шторм?",
+            "english": "Will the anchor be lost in a storm?",
+            "transcription": "[wил ðи **æ**нкэ би: лост ин э сто:м]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being lost",
+        "examples": [
+          {
+            "ours": "Во время шторма скорость терялась.",
+            "thought": "Скорость была «долго» потеряна во время [известного] шторма.",
+            "english": "Speed was being lost during the storm.",
+            "transcription": "[спи:д wоз б**и**:иŋ лост дь**ю**эриŋ ðэ сто:м]"
+          },
+          {
+            "ours": "Когда ты позвонил, высота к ветру терялась?",
+            "thought": "Была высота «долго» потеряна, когда ты позвонил?",
+            "english": "Was height being lost when you called?",
+            "transcription": "[wоз хайт б**и**:иŋ лост wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being lost",
+        "examples": [
+          {
+            "ours": "Скорость сейчас теряется.",
+            "thought": "Скорость есть «долго» потеряна сейчас.",
+            "english": "Speed is being lost now.",
+            "transcription": "[спи:д из б**и**:иŋ лост нау]"
+          },
+          {
+            "ours": "Высота к ветру сейчас теряется?",
+            "thought": "Есть высота «долго» потеряна сейчас?",
+            "english": "Is height being lost now?",
+            "transcription": "[из хайт б**и**:иŋ лост нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be losing",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут терять скорость против течения.",
+            "thought": "Завтра утром они будут быть теряющими скорость против [известного] течения.",
+            "english": "Tomorrow morning they will be losing speed against the current.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: л**у**:зиŋ спи:д эг**э**нст ðэ к**а**рэнт]"
+          },
+          {
+            "ours": "Они будут терять высоту к ветру во время гонки?",
+            "thought": "Будут они быть теряющими высоту во время [известной] гонки?",
+            "english": "Will they be losing height during the race?",
+            "transcription": "[wил ðэй би: л**у**:зиŋ хайт дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been lost",
+        "examples": [
+          {
+            "ours": "К полудню якорь уже потеряли.",
+            "thought": "К полудню [известный] якорь имел уже быть потерян.",
+            "english": "By noon the anchor had already been lost.",
+            "transcription": "[бай ну:н ðи **æ**нкэ хæд о:лр**э**ди би:н лост]"
+          },
+          {
+            "ours": "Карту потеряли до шторма?",
+            "thought": "Имела [известная] карта быть потеряна до [известного] шторма?",
+            "english": "Had the chart been lost before the storm?",
+            "transcription": "[хæд ðэ ча:т би:н лост биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been lost",
+        "examples": [
+          {
+            "ours": "Сигнал уже потерян.",
+            "thought": "[Известный] сигнал имеет уже быть потерян.",
+            "english": "The signal has already been lost.",
+            "transcription": "[ðэ с**и**гнл хæз о:лр**э**ди би:н лост]"
+          },
+          {
+            "ours": "Якорь уже потерян?",
+            "thought": "Имеет [известный] якорь быть потерян уже?",
+            "english": "Has the anchor been lost yet?",
+            "transcription": "[хæз ðи **æ**нкэ би:н лост йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been lost",
+        "examples": [
+          {
+            "ours": "К полудню сигнал уже потеряется.",
+            "thought": "К полудню [известный] сигнал будет иметь быть потерян.",
+            "english": "By noon the signal will have been lost.",
+            "transcription": "[бай ну:н ðэ с**и**гнл wил хæв би:н лост]"
+          },
+          {
+            "ours": "Карта будет потеряна к пяти?",
+            "thought": "Будет [известная] карта иметь быть потеряна к пяти?",
+            "english": "Will the chart have been lost by five?",
+            "transcription": "[wил ðэ ча:т хæв би:н лост бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: The yacht has been losing speed."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они потеряют сигнал.",
+        "thought": "Я знал, они будут терять [известный] сигнал.",
+        "english": "I knew they would lose the signal.",
+        "transcription": "[ай нью: ðэй wуд лу:з ðэ с**и**гнл]"
+      },
+      {
+        "ours": "Она думала, что мы не проиграем гонку.",
+        "thought": "Она думала, мы будем не проигрывать [известную] гонку.",
+        "english": "She thought we would not lose the race.",
+        "transcription": "[ши: θо:т wи: wуд нот лу:з ðэ рэйс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "speed",
+      "meaning": "скорость",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Speed"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Speed"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "speed"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "key",
+      "meaning": "ключ",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "keys"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "keys"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Keys"
+        }
+      ]
+    },
+    {
+      "word": "signal",
+      "meaning": "сигнал",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "signal"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "height",
+      "meaning": "высота к ветру",
+      "sense": "windward",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "height"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "height"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "height"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "height"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "height"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "height"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "height"
+        }
+      ]
+    },
+    {
+      "word": "current",
+      "meaning": "течение",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "current"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "current"
+        }
+      ]
+    },
+    {
+      "word": "turn",
+      "meaning": "поворот",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "turn"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "problem",
+      "meaning": "проблема",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "problem"
+        }
+      ]
+    }
+  ]
+}

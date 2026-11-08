@@ -1,0 +1,984 @@
+{
+  "spec": 4,
+  "verb": "replace",
+  "forms": {
+    "base": [
+      {
+        "word": "replace",
+        "transcription": "[рипл**э**йс]"
+      }
+    ],
+    "past": [
+      {
+        "word": "replaced",
+        "transcription": "[рипл**э**йст]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "replaced",
+        "transcription": "[рипл**э**йст]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "replacing",
+        "transcription": "[рипл**э**йсиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "replaces",
+        "transcription": "[рипл**э**йсиз]"
+      }
+    ]
+  },
+  "meaning": "заменять, менять",
+  "notes": "правильный переходный глагол; replace A with B — заменить A на B",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "replaced",
+        "examples": [
+          {
+            "ours": "Вчера я заменил фильтр.",
+            "thought": "Вчера я заменил [известный] фильтр.",
+            "english": "Yesterday I replaced the filter.",
+            "transcription": "[й**э**стэдэй ай рипл**э**йст ðэ ф**и**лтэ]"
+          },
+          {
+            "ours": "Она не заменила трос цепью.",
+            "thought": "Она [сделала] не заменять [известный] трос на [какую-то] цепь.",
+            "english": "She did not replace the rope with a chain.",
+            "transcription": "[ши: дид нот рипл**э**йс ðэ роуп wиð э чэйн]"
+          },
+          {
+            "ours": "Ты заменил насос?",
+            "thought": "[Сделал] ты заменять [известный] насос?",
+            "english": "Did you replace the pump?",
+            "transcription": "[дид ю: рипл**э**йс ðэ памп]"
+          }
+        ]
+      },
+      "present": {
+        "form": "replace, replaces",
+        "examples": [
+          {
+            "ours": "Мы меняем тросы каждый год.",
+            "thought": "Мы заменяем тросы каждый год.",
+            "english": "We replace ropes every year.",
+            "transcription": "[wи: рипл**э**йс роупс **э**ври йиэ]"
+          },
+          {
+            "ours": "Он не заменяет парус сам.",
+            "thought": "Он [делает] не заменять [известный] парус сам.",
+            "english": "He does not replace the sail himself.",
+            "transcription": "[хи: даз нот рипл**э**йс ðэ сэйл химс**э**лф]"
+          },
+          {
+            "ours": "Ты меняешь карту каждый сезон?",
+            "thought": "[Делаешь] ты заменять [известную] карту каждый сезон?",
+            "english": "Do you replace the chart every season?",
+            "transcription": "[ду: ю: рипл**э**йс ðэ ча:т **э**ври с**и**:зн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will replace",
+        "examples": [
+          {
+            "ours": "Завтра мы заменим аккумулятор.",
+            "thought": "Завтра мы будем заменять [известный] аккумулятор.",
+            "english": "Tomorrow we will replace the battery.",
+            "transcription": "[тэм**о**роу wи: wил рипл**э**йс ðэ б**æ**тэри]"
+          },
+          {
+            "ours": "Она не заменит фал.",
+            "thought": "Она будет не заменять [известный] фал.",
+            "english": "She will not replace the halyard.",
+            "transcription": "[ши: wил нот рипл**э**йс ðэ х**æ**льэд]"
+          },
+          {
+            "ours": "Ты заменишь фильтр?",
+            "thought": "Будешь ты заменять [известный] фильтр?",
+            "english": "Will you replace the filter?",
+            "transcription": "[wил ю: рипл**э**йс ðэ ф**и**лтэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were replacing",
+        "examples": [
+          {
+            "ours": "Мы меняли насос, когда поднялся ветер.",
+            "thought": "Мы были заменяющими [известный] насос, когда [известный] ветер поднялся.",
+            "english": "We were replacing the pump when the wind rose.",
+            "transcription": "[wи: wœ: рипл**э**йсиŋ ðэ памп wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Она тогда не меняла фильтр.",
+            "thought": "Она была не заменяющей [известный] фильтр тогда.",
+            "english": "She was not replacing the filter then.",
+            "transcription": "[ши: wоз нот рипл**э**йсиŋ ðэ ф**и**лтэ ðэн]"
+          },
+          {
+            "ours": "Ты менял парус, когда я прибыл?",
+            "thought": "Был ты заменяющим [известный] парус, когда я прибыл?",
+            "english": "Were you replacing the sail when I arrived?",
+            "transcription": "[wœ: ю: рипл**э**йсиŋ ðэ сэйл wэн ай эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are replacing",
+        "examples": [
+          {
+            "ours": "Я сейчас меняю фал.",
+            "thought": "Я являюсь заменяющим [известный] фал сейчас.",
+            "english": "I am replacing the halyard now.",
+            "transcription": "[ай æм рипл**э**йсиŋ ðэ х**æ**льэд нау]"
+          },
+          {
+            "ours": "Она сейчас не меняет насос.",
+            "thought": "Она является не заменяющей [известный] насос сейчас.",
+            "english": "She is not replacing the pump now.",
+            "transcription": "[ши: из нот рипл**э**йсиŋ ðэ памп нау]"
+          },
+          {
+            "ours": "Ты сейчас меняешь аккумулятор?",
+            "thought": "Являешься ты заменяющим [известный] аккумулятор сейчас?",
+            "english": "Are you replacing the battery now?",
+            "transcription": "[а: ю: рипл**э**йсиŋ ðэ б**æ**тэри нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be replacing",
+        "examples": [
+          {
+            "ours": "Завтра мы будем менять фильтры весь день.",
+            "thought": "Завтра мы будем быть заменяющими фильтры весь день.",
+            "english": "Tomorrow we will be replacing filters all day.",
+            "transcription": "[тэм**о**роу wи: wил би: рипл**э**йсиŋ ф**и**лтэз о:л дэй]"
+          },
+          {
+            "ours": "Она не будет менять трос завтра утром.",
+            "thought": "Она будет не быть заменяющей [известный] трос завтра утром.",
+            "english": "She will not be replacing the rope tomorrow morning.",
+            "transcription": "[ши: wил нот би: рипл**э**йсиŋ ðэ роуп тэм**о**роу м**о**:ниŋ]"
+          },
+          {
+            "ours": "Ты будешь менять парус в пять?",
+            "thought": "Будешь ты быть заменяющим [известный] парус в пять?",
+            "english": "Will you be replacing the sail at five?",
+            "transcription": "[wил ю: би: рипл**э**йсиŋ ðэ сэйл æт файв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had replaced",
+        "examples": [
+          {
+            "ours": "К полудню я уже заменил фильтр.",
+            "thought": "К полудню я имел уже заменённым [известный] фильтр.",
+            "english": "By noon I had already replaced the filter.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди рипл**э**йст ðэ ф**и**лтэ]"
+          },
+          {
+            "ours": "К тому времени она ещё не заменила фал.",
+            "thought": "К тогда она имела не заменённым [известный] фал ещё.",
+            "english": "By then she had not replaced the halyard yet.",
+            "transcription": "[бай ðэн ши: хæд нот рипл**э**йст ðэ х**æ**льэд йэт]"
+          },
+          {
+            "ours": "К пяти ты заменил насос?",
+            "thought": "Имел ты заменённым [известный] насос к пяти?",
+            "english": "Had you replaced the pump by five?",
+            "transcription": "[хæд ю: рипл**э**йст ðэ памп бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has replaced",
+        "examples": [
+          {
+            "ours": "Мы уже заменили парус.",
+            "thought": "Мы имеем уже заменённым [известный] парус.",
+            "english": "We have already replaced the sail.",
+            "transcription": "[wи: хæв о:лр**э**ди рипл**э**йст ðэ сэйл]"
+          },
+          {
+            "ours": "Она ещё не заменила карту.",
+            "thought": "Она имеет не заменённой [известную] карту ещё.",
+            "english": "She has not replaced the chart yet.",
+            "transcription": "[ши: хæз нот рипл**э**йст ðэ ча:т йэт]"
+          },
+          {
+            "ours": "Ты уже заменил аккумулятор?",
+            "thought": "Имеешь ты заменённым [известный] аккумулятор уже?",
+            "english": "Have you replaced the battery yet?",
+            "transcription": "[хæв ю: рипл**э**йст ðэ б**æ**тэри йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have replaced",
+        "examples": [
+          {
+            "ours": "К вечеру мы заменим насос.",
+            "thought": "К вечеру мы будем иметь заменённым [известный] насос.",
+            "english": "By evening we will have replaced the pump.",
+            "transcription": "[бай **и**:вниŋ wи: wил хæв рипл**э**йст ðэ памп]"
+          },
+          {
+            "ours": "К пяти она ещё не заменит фильтр.",
+            "thought": "К пяти она будет не иметь заменённым [известный] фильтр ещё.",
+            "english": "By five she will not have replaced the filter yet.",
+            "transcription": "[бай файв ши: wил нот хæв рипл**э**йст ðэ ф**и**лтэ йэт]"
+          },
+          {
+            "ours": "К полудню ты заменишь фал?",
+            "thought": "Будешь ты иметь заменённым [известный] фал к полудню?",
+            "english": "Will you have replaced the halyard by noon?",
+            "transcription": "[wил ю: хæв рипл**э**йст ðэ х**æ**льэд бай ну:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been replacing",
+        "examples": [
+          {
+            "ours": "Мы меняли тросы два часа, когда начался дождь.",
+            "thought": "Мы имели быть заменяющими тросы целых два часа, когда [известный] дождь начался.",
+            "english": "We had been replacing ropes for two hours when the rain started.",
+            "transcription": "[wи: хæд би:н рипл**э**йсиŋ роупс фо: ту: **а**уэз wэн ðэ рэйн ст**а**:тид]"
+          },
+          {
+            "ours": "Ты долго менял фильтры, когда я пришёл?",
+            "thought": "Имел ты быть заменяющим фильтры долго, когда я прибыл?",
+            "english": "Had you been replacing filters long when I arrived?",
+            "transcription": "[хæд ю: би:н рипл**э**йсиŋ ф**и**лтэз лоŋ wэн ай эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been replacing",
+        "examples": [
+          {
+            "ours": "Мы меняем тросы уже два часа.",
+            "thought": "Мы имеем быть заменяющими тросы целых два часа.",
+            "english": "We have been replacing ropes for two hours.",
+            "transcription": "[wи: хæв би:н рипл**э**йсиŋ роупс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже час меняешь фильтры?",
+            "thought": "Имеешь ты быть заменяющим фильтры целый [какой-то] час?",
+            "english": "Have you been replacing filters for an hour?",
+            "transcription": "[хæв ю: би:н рипл**э**йсиŋ ф**и**лтэз фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been replacing",
+        "examples": [
+          {
+            "ours": "К пяти мы будем менять тросы уже два часа.",
+            "thought": "К пяти мы будем иметь быть заменяющими тросы целых два часа.",
+            "english": "By five we will have been replacing ropes for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н рипл**э**йсиŋ роупс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь менять фильтры уже час?",
+            "thought": "Будешь ты иметь быть заменяющим фильтры целый [какой-то] час к полудню?",
+            "english": "Will you have been replacing filters for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н рипл**э**йсиŋ ф**и**лтэз фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were replaced",
+        "examples": [
+          {
+            "ours": "Парус заменили вчера.",
+            "thought": "[Известный] парус был заменён вчера.",
+            "english": "The sail was replaced yesterday.",
+            "transcription": "[ðэ сэйл wоз рипл**э**йст й**э**стэдэй]"
+          },
+          {
+            "ours": "Трос не заменили.",
+            "thought": "[Известный] трос был не заменён.",
+            "english": "The rope was not replaced.",
+            "transcription": "[ðэ роуп wоз нот рипл**э**йст]"
+          },
+          {
+            "ours": "Насос заменили?",
+            "thought": "Был [известный] насос заменён?",
+            "english": "Was the pump replaced?",
+            "transcription": "[wоз ðэ памп рипл**э**йст]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are replaced",
+        "examples": [
+          {
+            "ours": "Фильтры меняют каждый сезон.",
+            "thought": "Фильтры есть заменены каждый сезон.",
+            "english": "Filters are replaced every season.",
+            "transcription": "[ф**и**лтэз а: рипл**э**йст **э**ври с**и**:зн]"
+          },
+          {
+            "ours": "Фал здесь не меняют.",
+            "thought": "[Известный] фал есть не заменён здесь.",
+            "english": "The halyard is not replaced here.",
+            "transcription": "[ðэ х**æ**льэд из нот рипл**э**йст хиэ]"
+          },
+          {
+            "ours": "Тросы меняют каждый год?",
+            "thought": "Есть тросы заменены каждый год?",
+            "english": "Are ropes replaced every year?",
+            "transcription": "[а: роупс рипл**э**йст **э**ври йиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be replaced",
+        "examples": [
+          {
+            "ours": "Аккумулятор заменят завтра.",
+            "thought": "[Известный] аккумулятор будет быть заменён завтра.",
+            "english": "The battery will be replaced tomorrow.",
+            "transcription": "[ðэ б**æ**тэри wил би: рипл**э**йст тэм**о**роу]"
+          },
+          {
+            "ours": "Карту не заменят.",
+            "thought": "[Известная] карта будет не быть заменена.",
+            "english": "The chart will not be replaced.",
+            "transcription": "[ðэ ча:т wил нот би: рипл**э**йст]"
+          },
+          {
+            "ours": "Парус заменят завтра?",
+            "thought": "Будет [известный] парус быть заменён завтра?",
+            "english": "Will the sail be replaced tomorrow?",
+            "transcription": "[wил ðэ сэйл би: рипл**э**йст тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being replaced",
+        "examples": [
+          {
+            "ours": "Насос меняли, когда поднялся ветер.",
+            "thought": "[Известный] насос был «долго» заменён, когда [известный] ветер поднялся.",
+            "english": "The pump was being replaced when the wind rose.",
+            "transcription": "[ðэ памп wоз б**и**:иŋ рипл**э**йст wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Фильтр тогда не меняли.",
+            "thought": "[Известный] фильтр был не «долго» заменён тогда.",
+            "english": "The filter was not being replaced then.",
+            "transcription": "[ðэ ф**и**лтэ wоз нот б**и**:иŋ рипл**э**йст ðэн]"
+          },
+          {
+            "ours": "Трос меняли, когда ты пришёл?",
+            "thought": "Был [известный] трос «долго» заменён, когда ты прибыл?",
+            "english": "Was the rope being replaced when you arrived?",
+            "transcription": "[wоз ðэ роуп б**и**:иŋ рипл**э**йст wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being replaced",
+        "examples": [
+          {
+            "ours": "Сейчас меняют фал.",
+            "thought": "[Известный] фал есть «долго» заменён сейчас.",
+            "english": "The halyard is being replaced now.",
+            "transcription": "[ðэ х**æ**льэд из б**и**:иŋ рипл**э**йст нау]"
+          },
+          {
+            "ours": "Насос сейчас не меняют.",
+            "thought": "[Известный] насос есть не «долго» заменён сейчас.",
+            "english": "The pump is not being replaced now.",
+            "transcription": "[ðэ памп из нот б**и**:иŋ рипл**э**йст нау]"
+          },
+          {
+            "ours": "Парус сейчас меняют?",
+            "thought": "Есть [известный] парус «долго» заменён сейчас?",
+            "english": "Is the sail being replaced now?",
+            "transcription": "[из ðэ сэйл б**и**:иŋ рипл**э**йст нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be replacing",
+        "examples": [
+          {
+            "ours": "Завтра они будут менять фильтры весь день.",
+            "thought": "Завтра они будут быть заменяющими фильтры весь день.",
+            "english": "Tomorrow they will be replacing filters all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: рипл**э**йсиŋ ф**и**лтэз о:л дэй]"
+          },
+          {
+            "ours": "Они не будут менять насос завтра.",
+            "thought": "Они будут не быть заменяющими [известный] насос завтра.",
+            "english": "They will not be replacing the pump tomorrow.",
+            "transcription": "[ðэй wил нот би: рипл**э**йсиŋ ðэ памп тэм**о**роу]"
+          },
+          {
+            "ours": "Они будут менять парус в пять?",
+            "thought": "Будут они быть заменяющими [известный] парус в пять?",
+            "english": "Will they be replacing the sail at five?",
+            "transcription": "[wил ðэй би: рипл**э**йсиŋ ðэ сэйл æт файв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been replaced",
+        "examples": [
+          {
+            "ours": "К полудню фильтр уже заменили.",
+            "thought": "К полудню [известный] фильтр имел уже быть заменён.",
+            "english": "By noon the filter had already been replaced.",
+            "transcription": "[бай ну:н ðэ ф**и**лтэ хæд о:лр**э**ди би:н рипл**э**йст]"
+          },
+          {
+            "ours": "К тому времени фал ещё не заменили.",
+            "thought": "К тогда [известный] фал имел не быть заменён ещё.",
+            "english": "By then the halyard had not been replaced yet.",
+            "transcription": "[бай ðэн ðэ х**æ**льэд хæд нот би:н рипл**э**йст йэт]"
+          },
+          {
+            "ours": "К пяти насос заменили?",
+            "thought": "Имел [известный] насос быть заменён к пяти?",
+            "english": "Had the pump been replaced by five?",
+            "transcription": "[хæд ðэ памп би:н рипл**э**йст бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been replaced",
+        "examples": [
+          {
+            "ours": "Парус уже заменили.",
+            "thought": "[Известный] парус имеет уже быть заменён.",
+            "english": "The sail has already been replaced.",
+            "transcription": "[ðэ сэйл хæз о:лр**э**ди би:н рипл**э**йст]"
+          },
+          {
+            "ours": "Карту ещё не заменили.",
+            "thought": "[Известная] карта имеет не быть заменена ещё.",
+            "english": "The chart has not been replaced yet.",
+            "transcription": "[ðэ ча:т хæз нот би:н рипл**э**йст йэт]"
+          },
+          {
+            "ours": "Аккумулятор уже заменили?",
+            "thought": "Имеет [известный] аккумулятор быть заменён уже?",
+            "english": "Has the battery been replaced yet?",
+            "transcription": "[хæз ðэ б**æ**тэри би:н рипл**э**йст йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been replaced",
+        "examples": [
+          {
+            "ours": "К вечеру насос заменят.",
+            "thought": "К вечеру [известный] насос будет иметь быть заменён.",
+            "english": "By evening the pump will have been replaced.",
+            "transcription": "[бай **и**:вниŋ ðэ памп wил хæв би:н рипл**э**йст]"
+          },
+          {
+            "ours": "К пяти фильтр ещё не заменят.",
+            "thought": "К пяти [известный] фильтр будет не иметь быть заменён ещё.",
+            "english": "By five the filter will not have been replaced yet.",
+            "transcription": "[бай файв ðэ ф**и**лтэ wил нот хæв би:н рипл**э**йст йэт]"
+          },
+          {
+            "ours": "К полудню фал заменят?",
+            "thought": "Будет [известный] фал иметь быть заменён к полудню?",
+            "english": "Will the halyard have been replaced by noon?",
+            "transcription": "[wил ðэ х**æ**льэд хæв би:н рипл**э**йст бай ну:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него скажут: They have been replacing ropes."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она заменит насос.",
+        "thought": "Я знал она будет заменять [известный] насос.",
+        "english": "I knew she would replace the pump.",
+        "transcription": "[ай нью: ши: wуд рипл**э**йс ðэ памп]"
+      },
+      {
+        "ours": "Мы думали, что он не заменит парус.",
+        "thought": "Мы думали он будет не заменять [известный] парус.",
+        "english": "We thought he would not replace the sail.",
+        "transcription": "[wи: θо:т хи: wуд нот рипл**э**йс ðэ сэйл]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "filter",
+      "meaning": "фильтр",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "filter"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "filter"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "filter"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "filters"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "filter"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "filter"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "filters"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "filters"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "filters"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Filters"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "filter"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "filters"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "filter"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "filter"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "трос",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "ropes"
+        },
+        {
+          "phrase": "passive.continuous.past.2",
+          "form": "rope"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "насос",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "year"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.future.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "season",
+      "meaning": "сезон",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "season"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "season"
+        }
+      ]
+    },
+    {
+      "word": "battery",
+      "meaning": "аккумулятор",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "battery"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "battery"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "battery"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "battery"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "battery"
+        }
+      ]
+    },
+    {
+      "word": "halyard",
+      "meaning": "фал",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "halyard"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "halyard"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "halyard"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "halyard"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "halyard"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "halyard"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "halyard"
+        },
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "halyard"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "chain",
+      "meaning": "цепь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "chain"
+        }
+      ]
+    }
+  ]
+}

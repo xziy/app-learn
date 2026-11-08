@@ -1,0 +1,866 @@
+{
+  "spec": 4,
+  "verb": "claim",
+  "forms": {
+    "base": [
+      {
+        "word": "claim",
+        "transcription": "[клэйм]"
+      }
+    ],
+    "past": [
+      {
+        "word": "claimed",
+        "transcription": "[клэймд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "claimed",
+        "transcription": "[клэймд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "claiming",
+        "transcription": "[кл**э**ймиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "claims",
+        "transcription": "[клэймз]"
+      }
+    ]
+  },
+  "meaning": "утверждать, требовать компенсацию",
+  "notes": "правильный переходный глагол; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "claimed",
+        "examples": [
+          {
+            "ours": "Вчера владелец потребовал компенсацию.",
+            "thought": "Вчера [известный] владелец потребовал компенсацию.",
+            "english": "Yesterday the owner claimed compensation.",
+            "transcription": "[й**э**стэдэй ðэ **о**унэ клэймд компэнс**э**йшн]"
+          },
+          {
+            "ours": "Он не заявил о повреждении.",
+            "thought": "Он [сделал] не утверждать повреждение.",
+            "english": "He didn't claim damage.",
+            "transcription": "[хи: диднт клэйм д**æ**мидж]"
+          },
+          {
+            "ours": "Капитан утверждал, что гавань небезопасна?",
+            "thought": "[Сделал] [известный] капитан утверждать что [известная] гавань была небезопасна?",
+            "english": "Did the captain claim that the harbor was unsafe?",
+            "transcription": "[дид ðэ к**æ**птин клэйм ðæт ðэ х**а**:бэ wоз анс**э**йф]"
+          }
+        ]
+      },
+      "present": {
+        "form": "claim, claims",
+        "examples": [
+          {
+            "ours": "Владелец утверждает, что лодка повреждена.",
+            "thought": "[Известный] владелец утверждает что [известная] лодка есть повреждена.",
+            "english": "The owner claims that the boat is damaged.",
+            "transcription": "[ðэ **о**унэ клэймз ðæт ðэ боут из д**æ**миджд]"
+          },
+          {
+            "ours": "Он не требует компенсации.",
+            "thought": "Он [делает] не требовать компенсацию.",
+            "english": "He doesn't claim compensation.",
+            "transcription": "[хи: дазнт клэйм компэнс**э**йшн]"
+          },
+          {
+            "ours": "Ты утверждаешь, что яхта небезопасна?",
+            "thought": "[Делаешь] ты утверждать что [известная] яхта есть небезопасна?",
+            "english": "Do you claim that the yacht is unsafe?",
+            "transcription": "[ду: ю: клэйм ðæт ðэ йот из анс**э**йф]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will claim",
+        "examples": [
+          {
+            "ours": "Завтра мы потребуем компенсацию.",
+            "thought": "Завтра мы будем требовать компенсацию.",
+            "english": "Tomorrow we will claim compensation.",
+            "transcription": "[тэм**о**роу wи: wил клэйм компэнс**э**йшн]"
+          },
+          {
+            "ours": "Он не потребует возврата сбора.",
+            "thought": "Он будет не требовать [какой-то] возврат.",
+            "english": "He won't claim a refund.",
+            "transcription": "[хи: wоунт клэйм э р**и**:фанд]"
+          },
+          {
+            "ours": "Владелец потребует компенсацию до гонки?",
+            "thought": "Будет [известный] владелец требовать компенсацию перед [известной] гонкой?",
+            "english": "Will the owner claim compensation before the race?",
+            "transcription": "[wил ðэ **о**унэ клэйм компэнс**э**йшн биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were claiming",
+        "examples": [
+          {
+            "ours": "Вчера владелец весь день утверждал, что яхта повреждена.",
+            "thought": "Вчера [известный] владелец был утверждающим что [известная] яхта была повреждена весь день.",
+            "english": "Yesterday the owner was claiming that the yacht was damaged all day.",
+            "transcription": "[й**э**стэдэй ðэ **о**унэ wоз кл**э**ймиŋ ðæт ðэ йот wоз д**æ**миджд о:л дэй]"
+          },
+          {
+            "ours": "Ты утверждал, что гавань небезопасна, когда я пришёл?",
+            "thought": "Был ты утверждающим что [известная] гавань была небезопасна когда я пришёл?",
+            "english": "Were you claiming that the harbor was unsafe when I came?",
+            "transcription": "[wœ: ю: кл**э**ймиŋ ðæт ðэ х**а**:бэ wоз анс**э**йф wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are claiming",
+        "examples": [
+          {
+            "ours": "Сейчас владелец утверждает, что лодка повреждена.",
+            "thought": "[Известный] владелец является утверждающим что [известная] лодка есть повреждена сейчас.",
+            "english": "The owner is claiming that the boat is damaged now.",
+            "transcription": "[ðэ **о**унэ из кл**э**ймиŋ ðæт ðэ боут из д**æ**миджд нау]"
+          },
+          {
+            "ours": "Ты сейчас требуешь компенсацию?",
+            "thought": "Являешься ты требующим компенсацию сейчас?",
+            "english": "Are you claiming compensation now?",
+            "transcription": "[а: ю: кл**э**ймиŋ компэнс**э**йшн нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be claiming",
+        "examples": [
+          {
+            "ours": "Завтра владелец будет требовать компенсацию.",
+            "thought": "Завтра [известный] владелец будет быть требующим компенсацию.",
+            "english": "Tomorrow the owner will be claiming compensation.",
+            "transcription": "[тэм**о**роу ðэ **о**унэ wил би: кл**э**ймиŋ компэнс**э**йшн]"
+          },
+          {
+            "ours": "Ты будешь требовать возврат после гонки?",
+            "thought": "Будешь ты быть требующим [какой-то] возврат после [известной] гонки?",
+            "english": "Will you be claiming a refund after the race?",
+            "transcription": "[wил ю: би: кл**э**ймиŋ э р**и**:фанд **а**:фтэ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had claimed",
+        "examples": [
+          {
+            "ours": "Вчера к пяти владелец уже потребовал компенсацию.",
+            "thought": "К пяти вчера [известный] владелец имел уже потребованной компенсацию.",
+            "english": "By five yesterday the owner had already claimed compensation.",
+            "transcription": "[бай файв й**э**стэдэй ðэ **о**унэ хæд о:лр**э**ди клэймд компэнс**э**йшн]"
+          },
+          {
+            "ours": "Ты потребовал возврат до гонки?",
+            "thought": "Имел ты потребованным [какой-то] возврат перед [известной] гонкой?",
+            "english": "Had you claimed a refund before the race?",
+            "transcription": "[хæд ю: клэймд э р**и**:фанд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has claimed",
+        "examples": [
+          {
+            "ours": "Мы уже потребовали компенсацию.",
+            "thought": "Мы имеем уже потребованной компенсацию.",
+            "english": "We have already claimed compensation.",
+            "transcription": "[wи: хæв о:лр**э**ди клэймд компэнс**э**йшн]"
+          },
+          {
+            "ours": "Ты уже потребовал возврат?",
+            "thought": "Имеешь ты уже потребованным [какой-то] возврат?",
+            "english": "Have you already claimed a refund?",
+            "transcription": "[хæв ю: о:лр**э**ди клэймд э р**и**:фанд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have claimed",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже потребуем компенсацию.",
+            "thought": "К пяти завтра мы будем иметь уже потребованной компенсацию.",
+            "english": "By five tomorrow we will have already claimed compensation.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди клэймд компэнс**э**йшн]"
+          },
+          {
+            "ours": "Ты потребуешь возврат до гонки?",
+            "thought": "Будешь ты иметь потребованным [какой-то] возврат перед [известной] гонкой?",
+            "english": "Will you have claimed a refund before the race?",
+            "transcription": "[wил ю: хæв клэймд э р**и**:фанд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been claiming",
+        "examples": [
+          {
+            "ours": "Владелец уже два часа утверждал, что яхта повреждена, когда ты пришёл.",
+            "thought": "[Известный] владелец имел быть утверждающим [известная] яхта была повреждена целых два часа когда ты пришёл.",
+            "english": "The owner had been claiming the yacht was damaged for two hours when you came.",
+            "transcription": "[ðэ **о**унэ хæд би:н кл**э**ймиŋ ðэ йот wоз д**æ**миджд фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа утверждал, что гавань небезопасна, когда он пришёл?",
+            "thought": "Имел ты быть утверждающим [известная] гавань была небезопасна целых два часа когда он пришёл?",
+            "english": "Had you been claiming the harbor was unsafe for two hours when he came?",
+            "transcription": "[хæд ю: би:н кл**э**ймиŋ ðэ х**а**:бэ wоз анс**э**йф фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been claiming",
+        "examples": [
+          {
+            "ours": "Владелец уже два часа утверждает, что яхта повреждена.",
+            "thought": "[Известный] владелец имеет быть утверждающим [известная] яхта есть повреждена целых два часа.",
+            "english": "The owner has been claiming the yacht is damaged for two hours.",
+            "transcription": "[ðэ **о**унэ хæз би:н кл**э**ймиŋ ðэ йот из д**æ**миджд фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа утверждаешь, что гавань небезопасна?",
+            "thought": "Имеешь ты быть утверждающим [известная] гавань есть небезопасна целых два часа?",
+            "english": "Have you been claiming the harbor is unsafe for two hours?",
+            "transcription": "[хæв ю: би:н кл**э**ймиŋ ðэ х**а**:бэ из анс**э**йф фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been claiming",
+        "examples": [
+          {
+            "ours": "К пяти владелец будет утверждать, что яхта повреждена, уже два часа.",
+            "thought": "К пяти [известный] владелец будет иметь быть утверждающим [известная] яхта есть повреждена целых два часа.",
+            "english": "By five the owner will have been claiming the yacht is damaged for two hours.",
+            "transcription": "[бай файв ðэ **о**унэ wил хæв би:н кл**э**ймиŋ ðэ йот из д**æ**миджд фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь утверждать, что гавань небезопасна, уже два часа?",
+            "thought": "Будешь ты иметь быть утверждающим [известная] гавань есть небезопасна целых два часа к пяти?",
+            "english": "Will you have been claiming the harbor is unsafe for two hours by five?",
+            "transcription": "[wил ю: хæв би:н кл**э**ймиŋ ðэ х**а**:бэ из анс**э**йф фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were claimed",
+        "examples": [
+          {
+            "ours": "Вчера потребовали компенсацию.",
+            "thought": "Компенсация была потребована вчера.",
+            "english": "Compensation was claimed yesterday.",
+            "transcription": "[компэнс**э**йшн wоз клэймд й**э**стэдэй]"
+          },
+          {
+            "ours": "Возврат потребовали до гонки?",
+            "thought": "Был [какой-то] возврат потребован перед [известной] гонкой?",
+            "english": "Was a refund claimed before the race?",
+            "transcription": "[wоз э р**и**:фанд клэймд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are claimed",
+        "examples": [
+          {
+            "ours": "За повреждения требуют компенсацию.",
+            "thought": "Компенсация есть потребована за повреждение.",
+            "english": "Compensation is claimed for damage.",
+            "transcription": "[компэнс**э**йшн из клэймд фо: д**æ**мидж]"
+          },
+          {
+            "ours": "После шторма требуют возврат?",
+            "thought": "Есть [какой-то] возврат потребован после [известного] шторма?",
+            "english": "Is a refund claimed after the storm?",
+            "transcription": "[из э р**и**:фанд клэймд **а**:фтэ ðэ сто:м]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be claimed",
+        "examples": [
+          {
+            "ours": "Завтра потребуют компенсацию.",
+            "thought": "Компенсация будет быть потребована завтра.",
+            "english": "Compensation will be claimed tomorrow.",
+            "transcription": "[компэнс**э**йшн wил би: клэймд тэм**о**роу]"
+          },
+          {
+            "ours": "Возврат потребуют до гонки?",
+            "thought": "Будет [какой-то] возврат быть потребован перед [известной] гонкой?",
+            "english": "Will a refund be claimed before the race?",
+            "transcription": "[wил э р**и**:фанд би: клэймд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being claimed",
+        "examples": [
+          {
+            "ours": "Вчера владельцы весь день требовали компенсацию.",
+            "thought": "Вчера компенсация была «долго» потребована весь день.",
+            "english": "Yesterday compensation was being claimed all day.",
+            "transcription": "[й**э**стэдэй компэнс**э**йшн wоз б**и**:иŋ клэймд о:л дэй]"
+          },
+          {
+            "ours": "Возврат требовали, когда ты пришёл?",
+            "thought": "Был [какой-то] возврат «долго» потребован когда ты пришёл?",
+            "english": "Was a refund being claimed when you came?",
+            "transcription": "[wоз э р**и**:фанд б**и**:иŋ клэймд wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being claimed",
+        "examples": [
+          {
+            "ours": "Сейчас требуют компенсацию за повреждения.",
+            "thought": "Компенсация есть «долго» потребована за повреждение сейчас.",
+            "english": "Compensation is being claimed for damage now.",
+            "transcription": "[компэнс**э**йшн из б**и**:иŋ клэймд фо: д**æ**мидж нау]"
+          },
+          {
+            "ours": "Сейчас требуют возврат?",
+            "thought": "Есть [какой-то] возврат «долго» потребован сейчас?",
+            "english": "Is a refund being claimed now?",
+            "transcription": "[из э р**и**:фанд б**и**:иŋ клэймд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be claiming",
+        "examples": [
+          {
+            "ours": "Завтра они будут требовать компенсацию за повреждения.",
+            "thought": "Завтра они будут быть требующими компенсацию за повреждение.",
+            "english": "Tomorrow they will be claiming compensation for damage.",
+            "transcription": "[тэм**о**роу ðэй wил би: кл**э**ймиŋ компэнс**э**йшн фо: д**æ**мидж]"
+          },
+          {
+            "ours": "Они будут требовать возврат после гонки?",
+            "thought": "Будут они быть требующими [какой-то] возврат после [известной] гонки?",
+            "english": "Will they be claiming a refund after the race?",
+            "transcription": "[wил ðэй би: кл**э**ймиŋ э р**и**:фанд **а**:фтэ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been claimed",
+        "examples": [
+          {
+            "ours": "Вчера к пяти компенсацию уже потребовали.",
+            "thought": "К пяти вчера компенсация имела уже быть потребована.",
+            "english": "By five yesterday compensation had already been claimed.",
+            "transcription": "[бай файв й**э**стэдэй компэнс**э**йшн хæд о:лр**э**ди би:н клэймд]"
+          },
+          {
+            "ours": "Возврат потребовали до гонки?",
+            "thought": "Имел [какой-то] возврат быть потребован перед [известной] гонкой?",
+            "english": "Had a refund been claimed before the race?",
+            "transcription": "[хæд э р**и**:фанд би:н клэймд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been claimed",
+        "examples": [
+          {
+            "ours": "За повреждения уже потребовали компенсацию.",
+            "thought": "Компенсация имеет уже быть потребована за повреждение.",
+            "english": "Compensation has already been claimed for damage.",
+            "transcription": "[компэнс**э**йшн хæз о:лр**э**ди би:н клэймд фо: д**æ**мидж]"
+          },
+          {
+            "ours": "Возврат уже потребовали?",
+            "thought": "Имеет [какой-то] возврат уже быть потребован?",
+            "english": "Has a refund already been claimed?",
+            "transcription": "[хæз э р**и**:фанд о:лр**э**ди би:н клэймд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been claimed",
+        "examples": [
+          {
+            "ours": "К пяти завтра компенсацию уже потребуют.",
+            "thought": "К пяти завтра компенсация будет уже иметь быть потребована.",
+            "english": "By five tomorrow compensation will already have been claimed.",
+            "transcription": "[бай файв тэм**о**роу компэнс**э**йшн wил о:лр**э**ди хæв би:н клэймд]"
+          },
+          {
+            "ours": "Возврат потребуют до гонки?",
+            "thought": "Будет [какой-то] возврат иметь быть потребован перед [известной] гонкой?",
+            "english": "Will a refund have been claimed before the race?",
+            "transcription": "[wил э р**и**:фанд хæв би:н клэймд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: Compensation has been claimed. Или: They have been claiming compensation."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они потребуют компенсацию.",
+        "thought": "[Известный] капитан сказал что они будут требовать компенсацию.",
+        "english": "The captain said that they would claim compensation.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд клэйм компэнс**э**йшн]"
+      },
+      {
+        "ours": "Я знал, что ты не потребуешь возврата.",
+        "thought": "Я знал что ты будешь не требовать [какой-то] возврат.",
+        "english": "I knew that you wouldn't claim a refund.",
+        "transcription": "[ай нью: ðæт ю: wуднт клэйм э р**и**:фанд]"
+      },
+      {
+        "ours": "Капитан сказал, что владелец потребует компенсацию.",
+        "thought": "[Известный] капитан сказал что [известный] владелец будет требовать компенсацию.",
+        "english": "The captain said that the owner would claim compensation.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ **о**унэ wуд клэйм компэнс**э**йшн]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "owner",
+      "meaning": "владелец",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "owner"
+        }
+      ]
+    },
+    {
+      "word": "compensation",
+      "meaning": "компенсация",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "compensation"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "compensation"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "compensation"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "compensation"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "compensation"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "compensation"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "compensation"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "compensation"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "compensation"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Compensation"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Compensation"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Compensation"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "compensation"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Compensation"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "compensation"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "compensation"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "Compensation"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "compensation"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "compensation"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "compensation"
+        }
+      ]
+    },
+    {
+      "word": "damage",
+      "meaning": "повреждение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "damage"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "refund",
+      "meaning": "возврат",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "refund"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "refund"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "refund"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "refund"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "refund"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "refund"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "refund"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "refund"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "refund"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "refund"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "refund"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "refund"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "refund"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "refund"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "refund"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "storm"
+        }
+      ]
+    }
+  ]
+}

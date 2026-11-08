@@ -1,0 +1,844 @@
+{
+  "spec": 4,
+  "verb": "eat",
+  "forms": {
+    "base": [
+      {
+        "word": "eat",
+        "transcription": "[и:т]"
+      }
+    ],
+    "past": [
+      {
+        "word": "ate",
+        "transcription": "[эйт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "eaten",
+        "transcription": "[**и**:тн]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "eating",
+        "transcription": "[**и**:тиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "eats",
+        "transcription": "[и:тс]"
+      }
+    ]
+  },
+  "meaning": "есть, питаться",
+  "notes": "неправильный глагол; может употребляться с дополнением и без него; переходное значение образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "ate",
+        "examples": [
+          {
+            "ours": "Вчера мы поели на палубе.",
+            "thought": "Вчера мы поели на палубе.",
+            "english": "Yesterday we ate on deck.",
+            "transcription": "[й**э**стэдэй wи: эйт он дэк]"
+          },
+          {
+            "ours": "Ты съел свой обед?",
+            "thought": "[Сделал] ты есть твой обед?",
+            "english": "Did you eat your lunch?",
+            "transcription": "[дид ю: и:т йо: ланч]"
+          },
+          {
+            "ours": "Она не ела рыбу.",
+            "thought": "Она [сделала] не есть рыбу.",
+            "english": "She did not eat fish.",
+            "transcription": "[ши: дид нот и:т фиш]"
+          }
+        ]
+      },
+      "present": {
+        "form": "eat, eats",
+        "examples": [
+          {
+            "ours": "Шкипер ест на палубе.",
+            "thought": "[Известный] шкипер ест на палубе.",
+            "english": "The skipper eats on deck.",
+            "transcription": "[ðэ ск**и**пэ и:тс он дэк]"
+          },
+          {
+            "ours": "Ты ешь рыбу в море?",
+            "thought": "[Делаешь] ты есть рыбу в море?",
+            "english": "Do you eat fish at sea?",
+            "transcription": "[ду: ю: и:т фиш æт си:]"
+          },
+          {
+            "ours": "Мы не едим мясо на борту.",
+            "thought": "Мы [делаем] не есть мясо на борту.",
+            "english": "We do not eat meat on board.",
+            "transcription": "[wи: ду: нот и:т ми:т он бо:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will eat",
+        "examples": [
+          {
+            "ours": "Завтра мы будем есть на палубе.",
+            "thought": "Завтра мы будем есть на палубе.",
+            "english": "Tomorrow we will eat on deck.",
+            "transcription": "[тэм**о**роу wи: wил и:т он дэк]"
+          },
+          {
+            "ours": "Ты съешь обед?",
+            "thought": "Будешь ты есть [известный] обед?",
+            "english": "Will you eat the lunch?",
+            "transcription": "[wил ю: и:т ðэ ланч]"
+          },
+          {
+            "ours": "Она не будет есть рыбу.",
+            "thought": "Она будет не есть рыбу.",
+            "english": "She will not eat fish.",
+            "transcription": "[ши: wил нот и:т фиш]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were eating",
+        "examples": [
+          {
+            "ours": "Вчера утром мы завтракали на палубе.",
+            "thought": "Вчера утром мы были едящими завтрак на палубе.",
+            "english": "Yesterday morning we were eating breakfast on deck.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: **и**:тиŋ бр**э**кфэст он дэк]"
+          },
+          {
+            "ours": "Ты ел обед, когда я позвонил?",
+            "thought": "Был ты едящим [известный] обед, когда я позвонил?",
+            "english": "Were you eating the lunch when I called?",
+            "transcription": "[wœ: ю: **и**:тиŋ ðэ ланч wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are eating",
+        "examples": [
+          {
+            "ours": "Мы сейчас едим на палубе.",
+            "thought": "Мы являемся едящими на палубе сейчас.",
+            "english": "We are eating on deck now.",
+            "transcription": "[wи: а: **и**:тиŋ он дэк нау]"
+          },
+          {
+            "ours": "Шкипер сейчас ест обед?",
+            "thought": "Является [известный] шкипер едящим [известный] обед сейчас?",
+            "english": "Is the skipper eating the lunch now?",
+            "transcription": "[из ðэ ск**и**пэ **и**:тиŋ ðэ ланч нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be eating",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем завтракать на палубе.",
+            "thought": "Завтра утром мы будем быть едящими завтрак на палубе.",
+            "english": "Tomorrow morning we will be eating breakfast on deck.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: **и**:тиŋ бр**э**кфэст он дэк]"
+          },
+          {
+            "ours": "Ты будешь есть обед во время вахты?",
+            "thought": "Будешь ты быть едящим [известный] обед во время [известной] вахты?",
+            "english": "Will you be eating the lunch during the watch?",
+            "transcription": "[wил ю: би: **и**:тиŋ ðэ ланч дь**ю**эриŋ ðэ wоч]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had eaten",
+        "examples": [
+          {
+            "ours": "К полудню мы уже съели обед.",
+            "thought": "К полудню мы имели уже съеденным [известный] обед.",
+            "english": "By noon we had already eaten the lunch.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди **и**:тн ðэ ланч]"
+          },
+          {
+            "ours": "Ты съел рыбу до отхода?",
+            "thought": "Имел ты съеденной [известную] рыбу до отхода?",
+            "english": "Had you eaten the fish before departure?",
+            "transcription": "[хæд ю: **и**:тн ðэ фиш биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has eaten",
+        "examples": [
+          {
+            "ours": "Мы уже съели обед.",
+            "thought": "Мы имеем уже съеденным [известный] обед.",
+            "english": "We have already eaten the lunch.",
+            "transcription": "[wи: хæв о:лр**э**ди **и**:тн ðэ ланч]"
+          },
+          {
+            "ours": "Ты уже съел рыбу?",
+            "thought": "Имеешь ты съеденной [известную] рыбу уже?",
+            "english": "Have you eaten the fish yet?",
+            "transcription": "[хæв ю: **и**:тн ðэ фиш йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have eaten",
+        "examples": [
+          {
+            "ours": "К полудню мы съедим обед.",
+            "thought": "К полудню мы будем иметь съеденным [известный] обед.",
+            "english": "By noon we will have eaten the lunch.",
+            "transcription": "[бай ну:н wи: wил хæв **и**:тн ðэ ланч]"
+          },
+          {
+            "ours": "Ты съешь рыбу к пяти?",
+            "thought": "Будешь ты иметь съеденной [известную] рыбу к пяти?",
+            "english": "Will you have eaten the fish by five?",
+            "transcription": "[wил ю: хæв **и**:тн ðэ фиш бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been eating",
+        "examples": [
+          {
+            "ours": "Мы час ели на палубе, когда пошёл дождь.",
+            "thought": "Мы имели быть едящими на палубе целый [какой-то] час, когда он начал идти дождём.",
+            "english": "We had been eating on deck for an hour when it started raining.",
+            "transcription": "[wи: хæд би:н **и**:тиŋ он дэк фо: эн **а**уэ wэн ит ст**а**:тид р**э**йниŋ]"
+          },
+          {
+            "ours": "Ты ел на борту два часа до отхода?",
+            "thought": "Имел ты быть едящим на борту целых два часа до отхода?",
+            "english": "Had you been eating on board for two hours before departure?",
+            "transcription": "[хæд ю: би:н **и**:тиŋ он бо:д фо: ту: **а**уэз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been eating",
+        "examples": [
+          {
+            "ours": "Мы едим на палубе уже час.",
+            "thought": "Мы имеем быть едящими на палубе целый [какой-то] час.",
+            "english": "We have been eating on deck for an hour.",
+            "transcription": "[wи: хæв би:н **и**:тиŋ он дэк фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты ешь на борту уже два часа?",
+            "thought": "Имеешь ты быть едящим на борту целых два часа?",
+            "english": "Have you been eating on board for two hours?",
+            "transcription": "[хæв ю: би:н **и**:тиŋ он бо:д фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been eating",
+        "examples": [
+          {
+            "ours": "К пяти мы будем есть на палубе уже два часа.",
+            "thought": "К пяти мы будем иметь быть едящими на палубе целых два часа.",
+            "english": "By five we will have been eating on deck for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н **и**:тиŋ он дэк фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь есть на борту уже час?",
+            "thought": "Будешь ты иметь быть едящим на борту целый [какой-то] час к полудню?",
+            "english": "Will you have been eating on board for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н **и**:тиŋ он бо:д фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were eaten",
+        "examples": [
+          {
+            "ours": "Рыбу съели вчера.",
+            "thought": "[Известная] рыба была съедена вчера.",
+            "english": "The fish was eaten yesterday.",
+            "transcription": "[ðэ фиш wоз **и**:тн й**э**стэдэй]"
+          },
+          {
+            "ours": "Сэндвичи съели на палубе?",
+            "thought": "Были [известные] сэндвичи съедены на палубе?",
+            "english": "Were the sandwiches eaten on deck?",
+            "transcription": "[wœ: ðэ с**æ**нwиджиз **и**:тн он дэк]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are eaten",
+        "examples": [
+          {
+            "ours": "Обед едят на борту.",
+            "thought": "[Известный] обед есть съеден на борту.",
+            "english": "The lunch is eaten on board.",
+            "transcription": "[ðэ ланч из **и**:тн он бо:д]"
+          },
+          {
+            "ours": "Рыбу едят на палубе?",
+            "thought": "Есть [известная] рыба съедена на палубе?",
+            "english": "Is the fish eaten on deck?",
+            "transcription": "[из ðэ фиш **и**:тн он дэк]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be eaten",
+        "examples": [
+          {
+            "ours": "Рыбу съедят завтра.",
+            "thought": "[Известная] рыба будет быть съедена завтра.",
+            "english": "The fish will be eaten tomorrow.",
+            "transcription": "[ðэ фиш wил би: **и**:тн тэм**о**роу]"
+          },
+          {
+            "ours": "Сэндвичи съедят до отхода?",
+            "thought": "Будут [известные] сэндвичи быть съедены до отхода?",
+            "english": "Will the sandwiches be eaten before departure?",
+            "transcription": "[wил ðэ с**æ**нwиджиз би: **и**:тн биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being eaten",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, рыбу ели.",
+            "thought": "[Известная] рыба была «долго» съедена, когда я прибыл.",
+            "english": "The fish was being eaten when I arrived.",
+            "transcription": "[ðэ фиш wоз б**и**:иŋ **и**:тн wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, сэндвичи ели?",
+            "thought": "Были [известные] сэндвичи «долго» съедены, когда ты позвонил?",
+            "english": "Were the sandwiches being eaten when you called?",
+            "transcription": "[wœ: ðэ с**æ**нwиджиз б**и**:иŋ **и**:тн wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being eaten",
+        "examples": [
+          {
+            "ours": "Рыбу сейчас едят.",
+            "thought": "[Известная] рыба есть «долго» съедена сейчас.",
+            "english": "The fish is being eaten now.",
+            "transcription": "[ðэ фиш из б**и**:иŋ **и**:тн нау]"
+          },
+          {
+            "ours": "Сэндвичи сейчас едят?",
+            "thought": "Есть [известные] сэндвичи «долго» съедены сейчас?",
+            "english": "Are the sandwiches being eaten now?",
+            "transcription": "[а: ðэ с**æ**нwиджиз б**и**:иŋ **и**:тн нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be eating",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут завтракать на палубе.",
+            "thought": "Завтра утром они будут быть едящими завтрак на палубе.",
+            "english": "Tomorrow morning they will be eating breakfast on deck.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: **и**:тиŋ бр**э**кфэст он дэк]"
+          },
+          {
+            "ours": "Они будут есть обед во время вахты?",
+            "thought": "Будут они быть едящими [известный] обед во время [известной] вахты?",
+            "english": "Will they be eating the lunch during the watch?",
+            "transcription": "[wил ðэй би: **и**:тиŋ ðэ ланч дь**ю**эриŋ ðэ wоч]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been eaten",
+        "examples": [
+          {
+            "ours": "К полудню рыбу уже съели.",
+            "thought": "К полудню [известная] рыба имела уже быть съедена.",
+            "english": "By noon the fish had already been eaten.",
+            "transcription": "[бай ну:н ðэ фиш хæд о:лр**э**ди би:н **и**:тн]"
+          },
+          {
+            "ours": "Сэндвичи съели до отхода?",
+            "thought": "Имели [известные] сэндвичи быть съедены до отхода?",
+            "english": "Had the sandwiches been eaten before departure?",
+            "transcription": "[хæд ðэ с**æ**нwиджиз би:н **и**:тн биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been eaten",
+        "examples": [
+          {
+            "ours": "Рыбу уже съели.",
+            "thought": "[Известная] рыба имеет уже быть съедена.",
+            "english": "The fish has already been eaten.",
+            "transcription": "[ðэ фиш хæз о:лр**э**ди би:н **и**:тн]"
+          },
+          {
+            "ours": "Сэндвичи уже съели?",
+            "thought": "Имеют [известные] сэндвичи быть съедены уже?",
+            "english": "Have the sandwiches been eaten yet?",
+            "transcription": "[хæв ðэ с**æ**нwиджиз би:н **и**:тн йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been eaten",
+        "examples": [
+          {
+            "ours": "К полудню рыбу уже съедят.",
+            "thought": "К полудню [известная] рыба будет иметь быть съедена.",
+            "english": "By noon the fish will have been eaten.",
+            "transcription": "[бай ну:н ðэ фиш wил хæв би:н **и**:тн]"
+          },
+          {
+            "ours": "Сэндвичи съедят к пяти?",
+            "thought": "Будут [известные] сэндвичи иметь быть съедены к пяти?",
+            "english": "Will the sandwiches have been eaten by five?",
+            "transcription": "[wил ðэ с**æ**нwиджиз хæв би:н **и**:тн бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been eating on deck."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они будут есть на палубе.",
+        "thought": "Я знал, они будут есть на палубе.",
+        "english": "I knew they would eat on deck.",
+        "transcription": "[ай нью: ðэй wуд и:т он дэк]"
+      },
+      {
+        "ours": "Она думала, что мы не будем есть рыбу.",
+        "thought": "Она думала, мы будем не есть рыбу.",
+        "english": "She thought we would not eat fish.",
+        "transcription": "[ши: θо:т wи: wуд нот и:т фиш]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "meaning": "обед",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "lunch"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "lunch"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "lunch"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "lunch"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "lunch"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "lunch"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "lunch"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "lunch"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "lunch"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "lunch"
+        }
+      ]
+    },
+    {
+      "word": "fish",
+      "meaning": "рыба",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "fish"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "fish"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "fish"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "meat",
+      "meaning": "мясо",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "meat"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "board"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "breakfast",
+      "meaning": "завтрак",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "breakfast"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "breakfast"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "breakfast"
+        }
+      ]
+    },
+    {
+      "word": "watch",
+      "meaning": "вахта",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "watch"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "watch"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "sandwich",
+      "meaning": "сэндвич",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sandwiches"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "sandwiches"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "sandwiches"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "sandwiches"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "sandwiches"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "sandwiches"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "sandwiches"
+        }
+      ]
+    }
+  ]
+}

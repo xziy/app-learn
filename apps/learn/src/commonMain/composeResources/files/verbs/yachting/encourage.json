@@ -1,0 +1,852 @@
+{
+  "spec": 4,
+  "verb": "encourage",
+  "forms": {
+    "base": [
+      {
+        "word": "encourage",
+        "transcription": "[инк**а**ридж]"
+      }
+    ],
+    "past": [
+      {
+        "word": "encouraged",
+        "transcription": "[инк**а**риджд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "encouraged",
+        "transcription": "[инк**а**риджд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "encouraging",
+        "transcription": "[инк**а**риджиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "encourages",
+        "transcription": "[инк**а**риджиз]"
+      }
+    ]
+  },
+  "meaning": "подбадривать, поощрять",
+  "notes": "правильный переходный глагол; encourage someone to do; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "encouraged",
+        "examples": [
+          {
+            "ours": "Вчера тренер подбодрил экипаж.",
+            "thought": "Вчера [известный] тренер подбодрил [известный] экипаж.",
+            "english": "Yesterday the coach encouraged the crew.",
+            "transcription": "[й**э**стэдэй ðэ коуч инк**а**риджд ðэ кру:]"
+          },
+          {
+            "ours": "Он не подбодрил моряка.",
+            "thought": "Он [сделал] не подбадривать [известного] моряка.",
+            "english": "He didn't encourage the sailor.",
+            "transcription": "[хи: диднт инк**а**ридж ðэ с**э**йлэ]"
+          },
+          {
+            "ours": "Капитан подбодрил команду перед гонкой?",
+            "thought": "[Сделал] [известный] капитан подбадривать [известную] команду перед [известной] гонкой?",
+            "english": "Did the captain encourage the team before the race?",
+            "transcription": "[дид ðэ к**æ**птин инк**а**ридж ðэ ти:м биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "encourage, encourages",
+        "examples": [
+          {
+            "ours": "Шкипер поощряет моряков тренироваться.",
+            "thought": "[Известный] шкипер поощряет моряков тренироваться.",
+            "english": "The skipper encourages sailors to practice.",
+            "transcription": "[ðэ ск**и**пэ инк**а**риджиз с**э**йлэз ту пр**æ**ктис]"
+          },
+          {
+            "ours": "Он не подбадривает экипаж.",
+            "thought": "Он [делает] не подбадривать [известный] экипаж.",
+            "english": "He doesn't encourage the crew.",
+            "transcription": "[хи: дазнт инк**а**ридж ðэ кру:]"
+          },
+          {
+            "ours": "Ты подбадриваешь команду перед гонкой?",
+            "thought": "[Делаешь] ты подбадривать [известную] команду перед [известной] гонкой?",
+            "english": "Do you encourage the team before the race?",
+            "transcription": "[ду: ю: инк**а**ридж ðэ ти:м биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will encourage",
+        "examples": [
+          {
+            "ours": "Завтра тренер подбодрит экипаж.",
+            "thought": "Завтра [известный] тренер будет подбадривать [известный] экипаж.",
+            "english": "Tomorrow the coach will encourage the crew.",
+            "transcription": "[тэм**о**роу ðэ коуч wил инк**а**ридж ðэ кру:]"
+          },
+          {
+            "ours": "Он не будет подбадривать моряка.",
+            "thought": "Он будет не подбадривать [известного] моряка.",
+            "english": "He won't encourage the sailor.",
+            "transcription": "[хи: wоунт инк**а**ридж ðэ с**э**йлэ]"
+          },
+          {
+            "ours": "Ты подбодришь команду до гонки?",
+            "thought": "Будешь ты подбадривать [известную] команду перед [известной] гонкой?",
+            "english": "Will you encourage the team before the race?",
+            "transcription": "[wил ю: инк**а**ридж ðэ ти:м биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were encouraging",
+        "examples": [
+          {
+            "ours": "Вчера тренер весь день подбадривал экипаж.",
+            "thought": "Вчера [известный] тренер был подбадривающим [известный] экипаж весь день.",
+            "english": "Yesterday the coach was encouraging the crew all day.",
+            "transcription": "[й**э**стэдэй ðэ коуч wоз инк**а**риджиŋ ðэ кру: о:л дэй]"
+          },
+          {
+            "ours": "Ты подбадривал моряка, когда я пришёл?",
+            "thought": "Был ты подбадривающим [известного] моряка когда я пришёл?",
+            "english": "Were you encouraging the sailor when I came?",
+            "transcription": "[wœ: ю: инк**а**риджиŋ ðэ с**э**йлэ wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are encouraging",
+        "examples": [
+          {
+            "ours": "Сейчас тренер подбадривает команду.",
+            "thought": "[Известный] тренер является подбадривающим [известную] команду сейчас.",
+            "english": "The coach is encouraging the team now.",
+            "transcription": "[ðэ коуч из инк**а**риджиŋ ðэ ти:м нау]"
+          },
+          {
+            "ours": "Ты сейчас подбадриваешь моряка?",
+            "thought": "Являешься ты подбадривающим [известного] моряка сейчас?",
+            "english": "Are you encouraging the sailor now?",
+            "transcription": "[а: ю: инк**а**риджиŋ ðэ с**э**йлэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be encouraging",
+        "examples": [
+          {
+            "ours": "Завтра тренер весь день будет подбадривать экипаж.",
+            "thought": "Завтра [известный] тренер будет быть подбадривающим [известный] экипаж весь день.",
+            "english": "Tomorrow the coach will be encouraging the crew all day.",
+            "transcription": "[тэм**о**роу ðэ коуч wил би: инк**а**риджиŋ ðэ кру: о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь подбадривать команду во время гонки?",
+            "thought": "Будешь ты быть подбадривающим [известную] команду во время [известной] гонки?",
+            "english": "Will you be encouraging the team during the race?",
+            "transcription": "[wил ю: би: инк**а**риджиŋ ðэ ти:м дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had encouraged",
+        "examples": [
+          {
+            "ours": "Вчера к пяти тренер уже подбодрил экипаж.",
+            "thought": "К пяти вчера [известный] тренер имел уже подбодрённым [известный] экипаж.",
+            "english": "By five yesterday the coach had already encouraged the crew.",
+            "transcription": "[бай файв й**э**стэдэй ðэ коуч хæд о:лр**э**ди инк**а**риджд ðэ кру:]"
+          },
+          {
+            "ours": "Ты подбодрил команду до гонки?",
+            "thought": "Имел ты подбодрённой [известную] команду перед [известной] гонкой?",
+            "english": "Had you encouraged the team before the race?",
+            "transcription": "[хæд ю: инк**а**риджд ðэ ти:м биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has encouraged",
+        "examples": [
+          {
+            "ours": "Капитан уже подбодрил моряка.",
+            "thought": "[Известный] капитан имеет уже подбодрённым [известного] моряка.",
+            "english": "The captain has already encouraged the sailor.",
+            "transcription": "[ðэ к**æ**птин хæз о:лр**э**ди инк**а**риджд ðэ с**э**йлэ]"
+          },
+          {
+            "ours": "Ты уже подбодрил экипаж?",
+            "thought": "Имеешь ты уже подбодрённым [известный] экипаж?",
+            "english": "Have you already encouraged the crew?",
+            "transcription": "[хæв ю: о:лр**э**ди инк**а**риджд ðэ кру:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have encouraged",
+        "examples": [
+          {
+            "ours": "Завтра к пяти тренер уже подбодрит экипаж.",
+            "thought": "К пяти завтра [известный] тренер будет иметь уже подбодрённым [известный] экипаж.",
+            "english": "By five tomorrow the coach will have already encouraged the crew.",
+            "transcription": "[бай файв тэм**о**роу ðэ коуч wил хæв о:лр**э**ди инк**а**риджд ðэ кру:]"
+          },
+          {
+            "ours": "Ты подбодришь команду до гонки?",
+            "thought": "Будешь ты иметь подбодрённой [известную] команду перед [известной] гонкой?",
+            "english": "Will you have encouraged the team before the race?",
+            "transcription": "[wил ю: хæв инк**а**риджд ðэ ти:м биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been encouraging",
+        "examples": [
+          {
+            "ours": "Тренер уже два часа подбадривал экипаж, когда ты пришёл.",
+            "thought": "[Известный] тренер имел быть подбадривающим [известный] экипаж целых два часа когда ты пришёл.",
+            "english": "The coach had been encouraging the crew for two hours when you came.",
+            "transcription": "[ðэ коуч хæд би:н инк**а**риджиŋ ðэ кру: фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа подбадривал моряка, когда он пришёл?",
+            "thought": "Имел ты быть подбадривающим [известного] моряка целых два часа когда он пришёл?",
+            "english": "Had you been encouraging the sailor for two hours when he came?",
+            "transcription": "[хæд ю: би:н инк**а**риджиŋ ðэ с**э**йлэ фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been encouraging",
+        "examples": [
+          {
+            "ours": "Тренер уже два часа подбадривает экипаж.",
+            "thought": "[Известный] тренер имеет быть подбадривающим [известный] экипаж целых два часа.",
+            "english": "The coach has been encouraging the crew for two hours.",
+            "transcription": "[ðэ коуч хæз би:н инк**а**риджиŋ ðэ кру: фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа подбадриваешь моряка?",
+            "thought": "Имеешь ты быть подбадривающим [известного] моряка целых два часа?",
+            "english": "Have you been encouraging the sailor for two hours?",
+            "transcription": "[хæв ю: би:н инк**а**риджиŋ ðэ с**э**йлэ фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been encouraging",
+        "examples": [
+          {
+            "ours": "К пяти тренер будет подбадривать экипаж уже два часа.",
+            "thought": "К пяти [известный] тренер будет иметь быть подбадривающим [известный] экипаж целых два часа.",
+            "english": "By five the coach will have been encouraging the crew for two hours.",
+            "transcription": "[бай файв ðэ коуч wил хæв би:н инк**а**риджиŋ ðэ кру: фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь подбадривать моряка уже два часа?",
+            "thought": "Будешь ты иметь быть подбадривающим [известного] моряка целых два часа к пяти?",
+            "english": "Will you have been encouraging the sailor for two hours by five?",
+            "transcription": "[wил ю: хæв би:н инк**а**риджиŋ ðэ с**э**йлэ фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were encouraged",
+        "examples": [
+          {
+            "ours": "Вчера экипаж подбодрили.",
+            "thought": "[Известный] экипаж был подбодрён вчера.",
+            "english": "The crew was encouraged yesterday.",
+            "transcription": "[ðэ кру: wоз инк**а**риджд й**э**стэдэй]"
+          },
+          {
+            "ours": "Моряка подбодрили до гонки?",
+            "thought": "Был [известный] моряк подбодрён перед [известной] гонкой?",
+            "english": "Was the sailor encouraged before the race?",
+            "transcription": "[wоз ðэ с**э**йлэ инк**а**риджд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are encouraged",
+        "examples": [
+          {
+            "ours": "Моряков поощряют тренироваться.",
+            "thought": "Моряки есть поощрены тренироваться.",
+            "english": "Sailors are encouraged to practice.",
+            "transcription": "[с**э**йлэз а: инк**а**риджд ту пр**æ**ктис]"
+          },
+          {
+            "ours": "Экипаж подбадривают перед гонкой?",
+            "thought": "Есть [известный] экипаж подбодрён перед [известной] гонкой?",
+            "english": "Is the crew encouraged before the race?",
+            "transcription": "[из ðэ кру: инк**а**риджд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be encouraged",
+        "examples": [
+          {
+            "ours": "Завтра экипаж подбодрят.",
+            "thought": "[Известный] экипаж будет быть подбодрён завтра.",
+            "english": "The crew will be encouraged tomorrow.",
+            "transcription": "[ðэ кру: wил би: инк**а**риджд тэм**о**роу]"
+          },
+          {
+            "ours": "Моряка подбодрят до гонки?",
+            "thought": "Будет [известный] моряк быть подбодрён перед [известной] гонкой?",
+            "english": "Will the sailor be encouraged before the race?",
+            "transcription": "[wил ðэ с**э**йлэ би: инк**а**риджд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being encouraged",
+        "examples": [
+          {
+            "ours": "Вчера экипаж весь день подбадривали.",
+            "thought": "Вчера [известный] экипаж был «долго» подбодрён весь день.",
+            "english": "Yesterday the crew was being encouraged all day.",
+            "transcription": "[й**э**стэдэй ðэ кру: wоз б**и**:иŋ инк**а**риджд о:л дэй]"
+          },
+          {
+            "ours": "Моряка подбадривали, когда ты пришёл?",
+            "thought": "Был [известный] моряк «долго» подбодрён когда ты пришёл?",
+            "english": "Was the sailor being encouraged when you came?",
+            "transcription": "[wоз ðэ с**э**йлэ б**и**:иŋ инк**а**риджд wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being encouraged",
+        "examples": [
+          {
+            "ours": "Сейчас экипаж подбадривают.",
+            "thought": "[Известный] экипаж есть «долго» подбодрён сейчас.",
+            "english": "The crew is being encouraged now.",
+            "transcription": "[ðэ кру: из б**и**:иŋ инк**а**риджд нау]"
+          },
+          {
+            "ours": "Моряка сейчас подбадривают?",
+            "thought": "Есть [известный] моряк «долго» подбодрён сейчас?",
+            "english": "Is the sailor being encouraged now?",
+            "transcription": "[из ðэ с**э**йлэ б**и**:иŋ инк**а**риджд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be encouraging",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут подбадривать экипаж.",
+            "thought": "Завтра они будут быть подбадривающими [известный] экипаж весь день.",
+            "english": "Tomorrow they will be encouraging the crew all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: инк**а**риджиŋ ðэ кру: о:л дэй]"
+          },
+          {
+            "ours": "Они будут подбадривать моряка во время гонки?",
+            "thought": "Будут они быть подбадривающими [известного] моряка во время [известной] гонки?",
+            "english": "Will they be encouraging the sailor during the race?",
+            "transcription": "[wил ðэй би: инк**а**риджиŋ ðэ с**э**йлэ дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been encouraged",
+        "examples": [
+          {
+            "ours": "Вчера к пяти экипаж уже подбодрили.",
+            "thought": "К пяти вчера [известный] экипаж имел уже быть подбодрён.",
+            "english": "By five yesterday the crew had already been encouraged.",
+            "transcription": "[бай файв й**э**стэдэй ðэ кру: хæд о:лр**э**ди би:н инк**а**риджд]"
+          },
+          {
+            "ours": "Моряка подбодрили до гонки?",
+            "thought": "Имел [известный] моряк быть подбодрён перед [известной] гонкой?",
+            "english": "Had the sailor been encouraged before the race?",
+            "transcription": "[хæд ðэ с**э**йлэ би:н инк**а**риджд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been encouraged",
+        "examples": [
+          {
+            "ours": "Экипаж уже подбодрили.",
+            "thought": "[Известный] экипаж имеет уже быть подбодрён.",
+            "english": "The crew has already been encouraged.",
+            "transcription": "[ðэ кру: хæз о:лр**э**ди би:н инк**а**риджд]"
+          },
+          {
+            "ours": "Моряка уже подбодрили?",
+            "thought": "Имеет [известный] моряк уже быть подбодрён?",
+            "english": "Has the sailor already been encouraged?",
+            "transcription": "[хæз ðэ с**э**йлэ о:лр**э**ди би:н инк**а**риджд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been encouraged",
+        "examples": [
+          {
+            "ours": "К пяти завтра экипаж уже подбодрят.",
+            "thought": "К пяти завтра [известный] экипаж будет уже иметь быть подбодрён.",
+            "english": "By five tomorrow the crew will already have been encouraged.",
+            "transcription": "[бай файв тэм**о**роу ðэ кру: wил о:лр**э**ди хæв би:н инк**а**риджд]"
+          },
+          {
+            "ours": "Моряка подбодрят до гонки?",
+            "thought": "Будет [известный] моряк иметь быть подбодрён перед [известной] гонкой?",
+            "english": "Will the sailor have been encouraged before the race?",
+            "transcription": "[wил ðэ с**э**йлэ хæв би:н инк**а**риджд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The crew has been encouraged. Или: The coach has been encouraging the crew."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они подбодрят экипаж.",
+        "thought": "[Известный] капитан сказал что они будут подбадривать [известный] экипаж.",
+        "english": "The captain said that they would encourage the crew.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд инк**а**ридж ðэ кру:]"
+      },
+      {
+        "ours": "Я знал, что ты не будешь подбадривать моряка.",
+        "thought": "Я знал что ты будешь не подбадривать [известного] моряка.",
+        "english": "I knew that you wouldn't encourage the sailor.",
+        "transcription": "[ай нью: ðæт ю: wуднт инк**а**ридж ðэ с**э**йлэ]"
+      },
+      {
+        "ours": "Капитан сказал, что мы подбодрим команду.",
+        "thought": "[Известный] капитан сказал что мы будем подбадривать [известную] команду.",
+        "english": "The captain said that we would encourage the team.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд инк**а**ридж ðэ ти:м]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "coach",
+      "meaning": "тренер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "coach"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "coach"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "coach"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "coach"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "coach"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "coach"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "coach"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "coach"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "coach"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "coach"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Sailors"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "team",
+      "meaning": "команда",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "team"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "team"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "team"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "team"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "team"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "team"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "team"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "team"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    }
+  ]
+}

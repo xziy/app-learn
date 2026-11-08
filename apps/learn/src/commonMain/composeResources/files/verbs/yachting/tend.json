@@ -1,0 +1,573 @@
+{
+  "spec": 4,
+  "verb": "tend",
+  "forms": {
+    "base": [
+      {
+        "word": "tend",
+        "transcription": "[тэнд]"
+      }
+    ],
+    "past": [
+      {
+        "word": "tended",
+        "transcription": "[т**э**ндид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "tended",
+        "transcription": "[т**э**ндид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "tending",
+        "transcription": "[т**э**ндиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "tends",
+        "transcription": "[тэндз]"
+      }
+    ]
+  },
+  "meaning": "иметь склонность, обычно делать; ухаживать, следить",
+  "notes": "правильный глагол; tend to do — обычно делать; tend to something — заботиться о чём-либо",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "tended",
+        "examples": [
+          {
+            "ours": "Прошлым летом ветер обычно менялся после полудня.",
+            "thought": "Прошлым летом [известный] ветер имел склонность меняться после полудня.",
+            "english": "Last summer the wind tended to shift after noon.",
+            "transcription": "[ла:ст с**а**мэ ðэ wинд т**э**ндид ту шифт **а**:фтэ ну:н]"
+          },
+          {
+            "ours": "Ты обычно проверял швартовы?",
+            "thought": "[Сделал] ты иметь склонность проверять [известные] концы?",
+            "english": "Did you tend to check the lines?",
+            "transcription": "[дид ю: тэнд ту чэк ðэ лайнз]"
+          },
+          {
+            "ours": "Шкипер обычно не выходил ночью.",
+            "thought": "[Известный] шкипер [сделал] не иметь склонность выходить в море в ночь.",
+            "english": "The skipper did not tend to sail at night.",
+            "transcription": "[ðэ ск**и**пэ дид нот тэнд ту сэйл æт найт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "tend, tends",
+        "examples": [
+          {
+            "ours": "После полудня ветер обычно меняется.",
+            "thought": "[Известный] ветер имеет склонность меняться после полудня.",
+            "english": "The wind tends to shift after noon.",
+            "transcription": "[ðэ wинд тэндз ту шифт **а**:фтэ ну:н]"
+          },
+          {
+            "ours": "Ты обычно проверяешь швартовы?",
+            "thought": "[Делаешь] ты иметь склонность проверять [известные] концы?",
+            "english": "Do you tend to check the lines?",
+            "transcription": "[ду: ю: тэнд ту чэк ðэ лайнз]"
+          },
+          {
+            "ours": "Шкипер обычно не выходит ночью.",
+            "thought": "[Известный] шкипер [делает] не иметь склонность выходить в море в ночь.",
+            "english": "The skipper does not tend to sail at night.",
+            "transcription": "[ðэ ск**и**пэ даз нот тэнд ту сэйл æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will tend",
+        "examples": [
+          {
+            "ours": "На следующей неделе ветер обычно будет меняться после полудня.",
+            "thought": "Следующая неделя [известный] ветер будет иметь склонность меняться после полудня.",
+            "english": "Next week the wind will tend to shift after noon.",
+            "transcription": "[нэкст wи:к ðэ wинд wил тэнд ту шифт **а**:фтэ ну:н]"
+          },
+          {
+            "ours": "Ты будешь обычно проверять швартовы?",
+            "thought": "Будешь ты иметь склонность проверять [известные] концы?",
+            "english": "Will you tend to check the lines?",
+            "transcription": "[wил ю: тэнд ту чэк ðэ лайнз]"
+          },
+          {
+            "ours": "Шкипер обычно не будет выходить ночью.",
+            "thought": "[Известный] шкипер будет не иметь склонность выходить в море в ночь.",
+            "english": "The skipper will not tend to sail at night.",
+            "transcription": "[ðэ ск**и**пэ wил нот тэнд ту сэйл æт найт]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were tending to",
+        "examples": [
+          {
+            "ours": "Вчера утром мы следили за швартовами.",
+            "thought": "Вчера утром мы были заботящимися о [известных] концах.",
+            "english": "Yesterday morning we were tending to the lines.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: т**э**ндиŋ ту ðэ лайнз]"
+          },
+          {
+            "ours": "Ты следил за швартовами, когда я позвонил?",
+            "thought": "Был ты заботящимся о [известных] концах, когда я позвонил?",
+            "english": "Were you tending to the lines when I called?",
+            "transcription": "[wœ: ю: т**э**ндиŋ ту ðэ лайнз wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are tending to",
+        "examples": [
+          {
+            "ours": "Мы сейчас следим за швартовами.",
+            "thought": "Мы являемся заботящимися о [известных] концах сейчас.",
+            "english": "We are tending to the lines now.",
+            "transcription": "[wи: а: т**э**ндиŋ ту ðэ лайнз нау]"
+          },
+          {
+            "ours": "Шкипер сейчас следит за швартовами?",
+            "thought": "Является [известный] шкипер заботящимся о [известных] концах сейчас?",
+            "english": "Is the skipper tending to the lines now?",
+            "transcription": "[из ðэ ск**и**пэ т**э**ндиŋ ту ðэ лайнз нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be tending to",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем следить за швартовами.",
+            "thought": "Завтра утром мы будем быть заботящимися о [известных] концах.",
+            "english": "Tomorrow morning we will be tending to the lines.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: т**э**ндиŋ ту ðэ лайнз]"
+          },
+          {
+            "ours": "Ты будешь следить за швартовами во время шторма?",
+            "thought": "Будешь ты быть заботящимся о [известных] концах во время [известного] шторма?",
+            "english": "Will you be tending to the lines during the storm?",
+            "transcription": "[wил ю: би: т**э**ндиŋ ту ðэ лайнз дь**ю**эриŋ ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had tended to",
+        "examples": [
+          {
+            "ours": "К полудню мы уже проверили швартовы.",
+            "thought": "К полудню мы имели уже позаботившимся о [известных] концах.",
+            "english": "By noon we had already tended to the lines.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди т**э**ндид ту ðэ лайнз]"
+          },
+          {
+            "ours": "Ты позаботился о швартовах до отхода?",
+            "thought": "Имел ты позаботившимся о [известных] концах до отхода?",
+            "english": "Had you tended to the lines before departure?",
+            "transcription": "[хæд ю: т**э**ндид ту ðэ лайнз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has tended to",
+        "examples": [
+          {
+            "ours": "Мы уже позаботились о швартовах.",
+            "thought": "Мы имеем уже позаботившимся о [известных] концах.",
+            "english": "We have already tended to the lines.",
+            "transcription": "[wи: хæв о:лр**э**ди т**э**ндид ту ðэ лайнз]"
+          },
+          {
+            "ours": "Ты уже позаботился о швартовах?",
+            "thought": "Имеешь ты позаботившимся о [известных] концах уже?",
+            "english": "Have you tended to the lines yet?",
+            "transcription": "[хæв ю: т**э**ндид ту ðэ лайнз йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have tended to",
+        "examples": [
+          {
+            "ours": "К полудню мы позаботимся о швартовах.",
+            "thought": "К полудню мы будем иметь позаботившимся о [известных] концах.",
+            "english": "By noon we will have tended to the lines.",
+            "transcription": "[бай ну:н wи: wил хæв т**э**ндид ту ðэ лайнз]"
+          },
+          {
+            "ours": "Ты позаботишься о швартовах к пяти?",
+            "thought": "Будешь ты иметь позаботившимся о [известных] концах к пяти?",
+            "english": "Will you have tended to the lines by five?",
+            "transcription": "[wил ю: хæв т**э**ндид ту ðэ лайнз бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been tending to",
+        "examples": [
+          {
+            "ours": "Мы час следили за швартовами, когда начался шторм.",
+            "thought": "Мы имели быть заботящимися о [известных] концах целый [какой-то] час, когда [известный] шторм начался.",
+            "english": "We had been tending to the lines for an hour when the storm began.",
+            "transcription": "[wи: хæд би:н т**э**ндиŋ ту ðэ лайнз фо: эн **а**уэ wэн ðэ сто:м биг**æ**н]"
+          },
+          {
+            "ours": "Ты следил за швартовами два часа до отхода?",
+            "thought": "Имел ты быть заботящимся о [известных] концах целых два часа до отхода?",
+            "english": "Had you been tending to the lines for two hours before departure?",
+            "transcription": "[хæд ю: би:н т**э**ндиŋ ту ðэ лайнз фо: ту: **а**уэз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been tending to",
+        "examples": [
+          {
+            "ours": "Мы следим за швартовами уже час.",
+            "thought": "Мы имеем быть заботящимися о [известных] концах целый [какой-то] час.",
+            "english": "We have been tending to the lines for an hour.",
+            "transcription": "[wи: хæв би:н т**э**ндиŋ ту ðэ лайнз фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты следишь за швартовами уже два часа?",
+            "thought": "Имеешь ты быть заботящимся о [известных] концах целых два часа?",
+            "english": "Have you been tending to the lines for two hours?",
+            "transcription": "[хæв ю: би:н т**э**ндиŋ ту ðэ лайнз фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been tending to",
+        "examples": [
+          {
+            "ours": "К пяти мы будем следить за швартовами уже два часа.",
+            "thought": "К пяти мы будем иметь быть заботящимися о [известных] концах целых два часа.",
+            "english": "By five we will have been tending to the lines for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н т**э**ндиŋ ту ðэ лайнз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь следить за швартовами уже час?",
+            "thought": "Будешь ты иметь быть заботящимся о [известных] концах целый [какой-то] час к полудню?",
+            "english": "Will you have been tending to the lines for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н т**э**ндиŋ ту ðэ лайнз фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "В значении склонности tend to do не образует пассив; в значении ухода возможен пассив The lines are tended, но в разговоре обычно называют исполнителя."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что ветер будет обычно меняться после полудня.",
+        "thought": "Я знал, [известный] ветер будет иметь склонность меняться после полудня.",
+        "english": "I knew the wind would tend to shift after noon.",
+        "transcription": "[ай нью: ðэ wинд wуд тэнд ту шифт **а**:фтэ ну:н]"
+      },
+      {
+        "ours": "Она думала, что мы не будем следить за швартовами.",
+        "thought": "Она думала, мы будем не заботиться о [известных] концах.",
+        "english": "She thought we would not tend to the lines.",
+        "transcription": "[ши: θо:т wи: wуд нот тэнд ту ðэ лайнз]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "lines"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "lines"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "night"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "night"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "summer",
+      "meaning": "лето",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "summer"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "week"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,820 @@
+{
+  "spec": 4,
+  "verb": "apply",
+  "forms": {
+    "base": [
+      {
+        "word": "apply",
+        "transcription": "[эпл**а**й]"
+      }
+    ],
+    "past": [
+      {
+        "word": "applied",
+        "transcription": "[эпл**а**йд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "applied",
+        "transcription": "[эпл**а**йд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "applying",
+        "transcription": "[эпл**а**йиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "applies",
+        "transcription": "[эпл**а**йз]"
+      }
+    ]
+  },
+  "meaning": "наносить, применять, подавать заявление",
+  "notes": "правильный глагол; apply с прямым дополнением — наносить, apply for — подавать заявление на что-либо",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "applied",
+        "examples": [
+          {
+            "ours": "Вчера экипаж нанёс краску на корпус.",
+            "thought": "Вчера [известный] экипаж нанёс [известную] краску на [известный] корпус.",
+            "english": "Yesterday the crew applied the paint to the hull.",
+            "transcription": "[й**э**стэдэй ðэ кру: эпл**а**йд ðэ пэйнт ту ðэ хал]"
+          },
+          {
+            "ours": "Моряк нанёс герметик на корпус вчера?",
+            "thought": "[Сделал] [известный] моряк наносить [известный] герметик на [известный] корпус вчера?",
+            "english": "Did the sailor apply the sealant to the hull yesterday?",
+            "transcription": "[дид ðэ с**э**йлэ эпл**а**й ðэ с**и**:лэнт ту ðэ хал й**э**стэдэй]"
+          },
+          {
+            "ours": "Они не нанесли лак.",
+            "thought": "Они [сделали] не наносить [известный] лак.",
+            "english": "They did not apply the varnish.",
+            "transcription": "[ðэй дид нот эпл**а**й ðэ в**а**:ниш]"
+          }
+        ]
+      },
+      "present": {
+        "form": "apply, applies",
+        "examples": [
+          {
+            "ours": "Капитан наносит лак.",
+            "thought": "[Известный] капитан наносит [известный] лак.",
+            "english": "The skipper applies the varnish.",
+            "transcription": "[ðэ ск**и**пэ эпл**а**йз ðэ в**а**:ниш]"
+          },
+          {
+            "ours": "Экипаж подаёт заявления на разрешения?",
+            "thought": "[Делает] [известный] экипаж подавать заявления на разрешения?",
+            "english": "Does the crew apply for permits?",
+            "transcription": "[даз ðэ кру: эпл**а**й фо: п**œ**:митс]"
+          },
+          {
+            "ours": "Мы не наносим крем во время гонок.",
+            "thought": "Мы [делаем] не наносить [известный] крем во время гонок.",
+            "english": "We do not apply the sunscreen during races.",
+            "transcription": "[wи: ду: нот эпл**а**й ðэ с**а**нскри:н дь**ю**эриŋ р**э**йсиз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will apply",
+        "examples": [
+          {
+            "ours": "Завтра экипаж нанесёт краску.",
+            "thought": "Завтра [известный] экипаж будет наносить [известную] краску.",
+            "english": "Tomorrow the crew will apply the paint.",
+            "transcription": "[тэм**о**роу ðэ кру: wил эпл**а**й ðэ пэйнт]"
+          },
+          {
+            "ours": "Моряк нанесёт герметик завтра?",
+            "thought": "Будет [известный] моряк наносить [известный] герметик завтра?",
+            "english": "Will the sailor apply the sealant tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ эпл**а**й ðэ с**и**:лэнт тэм**о**роу]"
+          },
+          {
+            "ours": "Она не нанесёт герметик.",
+            "thought": "Она будет не наносить [известный] герметик.",
+            "english": "She will not apply the sealant.",
+            "transcription": "[ши: wил нот эпл**а**й ðэ с**и**:лэнт]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were applying",
+        "examples": [
+          {
+            "ours": "Экипаж наносил краску, когда ты прибыл.",
+            "thought": "[Известный] экипаж был наносящим [известную] краску, когда ты прибыл.",
+            "english": "The crew was applying the paint when you arrived.",
+            "transcription": "[ðэ кру: wоз эпл**а**йиŋ ðэ пэйнт wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Моряк наносил герметик, когда ты прибыл?",
+            "thought": "Был [известный] моряк наносящим [известный] герметик, когда ты прибыл?",
+            "english": "Was the sailor applying the sealant when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ эпл**а**йиŋ ðэ с**и**:лэнт wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are applying",
+        "examples": [
+          {
+            "ours": "Капитан сейчас наносит лак.",
+            "thought": "[Известный] капитан является наносящим [известный] лак сейчас.",
+            "english": "The skipper is applying the varnish now.",
+            "transcription": "[ðэ ск**и**пэ из эпл**а**йиŋ ðэ в**а**:ниш нау]"
+          },
+          {
+            "ours": "Экипаж сейчас наносит крем?",
+            "thought": "Является [известный] экипаж наносящим [известный] крем сейчас?",
+            "english": "Is the crew applying the sunscreen now?",
+            "transcription": "[из ðэ кру: эпл**а**йиŋ ðэ с**а**нскри:н нау]"
+          },
+          {
+            "ours": "Мы сейчас не наносим краску.",
+            "thought": "Мы являемся не наносящими [известную] краску сейчас.",
+            "english": "We are not applying the paint now.",
+            "transcription": "[wи: а: нот эпл**а**йиŋ ðэ пэйнт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be applying",
+        "examples": [
+          {
+            "ours": "Завтра экипаж будет наносить краску.",
+            "thought": "Завтра [известный] экипаж будет быть наносящим [известную] краску.",
+            "english": "Tomorrow the crew will be applying the paint.",
+            "transcription": "[тэм**о**роу ðэ кру: wил би: эпл**а**йиŋ ðэ пэйнт]"
+          },
+          {
+            "ours": "Моряк завтра будет наносить герметик?",
+            "thought": "Будет [известный] моряк быть наносящим [известный] герметик завтра?",
+            "english": "Will the sailor be applying the sealant tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: эпл**а**йиŋ ðэ с**и**:лэнт тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had applied",
+        "examples": [
+          {
+            "ours": "К полудню экипаж нанёс краску.",
+            "thought": "К полудню [известный] экипаж имел нанесённой [известную] краску.",
+            "english": "By noon the crew had applied the paint.",
+            "transcription": "[бай ну:н ðэ кру: хæд эпл**а**йд ðэ пэйнт]"
+          },
+          {
+            "ours": "Моряк нанёс герметик к полудню?",
+            "thought": "Имел [известный] моряк нанесённым [известный] герметик к полудню?",
+            "english": "Had the sailor applied the sealant by noon?",
+            "transcription": "[хæд ðэ с**э**йлэ эпл**а**йд ðэ с**и**:лэнт бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has applied",
+        "examples": [
+          {
+            "ours": "Капитан уже нанёс лак.",
+            "thought": "[Известный] капитан имеет уже нанесённым [известный] лак.",
+            "english": "The skipper has already applied the varnish.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди эпл**а**йд ðэ в**а**:ниш]"
+          },
+          {
+            "ours": "Экипаж уже нанёс крем?",
+            "thought": "Имеет [известный] экипаж нанесённым [известный] крем уже?",
+            "english": "Has the crew applied the sunscreen yet?",
+            "transcription": "[хæз ðэ кру: эпл**а**йд ðэ с**а**нскри:н йэт]"
+          },
+          {
+            "ours": "Она ещё не нанесла герметик.",
+            "thought": "Она имеет не нанесённым [известный] герметик ещё.",
+            "english": "She has not applied the sealant yet.",
+            "transcription": "[ши: хæз нот эпл**а**йд ðэ с**и**:лэнт йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have applied",
+        "examples": [
+          {
+            "ours": "К пяти экипаж нанесёт краску.",
+            "thought": "К пяти [известный] экипаж будет иметь нанесённой [известную] краску.",
+            "english": "By five the crew will have applied the paint.",
+            "transcription": "[бай файв ðэ кру: wил хæв эпл**а**йд ðэ пэйнт]"
+          },
+          {
+            "ours": "Моряк нанесёт герметик к пяти?",
+            "thought": "Будет [известный] моряк иметь нанесённым [известный] герметик к пяти?",
+            "english": "Will the sailor have applied the sealant by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв эпл**а**йд ðэ с**и**:лэнт бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для разового нанесения средства обычно используют perfect: The crew has applied the paint. Для длительной или повторяющейся работы возможен perfect continuous."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were applied",
+        "examples": [
+          {
+            "ours": "Краску нанесли вчера.",
+            "thought": "[Известная] краска была нанесена вчера.",
+            "english": "The paint was applied yesterday.",
+            "transcription": "[ðэ пэйнт wоз эпл**а**йд й**э**стэдэй]"
+          },
+          {
+            "ours": "Герметик был нанесён вчера?",
+            "thought": "Был [известный] герметик нанесён вчера?",
+            "english": "Was the sealant applied yesterday?",
+            "transcription": "[wоз ðэ с**и**:лэнт эпл**а**йд й**э**стэдэй]"
+          },
+          {
+            "ours": "Лак не нанесли вчера.",
+            "thought": "[Известный] лак был не нанесён вчера.",
+            "english": "The varnish was not applied yesterday.",
+            "transcription": "[ðэ в**а**:ниш wоз нот эпл**а**йд й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are applied",
+        "examples": [
+          {
+            "ours": "Лак наносят здесь.",
+            "thought": "[Известный] лак есть нанесён здесь.",
+            "english": "The varnish is applied here.",
+            "transcription": "[ðэ в**а**:ниш из эпл**а**йд хиэ]"
+          },
+          {
+            "ours": "Крем наносят здесь?",
+            "thought": "Есть [известный] крем нанесён здесь?",
+            "english": "Is the sunscreen applied here?",
+            "transcription": "[из ðэ с**а**нскри:н эпл**а**йд хиэ]"
+          },
+          {
+            "ours": "Лак не наносят ночью.",
+            "thought": "[Известный] лак есть не нанесён ночью.",
+            "english": "The varnish is not applied at night.",
+            "transcription": "[ðэ в**а**:ниш из нот эпл**а**йд æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be applied",
+        "examples": [
+          {
+            "ours": "Краску нанесут завтра.",
+            "thought": "[Известная] краска будет быть нанесена завтра.",
+            "english": "The paint will be applied tomorrow.",
+            "transcription": "[ðэ пэйнт wил би: эпл**а**йд тэм**о**роу]"
+          },
+          {
+            "ours": "Герметик нанесут завтра?",
+            "thought": "Будет [известный] герметик быть нанесён завтра?",
+            "english": "Will the sealant be applied tomorrow?",
+            "transcription": "[wил ðэ с**и**:лэнт би: эпл**а**йд тэм**о**роу]"
+          },
+          {
+            "ours": "Герметик не нанесут завтра.",
+            "thought": "[Известный] герметик будет не быть нанесён завтра.",
+            "english": "The sealant will not be applied tomorrow.",
+            "transcription": "[ðэ с**и**:лэнт wил нот би: эпл**а**йд тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being applied",
+        "examples": [
+          {
+            "ours": "Краску наносили, когда ты прибыл.",
+            "thought": "[Известная] краска была «долго» нанесена, когда ты прибыл.",
+            "english": "The paint was being applied when you arrived.",
+            "transcription": "[ðэ пэйнт wоз б**и**:иŋ эпл**а**йд wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Герметик наносили, когда ты прибыл?",
+            "thought": "Был [известный] герметик «долго» нанесён, когда ты прибыл?",
+            "english": "Was the sealant being applied when you arrived?",
+            "transcription": "[wоз ðэ с**и**:лэнт б**и**:иŋ эпл**а**йд wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being applied",
+        "examples": [
+          {
+            "ours": "Лак сейчас наносят.",
+            "thought": "[Известный] лак есть «долго» нанесён сейчас.",
+            "english": "The varnish is being applied now.",
+            "transcription": "[ðэ в**а**:ниш из б**и**:иŋ эпл**а**йд нау]"
+          },
+          {
+            "ours": "Крем сейчас наносят?",
+            "thought": "Есть [известный] крем «долго» нанесён сейчас?",
+            "english": "Is the sunscreen being applied now?",
+            "transcription": "[из ðэ с**а**нскри:н б**и**:иŋ эпл**а**йд нау]"
+          },
+          {
+            "ours": "Крем сейчас не наносят.",
+            "thought": "[Известный] крем есть не «долго» нанесён сейчас.",
+            "english": "The sunscreen is not being applied now.",
+            "transcription": "[ðэ с**а**нскри:н из нот б**и**:иŋ эпл**а**йд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be applying",
+        "examples": [
+          {
+            "ours": "Завтра они будут наносить краску.",
+            "thought": "Завтра они будут быть наносящими [известную] краску.",
+            "english": "Tomorrow they will be applying the paint.",
+            "transcription": "[тэм**о**роу ðэй wил би: эпл**а**йиŋ ðэ пэйнт]"
+          },
+          {
+            "ours": "Они будут наносить герметик завтра?",
+            "thought": "Будут они быть наносящими [известный] герметик завтра?",
+            "english": "Will they be applying the sealant tomorrow?",
+            "transcription": "[wил ðэй би: эпл**а**йиŋ ðэ с**и**:лэнт тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been applied",
+        "examples": [
+          {
+            "ours": "К полудню краску нанесли.",
+            "thought": "К полудню [известная] краска имела быть нанесена.",
+            "english": "By noon the paint had been applied.",
+            "transcription": "[бай ну:н ðэ пэйнт хæд би:н эпл**а**йд]"
+          },
+          {
+            "ours": "Герметик нанесли к полудню?",
+            "thought": "Имел [известный] герметик быть нанесён к полудню?",
+            "english": "Had the sealant been applied by noon?",
+            "transcription": "[хæд ðэ с**и**:лэнт би:н эпл**а**йд бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been applied",
+        "examples": [
+          {
+            "ours": "Лак уже нанесли.",
+            "thought": "[Известный] лак имеет уже быть нанесён.",
+            "english": "The varnish has already been applied.",
+            "transcription": "[ðэ в**а**:ниш хæз о:лр**э**ди би:н эпл**а**йд]"
+          },
+          {
+            "ours": "Крем уже нанесли?",
+            "thought": "Имеет [известный] крем быть нанесён уже?",
+            "english": "Has the sunscreen been applied yet?",
+            "transcription": "[хæз ðэ с**а**нскри:н би:н эпл**а**йд йэт]"
+          },
+          {
+            "ours": "Герметик ещё не нанесли.",
+            "thought": "[Известный] герметик имеет не быть нанесён ещё.",
+            "english": "The sealant has not been applied yet.",
+            "transcription": "[ðэ с**и**:лэнт хæз нот би:н эпл**а**йд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been applied",
+        "examples": [
+          {
+            "ours": "К пяти краску нанесут.",
+            "thought": "К пяти [известная] краска будет иметь быть нанесена.",
+            "english": "By five the paint will have been applied.",
+            "transcription": "[бай файв ðэ пэйнт wил хæв би:н эпл**а**йд]"
+          },
+          {
+            "ours": "Герметик нанесут к пяти?",
+            "thought": "Будет [известный] герметик иметь быть нанесён к пяти?",
+            "english": "Will the sealant have been applied by five?",
+            "transcription": "[wил ðэ с**и**:лэнт хæв би:н эпл**а**йд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The crew has applied the paint."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что моряк нанесёт герметик.",
+        "thought": "Я знал [известный] моряк будет наносить [известный] герметик.",
+        "english": "I knew the sailor would apply the sealant.",
+        "transcription": "[ай нью: ðэ с**э**йлэ wуд эпл**а**й ðэ с**и**:лэнт]"
+      },
+      {
+        "ours": "Мы думали, что экипаж не нанесёт краску.",
+        "thought": "Мы думали [известный] экипаж будет не наносить [известную] краску.",
+        "english": "We thought the crew would not apply the paint.",
+        "transcription": "[wи: θо:т ðэ кру: wуд нот эпл**а**й ðэ пэйнт]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "paint",
+      "meaning": "краска",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "paint"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "paint"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "paint"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "paint"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "paint"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "paint"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "paint"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "paint"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "paint"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "paint"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "paint"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "paint"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "paint"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "paint"
+        }
+      ]
+    },
+    {
+      "word": "hull",
+      "meaning": "корпус",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.simple.past.1",
+          "form": "hull"
+        }
+      ]
+    },
+    {
+      "word": "sealant",
+      "meaning": "герметик",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sealant"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sealant"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "sealant"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sealant"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sealant"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sealant"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "sealant"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sealant"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sealant"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "sealant"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "sealant"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "sealant"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "sealant"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "sealant"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "sealant"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "sealant"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sealant"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "varnish",
+      "meaning": "лак",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "varnish"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "varnish"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "varnish"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "varnish"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "varnish"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "varnish"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "varnish"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "varnish"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "varnish"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "sunscreen",
+      "meaning": "солнцезащитный крем",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sunscreen"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "sunscreen"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "sunscreen"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "sunscreen"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "sunscreen"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "sunscreen"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "sunscreen"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "races"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "permit",
+      "meaning": "разрешение",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "permits"
+        }
+      ]
+    }
+  ]
+}

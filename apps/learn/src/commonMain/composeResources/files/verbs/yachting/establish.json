@@ -1,0 +1,800 @@
+{
+  "spec": 4,
+  "verb": "establish",
+  "forms": {
+    "base": [
+      {
+        "word": "establish",
+        "transcription": "[ист**æ**блиш]"
+      }
+    ],
+    "past": [
+      {
+        "word": "established",
+        "transcription": "[ист**æ**блишт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "established",
+        "transcription": "[ист**æ**блишт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "establishing",
+        "transcription": "[ист**æ**блишиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "establishes",
+        "transcription": "[ист**æ**блишиз]"
+      }
+    ]
+  },
+  "meaning": "устанавливать, учреждать",
+  "notes": "правильный переходный глагол; в этих примерах означает установление связи или порядка",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "established",
+        "examples": [
+          {
+            "ours": "Вчера экипаж установил контакт.",
+            "thought": "Вчера [известный] экипаж установил контакт.",
+            "english": "Yesterday the crew established contact.",
+            "transcription": "[й**э**стэдэй ðэ кру: ист**æ**блишт к**о**нтæкт]"
+          },
+          {
+            "ours": "Моряк установил маршрут вчера?",
+            "thought": "[Сделал] [известный] моряк устанавливать [известный] маршрут вчера?",
+            "english": "Did the sailor establish the route yesterday?",
+            "transcription": "[дид ðэ с**э**йлэ ист**æ**блиш ðэ ру:т й**э**стэдэй]"
+          },
+          {
+            "ours": "Они не установили протокол.",
+            "thought": "Они [сделали] не устанавливать [известный] протокол.",
+            "english": "They did not establish the protocol.",
+            "transcription": "[ðэй дид нот ист**æ**блиш ðэ пр**о**утэкол]"
+          }
+        ]
+      },
+      "present": {
+        "form": "establish, establishes",
+        "examples": [
+          {
+            "ours": "Капитан устанавливает протокол.",
+            "thought": "[Известный] капитан устанавливает [известный] протокол.",
+            "english": "The skipper establishes the protocol.",
+            "transcription": "[ðэ ск**и**пэ ист**æ**блишиз ðэ пр**о**утэкол]"
+          },
+          {
+            "ours": "Экипаж устанавливает график?",
+            "thought": "[Делает] [известный] экипаж устанавливать [известный] график?",
+            "english": "Does the crew establish the schedule?",
+            "transcription": "[даз ðэ кру: ист**æ**блиш ðэ ш**э**дюл]"
+          },
+          {
+            "ours": "Мы не устанавливаем график во время гонок.",
+            "thought": "Мы [делаем] не устанавливать [известный] график во время гонок.",
+            "english": "We do not establish the schedule during races.",
+            "transcription": "[wи: ду: нот ист**æ**блиш ðэ ш**э**дюл дь**ю**эриŋ р**э**йсиз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will establish",
+        "examples": [
+          {
+            "ours": "Завтра экипаж установит контакт.",
+            "thought": "Завтра [известный] экипаж будет устанавливать контакт.",
+            "english": "Tomorrow the crew will establish contact.",
+            "transcription": "[тэм**о**роу ðэ кру: wил ист**æ**блиш к**о**нтæкт]"
+          },
+          {
+            "ours": "Моряк установит маршрут завтра?",
+            "thought": "Будет [известный] моряк устанавливать [известный] маршрут завтра?",
+            "english": "Will the sailor establish the route tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ ист**æ**блиш ðэ ру:т тэм**о**роу]"
+          },
+          {
+            "ours": "Она не установит маршрут.",
+            "thought": "Она будет не устанавливать [известный] маршрут.",
+            "english": "She will not establish the route.",
+            "transcription": "[ши: wил нот ист**æ**блиш ðэ ру:т]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were establishing",
+        "examples": [
+          {
+            "ours": "Экипаж устанавливал контакт, когда ты прибыл.",
+            "thought": "[Известный] экипаж был устанавливающим контакт, когда ты прибыл.",
+            "english": "The crew was establishing contact when you arrived.",
+            "transcription": "[ðэ кру: wоз ист**æ**блишиŋ к**о**нтæкт wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Моряк устанавливал маршрут, когда ты прибыл?",
+            "thought": "Был [известный] моряк устанавливающим [известный] маршрут, когда ты прибыл?",
+            "english": "Was the sailor establishing the route when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ ист**æ**блишиŋ ðэ ру:т wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are establishing",
+        "examples": [
+          {
+            "ours": "Капитан сейчас устанавливает протокол.",
+            "thought": "[Известный] капитан является устанавливающим [известный] протокол сейчас.",
+            "english": "The skipper is establishing the protocol now.",
+            "transcription": "[ðэ ск**и**пэ из ист**æ**блишиŋ ðэ пр**о**утэкол нау]"
+          },
+          {
+            "ours": "Экипаж сейчас устанавливает график?",
+            "thought": "Является [известный] экипаж устанавливающим [известный] график сейчас?",
+            "english": "Is the crew establishing the schedule now?",
+            "transcription": "[из ðэ кру: ист**æ**блишиŋ ðэ ш**э**дюл нау]"
+          },
+          {
+            "ours": "Мы сейчас не устанавливаем контакт.",
+            "thought": "Мы являемся не устанавливающими контакт сейчас.",
+            "english": "We are not establishing contact now.",
+            "transcription": "[wи: а: нот ист**æ**блишиŋ к**о**нтæкт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be establishing",
+        "examples": [
+          {
+            "ours": "Завтра экипаж будет устанавливать контакт.",
+            "thought": "Завтра [известный] экипаж будет быть устанавливающим контакт.",
+            "english": "Tomorrow the crew will be establishing contact.",
+            "transcription": "[тэм**о**роу ðэ кру: wил би: ист**æ**блишиŋ к**о**нтæкт]"
+          },
+          {
+            "ours": "Моряк завтра будет устанавливать маршрут?",
+            "thought": "Будет [известный] моряк быть устанавливающим [известный] маршрут завтра?",
+            "english": "Will the sailor be establishing the route tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: ист**æ**блишиŋ ðэ ру:т тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had established",
+        "examples": [
+          {
+            "ours": "К полудню экипаж установил контакт.",
+            "thought": "К полудню [известный] экипаж имел установленным контакт.",
+            "english": "By noon the crew had established contact.",
+            "transcription": "[бай ну:н ðэ кру: хæд ист**æ**блишт к**о**нтæкт]"
+          },
+          {
+            "ours": "Моряк установил маршрут к полудню?",
+            "thought": "Имел [известный] моряк установленным [известный] маршрут к полудню?",
+            "english": "Had the sailor established the route by noon?",
+            "transcription": "[хæд ðэ с**э**йлэ ист**æ**блишт ðэ ру:т бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has established",
+        "examples": [
+          {
+            "ours": "Капитан уже установил протокол.",
+            "thought": "[Известный] капитан имеет уже установленным [известный] протокол.",
+            "english": "The skipper has already established the protocol.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди ист**æ**блишт ðэ пр**о**утэкол]"
+          },
+          {
+            "ours": "Экипаж уже установил график?",
+            "thought": "Имеет [известный] экипаж установленным [известный] график уже?",
+            "english": "Has the crew established the schedule yet?",
+            "transcription": "[хæз ðэ кру: ист**æ**блишт ðэ ш**э**дюл йэт]"
+          },
+          {
+            "ours": "Она ещё не установила маршрут.",
+            "thought": "Она имеет не установленным [известный] маршрут ещё.",
+            "english": "She has not established the route yet.",
+            "transcription": "[ши: хæз нот ист**æ**блишт ðэ ру:т йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have established",
+        "examples": [
+          {
+            "ours": "К пяти экипаж установит контакт.",
+            "thought": "К пяти [известный] экипаж будет иметь установленным контакт.",
+            "english": "By five the crew will have established contact.",
+            "transcription": "[бай файв ðэ кру: wил хæв ист**æ**блишт к**о**нтæкт]"
+          },
+          {
+            "ours": "Моряк установит маршрут к пяти?",
+            "thought": "Будет [известный] моряк иметь установленным [известный] маршрут к пяти?",
+            "english": "Will the sailor have established the route by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв ист**æ**блишт ðэ ру:т бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для однократного установления связи часто используют perfect: The crew has established contact. Длительная форма возможна для многократной или постепенной работы."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were established",
+        "examples": [
+          {
+            "ours": "Контакт был установлен вчера.",
+            "thought": "Контакт был установлен вчера.",
+            "english": "Contact was established yesterday.",
+            "transcription": "[к**о**нтæкт wоз ист**æ**блишт й**э**стэдэй]"
+          },
+          {
+            "ours": "Маршрут был установлен вчера?",
+            "thought": "Был [известный] маршрут установлен вчера?",
+            "english": "Was the route established yesterday?",
+            "transcription": "[wоз ðэ ру:т ист**æ**блишт й**э**стэдэй]"
+          },
+          {
+            "ours": "Протокол не установили вчера.",
+            "thought": "[Известный] протокол был не установлен вчера.",
+            "english": "The protocol was not established yesterday.",
+            "transcription": "[ðэ пр**о**утэкол wоз нот ист**æ**блишт й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are established",
+        "examples": [
+          {
+            "ours": "Протокол устанавливают здесь.",
+            "thought": "[Известный] протокол есть установлен здесь.",
+            "english": "The protocol is established here.",
+            "transcription": "[ðэ пр**о**утэкол из ист**æ**блишт хиэ]"
+          },
+          {
+            "ours": "График устанавливают здесь?",
+            "thought": "Есть [известный] график установлен здесь?",
+            "english": "Is the schedule established here?",
+            "transcription": "[из ðэ ш**э**дюл ист**æ**блишт хиэ]"
+          },
+          {
+            "ours": "Протокол не устанавливают ночью.",
+            "thought": "[Известный] протокол есть не установлен ночью.",
+            "english": "The protocol is not established at night.",
+            "transcription": "[ðэ пр**о**утэкол из нот ист**æ**блишт æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be established",
+        "examples": [
+          {
+            "ours": "Контакт установят завтра.",
+            "thought": "Контакт будет быть установлен завтра.",
+            "english": "Contact will be established tomorrow.",
+            "transcription": "[к**о**нтæкт wил би: ист**æ**блишт тэм**о**роу]"
+          },
+          {
+            "ours": "Маршрут установят завтра?",
+            "thought": "Будет [известный] маршрут быть установлен завтра?",
+            "english": "Will the route be established tomorrow?",
+            "transcription": "[wил ðэ ру:т би: ист**æ**блишт тэм**о**роу]"
+          },
+          {
+            "ours": "Маршрут не установят завтра.",
+            "thought": "[Известный] маршрут будет не быть установлен завтра.",
+            "english": "The route will not be established tomorrow.",
+            "transcription": "[ðэ ру:т wил нот би: ист**æ**блишт тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being established",
+        "examples": [
+          {
+            "ours": "Контакт устанавливали, когда ты прибыл.",
+            "thought": "Контакт был «долго» установлен, когда ты прибыл.",
+            "english": "Contact was being established when you arrived.",
+            "transcription": "[к**о**нтæкт wоз б**и**:иŋ ист**æ**блишт wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Маршрут устанавливали, когда ты прибыл?",
+            "thought": "Был [известный] маршрут «долго» установлен, когда ты прибыл?",
+            "english": "Was the route being established when you arrived?",
+            "transcription": "[wоз ðэ ру:т б**и**:иŋ ист**æ**блишт wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being established",
+        "examples": [
+          {
+            "ours": "Протокол сейчас устанавливают.",
+            "thought": "[Известный] протокол есть «долго» установлен сейчас.",
+            "english": "The protocol is being established now.",
+            "transcription": "[ðэ пр**о**утэкол из б**и**:иŋ ист**æ**блишт нау]"
+          },
+          {
+            "ours": "График сейчас устанавливают?",
+            "thought": "Есть [известный] график «долго» установлен сейчас?",
+            "english": "Is the schedule being established now?",
+            "transcription": "[из ðэ ш**э**дюл б**и**:иŋ ист**æ**блишт нау]"
+          },
+          {
+            "ours": "График сейчас не устанавливают.",
+            "thought": "[Известный] график есть не «долго» установлен сейчас.",
+            "english": "The schedule is not being established now.",
+            "transcription": "[ðэ ш**э**дюл из нот б**и**:иŋ ист**æ**блишт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be establishing",
+        "examples": [
+          {
+            "ours": "Завтра они будут устанавливать контакт.",
+            "thought": "Завтра они будут быть устанавливающими контакт.",
+            "english": "Tomorrow they will be establishing contact.",
+            "transcription": "[тэм**о**роу ðэй wил би: ист**æ**блишиŋ к**о**нтæкт]"
+          },
+          {
+            "ours": "Они будут устанавливать маршрут завтра?",
+            "thought": "Будут они быть устанавливающими [известный] маршрут завтра?",
+            "english": "Will they be establishing the route tomorrow?",
+            "transcription": "[wил ðэй би: ист**æ**блишиŋ ðэ ру:т тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been established",
+        "examples": [
+          {
+            "ours": "К полудню контакт установили.",
+            "thought": "К полудню контакт имел быть установлен.",
+            "english": "By noon contact had been established.",
+            "transcription": "[бай ну:н к**о**нтæкт хæд би:н ист**æ**блишт]"
+          },
+          {
+            "ours": "Маршрут установили к полудню?",
+            "thought": "Имел [известный] маршрут быть установлен к полудню?",
+            "english": "Had the route been established by noon?",
+            "transcription": "[хæд ðэ ру:т би:н ист**æ**блишт бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been established",
+        "examples": [
+          {
+            "ours": "Протокол уже установили.",
+            "thought": "[Известный] протокол имеет уже быть установлен.",
+            "english": "The protocol has already been established.",
+            "transcription": "[ðэ пр**о**утэкол хæз о:лр**э**ди би:н ист**æ**блишт]"
+          },
+          {
+            "ours": "График уже установили?",
+            "thought": "Имеет [известный] график быть установлен уже?",
+            "english": "Has the schedule been established yet?",
+            "transcription": "[хæз ðэ ш**э**дюл би:н ист**æ**блишт йэт]"
+          },
+          {
+            "ours": "Маршрут ещё не установили.",
+            "thought": "[Известный] маршрут имеет не быть установлен ещё.",
+            "english": "The route has not been established yet.",
+            "transcription": "[ðэ ру:т хæз нот би:н ист**æ**блишт йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been established",
+        "examples": [
+          {
+            "ours": "К пяти контакт установят.",
+            "thought": "К пяти контакт будет иметь быть установлен.",
+            "english": "By five contact will have been established.",
+            "transcription": "[бай файв к**о**нтæкт wил хæв би:н ист**æ**блишт]"
+          },
+          {
+            "ours": "Маршрут установят к пяти?",
+            "thought": "Будет [известный] маршрут иметь быть установлен к пяти?",
+            "english": "Will the route have been established by five?",
+            "transcription": "[wил ðэ ру:т хæв би:н ист**æ**блишт бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The crew has established contact."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что моряк установит маршрут.",
+        "thought": "Я знал [известный] моряк будет устанавливать [известный] маршрут.",
+        "english": "I knew the sailor would establish the route.",
+        "transcription": "[ай нью: ðэ с**э**йлэ wуд ист**æ**блиш ðэ ру:т]"
+      },
+      {
+        "ours": "Мы думали, что экипаж не установит контакт.",
+        "thought": "Мы думали [известный] экипаж будет не устанавливать контакт.",
+        "english": "We thought the crew would not establish contact.",
+        "transcription": "[wи: θо:т ðэ кру: wуд нот ист**æ**блиш к**о**нтæкт]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "contact",
+      "meaning": "контакт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "contact"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "contact"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "contact"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "contact"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "contact"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "contact"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "contact"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Contact"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Contact"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Contact"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "contact"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "contact"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "contact"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "contact"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "protocol",
+      "meaning": "протокол",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "protocol"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "protocol"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "protocol"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "protocol"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "protocol"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "protocol"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "protocol"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "protocol"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "protocol"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "schedule",
+      "meaning": "график",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "schedule"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "schedule"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "schedule"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "schedule"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "schedule"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "schedule"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "schedule"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "schedule"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "races"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "night"
+        }
+      ]
+    }
+  ]
+}

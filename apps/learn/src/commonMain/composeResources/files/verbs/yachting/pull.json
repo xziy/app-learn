@@ -1,0 +1,802 @@
+{
+  "spec": 4,
+  "verb": "pull",
+  "forms": {
+    "base": [
+      {
+        "word": "pull",
+        "transcription": "[пул]"
+      }
+    ],
+    "past": [
+      {
+        "word": "pulled",
+        "transcription": "[пулд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "pulled",
+        "transcription": "[пулд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "pulling",
+        "transcription": "[п**у**лиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "pulls",
+        "transcription": "[пулз]"
+      }
+    ]
+  },
+  "meaning": "тянуть, вытягивать",
+  "notes": "правильный переходный глагол; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "pulled",
+        "examples": [
+          {
+            "ours": "Вчера мы вытянули верёвку.",
+            "thought": "Вчера мы вытянули [известную] верёвку.",
+            "english": "Yesterday we pulled the rope.",
+            "transcription": "[й**э**стэдэй wи: пулд ðэ роуп]"
+          },
+          {
+            "ours": "Ты вытянул шкот?",
+            "thought": "[Сделал] ты тянуть [известный] шкот?",
+            "english": "Did you pull the sheet?",
+            "transcription": "[дид ю: пул ðэ ши:т]"
+          },
+          {
+            "ours": "Она не вытянула конец.",
+            "thought": "Она [сделала] не тянуть [известный] конец.",
+            "english": "She did not pull the line.",
+            "transcription": "[ши: дид нот пул ðэ лайн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "pull, pulls",
+        "examples": [
+          {
+            "ours": "Шкипер тянет верёвку.",
+            "thought": "[Известный] шкипер тянет [известную] верёвку.",
+            "english": "The skipper pulls the rope.",
+            "transcription": "[ðэ ск**и**пэ пулз ðэ роуп]"
+          },
+          {
+            "ours": "Ты тянешь верёвки на палубе?",
+            "thought": "[Делаешь] ты тянуть верёвки на палубе?",
+            "english": "Do you pull ropes on deck?",
+            "transcription": "[ду: ю: пул роупс он дэк]"
+          },
+          {
+            "ours": "Мы не тянем шкоты.",
+            "thought": "Мы [делаем] не тянуть шкоты.",
+            "english": "We do not pull sheets.",
+            "transcription": "[wи: ду: нот пул ши:тс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will pull",
+        "examples": [
+          {
+            "ours": "Завтра мы вытянем верёвку.",
+            "thought": "Завтра мы будем тянуть [известную] верёвку.",
+            "english": "Tomorrow we will pull the rope.",
+            "transcription": "[тэм**о**роу wи: wил пул ðэ роуп]"
+          },
+          {
+            "ours": "Ты вытянешь шкот?",
+            "thought": "Будешь ты тянуть [известный] шкот?",
+            "english": "Will you pull the sheet?",
+            "transcription": "[wил ю: пул ðэ ши:т]"
+          },
+          {
+            "ours": "Она не вытянет конец.",
+            "thought": "Она будет не тянуть [известный] конец.",
+            "english": "She will not pull the line.",
+            "transcription": "[ши: wил нот пул ðэ лайн]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were pulling",
+        "examples": [
+          {
+            "ours": "Вчера утром мы тянули верёвки.",
+            "thought": "Вчера утром мы были тянущими [известные] верёвки.",
+            "english": "Yesterday morning we were pulling the ropes.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: п**у**лиŋ ðэ роупс]"
+          },
+          {
+            "ours": "Ты тянул шкот, когда я позвонил?",
+            "thought": "Был ты тянущим [известный] шкот, когда я позвонил?",
+            "english": "Were you pulling the sheet when I called?",
+            "transcription": "[wœ: ю: п**у**лиŋ ðэ ши:т wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are pulling",
+        "examples": [
+          {
+            "ours": "Мы сейчас тянем верёвку.",
+            "thought": "Мы являемся тянущими [известную] верёвку сейчас.",
+            "english": "We are pulling the rope now.",
+            "transcription": "[wи: а: п**у**лиŋ ðэ роуп нау]"
+          },
+          {
+            "ours": "Шкипер сейчас тянет шкот?",
+            "thought": "Является [известный] шкипер тянущим [известный] шкот сейчас?",
+            "english": "Is the skipper pulling the sheet now?",
+            "transcription": "[из ðэ ск**и**пэ п**у**лиŋ ðэ ши:т нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be pulling",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем тянуть верёвки.",
+            "thought": "Завтра утром мы будем быть тянущими [известные] верёвки.",
+            "english": "Tomorrow morning we will be pulling the ropes.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: п**у**лиŋ ðэ роупс]"
+          },
+          {
+            "ours": "Ты будешь тянуть шкот вечером?",
+            "thought": "Будешь ты быть тянущим [известный] шкот этот вечер?",
+            "english": "Will you be pulling the sheet this evening?",
+            "transcription": "[wил ю: би: п**у**лиŋ ðэ ши:т ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had pulled",
+        "examples": [
+          {
+            "ours": "К полудню мы уже вытянули верёвку.",
+            "thought": "К полудню мы имели уже вытянутой [известную] верёвку.",
+            "english": "By noon we had already pulled the rope.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди пулд ðэ роуп]"
+          },
+          {
+            "ours": "Ты вытянул шкот до отхода?",
+            "thought": "Имел ты вытянутым [известный] шкот до отхода?",
+            "english": "Had you pulled the sheet before departure?",
+            "transcription": "[хæд ю: пулд ðэ ши:т биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has pulled",
+        "examples": [
+          {
+            "ours": "Мы уже вытянули верёвку.",
+            "thought": "Мы имеем уже вытянутой [известную] верёвку.",
+            "english": "We have already pulled the rope.",
+            "transcription": "[wи: хæв о:лр**э**ди пулд ðэ роуп]"
+          },
+          {
+            "ours": "Ты уже вытянул шкот?",
+            "thought": "Имеешь ты вытянутым [известный] шкот уже?",
+            "english": "Have you pulled the sheet yet?",
+            "transcription": "[хæв ю: пулд ðэ ши:т йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have pulled",
+        "examples": [
+          {
+            "ours": "К полудню мы вытянем верёвку.",
+            "thought": "К полудню мы будем иметь вытянутой [известную] верёвку.",
+            "english": "By noon we will have pulled the rope.",
+            "transcription": "[бай ну:н wи: wил хæв пулд ðэ роуп]"
+          },
+          {
+            "ours": "Ты вытянешь шкот к пяти?",
+            "thought": "Будешь ты иметь вытянутым [известный] шкот к пяти?",
+            "english": "Will you have pulled the sheet by five?",
+            "transcription": "[wил ю: хæв пулд ðэ ши:т бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been pulling",
+        "examples": [
+          {
+            "ours": "Мы час тянули верёвки, когда пошёл дождь.",
+            "thought": "Мы имели быть тянущими верёвки целый [какой-то] час, когда он начал идти дождём.",
+            "english": "We had been pulling ropes for an hour when it started raining.",
+            "transcription": "[wи: хæд би:н п**у**лиŋ роупс фо: эн **а**уэ wэн ит ст**а**:тид р**э**йниŋ]"
+          },
+          {
+            "ours": "Ты тянул цепь два часа до отхода?",
+            "thought": "Имел ты быть тянущим [известную] цепь целых два часа до отхода?",
+            "english": "Had you been pulling the chain for two hours before departure?",
+            "transcription": "[хæд ю: би:н п**у**лиŋ ðэ чэйн фо: ту: **а**уэз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been pulling",
+        "examples": [
+          {
+            "ours": "Мы тянем верёвки уже час.",
+            "thought": "Мы имеем быть тянущими верёвки целый [какой-то] час.",
+            "english": "We have been pulling ropes for an hour.",
+            "transcription": "[wи: хæв би:н п**у**лиŋ роупс фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты тянешь цепь уже два часа?",
+            "thought": "Имеешь ты быть тянущим [известную] цепь целых два часа?",
+            "english": "Have you been pulling the chain for two hours?",
+            "transcription": "[хæв ю: би:н п**у**лиŋ ðэ чэйн фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been pulling",
+        "examples": [
+          {
+            "ours": "К пяти мы будем тянуть верёвки уже два часа.",
+            "thought": "К пяти мы будем иметь быть тянущими верёвки целых два часа.",
+            "english": "By five we will have been pulling ropes for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н п**у**лиŋ роупс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь тянуть цепь уже час?",
+            "thought": "Будешь ты иметь быть тянущим [известную] цепь целый [какой-то] час к полудню?",
+            "english": "Will you have been pulling the chain for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н п**у**лиŋ ðэ чэйн фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were pulled",
+        "examples": [
+          {
+            "ours": "Верёвку вытянули вчера.",
+            "thought": "[Известная] верёвка была вытянута вчера.",
+            "english": "The rope was pulled yesterday.",
+            "transcription": "[ðэ роуп wоз пулд й**э**стэдэй]"
+          },
+          {
+            "ours": "Шкоты вытянули до отхода?",
+            "thought": "Были [известные] шкоты вытянуты до отхода?",
+            "english": "Were the sheets pulled before departure?",
+            "transcription": "[wœ: ðэ ши:тс пулд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are pulled",
+        "examples": [
+          {
+            "ours": "Верёвки тянут на берегу.",
+            "thought": "Верёвки есть вытянуты на берегу.",
+            "english": "Ropes are pulled ashore.",
+            "transcription": "[роупс а: пулд эш**о**:]"
+          },
+          {
+            "ours": "Ткань тянут здесь?",
+            "thought": "Есть [известная] цепь вытянута здесь?",
+            "english": "Is the chain pulled here?",
+            "transcription": "[из ðэ чэйн пулд хиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be pulled",
+        "examples": [
+          {
+            "ours": "Верёвку вытянут завтра.",
+            "thought": "[Известная] верёвка будет быть вытянута завтра.",
+            "english": "The rope will be pulled tomorrow.",
+            "transcription": "[ðэ роуп wил би: пулд тэм**о**роу]"
+          },
+          {
+            "ours": "Шкот вытянут до отхода?",
+            "thought": "Будет [известный] шкот быть вытянут до отхода?",
+            "english": "Will the sheet be pulled before departure?",
+            "transcription": "[wил ðэ ши:т би: пулд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being pulled",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, верёвку тянули.",
+            "thought": "[Известная] верёвка была «долго» вытянута, когда я прибыл.",
+            "english": "The rope was being pulled when I arrived.",
+            "transcription": "[ðэ роуп wоз б**и**:иŋ пулд wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, шкоты тянули?",
+            "thought": "Были [известные] шкоты «долго» вытянуты, когда ты позвонил?",
+            "english": "Were the sheets being pulled when you called?",
+            "transcription": "[wœ: ðэ ши:тс б**и**:иŋ пулд wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being pulled",
+        "examples": [
+          {
+            "ours": "Верёвку сейчас тянут.",
+            "thought": "[Известная] верёвка есть «долго» вытянута сейчас.",
+            "english": "The rope is being pulled now.",
+            "transcription": "[ðэ роуп из б**и**:иŋ пулд нау]"
+          },
+          {
+            "ours": "Шкоты сейчас тянут?",
+            "thought": "Есть [известные] шкоты «долго» вытянуты сейчас?",
+            "english": "Are the sheets being pulled now?",
+            "transcription": "[а: ðэ ши:тс б**и**:иŋ пулд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be pulling",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут тянуть верёвки.",
+            "thought": "Завтра утром они будут быть тянущими [известные] верёвки.",
+            "english": "Tomorrow morning they will be pulling the ropes.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: п**у**лиŋ ðэ роупс]"
+          },
+          {
+            "ours": "Они будут тянуть шкот вечером?",
+            "thought": "Будут они быть тянущими [известный] шкот этот вечер?",
+            "english": "Will they be pulling the sheet this evening?",
+            "transcription": "[wил ðэй би: п**у**лиŋ ðэ ши:т ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been pulled",
+        "examples": [
+          {
+            "ours": "К полудню верёвку уже вытянули.",
+            "thought": "К полудню [известная] верёвка имела уже быть вытянута.",
+            "english": "By noon the rope had already been pulled.",
+            "transcription": "[бай ну:н ðэ роуп хæд о:лр**э**ди би:н пулд]"
+          },
+          {
+            "ours": "Шкот вытянули до отхода?",
+            "thought": "Имел [известный] шкот быть вытянут до отхода?",
+            "english": "Had the sheet been pulled before departure?",
+            "transcription": "[хæд ðэ ши:т би:н пулд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been pulled",
+        "examples": [
+          {
+            "ours": "Верёвку уже вытянули.",
+            "thought": "[Известная] верёвка имеет уже быть вытянута.",
+            "english": "The rope has already been pulled.",
+            "transcription": "[ðэ роуп хæз о:лр**э**ди би:н пулд]"
+          },
+          {
+            "ours": "Шкоты уже вытянули?",
+            "thought": "Имеют [известные] шкоты быть вытянуты уже?",
+            "english": "Have the sheets been pulled yet?",
+            "transcription": "[хæв ðэ ши:тс би:н пулд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been pulled",
+        "examples": [
+          {
+            "ours": "К полудню верёвку вытянут.",
+            "thought": "К полудню [известная] верёвка будет иметь быть вытянута.",
+            "english": "By noon the rope will have been pulled.",
+            "transcription": "[бай ну:н ðэ роуп wил хæв би:н пулд]"
+          },
+          {
+            "ours": "Шкот вытянут к пяти?",
+            "thought": "Будет [известный] шкот иметь быть вытянут к пяти?",
+            "english": "Will the sheet have been pulled by five?",
+            "transcription": "[wил ðэ ши:т хæв би:н пулд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been pulling ropes."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они вытянут верёвку.",
+        "thought": "Я знал, они будут тянуть [известную] верёвку.",
+        "english": "I knew they would pull the rope.",
+        "transcription": "[ай нью: ðэй wуд пул ðэ роуп]"
+      },
+      {
+        "ours": "Она думала, что мы не вытянем шкот.",
+        "thought": "Она думала, мы будем не тянуть [известный] шкот.",
+        "english": "She thought we would not pull the sheet.",
+        "transcription": "[ши: θо:т wи: wуд нот пул ðэ ши:т]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "rope",
+      "meaning": "верёвка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Ropes"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "rope"
+        }
+      ]
+    },
+    {
+      "word": "sheet",
+      "meaning": "шкот",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sheets"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sheets"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "sheets"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "sheets"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "sheets"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "sheet"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "line"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "chain",
+      "meaning": "цепь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "chain"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "chain"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "chain"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chain"
+        }
+      ]
+    }
+  ]
+}

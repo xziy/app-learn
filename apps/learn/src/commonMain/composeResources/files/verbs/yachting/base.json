@@ -1,0 +1,992 @@
+{
+  "spec": 4,
+  "verb": "base",
+  "forms": {
+    "base": [
+      {
+        "word": "base",
+        "transcription": "[бэйс]"
+      }
+    ],
+    "past": [
+      {
+        "word": "based",
+        "transcription": "[бэйст]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "based",
+        "transcription": "[бэйст]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "basing",
+        "transcription": "[б**э**йсиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "bases",
+        "transcription": "[б**э**йсиз]"
+      }
+    ]
+  },
+  "meaning": "основывать на, базировать",
+  "notes": "правильный переходный глагол; base something on something, есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "based on",
+        "examples": [
+          {
+            "ours": "Вчера мы составили план на основе прогноза.",
+            "thought": "Вчера мы основали [известный] план на [известном] прогнозе.",
+            "english": "Yesterday we based the plan on the forecast.",
+            "transcription": "[й**э**стэдэй wи: бэйст ðэ плæн он ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Он не основывал маршрут на карте.",
+            "thought": "Он [сделал] не основывать [известный] маршрут на [известной] карте.",
+            "english": "He didn't base the route on the chart.",
+            "transcription": "[хи: диднт бэйс ðэ ру:т он ðэ ча:т]"
+          },
+          {
+            "ours": "Ты основывал решение на погоде?",
+            "thought": "[Сделал] ты основывать [известное] решение на [известной] погоде?",
+            "english": "Did you base the decision on the weather?",
+            "transcription": "[дид ю: бэйс ðэ дис**и**жн он ðэ w**э**ðэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "base, bases on",
+        "examples": [
+          {
+            "ours": "Капитан основывает решения на прогнозах.",
+            "thought": "[Известный] капитан основывает решения на прогнозах.",
+            "english": "The captain bases decisions on forecasts.",
+            "transcription": "[ðэ к**æ**птин б**э**йсиз дис**и**жнз он ф**о**:ка:стс]"
+          },
+          {
+            "ours": "Он не основывает план на старой карте.",
+            "thought": "Он [делает] не основывать [известный] план на [известной] старой карте.",
+            "english": "He doesn't base the plan on the old chart.",
+            "transcription": "[хи: дазнт бэйс ðэ плæн он ðэ оулд ча:т]"
+          },
+          {
+            "ours": "Ты основываешь маршрут на прогнозе?",
+            "thought": "[Делаешь] ты основывать [известный] маршрут на [известном] прогнозе?",
+            "english": "Do you base the route on the forecast?",
+            "transcription": "[ду: ю: бэйс ðэ ру:т он ðэ ф**о**:ка:ст]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will base on",
+        "examples": [
+          {
+            "ours": "Завтра мы составим план на основе прогноза.",
+            "thought": "Завтра мы будем основывать [известный] план на [известном] прогнозе.",
+            "english": "Tomorrow we will base the plan on the forecast.",
+            "transcription": "[тэм**о**роу wи: wил бэйс ðэ плæн он ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Он не будет основывать решение на старой карте.",
+            "thought": "Он будет не основывать [известное] решение на [известной] старой карте.",
+            "english": "He won't base the decision on the old chart.",
+            "transcription": "[хи: wоунт бэйс ðэ дис**и**жн он ðэ оулд ча:т]"
+          },
+          {
+            "ours": "Ты составишь маршрут на основе прогноза?",
+            "thought": "Будешь ты основывать [известный] маршрут на [известном] прогнозе?",
+            "english": "Will you base the route on the forecast?",
+            "transcription": "[wил ю: бэйс ðэ ру:т он ðэ ф**о**:ка:ст]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were basing on",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день основывали решения на прогнозах.",
+            "thought": "Вчера мы были основывающими решения на прогнозах весь день.",
+            "english": "Yesterday we were basing decisions on forecasts all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: б**э**йсиŋ дис**и**жнз он ф**о**:ка:стс о:л дэй]"
+          },
+          {
+            "ours": "Ты основывал план на прогнозе, когда я пришёл?",
+            "thought": "Был ты основывающим [известный] план на [известном] прогнозе когда я пришёл?",
+            "english": "Were you basing the plan on the forecast when I came?",
+            "transcription": "[wœ: ю: б**э**йсиŋ ðэ плæн он ðэ ф**о**:ка:ст wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are basing on",
+        "examples": [
+          {
+            "ours": "Сейчас мы основываем план на погоде.",
+            "thought": "Мы являемся основывающими [известный] план на [известной] погоде сейчас.",
+            "english": "We are basing the plan on the weather now.",
+            "transcription": "[wи: а: б**э**йсиŋ ðэ плæн он ðэ w**э**ðэ нау]"
+          },
+          {
+            "ours": "Ты сейчас основываешь решение на прогнозе?",
+            "thought": "Являешься ты основывающим [известное] решение на [известном] прогнозе сейчас?",
+            "english": "Are you basing the decision on the forecast now?",
+            "transcription": "[а: ю: б**э**йсиŋ ðэ дис**и**жн он ðэ ф**о**:ка:ст нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be basing on",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем основывать решения на прогнозах.",
+            "thought": "Завтра мы будем быть основывающими решения на прогнозах весь день.",
+            "english": "Tomorrow we will be basing decisions on forecasts all day.",
+            "transcription": "[тэм**о**роу wи: wил би: б**э**йсиŋ дис**и**жнз он ф**о**:ка:стс о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь составлять план на основе прогноза до гонки?",
+            "thought": "Будешь ты быть основывающим [известный] план на [известном] прогнозе перед [известной] гонкой?",
+            "english": "Will you be basing the plan on the forecast before the race?",
+            "transcription": "[wил ю: би: б**э**йсиŋ ðэ плæн он ðэ ф**о**:ка:ст биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had based on",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже составили план на основе прогноза.",
+            "thought": "К пяти вчера мы имели уже основанным [известный] план на [известном] прогнозе.",
+            "english": "By five yesterday we had already based the plan on the forecast.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди бэйст ðэ плæн он ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты основывал маршрут на карте до гонки?",
+            "thought": "Имел ты основанным [известный] маршрут на [известной] карте перед [известной] гонкой?",
+            "english": "Had you based the route on the chart before the race?",
+            "transcription": "[хæд ю: бэйст ðэ ру:т он ðэ ча:т биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has based on",
+        "examples": [
+          {
+            "ours": "Мы уже составили план на основе прогноза.",
+            "thought": "Мы имеем уже основанным [известный] план на [известном] прогнозе.",
+            "english": "We have already based the plan on the forecast.",
+            "transcription": "[wи: хæв о:лр**э**ди бэйст ðэ плæн он ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты уже составил маршрут на основе карты?",
+            "thought": "Имеешь ты уже основанным [известный] маршрут на [известной] карте?",
+            "english": "Have you already based the route on the chart?",
+            "transcription": "[хæв ю: о:лр**э**ди бэйст ðэ ру:т он ðэ ча:т]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have based on",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже составим план на основе прогноза.",
+            "thought": "К пяти завтра мы будем иметь уже основанным [известный] план на [известном] прогнозе.",
+            "english": "By five tomorrow we will have already based the plan on the forecast.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди бэйст ðэ плæн он ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты составишь маршрут на основе карты до гонки?",
+            "thought": "Будешь ты иметь основанным [известный] маршрут на [известной] карте перед [известной] гонкой?",
+            "english": "Will you have based the route on the chart before the race?",
+            "transcription": "[wил ю: хæв бэйст ðэ ру:т он ðэ ча:т биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been basing on",
+        "examples": [
+          {
+            "ours": "Мы уже два года основывали решения на прогнозах, когда ты пришёл.",
+            "thought": "Мы имели быть основывающими решения на прогнозах целых два года когда ты пришёл.",
+            "english": "We had been basing decisions on forecasts for two years when you came.",
+            "transcription": "[wи: хæд би:н б**э**йсиŋ дис**и**жнз он ф**о**:ка:стс фо: ту: йиэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два года основывал решения на картах, когда он пришёл?",
+            "thought": "Имел ты быть основывающим решения на картах целых два года когда он пришёл?",
+            "english": "Had you been basing decisions on charts for two years when he came?",
+            "transcription": "[хæд ю: би:н б**э**йсиŋ дис**и**жнз он ча:тс фо: ту: йиэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been basing on",
+        "examples": [
+          {
+            "ours": "Мы уже два года основываем решения на прогнозах.",
+            "thought": "Мы имеем быть основывающими решения на прогнозах целых два года.",
+            "english": "We have been basing decisions on forecasts for two years.",
+            "transcription": "[wи: хæв би:н б**э**йсиŋ дис**и**жнз он ф**о**:ка:стс фо: ту: йиэз]"
+          },
+          {
+            "ours": "Ты уже два года основываешь решения на картах?",
+            "thought": "Имеешь ты быть основывающим решения на картах целых два года?",
+            "english": "Have you been basing decisions on charts for two years?",
+            "transcription": "[хæв ю: би:н б**э**йсиŋ дис**и**жнз он ча:тс фо: ту: йиэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been basing on",
+        "examples": [
+          {
+            "ours": "К июню мы будем основывать решения на прогнозах уже два года.",
+            "thought": "К июню мы будем иметь быть основывающими решения на прогнозах целых два года.",
+            "english": "By June we will have been basing decisions on forecasts for two years.",
+            "transcription": "[бай джу:н wи: wил хæв би:н б**э**йсиŋ дис**и**жнз он ф**о**:ка:стс фо: ту: йиэз]"
+          },
+          {
+            "ours": "К июню ты будешь основывать решения на картах уже два года?",
+            "thought": "Будешь ты иметь быть основывающим решения на картах целых два года к июню?",
+            "english": "Will you have been basing decisions on charts for two years by June?",
+            "transcription": "[wил ю: хæв би:н б**э**йсиŋ дис**и**жнз он ча:тс фо: ту: йиэз бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were based on",
+        "examples": [
+          {
+            "ours": "Вчера план был составлен на основе прогноза.",
+            "thought": "[Известный] план был основан на [известном] прогнозе вчера.",
+            "english": "The plan was based on the forecast yesterday.",
+            "transcription": "[ðэ плæн wоз бэйст он ðэ ф**о**:ка:ст й**э**стэдэй]"
+          },
+          {
+            "ours": "Маршрут был составлен на основе карты?",
+            "thought": "Был [известный] маршрут основан на [известной] карте?",
+            "english": "Was the route based on the chart?",
+            "transcription": "[wоз ðэ ру:т бэйст он ðэ ча:т]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are based on",
+        "examples": [
+          {
+            "ours": "План основан на прогнозе.",
+            "thought": "[Известный] план есть основан на [известном] прогнозе.",
+            "english": "The plan is based on the forecast.",
+            "transcription": "[ðэ плæн из бэйст он ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Маршрут основан на карте?",
+            "thought": "Есть [известный] маршрут основан на [известной] карте?",
+            "english": "Is the route based on the chart?",
+            "transcription": "[из ðэ ру:т бэйст он ðэ ча:т]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be based on",
+        "examples": [
+          {
+            "ours": "Завтра план составят на основе прогноза.",
+            "thought": "[Известный] план будет быть основан на [известном] прогнозе завтра.",
+            "english": "The plan will be based on the forecast tomorrow.",
+            "transcription": "[ðэ плæн wил би: бэйст он ðэ ф**о**:ка:ст тэм**о**роу]"
+          },
+          {
+            "ours": "Маршрут составят на основе карты?",
+            "thought": "Будет [известный] маршрут быть основан на [известной] карте?",
+            "english": "Will the route be based on the chart?",
+            "transcription": "[wил ðэ ру:т би: бэйст он ðэ ча:т]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being based on",
+        "examples": [
+          {
+            "ours": "Вчера решения весь день принимали на основе прогнозов.",
+            "thought": "Вчера решения были «долго» основаны на прогнозах весь день.",
+            "english": "Yesterday decisions were being based on forecasts all day.",
+            "transcription": "[й**э**стэдэй дис**и**жнз wœ: б**и**:иŋ бэйст он ф**о**:ка:стс о:л дэй]"
+          },
+          {
+            "ours": "План составляли на основе прогноза, когда ты пришёл?",
+            "thought": "Был [известный] план «долго» основан на [известном] прогнозе когда ты пришёл?",
+            "english": "Was the plan being based on the forecast when you came?",
+            "transcription": "[wоз ðэ плæн б**и**:иŋ бэйст он ðэ ф**о**:ка:ст wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being based on",
+        "examples": [
+          {
+            "ours": "Сейчас план составляют на основе прогноза.",
+            "thought": "[Известный] план есть «долго» основан на [известном] прогнозе сейчас.",
+            "english": "The plan is being based on the forecast now.",
+            "transcription": "[ðэ плæн из б**и**:иŋ бэйст он ðэ ф**о**:ка:ст нау]"
+          },
+          {
+            "ours": "Сейчас решение принимают на основе погоды?",
+            "thought": "Есть [известное] решение «долго» основано на [известной] погоде сейчас?",
+            "english": "Is the decision being based on the weather now?",
+            "transcription": "[из ðэ дис**и**жн б**и**:иŋ бэйст он ðэ w**э**ðэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be basing on",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут принимать решения на основе прогнозов.",
+            "thought": "Завтра они будут быть основывающими решения на прогнозах весь день.",
+            "english": "Tomorrow they will be basing decisions on forecasts all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: б**э**йсиŋ дис**и**жнз он ф**о**:ка:стс о:л дэй]"
+          },
+          {
+            "ours": "Они будут составлять план на основе прогноза до гонки?",
+            "thought": "Будут они быть основывающими [известный] план на [известном] прогнозе перед [известной] гонкой?",
+            "english": "Will they be basing the plan on the forecast before the race?",
+            "transcription": "[wил ðэй би: б**э**йсиŋ ðэ плæн он ðэ ф**о**:ка:ст биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been based on",
+        "examples": [
+          {
+            "ours": "Вчера к пяти план уже составили на основе прогноза.",
+            "thought": "К пяти вчера [известный] план имел уже быть основан на [известном] прогнозе.",
+            "english": "By five yesterday the plan had already been based on the forecast.",
+            "transcription": "[бай файв й**э**стэдэй ðэ плæн хæд о:лр**э**ди би:н бэйст он ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Маршрут составили на основе карты до гонки?",
+            "thought": "Имел [известный] маршрут быть основан на [известной] карте перед [известной] гонкой?",
+            "english": "Had the route been based on the chart before the race?",
+            "transcription": "[хæд ðэ ру:т би:н бэйст он ðэ ча:т биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been based on",
+        "examples": [
+          {
+            "ours": "План уже составлен на основе прогноза.",
+            "thought": "[Известный] план имеет уже быть основан на [известном] прогнозе.",
+            "english": "The plan has already been based on the forecast.",
+            "transcription": "[ðэ плæн хæз о:лр**э**ди би:н бэйст он ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Маршрут уже составлен на основе карты?",
+            "thought": "Имеет [известный] маршрут уже быть основан на [известной] карте?",
+            "english": "Has the route already been based on the chart?",
+            "transcription": "[хæз ðэ ру:т о:лр**э**ди би:н бэйст он ðэ ча:т]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been based on",
+        "examples": [
+          {
+            "ours": "К пяти завтра план уже составят на основе прогноза.",
+            "thought": "К пяти завтра [известный] план будет уже иметь быть основан на [известном] прогнозе.",
+            "english": "By five tomorrow the plan will already have been based on the forecast.",
+            "transcription": "[бай файв тэм**о**роу ðэ плæн wил о:лр**э**ди хæв би:н бэйст он ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Маршрут составят на основе карты до гонки?",
+            "thought": "Будет [известный] маршрут иметь быть основан на [известной] карте перед [известной] гонкой?",
+            "english": "Will the route have been based on the chart before the race?",
+            "transcription": "[wил ðэ ру:т хæв би:н бэйст он ðэ ча:т биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The plan has been based on the forecast. Или: They have been basing decisions on forecasts."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они составят план на основе прогноза.",
+        "thought": "[Известный] капитан сказал что они будут основывать [известный] план на [известном] прогнозе.",
+        "english": "The captain said that they would base the plan on the forecast.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд бэйс ðэ плæн он ðэ ф**о**:ка:ст]"
+      },
+      {
+        "ours": "Я знал, что ты не будешь основывать маршрут на старой карте.",
+        "thought": "Я знал что ты будешь не основывать [известный] маршрут на [известной] старой карте.",
+        "english": "I knew that you wouldn't base the route on the old chart.",
+        "transcription": "[ай нью: ðæт ю: wуднт бэйс ðэ ру:т он ðэ оулд ча:т]"
+      },
+      {
+        "ours": "Капитан сказал, что мы примем решение с учётом погоды.",
+        "thought": "[Известный] капитан сказал что мы будем основывать [известное] решение на [известной] погоде.",
+        "english": "The captain said that we would base the decision on the weather.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд бэйс ðэ дис**и**жн он ðэ w**э**ðэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "plan",
+      "meaning": "план",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "plan"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "decision",
+      "meaning": "решение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "decision"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "decisions"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "decision"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "decisions"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "decision"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "decisions"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "decisions"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "decisions"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "decisions"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "decisions"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "decisions"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "decisions"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "decisions"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "decision"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "decisions"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "decision"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "weather"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    }
+  ]
+}

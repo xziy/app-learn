@@ -1,0 +1,984 @@
+{
+  "spec": 4,
+  "verb": "form",
+  "forms": {
+    "base": [
+      {
+        "word": "form",
+        "transcription": "[фо:м]"
+      }
+    ],
+    "past": [
+      {
+        "word": "formed",
+        "transcription": "[фо:мд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "formed",
+        "transcription": "[фо:мд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "forming",
+        "transcription": "[ф**о**:миŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "forms",
+        "transcription": "[фо:мз]"
+      }
+    ]
+  },
+  "meaning": "формировать, образовываться",
+  "notes": "правильный переходный и непереходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "formed",
+        "examples": [
+          {
+            "ours": "Вчера экипаж сформировал спасательную команду.",
+            "thought": "Вчера [известный] экипаж сформировал [какую-то] спасательную команду.",
+            "english": "Yesterday the crew formed a rescue team.",
+            "transcription": "[й**э**стэдэй ðэ кру: фо:мд э р**э**скью: ти:м]"
+          },
+          {
+            "ours": "Лёд не образовался до гонки.",
+            "thought": "Лёд [сделал] не образовываться перед [известной] гонкой.",
+            "english": "Ice didn't form before the race.",
+            "transcription": "[айс диднт фо:м биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Капитан сформировал команду до выхода?",
+            "thought": "[Сделал] [известный] капитан формировать [какую-то] команду перед выходом?",
+            "english": "Did the captain form a team before departure?",
+            "transcription": "[дид ðэ к**æ**птин фо:м э ти:м биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "form, forms",
+        "examples": [
+          {
+            "ours": "Над морем образуются облака.",
+            "thought": "Облака образуются над [известным] морем.",
+            "english": "Clouds form over the sea.",
+            "transcription": "[клаудз фо:м **о**увэ ðэ си:]"
+          },
+          {
+            "ours": "Лёд не образуется в гавани каждый день.",
+            "thought": "Лёд [делает] не образовываться в [известной] гавани каждый день.",
+            "english": "Ice doesn't form in the harbor every day.",
+            "transcription": "[айс дазнт фо:м ин ðэ х**а**:бэ **э**ври дэй]"
+          },
+          {
+            "ours": "Экипаж формирует команду до гонки?",
+            "thought": "[Делает] [известный] экипаж формировать [какую-то] команду перед [известной] гонкой?",
+            "english": "Does the crew form a team before the race?",
+            "transcription": "[даз ðэ кру: фо:м э ти:м биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will form",
+        "examples": [
+          {
+            "ours": "Завтра экипаж сформирует команду.",
+            "thought": "Завтра [известный] экипаж будет формировать [какую-то] команду.",
+            "english": "Tomorrow the crew will form a team.",
+            "transcription": "[тэм**о**роу ðэ кру: wил фо:м э ти:м]"
+          },
+          {
+            "ours": "Облака не образуются до утра.",
+            "thought": "Облака будут не образовываться перед утром.",
+            "english": "Clouds won't form before morning.",
+            "transcription": "[клаудз wоунт фо:м биф**о**: м**о**:ниŋ]"
+          },
+          {
+            "ours": "Лёд образуется в гавани?",
+            "thought": "Будет лёд образовываться в [известной] гавани?",
+            "english": "Will ice form in the harbor?",
+            "transcription": "[wил айс фо:м ин ðэ х**а**:бэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were forming",
+        "examples": [
+          {
+            "ours": "Вчера весь день над морем образовывались облака.",
+            "thought": "Вчера облака были образующимися над [известным] морем весь день.",
+            "english": "Yesterday clouds were forming over the sea all day.",
+            "transcription": "[й**э**стэдэй клаудз wœ: ф**о**:миŋ **о**увэ ðэ си: о:л дэй]"
+          },
+          {
+            "ours": "Экипаж формировал команду, когда я пришёл?",
+            "thought": "Был [известный] экипаж формирующим [какую-то] команду когда я пришёл?",
+            "english": "Was the crew forming a team when I came?",
+            "transcription": "[wоз ðэ кру: ф**о**:миŋ э ти:м wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are forming",
+        "examples": [
+          {
+            "ours": "Сейчас лёд образуется в гавани.",
+            "thought": "Лёд является образующимся в [известной] гавани сейчас.",
+            "english": "Ice is forming in the harbor now.",
+            "transcription": "[айс из ф**о**:миŋ ин ðэ х**а**:бэ нау]"
+          },
+          {
+            "ours": "Экипаж сейчас формирует команду?",
+            "thought": "Является [известный] экипаж формирующим [какую-то] команду сейчас?",
+            "english": "Is the crew forming a team now?",
+            "transcription": "[из ðэ кру: ф**о**:миŋ э ти:м нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be forming",
+        "examples": [
+          {
+            "ours": "Завтра лёд будет образовываться в гавани весь день.",
+            "thought": "Завтра лёд будет быть образующимся в [известной] гавани весь день.",
+            "english": "Tomorrow ice will be forming in the harbor all day.",
+            "transcription": "[тэм**о**роу айс wил би: ф**о**:миŋ ин ðэ х**а**:бэ о:л дэй]"
+          },
+          {
+            "ours": "Экипаж будет формировать команду до гонки?",
+            "thought": "Будет [известный] экипаж быть формирующим [какую-то] команду перед [известной] гонкой?",
+            "english": "Will the crew be forming a team before the race?",
+            "transcription": "[wил ðэ кру: би: ф**о**:миŋ э ти:м биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had formed",
+        "examples": [
+          {
+            "ours": "Вчера к пяти над морем уже образовались облака.",
+            "thought": "К пяти вчера облака имели уже образовавшимся над [известным] морем.",
+            "english": "By five yesterday clouds had already formed over the sea.",
+            "transcription": "[бай файв й**э**стэдэй клаудз хæд о:лр**э**ди фо:мд **о**увэ ðэ си:]"
+          },
+          {
+            "ours": "Экипаж сформировал команду до гонки?",
+            "thought": "Имел [известный] экипаж сформированной [какую-то] команду перед [известной] гонкой?",
+            "english": "Had the crew formed a team before the race?",
+            "transcription": "[хæд ðэ кру: фо:мд э ти:м биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has formed",
+        "examples": [
+          {
+            "ours": "В гавани уже образовался лёд.",
+            "thought": "Лёд имеет уже образовавшимся в [известной] гавани.",
+            "english": "Ice has already formed in the harbor.",
+            "transcription": "[айс хæз о:лр**э**ди фо:мд ин ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Капитан уже сформировал команду?",
+            "thought": "Имеет [известный] капитан уже сформированной [какую-то] команду?",
+            "english": "Has the captain already formed a team?",
+            "transcription": "[хæз ðэ к**æ**птин о:лр**э**ди фо:мд э ти:м]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have formed",
+        "examples": [
+          {
+            "ours": "Завтра к пяти лёд уже образуется в гавани.",
+            "thought": "К пяти завтра лёд будет иметь уже образовавшимся в [известной] гавани.",
+            "english": "By five tomorrow ice will have already formed in the harbor.",
+            "transcription": "[бай файв тэм**о**роу айс wил хæв о:лр**э**ди фо:мд ин ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Экипаж сформирует команду до гонки?",
+            "thought": "Будет [известный] экипаж иметь сформированной [какую-то] команду перед [известной] гонкой?",
+            "english": "Will the crew have formed a team before the race?",
+            "transcription": "[wил ðэ кру: хæв фо:мд э ти:м биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been forming",
+        "examples": [
+          {
+            "ours": "Лёд уже два часа образовывался в гавани, когда ты пришёл.",
+            "thought": "Лёд имел быть образующимся в [известной] гавани целых два часа когда ты пришёл.",
+            "english": "Ice had been forming in the harbor for two hours when you came.",
+            "transcription": "[айс хæд би:н ф**о**:миŋ ин ðэ х**а**:бэ фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Облака уже два часа образовывались над морем, когда он пришёл?",
+            "thought": "Имели облака быть образующимися над [известным] морем целых два часа когда он пришёл?",
+            "english": "Had clouds been forming over the sea for two hours when he came?",
+            "transcription": "[хæд клаудз би:н ф**о**:миŋ **о**увэ ðэ си: фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been forming",
+        "examples": [
+          {
+            "ours": "Лёд уже два часа образуется в гавани.",
+            "thought": "Лёд имеет быть образующимся в [известной] гавани целых два часа.",
+            "english": "Ice has been forming in the harbor for two hours.",
+            "transcription": "[айс хæз би:н ф**о**:миŋ ин ðэ х**а**:бэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Облака уже два часа образуются над морем?",
+            "thought": "Имеют облака быть образующимися над [известным] морем целых два часа?",
+            "english": "Have clouds been forming over the sea for two hours?",
+            "transcription": "[хæв клаудз би:н ф**о**:миŋ **о**увэ ðэ си: фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been forming",
+        "examples": [
+          {
+            "ours": "К пяти лёд будет образовываться в гавани уже два часа.",
+            "thought": "К пяти лёд будет иметь быть образующимся в [известной] гавани целых два часа.",
+            "english": "By five ice will have been forming in the harbor for two hours.",
+            "transcription": "[бай файв айс wил хæв би:н ф**о**:миŋ ин ðэ х**а**:бэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти облака будут образовываться над морем уже два часа?",
+            "thought": "Будут облака иметь быть образующимися над [известным] морем целых два часа к пяти?",
+            "english": "Will clouds have been forming over the sea for two hours by five?",
+            "transcription": "[wил клаудз хæв би:н ф**о**:миŋ **о**увэ ðэ си: фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were formed",
+        "examples": [
+          {
+            "ours": "Вчера сформировали спасательную команду.",
+            "thought": "[Какая-то] спасательная команда была сформирована вчера.",
+            "english": "A rescue team was formed yesterday.",
+            "transcription": "[э р**э**скью: ти:м wоз фо:мд й**э**стэдэй]"
+          },
+          {
+            "ours": "Команду сформировали до гонки?",
+            "thought": "Была [какая-то] команда сформирована перед [известной] гонкой?",
+            "english": "Was a team formed before the race?",
+            "transcription": "[wоз э ти:м фо:мд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are formed",
+        "examples": [
+          {
+            "ours": "Перед каждой гонкой формируют команды.",
+            "thought": "Команды есть сформированы перед каждой гонкой.",
+            "english": "Teams are formed before each race.",
+            "transcription": "[ти:мз а: фо:мд биф**о**: и:ч рэйс]"
+          },
+          {
+            "ours": "Перед выходом формируют спасательную команду?",
+            "thought": "Есть [какая-то] спасательная команда сформирована перед выходом?",
+            "english": "Is a rescue team formed before departure?",
+            "transcription": "[из э р**э**скью: ти:м фо:мд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be formed",
+        "examples": [
+          {
+            "ours": "Завтра сформируют спасательную команду.",
+            "thought": "[Какая-то] спасательная команда будет быть сформирована завтра.",
+            "english": "A rescue team will be formed tomorrow.",
+            "transcription": "[э р**э**скью: ти:м wил би: фо:мд тэм**о**роу]"
+          },
+          {
+            "ours": "Команду сформируют до гонки?",
+            "thought": "Будет [какая-то] команда быть сформирована перед [известной] гонкой?",
+            "english": "Will a team be formed before the race?",
+            "transcription": "[wил э ти:м би: фо:мд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being formed",
+        "examples": [
+          {
+            "ours": "Вчера весь день формировали спасательные команды.",
+            "thought": "Вчера спасательные команды были «долго» сформированы весь день.",
+            "english": "Yesterday rescue teams were being formed all day.",
+            "transcription": "[й**э**стэдэй р**э**скью: ти:мз wœ: б**и**:иŋ фо:мд о:л дэй]"
+          },
+          {
+            "ours": "Команду формировали, когда ты пришёл?",
+            "thought": "Была [какая-то] команда «долго» сформирована когда ты пришёл?",
+            "english": "Was a team being formed when you came?",
+            "transcription": "[wоз э ти:м б**и**:иŋ фо:мд wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being formed",
+        "examples": [
+          {
+            "ours": "Сейчас формируют спасательную команду.",
+            "thought": "[Какая-то] спасательная команда есть «долго» сформирована сейчас.",
+            "english": "A rescue team is being formed now.",
+            "transcription": "[э р**э**скью: ти:м из б**и**:иŋ фо:мд нау]"
+          },
+          {
+            "ours": "Сейчас формируют команду?",
+            "thought": "Есть [какая-то] команда «долго» сформирована сейчас?",
+            "english": "Is a team being formed now?",
+            "transcription": "[из э ти:м б**и**:иŋ фо:мд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be forming",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут формировать спасательные команды.",
+            "thought": "Завтра они будут быть формирующими спасательные команды весь день.",
+            "english": "Tomorrow they will be forming rescue teams all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: ф**о**:миŋ р**э**скью: ти:мз о:л дэй]"
+          },
+          {
+            "ours": "Они будут формировать команду до гонки?",
+            "thought": "Будут они быть формирующими [какую-то] команду перед [известной] гонкой?",
+            "english": "Will they be forming a team before the race?",
+            "transcription": "[wил ðэй би: ф**о**:миŋ э ти:м биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been formed",
+        "examples": [
+          {
+            "ours": "Вчера к пяти спасательную команду уже сформировали.",
+            "thought": "К пяти вчера [какая-то] спасательная команда имела уже быть сформирована.",
+            "english": "By five yesterday a rescue team had already been formed.",
+            "transcription": "[бай файв й**э**стэдэй э р**э**скью: ти:м хæд о:лр**э**ди би:н фо:мд]"
+          },
+          {
+            "ours": "Команду сформировали до гонки?",
+            "thought": "Имела [какая-то] команда быть сформирована перед [известной] гонкой?",
+            "english": "Had a team been formed before the race?",
+            "transcription": "[хæд э ти:м би:н фо:мд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been formed",
+        "examples": [
+          {
+            "ours": "Спасательную команду уже сформировали.",
+            "thought": "[Какая-то] спасательная команда имеет уже быть сформирована.",
+            "english": "A rescue team has already been formed.",
+            "transcription": "[э р**э**скью: ти:м хæз о:лр**э**ди би:н фо:мд]"
+          },
+          {
+            "ours": "Команду уже сформировали?",
+            "thought": "Имеет [какая-то] команда уже быть сформирована?",
+            "english": "Has a team already been formed?",
+            "transcription": "[хæз э ти:м о:лр**э**ди би:н фо:мд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been formed",
+        "examples": [
+          {
+            "ours": "К пяти завтра спасательную команду уже сформируют.",
+            "thought": "К пяти завтра [какая-то] спасательная команда будет уже иметь быть сформирована.",
+            "english": "By five tomorrow a rescue team will already have been formed.",
+            "transcription": "[бай файв тэм**о**роу э р**э**скью: ти:м wил о:лр**э**ди хæв би:н фо:мд]"
+          },
+          {
+            "ours": "Команду сформируют до гонки?",
+            "thought": "Будет [какая-то] команда иметь быть сформирована перед [известной] гонкой?",
+            "english": "Will a team have been formed before the race?",
+            "transcription": "[wил э ти:м хæв би:н фо:мд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: A team has been formed. Или: They have been forming teams."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они сформируют команду.",
+        "thought": "[Известный] капитан сказал что они будут формировать [какую-то] команду.",
+        "english": "The captain said that they would form a team.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд фо:м э ти:м]"
+      },
+      {
+        "ours": "Я знал, что лёд не образуется до утра.",
+        "thought": "Я знал что лёд будет не образовываться перед утром.",
+        "english": "I knew that ice wouldn't form before morning.",
+        "transcription": "[ай нью: ðæт айс wуднт фо:м биф**о**: м**о**:ниŋ]"
+      },
+      {
+        "ours": "Капитан сказал, что мы сформируем спасательную команду.",
+        "thought": "[Известный] капитан сказал что мы будем формировать [какую-то] спасательную команду.",
+        "english": "The captain said that we would form a rescue team.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд фо:м э р**э**скью: ти:м]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "rescue",
+      "meaning": "спасение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "rescue"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "rescue"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "rescue"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "rescue"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "rescue"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "rescue"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "rescue"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "rescue"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "rescue"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "rescue"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "rescue"
+        }
+      ]
+    },
+    {
+      "word": "team",
+      "meaning": "команда",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "team"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "team"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "team"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "team"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "team"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "team"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "team"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "team"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "team"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "team"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "team"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "team"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Teams"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "team"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "team"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "team"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "teams"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "team"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "team"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "team"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "teams"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "team"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "team"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "team"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "team"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "team"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "team"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "team"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "team"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "team"
+        }
+      ]
+    },
+    {
+      "word": "ice",
+      "meaning": "лёд",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "Ice"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "Ice"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "ice"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "Ice"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "ice"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "Ice"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "ice"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "Ice"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "Ice"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "ice"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "ice"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "выход",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "cloud",
+      "meaning": "облако",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "Clouds"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "Clouds"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "clouds"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "clouds"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "clouds"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "clouds"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "clouds"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "morning"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    }
+  ]
+}

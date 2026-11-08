@@ -1,0 +1,607 @@
+{
+  "spec": 4,
+  "verb": "rise",
+  "forms": {
+    "base": [
+      {
+        "word": "rise",
+        "transcription": "[райз]"
+      }
+    ],
+    "past": [
+      {
+        "word": "rose",
+        "transcription": "[роуз]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "risen",
+        "transcription": "[р**и**зн]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "rising",
+        "transcription": "[р**а**йзиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "rises",
+        "transcription": "[р**а**йзиз]"
+      }
+    ]
+  },
+  "meaning": "подниматься, расти, усиливаться",
+  "notes": "неправильный непереходный глагол; пассив не образуется",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "rose",
+        "examples": [
+          {
+            "ours": "Вчера ветер усилился.",
+            "thought": "Вчера [известный] ветер поднялся.",
+            "english": "Yesterday the wind rose.",
+            "transcription": "[й**э**стэдэй ðэ wинд роуз]"
+          },
+          {
+            "ours": "Волны не поднялись во время гонки.",
+            "thought": "[Известные] волны [сделали] не подниматься во время [известной] гонки.",
+            "english": "The waves didn't rise during the race.",
+            "transcription": "[ðэ wэйвз диднт райз дь**ю**эриŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Давление поднялось до гонки?",
+            "thought": "[Сделало] [известное] давление подниматься перед [известной] гонкой?",
+            "english": "Did the pressure rise before the race?",
+            "transcription": "[дид ðэ пр**э**шэ райз биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "rise, rises",
+        "examples": [
+          {
+            "ours": "Уровень воды поднимается с приливом.",
+            "thought": "[Известный] воды уровень поднимается с [известным] приливом.",
+            "english": "The water level rises with the tide.",
+            "transcription": "[ðэ w**о**:тэ л**э**вл р**а**йзиз wиð ðэ тайд]"
+          },
+          {
+            "ours": "Давление не поднимается быстро.",
+            "thought": "[Известное] давление [делает] не подниматься быстро.",
+            "english": "The pressure doesn't rise quickly.",
+            "transcription": "[ðэ пр**э**шэ дазнт райз кw**и**кли]"
+          },
+          {
+            "ours": "Ветер обычно усиливается ночью?",
+            "thought": "[Делает] [известный] ветер часто подниматься в ночь?",
+            "english": "Does the wind often rise at night?",
+            "transcription": "[даз ðэ wинд **о**фэн райз æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will rise",
+        "examples": [
+          {
+            "ours": "Завтра ветер усилится.",
+            "thought": "Завтра [известный] ветер будет подниматься.",
+            "english": "Tomorrow the wind will rise.",
+            "transcription": "[тэм**о**роу ðэ wинд wил райз]"
+          },
+          {
+            "ours": "Уровень воды не поднимется до утра.",
+            "thought": "[Известный] воды уровень будет не подниматься перед утром.",
+            "english": "The water level won't rise before morning.",
+            "transcription": "[ðэ w**о**:тэ л**э**вл wоунт райз биф**о**: м**о**:ниŋ]"
+          },
+          {
+            "ours": "Давление поднимется до шторма?",
+            "thought": "Будет [известное] давление подниматься перед [известным] штормом?",
+            "english": "Will the pressure rise before the storm?",
+            "transcription": "[wил ðэ пр**э**шэ райз биф**о**: ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were rising",
+        "examples": [
+          {
+            "ours": "Вчера давление поднималось весь день.",
+            "thought": "Вчера [известное] давление было поднимающимся весь день.",
+            "english": "Yesterday the pressure was rising all day.",
+            "transcription": "[й**э**стэдэй ðэ пр**э**шэ wоз р**а**йзиŋ о:л дэй]"
+          },
+          {
+            "ours": "Ветер усиливался, когда я пришёл?",
+            "thought": "Был [известный] ветер поднимающимся когда я пришёл?",
+            "english": "Was the wind rising when I came?",
+            "transcription": "[wоз ðэ wинд р**а**йзиŋ wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are rising",
+        "examples": [
+          {
+            "ours": "Сейчас уровень воды поднимается.",
+            "thought": "[Известный] воды уровень является поднимающимся сейчас.",
+            "english": "The water level is rising now.",
+            "transcription": "[ðэ w**о**:тэ л**э**вл из р**а**йзиŋ нау]"
+          },
+          {
+            "ours": "Давление сейчас поднимается?",
+            "thought": "Является [известное] давление поднимающимся сейчас?",
+            "english": "Is the pressure rising now?",
+            "transcription": "[из ðэ пр**э**шэ р**а**йзиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be rising",
+        "examples": [
+          {
+            "ours": "Завтра уровень воды будет подниматься весь день.",
+            "thought": "Завтра [известный] воды уровень будет быть поднимающимся весь день.",
+            "english": "Tomorrow the water level will be rising all day.",
+            "transcription": "[тэм**о**роу ðэ w**о**:тэ л**э**вл wил би: р**а**йзиŋ о:л дэй]"
+          },
+          {
+            "ours": "Давление будет подниматься во время гонки?",
+            "thought": "Будет [известное] давление быть поднимающимся во время [известной] гонки?",
+            "english": "Will the pressure be rising during the race?",
+            "transcription": "[wил ðэ пр**э**шэ би: р**а**йзиŋ дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had risen",
+        "examples": [
+          {
+            "ours": "Вчера к пяти давление уже поднялось.",
+            "thought": "К пяти вчера [известное] давление имело уже поднявшимся.",
+            "english": "By five yesterday the pressure had already risen.",
+            "transcription": "[бай файв й**э**стэдэй ðэ пр**э**шэ хæд о:лр**э**ди р**и**зн]"
+          },
+          {
+            "ours": "Ветер усилился до гонки?",
+            "thought": "Имел [известный] ветер поднявшимся перед [известной] гонкой?",
+            "english": "Had the wind risen before the race?",
+            "transcription": "[хæд ðэ wинд р**и**зн биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has risen",
+        "examples": [
+          {
+            "ours": "Давление уже поднялось.",
+            "thought": "[Известное] давление имеет уже поднявшимся.",
+            "english": "The pressure has already risen.",
+            "transcription": "[ðэ пр**э**шэ хæз о:лр**э**ди р**и**зн]"
+          },
+          {
+            "ours": "Уровень воды уже поднялся?",
+            "thought": "Имеет [известный] воды уровень уже поднявшимся?",
+            "english": "Has the water level already risen?",
+            "transcription": "[хæз ðэ w**о**:тэ л**э**вл о:лр**э**ди р**и**зн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have risen",
+        "examples": [
+          {
+            "ours": "Завтра к пяти давление уже поднимется.",
+            "thought": "К пяти завтра [известное] давление будет иметь уже поднявшимся.",
+            "english": "By five tomorrow the pressure will have already risen.",
+            "transcription": "[бай файв тэм**о**роу ðэ пр**э**шэ wил хæв о:лр**э**ди р**и**зн]"
+          },
+          {
+            "ours": "Уровень воды поднимется до утра?",
+            "thought": "Будет [известный] воды уровень иметь поднявшимся перед утром?",
+            "english": "Will the water level have risen before morning?",
+            "transcription": "[wил ðэ w**о**:тэ л**э**вл хæв р**и**зн биф**о**: м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been rising",
+        "examples": [
+          {
+            "ours": "Давление поднималось уже два часа, когда ты пришёл.",
+            "thought": "[Известное] давление имело быть поднимающимся целых два часа когда ты пришёл.",
+            "english": "The pressure had been rising for two hours when you came.",
+            "transcription": "[ðэ пр**э**шэ хæд би:н р**а**йзиŋ фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ветер усиливался уже два часа, когда он пришёл?",
+            "thought": "Имел [известный] ветер быть поднимающимся целых два часа когда он пришёл?",
+            "english": "Had the wind been rising for two hours when he came?",
+            "transcription": "[хæд ðэ wинд би:н р**а**йзиŋ фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been rising",
+        "examples": [
+          {
+            "ours": "Давление поднимается уже два часа.",
+            "thought": "[Известное] давление имеет быть поднимающимся целых два часа.",
+            "english": "The pressure has been rising for two hours.",
+            "transcription": "[ðэ пр**э**шэ хæз би:н р**а**йзиŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Уровень воды поднимается уже два часа?",
+            "thought": "Имеет [известный] воды уровень быть поднимающимся целых два часа?",
+            "english": "Has the water level been rising for two hours?",
+            "transcription": "[хæз ðэ w**о**:тэ л**э**вл би:н р**а**йзиŋ фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been rising",
+        "examples": [
+          {
+            "ours": "К пяти давление будет подниматься уже два часа.",
+            "thought": "К пяти [известное] давление будет иметь быть поднимающимся целых два часа.",
+            "english": "By five the pressure will have been rising for two hours.",
+            "transcription": "[бай файв ðэ пр**э**шэ wил хæв би:н р**а**йзиŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти уровень воды будет подниматься уже два часа?",
+            "thought": "Будет [известный] воды уровень иметь быть поднимающимся целых два часа к пяти?",
+            "english": "Will the water level have been rising for two hours by five?",
+            "transcription": "[wил ðэ w**о**:тэ л**э**вл хæв би:н р**а**йзиŋ фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "В значении «падать, снижаться» rise — непереходный глагол без прямого дополнения, пассив не образуется. Скажут: The pressure has risen."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что ветер усилится.",
+        "thought": "[Известный] капитан сказал что [известный] ветер будет подниматься.",
+        "english": "The captain said that the wind would rise.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ wинд wуд райз]"
+      },
+      {
+        "ours": "Я знал, что давление не поднимется.",
+        "thought": "Я знал что [известное] давление будет не подниматься.",
+        "english": "I knew that the pressure wouldn't rise.",
+        "transcription": "[ай нью: ðæт ðэ пр**э**шэ wуднт райз]"
+      },
+      {
+        "ours": "Капитан сказал, что уровень воды поднимется.",
+        "thought": "[Известный] капитан сказал что [известный] воды уровень будет подниматься.",
+        "english": "The captain said that the water level would rise.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ w**о**:тэ л**э**вл wуд райз]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "wave",
+      "meaning": "волна",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "waves"
+        }
+      ]
+    },
+    {
+      "word": "pressure",
+      "meaning": "давление",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "pressure"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "water"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "level",
+      "meaning": "уровень",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "level"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "level"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "level"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "level"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "level"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "level"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "level"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "level"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "level"
+        }
+      ]
+    },
+    {
+      "word": "tide",
+      "meaning": "прилив, отлив",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "tide"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,716 @@
+{
+  "spec": 4,
+  "verb": "reach",
+  "forms": {
+    "base": [
+      {
+        "word": "reach",
+        "transcription": "[ри:ч]"
+      }
+    ],
+    "past": [
+      {
+        "word": "reached",
+        "transcription": "[ри:чт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "reached",
+        "transcription": "[ри:чт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "reaching",
+        "transcription": "[р**и**:чиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "reaches",
+        "transcription": "[р**и**:чиз]"
+      }
+    ]
+  },
+  "meaning": "достигать, добираться до",
+  "notes": "правильный переходный глагол; без предлога перед местом назначения",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "reached",
+        "examples": [
+          {
+            "ours": "Вчера мы достигли гавани.",
+            "thought": "Вчера мы достигли [известную] гавань.",
+            "english": "Yesterday we reached the harbor.",
+            "transcription": "[й**э**стэдэй wи: ри:чт ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Яхта не достигла острова.",
+            "thought": "[Известная] яхта [сделала] не достигать [известный] остров.",
+            "english": "The yacht did not reach the island.",
+            "transcription": "[ðэ йот дид нот ри:ч ðи **а**йлэнд]"
+          },
+          {
+            "ours": "Ты достиг буя?",
+            "thought": "[Сделал] ты достигать [известный] буй?",
+            "english": "Did you reach the buoy?",
+            "transcription": "[дид ю: ри:ч ðэ бой]"
+          }
+        ]
+      },
+      "present": {
+        "form": "reach, reaches",
+        "examples": [
+          {
+            "ours": "Мы достигаем бухты к вечеру.",
+            "thought": "Мы достигаем [известную] бухту к вечеру.",
+            "english": "We reach the bay by evening.",
+            "transcription": "[wи: ри:ч ðэ бэй бай **и**:вниŋ]"
+          },
+          {
+            "ours": "Эта яхта не достигает берега до темноты.",
+            "thought": "Эта яхта [делает] не достигать [известный] берег до темноты.",
+            "english": "This yacht does not reach the shore before dark.",
+            "transcription": "[ðис йот даз нот ри:ч ðэ шо: биф**о**: да:к]"
+          },
+          {
+            "ours": "Ты достигаешь причала до полудня?",
+            "thought": "[Делаешь] ты достигать [известный] причал до полудня?",
+            "english": "Do you reach the dock before noon?",
+            "transcription": "[ду: ю: ри:ч ðэ док биф**о**: ну:н]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will reach",
+        "examples": [
+          {
+            "ours": "Завтра мы достигнем гавани.",
+            "thought": "Завтра мы будем достигать [известную] гавань.",
+            "english": "Tomorrow we will reach the harbor.",
+            "transcription": "[тэм**о**роу wи: wил ри:ч ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Яхта не достигнет острова.",
+            "thought": "[Известная] яхта будет не достигать [известный] остров.",
+            "english": "The yacht will not reach the island.",
+            "transcription": "[ðэ йот wил нот ри:ч ðи **а**йлэнд]"
+          },
+          {
+            "ours": "Ты достигнешь буя?",
+            "thought": "Будешь ты достигать [известный] буй?",
+            "english": "Will you reach the buoy?",
+            "transcription": "[wил ю: ри:ч ðэ бой]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were reaching",
+        "examples": [
+          {
+            "ours": "Яхта как раз подходила к причалу, когда поднялся ветер.",
+            "thought": "[Известная] яхта была достигающей [известный] причал, когда [известный] ветер поднялся.",
+            "english": "The yacht was reaching the dock when the wind rose.",
+            "transcription": "[ðэ йот wоз р**и**:чиŋ ðэ док wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты как раз достигал острова, когда я позвонил?",
+            "thought": "Был ты достигающим [известный] остров, когда я позвонил?",
+            "english": "Were you reaching the island when I called?",
+            "transcription": "[wœ: ю: р**и**:чиŋ ðи **а**йлэнд wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are reaching",
+        "examples": [
+          {
+            "ours": "Яхта сейчас подходит к причалу.",
+            "thought": "[Известная] яхта является достигающей [известный] причал сейчас.",
+            "english": "The yacht is reaching the dock now.",
+            "transcription": "[ðэ йот из р**и**:чиŋ ðэ док нау]"
+          },
+          {
+            "ours": "Вода сейчас не доходит до кокпита.",
+            "thought": "[Известная] вода является не достигающей [известный] кокпит сейчас.",
+            "english": "The water is not reaching the cockpit now.",
+            "transcription": "[ðэ w**о**:тэ из нот р**и**:чиŋ ðэ к**о**кпит нау]"
+          },
+          {
+            "ours": "Вода сейчас доходит до палубы?",
+            "thought": "Является [известная] вода достигающей [известную] палубу сейчас?",
+            "english": "Is the water reaching the deck now?",
+            "transcription": "[из ðэ w**о**:тэ р**и**:чиŋ ðэ дэк нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be reaching",
+        "examples": [
+          {
+            "ours": "Завтра в пять мы будем подходить к острову.",
+            "thought": "Завтра в пять мы будем быть достигающими [известный] остров.",
+            "english": "Tomorrow at five we will be reaching the island.",
+            "transcription": "[тэм**о**роу æт файв wи: wил би: р**и**:чиŋ ðи **а**йлэнд]"
+          },
+          {
+            "ours": "Ты будешь подходить к причалу в шесть?",
+            "thought": "Будешь ты быть достигающим [известный] причал в шесть?",
+            "english": "Will you be reaching the dock at six?",
+            "transcription": "[wил ю: би: р**и**:чиŋ ðэ док æт сикс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had reached",
+        "examples": [
+          {
+            "ours": "К полудню мы уже достигли гавани.",
+            "thought": "К полудню мы имели уже достигнутой [известную] гавань.",
+            "english": "By noon we had already reached the harbor.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди ри:чт ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "К тому времени яхта ещё не достигла острова.",
+            "thought": "К тогда [известная] яхта имела не достигнутым [известный] остров ещё.",
+            "english": "By then the yacht had not reached the island yet.",
+            "transcription": "[бай ðэн ðэ йот хæд нот ри:чт ðи **а**йлэнд йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has reached",
+        "examples": [
+          {
+            "ours": "Мы уже достигли гавани.",
+            "thought": "Мы имеем уже достигнутой [известную] гавань.",
+            "english": "We have already reached the harbor.",
+            "transcription": "[wи: хæв о:лр**э**ди ри:чт ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Яхта ещё не достигла острова.",
+            "thought": "[Известная] яхта имеет не достигнутым [известный] остров ещё.",
+            "english": "The yacht has not reached the island yet.",
+            "transcription": "[ðэ йот хæз нот ри:чт ðи **а**йлэнд йэт]"
+          },
+          {
+            "ours": "Ты уже достиг буя?",
+            "thought": "Имеешь ты достигнутым [известный] буй уже?",
+            "english": "Have you reached the buoy yet?",
+            "transcription": "[хæв ю: ри:чт ðэ бой йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have reached",
+        "examples": [
+          {
+            "ours": "К полудню мы достигнем гавани.",
+            "thought": "К полудню мы будем иметь достигнутой [известную] гавань.",
+            "english": "By noon we will have reached the harbor.",
+            "transcription": "[бай ну:н wи: wил хæв ри:чт ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "К пяти ты достигнешь острова?",
+            "thought": "Будешь ты иметь достигнутым [известный] остров к пяти?",
+            "english": "Will you have reached the island by five?",
+            "transcription": "[wил ю: хæв ри:чт ðи **а**йлэнд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для однократного достижения точки длительный perfect обычно не употребляют. Скажут: We have reached the harbor. При повторяющихся действиях он возможен в других контекстах."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were reached",
+        "examples": [
+          {
+            "ours": "Гавани достигли вчера.",
+            "thought": "[Известная] гавань была достигнута вчера.",
+            "english": "The harbor was reached yesterday.",
+            "transcription": "[ðэ х**а**:бэ wоз ри:чт й**э**стэдэй]"
+          },
+          {
+            "ours": "Острова не достигли.",
+            "thought": "[Известный] остров был не достигнут.",
+            "english": "The island was not reached.",
+            "transcription": "[ðи **а**йлэнд wоз нот ри:чт]"
+          },
+          {
+            "ours": "Буя достигли?",
+            "thought": "Был [известный] буй достигнут?",
+            "english": "Was the buoy reached?",
+            "transcription": "[wоз ðэ бой ри:чт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are reached",
+        "examples": [
+          {
+            "ours": "Бухты достигают к вечеру.",
+            "thought": "[Известная] бухта есть достигнута к вечеру.",
+            "english": "The bay is reached by evening.",
+            "transcription": "[ðэ бэй из ри:чт бай **и**:вниŋ]"
+          },
+          {
+            "ours": "Этот остров не достигают за день.",
+            "thought": "Этот остров есть не достигнут за [какой-то] день.",
+            "english": "This island is not reached in a day.",
+            "transcription": "[ðис **а**йлэнд из нот ри:чт ин э дэй]"
+          },
+          {
+            "ours": "Причала достигают до полудня?",
+            "thought": "Есть [известный] причал достигнут до полудня?",
+            "english": "Is the dock reached before noon?",
+            "transcription": "[из ðэ док ри:чт биф**о**: ну:н]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be reached",
+        "examples": [
+          {
+            "ours": "Завтра достигнут гавани.",
+            "thought": "Завтра [известная] гавань будет быть достигнута.",
+            "english": "Tomorrow the harbor will be reached.",
+            "transcription": "[тэм**о**роу ðэ х**а**:бэ wил би: ри:чт]"
+          },
+          {
+            "ours": "Острова не достигнут.",
+            "thought": "[Известный] остров будет не быть достигнут.",
+            "english": "The island will not be reached.",
+            "transcription": "[ðи **а**йлэнд wил нот би: ри:чт]"
+          },
+          {
+            "ours": "Буя достигнут завтра?",
+            "thought": "Будет [известный] буй быть достигнут завтра?",
+            "english": "Will the buoy be reached tomorrow?",
+            "transcription": "[wил ðэ бой би: ри:чт тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Для прибытия в точку длительный пассив звучит неестественно. Скажут: The yacht is reaching the dock; в будущем: They will be reaching the island at five."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been reached",
+        "examples": [
+          {
+            "ours": "К полудню гавани уже достигли.",
+            "thought": "К полудню [известная] гавань имела уже быть достигнута.",
+            "english": "By noon the harbor had already been reached.",
+            "transcription": "[бай ну:н ðэ х**а**:бэ хæд о:лр**э**ди би:н ри:чт]"
+          },
+          {
+            "ours": "К тому времени острова ещё не достигли.",
+            "thought": "К тогда [известный] остров имел не быть достигнут ещё.",
+            "english": "By then the island had not been reached yet.",
+            "transcription": "[бай ðэн ðи **а**йлэнд хæд нот би:н ри:чт йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been reached",
+        "examples": [
+          {
+            "ours": "Гавани уже достигли.",
+            "thought": "[Известная] гавань имеет уже быть достигнута.",
+            "english": "The harbor has already been reached.",
+            "transcription": "[ðэ х**а**:бэ хæз о:лр**э**ди би:н ри:чт]"
+          },
+          {
+            "ours": "Острова ещё не достигли.",
+            "thought": "[Известный] остров имеет не быть достигнут ещё.",
+            "english": "The island has not been reached yet.",
+            "transcription": "[ðи **а**йлэнд хæз нот би:н ри:чт йэт]"
+          },
+          {
+            "ours": "Буя уже достигли?",
+            "thought": "Имеет [известный] буй быть достигнут уже?",
+            "english": "Has the buoy been reached yet?",
+            "transcription": "[хæз ðэ бой би:н ри:чт йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been reached",
+        "examples": [
+          {
+            "ours": "К полудню гавани достигнут.",
+            "thought": "К полудню [известная] гавань будет иметь быть достигнута.",
+            "english": "By noon the harbor will have been reached.",
+            "transcription": "[бай ну:н ðэ х**а**:бэ wил хæв би:н ри:чт]"
+          },
+          {
+            "ours": "К пяти острова достигнут?",
+            "thought": "Будет [известный] остров иметь быть достигнут к пяти?",
+            "english": "Will the island have been reached by five?",
+            "transcription": "[wил ðи **а**йлэнд хæв би:н ри:чт бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него скажут: We have reached the harbor."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что мы достигнем гавани.",
+        "thought": "Я знал мы будем достигать [известную] гавань.",
+        "english": "I knew we would reach the harbor.",
+        "transcription": "[ай нью: wи: wуд ри:ч ðэ х**а**:бэ]"
+      },
+      {
+        "ours": "Мы думали, что яхта не достигнет острова.",
+        "thought": "Мы думали [известная] яхта будет не достигать [известный] остров.",
+        "english": "We thought the yacht would not reach the island.",
+        "transcription": "[wи: θо:т ðэ йот wуд нот ри:ч ðи **а**йлэнд]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "island"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "island"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "island"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "island"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "island"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "island"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "island"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "meaning": "буй",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "buoy"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "buoy"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "buoy"
+        }
+      ]
+    },
+    {
+      "word": "bay",
+      "meaning": "бухта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "bay"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "bay"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "shore",
+      "meaning": "берег",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "shore"
+        }
+      ]
+    },
+    {
+      "word": "dock",
+      "meaning": "причал",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "dock"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "cockpit",
+      "meaning": "кокпит",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "cockpit"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "deck"
+        }
+      ]
+    }
+  ]
+}

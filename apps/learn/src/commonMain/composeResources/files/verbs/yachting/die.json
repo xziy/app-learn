@@ -1,0 +1,573 @@
+{
+  "spec": 4,
+  "verb": "die",
+  "forms": {
+    "base": [
+      {
+        "word": "die",
+        "transcription": "[дай]"
+      }
+    ],
+    "past": [
+      {
+        "word": "died",
+        "transcription": "[дайд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "died",
+        "transcription": "[дайд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "dying",
+        "transcription": "[д**а**йиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "dies",
+        "transcription": "[дайз]"
+      }
+    ]
+  },
+  "meaning": "умирать, глохнуть, стихать (die down)",
+  "notes": "правильный непереходный глагол; die down означает стихать; пассив не образуется",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "died",
+        "examples": [
+          {
+            "ours": "Вчера двигатель заглох в море.",
+            "thought": "Вчера [известный] двигатель умер в море.",
+            "english": "Yesterday the engine died at sea.",
+            "transcription": "[й**э**стэдэй ðэ **э**нджин дайд æт си:]"
+          },
+          {
+            "ours": "Моряк не погиб в море.",
+            "thought": "[Известный] моряк [сделал] не умирать в море.",
+            "english": "The sailor didn't die at sea.",
+            "transcription": "[ðэ с**э**йлэ диднт дай æт си:]"
+          },
+          {
+            "ours": "Ветер стих до выхода?",
+            "thought": "[Сделал] [известный] ветер умирать вниз перед выходом?",
+            "english": "Did the wind die down before departure?",
+            "transcription": "[дид ðэ wинд дай даун биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "die, dies",
+        "examples": [
+          {
+            "ours": "Ветер стихает к вечеру.",
+            "thought": "[Известный] ветер умирает вниз к закату.",
+            "english": "The wind dies down by sunset.",
+            "transcription": "[ðэ wинд дайз даун бай с**а**нсэт]"
+          },
+          {
+            "ours": "Этот двигатель не глохнет в море.",
+            "thought": "Этот двигатель [делает] не умирать в море.",
+            "english": "This engine doesn't die at sea.",
+            "transcription": "[ðис **э**нджин дазнт дай æт си:]"
+          },
+          {
+            "ours": "Мотор часто глохнет во время гонки?",
+            "thought": "[Делает] [известный] мотор часто умирать во время [известной] гонки?",
+            "english": "Does the motor often die during the race?",
+            "transcription": "[даз ðэ м**о**утэ **о**фэн дай дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will die",
+        "examples": [
+          {
+            "ours": "Завтра ветер стихнет.",
+            "thought": "Завтра [известный] ветер будет умирать вниз.",
+            "english": "Tomorrow the wind will die down.",
+            "transcription": "[тэм**о**роу ðэ wинд wил дай даун]"
+          },
+          {
+            "ours": "Двигатель не заглохнет до выхода.",
+            "thought": "[Известный] двигатель будет не умирать перед выходом.",
+            "english": "The engine won't die before departure.",
+            "transcription": "[ðэ **э**нджин wоунт дай биф**о**: дип**а**:чэ]"
+          },
+          {
+            "ours": "Мотор заглохнет во время гонки?",
+            "thought": "Будет [известный] мотор умирать во время [известной] гонки?",
+            "english": "Will the motor die during the race?",
+            "transcription": "[wил ðэ м**о**утэ дай дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were dying down",
+        "examples": [
+          {
+            "ours": "Вчера ветер весь день стихал.",
+            "thought": "Вчера [известный] ветер был умирающим вниз весь день.",
+            "english": "Yesterday the wind was dying down all day.",
+            "transcription": "[й**э**стэдэй ðэ wинд wоз д**а**йиŋ даун о:л дэй]"
+          },
+          {
+            "ours": "Ветер стихал, когда я пришёл?",
+            "thought": "Был [известный] ветер умирающим вниз когда я пришёл?",
+            "english": "Was the wind dying down when I came?",
+            "transcription": "[wоз ðэ wинд д**а**йиŋ даун wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are dying down",
+        "examples": [
+          {
+            "ours": "Сейчас ветер стихает.",
+            "thought": "[Известный] ветер является умирающим вниз сейчас.",
+            "english": "The wind is dying down now.",
+            "transcription": "[ðэ wинд из д**а**йиŋ даун нау]"
+          },
+          {
+            "ours": "Ветер сейчас стихает?",
+            "thought": "Является [известный] ветер умирающим вниз сейчас?",
+            "english": "Is the wind dying down now?",
+            "transcription": "[из ðэ wинд д**а**йиŋ даун нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be dying down",
+        "examples": [
+          {
+            "ours": "Завтра ветер будет стихать весь день.",
+            "thought": "Завтра [известный] ветер будет быть умирающим вниз весь день.",
+            "english": "Tomorrow the wind will be dying down all day.",
+            "transcription": "[тэм**о**роу ðэ wинд wил би: д**а**йиŋ даун о:л дэй]"
+          },
+          {
+            "ours": "Ветер будет стихать во время гонки?",
+            "thought": "Будет [известный] ветер быть умирающим вниз во время [известной] гонки?",
+            "english": "Will the wind be dying down during the race?",
+            "transcription": "[wил ðэ wинд би: д**а**йиŋ даун дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had died",
+        "examples": [
+          {
+            "ours": "Вчера к пяти ветер уже стих.",
+            "thought": "К пяти вчера [известный] ветер имел уже умершим вниз.",
+            "english": "By five yesterday the wind had already died down.",
+            "transcription": "[бай файв й**э**стэдэй ðэ wинд хæд о:лр**э**ди дайд даун]"
+          },
+          {
+            "ours": "Двигатель заглох до выхода?",
+            "thought": "Имел [известный] двигатель умершим перед выходом?",
+            "english": "Had the engine died before departure?",
+            "transcription": "[хæд ðэ **э**нджин дайд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has died",
+        "examples": [
+          {
+            "ours": "Ветер уже стих.",
+            "thought": "[Известный] ветер имеет уже умершим вниз.",
+            "english": "The wind has already died down.",
+            "transcription": "[ðэ wинд хæз о:лр**э**ди дайд даун]"
+          },
+          {
+            "ours": "Двигатель уже заглох?",
+            "thought": "Имеет [известный] двигатель уже умершим?",
+            "english": "Has the engine already died?",
+            "transcription": "[хæз ðэ **э**нджин о:лр**э**ди дайд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have died down",
+        "examples": [
+          {
+            "ours": "Завтра к пяти ветер уже стихнет.",
+            "thought": "К пяти завтра [известный] ветер будет иметь уже умершим вниз.",
+            "english": "By five tomorrow the wind will have already died down.",
+            "transcription": "[бай файв тэм**о**роу ðэ wинд wил хæв о:лр**э**ди дайд даун]"
+          },
+          {
+            "ours": "Ветер стихнет до утра?",
+            "thought": "Будет [известный] ветер иметь умершим вниз перед утром?",
+            "english": "Will the wind have died down before morning?",
+            "transcription": "[wил ðэ wинд хæв дайд даун биф**о**: м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been dying down",
+        "examples": [
+          {
+            "ours": "Ветер стихал уже два часа, когда ты пришёл.",
+            "thought": "[Известный] ветер имел быть умирающим вниз целых два часа когда ты пришёл.",
+            "english": "The wind had been dying down for two hours when you came.",
+            "transcription": "[ðэ wинд хæд би:н д**а**йиŋ даун фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ветер стихал уже два часа, когда он пришёл?",
+            "thought": "Имел [известный] ветер быть умирающим вниз целых два часа когда он пришёл?",
+            "english": "Had the wind been dying down for two hours when he came?",
+            "transcription": "[хæд ðэ wинд би:н д**а**йиŋ даун фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been dying down",
+        "examples": [
+          {
+            "ours": "Ветер стихает уже два часа.",
+            "thought": "[Известный] ветер имеет быть умирающим вниз целых два часа.",
+            "english": "The wind has been dying down for two hours.",
+            "transcription": "[ðэ wинд хæз би:н д**а**йиŋ даун фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ветер стихает уже два часа?",
+            "thought": "Имеет [известный] ветер быть умирающим вниз целых два часа?",
+            "english": "Has the wind been dying down for two hours?",
+            "transcription": "[хæз ðэ wинд би:н д**а**йиŋ даун фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been dying down",
+        "examples": [
+          {
+            "ours": "К пяти ветер будет стихать уже два часа.",
+            "thought": "К пяти [известный] ветер будет иметь быть умирающим вниз целых два часа.",
+            "english": "By five the wind will have been dying down for two hours.",
+            "transcription": "[бай файв ðэ wинд wил хæв би:н д**а**йиŋ даун фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ветер будет стихать уже два часа?",
+            "thought": "Будет [известный] ветер иметь быть умирающим вниз целых два часа к пяти?",
+            "english": "Will the wind have been dying down for two hours by five?",
+            "transcription": "[wил ðэ wинд хæв би:н д**а**йиŋ даун фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "Die и die down — непереходные глаголы без прямого дополнения, пассив не образуется. Скажут: The wind has died down."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что ветер стихнет.",
+        "thought": "[Известный] капитан сказал что [известный] ветер будет умирать вниз.",
+        "english": "The captain said that the wind would die down.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ wинд wуд дай даун]"
+      },
+      {
+        "ours": "Я знал, что двигатель не заглохнет.",
+        "thought": "Я знал что [известный] двигатель будет не умирать.",
+        "english": "I knew that the engine wouldn't die.",
+        "transcription": "[ай нью: ðæт ðэ **э**нджин wуднт дай]"
+      },
+      {
+        "ours": "Капитан сказал, что мотор заглохнет.",
+        "thought": "[Известный] капитан сказал что [известный] мотор будет умирать.",
+        "english": "The captain said that the motor would die.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ м**о**утэ wуд дай]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "выход",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "sunset",
+      "meaning": "закат",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sunset"
+        }
+      ]
+    },
+    {
+      "word": "motor",
+      "meaning": "мотор",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "motor"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "motor"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "motor"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

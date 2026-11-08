@@ -1,0 +1,916 @@
+{
+  "spec": 4,
+  "verb": "reflect",
+  "forms": {
+    "base": [
+      {
+        "word": "reflect",
+        "transcription": "[рифл**э**кт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "reflected",
+        "transcription": "[рифл**э**ктид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "reflected",
+        "transcription": "[рифл**э**ктид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "reflecting",
+        "transcription": "[рифл**э**ктиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "reflects",
+        "transcription": "[рифл**э**ктс]"
+      }
+    ]
+  },
+  "meaning": "отражать, размышлять",
+  "notes": "правильный переходный глагол; reflect on — размышлять о",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "reflected",
+        "examples": [
+          {
+            "ours": "Вчера вода отражала солнечный свет.",
+            "thought": "Вчера [известная] вода отразила солнечный свет.",
+            "english": "Yesterday the water reflected sunlight.",
+            "transcription": "[й**э**стэдэй ðэ w**о**:тэ рифл**э**ктид с**а**нлайт]"
+          },
+          {
+            "ours": "Море отражало небо вчера?",
+            "thought": "[Сделало] [известное] море отражать [известное] небо вчера?",
+            "english": "Did the sea reflect the sky yesterday?",
+            "transcription": "[дид ðэ си: рифл**э**кт ðэ скай й**э**стэдэй]"
+          },
+          {
+            "ours": "Вчера окно не отражало маяк.",
+            "thought": "[Известное] окно [сделало] не отражать [известный] маяк вчера.",
+            "english": "The window did not reflect the lighthouse yesterday.",
+            "transcription": "[ðэ w**и**ндоу дид нот рифл**э**кт ðэ л**а**йтхаус й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "reflect, reflects",
+        "examples": [
+          {
+            "ours": "Окно отражает маяк.",
+            "thought": "[Известное] окно отражает [известный] маяк.",
+            "english": "The window reflects the lighthouse.",
+            "transcription": "[ðэ w**и**ндоу рифл**э**ктс ðэ л**а**йтхаус]"
+          },
+          {
+            "ours": "Корпус отражает свет?",
+            "thought": "[Делает] [известный] корпус отражать [известный] свет?",
+            "english": "Does the hull reflect the light?",
+            "transcription": "[даз ðэ хал рифл**э**кт ðэ лайт]"
+          },
+          {
+            "ours": "Ты размышляешь о плавании?",
+            "thought": "[Делаешь] ты размышлять о [известном] плавании?",
+            "english": "Do you reflect on the voyage?",
+            "transcription": "[ду: ю: рифл**э**кт он ðэ в**о**йидж]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will reflect",
+        "examples": [
+          {
+            "ours": "Завтра вода будет отражать солнечный свет.",
+            "thought": "Завтра [известная] вода будет отражать солнечный свет.",
+            "english": "Tomorrow the water will reflect sunlight.",
+            "transcription": "[тэм**о**роу ðэ w**о**:тэ wил рифл**э**кт с**а**нлайт]"
+          },
+          {
+            "ours": "Море будет отражать небо завтра?",
+            "thought": "Будет [известное] море отражать [известное] небо завтра?",
+            "english": "Will the sea reflect the sky tomorrow?",
+            "transcription": "[wил ðэ си: рифл**э**кт ðэ скай тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were reflecting",
+        "examples": [
+          {
+            "ours": "Вода отражала солнечный свет, когда ты прибыл.",
+            "thought": "[Известная] вода была отражающей солнечный свет, когда ты прибыл.",
+            "english": "The water was reflecting sunlight when you arrived.",
+            "transcription": "[ðэ w**о**:тэ wоз рифл**э**ктиŋ с**а**нлайт wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Море отражало небо, когда ты прибыл?",
+            "thought": "Было [известное] море отражающим [известное] небо, когда ты прибыл?",
+            "english": "Was the sea reflecting the sky when you arrived?",
+            "transcription": "[wоз ðэ си: рифл**э**ктиŋ ðэ скай wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are reflecting",
+        "examples": [
+          {
+            "ours": "Окно сейчас отражает маяк.",
+            "thought": "[Известное] окно является отражающим [известный] маяк сейчас.",
+            "english": "The window is reflecting the lighthouse now.",
+            "transcription": "[ðэ w**и**ндоу из рифл**э**ктиŋ ðэ л**а**йтхаус нау]"
+          },
+          {
+            "ours": "Корпус сейчас отражает свет?",
+            "thought": "Является [известный] корпус отражающим [известный] свет сейчас?",
+            "english": "Is the hull reflecting the light now?",
+            "transcription": "[из ðэ хал рифл**э**ктиŋ ðэ лайт нау]"
+          },
+          {
+            "ours": "Вода сейчас не отражает небо.",
+            "thought": "[Известная] вода является не отражающей [известное] небо сейчас.",
+            "english": "The water is not reflecting the sky now.",
+            "transcription": "[ðэ w**о**:тэ из нот рифл**э**ктиŋ ðэ скай нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be reflecting",
+        "examples": [
+          {
+            "ours": "В полдень вода будет отражать солнечный свет.",
+            "thought": "В полдень [известная] вода будет быть отражающей солнечный свет.",
+            "english": "At noon the water will be reflecting sunlight.",
+            "transcription": "[æт ну:н ðэ w**о**:тэ wил би: рифл**э**ктиŋ с**а**нлайт]"
+          },
+          {
+            "ours": "Море будет отражать небо в полдень?",
+            "thought": "Будет [известное] море быть отражающим [известное] небо в полдень?",
+            "english": "Will the sea be reflecting the sky at noon?",
+            "transcription": "[wил ðэ си: би: рифл**э**ктиŋ ðэ скай æт ну:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had reflected",
+        "examples": [
+          {
+            "ours": "До полудня вода отражала солнечный свет.",
+            "thought": "До полудня [известная] вода имела отражённым солнечный свет.",
+            "english": "Before noon the water had reflected sunlight.",
+            "transcription": "[биф**о**: ну:н ðэ w**о**:тэ хæд рифл**э**ктид с**а**нлайт]"
+          },
+          {
+            "ours": "Море отражало небо до полудня?",
+            "thought": "Имело [известное] море отражённым [известное] небо до полудня?",
+            "english": "Had the sea reflected the sky before noon?",
+            "transcription": "[хæд ðэ си: рифл**э**ктид ðэ скай биф**о**: ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has reflected",
+        "examples": [
+          {
+            "ours": "Окно отражает маяк сегодня.",
+            "thought": "[Известное] окно имеет отражённым [известный] маяк сегодня.",
+            "english": "The window has reflected the lighthouse today.",
+            "transcription": "[ðэ w**и**ндоу хæз рифл**э**ктид ðэ л**а**йтхаус тэд**э**й]"
+          },
+          {
+            "ours": "Корпус отражает свет сегодня?",
+            "thought": "Имеет [известный] корпус отражённым [известный] свет сегодня?",
+            "english": "Has the hull reflected the light today?",
+            "transcription": "[хæз ðэ хал рифл**э**ктид ðэ лайт тэд**э**й]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have reflected",
+        "not_possible": "Для непрерывного отражения света future perfect здесь звучит тяжеловесно. Скажут: By noon the water will be reflecting sunlight."
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been reflecting",
+        "examples": [
+          {
+            "ours": "Вода отражала солнечный свет два часа до полудня.",
+            "thought": "[Известная] вода имела быть отражающей солнечный свет целых два часа до полудня.",
+            "english": "The water had been reflecting sunlight for two hours before noon.",
+            "transcription": "[ðэ w**о**:тэ хæд би:н рифл**э**ктиŋ с**а**нлайт фо: ту: **а**уэз биф**о**: ну:н]"
+          },
+          {
+            "ours": "Море отражало небо час до полудня?",
+            "thought": "Имело [известное] море быть отражающим [известное] небо целый [какой-то] час до полудня?",
+            "english": "Had the sea been reflecting the sky for an hour before noon?",
+            "transcription": "[хæд ðэ си: би:н рифл**э**ктиŋ ðэ скай фо: эн **а**уэ биф**о**: ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been reflecting",
+        "examples": [
+          {
+            "ours": "Окно отражает маяк уже два часа.",
+            "thought": "[Известное] окно имеет быть отражающим [известный] маяк целых два часа.",
+            "english": "The window has been reflecting the lighthouse for two hours.",
+            "transcription": "[ðэ w**и**ндоу хæз би:н рифл**э**ктиŋ ðэ л**а**йтхаус фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Корпус отражает свет уже час?",
+            "thought": "Имеет [известный] корпус быть отражающим [известный] свет целый [какой-то] час?",
+            "english": "Has the hull been reflecting the light for an hour?",
+            "transcription": "[хæз ðэ хал би:н рифл**э**ктиŋ ðэ лайт фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been reflecting",
+        "examples": [
+          {
+            "ours": "К полудню вода будет отражать солнечный свет уже два часа.",
+            "thought": "К полудню [известная] вода будет иметь быть отражающей солнечный свет целых два часа.",
+            "english": "By noon the water will have been reflecting sunlight for two hours.",
+            "transcription": "[бай ну:н ðэ w**о**:тэ wил хæв би:н рифл**э**ктиŋ с**а**нлайт фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Море к полудню будет отражать небо уже час?",
+            "thought": "Будет [известное] море иметь быть отражающим [известное] небо целый [какой-то] час к полудню?",
+            "english": "Will the sea have been reflecting the sky for an hour by noon?",
+            "transcription": "[wил ðэ си: хæв би:н рифл**э**ктиŋ ðэ скай фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were reflected",
+        "examples": [
+          {
+            "ours": "Вчера солнечный свет отражался в воде.",
+            "thought": "Солнечный свет был отражён от [известной] воды вчера.",
+            "english": "Sunlight was reflected by the water yesterday.",
+            "transcription": "[с**а**нлайт wоз рифл**э**ктид бай ðэ w**о**:тэ й**э**стэдэй]"
+          },
+          {
+            "ours": "Вчера небо отражалось в море?",
+            "thought": "Было [известное] небо отражено от [известного] моря вчера?",
+            "english": "Was the sky reflected by the sea yesterday?",
+            "transcription": "[wоз ðэ скай рифл**э**ктид бай ðэ си: й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are reflected",
+        "examples": [
+          {
+            "ours": "Маяк отражается в окне.",
+            "thought": "[Известный] маяк есть отражён от [известного] окна.",
+            "english": "The lighthouse is reflected by the window.",
+            "transcription": "[ðэ л**а**йтхаус из рифл**э**ктид бай ðэ w**и**ндоу]"
+          },
+          {
+            "ours": "Свет отражается от корпуса?",
+            "thought": "Есть [известный] свет отражён от [известного] корпуса?",
+            "english": "Is the light reflected by the hull?",
+            "transcription": "[из ðэ лайт рифл**э**ктид бай ðэ хал]"
+          },
+          {
+            "ours": "Свет не отражается от паруса.",
+            "thought": "[Известный] свет есть не отражён от [известного] паруса.",
+            "english": "The light is not reflected by the sail.",
+            "transcription": "[ðэ лайт из нот рифл**э**ктид бай ðэ сэйл]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be reflected",
+        "examples": [
+          {
+            "ours": "Завтра солнечный свет будет отражаться в воде.",
+            "thought": "Солнечный свет будет быть отражён от [известной] воды завтра.",
+            "english": "Sunlight will be reflected by the water tomorrow.",
+            "transcription": "[с**а**нлайт wил би: рифл**э**ктид бай ðэ w**о**:тэ тэм**о**роу]"
+          },
+          {
+            "ours": "Завтра небо будет отражаться в море?",
+            "thought": "Будет [известное] небо быть отражено от [известного] моря завтра?",
+            "english": "Will the sky be reflected by the sea tomorrow?",
+            "transcription": "[wил ðэ скай би: рифл**э**ктид бай ðэ си: тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being reflected",
+        "examples": [
+          {
+            "ours": "Солнечный свет отражался в воде, когда ты прибыл.",
+            "thought": "Солнечный свет был «долго» отражён от [известной] воды, когда ты прибыл.",
+            "english": "Sunlight was being reflected by the water when you arrived.",
+            "transcription": "[с**а**нлайт wоз б**и**:иŋ рифл**э**ктид бай ðэ w**о**:тэ wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Небо отражалось в море, когда ты прибыл?",
+            "thought": "Было [известное] небо «долго» отражено от [известного] моря, когда ты прибыл?",
+            "english": "Was the sky being reflected by the sea when you arrived?",
+            "transcription": "[wоз ðэ скай б**и**:иŋ рифл**э**ктид бай ðэ си: wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being reflected",
+        "examples": [
+          {
+            "ours": "Маяк сейчас отражается в окне.",
+            "thought": "[Известный] маяк есть «долго» отражён от [известного] окна сейчас.",
+            "english": "The lighthouse is being reflected by the window now.",
+            "transcription": "[ðэ л**а**йтхаус из б**и**:иŋ рифл**э**ктид бай ðэ w**и**ндоу нау]"
+          },
+          {
+            "ours": "Свет сейчас отражается от корпуса?",
+            "thought": "Есть [известный] свет «долго» отражён от [известного] корпуса сейчас?",
+            "english": "Is the light being reflected by the hull now?",
+            "transcription": "[из ðэ лайт б**и**:иŋ рифл**э**ктид бай ðэ хал нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be reflecting",
+        "examples": [
+          {
+            "ours": "В полдень они будут размышлять о плавании.",
+            "thought": "В полдень они будут быть размышляющими о [известном] плавании.",
+            "english": "At noon they will be reflecting on the voyage.",
+            "transcription": "[æт ну:н ðэй wил би: рифл**э**ктиŋ он ðэ в**о**йидж]"
+          },
+          {
+            "ours": "Они будут размышлять о плавании в полдень?",
+            "thought": "Будут они быть размышляющими о [известном] плавании в полдень?",
+            "english": "Will they be reflecting on the voyage at noon?",
+            "transcription": "[wил ðэй би: рифл**э**ктиŋ он ðэ в**о**йидж æт ну:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been reflected",
+        "examples": [
+          {
+            "ours": "До полудня солнечный свет отражался в воде.",
+            "thought": "До полудня солнечный свет имел быть отражён от [известной] воды.",
+            "english": "Before noon sunlight had been reflected by the water.",
+            "transcription": "[биф**о**: ну:н с**а**нлайт хæд би:н рифл**э**ктид бай ðэ w**о**:тэ]"
+          },
+          {
+            "ours": "До полудня небо отражалось в море?",
+            "thought": "Имело [известное] небо быть отражено от [известного] моря до полудня?",
+            "english": "Had the sky been reflected by the sea before noon?",
+            "transcription": "[хæд ðэ скай би:н рифл**э**ктид бай ðэ си: биф**о**: ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been reflected",
+        "examples": [
+          {
+            "ours": "Сегодня маяк отражался в окне.",
+            "thought": "[Известный] маяк имеет быть отражён от [известного] окна сегодня.",
+            "english": "The lighthouse has been reflected by the window today.",
+            "transcription": "[ðэ л**а**йтхаус хæз би:н рифл**э**ктид бай ðэ w**и**ндоу тэд**э**й]"
+          },
+          {
+            "ours": "Сегодня свет отражался от корпуса?",
+            "thought": "Имеет [известный] свет быть отражён от [известного] корпуса сегодня?",
+            "english": "Has the light been reflected by the hull today?",
+            "transcription": "[хæз ðэ лайт би:н рифл**э**ктид бай ðэ хал тэд**э**й]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been reflected",
+        "not_possible": "Для непрерывного отражения света эта форма звучит неестественно. Скажут: Sunlight will be reflected by the water."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него скажут: The water has been reflecting sunlight."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что вода будет отражать солнечный свет.",
+        "thought": "Я знал [известная] вода будет отражать солнечный свет.",
+        "english": "I knew the water would reflect sunlight.",
+        "transcription": "[ай нью: ðэ w**о**:тэ wуд рифл**э**кт с**а**нлайт]"
+      },
+      {
+        "ours": "Мы думали, что окно не отразит маяк.",
+        "thought": "Мы думали [известное] окно будет не отражать [известный] маяк.",
+        "english": "We thought the window would not reflect the lighthouse.",
+        "transcription": "[wи: θо:т ðэ w**и**ндоу wуд нот рифл**э**кт ðэ л**а**йтхаус]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "sunlight",
+      "meaning": "солнечный свет",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sunlight"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "sunlight"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sunlight"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "sunlight"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "sunlight"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "sunlight"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "sunlight"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Sunlight"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Sunlight"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Sunlight"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "sunlight"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sunlight"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "sky",
+      "meaning": "небо",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sky"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sky"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sky"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "sky"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sky"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sky"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "sky"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "sky"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sky"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "sky"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "sky"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "sky"
+        }
+      ]
+    },
+    {
+      "word": "window",
+      "meaning": "окно",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "window"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "window"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "window"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "window"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "window"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "window"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "window"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "window"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "window"
+        }
+      ]
+    },
+    {
+      "word": "lighthouse",
+      "meaning": "маяк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "lighthouse"
+        }
+      ]
+    },
+    {
+      "word": "hull",
+      "meaning": "корпус",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hull"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "hull"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "hull"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "hull"
+        }
+      ]
+    },
+    {
+      "word": "light",
+      "meaning": "свет",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "light"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "light"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "light"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "light"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "light"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "light"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "light"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "light"
+        }
+      ]
+    },
+    {
+      "word": "voyage",
+      "meaning": "плавание",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "voyage"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "voyage"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "voyage"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    }
+  ]
+}

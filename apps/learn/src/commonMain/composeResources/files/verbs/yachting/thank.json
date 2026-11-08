@@ -1,0 +1,976 @@
+{
+  "spec": 4,
+  "verb": "thank",
+  "forms": {
+    "base": [
+      {
+        "word": "thank",
+        "transcription": "[θæнк]"
+      }
+    ],
+    "past": [
+      {
+        "word": "thanked",
+        "transcription": "[θæнкт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "thanked",
+        "transcription": "[θæнкт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "thanking",
+        "transcription": "[θ**æ**нкиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "thanks",
+        "transcription": "[θæнкс]"
+      }
+    ]
+  },
+  "meaning": "благодарить",
+  "notes": "правильный переходный глагол; причину благодарности вводят предлогом for",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "thanked",
+        "examples": [
+          {
+            "ours": "Вчера я поблагодарил капитана за спасение.",
+            "thought": "Вчера я поблагодарил [известного] шкипера за [известное] спасение.",
+            "english": "Yesterday I thanked the skipper for the rescue.",
+            "transcription": "[й**э**стэдэй ай θæнкт ðэ ск**и**пэ фо: ðэ р**э**скью:]"
+          },
+          {
+            "ours": "Она не поблагодарила команду за совет.",
+            "thought": "Она [сделала] не благодарить [известную] команду за [известный] совет.",
+            "english": "She did not thank the crew for the advice.",
+            "transcription": "[ши: дид нот θæнк ðэ кру: фо: ðи эдв**а**йс]"
+          },
+          {
+            "ours": "Ты поблагодарил моряка за урок?",
+            "thought": "[Сделал] ты благодарить [известного] моряка за [известный] урок?",
+            "english": "Did you thank the sailor for the lesson?",
+            "transcription": "[дид ю: θæнк ðэ с**э**йлэ фо: ðэ л**э**сн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "thank, thanks",
+        "examples": [
+          {
+            "ours": "Мы благодарим новичков за приглашение.",
+            "thought": "Мы благодарим новичков за [известное] приглашение.",
+            "english": "We thank beginners for the invitation.",
+            "transcription": "[wи: θæнк биг**и**нэз фо: ðи инвит**э**йшн]"
+          },
+          {
+            "ours": "Он не благодарит капитана после регаты.",
+            "thought": "Он [делает] не благодарить [известного] шкипера после [известной] регаты.",
+            "english": "He does not thank the skipper after the regatta.",
+            "transcription": "[хи: даз нот θæнк ðэ ск**и**пэ **а**:фтэ ðэ риг**æ**тэ]"
+          },
+          {
+            "ours": "Ты благодаришь команду после плавания?",
+            "thought": "[Делаешь] ты благодарить [известную] команду после [известного] плавания?",
+            "english": "Do you thank the crew after the voyage?",
+            "transcription": "[ду: ю: θæнк ðэ кру: **а**:фтэ ðэ в**о**йидж]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will thank",
+        "examples": [
+          {
+            "ours": "Завтра я поблагодарю капитана за спасение.",
+            "thought": "Завтра я буду благодарить [известного] шкипера за [известное] спасение.",
+            "english": "Tomorrow I will thank the skipper for the rescue.",
+            "transcription": "[тэм**о**роу ай wил θæнк ðэ ск**и**пэ фо: ðэ р**э**скью:]"
+          },
+          {
+            "ours": "Она не поблагодарит команду за совет.",
+            "thought": "Она будет не благодарить [известную] команду за [известный] совет.",
+            "english": "She will not thank the crew for the advice.",
+            "transcription": "[ши: wил нот θæнк ðэ кру: фо: ðи эдв**а**йс]"
+          },
+          {
+            "ours": "Ты поблагодаришь моряка за урок?",
+            "thought": "Будешь ты благодарить [известного] моряка за [известный] урок?",
+            "english": "Will you thank the sailor for the lesson?",
+            "transcription": "[wил ю: θæнк ðэ с**э**йлэ фо: ðэ л**э**сн]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were thanking",
+        "examples": [
+          {
+            "ours": "Вчера я весь день благодарил моряков за помощь.",
+            "thought": "Вчера я был благодарящим моряков за их помощь весь день.",
+            "english": "Yesterday I was thanking sailors for their help all day.",
+            "transcription": "[й**э**стэдэй ай wоз θ**æ**нкиŋ с**э**йлэз фо: ðээ хэлп о:л дэй]"
+          },
+          {
+            "ours": "Ты благодарил капитана после регаты, когда поднялся ветер?",
+            "thought": "Был ты благодарящим [известного] шкипера после [известной] регаты, когда [известный] ветер поднялся?",
+            "english": "Were you thanking the skipper after the regatta when the wind rose?",
+            "transcription": "[wœ: ю: θ**æ**нкиŋ ðэ ск**и**пэ **а**:фтэ ðэ риг**æ**тэ wэн ðэ wинд роуз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are thanking",
+        "examples": [
+          {
+            "ours": "Я сейчас благодарю команду после плавания.",
+            "thought": "Я являюсь благодарящим [известную] команду после [известного] плавания сейчас.",
+            "english": "I am thanking the crew after the voyage now.",
+            "transcription": "[ай æм θ**æ**нкиŋ ðэ кру: **а**:фтэ ðэ в**о**йидж нау]"
+          },
+          {
+            "ours": "Она сейчас не благодарит капитана за спасение.",
+            "thought": "Она является не благодарящей [известного] шкипера за [известное] спасение сейчас.",
+            "english": "She is not thanking the skipper for the rescue now.",
+            "transcription": "[ши: из нот θ**æ**нкиŋ ðэ ск**и**пэ фо: ðэ р**э**скью: нау]"
+          },
+          {
+            "ours": "Ты сейчас благодаришь моряка за совет?",
+            "thought": "Являешься ты благодарящим [известного] моряка за [известный] совет сейчас?",
+            "english": "Are you thanking the sailor for the advice now?",
+            "transcription": "[а: ю: θ**æ**нкиŋ ðэ с**э**йлэ фо: ðи эдв**а**йс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be thanking",
+        "examples": [
+          {
+            "ours": "Завтра я буду весь день благодарить моряков за поддержку.",
+            "thought": "Завтра я буду быть благодарящим моряков за их поддержку весь день.",
+            "english": "Tomorrow I will be thanking sailors for their support all day.",
+            "transcription": "[тэм**о**роу ай wил би: θ**æ**нкиŋ с**э**йлэз фо: ðээ сэп**о**:т о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь благодарить капитана за приглашение в пять?",
+            "thought": "Будешь ты быть благодарящим [известного] шкипера за [известное] приглашение в пять?",
+            "english": "Will you be thanking the skipper for the invitation at five?",
+            "transcription": "[wил ю: би: θ**æ**нкиŋ ðэ ск**и**пэ фо: ðи инвит**э**йшн æт файв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had thanked",
+        "examples": [
+          {
+            "ours": "К пяти я уже поблагодарил капитана после регаты.",
+            "thought": "К пяти я имел уже поблагодарённым [известного] шкипера после [известной] регаты.",
+            "english": "By five I had already thanked the skipper after the regatta.",
+            "transcription": "[бай файв ай хæд о:лр**э**ди θæнкт ðэ ск**и**пэ **а**:фтэ ðэ риг**æ**тэ]"
+          },
+          {
+            "ours": "К тому времени она ещё не поблагодарила команду после плавания.",
+            "thought": "К тогда она имела не поблагодарённой [известную] команду после [известного] плавания ещё.",
+            "english": "By then she had not thanked the crew after the voyage yet.",
+            "transcription": "[бай ðэн ши: хæд нот θæнкт ðэ кру: **а**:фтэ ðэ в**о**йидж йэт]"
+          },
+          {
+            "ours": "К пяти ты поблагодарил моряка за спасение?",
+            "thought": "Имел ты поблагодарённым [известного] моряка за [известное] спасение к пяти?",
+            "english": "Had you thanked the sailor for the rescue by five?",
+            "transcription": "[хæд ю: θæнкт ðэ с**э**йлэ фо: ðэ р**э**скью: бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has thanked",
+        "examples": [
+          {
+            "ours": "Я уже поблагодарил капитана за совет.",
+            "thought": "Я имею уже поблагодарённым [известного] шкипера за [известный] совет.",
+            "english": "I have already thanked the skipper for the advice.",
+            "transcription": "[ай хæв о:лр**э**ди θæнкт ðэ ск**и**пэ фо: ðи эдв**а**йс]"
+          },
+          {
+            "ours": "Она ещё не поблагодарила команду за урок.",
+            "thought": "Она имеет не поблагодарённой [известную] команду за [известный] урок ещё.",
+            "english": "She has not thanked the crew for the lesson yet.",
+            "transcription": "[ши: хæз нот θæнкт ðэ кру: фо: ðэ л**э**сн йэт]"
+          },
+          {
+            "ours": "Ты уже поблагодарил моряка за приглашение?",
+            "thought": "Имеешь ты поблагодарённым [известного] моряка за [известное] приглашение уже?",
+            "english": "Have you thanked the sailor for the invitation yet?",
+            "transcription": "[хæв ю: θæнкт ðэ с**э**йлэ фо: ðи инвит**э**йшн йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have thanked",
+        "examples": [
+          {
+            "ours": "К пяти я поблагодарю капитана после регаты.",
+            "thought": "К пяти я буду иметь поблагодарённым [известного] шкипера после [известной] регаты.",
+            "english": "By five I will have thanked the skipper after the regatta.",
+            "transcription": "[бай файв ай wил хæв θæнкт ðэ ск**и**пэ **а**:фтэ ðэ риг**æ**тэ]"
+          },
+          {
+            "ours": "К пяти она ещё не поблагодарит команду после плавания.",
+            "thought": "К пяти она будет не иметь поблагодарённой [известную] команду после [известного] плавания ещё.",
+            "english": "By five she will not have thanked the crew after the voyage yet.",
+            "transcription": "[бай файв ши: wил нот хæв θæнкт ðэ кру: **а**:фтэ ðэ в**о**йидж йэт]"
+          },
+          {
+            "ours": "К пяти ты поблагодаришь моряка за спасение?",
+            "thought": "Будешь ты иметь поблагодарённым [известного] моряка за [известное] спасение к пяти?",
+            "english": "Will you have thanked the sailor for the rescue by five?",
+            "transcription": "[wил ю: хæв θæнкт ðэ с**э**йлэ фо: ðэ р**э**скью: бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для однократной благодарности длительный perfect не употребляют: I have thanked the skipper. Форма возможна для продолжающейся череды благодарностей."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were thanked",
+        "examples": [
+          {
+            "ours": "Вчера капитана поблагодарили за парус.",
+            "thought": "[Известный] шкипер был поблагодарён вчера за [известный] парус.",
+            "english": "The skipper was thanked yesterday for the sail.",
+            "transcription": "[ðэ ск**и**пэ wоз θæнкт й**э**стэдэй фо: ðэ сэйл]"
+          },
+          {
+            "ours": "Команду не поблагодарили за спасение.",
+            "thought": "[Известная] команда была не поблагодарена за [известное] спасение.",
+            "english": "The crew was not thanked for the rescue.",
+            "transcription": "[ðэ кру: wоз нот θæнкт фо: ðэ р**э**скью:]"
+          },
+          {
+            "ours": "Моряка поблагодарили за совет?",
+            "thought": "Был [известный] моряк поблагодарён за [известный] совет?",
+            "english": "Was the sailor thanked for the advice?",
+            "transcription": "[wоз ðэ с**э**йлэ θæнкт фо: ðи эдв**а**йс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are thanked",
+        "examples": [
+          {
+            "ours": "Новичков благодарят на борту за швартовку.",
+            "thought": "Новички есть поблагодарены на борту за [известную] швартовку.",
+            "english": "Beginners are thanked on board for the mooring.",
+            "transcription": "[биг**и**нэз а: θæнкт он бо:д фо: ðэ м**у**эриŋ]"
+          },
+          {
+            "ours": "Команду не благодарят после плавания.",
+            "thought": "[Известная] команда есть не поблагодарена после [известного] плавания.",
+            "english": "The crew is not thanked after the voyage.",
+            "transcription": "[ðэ кру: из нот θæнкт **а**:фтэ ðэ в**о**йидж]"
+          },
+          {
+            "ours": "Моряка благодарят за урок?",
+            "thought": "Есть [известный] моряк поблагодарён за [известный] урок?",
+            "english": "Is the sailor thanked for the lesson?",
+            "transcription": "[из ðэ с**э**йлэ θæнкт фо: ðэ л**э**сн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be thanked",
+        "examples": [
+          {
+            "ours": "Завтра капитана поблагодарят после регаты.",
+            "thought": "Завтра [известный] шкипер будет быть поблагодарён после [известной] регаты.",
+            "english": "Tomorrow the skipper will be thanked after the regatta.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил би: θæнкт **а**:фтэ ðэ риг**æ**тэ]"
+          },
+          {
+            "ours": "Команду не поблагодарят за якорь.",
+            "thought": "[Известная] команда будет не быть поблагодарена за [известный] якорь.",
+            "english": "The crew will not be thanked for the anchor.",
+            "transcription": "[ðэ кру: wил нот би: θæнкт фо: ðи **æ**нкэ]"
+          },
+          {
+            "ours": "Моряка поблагодарят завтра за спасение?",
+            "thought": "Будет [известный] моряк быть поблагодарён за [известное] спасение завтра?",
+            "english": "Will the sailor be thanked for the rescue tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: θæнкт фо: ðэ р**э**скью: тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being thanked",
+        "examples": [
+          {
+            "ours": "Капитана благодарили за навигацию, когда усилился ветер.",
+            "thought": "[Известный] шкипер был «долго» поблагодарён за [известную] навигацию, когда [известный] ветер усилился.",
+            "english": "The skipper was being thanked for the navigation when the wind rose.",
+            "transcription": "[ðэ ск**и**пэ wоз б**и**:иŋ θæнкт фо: ðэ нæвиг**э**йшн wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Моряка благодарили за совет, когда ты прибыл?",
+            "thought": "Был [известный] моряк «долго» поблагодарён за [известный] совет, когда ты прибыл?",
+            "english": "Was the sailor being thanked for the advice when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ б**и**:иŋ θæнкт фо: ðи эдв**а**йс wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being thanked",
+        "examples": [
+          {
+            "ours": "Команду сейчас благодарят после плавания.",
+            "thought": "[Известная] команда есть «долго» поблагодарена после [известного] плавания сейчас.",
+            "english": "The crew is being thanked after the voyage now.",
+            "transcription": "[ðэ кру: из б**и**:иŋ θæнкт **а**:фтэ ðэ в**о**йидж нау]"
+          },
+          {
+            "ours": "Капитана сейчас не благодарят за такелаж.",
+            "thought": "[Известный] шкипер есть не «долго» поблагодарён сейчас за [известный] такелаж.",
+            "english": "The skipper is not being thanked now for the rigging.",
+            "transcription": "[ðэ ск**и**пэ из нот б**и**:иŋ θæнкт нау фо: ðэ р**и**гиŋ]"
+          },
+          {
+            "ours": "Моряка сейчас благодарят за урок?",
+            "thought": "Есть [известный] моряк «долго» поблагодарён за [известный] урок сейчас?",
+            "english": "Is the sailor being thanked for the lesson now?",
+            "transcription": "[из ðэ с**э**йлэ б**и**:иŋ θæнкт фо: ðэ л**э**сн нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be thanking",
+        "examples": [
+          {
+            "ours": "Завтра они будут благодарить моряков весь день.",
+            "thought": "Завтра они будут быть благодарящими моряков весь день.",
+            "english": "Tomorrow they will be thanking sailors all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: θ**æ**нкиŋ с**э**йлэз о:л дэй]"
+          },
+          {
+            "ours": "Они будут благодарить капитана в пять?",
+            "thought": "Будут они быть благодарящими [известного] шкипера в пять?",
+            "english": "Will they be thanking the skipper at five?",
+            "transcription": "[wил ðэй би: θ**æ**нкиŋ ðэ ск**и**пэ æт файв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been thanked",
+        "examples": [
+          {
+            "ours": "К пяти капитана уже поблагодарили.",
+            "thought": "К пяти [известный] шкипер имел уже быть поблагодарён.",
+            "english": "By five the skipper had already been thanked.",
+            "transcription": "[бай файв ðэ ск**и**пэ хæд о:лр**э**ди би:н θæнкт]"
+          },
+          {
+            "ours": "К тому времени команду ещё не поблагодарили за парус.",
+            "thought": "К тогда [известная] команда имела не быть поблагодарена ещё за [известный] парус.",
+            "english": "By then the crew had not been thanked yet for the sail.",
+            "transcription": "[бай ðэн ðэ кру: хæд нот би:н θæнкт йэт фо: ðэ сэйл]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been thanked",
+        "examples": [
+          {
+            "ours": "Капитана уже поблагодарили за швартовку.",
+            "thought": "[Известный] шкипер имеет уже быть поблагодарён за [известную] швартовку.",
+            "english": "The skipper has already been thanked for the mooring.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди би:н θæнкт фо: ðэ м**у**эриŋ]"
+          },
+          {
+            "ours": "Команду ещё не поблагодарили.",
+            "thought": "[Известная] команда имеет не быть поблагодарена ещё.",
+            "english": "The crew has not been thanked yet.",
+            "transcription": "[ðэ кру: хæз нот би:н θæнкт йэт]"
+          },
+          {
+            "ours": "Моряка уже поблагодарили?",
+            "thought": "Имеет [известный] моряк быть поблагодарён уже?",
+            "english": "Has the sailor been thanked yet?",
+            "transcription": "[хæз ðэ с**э**йлэ би:н θæнкт йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been thanked",
+        "examples": [
+          {
+            "ours": "К пяти капитана поблагодарят.",
+            "thought": "К пяти [известный] шкипер будет иметь быть поблагодарён.",
+            "english": "By five the skipper will have been thanked.",
+            "transcription": "[бай файв ðэ ск**и**пэ wил хæв би:н θæнкт]"
+          },
+          {
+            "ours": "К пяти команду ещё не поблагодарят за якорь.",
+            "thought": "К пяти [известная] команда будет не иметь быть поблагодарена ещё за [известный] якорь.",
+            "english": "By five the crew will not have been thanked yet for the anchor.",
+            "transcription": "[бай файв ðэ кру: wил нот хæв би:н θæнкт йэт фо: ðи **æ**нкэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: I have thanked the crew."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она поблагодарит капитана за совет.",
+        "thought": "Я знал, она будет благодарить [известного] шкипера за [известный] совет.",
+        "english": "I knew she would thank the skipper for the advice.",
+        "transcription": "[ай нью: ши: wуд θæнк ðэ ск**и**пэ фо: ðи эдв**а**йс]"
+      },
+      {
+        "ours": "Мы думали, что он не поблагодарит команду за урок.",
+        "thought": "Мы думали, он будет не благодарить [известную] команду за [известный] урок.",
+        "english": "We thought he would not thank the crew for the lesson.",
+        "transcription": "[wи: θо:т хи: wуд нот θæнк ðэ кру: фо: ðэ л**э**сн]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "rescue",
+      "meaning": "спасение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "rescue"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "rescue"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "rescue"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "rescue"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "rescue"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "rescue"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "rescue"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "advice",
+      "meaning": "совет",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "advice"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "advice"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "advice"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "advice"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "advice"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "advice"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "advice"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "lesson",
+      "meaning": "урок",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "lesson"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "lesson"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "lesson"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "lesson"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "lesson"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "lesson"
+        }
+      ]
+    },
+    {
+      "word": "beginner",
+      "meaning": "новичок",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "beginners"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Beginners"
+        }
+      ]
+    },
+    {
+      "word": "invitation",
+      "meaning": "приглашение",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "invitation"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "invitation"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "invitation"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "voyage",
+      "meaning": "плавание",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "voyage"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "voyage"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "voyage"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "voyage"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "voyage"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "voyage"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "mooring",
+      "meaning": "швартовка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "mooring"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "mooring"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "navigation",
+      "meaning": "навигация",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "navigation"
+        }
+      ]
+    },
+    {
+      "word": "rigging",
+      "meaning": "такелаж",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "rigging"
+        }
+      ]
+    },
+    {
+      "word": "help",
+      "meaning": "помощь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "help"
+        }
+      ]
+    },
+    {
+      "word": "support",
+      "meaning": "поддержка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "support"
+        }
+      ]
+    }
+  ]
+}

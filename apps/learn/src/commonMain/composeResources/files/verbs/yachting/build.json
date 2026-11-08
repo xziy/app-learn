@@ -1,0 +1,826 @@
+{
+  "spec": 4,
+  "verb": "build",
+  "forms": {
+    "base": [
+      {
+        "word": "build",
+        "transcription": "[билд]"
+      }
+    ],
+    "past": [
+      {
+        "word": "built",
+        "transcription": "[билт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "built",
+        "transcription": "[билт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "building",
+        "transcription": "[б**и**лдиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "builds",
+        "transcription": "[билдз]"
+      }
+    ]
+  },
+  "meaning": "строить, сооружать",
+  "notes": "неправильный переходный глагол; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "built",
+        "examples": [
+          {
+            "ours": "В прошлом году они построили лодку.",
+            "thought": "Прошлый год они построили [какую-то] лодку.",
+            "english": "Last year they built a boat.",
+            "transcription": "[ла:ст йиэ ðэй билт э боут]"
+          },
+          {
+            "ours": "Ты построил эту яхту?",
+            "thought": "[Сделал] ты строить эту яхту?",
+            "english": "Did you build this yacht?",
+            "transcription": "[дид ю: билд ðис йот]"
+          },
+          {
+            "ours": "Они не построили причал.",
+            "thought": "Они [сделали] не строить [известный] причал.",
+            "english": "They did not build the dock.",
+            "transcription": "[ðэй дид нот билд ðэ док]"
+          }
+        ]
+      },
+      "present": {
+        "form": "build, builds",
+        "examples": [
+          {
+            "ours": "Верфь строит яхты.",
+            "thought": "[Известная] верфь строит яхты.",
+            "english": "The shipyard builds yachts.",
+            "transcription": "[ðэ ш**и**пйа:д билдз йотс]"
+          },
+          {
+            "ours": "Вы строите деревянные лодки?",
+            "thought": "[Делаете] вы строить деревянные лодки?",
+            "english": "Do you build wooden boats?",
+            "transcription": "[ду: ю: билд w**у**дн боутс]"
+          },
+          {
+            "ours": "Мы не строим марины.",
+            "thought": "Мы [делаем] не строить марины.",
+            "english": "We do not build marinas.",
+            "transcription": "[wи: ду: нот билд мэр**и**:нэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will build",
+        "examples": [
+          {
+            "ours": "Завтра они начнут строить причал.",
+            "thought": "Завтра они будут строить [какой-то] причал.",
+            "english": "Tomorrow they will build a dock.",
+            "transcription": "[тэм**о**роу ðэй wил билд э док]"
+          },
+          {
+            "ours": "Ты построишь яхту?",
+            "thought": "Будешь ты строить [известную] яхту?",
+            "english": "Will you build the yacht?",
+            "transcription": "[wил ю: билд ðэ йот]"
+          },
+          {
+            "ours": "Она не построит лодку одна.",
+            "thought": "Она будет не строить [известную] лодку одна.",
+            "english": "She will not build the boat alone.",
+            "transcription": "[ши: wил нот билд ðэ боут эл**о**ун]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were building",
+        "examples": [
+          {
+            "ours": "Вчера утром они строили причал.",
+            "thought": "Вчера утром они были строящими [известный] причал.",
+            "english": "Yesterday morning they were building the dock.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ ðэй wœ: б**и**лдиŋ ðэ док]"
+          },
+          {
+            "ours": "Ты строил лодку, когда я позвонил?",
+            "thought": "Был ты строящим [известную] лодку, когда я позвонил?",
+            "english": "Were you building the boat when I called?",
+            "transcription": "[wœ: ю: б**и**лдиŋ ðэ боут wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are building",
+        "examples": [
+          {
+            "ours": "Они сейчас строят яхту.",
+            "thought": "Они являются строящими [известную] яхту сейчас.",
+            "english": "They are building the yacht now.",
+            "transcription": "[ðэй а: б**и**лдиŋ ðэ йот нау]"
+          },
+          {
+            "ours": "Верфь сейчас строит лодку?",
+            "thought": "Является [известная] верфь строящей [известную] лодку сейчас?",
+            "english": "Is the shipyard building the boat now?",
+            "transcription": "[из ðэ ш**и**пйа:д б**и**лдиŋ ðэ боут нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be building",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут строить причал.",
+            "thought": "Завтра утром они будут быть строящими [известный] причал.",
+            "english": "Tomorrow morning they will be building the dock.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: б**и**лдиŋ ðэ док]"
+          },
+          {
+            "ours": "Вы будете строить лодку летом?",
+            "thought": "Будете вы быть строящими [известную] лодку этим летом?",
+            "english": "Will you be building the boat this summer?",
+            "transcription": "[wил ю: би: б**и**лдиŋ ðэ боут ðис с**а**мэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had built",
+        "examples": [
+          {
+            "ours": "К июню они уже построили причал.",
+            "thought": "К июню они имели уже построенным [известный] причал.",
+            "english": "By June they had already built the dock.",
+            "transcription": "[бай джу:н ðэй хæд о:лр**э**ди билт ðэ док]"
+          },
+          {
+            "ours": "Ты построил лодку до гонки?",
+            "thought": "Имел ты построенной [известную] лодку до [известной] гонки?",
+            "english": "Had you built the boat before the race?",
+            "transcription": "[хæд ю: билт ðэ боут биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has built",
+        "examples": [
+          {
+            "ours": "Верфь уже построила яхту.",
+            "thought": "[Известная] верфь имеет уже построенной [известную] яхту.",
+            "english": "The shipyard has already built the yacht.",
+            "transcription": "[ðэ ш**и**пйа:д хæз о:лр**э**ди билт ðэ йот]"
+          },
+          {
+            "ours": "Ты уже построил лодку?",
+            "thought": "Имеешь ты построенной [известную] лодку уже?",
+            "english": "Have you built the boat yet?",
+            "transcription": "[хæв ю: билт ðэ боут йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have built",
+        "examples": [
+          {
+            "ours": "К июню они построят причал.",
+            "thought": "К июню они будут иметь построенным [известный] причал.",
+            "english": "By June they will have built the dock.",
+            "transcription": "[бай джу:н ðэй wил хæв билт ðэ док]"
+          },
+          {
+            "ours": "Ты построишь лодку к маю?",
+            "thought": "Будешь ты иметь построенной [известную] лодку к маю?",
+            "english": "Will you have built the boat by May?",
+            "transcription": "[wил ю: хæв билт ðэ боут бай мэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been building",
+        "examples": [
+          {
+            "ours": "Они строили яхту год, когда верфь закрылась.",
+            "thought": "Они имели быть строящими [известную] яхту целый [какой-то] год, когда [известная] верфь закрылась.",
+            "english": "They had been building the yacht for a year when the shipyard closed.",
+            "transcription": "[ðэй хæд би:н б**и**лдиŋ ðэ йот фо: э йиэ wэн ðэ ш**и**пйа:д клоузд]"
+          },
+          {
+            "ours": "Вы строили лодку два года до переезда?",
+            "thought": "Имели вы быть строящими [известную] лодку целых два года до переезда?",
+            "english": "Had you been building the boat for two years before moving?",
+            "transcription": "[хæд ю: би:н б**и**лдиŋ ðэ боут фо: ту: йиэз биф**о**: м**у**:виŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been building",
+        "examples": [
+          {
+            "ours": "Они строят яхту уже год.",
+            "thought": "Они имеют быть строящими [известную] яхту целый [какой-то] год.",
+            "english": "They have been building the yacht for a year.",
+            "transcription": "[ðэй хæв би:н б**и**лдиŋ ðэ йот фо: э йиэ]"
+          },
+          {
+            "ours": "Вы строите лодку уже два года?",
+            "thought": "Имеете вы быть строящими [известную] лодку целых два года?",
+            "english": "Have you been building the boat for two years?",
+            "transcription": "[хæв ю: би:н б**и**лдиŋ ðэ боут фо: ту: йиэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been building",
+        "examples": [
+          {
+            "ours": "К июню они будут строить яхту уже два года.",
+            "thought": "К июню они будут иметь быть строящими [известную] яхту целых два года.",
+            "english": "By June they will have been building the yacht for two years.",
+            "transcription": "[бай джу:н ðэй wил хæв би:н б**и**лдиŋ ðэ йот фо: ту: йиэз]"
+          },
+          {
+            "ours": "К маю вы будете строить лодку уже год?",
+            "thought": "Будете вы иметь быть строящими [известную] лодку целый [какой-то] год к маю?",
+            "english": "Will you have been building the boat for a year by May?",
+            "transcription": "[wил ю: хæв би:н б**и**лдиŋ ðэ боут фо: э йиэ бай мэй]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were built",
+        "examples": [
+          {
+            "ours": "Лодку построили в прошлом году.",
+            "thought": "[Известная] лодка была построена прошлый год.",
+            "english": "The boat was built last year.",
+            "transcription": "[ðэ боут wоз билт ла:ст йиэ]"
+          },
+          {
+            "ours": "Яхты построили на этой верфи?",
+            "thought": "Были [известные] яхты построены на этой верфи?",
+            "english": "Were the yachts built at this shipyard?",
+            "transcription": "[wœ: ðэ йотс билт æт ðис ш**и**пйа:д]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are built",
+        "examples": [
+          {
+            "ours": "Здесь строят яхты.",
+            "thought": "Яхты есть построены здесь.",
+            "english": "Yachts are built here.",
+            "transcription": "[йотс а: билт хиэ]"
+          },
+          {
+            "ours": "На этой верфи строят лодки?",
+            "thought": "Есть лодки построены на этой верфи?",
+            "english": "Are boats built at this shipyard?",
+            "transcription": "[а: боутс билт æт ðис ш**и**пйа:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be built",
+        "examples": [
+          {
+            "ours": "Причал построят завтра.",
+            "thought": "[Известный] причал будет быть построен завтра.",
+            "english": "The dock will be built tomorrow.",
+            "transcription": "[ðэ док wил би: билт тэм**о**роу]"
+          },
+          {
+            "ours": "Яхту построят на этой верфи?",
+            "thought": "Будет [известная] яхта быть построена на этой верфи?",
+            "english": "Will the yacht be built at this shipyard?",
+            "transcription": "[wил ðэ йот би: билт æт ðис ш**и**пйа:д]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being built",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, причал строили.",
+            "thought": "[Известный] причал был «долго» построен, когда я прибыл.",
+            "english": "The dock was being built when I arrived.",
+            "transcription": "[ðэ док wоз б**и**:иŋ билт wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, лодки строили?",
+            "thought": "Были [известные] лодки «долго» построены, когда ты позвонил?",
+            "english": "Were the boats being built when you called?",
+            "transcription": "[wœ: ðэ боутс б**и**:иŋ билт wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being built",
+        "examples": [
+          {
+            "ours": "Яхту сейчас строят.",
+            "thought": "[Известная] яхта есть «долго» построена сейчас.",
+            "english": "The yacht is being built now.",
+            "transcription": "[ðэ йот из б**и**:иŋ билт нау]"
+          },
+          {
+            "ours": "Лодки сейчас строят?",
+            "thought": "Есть [известные] лодки «долго» построены сейчас?",
+            "english": "Are the boats being built now?",
+            "transcription": "[а: ðэ боутс б**и**:иŋ билт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be building",
+        "examples": [
+          {
+            "ours": "Сегодня утром они будут строить причал.",
+            "thought": "Это утро они будут быть строящими [известный] причал.",
+            "english": "This morning they will be building the dock.",
+            "transcription": "[ðис м**о**:ниŋ ðэй wил би: б**и**лдиŋ ðэ док]"
+          },
+          {
+            "ours": "Они будут строить лодку летом?",
+            "thought": "Будут они быть строящими [известную] лодку этим летом?",
+            "english": "Will they be building the boat this summer?",
+            "transcription": "[wил ðэй би: б**и**лдиŋ ðэ боут ðис с**а**мэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been built",
+        "examples": [
+          {
+            "ours": "К июню причал уже построили.",
+            "thought": "К июню [известный] причал имел уже быть построен.",
+            "english": "By June the dock had already been built.",
+            "transcription": "[бай джу:н ðэ док хæд о:лр**э**ди би:н билт]"
+          },
+          {
+            "ours": "Лодку построили до гонки?",
+            "thought": "Имела [известная] лодка быть построена до [известной] гонки?",
+            "english": "Had the boat been built before the race?",
+            "transcription": "[хæд ðэ боут би:н билт биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been built",
+        "examples": [
+          {
+            "ours": "Яхту уже построили.",
+            "thought": "[Известная] яхта имеет уже быть построена.",
+            "english": "The yacht has already been built.",
+            "transcription": "[ðэ йот хæз о:лр**э**ди би:н билт]"
+          },
+          {
+            "ours": "Лодки уже построили?",
+            "thought": "Имеют [известные] лодки быть построены уже?",
+            "english": "Have the boats been built yet?",
+            "transcription": "[хæв ðэ боутс би:н билт йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been built",
+        "examples": [
+          {
+            "ours": "К июню причал построят.",
+            "thought": "К июню [известный] причал будет иметь быть построен.",
+            "english": "By June the dock will have been built.",
+            "transcription": "[бай джу:н ðэ док wил хæв би:н билт]"
+          },
+          {
+            "ours": "Яхту построят к маю?",
+            "thought": "Будет [известная] яхта иметь быть построена к маю?",
+            "english": "Will the yacht have been built by May?",
+            "transcription": "[wил ðэ йот хæв би:н билт бай мэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been building the yacht."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они построят яхту.",
+        "thought": "Я знал, они будут строить [известную] яхту.",
+        "english": "I knew they would build the yacht.",
+        "transcription": "[ай нью: ðэй wуд билд ðэ йот]"
+      },
+      {
+        "ours": "Она думала, что мы не построим лодку.",
+        "thought": "Она думала, мы будем не строить [известную] лодку.",
+        "english": "She thought we would not build the boat.",
+        "transcription": "[ши: θо:т wи: wуд нот билд ðэ боут]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "year"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Yachts"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "dock",
+      "meaning": "причал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "dock"
+        }
+      ]
+    },
+    {
+      "word": "shipyard",
+      "meaning": "верфь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "shipyard"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "shipyard"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "shipyard"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "shipyard"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "shipyard"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "shipyard"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "shipyard"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "marinas"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "summer",
+      "meaning": "лето",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "summer"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "summer"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "June"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "May",
+      "meaning": "май",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "May"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "May"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "May"
+        }
+      ]
+    }
+  ]
+}

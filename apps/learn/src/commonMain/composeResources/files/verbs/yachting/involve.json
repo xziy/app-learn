@@ -1,0 +1,670 @@
+{
+  "spec": 4,
+  "verb": "involve",
+  "forms": {
+    "base": [
+      {
+        "word": "involve",
+        "transcription": "[инв**о**лв]"
+      }
+    ],
+    "past": [
+      {
+        "word": "involved",
+        "transcription": "[инв**о**лвд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "involved",
+        "transcription": "[инв**о**лвд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "involving",
+        "transcription": "[инв**о**лвиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "involves",
+        "transcription": "[инв**о**лвз]"
+      }
+    ]
+  },
+  "meaning": "включать, требовать, вовлекать",
+  "notes": "правильный переходный глагол; пассив be involved in означает участие",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "involved",
+        "examples": [
+          {
+            "ours": "Вчера швартовка потребовала точной работы.",
+            "thought": "Вчера [известная] швартовка включала точную работу.",
+            "english": "Yesterday the docking involved precise work.",
+            "transcription": "[й**э**стэдэй ðэ д**о**киŋ инв**о**лвд прис**а**йс wœ:к]"
+          },
+          {
+            "ours": "Гонка не включала ночное плавание.",
+            "thought": "[Известная] гонка [сделала] не включать ночное плавание.",
+            "english": "The race did not involve night sailing.",
+            "transcription": "[ðэ рэйс дид нот инв**о**лв найт с**э**йлиŋ]"
+          },
+          {
+            "ours": "Переход потребовал ремонта?",
+            "thought": "[Сделал] [известный] переход включать ремонт?",
+            "english": "Did the crossing involve repairs?",
+            "transcription": "[дид ðэ кр**о**сиŋ инв**о**лв рип**э**эз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "involve, involves",
+        "examples": [
+          {
+            "ours": "Плавание требует планирования.",
+            "thought": "[Известное] плавание включает планирование.",
+            "english": "The voyage involves planning.",
+            "transcription": "[ðэ в**о**йидж инв**о**лвз пл**æ**ниŋ]"
+          },
+          {
+            "ours": "Гонка не включает ночное плавание.",
+            "thought": "[Известная] гонка [делает] не включать ночное плавание.",
+            "english": "The race does not involve night sailing.",
+            "transcription": "[ðэ рэйс даз нот инв**о**лв найт с**э**йлиŋ]"
+          },
+          {
+            "ours": "Подготовка включает ремонт?",
+            "thought": "[Делает] подготовка включать ремонт?",
+            "english": "Does preparation involve repairs?",
+            "transcription": "[даз прэпэр**э**йшн инв**о**лв рип**э**эз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will involve",
+        "examples": [
+          {
+            "ours": "Завтра гонка потребует ночного плавания.",
+            "thought": "Завтра [известная] гонка будет включать ночное плавание.",
+            "english": "Tomorrow the race will involve night sailing.",
+            "transcription": "[тэм**о**роу ðэ рэйс wил инв**о**лв найт с**э**йлиŋ]"
+          },
+          {
+            "ours": "Переход не потребует ремонта.",
+            "thought": "[Известный] переход будет не включать ремонт.",
+            "english": "The crossing will not involve repairs.",
+            "transcription": "[ðэ кр**о**сиŋ wил нот инв**о**лв рип**э**эз]"
+          },
+          {
+            "ours": "Плавание потребует ночных вахт?",
+            "thought": "Будет [известное] плавание включать ночные вахты?",
+            "english": "Will the voyage involve night watches?",
+            "transcription": "[wил ðэ в**о**йидж инв**о**лв найт w**о**чиз]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Involve в значении «включать, требовать» обычно описывает содержание работы и не употребляется в длительных временах. В значении «вовлекать» длительная форма возможна: She is involving the crew in planning."
+    },
+    "perfect": {
+      "past": {
+        "form": "had involved",
+        "examples": [
+          {
+            "ours": "К полудню подготовка уже включала много работы.",
+            "thought": "К полудню [известная] подготовка имела уже включённой много работы.",
+            "english": "By noon the preparation had already involved a lot of work.",
+            "transcription": "[бай ну:н ðэ прэпэр**э**йшн хæд о:лр**э**ди инв**о**лвд э лот ов wœ:к]"
+          },
+          {
+            "ours": "К тому времени плавание включало ночные вахты?",
+            "thought": "Имело [известное] плавание включёнными ночные вахты к тогда?",
+            "english": "Had the voyage involved night watches by then?",
+            "transcription": "[хæд ðэ в**о**йидж инв**о**лвд найт w**о**чиз бай ðэн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has involved",
+        "examples": [
+          {
+            "ours": "Подготовка уже потребовала много работы.",
+            "thought": "[Известная] подготовка имеет уже включённой много работы.",
+            "english": "The preparation has already involved a lot of work.",
+            "transcription": "[ðэ прэпэр**э**йшн хæз о:лр**э**ди инв**о**лвд э лот ов wœ:к]"
+          },
+          {
+            "ours": "Переход уже потребовал ремонта?",
+            "thought": "Имеет [известный] переход включённым ремонт уже?",
+            "english": "Has the crossing involved repairs yet?",
+            "transcription": "[хæз ðэ кр**о**сиŋ инв**о**лвд рип**э**эз йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have involved",
+        "examples": [
+          {
+            "ours": "К концу недели подготовка потребует много работы.",
+            "thought": "К [известному] концу [известной] недели [известная] подготовка будет иметь включённой много работы.",
+            "english": "By the end of the week the preparation will have involved a lot of work.",
+            "transcription": "[бай ðи энд ов ðэ wи:к ðэ прэпэр**э**йшн wил хæв инв**о**лвд э лот ов wœ:к]"
+          },
+          {
+            "ours": "К концу перехода плавание будет включать ночные вахты?",
+            "thought": "Будет [известное] плавание иметь включёнными ночные вахты к [известному] концу [известного] перехода?",
+            "english": "Will the voyage have involved night watches by the end of the crossing?",
+            "transcription": "[wил ðэ в**о**йидж хæв инв**о**лвд найт w**о**чиз бай ðи энд ов ðэ кр**о**сиŋ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для значения «включать, требовать» используют обычный perfect: The voyage has involved night watches. Длительный perfect возможен в значении вовлечения людей, если речь о повторяющихся действиях."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were involved",
+        "examples": [
+          {
+            "ours": "Вчера команда участвовала в планировании.",
+            "thought": "Вчера [известная] команда была вовлечена в планирование.",
+            "english": "Yesterday the crew was involved in planning.",
+            "transcription": "[й**э**стэдэй ðэ кру: wоз инв**о**лвд ин пл**æ**ниŋ]"
+          },
+          {
+            "ours": "Капитан не участвовал в ремонте.",
+            "thought": "[Известный] капитан был не вовлечён в ремонт.",
+            "english": "The skipper was not involved in repairs.",
+            "transcription": "[ðэ ск**и**пэ wоз нот инв**о**лвд ин рип**э**эз]"
+          },
+          {
+            "ours": "Ты участвовал в подготовке?",
+            "thought": "Был ты вовлечён в подготовку?",
+            "english": "Were you involved in preparation?",
+            "transcription": "[wœ: ю: инв**о**лвд ин прэпэр**э**йшн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are involved",
+        "examples": [
+          {
+            "ours": "Команда участвует в планировании.",
+            "thought": "[Известная] команда есть вовлечена в планирование.",
+            "english": "The crew is involved in planning.",
+            "transcription": "[ðэ кру: из инв**о**лвд ин пл**æ**ниŋ]"
+          },
+          {
+            "ours": "Капитан не участвует в ремонте.",
+            "thought": "[Известный] капитан есть не вовлечён в ремонт.",
+            "english": "The skipper is not involved in repairs.",
+            "transcription": "[ðэ ск**и**пэ из нот инв**о**лвд ин рип**э**эз]"
+          },
+          {
+            "ours": "Ты участвуешь в подготовке?",
+            "thought": "Есть ты вовлечён в подготовку?",
+            "english": "Are you involved in preparation?",
+            "transcription": "[а: ю: инв**о**лвд ин прэпэр**э**йшн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be involved",
+        "examples": [
+          {
+            "ours": "Завтра команда будет участвовать в планировании.",
+            "thought": "Завтра [известная] команда будет быть вовлечена в планирование.",
+            "english": "Tomorrow the crew will be involved in planning.",
+            "transcription": "[тэм**о**роу ðэ кру: wил би: инв**о**лвд ин пл**æ**ниŋ]"
+          },
+          {
+            "ours": "Капитан не будет участвовать в ремонте.",
+            "thought": "[Известный] капитан будет не быть вовлечён в ремонт.",
+            "english": "The skipper will not be involved in repairs.",
+            "transcription": "[ðэ ск**и**пэ wил нот би: инв**о**лвд ин рип**э**эз]"
+          },
+          {
+            "ours": "Ты будешь участвовать в подготовке?",
+            "thought": "Будешь ты быть вовлечён в подготовку?",
+            "english": "Will you be involved in preparation?",
+            "transcription": "[wил ю: би: инв**о**лвд ин прэпэр**э**йшн]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Для участия в работе естественнее состояние be involved: The crew is involved in planning. Для процесса привлечения предпочтут актив: They are involving the crew in planning."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been involved",
+        "examples": [
+          {
+            "ours": "К пяти команда уже участвовала в планировании.",
+            "thought": "К пяти [известная] команда имела уже быть вовлечена в планирование.",
+            "english": "By five the crew had already been involved in planning.",
+            "transcription": "[бай файв ðэ кру: хæд о:лр**э**ди би:н инв**о**лвд ин пл**æ**ниŋ]"
+          },
+          {
+            "ours": "К тому времени капитан участвовал в ремонте?",
+            "thought": "Имел [известный] капитан быть вовлечён в ремонт к тогда?",
+            "english": "Had the skipper been involved in repairs by then?",
+            "transcription": "[хæд ðэ ск**и**пэ би:н инв**о**лвд ин рип**э**эз бай ðэн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been involved",
+        "examples": [
+          {
+            "ours": "Команда уже участвовала в планировании.",
+            "thought": "[Известная] команда имеет уже быть вовлечена в планирование.",
+            "english": "The crew has already been involved in planning.",
+            "transcription": "[ðэ кру: хæз о:лр**э**ди би:н инв**о**лвд ин пл**æ**ниŋ]"
+          },
+          {
+            "ours": "Капитан уже участвовал в ремонте?",
+            "thought": "Имеет [известный] капитан быть вовлечён в ремонт уже?",
+            "english": "Has the skipper been involved in repairs yet?",
+            "transcription": "[хæз ðэ ск**и**пэ би:н инв**о**лвд ин рип**э**эз йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been involved",
+        "examples": [
+          {
+            "ours": "К пяти команда уже поучаствует в планировании.",
+            "thought": "К пяти [известная] команда будет иметь быть вовлечена в планирование.",
+            "english": "By five the crew will have been involved in planning.",
+            "transcription": "[бай файв ðэ кру: wил хæв би:н инв**о**лвд ин пл**æ**ниŋ]"
+          },
+          {
+            "ours": "К пяти капитан поучаствует в ремонте?",
+            "thought": "Будет [известный] капитан иметь быть вовлечён в ремонт к пяти?",
+            "english": "Will the skipper have been involved in repairs by five?",
+            "transcription": "[wил ðэ ск**и**пэ хæв би:н инв**о**лвд ин рип**э**эз бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The crew has been involved in planning."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что плавание потребует планирования.",
+        "thought": "Я знал [известное] плавание будет включать планирование.",
+        "english": "I knew the voyage would involve planning.",
+        "transcription": "[ай нью: ðэ в**о**йидж wуд инв**о**лв пл**æ**ниŋ]"
+      },
+      {
+        "ours": "Мы думали, что гонка не потребует ночного плавания.",
+        "thought": "Мы думали [известная] гонка будет не включать ночное плавание.",
+        "english": "We thought the race would not involve night sailing.",
+        "transcription": "[wи: θо:т ðэ рэйс wуд нот инв**о**лв найт с**э**йлиŋ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "docking",
+      "meaning": "швартовка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "docking"
+        }
+      ]
+    },
+    {
+      "word": "work",
+      "meaning": "работа",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "work"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "work"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "work"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "work"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "night"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "night"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "night"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "night"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "night"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "night"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "sailing",
+      "meaning": "парусный спорт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailing"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sailing"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "sailing"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "sailing"
+        }
+      ]
+    },
+    {
+      "word": "crossing",
+      "meaning": "переход",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "crossing"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "crossing"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crossing"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "crossing"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "repairs"
+        }
+      ]
+    },
+    {
+      "word": "voyage",
+      "meaning": "плавание",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "voyage"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "voyage"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "voyage"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "voyage"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "voyage"
+        }
+      ]
+    },
+    {
+      "word": "preparation",
+      "meaning": "подготовка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "preparation"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "preparation"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "preparation"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "preparation"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "preparation"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "preparation"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "preparation"
+        }
+      ]
+    },
+    {
+      "word": "watch",
+      "meaning": "вахта",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "watches"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "watches"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "watches"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "end",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "end"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "end"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "week"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "skipper"
+        }
+      ]
+    }
+  ]
+}

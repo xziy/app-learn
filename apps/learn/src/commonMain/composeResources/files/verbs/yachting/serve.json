@@ -1,0 +1,924 @@
+{
+  "spec": 4,
+  "verb": "serve",
+  "forms": {
+    "base": [
+      {
+        "word": "serve",
+        "transcription": "[сœ:в]"
+      }
+    ],
+    "past": [
+      {
+        "word": "served",
+        "transcription": "[сœ:вд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "served",
+        "transcription": "[сœ:вд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "serving",
+        "transcription": "[с**œ**:виŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "serves",
+        "transcription": "[сœ:вз]"
+      }
+    ]
+  },
+  "meaning": "подавать, обслуживать, служить",
+  "notes": "правильный переходный глагол; примеры показывают подачу еды на борту",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "served",
+        "examples": [
+          {
+            "ours": "Вчера экипаж подал ужин.",
+            "thought": "Вчера [известный] экипаж подал ужин.",
+            "english": "Yesterday the crew served dinner.",
+            "transcription": "[й**э**стэдэй ðэ кру: сœ:вд д**и**нэ]"
+          },
+          {
+            "ours": "Моряк подал обед вчера?",
+            "thought": "[Сделал] [известный] моряк подавать [известный] обед вчера?",
+            "english": "Did the sailor serve the meal yesterday?",
+            "transcription": "[дид ðэ с**э**йлэ сœ:в ðэ ми:л й**э**стэдэй]"
+          },
+          {
+            "ours": "Они не подали суп.",
+            "thought": "Они [сделали] не подавать [известный] суп.",
+            "english": "They did not serve the soup.",
+            "transcription": "[ðэй дид нот сœ:в ðэ су:п]"
+          }
+        ]
+      },
+      "present": {
+        "form": "serve, serves",
+        "examples": [
+          {
+            "ours": "Капитан подаёт суп.",
+            "thought": "[Известный] капитан подаёт [известный] суп.",
+            "english": "The skipper serves the soup.",
+            "transcription": "[ðэ ск**и**пэ сœ:вз ðэ су:п]"
+          },
+          {
+            "ours": "Он служит на яхте?",
+            "thought": "[Делает] он служить на [какой-то] яхте?",
+            "english": "Does he serve on a yacht?",
+            "transcription": "[даз хи: сœ:в он э йот]"
+          },
+          {
+            "ours": "Мы не подаём чай во время гонок.",
+            "thought": "Мы [делаем] не подавать чай во время гонок.",
+            "english": "We do not serve tea during races.",
+            "transcription": "[wи: ду: нот сœ:в ти: дь**ю**эриŋ р**э**йсиз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will serve",
+        "examples": [
+          {
+            "ours": "Завтра экипаж подаст ужин.",
+            "thought": "Завтра [известный] экипаж будет подавать ужин.",
+            "english": "Tomorrow the crew will serve dinner.",
+            "transcription": "[тэм**о**роу ðэ кру: wил сœ:в д**и**нэ]"
+          },
+          {
+            "ours": "Моряк подаст обед завтра?",
+            "thought": "Будет [известный] моряк подавать [известный] обед завтра?",
+            "english": "Will the sailor serve the meal tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ сœ:в ðэ ми:л тэм**о**роу]"
+          },
+          {
+            "ours": "Она не подаст обед.",
+            "thought": "Она будет не подавать [известный] обед.",
+            "english": "She will not serve the meal.",
+            "transcription": "[ши: wил нот сœ:в ðэ ми:л]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were serving",
+        "examples": [
+          {
+            "ours": "Экипаж подавал ужин, когда ты прибыл.",
+            "thought": "[Известный] экипаж был подающим ужин, когда ты прибыл.",
+            "english": "The crew was serving dinner when you arrived.",
+            "transcription": "[ðэ кру: wоз с**œ**:виŋ д**и**нэ wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Моряк подавал обед, когда ты прибыл?",
+            "thought": "Был [известный] моряк подающим [известный] обед, когда ты прибыл?",
+            "english": "Was the sailor serving the meal when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ с**œ**:виŋ ðэ ми:л wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are serving",
+        "examples": [
+          {
+            "ours": "Капитан сейчас подаёт суп.",
+            "thought": "[Известный] капитан является подающим [известный] суп сейчас.",
+            "english": "The skipper is serving the soup now.",
+            "transcription": "[ðэ ск**и**пэ из с**œ**:виŋ ðэ су:п нау]"
+          },
+          {
+            "ours": "Экипаж сейчас подаёт чай?",
+            "thought": "Является [известный] экипаж подающим чай сейчас?",
+            "english": "Is the crew serving tea now?",
+            "transcription": "[из ðэ кру: с**œ**:виŋ ти: нау]"
+          },
+          {
+            "ours": "Мы сейчас не подаём ужин.",
+            "thought": "Мы являемся не подающими ужин сейчас.",
+            "english": "We are not serving dinner now.",
+            "transcription": "[wи: а: нот с**œ**:виŋ д**и**нэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be serving",
+        "examples": [
+          {
+            "ours": "Завтра экипаж будет подавать ужин.",
+            "thought": "Завтра [известный] экипаж будет быть подающим ужин.",
+            "english": "Tomorrow the crew will be serving dinner.",
+            "transcription": "[тэм**о**роу ðэ кру: wил би: с**œ**:виŋ д**и**нэ]"
+          },
+          {
+            "ours": "Моряк завтра будет подавать обед?",
+            "thought": "Будет [известный] моряк быть подающим [известный] обед завтра?",
+            "english": "Will the sailor be serving the meal tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: с**œ**:виŋ ðэ ми:л тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had served",
+        "examples": [
+          {
+            "ours": "К полудню экипаж подал ужин.",
+            "thought": "К полудню [известный] экипаж имел поданным ужин.",
+            "english": "By noon the crew had served dinner.",
+            "transcription": "[бай ну:н ðэ кру: хæд сœ:вд д**и**нэ]"
+          },
+          {
+            "ours": "Моряк подал обед к полудню?",
+            "thought": "Имел [известный] моряк поданным [известный] обед к полудню?",
+            "english": "Had the sailor served the meal by noon?",
+            "transcription": "[хæд ðэ с**э**йлэ сœ:вд ðэ ми:л бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has served",
+        "examples": [
+          {
+            "ours": "Капитан уже подал суп.",
+            "thought": "[Известный] капитан имеет уже поданным [известный] суп.",
+            "english": "The skipper has already served the soup.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди сœ:вд ðэ су:п]"
+          },
+          {
+            "ours": "Экипаж уже подал чай?",
+            "thought": "Имеет [известный] экипаж поданным чай уже?",
+            "english": "Has the crew served tea yet?",
+            "transcription": "[хæз ðэ кру: сœ:вд ти: йэт]"
+          },
+          {
+            "ours": "Она ещё не подала обед.",
+            "thought": "Она имеет не поданным [известный] обед ещё.",
+            "english": "She has not served the meal yet.",
+            "transcription": "[ши: хæз нот сœ:вд ðэ ми:л йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have served",
+        "examples": [
+          {
+            "ours": "К пяти экипаж подаст ужин.",
+            "thought": "К пяти [известный] экипаж будет иметь поданным ужин.",
+            "english": "By five the crew will have served dinner.",
+            "transcription": "[бай файв ðэ кру: wил хæв сœ:вд д**и**нэ]"
+          },
+          {
+            "ours": "Моряк подаст обед к пяти?",
+            "thought": "Будет [известный] моряк иметь поданным [известный] обед к пяти?",
+            "english": "Will the sailor have served the meal by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв сœ:вд ðэ ми:л бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been serving",
+        "examples": [
+          {
+            "ours": "Экипаж подавал ужин два часа, когда поднялся ветер.",
+            "thought": "[Известный] экипаж имел быть подающим ужин целых два часа, когда [известный] ветер поднялся.",
+            "english": "The crew had been serving dinner for two hours when the wind rose.",
+            "transcription": "[ðэ кру: хæд би:н с**œ**:виŋ д**и**нэ фо: ту: **а**уэз wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты долго подавал чай, когда я пришёл?",
+            "thought": "Имел ты быть подающим чай долго, когда я прибыл?",
+            "english": "Had you been serving tea long when I arrived?",
+            "transcription": "[хæд ю: би:н с**œ**:виŋ ти: лоŋ wэн ай эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been serving",
+        "examples": [
+          {
+            "ours": "Экипаж подаёт ужин уже два часа.",
+            "thought": "[Известный] экипаж имеет быть подающим ужин целых два часа.",
+            "english": "The crew has been serving dinner for two hours.",
+            "transcription": "[ðэ кру: хæз би:н с**œ**:виŋ д**и**нэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже час подаёшь чай?",
+            "thought": "Имеешь ты быть подающим чай целый [какой-то] час?",
+            "english": "Have you been serving tea for an hour?",
+            "transcription": "[хæв ю: би:н с**œ**:виŋ ти: фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been serving",
+        "examples": [
+          {
+            "ours": "К пяти экипаж будет подавать ужин уже два часа.",
+            "thought": "К пяти [известный] экипаж будет иметь быть подающим ужин целых два часа.",
+            "english": "By five the crew will have been serving dinner for two hours.",
+            "transcription": "[бай файв ðэ кру: wил хæв би:н с**œ**:виŋ д**и**нэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь подавать чай уже час?",
+            "thought": "Будешь ты иметь быть подающим чай целый [какой-то] час к пяти?",
+            "english": "Will you have been serving tea for an hour by five?",
+            "transcription": "[wил ю: хæв би:н с**œ**:виŋ ти: фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were served",
+        "examples": [
+          {
+            "ours": "Ужин был подан вчера.",
+            "thought": "Ужин был подан вчера.",
+            "english": "Dinner was served yesterday.",
+            "transcription": "[д**и**нэ wоз сœ:вд й**э**стэдэй]"
+          },
+          {
+            "ours": "Обед был подан вчера?",
+            "thought": "Был [известный] обед подан вчера?",
+            "english": "Was the meal served yesterday?",
+            "transcription": "[wоз ðэ ми:л сœ:вд й**э**стэдэй]"
+          },
+          {
+            "ours": "Суп не подали вчера.",
+            "thought": "[Известный] суп был не подан вчера.",
+            "english": "The soup was not served yesterday.",
+            "transcription": "[ðэ су:п wоз нот сœ:вд й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are served",
+        "examples": [
+          {
+            "ours": "Суп подают здесь.",
+            "thought": "[Известный] суп есть подан здесь.",
+            "english": "The soup is served here.",
+            "transcription": "[ðэ су:п из сœ:вд хиэ]"
+          },
+          {
+            "ours": "Чай подают здесь?",
+            "thought": "Есть чай подан здесь?",
+            "english": "Is tea served here?",
+            "transcription": "[из ти: сœ:вд хиэ]"
+          },
+          {
+            "ours": "Суп не подают ночью.",
+            "thought": "[Известный] суп есть не подан ночью.",
+            "english": "The soup is not served at night.",
+            "transcription": "[ðэ су:п из нот сœ:вд æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be served",
+        "examples": [
+          {
+            "ours": "Ужин подадут завтра.",
+            "thought": "Ужин будет быть подан завтра.",
+            "english": "Dinner will be served tomorrow.",
+            "transcription": "[д**и**нэ wил би: сœ:вд тэм**о**роу]"
+          },
+          {
+            "ours": "Обед подадут завтра?",
+            "thought": "Будет [известный] обед быть подан завтра?",
+            "english": "Will the meal be served tomorrow?",
+            "transcription": "[wил ðэ ми:л би: сœ:вд тэм**о**роу]"
+          },
+          {
+            "ours": "Обед не подадут завтра.",
+            "thought": "[Известный] обед будет не быть подан завтра.",
+            "english": "The meal will not be served tomorrow.",
+            "transcription": "[ðэ ми:л wил нот би: сœ:вд тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being served",
+        "examples": [
+          {
+            "ours": "Ужин подавали, когда ты прибыл.",
+            "thought": "Ужин был «долго» подан, когда ты прибыл.",
+            "english": "Dinner was being served when you arrived.",
+            "transcription": "[д**и**нэ wоз б**и**:иŋ сœ:вд wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Обед подавали, когда ты прибыл?",
+            "thought": "Был [известный] обед «долго» подан, когда ты прибыл?",
+            "english": "Was the meal being served when you arrived?",
+            "transcription": "[wоз ðэ ми:л б**и**:иŋ сœ:вд wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being served",
+        "examples": [
+          {
+            "ours": "Суп сейчас подают.",
+            "thought": "[Известный] суп есть «долго» подан сейчас.",
+            "english": "The soup is being served now.",
+            "transcription": "[ðэ су:п из б**и**:иŋ сœ:вд нау]"
+          },
+          {
+            "ours": "Чай сейчас подают?",
+            "thought": "Есть чай «долго» подан сейчас?",
+            "english": "Is tea being served now?",
+            "transcription": "[из ти: б**и**:иŋ сœ:вд нау]"
+          },
+          {
+            "ours": "Чай сейчас не подают.",
+            "thought": "Чай есть не «долго» подан сейчас.",
+            "english": "Tea is not being served now.",
+            "transcription": "[ти: из нот б**и**:иŋ сœ:вд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be serving",
+        "examples": [
+          {
+            "ours": "Завтра они будут подавать ужин.",
+            "thought": "Завтра они будут быть подающими ужин.",
+            "english": "Tomorrow they will be serving dinner.",
+            "transcription": "[тэм**о**роу ðэй wил би: с**œ**:виŋ д**и**нэ]"
+          },
+          {
+            "ours": "Они будут подавать обед завтра?",
+            "thought": "Будут они быть подающими [известный] обед завтра?",
+            "english": "Will they be serving the meal tomorrow?",
+            "transcription": "[wил ðэй би: с**œ**:виŋ ðэ ми:л тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been served",
+        "examples": [
+          {
+            "ours": "К полудню ужин подали.",
+            "thought": "К полудню ужин имел быть подан.",
+            "english": "By noon dinner had been served.",
+            "transcription": "[бай ну:н д**и**нэ хæд би:н сœ:вд]"
+          },
+          {
+            "ours": "Обед подали к полудню?",
+            "thought": "Имел [известный] обед быть подан к полудню?",
+            "english": "Had the meal been served by noon?",
+            "transcription": "[хæд ðэ ми:л би:н сœ:вд бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been served",
+        "examples": [
+          {
+            "ours": "Суп уже подали.",
+            "thought": "[Известный] суп имеет уже быть подан.",
+            "english": "The soup has already been served.",
+            "transcription": "[ðэ су:п хæз о:лр**э**ди би:н сœ:вд]"
+          },
+          {
+            "ours": "Чай уже подали?",
+            "thought": "Имеет чай быть подан уже?",
+            "english": "Has tea been served yet?",
+            "transcription": "[хæз ти: би:н сœ:вд йэт]"
+          },
+          {
+            "ours": "Обед ещё не подали.",
+            "thought": "[Известный] обед имеет не быть подан ещё.",
+            "english": "The meal has not been served yet.",
+            "transcription": "[ðэ ми:л хæз нот би:н сœ:вд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been served",
+        "examples": [
+          {
+            "ours": "К пяти ужин подадут.",
+            "thought": "К пяти ужин будет иметь быть подан.",
+            "english": "By five dinner will have been served.",
+            "transcription": "[бай файв д**и**нэ wил хæв би:н сœ:вд]"
+          },
+          {
+            "ours": "Обед подадут к пяти?",
+            "thought": "Будет [известный] обед иметь быть подан к пяти?",
+            "english": "Will the meal have been served by five?",
+            "transcription": "[wил ðэ ми:л хæв би:н сœ:вд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The crew has been serving dinner."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что моряк подаст обед.",
+        "thought": "Я знал [известный] моряк будет подавать [известный] обед.",
+        "english": "I knew the sailor would serve the meal.",
+        "transcription": "[ай нью: ðэ с**э**йлэ wуд сœ:в ðэ ми:л]"
+      },
+      {
+        "ours": "Мы думали, что экипаж не подаст ужин.",
+        "thought": "Мы думали [известный] экипаж будет не подавать ужин.",
+        "english": "We thought the crew would not serve dinner.",
+        "transcription": "[wи: θо:т ðэ кру: wуд нот сœ:в д**и**нэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "dinner",
+      "meaning": "ужин",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "dinner"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Dinner"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Dinner"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Dinner"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "meal",
+      "meaning": "еда",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "meal"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "meal"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "meal"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "meal"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "meal"
+        }
+      ]
+    },
+    {
+      "word": "soup",
+      "meaning": "суп",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "soup"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "soup"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "soup"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "soup"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "soup"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "soup"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "soup"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "soup"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "soup"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "tea",
+      "meaning": "чай",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "tea"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "tea"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "tea"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "tea"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "tea"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "tea"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "tea"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "tea"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "Tea"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "tea"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "races"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "yacht"
+        }
+      ]
+    }
+  ]
+}

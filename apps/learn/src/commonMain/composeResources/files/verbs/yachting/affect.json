@@ -1,0 +1,1022 @@
+{
+  "spec": 4,
+  "verb": "affect",
+  "forms": {
+    "base": [
+      {
+        "word": "affect",
+        "transcription": "[эф**э**кт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "affected",
+        "transcription": "[эф**э**ктид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "affected",
+        "transcription": "[эф**э**ктид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "affecting",
+        "transcription": "[эф**э**ктиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "affects",
+        "transcription": "[эф**э**ктс]"
+      }
+    ]
+  },
+  "meaning": "влиять на, затрагивать",
+  "notes": "правильный переходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "affected",
+        "examples": [
+          {
+            "ours": "Вчера ветер повлиял на скорость лодки.",
+            "thought": "Вчера [известный] ветер затронул [известной] лодки скорость.",
+            "english": "Yesterday the wind affected the boat speed.",
+            "transcription": "[й**э**стэдэй ðэ wинд эф**э**ктид ðэ боут спи:д]"
+          },
+          {
+            "ours": "Туман не повлиял на гонку.",
+            "thought": "[Известный] туман [сделал] не затрагивать [известную] гонку.",
+            "english": "The fog didn't affect the race.",
+            "transcription": "[ðэ фог диднт эф**э**кт ðэ рэйс]"
+          },
+          {
+            "ours": "Шторм повлиял на выход?",
+            "thought": "[Сделал] [известный] шторм затрагивать выход?",
+            "english": "Did the storm affect departure?",
+            "transcription": "[дид ðэ сто:м эф**э**кт дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "affect, affects",
+        "examples": [
+          {
+            "ours": "Ветер влияет на скорость яхты.",
+            "thought": "[Известный] ветер затрагивает [известной] яхты скорость.",
+            "english": "The wind affects the yacht speed.",
+            "transcription": "[ðэ wинд эф**э**ктс ðэ йот спи:д]"
+          },
+          {
+            "ours": "Течение не влияет на план.",
+            "thought": "[Известное] течение [делает] не затрагивать [известный] план.",
+            "english": "The current doesn't affect the plan.",
+            "transcription": "[ðэ к**а**рэнт дазнт эф**э**кт ðэ плæн]"
+          },
+          {
+            "ours": "Погода влияет на маршрут?",
+            "thought": "[Делает] [известная] погода затрагивать [известный] маршрут?",
+            "english": "Does the weather affect the route?",
+            "transcription": "[даз ðэ w**э**ðэ эф**э**кт ðэ ру:т]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will affect",
+        "examples": [
+          {
+            "ours": "Завтра шторм повлияет на гонку.",
+            "thought": "Завтра [известный] шторм будет затрагивать [известную] гонку.",
+            "english": "Tomorrow the storm will affect the race.",
+            "transcription": "[тэм**о**роу ðэ сто:м wил эф**э**кт ðэ рэйс]"
+          },
+          {
+            "ours": "Туман не повлияет на выход.",
+            "thought": "[Известный] туман будет не затрагивать выход.",
+            "english": "The fog won't affect departure.",
+            "transcription": "[ðэ фог wоунт эф**э**кт дип**а**:чэ]"
+          },
+          {
+            "ours": "Ветер повлияет на скорость?",
+            "thought": "Будет [известный] ветер затрагивать [известную] скорость?",
+            "english": "Will the wind affect the speed?",
+            "transcription": "[wил ðэ wинд эф**э**кт ðэ спи:д]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were affecting",
+        "examples": [
+          {
+            "ours": "Вчера ветер весь день влиял на скорость.",
+            "thought": "Вчера [известный] ветер был затрагивающим [известную] скорость весь день.",
+            "english": "Yesterday the wind was affecting the speed all day.",
+            "transcription": "[й**э**стэдэй ðэ wинд wоз эф**э**ктиŋ ðэ спи:д о:л дэй]"
+          },
+          {
+            "ours": "Туман влиял на выход, когда я пришёл?",
+            "thought": "Был [известный] туман затрагивающим выход когда я пришёл?",
+            "english": "Was the fog affecting departure when I came?",
+            "transcription": "[wоз ðэ фог эф**э**ктиŋ дип**а**:чэ wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are affecting",
+        "examples": [
+          {
+            "ours": "Сейчас ветер влияет на скорость.",
+            "thought": "[Известный] ветер является затрагивающим [известную] скорость сейчас.",
+            "english": "The wind is affecting the speed now.",
+            "transcription": "[ðэ wинд из эф**э**ктиŋ ðэ спи:д нау]"
+          },
+          {
+            "ours": "Туман сейчас влияет на выход?",
+            "thought": "Является [известный] туман затрагивающим выход сейчас?",
+            "english": "Is the fog affecting departure now?",
+            "transcription": "[из ðэ фог эф**э**ктиŋ дип**а**:чэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be affecting",
+        "examples": [
+          {
+            "ours": "Завтра ветер весь день будет влиять на скорость.",
+            "thought": "Завтра [известный] ветер будет быть затрагивающим [известную] скорость весь день.",
+            "english": "Tomorrow the wind will be affecting the speed all day.",
+            "transcription": "[тэм**о**роу ðэ wинд wил би: эф**э**ктиŋ ðэ спи:д о:л дэй]"
+          },
+          {
+            "ours": "Туман будет влиять на выход во время шторма?",
+            "thought": "Будет [известный] туман быть затрагивающим выход во время [известного] шторма?",
+            "english": "Will the fog be affecting departure during the storm?",
+            "transcription": "[wил ðэ фог би: эф**э**ктиŋ дип**а**:чэ дь**ю**эриŋ ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had affected",
+        "examples": [
+          {
+            "ours": "Вчера к пяти ветер уже повлиял на скорость.",
+            "thought": "К пяти вчера [известный] ветер имел уже затронутой [известную] скорость.",
+            "english": "By five yesterday the wind had already affected the speed.",
+            "transcription": "[бай файв й**э**стэдэй ðэ wинд хæд о:лр**э**ди эф**э**ктид ðэ спи:д]"
+          },
+          {
+            "ours": "Шторм повлиял на выход до гонки?",
+            "thought": "Имел [известный] шторм затронутым выход перед [известной] гонкой?",
+            "english": "Had the storm affected departure before the race?",
+            "transcription": "[хæд ðэ сто:м эф**э**ктид дип**а**:чэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has affected",
+        "examples": [
+          {
+            "ours": "Ветер уже повлиял на скорость.",
+            "thought": "[Известный] ветер имеет уже затронутой [известную] скорость.",
+            "english": "The wind has already affected the speed.",
+            "transcription": "[ðэ wинд хæз о:лр**э**ди эф**э**ктид ðэ спи:д]"
+          },
+          {
+            "ours": "Шторм уже повлиял на выход?",
+            "thought": "Имеет [известный] шторм уже затронутым выход?",
+            "english": "Has the storm already affected departure?",
+            "transcription": "[хæз ðэ сто:м о:лр**э**ди эф**э**ктид дип**а**:чэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have affected",
+        "examples": [
+          {
+            "ours": "Завтра к пяти ветер уже повлияет на скорость.",
+            "thought": "К пяти завтра [известный] ветер будет иметь уже затронутой [известную] скорость.",
+            "english": "By five tomorrow the wind will have already affected the speed.",
+            "transcription": "[бай файв тэм**о**роу ðэ wинд wил хæв о:лр**э**ди эф**э**ктид ðэ спи:д]"
+          },
+          {
+            "ours": "Шторм повлияет на выход до гонки?",
+            "thought": "Будет [известный] шторм иметь затронутым выход перед [известной] гонкой?",
+            "english": "Will the storm have affected departure before the race?",
+            "transcription": "[wил ðэ сто:м хæв эф**э**ктид дип**а**:чэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been affecting",
+        "examples": [
+          {
+            "ours": "Ветер уже два часа влиял на скорость, когда ты пришёл.",
+            "thought": "[Известный] ветер имел быть затрагивающим [известную] скорость целых два часа когда ты пришёл.",
+            "english": "The wind had been affecting the speed for two hours when you came.",
+            "transcription": "[ðэ wинд хæд би:н эф**э**ктиŋ ðэ спи:д фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Туман уже два часа влиял на выход, когда он пришёл?",
+            "thought": "Имел [известный] туман быть затрагивающим выход целых два часа когда он пришёл?",
+            "english": "Had the fog been affecting departure for two hours when he came?",
+            "transcription": "[хæд ðэ фог би:н эф**э**ктиŋ дип**а**:чэ фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been affecting",
+        "examples": [
+          {
+            "ours": "Ветер уже два часа влияет на скорость.",
+            "thought": "[Известный] ветер имеет быть затрагивающим [известную] скорость целых два часа.",
+            "english": "The wind has been affecting the speed for two hours.",
+            "transcription": "[ðэ wинд хæз би:н эф**э**ктиŋ ðэ спи:д фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Туман уже два часа влияет на выход?",
+            "thought": "Имеет [известный] туман быть затрагивающим выход целых два часа?",
+            "english": "Has the fog been affecting departure for two hours?",
+            "transcription": "[хæз ðэ фог би:н эф**э**ктиŋ дип**а**:чэ фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been affecting",
+        "examples": [
+          {
+            "ours": "К пяти ветер будет влиять на скорость уже два часа.",
+            "thought": "К пяти [известный] ветер будет иметь быть затрагивающим [известную] скорость целых два часа.",
+            "english": "By five the wind will have been affecting the speed for two hours.",
+            "transcription": "[бай файв ðэ wинд wил хæв би:н эф**э**ктиŋ ðэ спи:д фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти туман будет влиять на выход уже два часа?",
+            "thought": "Будет [известный] туман иметь быть затрагивающим выход целых два часа к пяти?",
+            "english": "Will the fog have been affecting departure for two hours by five?",
+            "transcription": "[wил ðэ фог хæв би:н эф**э**ктиŋ дип**а**:чэ фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were affected",
+        "examples": [
+          {
+            "ours": "Вчера ветер повлиял на скорость.",
+            "thought": "[Известная] скорость была затронута от [известного] ветра вчера.",
+            "english": "The speed was affected by the wind yesterday.",
+            "transcription": "[ðэ спи:д wоз эф**э**ктид бай ðэ wинд й**э**стэдэй]"
+          },
+          {
+            "ours": "Туман повлиял на выход?",
+            "thought": "Был выход затронут от [известного] тумана?",
+            "english": "Was departure affected by the fog?",
+            "transcription": "[wоз дип**а**:чэ эф**э**ктид бай ðэ фог]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are affected",
+        "examples": [
+          {
+            "ours": "Ветер влияет на скорость яхты.",
+            "thought": "[Известной] яхты скорость есть затронута от ветра.",
+            "english": "The yacht speed is affected by wind.",
+            "transcription": "[ðэ йот спи:д из эф**э**ктид бай wинд]"
+          },
+          {
+            "ours": "Погода влияет на гонку?",
+            "thought": "Есть [известная] гонка затронута от [известной] погоды?",
+            "english": "Is the race affected by the weather?",
+            "transcription": "[из ðэ рэйс эф**э**ктид бай ðэ w**э**ðэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be affected",
+        "examples": [
+          {
+            "ours": "Завтра ветер повлияет на скорость.",
+            "thought": "[Известная] скорость будет быть затронута от [известного] ветра завтра.",
+            "english": "The speed will be affected by the wind tomorrow.",
+            "transcription": "[ðэ спи:д wил би: эф**э**ктид бай ðэ wинд тэм**о**роу]"
+          },
+          {
+            "ours": "Туман повлияет на выход?",
+            "thought": "Будет выход быть затронут от [известного] тумана?",
+            "english": "Will departure be affected by the fog?",
+            "transcription": "[wил дип**а**:чэ би: эф**э**ктид бай ðэ фог]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being affected",
+        "examples": [
+          {
+            "ours": "Вчера ветер весь день влиял на скорость.",
+            "thought": "Вчера [известная] скорость была «долго» затронута от [известного] ветра весь день.",
+            "english": "Yesterday the speed was being affected by the wind all day.",
+            "transcription": "[й**э**стэдэй ðэ спи:д wоз б**и**:иŋ эф**э**ктид бай ðэ wинд о:л дэй]"
+          },
+          {
+            "ours": "Туман влиял на выход, когда ты пришёл?",
+            "thought": "Был выход «долго» затронут от [известного] тумана когда ты пришёл?",
+            "english": "Was departure being affected by the fog when you came?",
+            "transcription": "[wоз дип**а**:чэ б**и**:иŋ эф**э**ктид бай ðэ фог wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being affected",
+        "examples": [
+          {
+            "ours": "Сейчас ветер влияет на скорость.",
+            "thought": "[Известная] скорость есть «долго» затронута от [известного] ветра сейчас.",
+            "english": "The speed is being affected by the wind now.",
+            "transcription": "[ðэ спи:д из б**и**:иŋ эф**э**ктид бай ðэ wинд нау]"
+          },
+          {
+            "ours": "Туман сейчас влияет на выход?",
+            "thought": "Есть выход «долго» затронут от [известного] тумана сейчас?",
+            "english": "Is departure being affected by the fog now?",
+            "transcription": "[из дип**а**:чэ б**и**:иŋ эф**э**ктид бай ðэ фог нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be affecting",
+        "examples": [
+          {
+            "ours": "Завтра течение весь день будет влиять на маршрут.",
+            "thought": "Завтра [известное] течение будет быть затрагивающим [известный] маршрут весь день.",
+            "english": "Tomorrow the current will be affecting the route all day.",
+            "transcription": "[тэм**о**роу ðэ к**а**рэнт wил би: эф**э**ктиŋ ðэ ру:т о:л дэй]"
+          },
+          {
+            "ours": "Волны будут влиять на яхту во время гонки?",
+            "thought": "Будут [известные] волны быть затрагивающими [известную] яхту во время [известной] гонки?",
+            "english": "Will the waves be affecting the yacht during the race?",
+            "transcription": "[wил ðэ wэйвз би: эф**э**ктиŋ ðэ йот дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been affected",
+        "examples": [
+          {
+            "ours": "Вчера к пяти ветер уже повлиял на скорость.",
+            "thought": "К пяти вчера [известная] скорость имела уже быть затронута от [известного] ветра.",
+            "english": "By five yesterday the speed had already been affected by the wind.",
+            "transcription": "[бай файв й**э**стэдэй ðэ спи:д хæд о:лр**э**ди би:н эф**э**ктид бай ðэ wинд]"
+          },
+          {
+            "ours": "Туман повлиял на выход до гонки?",
+            "thought": "Имел выход быть затронут от [известного] тумана перед [известной] гонкой?",
+            "english": "Had departure been affected by the fog before the race?",
+            "transcription": "[хæд дип**а**:чэ би:н эф**э**ктид бай ðэ фог биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been affected",
+        "examples": [
+          {
+            "ours": "Ветер уже повлиял на скорость.",
+            "thought": "[Известная] скорость имеет уже быть затронута от [известного] ветра.",
+            "english": "The speed has already been affected by the wind.",
+            "transcription": "[ðэ спи:д хæз о:лр**э**ди би:н эф**э**ктид бай ðэ wинд]"
+          },
+          {
+            "ours": "Туман уже повлиял на выход?",
+            "thought": "Имеет выход уже быть затронут от [известного] тумана?",
+            "english": "Has departure already been affected by the fog?",
+            "transcription": "[хæз дип**а**:чэ о:лр**э**ди би:н эф**э**ктид бай ðэ фог]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been affected",
+        "examples": [
+          {
+            "ours": "К пяти завтра ветер уже повлияет на скорость.",
+            "thought": "К пяти завтра [известная] скорость будет уже иметь быть затронута от [известного] ветра.",
+            "english": "By five tomorrow the speed will already have been affected by the wind.",
+            "transcription": "[бай файв тэм**о**роу ðэ спи:д wил о:лр**э**ди хæв би:н эф**э**ктид бай ðэ wинд]"
+          },
+          {
+            "ours": "Туман повлияет на выход до гонки?",
+            "thought": "Будет выход иметь быть затронут от [известного] тумана перед [известной] гонкой?",
+            "english": "Will departure have been affected by the fog before the race?",
+            "transcription": "[wил дип**а**:чэ хæв би:н эф**э**ктид бай ðэ фог биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The speed has been affected by the wind. Или: The wind has been affecting the speed."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что ветер повлияет на скорость.",
+        "thought": "[Известный] капитан сказал что [известный] ветер будет затрагивать [известную] скорость.",
+        "english": "The captain said that the wind would affect the speed.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ wинд wуд эф**э**кт ðэ спи:д]"
+      },
+      {
+        "ours": "Я знал, что туман не повлияет на выход.",
+        "thought": "Я знал что [известный] туман будет не затрагивать выход.",
+        "english": "I knew that the fog wouldn't affect departure.",
+        "transcription": "[ай нью: ðæт ðэ фог wуднт эф**э**кт дип**а**:чэ]"
+      },
+      {
+        "ours": "Капитан сказал, что шторм повлияет на гонку.",
+        "thought": "[Известный] капитан сказал что [известный] шторм будет затрагивать [известную] гонку.",
+        "english": "The captain said that the storm would affect the race.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ сто:м wуд эф**э**кт ðэ рэйс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "speed",
+      "meaning": "скорость",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "speed"
+        }
+      ]
+    },
+    {
+      "word": "fog",
+      "meaning": "туман",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "fog"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "выход",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "current",
+      "meaning": "течение",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "current"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "current"
+        }
+      ]
+    },
+    {
+      "word": "plan",
+      "meaning": "план",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "plan"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "weather"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "wave",
+      "meaning": "волна",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "waves"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,996 @@
+{
+  "spec": 4,
+  "verb": "reveal",
+  "forms": {
+    "base": [
+      {
+        "word": "reveal",
+        "transcription": "[рив**и**:л]"
+      }
+    ],
+    "past": [
+      {
+        "word": "revealed",
+        "transcription": "[рив**и**:лд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "revealed",
+        "transcription": "[рив**и**:лд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "revealing",
+        "transcription": "[рив**и**:лиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "reveals",
+        "transcription": "[рив**и**:лз]"
+      }
+    ]
+  },
+  "meaning": "выявлять, раскрывать",
+  "notes": "правильный переходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "revealed",
+        "examples": [
+          {
+            "ours": "Вчера осмотр выявил течь.",
+            "thought": "Вчера [известный] осмотр выявил [какую-то] течь.",
+            "english": "Yesterday the inspection revealed a leak.",
+            "transcription": "[й**э**стэдэй ðэ инсп**э**кшн рив**и**:лд э ли:к]"
+          },
+          {
+            "ours": "Отчёт не выявил повреждений.",
+            "thought": "[Известный] отчёт [сделал] не выявлять повреждение.",
+            "english": "The report didn't reveal damage.",
+            "transcription": "[ðэ рип**о**:т диднт рив**и**:л д**æ**мидж]"
+          },
+          {
+            "ours": "Карта показала риф до гонки?",
+            "thought": "[Сделала] [известная] карта выявлять [известный] риф перед [известной] гонкой?",
+            "english": "Did the chart reveal the reef before the race?",
+            "transcription": "[дид ðэ ча:т рив**и**:л ðэ ри:ф биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "reveal, reveals",
+        "examples": [
+          {
+            "ours": "Осмотр выявляет течи.",
+            "thought": "[Известный] осмотр выявляет течи.",
+            "english": "The inspection reveals leaks.",
+            "transcription": "[ðэ инсп**э**кшн рив**и**:лз ли:кс]"
+          },
+          {
+            "ours": "Этот датчик не показывает глубину.",
+            "thought": "Этот датчик [делает] не выявлять глубину.",
+            "english": "This sensor doesn't reveal depth.",
+            "transcription": "[ðис с**э**нсэ дазнт рив**и**:л дэпθ]"
+          },
+          {
+            "ours": "Карта показывает рифы?",
+            "thought": "[Делает] [известная] карта выявлять рифы?",
+            "english": "Does the chart reveal reefs?",
+            "transcription": "[даз ðэ ча:т рив**и**:л ри:фс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will reveal",
+        "examples": [
+          {
+            "ours": "Завтра осмотр выявит повреждения.",
+            "thought": "Завтра [известный] осмотр будет выявлять повреждение.",
+            "english": "Tomorrow the inspection will reveal damage.",
+            "transcription": "[тэм**о**роу ðэ инсп**э**кшн wил рив**и**:л д**æ**мидж]"
+          },
+          {
+            "ours": "Отчёт не выявит течь.",
+            "thought": "[Известный] отчёт будет не выявлять [известную] течь.",
+            "english": "The report won't reveal the leak.",
+            "transcription": "[ðэ рип**о**:т wоунт рив**и**:л ðэ ли:к]"
+          },
+          {
+            "ours": "Карта покажет риф до выхода?",
+            "thought": "Будет [известная] карта выявлять [известный] риф перед отправлением?",
+            "english": "Will the chart reveal the reef before departure?",
+            "transcription": "[wил ðэ ча:т рив**и**:л ðэ ри:ф биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were revealing",
+        "examples": [
+          {
+            "ours": "Вчера осмотры весь день выявляли течи.",
+            "thought": "Вчера осмотры были выявляющими течи весь день.",
+            "english": "Yesterday inspections were revealing leaks all day.",
+            "transcription": "[й**э**стэдэй инсп**э**кшнз wœ: рив**и**:лиŋ ли:кс о:л дэй]"
+          },
+          {
+            "ours": "Испытания выявляли проблемы, когда я пришёл?",
+            "thought": "Были испытания выявляющими проблемы когда я пришёл?",
+            "english": "Were tests revealing problems when I came?",
+            "transcription": "[wœ: тэстс рив**и**:лиŋ пр**о**блэмз wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are revealing",
+        "examples": [
+          {
+            "ours": "Сейчас осмотры выявляют новые течи.",
+            "thought": "Осмотры являются выявляющими новые течи сейчас.",
+            "english": "Inspections are revealing new leaks now.",
+            "transcription": "[инсп**э**кшнз а: рив**и**:лиŋ нью: ли:кс нау]"
+          },
+          {
+            "ours": "Испытания сейчас выявляют проблемы?",
+            "thought": "Являются испытания выявляющими проблемы сейчас?",
+            "english": "Are tests revealing problems now?",
+            "transcription": "[а: тэстс рив**и**:лиŋ пр**о**блэмз нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be revealing",
+        "examples": [
+          {
+            "ours": "Завтра осмотры весь день будут выявлять течи.",
+            "thought": "Завтра осмотры будут быть выявляющими течи весь день.",
+            "english": "Tomorrow inspections will be revealing leaks all day.",
+            "transcription": "[тэм**о**роу инсп**э**кшнз wил би: рив**и**:лиŋ ли:кс о:л дэй]"
+          },
+          {
+            "ours": "Испытания будут выявлять проблемы до гонки?",
+            "thought": "Будут испытания быть выявляющими проблемы перед [известной] гонкой?",
+            "english": "Will tests be revealing problems before the race?",
+            "transcription": "[wил тэстс би: рив**и**:лиŋ пр**о**блэмз биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had revealed",
+        "examples": [
+          {
+            "ours": "Вчера к пяти осмотр уже выявил течь.",
+            "thought": "К пяти вчера [известный] осмотр имел уже выявленной [какую-то] течь.",
+            "english": "By five yesterday the inspection had already revealed a leak.",
+            "transcription": "[бай файв й**э**стэдэй ðэ инсп**э**кшн хæд о:лр**э**ди рив**и**:лд э ли:к]"
+          },
+          {
+            "ours": "Отчёт выявил повреждения до гонки?",
+            "thought": "Имел [известный] отчёт выявленным повреждение перед [известной] гонкой?",
+            "english": "Had the report revealed damage before the race?",
+            "transcription": "[хæд ðэ рип**о**:т рив**и**:лд д**æ**мидж биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has revealed",
+        "examples": [
+          {
+            "ours": "Осмотр уже выявил течь.",
+            "thought": "[Известный] осмотр имеет уже выявленной [какую-то] течь.",
+            "english": "The inspection has already revealed a leak.",
+            "transcription": "[ðэ инсп**э**кшн хæз о:лр**э**ди рив**и**:лд э ли:к]"
+          },
+          {
+            "ours": "Отчёт уже выявил повреждения?",
+            "thought": "Имеет [известный] отчёт уже выявленным повреждение?",
+            "english": "Has the report already revealed damage?",
+            "transcription": "[хæз ðэ рип**о**:т о:лр**э**ди рив**и**:лд д**æ**мидж]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have revealed",
+        "examples": [
+          {
+            "ours": "Завтра к пяти осмотр уже выявит течь.",
+            "thought": "К пяти завтра [известный] осмотр будет иметь уже выявленной [какую-то] течь.",
+            "english": "By five tomorrow the inspection will have already revealed a leak.",
+            "transcription": "[бай файв тэм**о**роу ðэ инсп**э**кшн wил хæв о:лр**э**ди рив**и**:лд э ли:к]"
+          },
+          {
+            "ours": "Отчёт выявит повреждения до выхода?",
+            "thought": "Будет [известный] отчёт иметь выявленным повреждение перед отправлением?",
+            "english": "Will the report have revealed damage before departure?",
+            "transcription": "[wил ðэ рип**о**:т хæв рив**и**:лд д**æ**мидж биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been revealing",
+        "examples": [
+          {
+            "ours": "Осмотры уже два часа выявляли течи, когда ты пришёл.",
+            "thought": "Осмотры имели быть выявляющими течи целых два часа когда ты пришёл.",
+            "english": "Inspections had been revealing leaks for two hours when you came.",
+            "transcription": "[инсп**э**кшнз хæд би:н рив**и**:лиŋ ли:кс фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Испытания уже два часа выявляли проблемы, когда он пришёл?",
+            "thought": "Имели испытания быть выявляющими проблемы целых два часа когда он пришёл?",
+            "english": "Had tests been revealing problems for two hours when he came?",
+            "transcription": "[хæд тэстс би:н рив**и**:лиŋ пр**о**блэмз фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been revealing",
+        "examples": [
+          {
+            "ours": "Осмотры уже два часа выявляют течи.",
+            "thought": "Осмотры имеют быть выявляющими течи целых два часа.",
+            "english": "Inspections have been revealing leaks for two hours.",
+            "transcription": "[инсп**э**кшнз хæв би:н рив**и**:лиŋ ли:кс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Испытания уже два часа выявляют проблемы?",
+            "thought": "Имеют испытания быть выявляющими проблемы целых два часа?",
+            "english": "Have tests been revealing problems for two hours?",
+            "transcription": "[хæв тэстс би:н рив**и**:лиŋ пр**о**блэмз фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been revealing",
+        "examples": [
+          {
+            "ours": "К пяти осмотры будут выявлять течи уже два часа.",
+            "thought": "К пяти осмотры будут иметь быть выявляющими течи целых два часа.",
+            "english": "By five inspections will have been revealing leaks for two hours.",
+            "transcription": "[бай файв инсп**э**кшнз wил хæв би:н рив**и**:лиŋ ли:кс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти испытания будут выявлять проблемы уже два часа?",
+            "thought": "Будут испытания иметь быть выявляющими проблемы целых два часа к пяти?",
+            "english": "Will tests have been revealing problems for two hours by five?",
+            "transcription": "[wил тэстс хæв би:н рив**и**:лиŋ пр**о**блэмз фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were revealed",
+        "examples": [
+          {
+            "ours": "Вчера при осмотре обнаружили течь.",
+            "thought": "[Какая-то] течь была выявлена от [известного] осмотра вчера.",
+            "english": "A leak was revealed by the inspection yesterday.",
+            "transcription": "[э ли:к wоз рив**и**:лд бай ðэ инсп**э**кшн й**э**стэдэй]"
+          },
+          {
+            "ours": "Повреждения выявили до гонки?",
+            "thought": "Было повреждение выявлено перед [известной] гонкой?",
+            "english": "Was damage revealed before the race?",
+            "transcription": "[wоз д**æ**мидж рив**и**:лд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are revealed",
+        "examples": [
+          {
+            "ours": "При осмотрах обнаруживают течи.",
+            "thought": "Течи есть выявлены от осмотров.",
+            "english": "Leaks are revealed by inspections.",
+            "transcription": "[ли:кс а: рив**и**:лд бай инсп**э**кшнз]"
+          },
+          {
+            "ours": "Рифы показываются на карте?",
+            "thought": "Есть рифы выявлены от [известной] карты?",
+            "english": "Are reefs revealed by the chart?",
+            "transcription": "[а: ри:фс рив**и**:лд бай ðэ ча:т]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be revealed",
+        "examples": [
+          {
+            "ours": "Завтра осмотр выявит повреждения.",
+            "thought": "Повреждение будет быть выявлено от [известного] осмотра завтра.",
+            "english": "Damage will be revealed by the inspection tomorrow.",
+            "transcription": "[д**æ**мидж wил би: рив**и**:лд бай ðэ инсп**э**кшн тэм**о**роу]"
+          },
+          {
+            "ours": "Течь выявят до выхода?",
+            "thought": "Будет [какая-то] течь быть выявлена перед отправлением?",
+            "english": "Will a leak be revealed before departure?",
+            "transcription": "[wил э ли:к би: рив**и**:лд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being revealed",
+        "examples": [
+          {
+            "ours": "Вчера осмотры весь день выявляли течи.",
+            "thought": "Вчера течи были «долго» выявлены от осмотров весь день.",
+            "english": "Yesterday leaks were being revealed by inspections all day.",
+            "transcription": "[й**э**стэдэй ли:кс wœ: б**и**:иŋ рив**и**:лд бай инсп**э**кшнз о:л дэй]"
+          },
+          {
+            "ours": "Проблемы выявлялись, когда ты пришёл?",
+            "thought": "Были проблемы «долго» выявлены когда ты пришёл?",
+            "english": "Were problems being revealed when you came?",
+            "transcription": "[wœ: пр**о**блэмз б**и**:иŋ рив**и**:лд wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being revealed",
+        "examples": [
+          {
+            "ours": "Сейчас при осмотрах выявляют новые течи.",
+            "thought": "Новые течи есть «долго» выявлены от осмотров сейчас.",
+            "english": "New leaks are being revealed by inspections now.",
+            "transcription": "[нью: ли:кс а: б**и**:иŋ рив**и**:лд бай инсп**э**кшнз нау]"
+          },
+          {
+            "ours": "Проблемы сейчас выявляются при испытаниях?",
+            "thought": "Есть проблемы «долго» выявлены от испытаний сейчас?",
+            "english": "Are problems being revealed by tests now?",
+            "transcription": "[а: пр**о**блэмз б**и**:иŋ рив**и**:лд бай тэстс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be revealing",
+        "examples": [
+          {
+            "ours": "Завтра испытания весь день будут выявлять проблемы.",
+            "thought": "Завтра испытания будут быть выявляющими проблемы весь день.",
+            "english": "Tomorrow tests will be revealing problems all day.",
+            "transcription": "[тэм**о**роу тэстс wил би: рив**и**:лиŋ пр**о**блэмз о:л дэй]"
+          },
+          {
+            "ours": "Осмотры будут выявлять течи до гонки?",
+            "thought": "Будут осмотры быть выявляющими течи перед [известной] гонкой?",
+            "english": "Will inspections be revealing leaks before the race?",
+            "transcription": "[wил инсп**э**кшнз би: рив**и**:лиŋ ли:кс биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been revealed",
+        "examples": [
+          {
+            "ours": "Вчера к пяти при осмотре уже выявили течь.",
+            "thought": "К пяти вчера [какая-то] течь имела уже быть выявлена от [известного] осмотра.",
+            "english": "By five yesterday a leak had already been revealed by the inspection.",
+            "transcription": "[бай файв й**э**стэдэй э ли:к хæд о:лр**э**ди би:н рив**и**:лд бай ðэ инсп**э**кшн]"
+          },
+          {
+            "ours": "Повреждения выявили до гонки?",
+            "thought": "Имело повреждение быть выявлено перед [известной] гонкой?",
+            "english": "Had damage been revealed before the race?",
+            "transcription": "[хæд д**æ**мидж би:н рив**и**:лд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been revealed",
+        "examples": [
+          {
+            "ours": "Осмотр уже выявил течь.",
+            "thought": "[Какая-то] течь имеет уже быть выявлена от [известного] осмотра.",
+            "english": "A leak has already been revealed by the inspection.",
+            "transcription": "[э ли:к хæз о:лр**э**ди би:н рив**и**:лд бай ðэ инсп**э**кшн]"
+          },
+          {
+            "ours": "Повреждения уже выявили?",
+            "thought": "Имеет повреждение уже быть выявлено?",
+            "english": "Has damage already been revealed?",
+            "transcription": "[хæз д**æ**мидж о:лр**э**ди би:н рив**и**:лд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been revealed",
+        "examples": [
+          {
+            "ours": "К пяти завтра осмотр уже выявит течь.",
+            "thought": "К пяти завтра [какая-то] течь будет уже иметь быть выявлена от [известного] осмотра.",
+            "english": "By five tomorrow a leak will already have been revealed by the inspection.",
+            "transcription": "[бай файв тэм**о**роу э ли:к wил о:лр**э**ди хæв би:н рив**и**:лд бай ðэ инсп**э**кшн]"
+          },
+          {
+            "ours": "Повреждения выявят до выхода?",
+            "thought": "Будет повреждение иметь быть выявлено перед отправлением?",
+            "english": "Will damage have been revealed before departure?",
+            "transcription": "[wил д**æ**мидж хæв би:н рив**и**:лд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: A leak has been revealed. Или: Inspections have been revealing leaks."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что осмотр выявит течь.",
+        "thought": "[Известный] капитан сказал что [известный] осмотр будет выявлять [какую-то] течь.",
+        "english": "The captain said that the inspection would reveal a leak.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ инсп**э**кшн wуд рив**и**:л э ли:к]"
+      },
+      {
+        "ours": "Я знал, что отчёт не выявит повреждений.",
+        "thought": "Я знал что [известный] отчёт будет не выявлять повреждение.",
+        "english": "I knew that the report wouldn't reveal damage.",
+        "transcription": "[ай нью: ðæт ðэ рип**о**:т wуднт рив**и**:л д**æ**мидж]"
+      },
+      {
+        "ours": "Капитан сказал, что карта покажет риф.",
+        "thought": "[Известный] капитан сказал что [известная] карта будет выявлять [известный] риф.",
+        "english": "The captain said that the chart would reveal the reef.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ ча:т wуд рив**и**:л ðэ ри:ф]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "inspection",
+      "meaning": "проверка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "inspections"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "Inspections"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "inspections"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "Inspections"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "Inspections"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "inspections"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "inspections"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "inspections"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "inspections"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "inspections"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "inspection"
+        }
+      ]
+    },
+    {
+      "word": "leak",
+      "meaning": "течь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Leaks"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "leaks"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "leaks"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "leak"
+        }
+      ]
+    },
+    {
+      "word": "report",
+      "meaning": "отчёт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "report"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "report"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "report"
+        }
+      ]
+    },
+    {
+      "word": "damage",
+      "meaning": "повреждение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Damage"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "damage"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "reef",
+      "meaning": "риф",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "reef"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "reefs"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "reefs"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "reef"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "sensor",
+      "meaning": "датчик",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sensor"
+        }
+      ]
+    },
+    {
+      "word": "depth",
+      "meaning": "глубина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "depth"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отправление",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "test",
+      "meaning": "тест",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "tests"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "tests"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "tests"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "tests"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "tests"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "tests"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "tests"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "tests"
+        }
+      ]
+    },
+    {
+      "word": "problem",
+      "meaning": "проблема",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "problems"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "problems"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "problems"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "problems"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "problems"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "problems"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "problems"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "problems"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "problems"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

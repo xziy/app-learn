@@ -1,0 +1,909 @@
+{
+  "spec": 4,
+  "verb": "share",
+  "forms": {
+    "base": [
+      {
+        "word": "share",
+        "transcription": "[шээ]"
+      }
+    ],
+    "past": [
+      {
+        "word": "shared",
+        "transcription": "[шээд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "shared",
+        "transcription": "[шээд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "sharing",
+        "transcription": "[ш**э**эриŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "shares",
+        "transcription": "[шээз]"
+      }
+    ]
+  },
+  "meaning": "делиться, совместно использовать",
+  "notes": "правильный переходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "shared",
+        "examples": [
+          {
+            "ours": "Вчера мы поделились картой с экипажем.",
+            "thought": "Вчера мы поделились [известной] картой с [известным] экипажем.",
+            "english": "Yesterday we shared the chart with the crew.",
+            "transcription": "[й**э**стэдэй wи: шээд ðэ ча:т wиð ðэ кру:]"
+          },
+          {
+            "ours": "Он не поделился прогнозом.",
+            "thought": "Он [сделал] не делиться [известным] прогнозом.",
+            "english": "He didn't share the forecast.",
+            "transcription": "[хи: диднт шээ ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты поделился водой с капитаном?",
+            "thought": "[Сделал] ты делиться водой с [известным] капитаном?",
+            "english": "Did you share water with the captain?",
+            "transcription": "[дид ю: шээ w**о**:тэ wиð ðэ к**æ**птин]"
+          }
+        ]
+      },
+      "present": {
+        "form": "share, shares",
+        "examples": [
+          {
+            "ours": "Экипаж делится информацией с капитаном.",
+            "thought": "[Известный] экипаж делится информацией с [известным] капитаном.",
+            "english": "The crew shares information with the captain.",
+            "transcription": "[ðэ кру: шээз инфэм**э**йшн wиð ðэ к**æ**птин]"
+          },
+          {
+            "ours": "Он не делится топливом.",
+            "thought": "Он [делает] не делиться топливом.",
+            "english": "He doesn't share fuel.",
+            "transcription": "[хи: дазнт шээ фь**ю**:эл]"
+          },
+          {
+            "ours": "Ты делишься прогнозами с другими моряками?",
+            "thought": "[Делаешь] ты делиться прогнозами с другими моряками?",
+            "english": "Do you share forecasts with other sailors?",
+            "transcription": "[ду: ю: шээ ф**о**:ка:стс wиð **а**ðэ с**э**йлэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will share",
+        "examples": [
+          {
+            "ours": "Завтра мы поделимся едой с экипажем.",
+            "thought": "Завтра мы будем делиться едой с [известным] экипажем.",
+            "english": "Tomorrow we will share food with the crew.",
+            "transcription": "[тэм**о**роу wи: wил шээ фу:д wиð ðэ кру:]"
+          },
+          {
+            "ours": "Он не поделится картой.",
+            "thought": "Он будет не делиться [известной] картой.",
+            "english": "He won't share the chart.",
+            "transcription": "[хи: wоунт шээ ðэ ча:т]"
+          },
+          {
+            "ours": "Ты поделишься топливом с капитаном?",
+            "thought": "Будешь ты делиться топливом с [известным] капитаном?",
+            "english": "Will you share fuel with the captain?",
+            "transcription": "[wил ю: шээ фь**ю**:эл wиð ðэ к**æ**птин]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were sharing",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день делились сводками о погоде.",
+            "thought": "Вчера мы были делящимися погоды сводками весь день.",
+            "english": "Yesterday we were sharing weather updates all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: ш**э**эриŋ w**э**ðэ апд**э**йтс о:л дэй]"
+          },
+          {
+            "ours": "Ты делился картой, когда я пришёл?",
+            "thought": "Был ты делящимся [известной] картой когда я пришёл?",
+            "english": "Were you sharing the chart when I came?",
+            "transcription": "[wœ: ю: ш**э**эриŋ ðэ ча:т wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are sharing",
+        "examples": [
+          {
+            "ours": "Сейчас мы делимся прогнозами.",
+            "thought": "Мы являемся делящимися прогнозами сейчас.",
+            "english": "We are sharing forecasts now.",
+            "transcription": "[wи: а: ш**э**эриŋ ф**о**:ка:стс нау]"
+          },
+          {
+            "ours": "Ты сейчас делишься картой?",
+            "thought": "Являешься ты делящимся [известной] картой сейчас?",
+            "english": "Are you sharing the chart now?",
+            "transcription": "[а: ю: ш**э**эриŋ ðэ ча:т нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be sharing",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем обмениваться сводками о погоде.",
+            "thought": "Завтра мы будем быть делящимися погоды сводками весь день.",
+            "english": "Tomorrow we will be sharing weather updates all day.",
+            "transcription": "[тэм**о**роу wи: wил би: ш**э**эриŋ w**э**ðэ апд**э**йтс о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь делиться прогнозами во время гонки?",
+            "thought": "Будешь ты быть делящимся прогнозами во время [известной] гонки?",
+            "english": "Will you be sharing forecasts during the race?",
+            "transcription": "[wил ю: би: ш**э**эриŋ ф**о**:ка:стс дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had shared",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже поделились картой.",
+            "thought": "К пяти вчера мы имели уже поделённой [известную] карту.",
+            "english": "By five yesterday we had already shared the chart.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди шээд ðэ ча:т]"
+          },
+          {
+            "ours": "Ты поделился прогнозом до выхода?",
+            "thought": "Имел ты поделённым [известный] прогноз перед отправлением?",
+            "english": "Had you shared the forecast before departure?",
+            "transcription": "[хæд ю: шээд ðэ ф**о**:ка:ст биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has shared",
+        "examples": [
+          {
+            "ours": "Мы уже поделились прогнозом с экипажем.",
+            "thought": "Мы имеем уже поделённым [известный] прогноз с [известным] экипажем.",
+            "english": "We have already shared the forecast with the crew.",
+            "transcription": "[wи: хæв о:лр**э**ди шээд ðэ ф**о**:ка:ст wиð ðэ кру:]"
+          },
+          {
+            "ours": "Ты уже поделился картой?",
+            "thought": "Имеешь ты уже поделённой [известную] карту?",
+            "english": "Have you already shared the chart?",
+            "transcription": "[хæв ю: о:лр**э**ди шээд ðэ ча:т]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have shared",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже поделимся прогнозом.",
+            "thought": "К пяти завтра мы будем иметь уже поделённым [известный] прогноз.",
+            "english": "By five tomorrow we will have already shared the forecast.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди шээд ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты поделишься картой до выхода?",
+            "thought": "Будешь ты иметь поделённой [известную] карту перед отправлением?",
+            "english": "Will you have shared the chart before departure?",
+            "transcription": "[wил ю: хæв шээд ðэ ча:т биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been sharing",
+        "examples": [
+          {
+            "ours": "Мы уже два часа обменивались сводками, когда ты пришёл.",
+            "thought": "Мы имели быть делящимися сводками целых два часа когда ты пришёл.",
+            "english": "We had been sharing updates for two hours when you came.",
+            "transcription": "[wи: хæд би:н ш**э**эриŋ апд**э**йтс фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа делился прогнозами, когда он пришёл?",
+            "thought": "Имел ты быть делящимся прогнозами целых два часа когда он пришёл?",
+            "english": "Had you been sharing forecasts for two hours when he came?",
+            "transcription": "[хæд ю: би:н ш**э**эриŋ ф**о**:ка:стс фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been sharing",
+        "examples": [
+          {
+            "ours": "Мы уже два часа обмениваемся сводками.",
+            "thought": "Мы имеем быть делящимися сводками целых два часа.",
+            "english": "We have been sharing updates for two hours.",
+            "transcription": "[wи: хæв би:н ш**э**эриŋ апд**э**йтс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа делишься прогнозами?",
+            "thought": "Имеешь ты быть делящимся прогнозами целых два часа?",
+            "english": "Have you been sharing forecasts for two hours?",
+            "transcription": "[хæв ю: би:н ш**э**эриŋ ф**о**:ка:стс фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been sharing",
+        "examples": [
+          {
+            "ours": "К пяти мы будем обмениваться сводками уже два часа.",
+            "thought": "К пяти мы будем иметь быть делящимися сводками целых два часа.",
+            "english": "By five we will have been sharing updates for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н ш**э**эриŋ апд**э**йтс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь делиться прогнозами уже два часа?",
+            "thought": "Будешь ты иметь быть делящимся прогнозами целых два часа к пяти?",
+            "english": "Will you have been sharing forecasts for two hours by five?",
+            "transcription": "[wил ю: хæв би:н ш**э**эриŋ ф**о**:ка:стс фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were shared",
+        "examples": [
+          {
+            "ours": "Вчера карту передали экипажу.",
+            "thought": "[Известная] карта была разделена с [известным] экипажем вчера.",
+            "english": "The chart was shared with the crew yesterday.",
+            "transcription": "[ðэ ча:т wоз шээд wиð ðэ кру: й**э**стэдэй]"
+          },
+          {
+            "ours": "Прогноз передали до выхода?",
+            "thought": "Был [известный] прогноз разделён перед отправлением?",
+            "english": "Was the forecast shared before departure?",
+            "transcription": "[wоз ðэ ф**о**:ка:ст шээд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are shared",
+        "examples": [
+          {
+            "ours": "Прогнозы передают экипажу каждый день.",
+            "thought": "Прогнозы есть разделены с [известным] экипажем каждый день.",
+            "english": "Forecasts are shared with the crew every day.",
+            "transcription": "[ф**о**:ка:стс а: шээд wиð ðэ кру: **э**ври дэй]"
+          },
+          {
+            "ours": "Карту передают капитану?",
+            "thought": "Есть [известная] карта разделена с [известным] капитаном?",
+            "english": "Is the chart shared with the captain?",
+            "transcription": "[из ðэ ча:т шээд wиð ðэ к**æ**птин]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be shared",
+        "examples": [
+          {
+            "ours": "Завтра прогноз передадут экипажу.",
+            "thought": "[Известный] прогноз будет быть разделён с [известным] экипажем завтра.",
+            "english": "The forecast will be shared with the crew tomorrow.",
+            "transcription": "[ðэ ф**о**:ка:ст wил би: шээд wиð ðэ кру: тэм**о**роу]"
+          },
+          {
+            "ours": "Карту передадут до выхода?",
+            "thought": "Будет [известная] карта быть разделена перед отправлением?",
+            "english": "Will the chart be shared before departure?",
+            "transcription": "[wил ðэ ча:т би: шээд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being shared",
+        "examples": [
+          {
+            "ours": "Вчера прогнозы весь день передавали экипажу.",
+            "thought": "Вчера прогнозы были «долго» разделены с [известным] экипажем весь день.",
+            "english": "Yesterday forecasts were being shared with the crew all day.",
+            "transcription": "[й**э**стэдэй ф**о**:ка:стс wœ: б**и**:иŋ шээд wиð ðэ кру: о:л дэй]"
+          },
+          {
+            "ours": "Карту передавали, когда ты пришёл?",
+            "thought": "Была [известная] карта «долго» разделена когда ты пришёл?",
+            "english": "Was the chart being shared when you came?",
+            "transcription": "[wоз ðэ ча:т б**и**:иŋ шээд wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being shared",
+        "examples": [
+          {
+            "ours": "Сейчас прогнозы передают экипажу.",
+            "thought": "Прогнозы есть «долго» разделены с [известным] экипажем сейчас.",
+            "english": "Forecasts are being shared with the crew now.",
+            "transcription": "[ф**о**:ка:стс а: б**и**:иŋ шээд wиð ðэ кру: нау]"
+          },
+          {
+            "ours": "Сейчас карту передают капитану?",
+            "thought": "Есть [известная] карта «долго» разделена с [известным] капитаном сейчас?",
+            "english": "Is the chart being shared with the captain now?",
+            "transcription": "[из ðэ ча:т б**и**:иŋ шээд wиð ðэ к**æ**птин нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be sharing",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут делиться прогнозами с экипажем.",
+            "thought": "Завтра они будут быть делящимися прогнозами с [известным] экипажем весь день.",
+            "english": "Tomorrow they will be sharing forecasts with the crew all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: ш**э**эриŋ ф**о**:ка:стс wиð ðэ кру: о:л дэй]"
+          },
+          {
+            "ours": "Они будут делиться картой во время гонки?",
+            "thought": "Будут они быть делящимися [известной] картой во время [известной] гонки?",
+            "english": "Will they be sharing the chart during the race?",
+            "transcription": "[wил ðэй би: ш**э**эриŋ ðэ ча:т дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been shared",
+        "examples": [
+          {
+            "ours": "Вчера к пяти прогноз уже передали.",
+            "thought": "К пяти вчера [известный] прогноз имел уже быть разделён.",
+            "english": "By five yesterday the forecast had already been shared.",
+            "transcription": "[бай файв й**э**стэдэй ðэ ф**о**:ка:ст хæд о:лр**э**ди би:н шээд]"
+          },
+          {
+            "ours": "Карту передали до выхода?",
+            "thought": "Имела [известная] карта быть разделена перед отправлением?",
+            "english": "Had the chart been shared before departure?",
+            "transcription": "[хæд ðэ ча:т би:н шээд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been shared",
+        "examples": [
+          {
+            "ours": "Прогноз уже передали экипажу.",
+            "thought": "[Известный] прогноз имеет уже быть разделён с [известным] экипажем.",
+            "english": "The forecast has already been shared with the crew.",
+            "transcription": "[ðэ ф**о**:ка:ст хæз о:лр**э**ди би:н шээд wиð ðэ кру:]"
+          },
+          {
+            "ours": "Карту уже передали капитану?",
+            "thought": "Имеет [известная] карта уже быть разделена с [известным] капитаном?",
+            "english": "Has the chart already been shared with the captain?",
+            "transcription": "[хæз ðэ ча:т о:лр**э**ди би:н шээд wиð ðэ к**æ**птин]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been shared",
+        "examples": [
+          {
+            "ours": "К пяти завтра прогноз уже передадут.",
+            "thought": "К пяти завтра [известный] прогноз будет уже иметь быть разделён.",
+            "english": "By five tomorrow the forecast will already have been shared.",
+            "transcription": "[бай файв тэм**о**роу ðэ ф**о**:ка:ст wил о:лр**э**ди хæв би:н шээд]"
+          },
+          {
+            "ours": "Карту передадут до выхода?",
+            "thought": "Будет [известная] карта иметь быть разделена перед отправлением?",
+            "english": "Will the chart have been shared before departure?",
+            "transcription": "[wил ðэ ча:т хæв би:н шээд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The forecast has been shared. Или: They have been sharing forecasts."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они поделятся прогнозом.",
+        "thought": "[Известный] капитан сказал что они будут делиться [известным] прогнозом.",
+        "english": "The captain said that they would share the forecast.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд шээ ðэ ф**о**:ка:ст]"
+      },
+      {
+        "ours": "Я знал, что ты не поделишься картой.",
+        "thought": "Я знал что ты будешь не делиться [известной] картой.",
+        "english": "I knew that you wouldn't share the chart.",
+        "transcription": "[ай нью: ðæт ю: wуднт шээ ðэ ча:т]"
+      },
+      {
+        "ours": "Капитан сказал, что мы поделимся едой с экипажем.",
+        "thought": "[Известный] капитан сказал что мы будем делиться едой с [известным] экипажем.",
+        "english": "The captain said that we would share food with the crew.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд шээ фу:д wиð ðэ кру:]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Forecasts"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Forecasts"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "information",
+      "meaning": "информация",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "information"
+        }
+      ]
+    },
+    {
+      "word": "fuel",
+      "meaning": "топливо",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "fuel"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sailors"
+        }
+      ]
+    },
+    {
+      "word": "food",
+      "meaning": "еда",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "food"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "food"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "update",
+      "meaning": "сводка",
+      "sense": "news",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "updates"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "updates"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "updates"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "updates"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "updates"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отправление",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    }
+  ]
+}

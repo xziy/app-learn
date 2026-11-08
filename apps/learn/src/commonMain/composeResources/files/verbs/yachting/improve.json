@@ -1,0 +1,918 @@
+{
+  "spec": 4,
+  "verb": "improve",
+  "forms": {
+    "base": [
+      {
+        "word": "improve",
+        "transcription": "[импр**у**:в]"
+      }
+    ],
+    "past": [
+      {
+        "word": "improved",
+        "transcription": "[импр**у**:вд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "improved",
+        "transcription": "[импр**у**:вд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "improving",
+        "transcription": "[импр**у**:виŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "improves",
+        "transcription": "[импр**у**:вз]"
+      }
+    ]
+  },
+  "meaning": "улучшать, улучшаться",
+  "notes": "правильный переходный и непереходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "improved",
+        "examples": [
+          {
+            "ours": "Вчера мы улучшили яхту к гонке.",
+            "thought": "Вчера мы улучшили [известную] яхту для [известной] гонки.",
+            "english": "Yesterday we improved the yacht for the race.",
+            "transcription": "[й**э**стэдэй wи: импр**у**:вд ðэ йот фо: ðэ рэйс]"
+          },
+          {
+            "ours": "Он не улучшил навыки управления парусной яхтой.",
+            "thought": "Он [сделал] не улучшать его парусные навыки.",
+            "english": "He didn't improve his sailing skills.",
+            "transcription": "[хи: диднт импр**у**:в хиз с**э**йлиŋ скилз]"
+          },
+          {
+            "ours": "Ты улучшил лодку до выхода?",
+            "thought": "[Сделал] ты улучшать [известную] лодку перед выходом?",
+            "english": "Did you improve the boat before departure?",
+            "transcription": "[дид ю: импр**у**:в ðэ боут биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "improve, improves",
+        "examples": [
+          {
+            "ours": "Экипаж каждый день совершенствует навыки управления парусной яхтой.",
+            "thought": "[Известный] экипаж улучшает его парусные навыки каждый день.",
+            "english": "The crew improves its sailing skills every day.",
+            "transcription": "[ðэ кру: импр**у**:вз итс с**э**йлиŋ скилз **э**ври дэй]"
+          },
+          {
+            "ours": "Он не улучшает снаряжение к гонке.",
+            "thought": "Он [делает] не улучшать оборудование для [известной] гонки.",
+            "english": "He doesn't improve equipment for the race.",
+            "transcription": "[хи: дазнт импр**у**:в икw**и**пмэнт фо: ðэ рэйс]"
+          },
+          {
+            "ours": "Погода улучшается к утру?",
+            "thought": "[Делает] [известная] погода улучшаться к утру?",
+            "english": "Does the weather improve by morning?",
+            "transcription": "[даз ðэ w**э**ðэ импр**у**:в бай м**о**:ниŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will improve",
+        "examples": [
+          {
+            "ours": "Завтра мы улучшим паруса.",
+            "thought": "Завтра мы будем улучшать [известные] паруса.",
+            "english": "Tomorrow we will improve the sails.",
+            "transcription": "[тэм**о**роу wи: wил импр**у**:в ðэ сэйлз]"
+          },
+          {
+            "ours": "Он не будет улучшать лодку к гонке.",
+            "thought": "Он будет не улучшать [известную] лодку для [известной] гонки.",
+            "english": "He won't improve the boat for the race.",
+            "transcription": "[хи: wоунт импр**у**:в ðэ боут фо: ðэ рэйс]"
+          },
+          {
+            "ours": "Ты улучшишь лодку до выхода?",
+            "thought": "Будешь ты улучшать [известную] лодку перед выходом?",
+            "english": "Will you improve the boat before departure?",
+            "transcription": "[wил ю: импр**у**:в ðэ боут биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were improving",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день улучшали яхту к гонке.",
+            "thought": "Вчера мы были улучшающими [известную] яхту для [известной] гонки весь день.",
+            "english": "Yesterday we were improving the yacht for the race all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: импр**у**:виŋ ðэ йот фо: ðэ рэйс о:л дэй]"
+          },
+          {
+            "ours": "Ты улучшал оборудование, когда я пришёл?",
+            "thought": "Был ты улучшающим оборудование когда я пришёл?",
+            "english": "Were you improving equipment when I came?",
+            "transcription": "[wœ: ю: импр**у**:виŋ икw**и**пмэнт wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are improving",
+        "examples": [
+          {
+            "ours": "Сейчас мы улучшаем лодку к гонке.",
+            "thought": "Мы являемся улучшающими [известную] лодку для [известной] гонки сейчас.",
+            "english": "We are improving the boat for the race now.",
+            "transcription": "[wи: а: импр**у**:виŋ ðэ боут фо: ðэ рэйс нау]"
+          },
+          {
+            "ours": "Ты сейчас улучшаешь паруса?",
+            "thought": "Являешься ты улучшающим [известные] паруса сейчас?",
+            "english": "Are you improving the sails now?",
+            "transcription": "[а: ю: импр**у**:виŋ ðэ сэйлз нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be improving",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем улучшать яхту к гонке.",
+            "thought": "Завтра мы будем быть улучшающими [известную] яхту для [известной] гонки весь день.",
+            "english": "Tomorrow we will be improving the yacht for the race all day.",
+            "transcription": "[тэм**о**роу wи: wил би: импр**у**:виŋ ðэ йот фо: ðэ рэйс о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь улучшать оборудование до выхода?",
+            "thought": "Будешь ты быть улучшающим оборудование перед выходом?",
+            "english": "Will you be improving equipment before departure?",
+            "transcription": "[wил ю: би: импр**у**:виŋ икw**и**пмэнт биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had improved",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже улучшили яхту.",
+            "thought": "К пяти вчера мы имели уже улучшенной [известную] яхту.",
+            "english": "By five yesterday we had already improved the yacht.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди импр**у**:вд ðэ йот]"
+          },
+          {
+            "ours": "Ты улучшил лодку до выхода?",
+            "thought": "Имел ты улучшенной [известную] лодку перед выходом?",
+            "english": "Had you improved the boat before departure?",
+            "transcription": "[хæд ю: импр**у**:вд ðэ боут биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has improved",
+        "examples": [
+          {
+            "ours": "Мы уже улучшили паруса.",
+            "thought": "Мы имеем уже улучшенными [известные] паруса.",
+            "english": "We have already improved the sails.",
+            "transcription": "[wи: хæв о:лр**э**ди импр**у**:вд ðэ сэйлз]"
+          },
+          {
+            "ours": "Ты уже улучшил лодку к гонке?",
+            "thought": "Имеешь ты уже улучшенной [известную] лодку для [известной] гонки?",
+            "english": "Have you already improved the boat for the race?",
+            "transcription": "[хæв ю: о:лр**э**ди импр**у**:вд ðэ боут фо: ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have improved",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже улучшим яхту.",
+            "thought": "К пяти завтра мы будем иметь уже улучшенной [известную] яхту.",
+            "english": "By five tomorrow we will have already improved the yacht.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди импр**у**:вд ðэ йот]"
+          },
+          {
+            "ours": "Ты улучшишь лодку до выхода?",
+            "thought": "Будешь ты иметь улучшенной [известную] лодку перед выходом?",
+            "english": "Will you have improved the boat before departure?",
+            "transcription": "[wил ю: хæв импр**у**:вд ðэ боут биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been improving",
+        "examples": [
+          {
+            "ours": "Мы уже два часа улучшали яхту к гонке, когда ты пришёл.",
+            "thought": "Мы имели быть улучшающими [известную] яхту для [известной] гонки целых два часа когда ты пришёл.",
+            "english": "We had been improving the yacht for the race for two hours when you came.",
+            "transcription": "[wи: хæд би:н импр**у**:виŋ ðэ йот фо: ðэ рэйс фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа улучшал оборудование, когда он пришёл?",
+            "thought": "Имел ты быть улучшающим оборудование целых два часа когда он пришёл?",
+            "english": "Had you been improving equipment for two hours when he came?",
+            "transcription": "[хæд ю: би:н импр**у**:виŋ икw**и**пмэнт фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been improving",
+        "examples": [
+          {
+            "ours": "Мы уже два часа улучшаем лодку к гонке.",
+            "thought": "Мы имеем быть улучшающими [известную] лодку для [известной] гонки целых два часа.",
+            "english": "We have been improving the boat for the race for two hours.",
+            "transcription": "[wи: хæв би:н импр**у**:виŋ ðэ боут фо: ðэ рэйс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа улучшаешь паруса?",
+            "thought": "Имеешь ты быть улучшающим [известные] паруса целых два часа?",
+            "english": "Have you been improving the sails for two hours?",
+            "transcription": "[хæв ю: би:н импр**у**:виŋ ðэ сэйлз фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been improving",
+        "examples": [
+          {
+            "ours": "К пяти мы будем улучшать яхту к гонке уже два часа.",
+            "thought": "К пяти мы будем иметь быть улучшающими [известную] яхту для [известной] гонки целых два часа.",
+            "english": "By five we will have been improving the yacht for the race for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н импр**у**:виŋ ðэ йот фо: ðэ рэйс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь улучшать оборудование уже два часа?",
+            "thought": "Будешь ты иметь быть улучшающим оборудование целых два часа к пяти?",
+            "english": "Will you have been improving equipment for two hours by five?",
+            "transcription": "[wил ю: хæв би:н импр**у**:виŋ икw**и**пмэнт фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were improved",
+        "examples": [
+          {
+            "ours": "Вчера яхту улучшили к гонке.",
+            "thought": "[Известная] яхта была улучшена для [известной] гонки вчера.",
+            "english": "The yacht was improved for the race yesterday.",
+            "transcription": "[ðэ йот wоз импр**у**:вд фо: ðэ рэйс й**э**стэдэй]"
+          },
+          {
+            "ours": "Лодку улучшили до выхода?",
+            "thought": "Была [известная] лодка улучшена перед выходом?",
+            "english": "Was the boat improved before departure?",
+            "transcription": "[wоз ðэ боут импр**у**:вд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are improved",
+        "examples": [
+          {
+            "ours": "Лодку улучшают к гонке каждый день.",
+            "thought": "[Известная] лодка есть улучшена для [известной] гонки каждый день.",
+            "english": "The boat is improved for the race every day.",
+            "transcription": "[ðэ боут из импр**у**:вд фо: ðэ рэйс **э**ври дэй]"
+          },
+          {
+            "ours": "Паруса улучшают перед гонкой?",
+            "thought": "Есть [известные] паруса улучшены перед [известной] гонкой?",
+            "english": "Are the sails improved before the race?",
+            "transcription": "[а: ðэ сэйлз импр**у**:вд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be improved",
+        "examples": [
+          {
+            "ours": "Завтра яхту улучшат к гонке.",
+            "thought": "[Известная] яхта будет быть улучшена для [известной] гонки завтра.",
+            "english": "The yacht will be improved for the race tomorrow.",
+            "transcription": "[ðэ йот wил би: импр**у**:вд фо: ðэ рэйс тэм**о**роу]"
+          },
+          {
+            "ours": "Лодку улучшат до выхода?",
+            "thought": "Будет [известная] лодка быть улучшена перед выходом?",
+            "english": "Will the boat be improved before departure?",
+            "transcription": "[wил ðэ боут би: импр**у**:вд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being improved",
+        "examples": [
+          {
+            "ours": "Вчера яхту весь день улучшали к гонке.",
+            "thought": "Вчера [известная] яхта была «долго» улучшена для [известной] гонки весь день.",
+            "english": "Yesterday the yacht was being improved for the race all day.",
+            "transcription": "[й**э**стэдэй ðэ йот wоз б**и**:иŋ импр**у**:вд фо: ðэ рэйс о:л дэй]"
+          },
+          {
+            "ours": "Оборудование улучшали, когда ты пришёл?",
+            "thought": "Было оборудование «долго» улучшено когда ты пришёл?",
+            "english": "Was equipment being improved when you came?",
+            "transcription": "[wоз икw**и**пмэнт б**и**:иŋ импр**у**:вд wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being improved",
+        "examples": [
+          {
+            "ours": "Сейчас лодку улучшают к гонке.",
+            "thought": "[Известная] лодка есть «долго» улучшена для [известной] гонки сейчас.",
+            "english": "The boat is being improved for the race now.",
+            "transcription": "[ðэ боут из б**и**:иŋ импр**у**:вд фо: ðэ рэйс нау]"
+          },
+          {
+            "ours": "Сейчас улучшают паруса?",
+            "thought": "Есть [известные] паруса «долго» улучшены сейчас?",
+            "english": "Are the sails being improved now?",
+            "transcription": "[а: ðэ сэйлз б**и**:иŋ импр**у**:вд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be improving",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут улучшать яхту к гонке.",
+            "thought": "Завтра они будут быть улучшающими [известную] яхту для [известной] гонки весь день.",
+            "english": "Tomorrow they will be improving the yacht for the race all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: импр**у**:виŋ ðэ йот фо: ðэ рэйс о:л дэй]"
+          },
+          {
+            "ours": "Они будут улучшать оборудование до выхода?",
+            "thought": "Будут они быть улучшающими оборудование перед выходом?",
+            "english": "Will they be improving equipment before departure?",
+            "transcription": "[wил ðэй би: импр**у**:виŋ икw**и**пмэнт биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been improved",
+        "examples": [
+          {
+            "ours": "Вчера к пяти яхту уже улучшили.",
+            "thought": "К пяти вчера [известная] яхта имела уже быть улучшена.",
+            "english": "By five yesterday the yacht had already been improved.",
+            "transcription": "[бай файв й**э**стэдэй ðэ йот хæд о:лр**э**ди би:н импр**у**:вд]"
+          },
+          {
+            "ours": "Лодку улучшили до выхода?",
+            "thought": "Имела [известная] лодка быть улучшена перед выходом?",
+            "english": "Had the boat been improved before departure?",
+            "transcription": "[хæд ðэ боут би:н импр**у**:вд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been improved",
+        "examples": [
+          {
+            "ours": "Паруса уже улучшены.",
+            "thought": "[Известные] паруса имеют уже быть улучшены.",
+            "english": "The sails have already been improved.",
+            "transcription": "[ðэ сэйлз хæв о:лр**э**ди би:н импр**у**:вд]"
+          },
+          {
+            "ours": "Лодку уже улучшили к гонке?",
+            "thought": "Имеет [известная] лодка уже быть улучшена для [известной] гонки?",
+            "english": "Has the boat already been improved for the race?",
+            "transcription": "[хæз ðэ боут о:лр**э**ди би:н импр**у**:вд фо: ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been improved",
+        "examples": [
+          {
+            "ours": "К пяти завтра яхту уже улучшат.",
+            "thought": "К пяти завтра [известная] яхта будет уже иметь быть улучшена.",
+            "english": "By five tomorrow the yacht will already have been improved.",
+            "transcription": "[бай файв тэм**о**роу ðэ йот wил о:лр**э**ди хæв би:н импр**у**:вд]"
+          },
+          {
+            "ours": "Лодку улучшат до выхода?",
+            "thought": "Будет [известная] лодка иметь быть улучшена перед выходом?",
+            "english": "Will the boat have been improved before departure?",
+            "transcription": "[wил ðэ боут хæв би:н импр**у**:вд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The boat has been improved. Или: They have been improving the boat."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они улучшат яхту.",
+        "thought": "[Известный] капитан сказал что они будут улучшать [известную] яхту.",
+        "english": "The captain said that they would improve the yacht.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд импр**у**:в ðэ йот]"
+      },
+      {
+        "ours": "Я знал, что ты не улучшишь лодку.",
+        "thought": "Я знал что ты будешь не улучшать [известную] лодку.",
+        "english": "I knew that you wouldn't improve the boat.",
+        "transcription": "[ай нью: ðæт ю: wуднт импр**у**:в ðэ боут]"
+      },
+      {
+        "ours": "Капитан сказал, что мы улучшим паруса.",
+        "thought": "[Известный] капитан сказал что мы будем улучшать [известные] паруса.",
+        "english": "The captain said that we would improve the sails.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд импр**у**:в ðэ сэйлз]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "sailing",
+      "meaning": "парусное дело",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailing"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sailing"
+        }
+      ]
+    },
+    {
+      "word": "skill",
+      "meaning": "навык",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skills"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skills"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "выход",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "equipment",
+      "meaning": "оборудование",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "equipment"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "sails"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "sails"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "sails"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "sails"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "sails"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "sails"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "sails"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "sails"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

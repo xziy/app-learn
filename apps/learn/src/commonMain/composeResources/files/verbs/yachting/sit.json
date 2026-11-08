@@ -1,0 +1,561 @@
+{
+  "spec": 4,
+  "verb": "sit",
+  "forms": {
+    "base": [
+      {
+        "word": "sit",
+        "transcription": "[сит]"
+      }
+    ],
+    "past": [
+      {
+        "word": "sat",
+        "transcription": "[сæт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "sat",
+        "transcription": "[сæт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "sitting",
+        "transcription": "[с**и**тиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "sits",
+        "transcription": "[ситс]"
+      }
+    ]
+  },
+  "meaning": "сидеть, находиться",
+  "notes": "неправильный глагол, в значении «сидеть» непереходный",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "sat",
+        "examples": [
+          {
+            "ours": "Вчера я сидел в кокпите.",
+            "thought": "Вчера я сидел в [известном] кокпите.",
+            "english": "Yesterday I sat in the cockpit.",
+            "transcription": "[й**э**стэдэй ай сæт ин ðэ к**о**кпит]"
+          },
+          {
+            "ours": "Ты сидел на палубе?",
+            "thought": "[Сделал] ты сидеть на палубе?",
+            "english": "Did you sit on deck?",
+            "transcription": "[дид ю: сит он дэк]"
+          },
+          {
+            "ours": "Она не сидела у штурвала.",
+            "thought": "Она [сделала] не сидеть у [известного] штурвала.",
+            "english": "She did not sit at the helm.",
+            "transcription": "[ши: дид нот сит æт ðэ хэлм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "sit, sits",
+        "examples": [
+          {
+            "ours": "Шкипер обычно сидит у штурвала.",
+            "thought": "[Известный] шкипер обычно сидит у [известного] штурвала.",
+            "english": "The skipper usually sits at the helm.",
+            "transcription": "[ðэ ск**и**пэ **ю**:жуэли ситс æт ðэ хэлм]"
+          },
+          {
+            "ours": "Ты сидишь на палубе?",
+            "thought": "[Делаешь] ты сидеть на палубе?",
+            "english": "Do you sit on deck?",
+            "transcription": "[ду: ю: сит он дэк]"
+          },
+          {
+            "ours": "Мы не сидим на мокрых подушках.",
+            "thought": "Мы [делаем] не сидеть на мокрых подушках.",
+            "english": "We do not sit on wet cushions.",
+            "transcription": "[wи: ду: нот сит он wэт к**у**шнз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will sit",
+        "examples": [
+          {
+            "ours": "Завтра я буду сидеть в кокпите.",
+            "thought": "Завтра я буду сидеть в [известном] кокпите.",
+            "english": "Tomorrow I will sit in the cockpit.",
+            "transcription": "[тэм**о**роу ай wил сит ин ðэ к**о**кпит]"
+          },
+          {
+            "ours": "Ты будешь сидеть у штурвала?",
+            "thought": "Будешь ты сидеть у [известного] штурвала?",
+            "english": "Will you sit at the helm?",
+            "transcription": "[wил ю: сит æт ðэ хэлм]"
+          },
+          {
+            "ours": "Она не будет сидеть на палубе.",
+            "thought": "Она будет не сидеть на палубе.",
+            "english": "She will not sit on deck.",
+            "transcription": "[ши: wил нот сит он дэк]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were sitting",
+        "examples": [
+          {
+            "ours": "Вчера вечером мы сидели в кокпите.",
+            "thought": "Вчера вечером мы были сидящими в [известном] кокпите.",
+            "english": "Yesterday evening we were sitting in the cockpit.",
+            "transcription": "[й**э**стэдэй **и**:вниŋ wи: wœ: с**и**тиŋ ин ðэ к**о**кпит]"
+          },
+          {
+            "ours": "Ты сидел у штурвала, когда начался дождь?",
+            "thought": "Был ты сидящим у [известного] штурвала, когда он начал идти дождём?",
+            "english": "Were you sitting at the helm when it started raining?",
+            "transcription": "[wœ: ю: с**и**тиŋ æт ðэ хэлм wэн ит ст**а**:тид р**э**йниŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are sitting",
+        "examples": [
+          {
+            "ours": "Мы сейчас сидим в кокпите.",
+            "thought": "Мы являемся сидящими в [известном] кокпите сейчас.",
+            "english": "We are sitting in the cockpit now.",
+            "transcription": "[wи: а: с**и**тиŋ ин ðэ к**о**кпит нау]"
+          },
+          {
+            "ours": "Шкипер сейчас сидит у штурвала?",
+            "thought": "Является [известный] шкипер сидящим у [известного] штурвала сейчас?",
+            "english": "Is the skipper sitting at the helm now?",
+            "transcription": "[из ðэ ск**и**пэ с**и**тиŋ æт ðэ хэлм нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be sitting",
+        "examples": [
+          {
+            "ours": "Завтра утром я буду сидеть в кокпите.",
+            "thought": "Завтра утром я буду быть сидящим в [известном] кокпите.",
+            "english": "Tomorrow morning I will be sitting in the cockpit.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ай wил би: с**и**тиŋ ин ðэ к**о**кпит]"
+          },
+          {
+            "ours": "Ты будешь сидеть у штурвала во время гонки?",
+            "thought": "Будешь ты быть сидящим у [известного] штурвала во время [известной] гонки?",
+            "english": "Will you be sitting at the helm during the race?",
+            "transcription": "[wил ю: би: с**и**тиŋ æт ðэ хэлм дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had sat",
+        "examples": [
+          {
+            "ours": "К полудню я уже посидел у штурвала.",
+            "thought": "К полудню я имел уже посидевшим у [известного] штурвала.",
+            "english": "By noon I had already sat at the helm.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди сæт æт ðэ хэлм]"
+          },
+          {
+            "ours": "Ты сидел в кокпите до отхода?",
+            "thought": "Имел ты посидевшим в [известном] кокпите до отхода?",
+            "english": "Had you sat in the cockpit before departure?",
+            "transcription": "[хæд ю: сæт ин ðэ к**о**кпит биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has sat",
+        "examples": [
+          {
+            "ours": "Я уже сидел за штурвалом этой яхты.",
+            "thought": "Я имею уже посидевшим у [известного] штурвала от этой яхты.",
+            "english": "I have already sat at the helm of this yacht.",
+            "transcription": "[ай хæв о:лр**э**ди сæт æт ðэ хэлм ов ðис йот]"
+          },
+          {
+            "ours": "Ты когда-нибудь сидел в этом кокпите?",
+            "thought": "Имеешь ты когда-либо посидевшим в этом кокпите?",
+            "english": "Have you ever sat in this cockpit?",
+            "transcription": "[хæв ю: **э**вэ сæт ин ðис к**о**кпит]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have sat",
+        "examples": [
+          {
+            "ours": "К полудню мы просидим в кокпите час.",
+            "thought": "К полудню мы будем иметь посидевшим в [известном] кокпите целый [какой-то] час.",
+            "english": "By noon we will have sat in the cockpit for an hour.",
+            "transcription": "[бай ну:н wи: wил хæв сæт ин ðэ к**о**кпит фо: эн **а**уэ]"
+          },
+          {
+            "ours": "К пяти ты просидишь на палубе два часа?",
+            "thought": "Будешь ты иметь посидевшим на палубе целых два часа к пяти?",
+            "english": "Will you have sat on deck for two hours by five?",
+            "transcription": "[wил ю: хæв сæт он дэк фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been sitting",
+        "examples": [
+          {
+            "ours": "Мы час сидели в кокпите, когда начался дождь.",
+            "thought": "Мы имели быть сидящими в [известном] кокпите целый [какой-то] час, когда он начал идти дождём.",
+            "english": "We had been sitting in the cockpit for an hour when it started raining.",
+            "transcription": "[wи: хæд би:н с**и**тиŋ ин ðэ к**о**кпит фо: эн **а**уэ wэн ит ст**а**:тид р**э**йниŋ]"
+          },
+          {
+            "ours": "Ты сидел у штурвала два часа до рассвета?",
+            "thought": "Имел ты быть сидящим у [известного] штурвала целых два часа до рассвета?",
+            "english": "Had you been sitting at the helm for two hours before dawn?",
+            "transcription": "[хæд ю: би:н с**и**тиŋ æт ðэ хэлм фо: ту: **а**уэз биф**о**: до:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been sitting",
+        "examples": [
+          {
+            "ours": "Мы сидим в кокпите уже час.",
+            "thought": "Мы имеем быть сидящими в [известном] кокпите целый [какой-то] час.",
+            "english": "We have been sitting in the cockpit for an hour.",
+            "transcription": "[wи: хæв би:н с**и**тиŋ ин ðэ к**о**кпит фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты сидишь у штурвала уже два часа?",
+            "thought": "Имеешь ты быть сидящим у [известного] штурвала целых два часа?",
+            "english": "Have you been sitting at the helm for two hours?",
+            "transcription": "[хæв ю: би:н с**и**тиŋ æт ðэ хэлм фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been sitting",
+        "examples": [
+          {
+            "ours": "К пяти мы будем сидеть в кокпите уже два часа.",
+            "thought": "К пяти мы будем иметь быть сидящими в [известном] кокпите целых два часа.",
+            "english": "By five we will have been sitting in the cockpit for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н с**и**тиŋ ин ðэ к**о**кпит фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь сидеть у штурвала уже час?",
+            "thought": "Будешь ты иметь быть сидящим у [известного] штурвала целый [какой-то] час к полудню?",
+            "english": "Will you have been sitting at the helm for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н с**и**тиŋ æт ðэ хэлм фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "Sit в значении «сидеть» не имеет прямого дополнения и не образует обычный пассив. Скажут: The skipper sits in the cockpit."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она будет сидеть в кокпите.",
+        "thought": "Я знал, она будет сидеть в [известном] кокпите.",
+        "english": "I knew she would sit in the cockpit.",
+        "transcription": "[ай нью: ши: wуд сит ин ðэ к**о**кпит]"
+      },
+      {
+        "ours": "Он думал, что мы не будем сидеть на палубе.",
+        "thought": "Он думал, мы будем не сидеть на палубе.",
+        "english": "He thought we would not sit on deck.",
+        "transcription": "[хи: θо:т wи: wуд нот сит он дэк]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "cockpit",
+      "meaning": "кокпит",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "cockpit"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "helm",
+      "meaning": "штурвал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "helm"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "cushion",
+      "meaning": "подушка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "cushions"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "dawn"
+        }
+      ]
+    }
+  ]
+}

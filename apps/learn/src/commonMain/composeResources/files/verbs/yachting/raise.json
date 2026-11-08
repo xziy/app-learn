@@ -1,0 +1,800 @@
+{
+  "spec": 4,
+  "verb": "raise",
+  "forms": {
+    "base": [
+      {
+        "word": "raise",
+        "transcription": "[рэйз]"
+      }
+    ],
+    "past": [
+      {
+        "word": "raised",
+        "transcription": "[рэйзд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "raised",
+        "transcription": "[рэйзд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "raising",
+        "transcription": "[р**э**йзиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "raises",
+        "transcription": "[р**э**йзиз]"
+      }
+    ]
+  },
+  "meaning": "поднимать, повышать",
+  "notes": "правильный переходный глагол; в яхтинге употребляется с парусом и флагом",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "raised",
+        "examples": [
+          {
+            "ours": "Вчера экипаж поднял парус.",
+            "thought": "Вчера [известный] экипаж поднял [известный] парус.",
+            "english": "Yesterday the crew raised the sail.",
+            "transcription": "[й**э**стэдэй ðэ кру: рэйзд ðэ сэйл]"
+          },
+          {
+            "ours": "Моряк поднял якорь вчера?",
+            "thought": "[Сделал] [известный] моряк поднимать [известный] якорь вчера?",
+            "english": "Did the sailor raise the anchor yesterday?",
+            "transcription": "[дид ðэ с**э**йлэ рэйз ðи **æ**нкэ й**э**стэдэй]"
+          },
+          {
+            "ours": "Они не подняли флаг.",
+            "thought": "Они [сделали] не поднимать [известный] флаг.",
+            "english": "They did not raise the flag.",
+            "transcription": "[ðэй дид нот рэйз ðэ флæг]"
+          }
+        ]
+      },
+      "present": {
+        "form": "raise, raises",
+        "examples": [
+          {
+            "ours": "Капитан поднимает флаг.",
+            "thought": "[Известный] капитан поднимает [известный] флаг.",
+            "english": "The skipper raises the flag.",
+            "transcription": "[ðэ ск**и**пэ р**э**йзиз ðэ флæг]"
+          },
+          {
+            "ours": "Экипаж поднимает спинакер?",
+            "thought": "[Делает] [известный] экипаж поднимать [известный] спинакер?",
+            "english": "Does the crew raise the spinnaker?",
+            "transcription": "[даз ðэ кру: рэйз ðэ сп**и**нэкэ]"
+          },
+          {
+            "ours": "Мы не поднимаем спинакер в шторм.",
+            "thought": "Мы [делаем] не поднимать [известный] спинакер в шторм.",
+            "english": "We do not raise the spinnaker in storms.",
+            "transcription": "[wи: ду: нот рэйз ðэ сп**и**нэкэ ин сто:мз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will raise",
+        "examples": [
+          {
+            "ours": "Завтра экипаж поднимет парус.",
+            "thought": "Завтра [известный] экипаж будет поднимать [известный] парус.",
+            "english": "Tomorrow the crew will raise the sail.",
+            "transcription": "[тэм**о**роу ðэ кру: wил рэйз ðэ сэйл]"
+          },
+          {
+            "ours": "Моряк поднимет якорь завтра?",
+            "thought": "Будет [известный] моряк поднимать [известный] якорь завтра?",
+            "english": "Will the sailor raise the anchor tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ рэйз ðи **æ**нкэ тэм**о**роу]"
+          },
+          {
+            "ours": "Она не поднимет якорь.",
+            "thought": "Она будет не поднимать [известный] якорь.",
+            "english": "She will not raise the anchor.",
+            "transcription": "[ши: wил нот рэйз ðи **æ**нкэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were raising",
+        "examples": [
+          {
+            "ours": "Экипаж поднимал парус, когда ты прибыл.",
+            "thought": "[Известный] экипаж был поднимающим [известный] парус, когда ты прибыл.",
+            "english": "The crew was raising the sail when you arrived.",
+            "transcription": "[ðэ кру: wоз р**э**йзиŋ ðэ сэйл wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Моряк поднимал якорь, когда ты прибыл?",
+            "thought": "Был [известный] моряк поднимающим [известный] якорь, когда ты прибыл?",
+            "english": "Was the sailor raising the anchor when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ р**э**йзиŋ ðи **æ**нкэ wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are raising",
+        "examples": [
+          {
+            "ours": "Капитан сейчас поднимает флаг.",
+            "thought": "[Известный] капитан является поднимающим [известный] флаг сейчас.",
+            "english": "The skipper is raising the flag now.",
+            "transcription": "[ðэ ск**и**пэ из р**э**йзиŋ ðэ флæг нау]"
+          },
+          {
+            "ours": "Экипаж сейчас поднимает спинакер?",
+            "thought": "Является [известный] экипаж поднимающим [известный] спинакер сейчас?",
+            "english": "Is the crew raising the spinnaker now?",
+            "transcription": "[из ðэ кру: р**э**йзиŋ ðэ сп**и**нэкэ нау]"
+          },
+          {
+            "ours": "Мы сейчас не поднимаем парус.",
+            "thought": "Мы являемся не поднимающими [известный] парус сейчас.",
+            "english": "We are not raising the sail now.",
+            "transcription": "[wи: а: нот р**э**йзиŋ ðэ сэйл нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be raising",
+        "examples": [
+          {
+            "ours": "Завтра экипаж будет поднимать парус.",
+            "thought": "Завтра [известный] экипаж будет быть поднимающим [известный] парус.",
+            "english": "Tomorrow the crew will be raising the sail.",
+            "transcription": "[тэм**о**роу ðэ кру: wил би: р**э**йзиŋ ðэ сэйл]"
+          },
+          {
+            "ours": "Моряк завтра будет поднимать якорь?",
+            "thought": "Будет [известный] моряк быть поднимающим [известный] якорь завтра?",
+            "english": "Will the sailor be raising the anchor tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: р**э**йзиŋ ðи **æ**нкэ тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had raised",
+        "examples": [
+          {
+            "ours": "К полудню экипаж поднял парус.",
+            "thought": "К полудню [известный] экипаж имел поднятым [известный] парус.",
+            "english": "By noon the crew had raised the sail.",
+            "transcription": "[бай ну:н ðэ кру: хæд рэйзд ðэ сэйл]"
+          },
+          {
+            "ours": "Моряк поднял якорь к полудню?",
+            "thought": "Имел [известный] моряк поднятым [известный] якорь к полудню?",
+            "english": "Had the sailor raised the anchor by noon?",
+            "transcription": "[хæд ðэ с**э**йлэ рэйзд ðи **æ**нкэ бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has raised",
+        "examples": [
+          {
+            "ours": "Капитан уже поднял флаг.",
+            "thought": "[Известный] капитан имеет уже поднятым [известный] флаг.",
+            "english": "The skipper has already raised the flag.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди рэйзд ðэ флæг]"
+          },
+          {
+            "ours": "Экипаж уже поднял спинакер?",
+            "thought": "Имеет [известный] экипаж поднятым [известный] спинакер уже?",
+            "english": "Has the crew raised the spinnaker yet?",
+            "transcription": "[хæз ðэ кру: рэйзд ðэ сп**и**нэкэ йэт]"
+          },
+          {
+            "ours": "Она ещё не подняла якорь.",
+            "thought": "Она имеет не поднятым [известный] якорь ещё.",
+            "english": "She has not raised the anchor yet.",
+            "transcription": "[ши: хæз нот рэйзд ðи **æ**нкэ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have raised",
+        "examples": [
+          {
+            "ours": "К пяти экипаж поднимет парус.",
+            "thought": "К пяти [известный] экипаж будет иметь поднятым [известный] парус.",
+            "english": "By five the crew will have raised the sail.",
+            "transcription": "[бай файв ðэ кру: wил хæв рэйзд ðэ сэйл]"
+          },
+          {
+            "ours": "Моряк поднимет якорь к пяти?",
+            "thought": "Будет [известный] моряк иметь поднятым [известный] якорь к пяти?",
+            "english": "Will the sailor have raised the anchor by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв рэйзд ðи **æ**нкэ бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для однократного подъёма паруса длительный perfect обычно не используют: The crew has raised the sail. Для серии подъёмов форма возможна."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were raised",
+        "examples": [
+          {
+            "ours": "Парус был поднят вчера.",
+            "thought": "[Известный] парус был поднят вчера.",
+            "english": "The sail was raised yesterday.",
+            "transcription": "[ðэ сэйл wоз рэйзд й**э**стэдэй]"
+          },
+          {
+            "ours": "Якорь был поднят вчера?",
+            "thought": "Был [известный] якорь поднят вчера?",
+            "english": "Was the anchor raised yesterday?",
+            "transcription": "[wоз ðи **æ**нкэ рэйзд й**э**стэдэй]"
+          },
+          {
+            "ours": "Флаг не подняли вчера.",
+            "thought": "[Известный] флаг был не поднят вчера.",
+            "english": "The flag was not raised yesterday.",
+            "transcription": "[ðэ флæг wоз нот рэйзд й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are raised",
+        "examples": [
+          {
+            "ours": "Флаг поднимают здесь.",
+            "thought": "[Известный] флаг есть поднят здесь.",
+            "english": "The flag is raised here.",
+            "transcription": "[ðэ флæг из рэйзд хиэ]"
+          },
+          {
+            "ours": "Спинакер поднимают здесь?",
+            "thought": "Есть [известный] спинакер поднят здесь?",
+            "english": "Is the spinnaker raised here?",
+            "transcription": "[из ðэ сп**и**нэкэ рэйзд хиэ]"
+          },
+          {
+            "ours": "Флаг не поднимают ночью.",
+            "thought": "[Известный] флаг есть не поднят ночью.",
+            "english": "The flag is not raised at night.",
+            "transcription": "[ðэ флæг из нот рэйзд æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be raised",
+        "examples": [
+          {
+            "ours": "Парус поднимут завтра.",
+            "thought": "[Известный] парус будет быть поднят завтра.",
+            "english": "The sail will be raised tomorrow.",
+            "transcription": "[ðэ сэйл wил би: рэйзд тэм**о**роу]"
+          },
+          {
+            "ours": "Якорь поднимут завтра?",
+            "thought": "Будет [известный] якорь быть поднят завтра?",
+            "english": "Will the anchor be raised tomorrow?",
+            "transcription": "[wил ðи **æ**нкэ би: рэйзд тэм**о**роу]"
+          },
+          {
+            "ours": "Якорь не поднимут завтра.",
+            "thought": "[Известный] якорь будет не быть поднят завтра.",
+            "english": "The anchor will not be raised tomorrow.",
+            "transcription": "[ðи **æ**нкэ wил нот би: рэйзд тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being raised",
+        "examples": [
+          {
+            "ours": "Парус поднимали, когда ты прибыл.",
+            "thought": "[Известный] парус был «долго» поднят, когда ты прибыл.",
+            "english": "The sail was being raised when you arrived.",
+            "transcription": "[ðэ сэйл wоз б**и**:иŋ рэйзд wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Якорь поднимали, когда ты прибыл?",
+            "thought": "Был [известный] якорь «долго» поднят, когда ты прибыл?",
+            "english": "Was the anchor being raised when you arrived?",
+            "transcription": "[wоз ðи **æ**нкэ б**и**:иŋ рэйзд wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being raised",
+        "examples": [
+          {
+            "ours": "Флаг сейчас поднимают.",
+            "thought": "[Известный] флаг есть «долго» поднят сейчас.",
+            "english": "The flag is being raised now.",
+            "transcription": "[ðэ флæг из б**и**:иŋ рэйзд нау]"
+          },
+          {
+            "ours": "Спинакер сейчас поднимают?",
+            "thought": "Есть [известный] спинакер «долго» поднят сейчас?",
+            "english": "Is the spinnaker being raised now?",
+            "transcription": "[из ðэ сп**и**нэкэ б**и**:иŋ рэйзд нау]"
+          },
+          {
+            "ours": "Спинакер сейчас не поднимают.",
+            "thought": "[Известный] спинакер есть не «долго» поднят сейчас.",
+            "english": "The spinnaker is not being raised now.",
+            "transcription": "[ðэ сп**и**нэкэ из нот б**и**:иŋ рэйзд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be raising",
+        "examples": [
+          {
+            "ours": "Завтра они будут поднимать парус.",
+            "thought": "Завтра они будут быть поднимающими [известный] парус.",
+            "english": "Tomorrow they will be raising the sail.",
+            "transcription": "[тэм**о**роу ðэй wил би: р**э**йзиŋ ðэ сэйл]"
+          },
+          {
+            "ours": "Они будут поднимать якорь завтра?",
+            "thought": "Будут они быть поднимающими [известный] якорь завтра?",
+            "english": "Will they be raising the anchor tomorrow?",
+            "transcription": "[wил ðэй би: р**э**йзиŋ ðи **æ**нкэ тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been raised",
+        "examples": [
+          {
+            "ours": "К полудню парус подняли.",
+            "thought": "К полудню [известный] парус имел быть поднят.",
+            "english": "By noon the sail had been raised.",
+            "transcription": "[бай ну:н ðэ сэйл хæд би:н рэйзд]"
+          },
+          {
+            "ours": "Якорь подняли к полудню?",
+            "thought": "Имел [известный] якорь быть поднят к полудню?",
+            "english": "Had the anchor been raised by noon?",
+            "transcription": "[хæд ðи **æ**нкэ би:н рэйзд бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been raised",
+        "examples": [
+          {
+            "ours": "Флаг уже подняли.",
+            "thought": "[Известный] флаг имеет уже быть поднят.",
+            "english": "The flag has already been raised.",
+            "transcription": "[ðэ флæг хæз о:лр**э**ди би:н рэйзд]"
+          },
+          {
+            "ours": "Спинакер уже подняли?",
+            "thought": "Имеет [известный] спинакер быть поднят уже?",
+            "english": "Has the spinnaker been raised yet?",
+            "transcription": "[хæз ðэ сп**и**нэкэ би:н рэйзд йэт]"
+          },
+          {
+            "ours": "Якорь ещё не подняли.",
+            "thought": "[Известный] якорь имеет не быть поднят ещё.",
+            "english": "The anchor has not been raised yet.",
+            "transcription": "[ðи **æ**нкэ хæз нот би:н рэйзд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been raised",
+        "examples": [
+          {
+            "ours": "К пяти парус поднимут.",
+            "thought": "К пяти [известный] парус будет иметь быть поднят.",
+            "english": "By five the sail will have been raised.",
+            "transcription": "[бай файв ðэ сэйл wил хæв би:н рэйзд]"
+          },
+          {
+            "ours": "Якорь поднимут к пяти?",
+            "thought": "Будет [известный] якорь иметь быть поднят к пяти?",
+            "english": "Will the anchor have been raised by five?",
+            "transcription": "[wил ðи **æ**нкэ хæв би:н рэйзд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The crew has raised the sail."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что моряк поднимет якорь.",
+        "thought": "Я знал [известный] моряк будет поднимать [известный] якорь.",
+        "english": "I knew the sailor would raise the anchor.",
+        "transcription": "[ай нью: ðэ с**э**йлэ wуд рэйз ðи **æ**нкэ]"
+      },
+      {
+        "ours": "Мы думали, что экипаж не поднимет парус.",
+        "thought": "Мы думали [известный] экипаж будет не поднимать [известный] парус.",
+        "english": "We thought the crew would not raise the sail.",
+        "transcription": "[wи: θо:т ðэ кру: wуд нот рэйз ðэ сэйл]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "flag",
+      "meaning": "флаг",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "flag"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "flag"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "flag"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "flag"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "spinnaker",
+      "meaning": "спинакер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "spinnaker"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "storms"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "night"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "spec": 4,
+  "verb": "fail",
+  "forms": {
+    "base": [
+      {
+        "word": "fail",
+        "transcription": "[фэйл]"
+      }
+    ],
+    "past": [
+      {
+        "word": "failed",
+        "transcription": "[фэйлд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "failed",
+        "transcription": "[фэйлд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "failing",
+        "transcription": "[ф**э**йлиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "fails",
+        "transcription": "[фэйлз]"
+      }
+    ]
+  },
+  "meaning": "отказывать, выходить из строя, не суметь",
+  "notes": "правильный непереходный глагол; fail to do — не суметь что-либо сделать",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "failed",
+        "examples": [
+          {
+            "ours": "Вчера трюмная помпа отказала.",
+            "thought": "Вчера [известная] трюмная помпа отказала.",
+            "english": "Yesterday the bilge pump failed.",
+            "transcription": "[й**э**стэдэй ðэ билдж памп фэйлд]"
+          },
+          {
+            "ours": "Навигационная система не отказала.",
+            "thought": "[Известная] навигационная система [сделала] не отказывать.",
+            "english": "The navigation system did not fail.",
+            "transcription": "[ðэ нæвиг**э**йшн с**и**стэм дид нот фэйл]"
+          },
+          {
+            "ours": "Вчера трюмная помпа отказала?",
+            "thought": "[Сделала] [известная] трюмная помпа отказывать вчера?",
+            "english": "Did the bilge pump fail yesterday?",
+            "transcription": "[дид ðэ билдж памп фэйл й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "fail, fails",
+        "examples": [
+          {
+            "ours": "Навигационная система отказывает при сильном ветре.",
+            "thought": "[Известная] навигационная система отказывает при сильном ветре.",
+            "english": "The navigation system fails in strong winds.",
+            "transcription": "[ðэ нæвиг**э**йшн с**и**стэм фэйлз ин строŋ wиндз]"
+          },
+          {
+            "ours": "Трюмная помпа не отказывает ночью.",
+            "thought": "[Известная] трюмная помпа [делает] не отказывать ночью.",
+            "english": "The bilge pump does not fail at night.",
+            "transcription": "[ðэ билдж памп даз нот фэйл æт найт]"
+          },
+          {
+            "ours": "Двигатель не запускается в холодную погоду?",
+            "thought": "[Делает] [известный] двигатель не суметь запускаться в холодную погоду?",
+            "english": "Does the engine fail to start in cold weather?",
+            "transcription": "[даз ðи **э**нджин фэйл ту ста:т ин коулд w**э**ðэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will fail",
+        "examples": [
+          {
+            "ours": "Завтра трюмная помпа откажет.",
+            "thought": "Завтра [известная] трюмная помпа будет отказывать.",
+            "english": "Tomorrow the bilge pump will fail.",
+            "transcription": "[тэм**о**роу ðэ билдж памп wил фэйл]"
+          },
+          {
+            "ours": "Навигационная система не откажет.",
+            "thought": "[Известная] навигационная система будет не отказывать.",
+            "english": "The navigation system will not fail.",
+            "transcription": "[ðэ нæвиг**э**йшн с**и**стэм wил нот фэйл]"
+          },
+          {
+            "ours": "Завтра силовая установка откажет?",
+            "thought": "Будет [известная] силовая установка отказывать завтра?",
+            "english": "Will the engine fail tomorrow?",
+            "transcription": "[wил ðи **э**нджин фэйл тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were failing",
+        "examples": [
+          {
+            "ours": "Трюмная помпа отказывала, когда мы вышли из гавани.",
+            "thought": "[Известная] трюмная помпа была отказывающей, когда мы покинули [известную] гавань.",
+            "english": "The bilge pump was failing when we left the harbor.",
+            "transcription": "[ðэ билдж памп wоз ф**э**йлиŋ wэн wи: лэфт ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Навигационная система отказывала, когда ты позвонил?",
+            "thought": "Была [известная] навигационная система отказывающей, когда ты позвонил?",
+            "english": "Was the navigation system failing when you called?",
+            "transcription": "[wоз ðэ нæвиг**э**йшн с**и**стэм ф**э**йлиŋ wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are failing",
+        "examples": [
+          {
+            "ours": "Трюмная помпа сейчас отказывает.",
+            "thought": "[Известная] трюмная помпа является отказывающей сейчас.",
+            "english": "The bilge pump is failing now.",
+            "transcription": "[ðэ билдж памп из ф**э**йлиŋ нау]"
+          },
+          {
+            "ours": "Навигационная система сейчас не отказывает.",
+            "thought": "[Известная] навигационная система является не отказывающей сейчас.",
+            "english": "The navigation system is not failing now.",
+            "transcription": "[ðэ нæвиг**э**йшн с**и**стэм из нот ф**э**йлиŋ нау]"
+          },
+          {
+            "ours": "Силовая установка сейчас отказывает?",
+            "thought": "Является [известная] силовая установка отказывающей сейчас?",
+            "english": "Is the engine failing now?",
+            "transcription": "[из ðи **э**нджин ф**э**йлиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be failing",
+        "examples": [
+          {
+            "ours": "Завтра трюмная помпа будет отказывать весь день.",
+            "thought": "Завтра [известная] трюмная помпа будет быть отказывающей весь день.",
+            "english": "Tomorrow the bilge pump will be failing all day.",
+            "transcription": "[тэм**о**роу ðэ билдж памп wил би: ф**э**йлиŋ о:л дэй]"
+          },
+          {
+            "ours": "Навигационная система будет отказывать утром?",
+            "thought": "Будет [известная] навигационная система быть отказывающей в [известное] утро?",
+            "english": "Will the navigation system be failing in the morning?",
+            "transcription": "[wил ðэ нæвиг**э**йшн с**и**стэм би: ф**э**йлиŋ ин ðэ м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had failed",
+        "examples": [
+          {
+            "ours": "К полудню трюмная помпа уже отказала.",
+            "thought": "К полудню [известная] трюмная помпа имела уже отказавшей.",
+            "english": "By noon the bilge pump had already failed.",
+            "transcription": "[бай ну:н ðэ билдж памп хæд о:лр**э**ди фэйлд]"
+          },
+          {
+            "ours": "К тому времени навигационная система ещё не отказала.",
+            "thought": "К тогда [известная] навигационная система имела не отказавшей ещё.",
+            "english": "By then the navigation system had not failed yet.",
+            "transcription": "[бай ðэн ðэ нæвиг**э**йшн с**и**стэм хæд нот фэйлд йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has failed",
+        "examples": [
+          {
+            "ours": "Трюмная помпа уже отказала.",
+            "thought": "[Известная] трюмная помпа имеет уже отказавшей.",
+            "english": "The bilge pump has already failed.",
+            "transcription": "[ðэ билдж памп хæз о:лр**э**ди фэйлд]"
+          },
+          {
+            "ours": "Навигационная система ещё не отказала.",
+            "thought": "[Известная] навигационная система имеет не отказавшей ещё.",
+            "english": "The navigation system has not failed yet.",
+            "transcription": "[ðэ нæвиг**э**йшн с**и**стэм хæз нот фэйлд йэт]"
+          },
+          {
+            "ours": "Силовая установка уже отказала?",
+            "thought": "Имеет [известная] силовая установка отказавшей уже?",
+            "english": "Has the engine failed yet?",
+            "transcription": "[хæз ðи **э**нджин фэйлд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have failed",
+        "examples": [
+          {
+            "ours": "К полудню трюмная помпа откажет.",
+            "thought": "К полудню [известная] трюмная помпа будет иметь отказавшей.",
+            "english": "By noon the bilge pump will have failed.",
+            "transcription": "[бай ну:н ðэ билдж памп wил хæв фэйлд]"
+          },
+          {
+            "ours": "К пяти навигационная система откажет?",
+            "thought": "Будет [известная] навигационная система иметь отказавшей к пяти?",
+            "english": "Will the navigation system have failed by five?",
+            "transcription": "[wил ðэ нæвиг**э**йшн с**и**стэм хæв фэйлд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been failing",
+        "examples": [
+          {
+            "ours": "Трюмная помпа отказывала два часа, когда мы вышли.",
+            "thought": "[Известная] трюмная помпа имела быть отказывающей целых два часа, когда мы вышли.",
+            "english": "The bilge pump had been failing for two hours when we left.",
+            "transcription": "[ðэ билдж памп хæд би:н ф**э**йлиŋ фо: ту: **а**уэз wэн wи: лэфт]"
+          },
+          {
+            "ours": "Навигационная система долго отказывала, когда ты прибыл?",
+            "thought": "Имела [известная] навигационная система быть отказывающей долго, когда ты прибыл?",
+            "english": "Had the navigation system been failing long when you arrived?",
+            "transcription": "[хæд ðэ нæвиг**э**йшн с**и**стэм би:н ф**э**йлиŋ лоŋ wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been failing",
+        "examples": [
+          {
+            "ours": "Трюмная помпа отказывает уже два часа.",
+            "thought": "[Известная] трюмная помпа имеет быть отказывающей целых два часа.",
+            "english": "The bilge pump has been failing for two hours.",
+            "transcription": "[ðэ билдж памп хæз би:н ф**э**йлиŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Навигационная система отказывает уже час?",
+            "thought": "Имеет [известная] навигационная система быть отказывающей целый [какой-то] час?",
+            "english": "Has the navigation system been failing for an hour?",
+            "transcription": "[хæз ðэ нæвиг**э**йшн с**и**стэм би:н ф**э**йлиŋ фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been failing",
+        "examples": [
+          {
+            "ours": "К пяти трюмная помпа будет отказывать уже два часа.",
+            "thought": "К пяти [известная] трюмная помпа будет иметь быть отказывающей целых два часа.",
+            "english": "By five the bilge pump will have been failing for two hours.",
+            "transcription": "[бай файв ðэ билдж памп wил хæв би:н ф**э**йлиŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти навигационная система будет отказывать уже час?",
+            "thought": "Будет [известная] навигационная система иметь быть отказывающей целый [какой-то] час к пяти?",
+            "english": "Will the navigation system have been failing for an hour by five?",
+            "transcription": "[wил ðэ нæвиг**э**йшн с**и**стэм хæв би:н ф**э**йлиŋ фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "Fail в значении «отказывать, выходить из строя» непереходный и не образует пассив. Вместо этого скажут: The pump failed."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что ветер откажет.",
+        "thought": "Я знал [известная] трюмная помпа будет отказывать.",
+        "english": "I knew the bilge pump would fail.",
+        "transcription": "[ай нью: ðэ билдж памп wуд фэйл]"
+      },
+      {
+        "ours": "Мы думали, что навигационная система не откажет.",
+        "thought": "Мы думали [известная] навигационная система будет не отказывать.",
+        "english": "We thought the navigation system would not fail.",
+        "transcription": "[wи: θо:т ðэ нæвиг**э**йшн с**и**стэм wуд нот фэйл]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "bilge",
+      "meaning": "трюм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "bilge"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "помпа",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "navigation",
+      "meaning": "навигация",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "navigation"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "navigation"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "navigation"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "navigation"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "navigation"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "navigation"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "navigation"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "navigation"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "navigation"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "navigation"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "navigation"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "navigation"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "navigation"
+        }
+      ]
+    },
+    {
+      "word": "system",
+      "meaning": "система",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "system"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "system"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "system"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "system"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "system"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "system"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "system"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "system"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "system"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "system"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "system"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "system"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "system"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "winds"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "weather"
+        }
+      ]
+    }
+  ]
+}

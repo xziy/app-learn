@@ -1,0 +1,835 @@
+{
+  "spec": 4,
+  "verb": "deal",
+  "forms": {
+    "base": [
+      {
+        "word": "deal",
+        "transcription": "[ди:л]"
+      }
+    ],
+    "past": [
+      {
+        "word": "dealt",
+        "transcription": "[дэлт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "dealt",
+        "transcription": "[дэлт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "dealing",
+        "transcription": "[д**и**:лиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "deals",
+        "transcription": "[ди:лз]"
+      }
+    ]
+  },
+  "meaning": "разбираться, справляться; иметь дело",
+  "notes": "неправильный глагол; deal with — разбираться с чем-либо; предлог сохраняется в пассиве",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "dealt with",
+        "examples": [
+          {
+            "ours": "Вчера мы разобрались с утечкой.",
+            "thought": "Вчера мы разобрались с [известной] утечкой.",
+            "english": "Yesterday we dealt with the leak.",
+            "transcription": "[й**э**стэдэй wи: дэлт wиð ðэ ли:к]"
+          },
+          {
+            "ours": "Ты разобрался с проблемой?",
+            "thought": "[Сделал] ты разбираться с [известной] проблемой?",
+            "english": "Did you deal with the problem?",
+            "transcription": "[дид ю: ди:л wиð ðэ пр**о**блэм]"
+          },
+          {
+            "ours": "Она не разобралась с повреждением.",
+            "thought": "Она [сделала] не разбираться с [известным] повреждением.",
+            "english": "She did not deal with the damage.",
+            "transcription": "[ши: дид нот ди:л wиð ðэ д**æ**мидж]"
+          }
+        ]
+      },
+      "present": {
+        "form": "deal with, deals with",
+        "examples": [
+          {
+            "ours": "Шкипер разбирается с неисправностями.",
+            "thought": "[Известный] шкипер разбирается с неисправностями.",
+            "english": "The skipper deals with faults.",
+            "transcription": "[ðэ ск**и**пэ ди:лз wиð фо:лтс]"
+          },
+          {
+            "ours": "Ты разбираешься с ремонтом?",
+            "thought": "[Делаешь] ты разбираться с ремонтом?",
+            "english": "Do you deal with repairs?",
+            "transcription": "[ду: ю: ди:л wиð рип**э**эз]"
+          },
+          {
+            "ours": "Мы не занимаемся страховыми случаями.",
+            "thought": "Мы [делаем] не разбираться с страхования требованиями.",
+            "english": "We do not deal with insurance claims.",
+            "transcription": "[wи: ду: нот ди:л wиð инш**у**эрэнс клэймз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will deal with",
+        "examples": [
+          {
+            "ours": "Завтра мы займёмся утечкой.",
+            "thought": "Завтра мы будем разбираться с [известной] утечкой.",
+            "english": "Tomorrow we will deal with the leak.",
+            "transcription": "[тэм**о**роу wи: wил ди:л wиð ðэ ли:к]"
+          },
+          {
+            "ours": "Ты разберёшься с проблемой?",
+            "thought": "Будешь ты разбираться с [известной] проблемой?",
+            "english": "Will you deal with the problem?",
+            "transcription": "[wил ю: ди:л wиð ðэ пр**о**блэм]"
+          },
+          {
+            "ours": "Она не займётся повреждением.",
+            "thought": "Она будет не разбираться с [известным] повреждением.",
+            "english": "She will not deal with the damage.",
+            "transcription": "[ши: wил нот ди:л wиð ðэ д**æ**мидж]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were dealing with",
+        "examples": [
+          {
+            "ours": "Вчера утром мы занимались утечкой.",
+            "thought": "Вчера утром мы были разбирающимися с [известной] утечкой.",
+            "english": "Yesterday morning we were dealing with the leak.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: д**и**:лиŋ wиð ðэ ли:к]"
+          },
+          {
+            "ours": "Ты разбирался с проблемой, когда я позвонил?",
+            "thought": "Был ты разбирающимся с [известной] проблемой, когда я позвонил?",
+            "english": "Were you dealing with the problem when I called?",
+            "transcription": "[wœ: ю: д**и**:лиŋ wиð ðэ пр**о**блэм wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are dealing with",
+        "examples": [
+          {
+            "ours": "Мы сейчас устраняем утечку.",
+            "thought": "Мы являемся разбирающимися с [известной] утечкой сейчас.",
+            "english": "We are dealing with the leak now.",
+            "transcription": "[wи: а: д**и**:лиŋ wиð ðэ ли:к нау]"
+          },
+          {
+            "ours": "Шкипер сейчас разбирается с повреждением?",
+            "thought": "Является [известный] шкипер разбирающимся с [известным] повреждением сейчас?",
+            "english": "Is the skipper dealing with the damage now?",
+            "transcription": "[из ðэ ск**и**пэ д**и**:лиŋ wиð ðэ д**æ**мидж нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be dealing with",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем заниматься утечкой.",
+            "thought": "Завтра утром мы будем быть разбирающимися с [известной] утечкой.",
+            "english": "Tomorrow morning we will be dealing with the leak.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: д**и**:лиŋ wиð ðэ ли:к]"
+          },
+          {
+            "ours": "Ты будешь заниматься повреждением вечером?",
+            "thought": "Будешь ты быть разбирающимся с [известным] повреждением этот вечер?",
+            "english": "Will you be dealing with the damage this evening?",
+            "transcription": "[wил ю: би: д**и**:лиŋ wиð ðэ д**æ**мидж ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had dealt with",
+        "examples": [
+          {
+            "ours": "К полудню мы уже устранили утечку.",
+            "thought": "К полудню мы имели уже разобравшимся с [известной] утечкой.",
+            "english": "By noon we had already dealt with the leak.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди дэлт wиð ðэ ли:к]"
+          },
+          {
+            "ours": "Ты разобрался с проблемой до отхода?",
+            "thought": "Имел ты разобравшимся с [известной] проблемой до отхода?",
+            "english": "Had you dealt with the problem before departure?",
+            "transcription": "[хæд ю: дэлт wиð ðэ пр**о**блэм биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has dealt with",
+        "examples": [
+          {
+            "ours": "Мы уже разобрались с повреждением.",
+            "thought": "Мы имеем уже разобравшимся с [известным] повреждением.",
+            "english": "We have already dealt with the damage.",
+            "transcription": "[wи: хæв о:лр**э**ди дэлт wиð ðэ д**æ**мидж]"
+          },
+          {
+            "ours": "Ты уже разобрался с утечкой?",
+            "thought": "Имеешь ты разобравшимся с [известной] утечкой уже?",
+            "english": "Have you dealt with the leak yet?",
+            "transcription": "[хæв ю: дэлт wиð ðэ ли:к йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have dealt with",
+        "examples": [
+          {
+            "ours": "К полудню мы устраним утечку.",
+            "thought": "К полудню мы будем иметь разобравшимся с [известной] утечкой.",
+            "english": "By noon we will have dealt with the leak.",
+            "transcription": "[бай ну:н wи: wил хæв дэлт wиð ðэ ли:к]"
+          },
+          {
+            "ours": "Ты разберёшься с проблемой к пяти?",
+            "thought": "Будешь ты иметь разобравшимся с [известной] проблемой к пяти?",
+            "english": "Will you have dealt with the problem by five?",
+            "transcription": "[wил ю: хæв дэлт wиð ðэ пр**о**блэм бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been dealing with",
+        "examples": [
+          {
+            "ours": "Мы час занимались утечкой, когда начался дождь.",
+            "thought": "Мы имели быть разбирающимися с [известной] утечкой целый [какой-то] час, когда он начал идти дождём.",
+            "english": "We had been dealing with the leak for an hour when it started raining.",
+            "transcription": "[wи: хæд би:н д**и**:лиŋ wиð ðэ ли:к фо: эн **а**уэ wэн ит ст**а**:тид р**э**йниŋ]"
+          },
+          {
+            "ours": "Ты занимался повреждением два часа до рассвета?",
+            "thought": "Имел ты быть разбирающимся с [известным] повреждением целых два часа до рассвета?",
+            "english": "Had you been dealing with the damage for two hours before dawn?",
+            "transcription": "[хæд ю: би:н д**и**:лиŋ wиð ðэ д**æ**мидж фо: ту: **а**уэз биф**о**: до:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been dealing with",
+        "examples": [
+          {
+            "ours": "Мы занимаемся утечкой уже час.",
+            "thought": "Мы имеем быть разбирающимися с [известной] утечкой целый [какой-то] час.",
+            "english": "We have been dealing with the leak for an hour.",
+            "transcription": "[wи: хæв би:н д**и**:лиŋ wиð ðэ ли:к фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты занимаешься повреждением уже два часа?",
+            "thought": "Имеешь ты быть разбирающимся с [известным] повреждением целых два часа?",
+            "english": "Have you been dealing with the damage for two hours?",
+            "transcription": "[хæв ю: би:н д**и**:лиŋ wиð ðэ д**æ**мидж фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been dealing with",
+        "examples": [
+          {
+            "ours": "К пяти мы будем заниматься утечкой уже два часа.",
+            "thought": "К пяти мы будем иметь быть разбирающимися с [известной] утечкой целых два часа.",
+            "english": "By five we will have been dealing with the leak for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н д**и**:лиŋ wиð ðэ ли:к фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь заниматься повреждением уже час?",
+            "thought": "Будешь ты иметь быть разбирающимся с [известным] повреждением целый [какой-то] час к полудню?",
+            "english": "Will you have been dealing with the damage for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н д**и**:лиŋ wиð ðэ д**æ**мидж фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were dealt with",
+        "examples": [
+          {
+            "ours": "Вчера утечку устранили.",
+            "thought": "[Известная] утечка была разобрана с вчера.",
+            "english": "The leak was dealt with yesterday.",
+            "transcription": "[ðэ ли:к wоз дэлт wиð й**э**стэдэй]"
+          },
+          {
+            "ours": "С проблемами разобрались до отхода?",
+            "thought": "Были [известные] проблемы разобраны с до отхода?",
+            "english": "Were the problems dealt with before departure?",
+            "transcription": "[wœ: ðэ пр**о**блэмз дэлт wиð биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are dealt with",
+        "examples": [
+          {
+            "ours": "Утечки устраняют в марине.",
+            "thought": "Утечки есть разобраны с в [известной] марине.",
+            "english": "Leaks are dealt with at the marina.",
+            "transcription": "[ли:кс а: дэлт wиð æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "С повреждениями разбираются до отхода?",
+            "thought": "Есть [известное] повреждение разобрано с до отхода?",
+            "english": "Is the damage dealt with before departure?",
+            "transcription": "[из ðэ д**æ**мидж дэлт wиð биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be dealt with",
+        "examples": [
+          {
+            "ours": "Утечку устранят завтра.",
+            "thought": "[Известная] утечка будет быть разобрана с завтра.",
+            "english": "The leak will be dealt with tomorrow.",
+            "transcription": "[ðэ ли:к wил би: дэлт wиð тэм**о**роу]"
+          },
+          {
+            "ours": "С проблемой разберутся до отхода?",
+            "thought": "Будет [известная] проблема быть разобрана с до отхода?",
+            "english": "Will the problem be dealt with before departure?",
+            "transcription": "[wил ðэ пр**о**блэм би: дэлт wиð биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being dealt with",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, утечку устраняли.",
+            "thought": "[Известная] утечка была «долго» разобрана с, когда я прибыл.",
+            "english": "The leak was being dealt with when I arrived.",
+            "transcription": "[ðэ ли:к wоз б**и**:иŋ дэлт wиð wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, проблемами занимались?",
+            "thought": "Были [известные] проблемы «долго» разобраны с, когда ты позвонил?",
+            "english": "Were the problems being dealt with when you called?",
+            "transcription": "[wœ: ðэ пр**о**блэмз б**и**:иŋ дэлт wиð wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being dealt with",
+        "examples": [
+          {
+            "ours": "Утечку сейчас устраняют.",
+            "thought": "[Известная] утечка есть «долго» разобрана с сейчас.",
+            "english": "The leak is being dealt with now.",
+            "transcription": "[ðэ ли:к из б**и**:иŋ дэлт wиð нау]"
+          },
+          {
+            "ours": "Проблемами сейчас занимаются?",
+            "thought": "Есть [известные] проблемы «долго» разобраны с сейчас?",
+            "english": "Are the problems being dealt with now?",
+            "transcription": "[а: ðэ пр**о**блэмз б**и**:иŋ дэлт wиð нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be dealing with",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут заниматься утечкой.",
+            "thought": "Завтра утром они будут быть разбирающимися с [известной] утечкой.",
+            "english": "Tomorrow morning they will be dealing with the leak.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: д**и**:лиŋ wиð ðэ ли:к]"
+          },
+          {
+            "ours": "Они будут заниматься повреждением вечером?",
+            "thought": "Будут они быть разбирающимися с [известным] повреждением этот вечер?",
+            "english": "Will they be dealing with the damage this evening?",
+            "transcription": "[wил ðэй би: д**и**:лиŋ wиð ðэ д**æ**мидж ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been dealt with",
+        "examples": [
+          {
+            "ours": "К полудню утечку уже устранили.",
+            "thought": "К полудню [известная] утечка имела уже быть разобрана с.",
+            "english": "By noon the leak had already been dealt with.",
+            "transcription": "[бай ну:н ðэ ли:к хæд о:лр**э**ди би:н дэлт wиð]"
+          },
+          {
+            "ours": "С проблемой разобрались до отхода?",
+            "thought": "Имела [известная] проблема быть разобрана с до отхода?",
+            "english": "Had the problem been dealt with before departure?",
+            "transcription": "[хæд ðэ пр**о**блэм би:н дэлт wиð биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been dealt with",
+        "examples": [
+          {
+            "ours": "С повреждением уже разобрались.",
+            "thought": "[Известное] повреждение имеет уже быть разобрано с.",
+            "english": "The damage has already been dealt with.",
+            "transcription": "[ðэ д**æ**мидж хæз о:лр**э**ди би:н дэлт wиð]"
+          },
+          {
+            "ours": "С утечкой уже разобрались?",
+            "thought": "Имеет [известная] утечка быть разобрана с уже?",
+            "english": "Has the leak been dealt with yet?",
+            "transcription": "[хæз ðэ ли:к би:н дэлт wиð йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been dealt with",
+        "examples": [
+          {
+            "ours": "К полудню утечку устранят.",
+            "thought": "К полудню [известная] утечка будет иметь быть разобрана с.",
+            "english": "By noon the leak will have been dealt with.",
+            "transcription": "[бай ну:н ðэ ли:к wил хæв би:н дэлт wиð]"
+          },
+          {
+            "ours": "С проблемой разберутся к пяти?",
+            "thought": "Будет [известная] проблема иметь быть разобрана с к пяти?",
+            "english": "Will the problem have been dealt with by five?",
+            "transcription": "[wил ðэ пр**о**блэм хæв би:н дэлт wиð бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been dealing with the leak."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они устранят утечку.",
+        "thought": "Я знал, они будут разбираться с [известной] утечкой.",
+        "english": "I knew they would deal with the leak.",
+        "transcription": "[ай нью: ðэй wуд ди:л wиð ðэ ли:к]"
+      },
+      {
+        "ours": "Она думала, что мы не разберёмся с проблемой.",
+        "thought": "Она думала, мы будем не разбираться с [известной] проблемой.",
+        "english": "She thought we would not deal with the problem.",
+        "transcription": "[ши: θо:т wи: wуд нот ди:л wиð ðэ пр**о**блэм]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "leak",
+      "meaning": "утечка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Leaks"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "leak"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "leak"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "leak"
+        }
+      ]
+    },
+    {
+      "word": "problem",
+      "meaning": "проблема",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "problem"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "problem"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "problem"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "problem"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "problem"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "problems"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "problem"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "problems"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "problems"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "problem"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "problem"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "problem"
+        }
+      ]
+    },
+    {
+      "word": "damage",
+      "meaning": "повреждение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "damage"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "fault",
+      "meaning": "неисправность",
+      "sense": "defect",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "faults"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "repairs"
+        }
+      ]
+    },
+    {
+      "word": "insurance",
+      "meaning": "страхование",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "insurance"
+        }
+      ]
+    },
+    {
+      "word": "claim",
+      "meaning": "требование",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "claims"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "marina"
+        }
+      ]
+    }
+  ]
+}

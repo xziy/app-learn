@@ -1,0 +1,696 @@
+{
+  "spec": 4,
+  "verb": "pass",
+  "forms": {
+    "base": [
+      {
+        "word": "pass",
+        "transcription": "[па:с]"
+      }
+    ],
+    "past": [
+      {
+        "word": "passed",
+        "transcription": "[па:ст]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "passed",
+        "transcription": "[па:ст]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "passing",
+        "transcription": "[п**а**:сиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "passes",
+        "transcription": "[п**а**:сиз]"
+      }
+    ]
+  },
+  "meaning": "проходить мимо, передавать",
+  "notes": "правильный переходный глагол; pass также значит передавать предмет",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "passed",
+        "examples": [
+          {
+            "ours": "Вчера мы прошли мимо гавани.",
+            "thought": "Вчера мы прошли [известную] гавань.",
+            "english": "Yesterday we passed the harbor.",
+            "transcription": "[й**э**стэдэй wи: па:ст ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Яхта не прошла мимо острова.",
+            "thought": "[Известная] яхта [сделала] не проходить [известный] остров.",
+            "english": "The yacht did not pass the island.",
+            "transcription": "[ðэ йот дид нот па:с ðи **а**йлэнд]"
+          },
+          {
+            "ours": "Ты прошёл мимо буя?",
+            "thought": "[Сделал] ты проходить [известный] буй?",
+            "english": "Did you pass the buoy?",
+            "transcription": "[дид ю: па:с ðэ бой]"
+          }
+        ]
+      },
+      "present": {
+        "form": "pass, passes",
+        "examples": [
+          {
+            "ours": "Мы проходим мимо бухты к вечеру.",
+            "thought": "Мы проходим [известную] бухту к вечеру.",
+            "english": "We pass the bay by evening.",
+            "transcription": "[wи: па:с ðэ бэй бай **и**:вниŋ]"
+          },
+          {
+            "ours": "Эта яхта не проходит мимо берега до темноты.",
+            "thought": "Эта яхта [делает] не проходить [известный] берег до темноты.",
+            "english": "This yacht does not pass the shore before dark.",
+            "transcription": "[ðис йот даз нот па:с ðэ шо: биф**о**: да:к]"
+          },
+          {
+            "ours": "Ты проходишь мимо причала до полудня?",
+            "thought": "[Делаешь] ты проходить [известный] причал до полудня?",
+            "english": "Do you pass the dock before noon?",
+            "transcription": "[ду: ю: па:с ðэ док биф**о**: ну:н]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will pass",
+        "examples": [
+          {
+            "ours": "Завтра мы пройдём мимо гавани.",
+            "thought": "Завтра мы будем проходить [известную] гавань.",
+            "english": "Tomorrow we will pass the harbor.",
+            "transcription": "[тэм**о**роу wи: wил па:с ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Яхта не пройдёт мимо острова.",
+            "thought": "[Известная] яхта будет не проходить [известный] остров.",
+            "english": "The yacht will not pass the island.",
+            "transcription": "[ðэ йот wил нот па:с ðи **а**йлэнд]"
+          },
+          {
+            "ours": "Ты пройдёшь мимо буя?",
+            "thought": "Будешь ты проходить [известный] буй?",
+            "english": "Will you pass the buoy?",
+            "transcription": "[wил ю: па:с ðэ бой]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were passing",
+        "examples": [
+          {
+            "ours": "Яхта проходила мимо причала, когда поднялся ветер.",
+            "thought": "[Известная] яхта была проходящей [известный] причал, когда [известный] ветер поднялся.",
+            "english": "The yacht was passing the dock when the wind rose.",
+            "transcription": "[ðэ йот wоз п**а**:сиŋ ðэ док wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты проходил мимо острова, когда я позвонил?",
+            "thought": "Был ты проходящим [известный] остров, когда я позвонил?",
+            "english": "Were you passing the island when I called?",
+            "transcription": "[wœ: ю: п**а**:сиŋ ðи **а**йлэнд wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are passing",
+        "examples": [
+          {
+            "ours": "Яхта сейчас проходит мимо причала.",
+            "thought": "[Известная] яхта является проходящей [известный] причал сейчас.",
+            "english": "The yacht is passing the dock now.",
+            "transcription": "[ðэ йот из п**а**:сиŋ ðэ док нау]"
+          },
+          {
+            "ours": "Она сейчас не передаёт швартов.",
+            "thought": "Она является не передающей [известный] швартов сейчас.",
+            "english": "She is not passing the line now.",
+            "transcription": "[ши: из нот п**а**:сиŋ ðэ лайн нау]"
+          },
+          {
+            "ours": "Ты сейчас передаёшь швартов?",
+            "thought": "Являешься ты передающим [известный] швартов сейчас?",
+            "english": "Are you passing the line now?",
+            "transcription": "[а: ю: п**а**:сиŋ ðэ лайн нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be passing",
+        "examples": [
+          {
+            "ours": "Завтра в пять мы будем проходить мимо острова.",
+            "thought": "Завтра в пять мы будем быть проходящими [известный] остров.",
+            "english": "Tomorrow at five we will be passing the island.",
+            "transcription": "[тэм**о**роу æт файв wи: wил би: п**а**:сиŋ ðи **а**йлэнд]"
+          },
+          {
+            "ours": "Ты будешь проходить мимо причала в шесть?",
+            "thought": "Будешь ты быть проходящим [известный] причал в шесть?",
+            "english": "Will you be passing the dock at six?",
+            "transcription": "[wил ю: би: п**а**:сиŋ ðэ док æт сикс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had passed",
+        "examples": [
+          {
+            "ours": "К полудню мы уже прошли мимо гавани.",
+            "thought": "К полудню мы имели уже пройденной [известную] гавань.",
+            "english": "By noon we had already passed the harbor.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди па:ст ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "К тому времени яхта ещё не прошла мимо острова.",
+            "thought": "К тогда [известная] яхта имела не пройденным [известный] остров ещё.",
+            "english": "By then the yacht had not passed the island yet.",
+            "transcription": "[бай ðэн ðэ йот хæд нот па:ст ðи **а**йлэнд йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has passed",
+        "examples": [
+          {
+            "ours": "Мы уже прошли мимо гавани.",
+            "thought": "Мы имеем уже пройденной [известную] гавань.",
+            "english": "We have already passed the harbor.",
+            "transcription": "[wи: хæв о:лр**э**ди па:ст ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Яхта ещё не прошла мимо острова.",
+            "thought": "[Известная] яхта имеет не пройденным [известный] остров ещё.",
+            "english": "The yacht has not passed the island yet.",
+            "transcription": "[ðэ йот хæз нот па:ст ðи **а**йлэнд йэт]"
+          },
+          {
+            "ours": "Ты уже прошёл мимо буя?",
+            "thought": "Имеешь ты пройденным [известный] буй уже?",
+            "english": "Have you passed the buoy yet?",
+            "transcription": "[хæв ю: па:ст ðэ бой йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have passed",
+        "examples": [
+          {
+            "ours": "К полудню мы пройдём мимо гавани.",
+            "thought": "К полудню мы будем иметь пройденной [известную] гавань.",
+            "english": "By noon we will have passed the harbor.",
+            "transcription": "[бай ну:н wи: wил хæв па:ст ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "К пяти ты пройдёшь мимо острова?",
+            "thought": "Будешь ты иметь пройденным [известный] остров к пяти?",
+            "english": "Will you have passed the island by five?",
+            "transcription": "[wил ю: хæв па:ст ðи **а**йлэнд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для однократного прохода мимо точки длительный perfect обычно не используют: We have passed the buoy. Для серии проходов форма возможна."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were passed",
+        "examples": [
+          {
+            "ours": "Мимо гавани прошли вчера.",
+            "thought": "[Известная] гавань была пройдена вчера.",
+            "english": "The harbor was passed yesterday.",
+            "transcription": "[ðэ х**а**:бэ wоз па:ст й**э**стэдэй]"
+          },
+          {
+            "ours": "Мимо острова не прошли.",
+            "thought": "[Известный] остров был не пройден.",
+            "english": "The island was not passed.",
+            "transcription": "[ðи **а**йлэнд wоз нот па:ст]"
+          },
+          {
+            "ours": "Мимо буя прошли?",
+            "thought": "Был [известный] буй пройден?",
+            "english": "Was the buoy passed?",
+            "transcription": "[wоз ðэ бой па:ст]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are passed",
+        "examples": [
+          {
+            "ours": "Мимо бухты проходят к вечеру.",
+            "thought": "[Известная] бухта есть пройдена к вечеру.",
+            "english": "The bay is passed by evening.",
+            "transcription": "[ðэ бэй из па:ст бай **и**:вниŋ]"
+          },
+          {
+            "ours": "Мимо этого острова не проходят за день.",
+            "thought": "Этот остров есть не пройден за [какой-то] день.",
+            "english": "This island is not passed in a day.",
+            "transcription": "[ðис **а**йлэнд из нот па:ст ин э дэй]"
+          },
+          {
+            "ours": "Мимо причала проходят до полудня?",
+            "thought": "Есть [известный] причал пройден до полудня?",
+            "english": "Is the dock passed before noon?",
+            "transcription": "[из ðэ док па:ст биф**о**: ну:н]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be passed",
+        "examples": [
+          {
+            "ours": "Завтра пройдут мимо гавани.",
+            "thought": "Завтра [известная] гавань будет быть пройдена.",
+            "english": "Tomorrow the harbor will be passed.",
+            "transcription": "[тэм**о**роу ðэ х**а**:бэ wил би: па:ст]"
+          },
+          {
+            "ours": "Мимо острова не пройдут.",
+            "thought": "[Известный] остров будет не быть пройден.",
+            "english": "The island will not be passed.",
+            "transcription": "[ðи **а**йлэнд wил нот би: па:ст]"
+          },
+          {
+            "ours": "Мимо буя пройдут завтра?",
+            "thought": "Будет [известный] буй быть пройден завтра?",
+            "english": "Will the buoy be passed tomorrow?",
+            "transcription": "[wил ðэ бой би: па:ст тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "При описании однократного прохода мимо точки длительный пассив звучит неестественно. Скажут: The yacht is passing the buoy. В будущем: They will be passing the buoy at five."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been passed",
+        "examples": [
+          {
+            "ours": "К полудню мимо гавани уже прошли.",
+            "thought": "К полудню [известная] гавань имела уже быть пройдена.",
+            "english": "By noon the harbor had already been passed.",
+            "transcription": "[бай ну:н ðэ х**а**:бэ хæд о:лр**э**ди би:н па:ст]"
+          },
+          {
+            "ours": "К тому времени мимо острова ещё не прошли.",
+            "thought": "К тогда [известный] остров имел не быть пройден ещё.",
+            "english": "By then the island had not been passed yet.",
+            "transcription": "[бай ðэн ðи **а**йлэнд хæд нот би:н па:ст йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been passed",
+        "examples": [
+          {
+            "ours": "Мимо гавани уже прошли.",
+            "thought": "[Известная] гавань имеет уже быть пройдена.",
+            "english": "The harbor has already been passed.",
+            "transcription": "[ðэ х**а**:бэ хæз о:лр**э**ди би:н па:ст]"
+          },
+          {
+            "ours": "Мимо острова ещё не прошли.",
+            "thought": "[Известный] остров имеет не быть пройден ещё.",
+            "english": "The island has not been passed yet.",
+            "transcription": "[ðи **а**йлэнд хæз нот би:н па:ст йэт]"
+          },
+          {
+            "ours": "Мимо буя уже прошли?",
+            "thought": "Имеет [известный] буй быть пройден уже?",
+            "english": "Has the buoy been passed yet?",
+            "transcription": "[хæз ðэ бой би:н па:ст йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been passed",
+        "examples": [
+          {
+            "ours": "К полудню мимо гавани пройдут.",
+            "thought": "К полудню [известная] гавань будет иметь быть пройдена.",
+            "english": "By noon the harbor will have been passed.",
+            "transcription": "[бай ну:н ðэ х**а**:бэ wил хæв би:н па:ст]"
+          },
+          {
+            "ours": "К пяти мимо острова пройдут?",
+            "thought": "Будет [известный] остров иметь быть пройден к пяти?",
+            "english": "Will the island have been passed by five?",
+            "transcription": "[wил ðи **а**йлэнд хæв би:н па:ст бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The yacht has passed the buoy."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что мы пройдём гавани.",
+        "thought": "Я знал мы будем проходить [известную] гавань.",
+        "english": "I knew we would pass the harbor.",
+        "transcription": "[ай нью: wи: wуд па:с ðэ х**а**:бэ]"
+      },
+      {
+        "ours": "Мы думали, что яхта не пройдёт острова.",
+        "thought": "Мы думали [известная] яхта будет не проходить [известный] остров.",
+        "english": "We thought the yacht would not pass the island.",
+        "transcription": "[wи: θо:т ðэ йот wуд нот па:с ðи **а**йлэнд]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "island"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "island"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "island"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "island"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "island"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "island"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "island"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "meaning": "буй",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "buoy"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "buoy"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "buoy"
+        }
+      ]
+    },
+    {
+      "word": "bay",
+      "meaning": "бухта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "bay"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "bay"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "shore",
+      "meaning": "берег",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "shore"
+        }
+      ]
+    },
+    {
+      "word": "dock",
+      "meaning": "причал",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "dock"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "швартов",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "line"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "day"
+        }
+      ]
+    }
+  ]
+}

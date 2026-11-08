@@ -1,5 +1,5 @@
 {
-  "spec": 3,
+  "spec": 4,
   "verb": "achieve",
   "forms": {
     "base": [
@@ -552,8 +552,8 @@
       ]
     },
     {
-      "word": "sales",
-      "meaning": "продажи",
+      "word": "sale",
+      "meaning": "продажа",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
@@ -738,6 +738,7 @@
     {
       "word": "mark",
       "meaning": "оценка",
+      "sense": "grade",
       "used_in": [
         {
           "phrase": "active.continuous.past.2",
@@ -1442,6 +1443,7 @@
     {
       "word": "party",
       "meaning": "партия",
+      "sense": "political",
       "used_in": [
         {
           "phrase": "passive.perfect.present.2",

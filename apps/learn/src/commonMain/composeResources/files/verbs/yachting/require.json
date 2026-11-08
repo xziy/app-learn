@@ -1,0 +1,786 @@
+{
+  "spec": 4,
+  "verb": "require",
+  "forms": {
+    "base": [
+      {
+        "word": "require",
+        "transcription": "[рикw**а**йэ]"
+      }
+    ],
+    "past": [
+      {
+        "word": "required",
+        "transcription": "[рикw**а**йэд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "required",
+        "transcription": "[рикw**а**йэд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "requiring",
+        "transcription": "[рикw**а**йэриŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "requires",
+        "transcription": "[рикw**а**йэз]"
+      }
+    ]
+  },
+  "meaning": "требовать, нуждаться",
+  "notes": "правильный переходный глагол; пассив возможен",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "required",
+        "examples": [
+          {
+            "ours": "Вчера двигателю потребовался ремонт.",
+            "thought": "Вчера [известный] двигатель требовал ремонта.",
+            "english": "Yesterday the engine required repairs.",
+            "transcription": "[й**э**стэдэй ðэ **э**нджин рикw**а**йэд рип**э**эз]"
+          },
+          {
+            "ours": "Для гонки не требовалась лицензия.",
+            "thought": "[Известная] гонка [сделала] не требовать [какую-то] лицензию.",
+            "english": "The race didn't require a license.",
+            "transcription": "[ðэ рэйс диднт рикw**а**йэ э л**а**йсэнс]"
+          },
+          {
+            "ours": "Яхте требовалась проверка до выхода?",
+            "thought": "[Сделала] [известная] яхта требовать [какую-то] проверку перед выходом?",
+            "english": "Did the yacht require an inspection before departure?",
+            "transcription": "[дид ðэ йот рикw**а**йэ эн инсп**э**кшн биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "require, requires",
+        "examples": [
+          {
+            "ours": "Двигателю требуется обслуживание.",
+            "thought": "[Известный] двигатель требует обслуживания.",
+            "english": "The engine requires maintenance.",
+            "transcription": "[ðэ **э**нджин рикw**а**йэз м**э**йнтэнэнс]"
+          },
+          {
+            "ours": "Эта лодка не требует ремонта.",
+            "thought": "Эта лодка [делает] не требовать ремонта.",
+            "english": "This boat doesn't require repairs.",
+            "transcription": "[ðис боут дазнт рикw**а**йэ рип**э**эз]"
+          },
+          {
+            "ours": "Для регаты нужна лицензия?",
+            "thought": "[Делает] [известная] регата требовать [какую-то] лицензию?",
+            "english": "Does the regatta require a license?",
+            "transcription": "[даз ðэ риг**æ**тэ рикw**а**йэ э л**а**йсэнс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will require",
+        "examples": [
+          {
+            "ours": "Завтра яхте потребуется проверка.",
+            "thought": "Завтра [известная] яхта будет требовать [какую-то] проверку.",
+            "english": "Tomorrow the yacht will require an inspection.",
+            "transcription": "[тэм**о**роу ðэ йот wил рикw**а**йэ эн инсп**э**кшн]"
+          },
+          {
+            "ours": "Двигателю не потребуется ремонт до выхода.",
+            "thought": "[Известный] двигатель будет не требовать ремонта перед выходом.",
+            "english": "The engine won't require repairs before departure.",
+            "transcription": "[ðэ **э**нджин wоунт рикw**а**йэ рип**э**эз биф**о**: дип**а**:чэ]"
+          },
+          {
+            "ours": "Для гонки понадобится лицензия?",
+            "thought": "Будет [известная] гонка требовать [какую-то] лицензию?",
+            "english": "Will the race require a license?",
+            "transcription": "[wил ðэ рэйс рикw**а**йэ э л**а**йсэнс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "В обычном значении необходимости require описывает состояние и чаще употребляется в простой форме: The engine requires maintenance. Длительная форма возможна в особом контексте изменения требований."
+    },
+    "perfect": {
+      "past": {
+        "form": "had required",
+        "examples": [
+          {
+            "ours": "До регаты двигателю требовался ремонт.",
+            "thought": "Перед [известной] регатой [известный] двигатель имел потребованным ремонт.",
+            "english": "Before the regatta the engine had required repairs.",
+            "transcription": "[биф**о**: ðэ риг**æ**тэ ðэ **э**нджин хæд рикw**а**йэд рип**э**эз]"
+          },
+          {
+            "ours": "До гонки яхте требовалась проверка?",
+            "thought": "Имела [известная] яхта потребованной [какую-то] проверку перед [известной] гонкой?",
+            "english": "Had the yacht required an inspection before the race?",
+            "transcription": "[хæд ðэ йот рикw**а**йэд эн инсп**э**кшн биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has required",
+        "examples": [
+          {
+            "ours": "С момента выхода двигателю требовалось обслуживание.",
+            "thought": "[Известный] двигатель имеет потребованным обслуживание с выхода.",
+            "english": "The engine has required maintenance since departure.",
+            "transcription": "[ðэ **э**нджин хæз рикw**а**йэд м**э**йнтэнэнс синс дип**а**:чэ]"
+          },
+          {
+            "ours": "С момента выхода яхте требовался ремонт?",
+            "thought": "Имеет [известная] яхта потребованным ремонт с выхода?",
+            "english": "Has the yacht required repairs since departure?",
+            "transcription": "[хæз ðэ йот рикw**а**йэд рип**э**эз синс дип**а**:чэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have required",
+        "not_possible": "Future perfect возможен в ретроспективном контексте, но для обычного прогноза потребности естественнее: The engine will require maintenance by then."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для обычной потребности require чаще употребляется в простой или совершённой форме: The engine has required repairs since departure. Длительная форма возможна, когда подчёркивают меняющуюся потребность."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were required",
+        "examples": [
+          {
+            "ours": "Вчера требовалась лицензия.",
+            "thought": "[Какая-то] лицензия была потребована вчера.",
+            "english": "A license was required yesterday.",
+            "transcription": "[э л**а**йсэнс wоз рикw**а**йэд й**э**стэдэй]"
+          },
+          {
+            "ours": "До гонки не требовались сертификаты.",
+            "thought": "Сертификаты были не потребованы перед [известной] гонкой.",
+            "english": "Certificates weren't required before the race.",
+            "transcription": "[сэт**и**фикэтс wœ:нт рикw**а**йэд биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Перед выходом требовалась проверка?",
+            "thought": "Была [какая-то] проверка потребована перед выходом?",
+            "english": "Was an inspection required before departure?",
+            "transcription": "[wоз эн инсп**э**кшн рикw**а**йэд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are required",
+        "examples": [
+          {
+            "ours": "На борту требуются спасательные жилеты.",
+            "thought": "Спасательные жилеты есть потребованы на борту.",
+            "english": "Life jackets are required on board.",
+            "transcription": "[лайф дж**æ**китс а: рикw**а**йэд он бо:д]"
+          },
+          {
+            "ours": "Для этой гонки лицензия не нужна.",
+            "thought": "[Какая-то] лицензия есть не потребована для этой гонки.",
+            "english": "A license isn't required for this race.",
+            "transcription": "[э л**а**йсэнс изнт рикw**а**йэд фо: ðис рэйс]"
+          },
+          {
+            "ours": "Для регаты нужна проверка?",
+            "thought": "Есть [какая-то] проверка потребована для [известной] регаты?",
+            "english": "Is an inspection required for the regatta?",
+            "transcription": "[из эн инсп**э**кшн рикw**а**йэд фо: ðэ риг**æ**тэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be required",
+        "examples": [
+          {
+            "ours": "Завтра для гонки потребуются сертификаты.",
+            "thought": "Завтра сертификаты будут быть потребованы для [известной] гонки.",
+            "english": "Tomorrow certificates will be required for the race.",
+            "transcription": "[тэм**о**роу сэт**и**фикэтс wил би: рикw**а**йэд фо: ðэ рэйс]"
+          },
+          {
+            "ours": "До выхода лицензия не потребуется.",
+            "thought": "[Какая-то] лицензия будет не быть потребована перед выходом.",
+            "english": "A license won't be required before departure.",
+            "transcription": "[э л**а**йсэнс wоунт би: рикw**а**йэд биф**о**: дип**а**:чэ]"
+          },
+          {
+            "ours": "Для регаты потребуется проверка?",
+            "thought": "Будет [какая-то] проверка быть потребована для [известной] регаты?",
+            "english": "Will an inspection be required for the regatta?",
+            "transcription": "[wил эн инсп**э**кшн би: рикw**а**йэд фо: ðэ риг**æ**тэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being required",
+        "examples": [
+          {
+            "ours": "Вчера от участников требовали носить жилеты.",
+            "thought": "Вчера экипажа члены были «долго» обязаны носить спасательные жилеты.",
+            "english": "Yesterday crew members were being required to wear life jackets.",
+            "transcription": "[й**э**стэдэй кру: м**э**мбэз wœ: б**и**:иŋ рикw**а**йэд ту wээ лайф дж**æ**китс]"
+          },
+          {
+            "ours": "На борту требовали носить жилеты?",
+            "thought": "Были экипажа члены «долго» обязаны носить спасательные жилеты на борту?",
+            "english": "Were crew members being required to wear life jackets on board?",
+            "transcription": "[wœ: кру: м**э**мбэз б**и**:иŋ рикw**а**йэд ту wээ лайф дж**æ**китс он бо:д]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being required",
+        "examples": [
+          {
+            "ours": "Сейчас от команды требуют носить жилеты.",
+            "thought": "Экипажа члены есть «долго» обязаны носить спасательные жилеты сейчас.",
+            "english": "Crew members are being required to wear life jackets now.",
+            "transcription": "[кру: м**э**мбэз а: б**и**:иŋ рикw**а**йэд ту wээ лайф дж**æ**китс нау]"
+          },
+          {
+            "ours": "Сейчас от команды требуют носить жилеты?",
+            "thought": "Есть экипажа члены «долго» обязаны носить спасательные жилеты сейчас?",
+            "english": "Are crew members being required to wear life jackets now?",
+            "transcription": "[а: кру: м**э**мбэз б**и**:иŋ рикw**а**йэд ту wээ лайф дж**æ**китс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be requiring",
+        "examples": [
+          {
+            "ours": "Завтра от команды будут требовать носить жилеты.",
+            "thought": "Завтра они будут быть требующими экипажа членов носить спасательные жилеты.",
+            "english": "Tomorrow they will be requiring crew members to wear life jackets.",
+            "transcription": "[тэм**о**роу ðэй wил би: рикw**а**йэриŋ кру: м**э**мбэз ту wээ лайф дж**æ**китс]"
+          },
+          {
+            "ours": "Они будут требовать от команды носить жилеты во время гонки?",
+            "thought": "Будут они быть требующими экипажа членов носить спасательные жилеты во время [известной] гонки?",
+            "english": "Will they be requiring crew members to wear life jackets during the race?",
+            "transcription": "[wил ðэй би: рикw**а**йэриŋ кру: м**э**мбэз ту wээ лайф дж**æ**китс дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been required",
+        "examples": [
+          {
+            "ours": "До гонки уже требовалась лицензия.",
+            "thought": "Перед [известной] гонкой [какая-то] лицензия имела уже быть потребована.",
+            "english": "Before the race a license had already been required.",
+            "transcription": "[биф**о**: ðэ рэйс э л**а**йсэнс хæд о:лр**э**ди би:н рикw**а**йэд]"
+          },
+          {
+            "ours": "До выхода требовалась проверка?",
+            "thought": "Имела [какая-то] проверка быть потребована перед выходом?",
+            "english": "Had an inspection been required before departure?",
+            "transcription": "[хæд эн инсп**э**кшн би:н рикw**а**йэд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been required",
+        "examples": [
+          {
+            "ours": "С момента выхода требовалась проверка.",
+            "thought": "[Какая-то] проверка имеет быть потребована с выхода.",
+            "english": "An inspection has been required since departure.",
+            "transcription": "[эн инсп**э**кшн хæз би:н рикw**а**йэд синс дип**а**:чэ]"
+          },
+          {
+            "ours": "С момента выхода требовались сертификаты?",
+            "thought": "Имеют сертификаты быть потребованы с выхода?",
+            "english": "Have certificates been required since departure?",
+            "transcription": "[хæв сэт**и**фикэтс би:н рикw**а**йэд синс дип**а**:чэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been required",
+        "not_possible": "Для будущего требования без ретроспективы естественнее простое будущее: An inspection will be required before departure."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: An inspection has been required. Или: The race has required an inspection."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что яхте потребуется проверка.",
+        "thought": "[Известный] капитан сказал что [известная] яхта будет требовать [какую-то] проверку.",
+        "english": "The captain said that the yacht would require an inspection.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ йот wуд рикw**а**йэ эн инсп**э**кшн]"
+      },
+      {
+        "ours": "Я знал, что лицензия не понадобится.",
+        "thought": "Я знал что [известная] гонка будет не требовать [какую-то] лицензию.",
+        "english": "I knew that the race wouldn't require a license.",
+        "transcription": "[ай нью: ðæт ðэ рэйс wуднт рикw**а**йэ э л**а**йсэнс]"
+      },
+      {
+        "ours": "Капитан сказал, что двигатель потребует ремонта.",
+        "thought": "[Известный] капитан сказал что [известный] двигатель будет требовать ремонта.",
+        "english": "The captain said that the engine would require repairs.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ **э**нджин wуд рикw**а**йэ рип**э**эз]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "repairs"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "license",
+      "meaning": "лицензия",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "license"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "license"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "license"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "license"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "license"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "license"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "license"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "license"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "inspection",
+      "meaning": "осмотр",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "inspection"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "inspection"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "inspection"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "inspection"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "inspection"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "inspection"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "inspection"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "inspection"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "выход",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "maintenance",
+      "meaning": "обслуживание",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "maintenance"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "maintenance"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "certificate",
+      "meaning": "сертификат",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "Certificates"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "certificates"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "certificates"
+        }
+      ]
+    },
+    {
+      "word": "life jacket",
+      "meaning": "спасательный жилет",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Life jackets"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "life jackets"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Crew"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "member",
+      "meaning": "член",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "members"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "members"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "members"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "members"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "members"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "members"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

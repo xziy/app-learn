@@ -1,0 +1,916 @@
+{
+  "spec": 4,
+  "verb": "mention",
+  "forms": {
+    "base": [
+      {
+        "word": "mention",
+        "transcription": "[м**э**ншн]"
+      }
+    ],
+    "past": [
+      {
+        "word": "mentioned",
+        "transcription": "[м**э**ншнд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "mentioned",
+        "transcription": "[м**э**ншнд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "mentioning",
+        "transcription": "[м**э**ншэниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "mentions",
+        "transcription": "[м**э**ншнз]"
+      }
+    ]
+  },
+  "meaning": "упоминать, упомянуть",
+  "notes": "правильный переходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "mentioned",
+        "examples": [
+          {
+            "ours": "Вчера шкипер упомянул течь.",
+            "thought": "Вчера [известный] шкипер упомянул [какую-то] течь.",
+            "english": "Yesterday the skipper mentioned a leak.",
+            "transcription": "[й**э**стэдэй ðэ ск**и**пэ м**э**ншнд э ли:к]"
+          },
+          {
+            "ours": "Он не упомянул прогноз.",
+            "thought": "Он [сделал] не упоминать [известный] прогноз.",
+            "english": "He didn't mention the forecast.",
+            "transcription": "[хи: диднт м**э**ншн ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты упомянул задержку до выхода?",
+            "thought": "[Сделал] ты упоминать [известную] задержку перед отправлением?",
+            "english": "Did you mention the delay before departure?",
+            "transcription": "[дид ю: м**э**ншн ðэ дил**э**й биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "mention, mentions",
+        "examples": [
+          {
+            "ours": "Капитан упоминает правила безопасности на инструктаже.",
+            "thought": "[Известный] капитан упоминает безопасности правила во время [известного] инструктажа.",
+            "english": "The captain mentions safety rules during the briefing.",
+            "transcription": "[ðэ к**æ**птин м**э**ншнз с**э**йфти ру:лз дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          },
+          {
+            "ours": "Он не упоминает туман.",
+            "thought": "Он [делает] не упоминать [известный] туман.",
+            "english": "He doesn't mention the fog.",
+            "transcription": "[хи: дазнт м**э**ншн ðэ фог]"
+          },
+          {
+            "ours": "Ты упоминаешь рифы во время инструктажа?",
+            "thought": "[Делаешь] ты упоминать рифы во время [известного] инструктажа?",
+            "english": "Do you mention reefs during the briefing?",
+            "transcription": "[ду: ю: м**э**ншн ри:фс дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will mention",
+        "examples": [
+          {
+            "ours": "Завтра мы упомянем погоду.",
+            "thought": "Завтра мы будем упоминать [известную] погоду.",
+            "english": "Tomorrow we will mention the weather.",
+            "transcription": "[тэм**о**роу wи: wил м**э**ншн ðэ w**э**ðэ]"
+          },
+          {
+            "ours": "Он не упомянет маршрут.",
+            "thought": "Он будет не упоминать [известный] маршрут.",
+            "english": "He won't mention the route.",
+            "transcription": "[хи: wоунт м**э**ншн ðэ ру:т]"
+          },
+          {
+            "ours": "Ты упомянешь риф до гонки?",
+            "thought": "Будешь ты упоминать [известный] риф перед [известной] гонкой?",
+            "english": "Will you mention the reef before the race?",
+            "transcription": "[wил ю: м**э**ншн ðэ ри:ф биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were mentioning",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день упоминали опасности.",
+            "thought": "Вчера мы были упоминающими опасности весь день.",
+            "english": "Yesterday we were mentioning hazards all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: м**э**ншэниŋ х**æ**зэдз о:л дэй]"
+          },
+          {
+            "ours": "Ты упоминал риф, когда я пришёл?",
+            "thought": "Был ты упоминающим [известный] риф когда я пришёл?",
+            "english": "Were you mentioning the reef when I came?",
+            "transcription": "[wœ: ю: м**э**ншэниŋ ðэ ри:ф wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are mentioning",
+        "examples": [
+          {
+            "ours": "Сейчас капитан упоминает туман.",
+            "thought": "[Известный] капитан является упоминающим [известный] туман сейчас.",
+            "english": "The captain is mentioning the fog now.",
+            "transcription": "[ðэ к**æ**птин из м**э**ншэниŋ ðэ фог нау]"
+          },
+          {
+            "ours": "Ты сейчас упоминаешь риф?",
+            "thought": "Являешься ты упоминающим [известный] риф сейчас?",
+            "english": "Are you mentioning the reef now?",
+            "transcription": "[а: ю: м**э**ншэниŋ ðэ ри:ф нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be mentioning",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем упоминать опасности.",
+            "thought": "Завтра мы будем быть упоминающими опасности весь день.",
+            "english": "Tomorrow we will be mentioning hazards all day.",
+            "transcription": "[тэм**о**роу wи: wил би: м**э**ншэниŋ х**æ**зэдз о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь упоминать прогноз во время инструктажа?",
+            "thought": "Будешь ты быть упоминающим [известный] прогноз во время [известного] инструктажа?",
+            "english": "Will you be mentioning the forecast during the briefing?",
+            "transcription": "[wил ю: би: м**э**ншэниŋ ðэ ф**о**:ка:ст дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had mentioned",
+        "examples": [
+          {
+            "ours": "Вчера к пяти шкипер уже упомянул штормовое предупреждение.",
+            "thought": "К пяти вчера [известный] шкипер имел уже упомянутым [известное] штормовое предупреждение.",
+            "english": "By five yesterday the skipper had already mentioned the storm warning.",
+            "transcription": "[бай файв й**э**стэдэй ðэ ск**и**пэ хæд о:лр**э**ди м**э**ншнд ðэ сто:м w**о**:ниŋ]"
+          },
+          {
+            "ours": "Ты упомянул задержку до выхода?",
+            "thought": "Имел ты упомянутой [известную] задержку перед отправлением?",
+            "english": "Had you mentioned the delay before departure?",
+            "transcription": "[хæд ю: м**э**ншнд ðэ дил**э**й биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has mentioned",
+        "examples": [
+          {
+            "ours": "Капитан уже упомянул прогноз.",
+            "thought": "[Известный] капитан имеет уже упомянутым [известный] прогноз.",
+            "english": "The captain has already mentioned the forecast.",
+            "transcription": "[ðэ к**æ**птин хæз о:лр**э**ди м**э**ншнд ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты уже упомянул риф?",
+            "thought": "Имеешь ты уже упомянутым [известный] риф?",
+            "english": "Have you already mentioned the reef?",
+            "transcription": "[хæв ю: о:лр**э**ди м**э**ншнд ðэ ри:ф]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have mentioned",
+        "examples": [
+          {
+            "ours": "Завтра к пяти капитан уже упомянет прогноз.",
+            "thought": "К пяти завтра [известный] капитан будет иметь уже упомянутым [известный] прогноз.",
+            "english": "By five tomorrow the captain will have already mentioned the forecast.",
+            "transcription": "[бай файв тэм**о**роу ðэ к**æ**птин wил хæв о:лр**э**ди м**э**ншнд ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты упомянешь задержку до выхода?",
+            "thought": "Будешь ты иметь упомянутой [известную] задержку перед отправлением?",
+            "english": "Will you have mentioned the delay before departure?",
+            "transcription": "[wил ю: хæв м**э**ншнд ðэ дил**э**й биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been mentioning",
+        "examples": [
+          {
+            "ours": "Мы уже два часа упоминали опасности, когда ты пришёл.",
+            "thought": "Мы имели быть упоминающими опасности целых два часа когда ты пришёл.",
+            "english": "We had been mentioning hazards for two hours when you came.",
+            "transcription": "[wи: хæд би:н м**э**ншэниŋ х**æ**зэдз фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа упоминал рифы, когда он пришёл?",
+            "thought": "Имел ты быть упоминающим рифы целых два часа когда он пришёл?",
+            "english": "Had you been mentioning reefs for two hours when he came?",
+            "transcription": "[хæд ю: би:н м**э**ншэниŋ ри:фс фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been mentioning",
+        "examples": [
+          {
+            "ours": "Мы уже два часа упоминаем опасности.",
+            "thought": "Мы имеем быть упоминающими опасности целых два часа.",
+            "english": "We have been mentioning hazards for two hours.",
+            "transcription": "[wи: хæв би:н м**э**ншэниŋ х**æ**зэдз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа упоминаешь рифы?",
+            "thought": "Имеешь ты быть упоминающим рифы целых два часа?",
+            "english": "Have you been mentioning reefs for two hours?",
+            "transcription": "[хæв ю: би:н м**э**ншэниŋ ри:фс фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been mentioning",
+        "examples": [
+          {
+            "ours": "К пяти мы будем упоминать опасности уже два часа.",
+            "thought": "К пяти мы будем иметь быть упоминающими опасности целых два часа.",
+            "english": "By five we will have been mentioning hazards for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н м**э**ншэниŋ х**æ**зэдз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь упоминать рифы уже два часа?",
+            "thought": "Будешь ты иметь быть упоминающим рифы целых два часа к пяти?",
+            "english": "Will you have been mentioning reefs for two hours by five?",
+            "transcription": "[wил ю: хæв би:н м**э**ншэниŋ ри:фс фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were mentioned",
+        "examples": [
+          {
+            "ours": "Вчера на инструктаже упомянули шторм.",
+            "thought": "[Известный] шторм был упомянут во время [известного] инструктажа вчера.",
+            "english": "The storm was mentioned during the briefing yesterday.",
+            "transcription": "[ðэ сто:м wоз м**э**ншнд дь**ю**эриŋ ðэ бр**и**:фиŋ й**э**стэдэй]"
+          },
+          {
+            "ours": "Задержку упомянули до выхода?",
+            "thought": "Была [известная] задержка упомянута перед отправлением?",
+            "english": "Was the delay mentioned before departure?",
+            "transcription": "[wоз ðэ дил**э**й м**э**ншнд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are mentioned",
+        "examples": [
+          {
+            "ours": "Опасности упоминают на инструктаже.",
+            "thought": "Опасности есть упомянуты во время [известного] инструктажа.",
+            "english": "Hazards are mentioned during the briefing.",
+            "transcription": "[х**æ**зэдз а: м**э**ншнд дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          },
+          {
+            "ours": "Риф упоминают перед гонкой?",
+            "thought": "Есть [известный] риф упомянут перед [известной] гонкой?",
+            "english": "Is the reef mentioned before the race?",
+            "transcription": "[из ðэ ри:ф м**э**ншнд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be mentioned",
+        "examples": [
+          {
+            "ours": "Завтра на инструктаже упомянут погоду.",
+            "thought": "[Известная] погода будет быть упомянута во время [известного] инструктажа завтра.",
+            "english": "The weather will be mentioned during the briefing tomorrow.",
+            "transcription": "[ðэ w**э**ðэ wил би: м**э**ншнд дь**ю**эриŋ ðэ бр**и**:фиŋ тэм**о**роу]"
+          },
+          {
+            "ours": "Задержку упомянут до выхода?",
+            "thought": "Будет [известная] задержка быть упомянута перед отправлением?",
+            "english": "Will the delay be mentioned before departure?",
+            "transcription": "[wил ðэ дил**э**й би: м**э**ншнд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being mentioned",
+        "examples": [
+          {
+            "ours": "Вчера опасности упоминали весь день.",
+            "thought": "Вчера опасности были «долго» упомянуты весь день.",
+            "english": "Yesterday hazards were being mentioned all day.",
+            "transcription": "[й**э**стэдэй х**æ**зэдз wœ: б**и**:иŋ м**э**ншнд о:л дэй]"
+          },
+          {
+            "ours": "Риф упоминали, когда ты пришёл?",
+            "thought": "Был [известный] риф «долго» упомянут когда ты пришёл?",
+            "english": "Was the reef being mentioned when you came?",
+            "transcription": "[wоз ðэ ри:ф б**и**:иŋ м**э**ншнд wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being mentioned",
+        "examples": [
+          {
+            "ours": "Сейчас упоминают опасности.",
+            "thought": "Опасности есть «долго» упомянуты сейчас.",
+            "english": "Hazards are being mentioned now.",
+            "transcription": "[х**æ**зэдз а: б**и**:иŋ м**э**ншнд нау]"
+          },
+          {
+            "ours": "Сейчас на инструктаже упоминают риф?",
+            "thought": "Есть [известный] риф «долго» упомянут во время [известного] инструктажа сейчас?",
+            "english": "Is the reef being mentioned during the briefing now?",
+            "transcription": "[из ðэ ри:ф б**и**:иŋ м**э**ншнд дь**ю**эриŋ ðэ бр**и**:фиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be mentioning",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут упоминать опасности.",
+            "thought": "Завтра они будут быть упоминающими опасности весь день.",
+            "english": "Tomorrow they will be mentioning hazards all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: м**э**ншэниŋ х**æ**зэдз о:л дэй]"
+          },
+          {
+            "ours": "Они будут упоминать риф во время инструктажа?",
+            "thought": "Будут они быть упоминающими [известный] риф во время [известного] инструктажа?",
+            "english": "Will they be mentioning the reef during the briefing?",
+            "transcription": "[wил ðэй би: м**э**ншэниŋ ðэ ри:ф дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been mentioned",
+        "examples": [
+          {
+            "ours": "Вчера к пяти риф уже упомянули.",
+            "thought": "К пяти вчера [известный] риф имел уже быть упомянут.",
+            "english": "By five yesterday the reef had already been mentioned.",
+            "transcription": "[бай файв й**э**стэдэй ðэ ри:ф хæд о:лр**э**ди би:н м**э**ншнд]"
+          },
+          {
+            "ours": "Задержку упомянули до выхода?",
+            "thought": "Имела [известная] задержка быть упомянута перед отправлением?",
+            "english": "Had the delay been mentioned before departure?",
+            "transcription": "[хæд ðэ дил**э**й би:н м**э**ншнд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been mentioned",
+        "examples": [
+          {
+            "ours": "Прогноз уже упомянули на инструктаже.",
+            "thought": "[Известный] прогноз имеет уже быть упомянут во время [известного] инструктажа.",
+            "english": "The forecast has already been mentioned during the briefing.",
+            "transcription": "[ðэ ф**о**:ка:ст хæз о:лр**э**ди би:н м**э**ншнд дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          },
+          {
+            "ours": "Риф уже упомянули?",
+            "thought": "Имеет [известный] риф уже быть упомянут?",
+            "english": "Has the reef already been mentioned?",
+            "transcription": "[хæз ðэ ри:ф о:лр**э**ди би:н м**э**ншнд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been mentioned",
+        "examples": [
+          {
+            "ours": "К пяти завтра прогноз уже упомянут.",
+            "thought": "К пяти завтра [известный] прогноз будет уже иметь быть упомянут.",
+            "english": "By five tomorrow the forecast will already have been mentioned.",
+            "transcription": "[бай файв тэм**о**роу ðэ ф**о**:ка:ст wил о:лр**э**ди хæв би:н м**э**ншнд]"
+          },
+          {
+            "ours": "Задержку упомянут до выхода?",
+            "thought": "Будет [известная] задержка иметь быть упомянута перед отправлением?",
+            "english": "Will the delay have been mentioned before departure?",
+            "transcription": "[wил ðэ дил**э**й хæв би:н м**э**ншнд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The reef has been mentioned. Или: They have been mentioning hazards."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они упомянут прогноз.",
+        "thought": "[Известный] капитан сказал что они будут упоминать [известный] прогноз.",
+        "english": "The captain said that they would mention the forecast.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд м**э**ншн ðэ ф**о**:ка:ст]"
+      },
+      {
+        "ours": "Я знал, что ты не упомянешь риф.",
+        "thought": "Я знал что ты будешь не упоминать [известный] риф.",
+        "english": "I knew that you wouldn't mention the reef.",
+        "transcription": "[ай нью: ðæт ю: wуднт м**э**ншн ðэ ри:ф]"
+      },
+      {
+        "ours": "Капитан сказал, что мы упомянем задержку.",
+        "thought": "[Известный] капитан сказал что мы будем упоминать [известную] задержку.",
+        "english": "The captain said that we would mention the delay.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд м**э**ншн ðэ дил**э**й]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "leak",
+      "meaning": "течь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "leak"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "delay",
+      "meaning": "задержка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "delay"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "delay"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "delay"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "delay"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "delay"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "delay"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "delay"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "delay"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отправление",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "safety",
+      "meaning": "безопасность",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "safety"
+        }
+      ]
+    },
+    {
+      "word": "rule",
+      "meaning": "правило",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "rules"
+        }
+      ]
+    },
+    {
+      "word": "briefing",
+      "meaning": "инструктаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "briefing"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "briefing"
+        }
+      ]
+    },
+    {
+      "word": "fog",
+      "meaning": "туман",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "fog"
+        }
+      ]
+    },
+    {
+      "word": "reef",
+      "meaning": "риф",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "reefs"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "reef"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "reefs"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "reefs"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "reefs"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "reef"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "hazard",
+      "meaning": "опасность",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "hazards"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "hazards"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hazards"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hazards"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hazards"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Hazards"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "hazards"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Hazards"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "hazards"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "warning",
+      "meaning": "предупреждение",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "warning"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    }
+  ]
+}

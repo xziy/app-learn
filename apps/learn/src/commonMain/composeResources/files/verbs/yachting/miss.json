@@ -1,0 +1,756 @@
+{
+  "spec": 4,
+  "verb": "miss",
+  "forms": {
+    "base": [
+      {
+        "word": "miss",
+        "transcription": "[мис]"
+      }
+    ],
+    "past": [
+      {
+        "word": "missed",
+        "transcription": "[мист]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "missed",
+        "transcription": "[мист]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "missing",
+        "transcription": "[м**и**сиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "misses",
+        "transcription": "[м**и**сиз]"
+      }
+    ]
+  },
+  "meaning": "пропускать, скучать по",
+  "notes": "правильный переходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "missed",
+        "examples": [
+          {
+            "ours": "Вчера мы пропустили старт.",
+            "thought": "Вчера мы пропустили [известный] старт.",
+            "english": "Yesterday we missed the start.",
+            "transcription": "[й**э**стэдэй wи: мист ðэ ста:т]"
+          },
+          {
+            "ours": "Он не пропустил сигнал.",
+            "thought": "Он [сделал] не пропускать [известный] сигнал.",
+            "english": "He didn't miss the signal.",
+            "transcription": "[хи: диднт мис ðэ с**и**гнл]"
+          },
+          {
+            "ours": "Ты пропустил прилив до гонки?",
+            "thought": "[Сделал] ты пропускать [известный] прилив перед [известной] гонкой?",
+            "english": "Did you miss the tide before the race?",
+            "transcription": "[дид ю: мис ðэ тайд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "miss, misses",
+        "examples": [
+          {
+            "ours": "Моряк скучает по своей семье.",
+            "thought": "[Известный] моряк скучает по его семье.",
+            "english": "The sailor misses his family.",
+            "transcription": "[ðэ с**э**йлэ м**и**сиз хиз ф**æ**мили]"
+          },
+          {
+            "ours": "Он не пропускает прогноз.",
+            "thought": "Он [делает] не пропускать [известный] прогноз.",
+            "english": "He doesn't miss the forecast.",
+            "transcription": "[хи: дазнт мис ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты скучаешь по экипажу?",
+            "thought": "[Делаешь] ты скучать по [известному] экипажу?",
+            "english": "Do you miss the crew?",
+            "transcription": "[ду: ю: мис ðэ кру:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will miss",
+        "examples": [
+          {
+            "ours": "Завтра мы пропустим старт.",
+            "thought": "Завтра мы будем пропускать [известный] старт.",
+            "english": "Tomorrow we will miss the start.",
+            "transcription": "[тэм**о**роу wи: wил мис ðэ ста:т]"
+          },
+          {
+            "ours": "Он не пропустит сигнал.",
+            "thought": "Он будет не пропускать [известный] сигнал.",
+            "english": "He won't miss the signal.",
+            "transcription": "[хи: wоунт мис ðэ с**и**гнл]"
+          },
+          {
+            "ours": "Ты пропустишь прилив до гонки?",
+            "thought": "Будешь ты пропускать [известный] прилив перед [известной] гонкой?",
+            "english": "Will you miss the tide before the race?",
+            "transcription": "[wил ю: мис ðэ тайд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were missing",
+        "examples": [
+          {
+            "ours": "Вчера я весь день скучал по семье.",
+            "thought": "Вчера я был скучающим по моей семье весь день.",
+            "english": "Yesterday I was missing my family all day.",
+            "transcription": "[й**э**стэдэй ай wоз м**и**сиŋ май ф**æ**мили о:л дэй]"
+          },
+          {
+            "ours": "Ты скучал по экипажу, когда я пришёл?",
+            "thought": "Был ты скучающим по [известному] экипажу когда я пришёл?",
+            "english": "Were you missing the crew when I came?",
+            "transcription": "[wœ: ю: м**и**сиŋ ðэ кру: wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are missing",
+        "examples": [
+          {
+            "ours": "Сейчас я скучаю по семье.",
+            "thought": "Я являюсь скучающим по моей семье сейчас.",
+            "english": "I am missing my family now.",
+            "transcription": "[ай æм м**и**сиŋ май ф**æ**мили нау]"
+          },
+          {
+            "ours": "Ты сейчас скучаешь по экипажу?",
+            "thought": "Являешься ты скучающим по [известному] экипажу сейчас?",
+            "english": "Are you missing the crew now?",
+            "transcription": "[а: ю: м**и**сиŋ ðэ кру: нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be missing",
+        "examples": [
+          {
+            "ours": "Завтра я весь день буду скучать по семье.",
+            "thought": "Завтра я буду быть скучающим по моей семье весь день.",
+            "english": "Tomorrow I will be missing my family all day.",
+            "transcription": "[тэм**о**роу ай wил би: м**и**сиŋ май ф**æ**мили о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь скучать по экипажу во время гонки?",
+            "thought": "Будешь ты быть скучающим по [известному] экипажу во время [известной] гонки?",
+            "english": "Will you be missing the crew during the race?",
+            "transcription": "[wил ю: би: м**и**сиŋ ðэ кру: дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had missed",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже пропустили старт.",
+            "thought": "К пяти вчера мы имели уже пропущенным [известный] старт.",
+            "english": "By five yesterday we had already missed the start.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди мист ðэ ста:т]"
+          },
+          {
+            "ours": "Ты пропустил прилив до гонки?",
+            "thought": "Имел ты пропущенным [известный] прилив перед [известной] гонкой?",
+            "english": "Had you missed the tide before the race?",
+            "transcription": "[хæд ю: мист ðэ тайд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has missed",
+        "examples": [
+          {
+            "ours": "Мы уже пропустили сигнал.",
+            "thought": "Мы имеем уже пропущенным [известный] сигнал.",
+            "english": "We have already missed the signal.",
+            "transcription": "[wи: хæв о:лр**э**ди мист ðэ с**и**гнл]"
+          },
+          {
+            "ours": "Ты уже пропустил старт?",
+            "thought": "Имеешь ты уже пропущенным [известный] старт?",
+            "english": "Have you already missed the start?",
+            "transcription": "[хæв ю: о:лр**э**ди мист ðэ ста:т]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have missed",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже пропустим старт.",
+            "thought": "К пяти завтра мы будем иметь уже пропущенным [известный] старт.",
+            "english": "By five tomorrow we will have already missed the start.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди мист ðэ ста:т]"
+          },
+          {
+            "ours": "Ты пропустишь прилив до гонки?",
+            "thought": "Будешь ты иметь пропущенным [известный] прилив перед [известной] гонкой?",
+            "english": "Will you have missed the tide before the race?",
+            "transcription": "[wил ю: хæв мист ðэ тайд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been missing",
+        "examples": [
+          {
+            "ours": "Я уже две недели скучал по семье, когда ты пришёл.",
+            "thought": "Я имел быть скучающим по моей семье целых две недели когда ты пришёл.",
+            "english": "I had been missing my family for two weeks when you came.",
+            "transcription": "[ай хæд би:н м**и**сиŋ май ф**æ**мили фо: ту: wи:кс wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже две недели скучал по экипажу, когда он пришёл?",
+            "thought": "Имел ты быть скучающим по [известному] экипажу целых две недели когда он пришёл?",
+            "english": "Had you been missing the crew for two weeks when he came?",
+            "transcription": "[хæд ю: би:н м**и**сиŋ ðэ кру: фо: ту: wи:кс wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been missing",
+        "examples": [
+          {
+            "ours": "Я уже две недели скучаю по семье.",
+            "thought": "Я имею быть скучающим по моей семье целых две недели.",
+            "english": "I have been missing my family for two weeks.",
+            "transcription": "[ай хæв би:н м**и**сиŋ май ф**æ**мили фо: ту: wи:кс]"
+          },
+          {
+            "ours": "Ты уже две недели скучаешь по экипажу?",
+            "thought": "Имеешь ты быть скучающим по [известному] экипажу целых две недели?",
+            "english": "Have you been missing the crew for two weeks?",
+            "transcription": "[хæв ю: би:н м**и**сиŋ ðэ кру: фо: ту: wи:кс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been missing",
+        "examples": [
+          {
+            "ours": "К июню я буду скучать по семье уже две недели.",
+            "thought": "К июню я буду иметь быть скучающим по моей семье целых две недели.",
+            "english": "By June I will have been missing my family for two weeks.",
+            "transcription": "[бай джу:н ай wил хæв би:н м**и**сиŋ май ф**æ**мили фо: ту: wи:кс]"
+          },
+          {
+            "ours": "К июню ты будешь скучать по экипажу уже две недели?",
+            "thought": "Будешь ты иметь быть скучающим по [известному] экипажу целых две недели к июню?",
+            "english": "Will you have been missing the crew for two weeks by June?",
+            "transcription": "[wил ю: хæв би:н м**и**сиŋ ðэ кру: фо: ту: wи:кс бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were missed",
+        "examples": [
+          {
+            "ours": "Вчера старт пропустили.",
+            "thought": "[Известный] старт был пропущен вчера.",
+            "english": "The start was missed yesterday.",
+            "transcription": "[ðэ ста:т wоз мист й**э**стэдэй]"
+          },
+          {
+            "ours": "Сигнал пропустили до выхода?",
+            "thought": "Был [известный] сигнал пропущен перед отправлением?",
+            "english": "Was the signal missed before departure?",
+            "transcription": "[wоз ðэ с**и**гнл мист биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are missed",
+        "examples": [
+          {
+            "ours": "Прогноз часто пропускают на борту.",
+            "thought": "[Известный] прогноз есть пропущен часто на борту.",
+            "english": "The forecast is often missed on board.",
+            "transcription": "[ðэ ф**о**:ка:ст из **о**фэн мист он бо:д]"
+          },
+          {
+            "ours": "Сигнал пропускают во время гонки?",
+            "thought": "Есть [известный] сигнал пропущен во время [известной] гонки?",
+            "english": "Is the signal missed during the race?",
+            "transcription": "[из ðэ с**и**гнл мист дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be missed",
+        "examples": [
+          {
+            "ours": "Завтра старт пропустят.",
+            "thought": "[Известный] старт будет быть пропущен завтра.",
+            "english": "The start will be missed tomorrow.",
+            "transcription": "[ðэ ста:т wил би: мист тэм**о**роу]"
+          },
+          {
+            "ours": "Сигнал пропустят до выхода?",
+            "thought": "Будет [известный] сигнал быть пропущен перед отправлением?",
+            "english": "Will the signal be missed before departure?",
+            "transcription": "[wил ðэ с**и**гнл би: мист биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "В значении единичного пропуска пассив Continuous обычно неестественен. Для повторений возможен другой контекст, а об одном событии говорят: The signal is missed."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been missed",
+        "examples": [
+          {
+            "ours": "Вчера к пяти старт уже пропустили.",
+            "thought": "К пяти вчера [известный] старт имел уже быть пропущен.",
+            "english": "By five yesterday the start had already been missed.",
+            "transcription": "[бай файв й**э**стэдэй ðэ ста:т хæд о:лр**э**ди би:н мист]"
+          },
+          {
+            "ours": "Сигнал пропустили до выхода?",
+            "thought": "Имел [известный] сигнал быть пропущен перед отправлением?",
+            "english": "Had the signal been missed before departure?",
+            "transcription": "[хæд ðэ с**и**гнл би:н мист биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been missed",
+        "examples": [
+          {
+            "ours": "Сигнал уже пропустили.",
+            "thought": "[Известный] сигнал имеет уже быть пропущен.",
+            "english": "The signal has already been missed.",
+            "transcription": "[ðэ с**и**гнл хæз о:лр**э**ди би:н мист]"
+          },
+          {
+            "ours": "Старт уже пропустили?",
+            "thought": "Имеет [известный] старт уже быть пропущен?",
+            "english": "Has the start already been missed?",
+            "transcription": "[хæз ðэ ста:т о:лр**э**ди би:н мист]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been missed",
+        "examples": [
+          {
+            "ours": "К пяти завтра старт уже пропустят.",
+            "thought": "К пяти завтра [известный] старт будет уже иметь быть пропущен.",
+            "english": "By five tomorrow the start will already have been missed.",
+            "transcription": "[бай файв тэм**о**роу ðэ ста:т wил о:лр**э**ди хæв би:н мист]"
+          },
+          {
+            "ours": "Сигнал пропустят до выхода?",
+            "thought": "Будет [известный] сигнал иметь быть пропущен перед отправлением?",
+            "english": "Will the signal have been missed before departure?",
+            "transcription": "[wил ðэ с**и**гнл хæв би:н мист биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Скажут: The start has been missed."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они пропустят старт.",
+        "thought": "[Известный] капитан сказал что они будут пропускать [известный] старт.",
+        "english": "The captain said that they would miss the start.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд мис ðэ ста:т]"
+      },
+      {
+        "ours": "Я знал, что ты не пропустишь сигнал.",
+        "thought": "Я знал что ты будешь не пропускать [известный] сигнал.",
+        "english": "I knew that you wouldn't miss the signal.",
+        "transcription": "[ай нью: ðæт ю: wуднт мис ðэ с**и**гнл]"
+      },
+      {
+        "ours": "Капитан сказал, что мы будем скучать по экипажу.",
+        "thought": "[Известный] капитан сказал что мы будем скучать по [известному] экипажу.",
+        "english": "The captain said that we would miss the crew.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд мис ðэ кру:]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "start",
+      "meaning": "старт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "start"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "start"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "start"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "start"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "start"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "start"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "start"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "start"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "start"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "start"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "start"
+        }
+      ]
+    },
+    {
+      "word": "signal",
+      "meaning": "сигнал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "signal"
+        }
+      ]
+    },
+    {
+      "word": "tide",
+      "meaning": "прилив",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "tide"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "family",
+      "meaning": "семья",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "family"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "family"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "family"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "family"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "family"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "family"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "family"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "weeks"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "weeks"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "weeks"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "weeks"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "weeks"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "weeks"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отправление",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "spec": 4,
+  "verb": "remember",
+  "forms": {
+    "base": [
+      {
+        "word": "remember",
+        "transcription": "[рим**э**мбэ]"
+      }
+    ],
+    "past": [
+      {
+        "word": "remembered",
+        "transcription": "[рим**э**мбэд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "remembered",
+        "transcription": "[рим**э**мбэд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "remembering",
+        "transcription": "[рим**э**мбэриŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "remembers",
+        "transcription": "[рим**э**мбэз]"
+      }
+    ]
+  },
+  "meaning": "помнить, вспоминать",
+  "notes": "правильный переходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "remembered",
+        "examples": [
+          {
+            "ours": "Вчера я вспомнил название бухты.",
+            "thought": "Вчера я вспомнил [известное] название [известной] бухты.",
+            "english": "Yesterday I remembered the name of the bay.",
+            "transcription": "[й**э**стэдэй ай рим**э**мбэд ðэ нэйм ов ðэ бэй]"
+          },
+          {
+            "ours": "Она не вспомнила маршрут.",
+            "thought": "Она [сделала] не помнить [известный] маршрут.",
+            "english": "She did not remember the route.",
+            "transcription": "[ши: дид нот рим**э**мбэ ðэ ру:т]"
+          },
+          {
+            "ours": "Ты вспомнил прогноз?",
+            "thought": "[Сделал] ты помнить [известный] прогноз?",
+            "english": "Did you remember the forecast?",
+            "transcription": "[дид ю: рим**э**мбэ ðэ ф**о**:ка:ст]"
+          }
+        ]
+      },
+      "present": {
+        "form": "remember, remembers",
+        "examples": [
+          {
+            "ours": "Я помню эту марину.",
+            "thought": "Я помню эту марину.",
+            "english": "I remember this marina.",
+            "transcription": "[ай рим**э**мбэ ðис мэр**и**:нэ]"
+          },
+          {
+            "ours": "Он не помнит маршрут.",
+            "thought": "Он [делает] не помнить [известный] маршрут.",
+            "english": "He does not remember the route.",
+            "transcription": "[хи: даз нот рим**э**мбэ ðэ ру:т]"
+          },
+          {
+            "ours": "Ты помнишь прогноз?",
+            "thought": "[Делаешь] ты помнить [известный] прогноз?",
+            "english": "Do you remember the forecast?",
+            "transcription": "[ду: ю: рим**э**мбэ ðэ ф**о**:ка:ст]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will remember",
+        "examples": [
+          {
+            "ours": "Завтра я вспомню название бухты.",
+            "thought": "Завтра я буду помнить [известное] название [известной] бухты.",
+            "english": "Tomorrow I will remember the name of the bay.",
+            "transcription": "[тэм**о**роу ай wил рим**э**мбэ ðэ нэйм ов ðэ бэй]"
+          },
+          {
+            "ours": "Она не вспомнит маршрут.",
+            "thought": "Она будет не помнить [известный] маршрут.",
+            "english": "She will not remember the route.",
+            "transcription": "[ши: wил нот рим**э**мбэ ðэ ру:т]"
+          },
+          {
+            "ours": "Ты вспомнишь прогноз?",
+            "thought": "Будешь ты помнить [известный] прогноз?",
+            "english": "Will you remember the forecast?",
+            "transcription": "[wил ю: рим**э**мбэ ðэ ф**о**:ка:ст]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "В значении хранения информации в памяти remember обычно не используется в длительной форме. Вместо этого скажут: I remember this marina. Длительная форма возможна для процесса воспоминания: I am remembering our first voyage."
+    },
+    "perfect": {
+      "past": {
+        "form": "had remembered",
+        "examples": [
+          {
+            "ours": "К полудню я уже вспомнил маршрут.",
+            "thought": "К полудню я имел уже вспомненным [известный] маршрут.",
+            "english": "By noon I had already remembered the route.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди рим**э**мбэд ðэ ру:т]"
+          },
+          {
+            "ours": "К тому времени она ещё не вспомнила прогноз.",
+            "thought": "К тогда она имела не вспомненным [известный] прогноз ещё.",
+            "english": "By then she had not remembered the forecast yet.",
+            "transcription": "[бай ðэн ши: хæд нот рим**э**мбэд ðэ ф**о**:ка:ст йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has remembered",
+        "examples": [
+          {
+            "ours": "Я уже вспомнил маршрут.",
+            "thought": "Я имею уже вспомненным [известный] маршрут.",
+            "english": "I have already remembered the route.",
+            "transcription": "[ай хæв о:лр**э**ди рим**э**мбэд ðэ ру:т]"
+          },
+          {
+            "ours": "Она ещё не вспомнила прогноз.",
+            "thought": "Она имеет не вспомненным [известный] прогноз ещё.",
+            "english": "She has not remembered the forecast yet.",
+            "transcription": "[ши: хæз нот рим**э**мбэд ðэ ф**о**:ка:ст йэт]"
+          },
+          {
+            "ours": "Ты уже вспомнил название бухты?",
+            "thought": "Имеешь ты вспомненным [известное] название [известной] бухты уже?",
+            "english": "Have you remembered the name of the bay yet?",
+            "transcription": "[хæв ю: рим**э**мбэд ðэ нэйм ов ðэ бэй йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have remembered",
+        "examples": [
+          {
+            "ours": "К полудню я вспомню маршрут.",
+            "thought": "К полудню я буду иметь вспомненным [известный] маршрут.",
+            "english": "By noon I will have remembered the route.",
+            "transcription": "[бай ну:н ай wил хæв рим**э**мбэд ðэ ру:т]"
+          },
+          {
+            "ours": "К пяти ты вспомнишь название бухты?",
+            "thought": "Будешь ты иметь вспомненным [известное] название [известной] бухты к пяти?",
+            "english": "Will you have remembered the name of the bay by five?",
+            "transcription": "[wил ю: хæв рим**э**мбэд ðэ нэйм ов ðэ бэй бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Состояние памяти обычно не описывают длительным perfect. Вместо этого скажут: I have remembered the route."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were remembered",
+        "examples": [
+          {
+            "ours": "Капитана помнили все моряки.",
+            "thought": "[Известный] капитан был помним всеми [известными] моряками.",
+            "english": "The skipper was remembered by all the sailors.",
+            "transcription": "[ðэ ск**и**пэ wоз рим**э**мбэд бай о:л ðэ с**э**йлэз]"
+          },
+          {
+            "ours": "Эту гавань не помнили.",
+            "thought": "Эта гавань была не помнима.",
+            "english": "This harbor was not remembered.",
+            "transcription": "[ðис х**а**:бэ wоз нот рим**э**мбэд]"
+          },
+          {
+            "ours": "Тот шторм помнили?",
+            "thought": "Был тот шторм помним?",
+            "english": "Was that storm remembered?",
+            "transcription": "[wоз ðæт сто:м рим**э**мбэд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are remembered",
+        "examples": [
+          {
+            "ours": "Капитана помнят моряки.",
+            "thought": "[Известный] капитан есть помним [известными] моряками.",
+            "english": "The skipper is remembered by the sailors.",
+            "transcription": "[ðэ ск**и**пэ из рим**э**мбэд бай ðэ с**э**йлэз]"
+          },
+          {
+            "ours": "Эту гавань не помнят.",
+            "thought": "Эта гавань есть не помнима.",
+            "english": "This harbor is not remembered.",
+            "transcription": "[ðис х**а**:бэ из нот рим**э**мбэд]"
+          },
+          {
+            "ours": "Тот шторм помнят?",
+            "thought": "Есть тот шторм помним?",
+            "english": "Is that storm remembered?",
+            "transcription": "[из ðæт сто:м рим**э**мбэд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be remembered",
+        "examples": [
+          {
+            "ours": "Капитана запомнят моряки.",
+            "thought": "[Известный] капитан будет быть помним [известными] моряками.",
+            "english": "The skipper will be remembered by the sailors.",
+            "transcription": "[ðэ ск**и**пэ wил би: рим**э**мбэд бай ðэ с**э**йлэз]"
+          },
+          {
+            "ours": "Эту гавань не вспомнят.",
+            "thought": "Эта гавань будет не быть помнима.",
+            "english": "This harbor will not be remembered.",
+            "transcription": "[ðис х**а**:бэ wил нот би: рим**э**мбэд]"
+          },
+          {
+            "ours": "Этот шторм запомнят?",
+            "thought": "Будет этот шторм быть помним?",
+            "english": "Will this storm be remembered?",
+            "transcription": "[wил ðис сто:м би: рим**э**мбэд]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Пассив в длительной форме для сохранения в памяти звучит неестественно; скажут: The skipper is remembered by the sailors. Если речь о конкретном процессе поминовения, возможно: The skipper is being remembered at a ceremony."
+    },
+    "perfect": {
+      "not_possible": "Для процесса припоминания предмета пассивные perfect-фразы звучат неестественно. Вместо этого скажут: I have remembered the route; для длительной памяти о человеке возможно: The skipper has been remembered for years."
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него скажут: The skipper is remembered by the sailors."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она вспомнит маршрут.",
+        "thought": "Я знал она будет помнить [известный] маршрут.",
+        "english": "I knew she would remember the route.",
+        "transcription": "[ай нью: ши: wуд рим**э**мбэ ðэ ру:т]"
+      },
+      {
+        "ours": "Мы думали, что он не вспомнит прогноз.",
+        "thought": "Мы думали он будет не помнить [известный] прогноз.",
+        "english": "We thought he would not remember the forecast.",
+        "transcription": "[wи: θо:т хи: wуд нот рим**э**мбэ ðэ ф**о**:ка:ст]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "bay",
+      "meaning": "бухта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "bay"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "bay"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "bay"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "bay"
+        }
+      ]
+    },
+    {
+      "word": "name",
+      "meaning": "название",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "name"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "name"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "name"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "name"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "sailors"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "storm"
+        }
+      ]
+    }
+  ]
+}

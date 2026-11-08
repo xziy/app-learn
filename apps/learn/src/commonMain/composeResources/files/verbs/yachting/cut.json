@@ -1,0 +1,802 @@
+{
+  "spec": 4,
+  "verb": "cut",
+  "forms": {
+    "base": [
+      {
+        "word": "cut",
+        "transcription": "[кат]"
+      }
+    ],
+    "past": [
+      {
+        "word": "cut",
+        "transcription": "[кат]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "cut",
+        "transcription": "[кат]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "cutting",
+        "transcription": "[к**а**тиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "cuts",
+        "transcription": "[катс]"
+      }
+    ]
+  },
+  "meaning": "резать, обрезать; выключать",
+  "notes": "неправильный переходный глагол; три основные формы совпадают; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "cut",
+        "examples": [
+          {
+            "ours": "Вчера мы обрезали верёвку.",
+            "thought": "Вчера мы обрезали [известную] верёвку.",
+            "english": "Yesterday we cut the rope.",
+            "transcription": "[й**э**стэдэй wи: кат ðэ роуп]"
+          },
+          {
+            "ours": "Ты обрезал шкот?",
+            "thought": "[Сделал] ты резать [известный] шкот?",
+            "english": "Did you cut the sheet?",
+            "transcription": "[дид ю: кат ðэ ши:т]"
+          },
+          {
+            "ours": "Она не выключила двигатель.",
+            "thought": "Она [сделала] не выключать [известный] двигатель.",
+            "english": "She did not cut the engine.",
+            "transcription": "[ши: дид нот кат ðи **э**нджин]"
+          }
+        ]
+      },
+      "present": {
+        "form": "cut, cuts",
+        "examples": [
+          {
+            "ours": "Шкипер режет верёвку.",
+            "thought": "[Известный] шкипер режет [известную] верёвку.",
+            "english": "The skipper cuts the rope.",
+            "transcription": "[ðэ ск**и**пэ катс ðэ роуп]"
+          },
+          {
+            "ours": "Ты режешь верёвки на палубе?",
+            "thought": "[Делаешь] ты резать верёвки на палубе?",
+            "english": "Do you cut ropes on deck?",
+            "transcription": "[ду: ю: кат роупс он дэк]"
+          },
+          {
+            "ours": "Мы не режем шкоты.",
+            "thought": "Мы [делаем] не резать шкоты.",
+            "english": "We do not cut sheets.",
+            "transcription": "[wи: ду: нот кат ши:тс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will cut",
+        "examples": [
+          {
+            "ours": "Завтра мы обрежем верёвку.",
+            "thought": "Завтра мы будем резать [известную] верёвку.",
+            "english": "Tomorrow we will cut the rope.",
+            "transcription": "[тэм**о**роу wи: wил кат ðэ роуп]"
+          },
+          {
+            "ours": "Ты обрежешь шкот?",
+            "thought": "Будешь ты резать [известный] шкот?",
+            "english": "Will you cut the sheet?",
+            "transcription": "[wил ю: кат ðэ ши:т]"
+          },
+          {
+            "ours": "Она не выключит двигатель.",
+            "thought": "Она будет не выключать [известный] двигатель.",
+            "english": "She will not cut the engine.",
+            "transcription": "[ши: wил нот кат ðи **э**нджин]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were cutting",
+        "examples": [
+          {
+            "ours": "Вчера утром мы резали верёвки.",
+            "thought": "Вчера утром мы были режущими [известные] верёвки.",
+            "english": "Yesterday morning we were cutting the ropes.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: к**а**тиŋ ðэ роупс]"
+          },
+          {
+            "ours": "Ты резал шкот, когда я позвонил?",
+            "thought": "Был ты режущим [известный] шкот, когда я позвонил?",
+            "english": "Were you cutting the sheet when I called?",
+            "transcription": "[wœ: ю: к**а**тиŋ ðэ ши:т wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are cutting",
+        "examples": [
+          {
+            "ours": "Мы сейчас режем верёвку.",
+            "thought": "Мы являемся режущими [известную] верёвку сейчас.",
+            "english": "We are cutting the rope now.",
+            "transcription": "[wи: а: к**а**тиŋ ðэ роуп нау]"
+          },
+          {
+            "ours": "Шкипер сейчас режет шкот?",
+            "thought": "Является [известный] шкипер режущим [известный] шкот сейчас?",
+            "english": "Is the skipper cutting the sheet now?",
+            "transcription": "[из ðэ ск**и**пэ к**а**тиŋ ðэ ши:т нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be cutting",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем резать верёвки.",
+            "thought": "Завтра утром мы будем быть режущими [известные] верёвки.",
+            "english": "Tomorrow morning we will be cutting the ropes.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: к**а**тиŋ ðэ роупс]"
+          },
+          {
+            "ours": "Ты будешь резать шкот вечером?",
+            "thought": "Будешь ты быть режущим [известный] шкот этот вечер?",
+            "english": "Will you be cutting the sheet this evening?",
+            "transcription": "[wил ю: би: к**а**тиŋ ðэ ши:т ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had cut",
+        "examples": [
+          {
+            "ours": "К полудню мы уже обрезали верёвку.",
+            "thought": "К полудню мы имели уже обрезанной [известную] верёвку.",
+            "english": "By noon we had already cut the rope.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди кат ðэ роуп]"
+          },
+          {
+            "ours": "Ты обрезал шкот до отхода?",
+            "thought": "Имел ты обрезанным [известный] шкот до отхода?",
+            "english": "Had you cut the sheet before departure?",
+            "transcription": "[хæд ю: кат ðэ ши:т биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has cut",
+        "examples": [
+          {
+            "ours": "Мы уже обрезали верёвку.",
+            "thought": "Мы имеем уже обрезанной [известную] верёвку.",
+            "english": "We have already cut the rope.",
+            "transcription": "[wи: хæв о:лр**э**ди кат ðэ роуп]"
+          },
+          {
+            "ours": "Ты уже обрезал шкот?",
+            "thought": "Имеешь ты обрезанным [известный] шкот уже?",
+            "english": "Have you cut the sheet yet?",
+            "transcription": "[хæв ю: кат ðэ ши:т йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have cut",
+        "examples": [
+          {
+            "ours": "К полудню мы обрежем верёвку.",
+            "thought": "К полудню мы будем иметь обрезанной [известную] верёвку.",
+            "english": "By noon we will have cut the rope.",
+            "transcription": "[бай ну:н wи: wил хæв кат ðэ роуп]"
+          },
+          {
+            "ours": "Ты обрежешь шкот к пяти?",
+            "thought": "Будешь ты иметь обрезанным [известный] шкот к пяти?",
+            "english": "Will you have cut the sheet by five?",
+            "transcription": "[wил ю: хæв кат ðэ ши:т бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been cutting",
+        "examples": [
+          {
+            "ours": "Мы час резали верёвки, когда пошёл дождь.",
+            "thought": "Мы имели быть режущими верёвки целый [какой-то] час, когда он начал идти дождём.",
+            "english": "We had been cutting ropes for an hour when it started raining.",
+            "transcription": "[wи: хæд би:н к**а**тиŋ роупс фо: эн **а**уэ wэн ит ст**а**:тид р**э**йниŋ]"
+          },
+          {
+            "ours": "Ты резал ткань два часа до отхода?",
+            "thought": "Имел ты быть режущим ткань целых два часа до отхода?",
+            "english": "Had you been cutting fabric for two hours before departure?",
+            "transcription": "[хæд ю: би:н к**а**тиŋ ф**æ**брик фо: ту: **а**уэз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been cutting",
+        "examples": [
+          {
+            "ours": "Мы режем верёвки уже час.",
+            "thought": "Мы имеем быть режущими верёвки целый [какой-то] час.",
+            "english": "We have been cutting ropes for an hour.",
+            "transcription": "[wи: хæв би:н к**а**тиŋ роупс фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты режешь ткань уже два часа?",
+            "thought": "Имеешь ты быть режущим ткань целых два часа?",
+            "english": "Have you been cutting fabric for two hours?",
+            "transcription": "[хæв ю: би:н к**а**тиŋ ф**æ**брик фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been cutting",
+        "examples": [
+          {
+            "ours": "К пяти мы будем резать верёвки уже два часа.",
+            "thought": "К пяти мы будем иметь быть режущими верёвки целых два часа.",
+            "english": "By five we will have been cutting ropes for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н к**а**тиŋ роупс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь резать ткань уже час?",
+            "thought": "Будешь ты иметь быть режущим ткань целый [какой-то] час к полудню?",
+            "english": "Will you have been cutting fabric for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н к**а**тиŋ ф**æ**брик фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were cut",
+        "examples": [
+          {
+            "ours": "Верёвку обрезали вчера.",
+            "thought": "[Известная] верёвка была обрезана вчера.",
+            "english": "The rope was cut yesterday.",
+            "transcription": "[ðэ роуп wоз кат й**э**стэдэй]"
+          },
+          {
+            "ours": "Шкоты обрезали до отхода?",
+            "thought": "Были [известные] шкоты обрезаны до отхода?",
+            "english": "Were the sheets cut before departure?",
+            "transcription": "[wœ: ðэ ши:тс кат биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are cut",
+        "examples": [
+          {
+            "ours": "Верёвки режут на берегу.",
+            "thought": "Верёвки есть обрезаны на берегу.",
+            "english": "Ropes are cut ashore.",
+            "transcription": "[роупс а: кат эш**о**:]"
+          },
+          {
+            "ours": "Ткань режут здесь?",
+            "thought": "Есть [известная] ткань обрезана здесь?",
+            "english": "Is the fabric cut here?",
+            "transcription": "[из ðэ ф**æ**брик кат хиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be cut",
+        "examples": [
+          {
+            "ours": "Верёвку обрежут завтра.",
+            "thought": "[Известная] верёвка будет быть обрезана завтра.",
+            "english": "The rope will be cut tomorrow.",
+            "transcription": "[ðэ роуп wил би: кат тэм**о**роу]"
+          },
+          {
+            "ours": "Шкот обрежут до отхода?",
+            "thought": "Будет [известный] шкот быть обрезан до отхода?",
+            "english": "Will the sheet be cut before departure?",
+            "transcription": "[wил ðэ ши:т би: кат биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being cut",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, верёвку резали.",
+            "thought": "[Известная] верёвка была «долго» обрезана, когда я прибыл.",
+            "english": "The rope was being cut when I arrived.",
+            "transcription": "[ðэ роуп wоз б**и**:иŋ кат wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, шкоты резали?",
+            "thought": "Были [известные] шкоты «долго» обрезаны, когда ты позвонил?",
+            "english": "Were the sheets being cut when you called?",
+            "transcription": "[wœ: ðэ ши:тс б**и**:иŋ кат wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being cut",
+        "examples": [
+          {
+            "ours": "Верёвку сейчас режут.",
+            "thought": "[Известная] верёвка есть «долго» обрезана сейчас.",
+            "english": "The rope is being cut now.",
+            "transcription": "[ðэ роуп из б**и**:иŋ кат нау]"
+          },
+          {
+            "ours": "Шкоты сейчас режут?",
+            "thought": "Есть [известные] шкоты «долго» обрезаны сейчас?",
+            "english": "Are the sheets being cut now?",
+            "transcription": "[а: ðэ ши:тс б**и**:иŋ кат нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be cutting",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут резать верёвки.",
+            "thought": "Завтра утром они будут быть режущими [известные] верёвки.",
+            "english": "Tomorrow morning they will be cutting the ropes.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: к**а**тиŋ ðэ роупс]"
+          },
+          {
+            "ours": "Они будут резать шкот вечером?",
+            "thought": "Будут они быть режущими [известный] шкот этот вечер?",
+            "english": "Will they be cutting the sheet this evening?",
+            "transcription": "[wил ðэй би: к**а**тиŋ ðэ ши:т ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been cut",
+        "examples": [
+          {
+            "ours": "К полудню верёвку уже обрезали.",
+            "thought": "К полудню [известная] верёвка имела уже быть обрезана.",
+            "english": "By noon the rope had already been cut.",
+            "transcription": "[бай ну:н ðэ роуп хæд о:лр**э**ди би:н кат]"
+          },
+          {
+            "ours": "Шкот обрезали до отхода?",
+            "thought": "Имел [известный] шкот быть обрезан до отхода?",
+            "english": "Had the sheet been cut before departure?",
+            "transcription": "[хæд ðэ ши:т би:н кат биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been cut",
+        "examples": [
+          {
+            "ours": "Верёвку уже обрезали.",
+            "thought": "[Известная] верёвка имеет уже быть обрезана.",
+            "english": "The rope has already been cut.",
+            "transcription": "[ðэ роуп хæз о:лр**э**ди би:н кат]"
+          },
+          {
+            "ours": "Шкоты уже обрезали?",
+            "thought": "Имеют [известные] шкоты быть обрезаны уже?",
+            "english": "Have the sheets been cut yet?",
+            "transcription": "[хæв ðэ ши:тс би:н кат йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been cut",
+        "examples": [
+          {
+            "ours": "К полудню верёвку обрежут.",
+            "thought": "К полудню [известная] верёвка будет иметь быть обрезана.",
+            "english": "By noon the rope will have been cut.",
+            "transcription": "[бай ну:н ðэ роуп wил хæв би:н кат]"
+          },
+          {
+            "ours": "Шкот обрежут к пяти?",
+            "thought": "Будет [известный] шкот иметь быть обрезан к пяти?",
+            "english": "Will the sheet have been cut by five?",
+            "transcription": "[wил ðэ ши:т хæв би:н кат бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been cutting ropes."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они обрежут верёвку.",
+        "thought": "Я знал, они будут резать [известную] верёвку.",
+        "english": "I knew they would cut the rope.",
+        "transcription": "[ай нью: ðэй wуд кат ðэ роуп]"
+      },
+      {
+        "ours": "Она думала, что мы не обрежем шкот.",
+        "thought": "Она думала, мы будем не резать [известный] шкот.",
+        "english": "She thought we would not cut the sheet.",
+        "transcription": "[ши: θо:т wи: wуд нот кат ðэ ши:т]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "rope",
+      "meaning": "верёвка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Ropes"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "rope"
+        }
+      ]
+    },
+    {
+      "word": "sheet",
+      "meaning": "шкот",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sheets"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sheets"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "sheets"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "sheets"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "sheets"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "sheet"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "sheet"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "fabric",
+      "meaning": "ткань",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "fabric"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "fabric"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "fabric"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "fabric"
+        }
+      ]
+    }
+  ]
+}

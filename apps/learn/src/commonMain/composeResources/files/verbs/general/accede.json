@@ -1,5 +1,5 @@
 {
-  "spec": 3,
+  "spec": 4,
   "verb": "accede",
   "forms": {
     "base": [
@@ -649,6 +649,7 @@
     {
       "word": "board",
       "meaning": "совет",
+      "sense": "council",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
@@ -1048,12 +1049,19 @@
     },
     {
       "word": "union",
-      "meaning": "профсоюз, союз",
+      "meaning": "профсоюз",
+      "sense": "trade",
       "used_in": [
         {
           "phrase": "active.perfect.past.0",
           "form": "union"
-        },
+        }
+      ]
+    },
+    {
+      "word": "union",
+      "meaning": "союз",
+      "used_in": [
         {
           "phrase": "active.perfect_continuous.future.1",
           "form": "union"
@@ -1241,6 +1249,7 @@
     {
       "word": "power",
       "meaning": "власть",
+      "sense": "authority",
       "used_in": [
         {
           "phrase": "active.perfect.future.2",
@@ -1303,6 +1312,7 @@
     {
       "word": "motion",
       "meaning": "ходатайство",
+      "sense": "court",
       "used_in": [
         {
           "phrase": "active.perfect_continuous.past.1",

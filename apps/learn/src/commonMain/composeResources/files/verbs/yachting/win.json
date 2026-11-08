@@ -1,0 +1,736 @@
+{
+  "spec": 4,
+  "verb": "win",
+  "forms": {
+    "base": [
+      {
+        "word": "win",
+        "transcription": "[wин]"
+      }
+    ],
+    "past": [
+      {
+        "word": "won",
+        "transcription": "[wан]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "won",
+        "transcription": "[wан]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "winning",
+        "transcription": "[w**и**ниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "wins",
+        "transcription": "[wинз]"
+      }
+    ]
+  },
+  "meaning": "выигрывать, побеждать",
+  "notes": "неправильный переходный глагол; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "won",
+        "examples": [
+          {
+            "ours": "Вчера наша команда выиграла гонку.",
+            "thought": "Вчера наша команда выиграла [известную] гонку.",
+            "english": "Yesterday our crew won the race.",
+            "transcription": "[й**э**стэдэй ауэ кру: wан ðэ рэйс]"
+          },
+          {
+            "ours": "Она не выиграла регату.",
+            "thought": "Она [сделала] не выигрывать [известную] регату.",
+            "english": "She did not win the regatta.",
+            "transcription": "[ши: дид нот wин ðэ риг**æ**тэ]"
+          },
+          {
+            "ours": "Ты выиграл кубок?",
+            "thought": "[Сделал] ты выигрывать [известный] кубок?",
+            "english": "Did you win the cup?",
+            "transcription": "[дид ю: wин ðэ кап]"
+          }
+        ]
+      },
+      "present": {
+        "form": "win, wins",
+        "examples": [
+          {
+            "ours": "Наша команда часто выигрывает гонки.",
+            "thought": "Наша команда часто выигрывает гонки.",
+            "english": "Our crew often wins races.",
+            "transcription": "[ауэ кру: **о**фэн wинз р**э**йсиз]"
+          },
+          {
+            "ours": "Он не выигрывает каждую регату.",
+            "thought": "Он [делает] не выигрывать каждую регату.",
+            "english": "He does not win every regatta.",
+            "transcription": "[хи: даз нот wин **э**ври риг**æ**тэ]"
+          },
+          {
+            "ours": "Ты часто выигрываешь гонки?",
+            "thought": "[Делаешь] ты часто выигрывать гонки?",
+            "english": "Do you often win races?",
+            "transcription": "[ду: ю: **о**фэн wин р**э**йсиз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will win",
+        "examples": [
+          {
+            "ours": "Завтра мы выиграем гонку.",
+            "thought": "Завтра мы будем выигрывать [известную] гонку.",
+            "english": "Tomorrow we will win the race.",
+            "transcription": "[тэм**о**роу wи: wил wин ðэ рэйс]"
+          },
+          {
+            "ours": "Она не выиграет регату.",
+            "thought": "Она будет не выигрывать [известную] регату.",
+            "english": "She will not win the regatta.",
+            "transcription": "[ши: wил нот wин ðэ риг**æ**тэ]"
+          },
+          {
+            "ours": "Ты выиграешь кубок?",
+            "thought": "Будешь ты выигрывать [известный] кубок?",
+            "english": "Will you win the cup?",
+            "transcription": "[wил ю: wин ðэ кап]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were winning",
+        "examples": [
+          {
+            "ours": "Наша команда лидировала в гонке, когда поднялся ветер.",
+            "thought": "Наша команда была выигрывающей [известную] гонку, когда [известный] ветер поднялся.",
+            "english": "Our crew was winning the race when the wind rose.",
+            "transcription": "[ауэ кру: wоз w**и**ниŋ ðэ рэйс wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты лидировал в регате, когда начался дождь?",
+            "thought": "Был ты выигрывающим [известную] регату, когда [известный] дождь начался?",
+            "english": "Were you winning the regatta when the rain started?",
+            "transcription": "[wœ: ю: w**и**ниŋ ðэ риг**æ**тэ wэн ðэ рэйн ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are winning",
+        "examples": [
+          {
+            "ours": "Наша команда сейчас лидирует в гонке.",
+            "thought": "Наша команда является выигрывающей [известную] гонку сейчас.",
+            "english": "Our crew is winning the race now.",
+            "transcription": "[ауэ кру: из w**и**ниŋ ðэ рэйс нау]"
+          },
+          {
+            "ours": "Она сейчас не лидирует в регате.",
+            "thought": "Она является не выигрывающей [известную] регату сейчас.",
+            "english": "She is not winning the regatta now.",
+            "transcription": "[ши: из нот w**и**ниŋ ðэ риг**æ**тэ нау]"
+          },
+          {
+            "ours": "Ты сейчас лидируешь в гонке?",
+            "thought": "Являешься ты выигрывающим [известную] гонку сейчас?",
+            "english": "Are you winning the race now?",
+            "transcription": "[а: ю: w**и**ниŋ ðэ рэйс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be winning",
+        "examples": [
+          {
+            "ours": "К полудню мы будем лидировать в гонке.",
+            "thought": "К полудню мы будем быть выигрывающими [известную] гонку.",
+            "english": "By noon we will be winning the race.",
+            "transcription": "[бай ну:н wи: wил би: w**и**ниŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Ты будешь лидировать в регате к пяти?",
+            "thought": "Будешь ты быть выигрывающим [известную] регату к пяти?",
+            "english": "Will you be winning the regatta by five?",
+            "transcription": "[wил ю: би: w**и**ниŋ ðэ риг**æ**тэ бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had won",
+        "examples": [
+          {
+            "ours": "К полудню наша команда уже выиграла гонку.",
+            "thought": "К полудню наша команда имела уже выигранной [известную] гонку.",
+            "english": "By noon our crew had already won the race.",
+            "transcription": "[бай ну:н ауэ кру: хæд о:лр**э**ди wан ðэ рэйс]"
+          },
+          {
+            "ours": "К тому времени она ещё не выиграла кубок.",
+            "thought": "К тогда она имела не выигранным [известный] кубок ещё.",
+            "english": "By then she had not won the cup yet.",
+            "transcription": "[бай ðэн ши: хæд нот wан ðэ кап йэт]"
+          },
+          {
+            "ours": "К пятнице ты выиграл регату?",
+            "thought": "Имел ты выигранной [известную] регату к пятнице?",
+            "english": "Had you won the regatta by Friday?",
+            "transcription": "[хæд ю: wан ðэ риг**æ**тэ бай фр**а**йдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has won",
+        "examples": [
+          {
+            "ours": "Наша команда уже выиграла гонку.",
+            "thought": "Наша команда имеет уже выигранной [известную] гонку.",
+            "english": "Our crew has already won the race.",
+            "transcription": "[ауэ кру: хæз о:лр**э**ди wан ðэ рэйс]"
+          },
+          {
+            "ours": "Она ещё не выиграла кубок.",
+            "thought": "Она имеет не выигранным [известный] кубок ещё.",
+            "english": "She has not won the cup yet.",
+            "transcription": "[ши: хæз нот wан ðэ кап йэт]"
+          },
+          {
+            "ours": "Ты уже выиграл регату?",
+            "thought": "Имеешь ты выигранной [известную] регату уже?",
+            "english": "Have you won the regatta yet?",
+            "transcription": "[хæв ю: wан ðэ риг**æ**тэ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have won",
+        "examples": [
+          {
+            "ours": "К полудню наша команда выиграет гонку.",
+            "thought": "К полудню наша команда будет иметь выигранной [известную] гонку.",
+            "english": "By noon our crew will have won the race.",
+            "transcription": "[бай ну:н ауэ кру: wил хæв wан ðэ рэйс]"
+          },
+          {
+            "ours": "К пятнице ты выиграешь регату?",
+            "thought": "Будешь ты иметь выигранной [известную] регату к пятнице?",
+            "english": "Will you have won the regatta by Friday?",
+            "transcription": "[wил ю: хæв wан ðэ риг**æ**тэ бай фр**а**йдэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Разовую победу обычно не описывают длительным perfect: Our crew has won the race. Для повторяющихся побед форма возможна: Our crew has been winning races all season."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were won",
+        "examples": [
+          {
+            "ours": "Гонку выиграла наша команда.",
+            "thought": "[Известная] гонка была выиграна нашей командой.",
+            "english": "The race was won by our crew.",
+            "transcription": "[ðэ рэйс wоз wан бай ауэ кру:]"
+          },
+          {
+            "ours": "Регату не выиграла её команда.",
+            "thought": "[Известная] регата была не выиграна её командой.",
+            "english": "The regatta was not won by her crew.",
+            "transcription": "[ðэ риг**æ**тэ wоз нот wан бай хœ: кру:]"
+          },
+          {
+            "ours": "Кубок выиграла твоя команда?",
+            "thought": "Был [известный] кубок выигран твоей командой?",
+            "english": "Was the cup won by your crew?",
+            "transcription": "[wоз ðэ кап wан бай йо: кру:]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are won",
+        "examples": [
+          {
+            "ours": "Кубок выигрывает самая быстрая яхта.",
+            "thought": "[Известный] кубок есть выигран [известной] самой быстрой яхтой.",
+            "english": "The cup is won by the fastest yacht.",
+            "transcription": "[ðэ кап из wан бай ðэ ф**а**:стист йот]"
+          },
+          {
+            "ours": "Регату не выигрывают без подготовки.",
+            "thought": "[Известная] регата есть не выиграна без подготовки.",
+            "english": "The regatta is not won without preparation.",
+            "transcription": "[ðэ риг**æ**тэ из нот wан wиð**а**ут прэпэр**э**йшн]"
+          },
+          {
+            "ours": "Кубок выигрывают каждый год?",
+            "thought": "Есть [известный] кубок выигран каждый год?",
+            "english": "Is the cup won every year?",
+            "transcription": "[из ðэ кап wан **э**ври йиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be won",
+        "examples": [
+          {
+            "ours": "Гонку выиграет наша команда.",
+            "thought": "[Известная] гонка будет быть выиграна нашей командой.",
+            "english": "The race will be won by our crew.",
+            "transcription": "[ðэ рэйс wил би: wан бай ауэ кру:]"
+          },
+          {
+            "ours": "Регату не выиграет её команда.",
+            "thought": "[Известная] регата будет не быть выиграна её командой.",
+            "english": "The regatta will not be won by her crew.",
+            "transcription": "[ðэ риг**æ**тэ wил нот би: wан бай хœ: кру:]"
+          },
+          {
+            "ours": "Кубок выиграет твоя команда?",
+            "thought": "Будет [известный] кубок быть выигран твоей командой?",
+            "english": "Will the cup be won by your crew?",
+            "transcription": "[wил ðэ кап би: wан бай йо: кру:]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Для победы в отдельной гонке длительный пассив звучит неестественно. Вместо него скажут: Our crew is winning the race; в будущем: Our crew will be winning the race."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been won",
+        "examples": [
+          {
+            "ours": "К полудню гонка уже была выиграна.",
+            "thought": "К полудню [известная] гонка имела уже быть выиграна.",
+            "english": "By noon the race had already been won.",
+            "transcription": "[бай ну:н ðэ рэйс хæд о:лр**э**ди би:н wан]"
+          },
+          {
+            "ours": "К тому времени кубок ещё не выиграли.",
+            "thought": "К тогда [известный] кубок имел не быть выигран ещё.",
+            "english": "By then the cup had not been won yet.",
+            "transcription": "[бай ðэн ðэ кап хæд нот би:н wан йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been won",
+        "examples": [
+          {
+            "ours": "Гонка уже выиграна.",
+            "thought": "[Известная] гонка имеет уже быть выиграна.",
+            "english": "The race has already been won.",
+            "transcription": "[ðэ рэйс хæз о:лр**э**ди би:н wан]"
+          },
+          {
+            "ours": "Кубок ещё не выиграли.",
+            "thought": "[Известный] кубок имеет не быть выигран ещё.",
+            "english": "The cup has not been won yet.",
+            "transcription": "[ðэ кап хæз нот би:н wан йэт]"
+          },
+          {
+            "ours": "Регата уже выиграна?",
+            "thought": "Имеет [известная] регата быть выиграна уже?",
+            "english": "Has the regatta been won yet?",
+            "transcription": "[хæз ðэ риг**æ**тэ би:н wан йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been won",
+        "examples": [
+          {
+            "ours": "К полудню гонка будет выиграна.",
+            "thought": "К полудню [известная] гонка будет иметь быть выиграна.",
+            "english": "By noon the race will have been won.",
+            "transcription": "[бай ну:н ðэ рэйс wил хæв би:н wан]"
+          },
+          {
+            "ours": "К пятнице регата будет выиграна?",
+            "thought": "Будет [известная] регата иметь быть выиграна к пятнице?",
+            "english": "Will the regatta have been won by Friday?",
+            "transcription": "[wил ðэ риг**æ**тэ хæв би:н wан бай фр**а**йдэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: Our crew has won the race."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что наша команда выиграет гонку.",
+        "thought": "Я знал наша команда будет выигрывать [известную] гонку.",
+        "english": "I knew our crew would win the race.",
+        "transcription": "[ай нью: ауэ кру: wуд wин ðэ рэйс]"
+      },
+      {
+        "ours": "Мы думали, что она не выиграет регату.",
+        "thought": "Мы думали она будет не выигрывать [известную] регату.",
+        "english": "We thought she would not win the regatta.",
+        "transcription": "[wи: θо:т ши: wуд нот wин ðэ риг**æ**тэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "races"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "races"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "cup",
+      "meaning": "кубок",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "cup"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "cup"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "cup"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "cup"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "cup"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "cup"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "cup"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "cup"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "cup"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "cup"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "Friday"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "Friday"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "preparation",
+      "meaning": "подготовка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "preparation"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "year"
+        }
+      ]
+    }
+  ]
+}

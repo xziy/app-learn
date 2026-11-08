@@ -1,0 +1,565 @@
+{
+  "spec": 4,
+  "verb": "grow",
+  "forms": {
+    "base": [
+      {
+        "word": "grow",
+        "transcription": "[гроу]"
+      }
+    ],
+    "past": [
+      {
+        "word": "grew",
+        "transcription": "[грю:]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "grown",
+        "transcription": "[гроун]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "growing",
+        "transcription": "[гр**о**уиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "grows",
+        "transcription": "[гроуз]"
+      }
+    ]
+  },
+  "meaning": "расти, усиливаться, становиться",
+  "notes": "неправильный глагол; в значениях роста и усиления непереходный; в значении выращивания может быть переходным",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "grew",
+        "examples": [
+          {
+            "ours": "Вчера волны стали выше.",
+            "thought": "Вчера [известные] волны выросли выше.",
+            "english": "Yesterday the waves grew higher.",
+            "transcription": "[й**э**стэдэй ðэ wэйвз грю: х**а**йэ]"
+          },
+          {
+            "ours": "Ветер усилился ночью?",
+            "thought": "[Сделал] [известный] ветер расти сильнее в ночь?",
+            "english": "Did the wind grow stronger at night?",
+            "transcription": "[дид ðэ wинд гроу стр**о**ŋгэ æт найт]"
+          },
+          {
+            "ours": "Водоросли не росли на корпусе.",
+            "thought": "[Известные] водоросли [сделали] не расти на [известном] корпусе.",
+            "english": "The algae did not grow on the hull.",
+            "transcription": "[ðи **æ**лджи: дид нот гроу он ðэ хал]"
+          }
+        ]
+      },
+      "present": {
+        "form": "grow, grows",
+        "examples": [
+          {
+            "ours": "Водоросли растут на корпусе.",
+            "thought": "Водоросли растут на [известном] корпусе.",
+            "english": "Algae grow on the hull.",
+            "transcription": "[**æ**лджи: гроу он ðэ хал]"
+          },
+          {
+            "ours": "Ветер обычно усиливается после полудня?",
+            "thought": "[Делает] [известный] ветер обычно расти сильнее после полудня?",
+            "english": "Does the wind usually grow stronger after noon?",
+            "transcription": "[даз ðэ wинд **ю**:жуэли гроу стр**о**ŋгэ **а**:фтэ ну:н]"
+          },
+          {
+            "ours": "Морская трава не растёт здесь.",
+            "thought": "Морская трава [делает] не расти здесь.",
+            "english": "Seagrass does not grow here.",
+            "transcription": "[с**и**:гра:с даз нот гроу хиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will grow",
+        "examples": [
+          {
+            "ours": "Завтра волны станут выше.",
+            "thought": "Завтра [известные] волны будут расти выше.",
+            "english": "Tomorrow the waves will grow higher.",
+            "transcription": "[тэм**о**роу ðэ wэйвз wил гроу х**а**йэ]"
+          },
+          {
+            "ours": "Ветер усилится ночью?",
+            "thought": "Будет [известный] ветер расти сильнее в ночь?",
+            "english": "Will the wind grow stronger at night?",
+            "transcription": "[wил ðэ wинд гроу стр**о**ŋгэ æт найт]"
+          },
+          {
+            "ours": "Водоросли не будут расти в темноте.",
+            "thought": "Водоросли будут не расти в [известной] темноте.",
+            "english": "Algae will not grow in the dark.",
+            "transcription": "[**æ**лджи: wил нот гроу ин ðэ да:к]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were growing",
+        "examples": [
+          {
+            "ours": "Вчера утром волны становились выше.",
+            "thought": "Вчера утром [известные] волны были растущими выше.",
+            "english": "Yesterday morning the waves were growing higher.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ ðэ wэйвз wœ: гр**о**уиŋ х**а**йэ]"
+          },
+          {
+            "ours": "Ветер усиливался, когда ты проснулся?",
+            "thought": "Был [известный] ветер растущим сильнее, когда ты проснулся?",
+            "english": "Was the wind growing stronger when you woke?",
+            "transcription": "[wоз ðэ wинд гр**о**уиŋ стр**о**ŋгэ wэн ю: wоук]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are growing",
+        "examples": [
+          {
+            "ours": "Сейчас волны становятся выше.",
+            "thought": "[Известные] волны являются растущими выше сейчас.",
+            "english": "The waves are growing higher now.",
+            "transcription": "[ðэ wэйвз а: гр**о**уиŋ х**а**йэ нау]"
+          },
+          {
+            "ours": "Ветер сейчас усиливается?",
+            "thought": "Является [известный] ветер растущим сильнее сейчас?",
+            "english": "Is the wind growing stronger now?",
+            "transcription": "[из ðэ wинд гр**о**уиŋ стр**о**ŋгэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be growing",
+        "examples": [
+          {
+            "ours": "Завтра утром волны будут становиться выше.",
+            "thought": "Завтра утром [известные] волны будут быть растущими выше.",
+            "english": "Tomorrow morning the waves will be growing higher.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэ wэйвз wил би: гр**о**уиŋ х**а**йэ]"
+          },
+          {
+            "ours": "Ветер будет усиливаться во время гонки?",
+            "thought": "Будет [известный] ветер быть растущим сильнее во время [известной] гонки?",
+            "english": "Will the wind be growing stronger during the race?",
+            "transcription": "[wил ðэ wинд би: гр**о**уиŋ стр**о**ŋгэ дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had grown",
+        "examples": [
+          {
+            "ours": "К полудню волны уже стали выше.",
+            "thought": "К полудню [известные] волны имели уже выросшим выше.",
+            "english": "By noon the waves had already grown higher.",
+            "transcription": "[бай ну:н ðэ wэйвз хæд о:лр**э**ди гроун х**а**йэ]"
+          },
+          {
+            "ours": "Ветер усилился к пяти?",
+            "thought": "Имел [известный] ветер выросшим сильнее к пяти?",
+            "english": "Had the wind grown stronger by five?",
+            "transcription": "[хæд ðэ wинд гроун стр**о**ŋгэ бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has grown",
+        "examples": [
+          {
+            "ours": "Волны уже стали выше.",
+            "thought": "[Известные] волны имеют уже выросшим выше.",
+            "english": "The waves have already grown higher.",
+            "transcription": "[ðэ wэйвз хæв о:лр**э**ди гроун х**а**йэ]"
+          },
+          {
+            "ours": "Ветер уже усилился?",
+            "thought": "Имеет [известный] ветер выросшим сильнее уже?",
+            "english": "Has the wind grown stronger yet?",
+            "transcription": "[хæз ðэ wинд гроун стр**о**ŋгэ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have grown",
+        "examples": [
+          {
+            "ours": "К полудню волны станут выше.",
+            "thought": "К полудню [известные] волны будут иметь выросшим выше.",
+            "english": "By noon the waves will have grown higher.",
+            "transcription": "[бай ну:н ðэ wэйвз wил хæв гроун х**а**йэ]"
+          },
+          {
+            "ours": "Ветер усилится к пяти?",
+            "thought": "Будет [известный] ветер иметь выросшим сильнее к пяти?",
+            "english": "Will the wind have grown stronger by five?",
+            "transcription": "[wил ðэ wинд хæв гроун стр**о**ŋгэ бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been growing",
+        "examples": [
+          {
+            "ours": "Ветер усиливался час, когда мы убрали парус.",
+            "thought": "[Известный] ветер имел быть растущим сильнее целый [какой-то] час, когда мы убрали [известный] парус.",
+            "english": "The wind had been growing stronger for an hour when we lowered the sail.",
+            "transcription": "[ðэ wинд хæд би:н гр**о**уиŋ стр**о**ŋгэ фо: эн **а**уэ wэн wи: л**о**уэд ðэ сэйл]"
+          },
+          {
+            "ours": "Волны становились выше два часа до шторма?",
+            "thought": "Имели [известные] волны быть растущими выше целых два часа до [известного] шторма?",
+            "english": "Had the waves been growing higher for two hours before the storm?",
+            "transcription": "[хæд ðэ wэйвз би:н гр**о**уиŋ х**а**йэ фо: ту: **а**уэз биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been growing",
+        "examples": [
+          {
+            "ours": "Ветер усиливается уже час.",
+            "thought": "[Известный] ветер имеет быть растущим сильнее целый [какой-то] час.",
+            "english": "The wind has been growing stronger for an hour.",
+            "transcription": "[ðэ wинд хæз би:н гр**о**уиŋ стр**о**ŋгэ фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Волны становятся выше уже два часа?",
+            "thought": "Имеют [известные] волны быть растущими выше целых два часа?",
+            "english": "Have the waves been growing higher for two hours?",
+            "transcription": "[хæв ðэ wэйвз би:н гр**о**уиŋ х**а**йэ фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been growing",
+        "examples": [
+          {
+            "ours": "К пяти ветер будет усиливаться уже два часа.",
+            "thought": "К пяти [известный] ветер будет иметь быть растущим сильнее целых два часа.",
+            "english": "By five the wind will have been growing stronger for two hours.",
+            "transcription": "[бай файв ðэ wинд wил хæв би:н гр**о**уиŋ стр**о**ŋгэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню волны будут становиться выше уже час?",
+            "thought": "Будут [известные] волны иметь быть растущими выше целый [какой-то] час к полудню?",
+            "english": "Will the waves have been growing higher for an hour by noon?",
+            "transcription": "[wил ðэ wэйвз хæв би:н гр**о**уиŋ х**а**йэ фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "В выбранном значении «расти, усиливаться» grow непереходный и не образует пассив. Пассив возможен в значении «выращивать»: Herbs are grown on board."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что ветер усилится.",
+        "thought": "Я знал, [известный] ветер будет расти сильнее.",
+        "english": "I knew the wind would grow stronger.",
+        "transcription": "[ай нью: ðэ wинд wуд гроу стр**о**ŋгэ]"
+      },
+      {
+        "ours": "Она думала, что волны не станут выше.",
+        "thought": "Она думала, [известные] волны будут не расти выше.",
+        "english": "She thought the waves would not grow higher.",
+        "transcription": "[ши: θо:т ðэ wэйвз wуд нот гроу х**а**йэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "wave",
+      "meaning": "волна",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "waves"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "waves"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "night"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "algae",
+      "meaning": "водоросли",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "algae"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "Algae"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "Algae"
+        }
+      ]
+    },
+    {
+      "word": "hull",
+      "meaning": "корпус",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "hull"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "seagrass",
+      "meaning": "морская трава",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "Seagrass"
+        }
+      ]
+    },
+    {
+      "word": "dark",
+      "meaning": "темнота",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "dark"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "storm"
+        }
+      ]
+    }
+  ]
+}

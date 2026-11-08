@@ -1,0 +1,1014 @@
+{
+  "spec": 4,
+  "verb": "lead",
+  "forms": {
+    "base": [
+      {
+        "word": "lead",
+        "transcription": "[ли:д]"
+      }
+    ],
+    "past": [
+      {
+        "word": "led",
+        "transcription": "[лэд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "led",
+        "transcription": "[лэд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "leading",
+        "transcription": "[л**и**:диŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "leads",
+        "transcription": "[ли:дз]"
+      }
+    ]
+  },
+  "meaning": "вести, возглавлять, лидировать",
+  "notes": "неправильный переходный глагол; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "led",
+        "examples": [
+          {
+            "ours": "Вчера капитан вёл экипаж.",
+            "thought": "Вчера [известный] капитан вёл [известный] экипаж.",
+            "english": "Yesterday the skipper led the crew.",
+            "transcription": "[й**э**стэдэй ðэ ск**и**пэ лэд ðэ кру:]"
+          },
+          {
+            "ours": "Яхта не возглавляла флот.",
+            "thought": "[Известная] яхта [сделала] не возглавлять [известный] флот.",
+            "english": "The yacht did not lead the fleet.",
+            "transcription": "[ðэ йот дид нот ли:д ðэ фли:т]"
+          },
+          {
+            "ours": "Ты возглавлял гонку?",
+            "thought": "[Сделал] ты возглавлять [известную] гонку?",
+            "english": "Did you lead the race?",
+            "transcription": "[дид ю: ли:д ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "lead, leads",
+        "examples": [
+          {
+            "ours": "Капитан ведёт экипаж.",
+            "thought": "[Известный] капитан ведёт [известный] экипаж.",
+            "english": "The skipper leads the crew.",
+            "transcription": "[ðэ ск**и**пэ ли:дз ðэ кру:]"
+          },
+          {
+            "ours": "Яхта не возглавляет флот.",
+            "thought": "[Известная] яхта [делает] не возглавлять [известный] флот.",
+            "english": "The yacht does not lead the fleet.",
+            "transcription": "[ðэ йот даз нот ли:д ðэ фли:т]"
+          },
+          {
+            "ours": "Ты возглавляешь гонку?",
+            "thought": "[Делаешь] ты возглавлять [известную] гонку?",
+            "english": "Do you lead the race?",
+            "transcription": "[ду: ю: ли:д ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will lead",
+        "examples": [
+          {
+            "ours": "Завтра капитан поведёт экипаж.",
+            "thought": "Завтра [известный] капитан будет вести [известный] экипаж.",
+            "english": "Tomorrow the skipper will lead the crew.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил ли:д ðэ кру:]"
+          },
+          {
+            "ours": "Яхта не возглавит флот.",
+            "thought": "[Известная] яхта будет не возглавлять [известный] флот.",
+            "english": "The yacht will not lead the fleet.",
+            "transcription": "[ðэ йот wил нот ли:д ðэ фли:т]"
+          },
+          {
+            "ours": "Ты возглавишь гонку?",
+            "thought": "Будешь ты возглавлять [известную] гонку?",
+            "english": "Will you lead the race?",
+            "transcription": "[wил ю: ли:д ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were leading",
+        "examples": [
+          {
+            "ours": "Яхта лидировала в гонке, когда поднялся ветер.",
+            "thought": "[Известная] яхта была возглавляющей [известную] гонку, когда [известный] ветер поднялся.",
+            "english": "The yacht was leading the race when the wind rose.",
+            "transcription": "[ðэ йот wоз л**и**:диŋ ðэ рэйс wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты возглавлял флот, когда начался дождь?",
+            "thought": "Был ты возглавляющим [известный] флот, когда [известный] дождь начался?",
+            "english": "Were you leading the fleet when the rain started?",
+            "transcription": "[wœ: ю: л**и**:диŋ ðэ фли:т wэн ðэ рэйн ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are leading",
+        "examples": [
+          {
+            "ours": "Яхта сейчас лидирует в гонке.",
+            "thought": "[Известная] яхта является возглавляющей [известную] гонку сейчас.",
+            "english": "The yacht is leading the race now.",
+            "transcription": "[ðэ йот из л**и**:диŋ ðэ рэйс нау]"
+          },
+          {
+            "ours": "Он сейчас не возглавляет флот.",
+            "thought": "Он является не возглавляющим [известный] флот сейчас.",
+            "english": "He is not leading the fleet now.",
+            "transcription": "[хи: из нот л**и**:диŋ ðэ фли:т нау]"
+          },
+          {
+            "ours": "Ты сейчас ведёшь экипаж?",
+            "thought": "Являешься ты ведущим [известный] экипаж сейчас?",
+            "english": "Are you leading the crew now?",
+            "transcription": "[а: ю: л**и**:диŋ ðэ кру: нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be leading",
+        "examples": [
+          {
+            "ours": "Завтра капитан будет вести экипаж весь день.",
+            "thought": "Завтра [известный] капитан будет быть ведущим [известный] экипаж весь день.",
+            "english": "Tomorrow the skipper will be leading the crew all day.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил би: л**и**:диŋ ðэ кру: о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь лидировать в гонке в пять?",
+            "thought": "Будешь ты быть возглавляющим [известную] гонку в пять?",
+            "english": "Will you be leading the race at five?",
+            "transcription": "[wил ю: би: л**и**:диŋ ðэ рэйс æт файв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had led",
+        "examples": [
+          {
+            "ours": "К пяти яхта лидировала в гонке два часа.",
+            "thought": "К пяти [известная] яхта имела возглавленной [известную] гонку целых два часа.",
+            "english": "By five the yacht had led the race for two hours.",
+            "transcription": "[бай файв ðэ йот хæд лэд ðэ рэйс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты возглавлял флот час?",
+            "thought": "Имел ты возглавленным [известный] флот целый [какой-то] час к пяти?",
+            "english": "Had you led the fleet for an hour by five?",
+            "transcription": "[хæд ю: лэд ðэ фли:т фо: эн **а**уэ бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has led",
+        "examples": [
+          {
+            "ours": "Яхта лидировала в гонке два часа.",
+            "thought": "[Известная] яхта имеет возглавленной [известную] гонку целых два часа.",
+            "english": "The yacht has led the race for two hours.",
+            "transcription": "[ðэ йот хæз лэд ðэ рэйс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты раньше возглавлял флот?",
+            "thought": "Имеешь ты возглавленным [известный] флот раньше?",
+            "english": "Have you led the fleet before?",
+            "transcription": "[хæв ю: лэд ðэ фли:т биф**о**:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have led",
+        "examples": [
+          {
+            "ours": "К пяти яхта будет лидировать два часа.",
+            "thought": "К пяти [известная] яхта будет иметь возглавленной [известную] гонку целых два часа.",
+            "english": "By five the yacht will have led the race for two hours.",
+            "transcription": "[бай файв ðэ йот wил хæв лэд ðэ рэйс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь возглавлять флот час?",
+            "thought": "Будешь ты иметь возглавленным [известный] флот целый [какой-то] час к пяти?",
+            "english": "Will you have led the fleet for an hour by five?",
+            "transcription": "[wил ю: хæв лэд ðэ фли:т фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been leading",
+        "examples": [
+          {
+            "ours": "Яхта лидировала два часа, когда поднялся ветер.",
+            "thought": "[Известная] яхта имела быть возглавляющей [известную] гонку целых два часа, когда [известный] ветер поднялся.",
+            "english": "The yacht had been leading the race for two hours when the wind rose.",
+            "transcription": "[ðэ йот хæд би:н л**и**:диŋ ðэ рэйс фо: ту: **а**уэз wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты давно возглавлял флот, когда начался дождь?",
+            "thought": "Имел ты быть возглавляющим [известный] флот долго, когда [известный] дождь начался?",
+            "english": "Had you been leading the fleet long when the rain started?",
+            "transcription": "[хæд ю: би:н л**и**:диŋ ðэ фли:т лоŋ wэн ðэ рэйн ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been leading",
+        "examples": [
+          {
+            "ours": "Яхта лидирует в гонке уже два часа.",
+            "thought": "[Известная] яхта имеет быть возглавляющей [известную] гонку целых два часа.",
+            "english": "The yacht has been leading the race for two hours.",
+            "transcription": "[ðэ йот хæз би:н л**и**:диŋ ðэ рэйс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты возглавляешь флот уже час?",
+            "thought": "Имеешь ты быть возглавляющим [известный] флот целый [какой-то] час?",
+            "english": "Have you been leading the fleet for an hour?",
+            "transcription": "[хæв ю: би:н л**и**:диŋ ðэ фли:т фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been leading",
+        "examples": [
+          {
+            "ours": "К пяти яхта будет лидировать уже два часа.",
+            "thought": "К пяти [известная] яхта будет иметь быть возглавляющей [известную] гонку целых два часа.",
+            "english": "By five the yacht will have been leading the race for two hours.",
+            "transcription": "[бай файв ðэ йот wил хæв би:н л**и**:диŋ ðэ рэйс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь возглавлять флот уже час?",
+            "thought": "Будешь ты иметь быть возглавляющим [известный] флот целый [какой-то] час к пяти?",
+            "english": "Will you have been leading the fleet for an hour by five?",
+            "transcription": "[wил ю: хæв би:н л**и**:диŋ ðэ фли:т фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were led",
+        "examples": [
+          {
+            "ours": "Вчера экипаж возглавлял капитан.",
+            "thought": "Вчера [известный] экипаж был возглавлен [известным] капитаном.",
+            "english": "Yesterday the crew was led by the skipper.",
+            "transcription": "[й**э**стэдэй ðэ кру: wоз лэд бай ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Флот не возглавляла эта яхта.",
+            "thought": "[Известный] флот был не возглавлен этой яхтой.",
+            "english": "The fleet was not led by this yacht.",
+            "transcription": "[ðэ фли:т wоз нот лэд бай ðис йот]"
+          },
+          {
+            "ours": "Экипаж возглавлял капитан?",
+            "thought": "Был [известный] экипаж возглавлен [известным] капитаном?",
+            "english": "Was the crew led by the skipper?",
+            "transcription": "[wоз ðэ кру: лэд бай ðэ ск**и**пэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are led",
+        "examples": [
+          {
+            "ours": "Экипаж возглавляет капитан.",
+            "thought": "[Известный] экипаж есть возглавлен [известным] капитаном.",
+            "english": "The crew is led by the skipper.",
+            "transcription": "[ðэ кру: из лэд бай ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Флот не возглавляет эта яхта.",
+            "thought": "[Известный] флот есть не возглавлен этой яхтой.",
+            "english": "The fleet is not led by this yacht.",
+            "transcription": "[ðэ фли:т из нот лэд бай ðис йот]"
+          },
+          {
+            "ours": "Экипаж возглавляет капитан?",
+            "thought": "Есть [известный] экипаж возглавлен [известным] капитаном?",
+            "english": "Is the crew led by the skipper?",
+            "transcription": "[из ðэ кру: лэд бай ðэ ск**и**пэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be led",
+        "examples": [
+          {
+            "ours": "Завтра экипаж возглавит капитан.",
+            "thought": "Завтра [известный] экипаж будет быть возглавлен [известным] капитаном.",
+            "english": "Tomorrow the crew will be led by the skipper.",
+            "transcription": "[тэм**о**роу ðэ кру: wил би: лэд бай ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Флот не будет возглавлять эта яхта.",
+            "thought": "[Известный] флот будет не быть возглавлен этой яхтой.",
+            "english": "The fleet will not be led by this yacht.",
+            "transcription": "[ðэ фли:т wил нот би: лэд бай ðис йот]"
+          },
+          {
+            "ours": "Экипаж возглавит капитан?",
+            "thought": "Будет [известный] экипаж быть возглавлен [известным] капитаном?",
+            "english": "Will the crew be led by the skipper?",
+            "transcription": "[wил ðэ кру: би: лэд бай ðэ ск**и**пэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being led",
+        "examples": [
+          {
+            "ours": "Яхта лидировала в гонке, когда поднялся ветер.",
+            "thought": "[Известная] гонка была «долго» возглавлена [известной] яхтой, когда [известный] ветер поднялся.",
+            "english": "The race was being led by the yacht when the wind rose.",
+            "transcription": "[ðэ рэйс wоз б**и**:иŋ лэд бай ðэ йот wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Гонку возглавляла эта яхта, когда начался дождь?",
+            "thought": "Была [известная] гонка «долго» возглавлена этой яхтой, когда [известный] дождь начался?",
+            "english": "Was the race being led by this yacht when the rain started?",
+            "transcription": "[wоз ðэ рэйс б**и**:иŋ лэд бай ðис йот wэн ðэ рэйн ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being led",
+        "examples": [
+          {
+            "ours": "Гонку сейчас возглавляет яхта.",
+            "thought": "[Известная] гонка есть «долго» возглавлена [известной] яхтой сейчас.",
+            "english": "The race is being led by the yacht now.",
+            "transcription": "[ðэ рэйс из б**и**:иŋ лэд бай ðэ йот нау]"
+          },
+          {
+            "ours": "Флот сейчас не возглавляет эта яхта.",
+            "thought": "[Известный] флот есть не «долго» возглавлен этой яхтой сейчас.",
+            "english": "The fleet is not being led by this yacht now.",
+            "transcription": "[ðэ фли:т из нот б**и**:иŋ лэд бай ðис йот нау]"
+          },
+          {
+            "ours": "Гонку сейчас возглавляет эта яхта?",
+            "thought": "Есть [известная] гонка «долго» возглавлена этой яхтой сейчас?",
+            "english": "Is the race being led by this yacht now?",
+            "transcription": "[из ðэ рэйс б**и**:иŋ лэд бай ðис йот нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be leading",
+        "examples": [
+          {
+            "ours": "Завтра яхта будет лидировать весь день.",
+            "thought": "Завтра [известная] яхта будет быть возглавляющей [известную] гонку весь день.",
+            "english": "Tomorrow the yacht will be leading the race all day.",
+            "transcription": "[тэм**о**роу ðэ йот wил би: л**и**:диŋ ðэ рэйс о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь возглавлять флот в пять?",
+            "thought": "Будешь ты быть возглавляющим [известный] флот в пять?",
+            "english": "Will you be leading the fleet at five?",
+            "transcription": "[wил ю: би: л**и**:диŋ ðэ фли:т æт файв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been led",
+        "examples": [
+          {
+            "ours": "К пяти яхта лидировала в гонке два часа.",
+            "thought": "К пяти [известная] гонка имела быть возглавлена [известной] яхтой целых два часа.",
+            "english": "By five the race had been led by the yacht for two hours.",
+            "transcription": "[бай файв ðэ рэйс хæд би:н лэд бай ðэ йот фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню экипаж возглавлял капитан уже год?",
+            "thought": "Имел [известный] экипаж быть возглавлен [известным] капитаном целый [какой-то] год к полудню?",
+            "english": "Had the crew been led by the skipper for a year by noon?",
+            "transcription": "[хæд ðэ кру: би:н лэд бай ðэ ск**и**пэ фо: э йиэ бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been led",
+        "examples": [
+          {
+            "ours": "Капитан возглавляет экипаж уже год.",
+            "thought": "[Известный] экипаж имеет быть возглавлен [известным] капитаном целый [какой-то] год.",
+            "english": "The crew has been led by the skipper for a year.",
+            "transcription": "[ðэ кру: хæз би:н лэд бай ðэ ск**и**пэ фо: э йиэ]"
+          },
+          {
+            "ours": "Экипаж давно возглавляет капитан?",
+            "thought": "Имеет [известный] экипаж быть возглавлен [известным] капитаном долго?",
+            "english": "Has the crew been led by the skipper for long?",
+            "transcription": "[хæз ðэ кру: би:н лэд бай ðэ ск**и**пэ фо: лоŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been led",
+        "examples": [
+          {
+            "ours": "К июню капитан будет возглавлять экипаж год.",
+            "thought": "К июню [известный] экипаж будет иметь быть возглавлен [известным] капитаном целый [какой-то] год.",
+            "english": "By June the crew will have been led by the skipper for a year.",
+            "transcription": "[бай джу:н ðэ кру: wил хæв би:н лэд бай ðэ ск**и**пэ фо: э йиэ]"
+          },
+          {
+            "ours": "К июню капитан будет возглавлять экипаж год?",
+            "thought": "Будет [известный] экипаж иметь быть возглавлен [известным] капитаном целый [какой-то] год к июню?",
+            "english": "Will the crew have been led by the skipper for a year by June?",
+            "transcription": "[wил ðэ кру: хæв би:н лэд бай ðэ ск**и**пэ фо: э йиэ бай джу:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The yacht has been leading the race."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что яхта возглавит гонку.",
+        "thought": "Я знал [известная] яхта будет возглавлять [известную] гонку.",
+        "english": "I knew the yacht would lead the race.",
+        "transcription": "[ай нью: ðэ йот wуд ли:д ðэ рэйс]"
+      },
+      {
+        "ours": "Мы думали, что он не возглавит флот.",
+        "thought": "Мы думали он будет не возглавлять [известный] флот.",
+        "english": "We thought he would not lead the fleet.",
+        "transcription": "[wи: θо:т хи: wуд нот ли:д ðэ фли:т]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "fleet",
+      "meaning": "флот",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "fleet"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "fleet"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rain"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "year"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "year"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "year"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "June"
+        }
+      ]
+    }
+  ]
+}

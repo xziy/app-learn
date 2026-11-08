@@ -1,0 +1,561 @@
+{
+  "spec": 4,
+  "verb": "stay",
+  "forms": {
+    "base": [
+      {
+        "word": "stay",
+        "transcription": "[стэй]"
+      }
+    ],
+    "past": [
+      {
+        "word": "stayed",
+        "transcription": "[стэйд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "stayed",
+        "transcription": "[стэйд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "staying",
+        "transcription": "[ст**э**йиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "stays",
+        "transcription": "[стэйз]"
+      }
+    ]
+  },
+  "meaning": "оставаться, останавливаться",
+  "notes": "правильный непереходный глагол; в значении «оставаться» не образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "stayed",
+        "examples": [
+          {
+            "ours": "Вчера я оставался в кокпите.",
+            "thought": "Вчера я оставался в [известном] кокпите.",
+            "english": "Yesterday I stayed in the cockpit.",
+            "transcription": "[й**э**стэдэй ай стэйд ин ðэ к**о**кпит]"
+          },
+          {
+            "ours": "Ты оставался на палубе?",
+            "thought": "[Сделал] ты оставаться на палубе?",
+            "english": "Did you stay on deck?",
+            "transcription": "[дид ю: стэй он дэк]"
+          },
+          {
+            "ours": "Она не оставалась у штурвала.",
+            "thought": "Она [сделала] не оставаться у [известного] штурвала.",
+            "english": "She did not stay at the helm.",
+            "transcription": "[ши: дид нот стэй æт ðэ хэлм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "stay, stays",
+        "examples": [
+          {
+            "ours": "Шкипер обычно остаётся у штурвала.",
+            "thought": "[Известный] шкипер обычно остаётся у [известного] штурвала.",
+            "english": "The skipper usually stays at the helm.",
+            "transcription": "[ðэ ск**и**пэ **ю**:жуэли стэйз æт ðэ хэлм]"
+          },
+          {
+            "ours": "Ты остаёшься на палубе?",
+            "thought": "[Делаешь] ты оставаться на палубе?",
+            "english": "Do you stay on deck?",
+            "transcription": "[ду: ю: стэй он дэк]"
+          },
+          {
+            "ours": "Мы не остаёмся на мокрых подушках.",
+            "thought": "Мы [делаем] не оставаться на мокрых подушках.",
+            "english": "We do not stay on wet cushions.",
+            "transcription": "[wи: ду: нот стэй он wэт к**у**шнз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will stay",
+        "examples": [
+          {
+            "ours": "Завтра я буду оставаться в кокпите.",
+            "thought": "Завтра я буду оставаться в [известном] кокпите.",
+            "english": "Tomorrow I will stay in the cockpit.",
+            "transcription": "[тэм**о**роу ай wил стэй ин ðэ к**о**кпит]"
+          },
+          {
+            "ours": "Ты будешь оставаться у штурвала?",
+            "thought": "Будешь ты оставаться у [известного] штурвала?",
+            "english": "Will you stay at the helm?",
+            "transcription": "[wил ю: стэй æт ðэ хэлм]"
+          },
+          {
+            "ours": "Она не будет оставаться на палубе.",
+            "thought": "Она будет не оставаться на палубе.",
+            "english": "She will not stay on deck.",
+            "transcription": "[ши: wил нот стэй он дэк]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were staying",
+        "examples": [
+          {
+            "ours": "Вчера вечером мы оставались в кокпите.",
+            "thought": "Вчера вечером мы были остающимися в [известном] кокпите.",
+            "english": "Yesterday evening we were staying in the cockpit.",
+            "transcription": "[й**э**стэдэй **и**:вниŋ wи: wœ: ст**э**йиŋ ин ðэ к**о**кпит]"
+          },
+          {
+            "ours": "Ты оставался у штурвала, когда начался дождь?",
+            "thought": "Был ты остающимся у [известного] штурвала, когда он начал идти дождём?",
+            "english": "Were you staying at the helm when it started raining?",
+            "transcription": "[wœ: ю: ст**э**йиŋ æт ðэ хэлм wэн ит ст**а**:тид р**э**йниŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are staying",
+        "examples": [
+          {
+            "ours": "Мы сейчас остаёмся в кокпите.",
+            "thought": "Мы являемся остающимися в [известном] кокпите сейчас.",
+            "english": "We are staying in the cockpit now.",
+            "transcription": "[wи: а: ст**э**йиŋ ин ðэ к**о**кпит нау]"
+          },
+          {
+            "ours": "Шкипер сейчас остаётся у штурвала?",
+            "thought": "Является [известный] шкипер остающимся у [известного] штурвала сейчас?",
+            "english": "Is the skipper staying at the helm now?",
+            "transcription": "[из ðэ ск**и**пэ ст**э**йиŋ æт ðэ хэлм нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be staying",
+        "examples": [
+          {
+            "ours": "Завтра утром я буду оставаться в кокпите.",
+            "thought": "Завтра утром я буду быть остающимся в [известном] кокпите.",
+            "english": "Tomorrow morning I will be staying in the cockpit.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ай wил би: ст**э**йиŋ ин ðэ к**о**кпит]"
+          },
+          {
+            "ours": "Ты будешь оставаться у штурвала во время гонки?",
+            "thought": "Будешь ты быть остающимся у [известного] штурвала во время [известной] гонки?",
+            "english": "Will you be staying at the helm during the race?",
+            "transcription": "[wил ю: би: ст**э**йиŋ æт ðэ хэлм дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had stayed",
+        "examples": [
+          {
+            "ours": "К полудню я уже пооставался у штурвала.",
+            "thought": "К полудню я имел уже оставшимся у [известного] штурвала.",
+            "english": "By noon I had already stayed at the helm.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди стэйд æт ðэ хэлм]"
+          },
+          {
+            "ours": "Ты оставался в кокпите до отхода?",
+            "thought": "Имел ты оставшимся в [известном] кокпите до отхода?",
+            "english": "Had you stayed in the cockpit before departure?",
+            "transcription": "[хæд ю: стэйд ин ðэ к**о**кпит биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has stayed",
+        "examples": [
+          {
+            "ours": "Я уже оставался за штурвалом этой яхты.",
+            "thought": "Я имею уже оставшимся у [известного] штурвала от этой яхты.",
+            "english": "I have already stayed at the helm of this yacht.",
+            "transcription": "[ай хæв о:лр**э**ди стэйд æт ðэ хэлм ов ðис йот]"
+          },
+          {
+            "ours": "Ты когда-нибудь оставался в этом кокпите?",
+            "thought": "Имеешь ты когда-либо оставшимся в этом кокпите?",
+            "english": "Have you ever stayed in this cockpit?",
+            "transcription": "[хæв ю: **э**вэ стэйд ин ðис к**о**кпит]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have stayed",
+        "examples": [
+          {
+            "ours": "К полудню мы пробудем в кокпите час.",
+            "thought": "К полудню мы будем иметь оставшимся в [известном] кокпите целый [какой-то] час.",
+            "english": "By noon we will have stayed in the cockpit for an hour.",
+            "transcription": "[бай ну:н wи: wил хæв стэйд ин ðэ к**о**кпит фо: эн **а**уэ]"
+          },
+          {
+            "ours": "К пяти ты пробудешь на палубе два часа?",
+            "thought": "Будешь ты иметь оставшимся на палубе целых два часа к пяти?",
+            "english": "Will you have stayed on deck for two hours by five?",
+            "transcription": "[wил ю: хæв стэйд он дэк фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been staying",
+        "examples": [
+          {
+            "ours": "Мы час оставались в кокпите, когда начался дождь.",
+            "thought": "Мы имели быть остающимися в [известном] кокпите целый [какой-то] час, когда он начал идти дождём.",
+            "english": "We had been staying in the cockpit for an hour when it started raining.",
+            "transcription": "[wи: хæд би:н ст**э**йиŋ ин ðэ к**о**кпит фо: эн **а**уэ wэн ит ст**а**:тид р**э**йниŋ]"
+          },
+          {
+            "ours": "Ты оставался у штурвала два часа до рассвета?",
+            "thought": "Имел ты быть остающимся у [известного] штурвала целых два часа до рассвета?",
+            "english": "Had you been staying at the helm for two hours before dawn?",
+            "transcription": "[хæд ю: би:н ст**э**йиŋ æт ðэ хэлм фо: ту: **а**уэз биф**о**: до:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been staying",
+        "examples": [
+          {
+            "ours": "Мы остаёмся в кокпите уже час.",
+            "thought": "Мы имеем быть остающимися в [известном] кокпите целый [какой-то] час.",
+            "english": "We have been staying in the cockpit for an hour.",
+            "transcription": "[wи: хæв би:н ст**э**йиŋ ин ðэ к**о**кпит фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты остаёшься у штурвала уже два часа?",
+            "thought": "Имеешь ты быть остающимся у [известного] штурвала целых два часа?",
+            "english": "Have you been staying at the helm for two hours?",
+            "transcription": "[хæв ю: би:н ст**э**йиŋ æт ðэ хэлм фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been staying",
+        "examples": [
+          {
+            "ours": "К пяти мы будем оставаться в кокпите уже два часа.",
+            "thought": "К пяти мы будем иметь быть остающимися в [известном] кокпите целых два часа.",
+            "english": "By five we will have been staying in the cockpit for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н ст**э**йиŋ ин ðэ к**о**кпит фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь оставаться у штурвала уже час?",
+            "thought": "Будешь ты иметь быть остающимся у [известного] штурвала целый [какой-то] час к полудню?",
+            "english": "Will you have been staying at the helm for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н ст**э**йиŋ æт ðэ хэлм фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "В значении «оставаться» stay непереходный и не образует пассив. Скажут: The crew stayed on board."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она будет оставаться в кокпите.",
+        "thought": "Я знал, она будет оставаться в [известном] кокпите.",
+        "english": "I knew she would stay in the cockpit.",
+        "transcription": "[ай нью: ши: wуд стэй ин ðэ к**о**кпит]"
+      },
+      {
+        "ours": "Он думал, что мы не будем оставаться на палубе.",
+        "thought": "Он думал, мы будем не оставаться на палубе.",
+        "english": "He thought we would not stay on deck.",
+        "transcription": "[хи: θо:т wи: wуд нот стэй он дэк]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "cockpit",
+      "meaning": "кокпит",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "cockpit"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "helm",
+      "meaning": "штурвал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "helm"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "cushion",
+      "meaning": "подушка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "cushions"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "dawn"
+        }
+      ]
+    }
+  ]
+}

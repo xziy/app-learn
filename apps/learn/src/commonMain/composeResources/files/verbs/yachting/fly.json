@@ -1,0 +1,886 @@
+{
+  "spec": 4,
+  "verb": "fly",
+  "forms": {
+    "base": [
+      {
+        "word": "fly",
+        "transcription": "[флай]"
+      }
+    ],
+    "past": [
+      {
+        "word": "flew",
+        "transcription": "[флу:]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "flown",
+        "transcription": "[флоун]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "flying",
+        "transcription": "[фл**а**йиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "flies",
+        "transcription": "[флайз]"
+      }
+    ]
+  },
+  "meaning": "летать; нести, поднимать (флаг или парус)",
+  "notes": "неправильный переходный и непереходный глагол; fly a flag — нести флаг; fly a spinnaker — нести спинакер; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "flew",
+        "examples": [
+          {
+            "ours": "Вчера над нашей яхтой летала птица.",
+            "thought": "Вчера [какая-то] птица летела над нашей яхтой.",
+            "english": "Yesterday a bird flew over our yacht.",
+            "transcription": "[й**э**стэдэй э бœ:д флу: **о**увэ ауэ йот]"
+          },
+          {
+            "ours": "Ты управлял дроном над лодкой?",
+            "thought": "[Сделал] ты запускать [известный] дрон над [известной] лодкой?",
+            "english": "Did you fly the drone over the boat?",
+            "transcription": "[дид ю: флай ðэ дроун **о**увэ ðэ боут]"
+          },
+          {
+            "ours": "Вчера они не несли спинакер.",
+            "thought": "Вчера они [сделали] не нести [известный] спинакер.",
+            "english": "They did not fly the spinnaker yesterday.",
+            "transcription": "[ðэй дид нот флай ðэ сп**и**нэкэ й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "fly, flies",
+        "examples": [
+          {
+            "ours": "Эта яхта ходит под французским флагом.",
+            "thought": "Эта яхта несёт [какой-то] французский флаг.",
+            "english": "This yacht flies a French flag.",
+            "transcription": "[ðис йот флайз э фрэнч флæг]"
+          },
+          {
+            "ours": "Ты запускаешь дрон с палубы?",
+            "thought": "[Делаешь] ты запускать [известный] дрон с [известной] палубы?",
+            "english": "Do you fly the drone from the deck?",
+            "transcription": "[ду: ю: флай ðэ дроун фром ðэ дэк]"
+          },
+          {
+            "ours": "Мы не несём спинакер ночью.",
+            "thought": "Мы [делаем] не нести [известный] спинакер ночью.",
+            "english": "We do not fly the spinnaker at night.",
+            "transcription": "[wи: ду: нот флай ðэ сп**и**нэкэ æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will fly",
+        "examples": [
+          {
+            "ours": "Завтра мы пойдём под спинакером.",
+            "thought": "Завтра мы будем нести [известный] спинакер.",
+            "english": "Tomorrow we will fly the spinnaker.",
+            "transcription": "[тэм**о**роу wи: wил флай ðэ сп**и**нэкэ]"
+          },
+          {
+            "ours": "Ты запустишь дрон над бухтой?",
+            "thought": "Будешь ты запускать [известный] дрон над [известной] бухтой?",
+            "english": "Will you fly the drone over the bay?",
+            "transcription": "[wил ю: флай ðэ дроун **о**увэ ðэ бэй]"
+          },
+          {
+            "ours": "Сегодня они не понесут спинакер.",
+            "thought": "Сегодня они будут не нести [известный] спинакер.",
+            "english": "They will not fly the spinnaker today.",
+            "transcription": "[ðэй wил нот флай ðэ сп**и**нэкэ туд**э**й]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were flying",
+        "examples": [
+          {
+            "ours": "Над яхтой летали птицы, когда мы вышли из марины.",
+            "thought": "Чайки были летящими над [известной] яхтой, когда мы покинули [известную] марину.",
+            "english": "Birds were flying over the yacht when we left the marina.",
+            "transcription": "[бœ:дз wœ: фл**а**йиŋ **о**увэ ðэ йот wэн wи: лэфт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Ты управлял дроном, когда начался дождь?",
+            "thought": "Был ты управляющим [известным] дроном, когда [известный] дождь начался?",
+            "english": "Were you flying the drone when the rain started?",
+            "transcription": "[wœ: ю: фл**а**йиŋ ðэ дроун wэн ðэ рэйн ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are flying",
+        "examples": [
+          {
+            "ours": "Сейчас над лодкой летает птица.",
+            "thought": "[Какая-то] птица является летящей над [известной] лодкой сейчас.",
+            "english": "A bird is flying over the boat now.",
+            "transcription": "[э бœ:д из фл**а**йиŋ **о**увэ ðэ боут нау]"
+          },
+          {
+            "ours": "Они сейчас идут под спинакером?",
+            "thought": "Являются они несущими [известный] спинакер сейчас?",
+            "english": "Are they flying the spinnaker now?",
+            "transcription": "[а: ðэй фл**а**йиŋ ðэ сп**и**нэкэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be flying",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем идти под спинакером.",
+            "thought": "Завтра утром мы будем быть несущими [известный] спинакер.",
+            "english": "Tomorrow morning we will be flying the spinnaker.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: фл**а**йиŋ ðэ сп**и**нэкэ]"
+          },
+          {
+            "ours": "Ты будешь управлять дроном, когда мы придём?",
+            "thought": "Будешь ты быть управляющим [известным] дроном, когда мы прибудем?",
+            "english": "Will you be flying the drone when we arrive?",
+            "transcription": "[wил ю: би: фл**а**йиŋ ðэ дроун wэн wи: эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had flown",
+        "examples": [
+          {
+            "ours": "К полудню мы уже несли спинакер.",
+            "thought": "К полудню мы имели уже поднятым [известный] спинакер.",
+            "english": "By noon we had already flown the spinnaker.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди флоун ðэ сп**и**нэкэ]"
+          },
+          {
+            "ours": "Ты управлял дроном до дождя?",
+            "thought": "Имел ты запущенным [известный] дрон до [известного] дождя?",
+            "english": "Had you flown the drone before the rain?",
+            "transcription": "[хæд ю: флоун ðэ дроун биф**о**: ðэ рэйн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has flown",
+        "examples": [
+          {
+            "ours": "Мы уже ходили под спинакером.",
+            "thought": "Мы имеем уже поднятым [известный] спинакер.",
+            "english": "We have already flown the spinnaker.",
+            "transcription": "[wи: хæв о:лр**э**ди флоун ðэ сп**и**нэкэ]"
+          },
+          {
+            "ours": "Ты уже запускал дрон?",
+            "thought": "Имеешь ты запущенным [известный] дрон уже?",
+            "english": "Have you flown the drone yet?",
+            "transcription": "[хæв ю: флоун ðэ дроун йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have flown",
+        "examples": [
+          {
+            "ours": "К полудню мы уже пройдём под спинакером.",
+            "thought": "К полудню мы будем иметь поднятым [известный] спинакер.",
+            "english": "By noon we will have flown the spinnaker.",
+            "transcription": "[бай ну:н wи: wил хæв флоун ðэ сп**и**нэкэ]"
+          },
+          {
+            "ours": "К пяти ты уже запустишь дрон?",
+            "thought": "Будешь ты иметь запущенным [известный] дрон к пяти?",
+            "english": "Will you have flown the drone by five?",
+            "transcription": "[wил ю: хæв флоун ðэ дроун бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been flying",
+        "examples": [
+          {
+            "ours": "Мы шли под спинакером уже час, когда ветер стих.",
+            "thought": "Мы имели быть несущими [известный] спинакер целый [какой-то] час, когда [известный] ветер стих.",
+            "english": "We had been flying the spinnaker for an hour when the wind dropped.",
+            "transcription": "[wи: хæд би:н фл**а**йиŋ ðэ сп**и**нэкэ фо: эн **а**уэ wэн ðэ wинд дропт]"
+          },
+          {
+            "ours": "Ты час управлял дроном до дождя?",
+            "thought": "Имел ты быть управляющим [известным] дроном целый [какой-то] час до [известного] дождя?",
+            "english": "Had you been flying the drone for an hour before the rain?",
+            "transcription": "[хæд ю: би:н фл**а**йиŋ ðэ дроун фо: эн **а**уэ биф**о**: ðэ рэйн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been flying",
+        "examples": [
+          {
+            "ours": "Мы идём под спинакером уже час.",
+            "thought": "Мы имеем быть несущими [известный] спинакер целый [какой-то] час.",
+            "english": "We have been flying the spinnaker for an hour.",
+            "transcription": "[wи: хæв би:н фл**а**йиŋ ðэ сп**и**нэкэ фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты управляешь дроном с полудня?",
+            "thought": "Имеешь ты быть управляющим [известным] дроном с полудня?",
+            "english": "Have you been flying the drone since noon?",
+            "transcription": "[хæв ю: би:н фл**а**йиŋ ðэ дроун синс ну:н]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been flying",
+        "examples": [
+          {
+            "ours": "К пяти мы будем идти под спинакером уже два часа.",
+            "thought": "К пяти мы будем иметь быть несущими [известный] спинакер целых два часа.",
+            "english": "By five we will have been flying the spinnaker for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н фл**а**йиŋ ðэ сп**и**нэкэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь управлять дроном уже час?",
+            "thought": "Будешь ты иметь быть управляющим [известным] дроном целый [какой-то] час к полудню?",
+            "english": "Will you have been flying the drone for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н фл**а**йиŋ ðэ дроун фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were flown",
+        "examples": [
+          {
+            "ours": "Вчера яхта шла под этим флагом.",
+            "thought": "Этот флаг был поднят вчера.",
+            "english": "This flag was flown yesterday.",
+            "transcription": "[ðис флæг wоз флоун й**э**стэдэй]"
+          },
+          {
+            "ours": "Спинакер несли во время гонки?",
+            "thought": "Был [известный] спинакер поднят во время [известной] гонки?",
+            "english": "Was the spinnaker flown during the race?",
+            "transcription": "[wоз ðэ сп**и**нэкэ флоун дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are flown",
+        "examples": [
+          {
+            "ours": "Этот флаг поднимают в порту.",
+            "thought": "Этот флаг есть поднят в [известном] порту.",
+            "english": "This flag is flown in the port.",
+            "transcription": "[ðис флæг из флоун ин ðэ по:т]"
+          },
+          {
+            "ours": "Спинакер несут при слабом ветре?",
+            "thought": "Есть [известный] спинакер поднят при слабом ветре?",
+            "english": "Is the spinnaker flown in light wind?",
+            "transcription": "[из ðэ сп**и**нэкэ флоун ин лайт wинд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be flown",
+        "examples": [
+          {
+            "ours": "Завтра поднимут флаг.",
+            "thought": "[Известный] флаг будет быть поднят завтра.",
+            "english": "The flag will be flown tomorrow.",
+            "transcription": "[ðэ флæг wил би: флоун тэм**о**роу]"
+          },
+          {
+            "ours": "Во время гонки понесут спинакер?",
+            "thought": "Будет [известный] спинакер быть поднят во время [известной] гонки?",
+            "english": "Will the spinnaker be flown during the race?",
+            "transcription": "[wил ðэ сп**и**нэкэ би: флоун дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being flown",
+        "examples": [
+          {
+            "ours": "Когда ветер стих, яхта шла под спинакером.",
+            "thought": "[Известный] спинакер был «долго» поднят, когда [известный] ветер стих.",
+            "english": "The spinnaker was being flown when the wind dropped.",
+            "transcription": "[ðэ сп**и**нэкэ wоз б**и**:иŋ флоун wэн ðэ wинд дропт]"
+          },
+          {
+            "ours": "Когда начался дождь, дроном управляли с палубы?",
+            "thought": "Был [известный] дрон «долго» запущен с [известной] палубы, когда [известный] дождь начался?",
+            "english": "Was the drone being flown from the deck when the rain started?",
+            "transcription": "[wоз ðэ дроун б**и**:иŋ флоун фром ðэ дэк wэн ðэ рэйн ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being flown",
+        "examples": [
+          {
+            "ours": "Сейчас яхта идёт под спинакером.",
+            "thought": "[Известный] спинакер есть «долго» поднят сейчас.",
+            "english": "The spinnaker is being flown now.",
+            "transcription": "[ðэ сп**и**нэкэ из б**и**:иŋ флоун нау]"
+          },
+          {
+            "ours": "Сейчас дроном управляют с палубы?",
+            "thought": "Есть [известный] дрон «долго» запущен с [известной] палубы сейчас?",
+            "english": "Is the drone being flown from the deck now?",
+            "transcription": "[из ðэ дроун б**и**:иŋ флоун фром ðэ дэк нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be flying",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут идти под спинакером.",
+            "thought": "Завтра утром они будут быть несущими [известный] спинакер.",
+            "english": "Tomorrow morning they will be flying the spinnaker.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: фл**а**йиŋ ðэ сп**и**нэкэ]"
+          },
+          {
+            "ours": "Они будут управлять дроном, когда мы прибудем?",
+            "thought": "Будут они быть управляющими [известным] дроном, когда мы прибудем?",
+            "english": "Will they be flying the drone when we arrive?",
+            "transcription": "[wил ðэй би: фл**а**йиŋ ðэ дроун wэн wи: эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been flown",
+        "examples": [
+          {
+            "ours": "К полудню флаг уже подняли.",
+            "thought": "К полудню [известный] флаг имел уже быть поднят.",
+            "english": "By noon the flag had already been flown.",
+            "transcription": "[бай ну:н ðэ флæг хæд о:лр**э**ди би:н флоун]"
+          },
+          {
+            "ours": "Спинакер несли до дождя?",
+            "thought": "Имел [известный] спинакер быть поднят до [известного] дождя?",
+            "english": "Had the spinnaker been flown before the rain?",
+            "transcription": "[хæд ðэ сп**и**нэкэ би:н флоун биф**о**: ðэ рэйн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been flown",
+        "examples": [
+          {
+            "ours": "Флаг уже подняли.",
+            "thought": "[Известный] флаг имеет уже быть поднят.",
+            "english": "The flag has already been flown.",
+            "transcription": "[ðэ флæг хæз о:лр**э**ди би:н флоун]"
+          },
+          {
+            "ours": "Спинакер уже поднимали?",
+            "thought": "Имеет [известный] спинакер быть поднят уже?",
+            "english": "Has the spinnaker been flown yet?",
+            "transcription": "[хæз ðэ сп**и**нэкэ би:н флоун йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been flown",
+        "examples": [
+          {
+            "ours": "К полудню флаг поднимут.",
+            "thought": "К полудню [известный] флаг будет иметь быть поднят.",
+            "english": "By noon the flag will have been flown.",
+            "transcription": "[бай ну:н ðэ флæг wил хæв би:н флоун]"
+          },
+          {
+            "ours": "Спинакер поднимут к пяти?",
+            "thought": "Будет [известный] спинакер иметь быть поднят к пяти?",
+            "english": "Will the spinnaker have been flown by five?",
+            "transcription": "[wил ðэ сп**и**нэкэ хæв би:н флоун бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: The yacht has been flying the flag."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что мы пойдём под спинакером.",
+        "thought": "Я знал, мы будем нести [известный] спинакер.",
+        "english": "I knew we would fly the spinnaker.",
+        "transcription": "[ай нью: wи: wуд флай ðэ сп**и**нэкэ]"
+      },
+      {
+        "ours": "Она сказала, что дрон не полетит над лодкой.",
+        "thought": "Она сказала, [известный] дрон будет не летать над [известной] лодкой.",
+        "english": "She said the drone would not fly over the boat.",
+        "transcription": "[ши: сэд ðэ дроун wуд нот флай **о**увэ ðэ боут]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "bird",
+      "meaning": "птица",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "bird"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "Birds"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "bird"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "drone",
+      "meaning": "дрон",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "drone"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "drone"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "drone"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "drone"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "drone"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "drone"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "drone"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "drone"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "drone"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "drone"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "drone"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "drone"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "drone"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "drone"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "drone"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "spinnaker",
+      "meaning": "спинакер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "spinnaker"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "spinnaker"
+        }
+      ]
+    },
+    {
+      "word": "flag",
+      "meaning": "флаг",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "flag"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "flag"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "bay",
+      "meaning": "бухта",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "bay"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rain"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "rain"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "port",
+      "meaning": "порт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "port"
+        }
+      ]
+    }
+  ]
+}

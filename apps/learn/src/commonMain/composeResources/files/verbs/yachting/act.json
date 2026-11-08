@@ -1,0 +1,838 @@
+{
+  "spec": 4,
+  "verb": "act",
+  "forms": {
+    "base": [
+      {
+        "word": "act",
+        "transcription": "[æкт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "acted",
+        "transcription": "[**æ**ктид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "acted",
+        "transcription": "[**æ**ктид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "acting",
+        "transcription": "[**æ**ктиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "acts",
+        "transcription": "[æктс]"
+      }
+    ]
+  },
+  "meaning": "действовать, исполнять обязанности; действовать по (act on)",
+  "notes": "правильный непереходный глагол; act on допускает предложный пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "acted",
+        "examples": [
+          {
+            "ours": "Вчера капитан быстро отреагировал на предупреждение.",
+            "thought": "Вчера [известный] капитан действовал по [известному] предупреждению быстро.",
+            "english": "Yesterday the captain acted on the warning quickly.",
+            "transcription": "[й**э**стэдэй ðэ к**æ**птин **æ**ктид он ðэ w**о**:ниŋ кw**и**кли]"
+          },
+          {
+            "ours": "Он не последовал совету.",
+            "thought": "Он [сделал] не действовать по [известному] совету.",
+            "english": "He didn't act on the advice.",
+            "transcription": "[хи: диднт æкт он ðэ эдв**а**йс]"
+          },
+          {
+            "ours": "Экипаж отреагировал на сообщение до гонки?",
+            "thought": "[Сделал] [известный] экипаж действовать по [известному] сообщению перед [известной] гонкой?",
+            "english": "Did the crew act on the message before the race?",
+            "transcription": "[дид ðэ кру: æкт он ðэ м**э**сидж биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "act, acts",
+        "examples": [
+          {
+            "ours": "Капитан быстро реагирует на предупреждения.",
+            "thought": "[Известный] капитан действует по предупреждениям быстро.",
+            "english": "The captain acts on warnings quickly.",
+            "transcription": "[ðэ к**æ**птин æктс он w**о**:ниŋз кw**и**кли]"
+          },
+          {
+            "ours": "Он не выполняет указания.",
+            "thought": "Он [делает] не действовать по [известным] указаниям.",
+            "english": "He doesn't act on the instructions.",
+            "transcription": "[хи: дазнт æкт он ðэ инстр**а**кшнз]"
+          },
+          {
+            "ours": "Ты действуешь по совету капитана?",
+            "thought": "[Делаешь] ты действовать по [известному] совету?",
+            "english": "Do you act on the advice?",
+            "transcription": "[ду: ю: æкт он ðэ эдв**а**йс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will act",
+        "examples": [
+          {
+            "ours": "Завтра мы отреагируем на сообщение.",
+            "thought": "Завтра мы будем действовать по [известному] сообщению.",
+            "english": "Tomorrow we will act on the message.",
+            "transcription": "[тэм**о**роу wи: wил æкт он ðэ м**э**сидж]"
+          },
+          {
+            "ours": "Он не будет действовать по совету.",
+            "thought": "Он будет не действовать по [известному] совету.",
+            "english": "He won't act on the advice.",
+            "transcription": "[хи: wоунт æкт он ðэ эдв**а**йс]"
+          },
+          {
+            "ours": "Экипаж отреагирует на предупреждение до гонки?",
+            "thought": "Будет [известный] экипаж действовать по [известному] предупреждению перед [известной] гонкой?",
+            "english": "Will the crew act on the warning before the race?",
+            "transcription": "[wил ðэ кру: æкт он ðэ w**о**:ниŋ биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were acting",
+        "examples": [
+          {
+            "ours": "Вчера я весь день исполнял обязанности шкипера.",
+            "thought": "Вчера я был действующим как шкипер весь день.",
+            "english": "Yesterday I was acting as skipper all day.",
+            "transcription": "[й**э**стэдэй ай wоз **æ**ктиŋ æз ск**и**пэ о:л дэй]"
+          },
+          {
+            "ours": "Ты исполнял обязанности капитана, когда я пришёл?",
+            "thought": "Был ты действующим как капитан когда я пришёл?",
+            "english": "Were you acting as captain when I came?",
+            "transcription": "[wœ: ю: **æ**ктиŋ æз к**æ**птин wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are acting",
+        "examples": [
+          {
+            "ours": "Сейчас я исполняю обязанности шкипера.",
+            "thought": "Я являюсь действующим как шкипер сейчас.",
+            "english": "I am acting as skipper now.",
+            "transcription": "[ай æм **æ**ктиŋ æз ск**и**пэ нау]"
+          },
+          {
+            "ours": "Ты сейчас исполняешь обязанности капитана?",
+            "thought": "Являешься ты действующим как капитан сейчас?",
+            "english": "Are you acting as captain now?",
+            "transcription": "[а: ю: **æ**ктиŋ æз к**æ**птин нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be acting",
+        "examples": [
+          {
+            "ours": "Завтра я весь день буду исполнять обязанности шкипера.",
+            "thought": "Завтра я буду быть действующим как шкипер весь день.",
+            "english": "Tomorrow I will be acting as skipper all day.",
+            "transcription": "[тэм**о**роу ай wил би: **æ**ктиŋ æз ск**и**пэ о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь исполнять обязанности капитана во время гонки?",
+            "thought": "Будешь ты быть действующим как капитан во время [известной] гонки?",
+            "english": "Will you be acting as captain during the race?",
+            "transcription": "[wил ю: би: **æ**ктиŋ æз к**æ**птин дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had acted",
+        "examples": [
+          {
+            "ours": "Вчера к пяти капитан уже отреагировал на предупреждение.",
+            "thought": "К пяти вчера [известный] капитан имел уже подействовавшим по [известному] предупреждению.",
+            "english": "By five yesterday the captain had already acted on the warning.",
+            "transcription": "[бай файв й**э**стэдэй ðэ к**æ**птин хæд о:лр**э**ди **æ**ктид он ðэ w**о**:ниŋ]"
+          },
+          {
+            "ours": "Ты выполнил указания до выхода?",
+            "thought": "Имел ты подействовавшим по [известным] указаниям перед выходом?",
+            "english": "Had you acted on the instructions before departure?",
+            "transcription": "[хæд ю: **æ**ктид он ðэ инстр**а**кшнз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has acted",
+        "examples": [
+          {
+            "ours": "Мы уже отреагировали на сообщение.",
+            "thought": "Мы имеем уже подействовавшим по [известному] сообщению.",
+            "english": "We have already acted on the message.",
+            "transcription": "[wи: хæв о:лр**э**ди **æ**ктид он ðэ м**э**сидж]"
+          },
+          {
+            "ours": "Ты уже последовал совету?",
+            "thought": "Имеешь ты уже подействовавшим по [известному] совету?",
+            "english": "Have you already acted on the advice?",
+            "transcription": "[хæв ю: о:лр**э**ди **æ**ктид он ðэ эдв**а**йс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have acted",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже отреагируем на сообщение.",
+            "thought": "К пяти завтра мы будем иметь уже подействовавшим по [известному] сообщению.",
+            "english": "By five tomorrow we will have already acted on the message.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди **æ**ктид он ðэ м**э**сидж]"
+          },
+          {
+            "ours": "Ты выполнишь указания до выхода?",
+            "thought": "Будешь ты иметь подействовавшим по [известным] указаниям перед выходом?",
+            "english": "Will you have acted on the instructions before departure?",
+            "transcription": "[wил ю: хæв **æ**ктид он ðэ инстр**а**кшнз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been acting",
+        "examples": [
+          {
+            "ours": "Я уже два года исполнял обязанности шкипера, когда ты пришёл.",
+            "thought": "Я имел быть действующим как шкипер целых два года когда ты пришёл.",
+            "english": "I had been acting as skipper for two years when you came.",
+            "transcription": "[ай хæд би:н **æ**ктиŋ æз ск**и**пэ фо: ту: йиэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два года исполнял обязанности капитана, когда он пришёл?",
+            "thought": "Имел ты быть действующим как капитан целых два года когда он пришёл?",
+            "english": "Had you been acting as captain for two years when he came?",
+            "transcription": "[хæд ю: би:н **æ**ктиŋ æз к**æ**птин фо: ту: йиэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been acting",
+        "examples": [
+          {
+            "ours": "Я уже два года исполняю обязанности шкипера.",
+            "thought": "Я имею быть действующим как шкипер целых два года.",
+            "english": "I have been acting as skipper for two years.",
+            "transcription": "[ай хæв би:н **æ**ктиŋ æз ск**и**пэ фо: ту: йиэз]"
+          },
+          {
+            "ours": "Ты уже два года исполняешь обязанности капитана?",
+            "thought": "Имеешь ты быть действующим как капитан целых два года?",
+            "english": "Have you been acting as captain for two years?",
+            "transcription": "[хæв ю: би:н **æ**ктиŋ æз к**æ**птин фо: ту: йиэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been acting",
+        "examples": [
+          {
+            "ours": "К июню я буду исполнять обязанности шкипера уже два года.",
+            "thought": "К июню я буду иметь быть действующим как шкипер целых два года.",
+            "english": "By June I will have been acting as skipper for two years.",
+            "transcription": "[бай джу:н ай wил хæв би:н **æ**ктиŋ æз ск**и**пэ фо: ту: йиэз]"
+          },
+          {
+            "ours": "К июню ты будешь исполнять обязанности капитана уже два года?",
+            "thought": "Будешь ты иметь быть действующим как капитан целых два года к июню?",
+            "english": "Will you have been acting as captain for two years by June?",
+            "transcription": "[wил ю: хæв би:н **æ**ктиŋ æз к**æ**птин фо: ту: йиэз бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were acted on",
+        "examples": [
+          {
+            "ours": "Вчера на предупреждение отреагировали.",
+            "thought": "[Известное] предупреждение было подействовано по вчера.",
+            "english": "The warning was acted on yesterday.",
+            "transcription": "[ðэ w**о**:ниŋ wоз **æ**ктид он й**э**стэдэй]"
+          },
+          {
+            "ours": "Указания выполнили до выхода?",
+            "thought": "Были [известные] указания подействованы по перед выходом?",
+            "english": "Were the instructions acted on before departure?",
+            "transcription": "[wœ: ðэ инстр**а**кшнз **æ**ктид он биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are acted on",
+        "examples": [
+          {
+            "ours": "На предупреждения реагируют быстро.",
+            "thought": "Предупреждения есть подействованы по быстро.",
+            "english": "Warnings are acted on quickly.",
+            "transcription": "[w**о**:ниŋз а: **æ**ктид он кw**и**кли]"
+          },
+          {
+            "ours": "Указания выполняют на борту?",
+            "thought": "Есть [известные] указания подействованы по на борту?",
+            "english": "Are the instructions acted on on board?",
+            "transcription": "[а: ðэ инстр**а**кшнз **æ**ктид он он бо:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be acted on",
+        "examples": [
+          {
+            "ours": "Завтра на предупреждение отреагируют.",
+            "thought": "[Известное] предупреждение будет быть подействовано по завтра.",
+            "english": "The warning will be acted on tomorrow.",
+            "transcription": "[ðэ w**о**:ниŋ wил би: **æ**ктид он тэм**о**роу]"
+          },
+          {
+            "ours": "Указания выполнят до выхода?",
+            "thought": "Будут [известные] указания быть подействованы по перед выходом?",
+            "english": "Will the instructions be acted on before departure?",
+            "transcription": "[wил ðэ инстр**а**кшнз би: **æ**ктид он биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being acted on",
+        "examples": [
+          {
+            "ours": "Вчера в течение всего дня выполнялись указания.",
+            "thought": "Вчера [известные] указания были «долго» подействованы по весь день.",
+            "english": "Yesterday the instructions were being acted on all day.",
+            "transcription": "[й**э**стэдэй ðэ инстр**а**кшнз wœ: б**и**:иŋ **æ**ктид он о:л дэй]"
+          },
+          {
+            "ours": "На предупреждение реагировали, когда ты пришёл?",
+            "thought": "Было [известное] предупреждение «долго» подействовано по когда ты пришёл?",
+            "english": "Was the warning being acted on when you came?",
+            "transcription": "[wоз ðэ w**о**:ниŋ б**и**:иŋ **æ**ктид он wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being acted on",
+        "examples": [
+          {
+            "ours": "Сейчас на предупреждение реагируют.",
+            "thought": "[Известное] предупреждение есть «долго» подействовано по сейчас.",
+            "english": "The warning is being acted on now.",
+            "transcription": "[ðэ w**о**:ниŋ из б**и**:иŋ **æ**ктид он нау]"
+          },
+          {
+            "ours": "Сейчас указания выполняют?",
+            "thought": "Есть [известные] указания «долго» подействованы по сейчас?",
+            "english": "Are the instructions being acted on now?",
+            "transcription": "[а: ðэ инстр**а**кшнз б**и**:иŋ **æ**ктид он нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be acting on",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут выполнять указания.",
+            "thought": "Завтра они будут быть действующими по [известным] указаниям весь день.",
+            "english": "Tomorrow they will be acting on the instructions all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: **æ**ктиŋ он ðэ инстр**а**кшнз о:л дэй]"
+          },
+          {
+            "ours": "Они будут реагировать на предупреждение до выхода?",
+            "thought": "Будут они быть действующими по [известному] предупреждению перед выходом?",
+            "english": "Will they be acting on the warning before departure?",
+            "transcription": "[wил ðэй би: **æ**ктиŋ он ðэ w**о**:ниŋ биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been acted on",
+        "examples": [
+          {
+            "ours": "Вчера к пяти на предупреждение уже отреагировали.",
+            "thought": "К пяти вчера [известное] предупреждение имело уже быть подействовано по.",
+            "english": "By five yesterday the warning had already been acted on.",
+            "transcription": "[бай файв й**э**стэдэй ðэ w**о**:ниŋ хæд о:лр**э**ди би:н **æ**ктид он]"
+          },
+          {
+            "ours": "Указания выполнили до выхода?",
+            "thought": "Имели [известные] указания быть подействованы по перед выходом?",
+            "english": "Had the instructions been acted on before departure?",
+            "transcription": "[хæд ðэ инстр**а**кшнз би:н **æ**ктид он биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been acted on",
+        "examples": [
+          {
+            "ours": "На предупреждение уже отреагировали.",
+            "thought": "[Известное] предупреждение имеет уже быть подействовано по.",
+            "english": "The warning has already been acted on.",
+            "transcription": "[ðэ w**о**:ниŋ хæз о:лр**э**ди би:н **æ**ктид он]"
+          },
+          {
+            "ours": "Указания уже выполнили?",
+            "thought": "Имеют [известные] указания уже быть подействованы по?",
+            "english": "Have the instructions already been acted on?",
+            "transcription": "[хæв ðэ инстр**а**кшнз о:лр**э**ди би:н **æ**ктид он]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been acted on",
+        "examples": [
+          {
+            "ours": "К пяти завтра на предупреждение уже отреагируют.",
+            "thought": "К пяти завтра [известное] предупреждение будет уже иметь быть подействовано по.",
+            "english": "By five tomorrow the warning will already have been acted on.",
+            "transcription": "[бай файв тэм**о**роу ðэ w**о**:ниŋ wил о:лр**э**ди хæв би:н **æ**ктид он]"
+          },
+          {
+            "ours": "Указания выполнят до выхода?",
+            "thought": "Будут [известные] указания иметь быть подействованы по перед выходом?",
+            "english": "Will the instructions have been acted on before departure?",
+            "transcription": "[wил ðэ инстр**а**кшнз хæв би:н **æ**ктид он биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The warning has been acted on. Или: They have been acting on the instructions."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они отреагируют на предупреждение.",
+        "thought": "[Известный] капитан сказал что они будут действовать по [известному] предупреждению.",
+        "english": "The captain said that they would act on the warning.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд æкт он ðэ w**о**:ниŋ]"
+      },
+      {
+        "ours": "Я знал, что ты не последуешь совету.",
+        "thought": "Я знал что ты будешь не действовать по [известному] совету.",
+        "english": "I knew that you wouldn't act on the advice.",
+        "transcription": "[ай нью: ðæт ю: wуднт æкт он ðэ эдв**а**йс]"
+      },
+      {
+        "ours": "Капитан сказал, что мы будем исполнять его обязанности.",
+        "thought": "[Известный] капитан сказал что мы будем действовать как шкипер.",
+        "english": "The captain said that we would act as skipper.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд æкт æз ск**и**пэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "warning",
+      "meaning": "предупреждение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "warning"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "warnings"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "warning"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "warning"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "warning"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Warnings"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "warning"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "warning"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "warning"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "warning"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "warning"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "warning"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "warning"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "warning"
+        }
+      ]
+    },
+    {
+      "word": "advice",
+      "meaning": "совет",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "advice"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "advice"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "advice"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "advice"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "advice"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "message",
+      "meaning": "сообщение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "message"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "message"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "message"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "message"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "instruction",
+      "meaning": "указание",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "instructions"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "instructions"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "instructions"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "выход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    }
+  ]
+}

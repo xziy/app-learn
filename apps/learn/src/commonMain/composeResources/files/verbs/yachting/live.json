@@ -1,0 +1,587 @@
+{
+  "spec": 4,
+  "verb": "live",
+  "forms": {
+    "base": [
+      {
+        "word": "live",
+        "transcription": "[лив]"
+      }
+    ],
+    "past": [
+      {
+        "word": "lived",
+        "transcription": "[ливд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "lived",
+        "transcription": "[ливд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "living",
+        "transcription": "[л**и**виŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "lives",
+        "transcription": "[ливз]"
+      }
+    ]
+  },
+  "meaning": "жить, проживать",
+  "notes": "правильный непереходный глагол в значении проживания; пассив не образуется",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "lived",
+        "examples": [
+          {
+            "ours": "Прошлым летом мы жили на яхте.",
+            "thought": "Прошлым летом мы жили на [известной] яхте.",
+            "english": "Last summer we lived on the yacht.",
+            "transcription": "[ла:ст с**а**мэ wи: ливд он ðэ йот]"
+          },
+          {
+            "ours": "Он не жил на борту во время гонки.",
+            "thought": "Он [сделал] не жить на борту во время [известной] гонки.",
+            "english": "He didn't live on board during the race.",
+            "transcription": "[хи: диднт лив он бо:д дь**ю**эриŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Ты жил в марине прошлой зимой?",
+            "thought": "[Сделал] ты жить в [известной] марине прошлой зимой?",
+            "english": "Did you live in the marina last winter?",
+            "transcription": "[дид ю: лив ин ðэ мэр**и**:нэ ла:ст w**и**нтэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "live, lives",
+        "examples": [
+          {
+            "ours": "Капитан живёт на борту яхты.",
+            "thought": "[Известный] капитан живёт на борту [известной] яхты.",
+            "english": "The captain lives on board the yacht.",
+            "transcription": "[ðэ к**æ**птин ливз он бо:д ðэ йот]"
+          },
+          {
+            "ours": "Он не живёт на берегу.",
+            "thought": "Он [делает] не жить на берегу.",
+            "english": "He doesn't live ashore.",
+            "transcription": "[хи: дазнт лив эш**о**:]"
+          },
+          {
+            "ours": "Ты живёшь на лодке?",
+            "thought": "[Делаешь] ты жить на [известной] лодке?",
+            "english": "Do you live on the boat?",
+            "transcription": "[ду: ю: лив он ðэ боут]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will live",
+        "examples": [
+          {
+            "ours": "Следующим летом мы будем жить на борту.",
+            "thought": "Следующее лето мы будем жить на борту.",
+            "english": "Next summer we will live on board.",
+            "transcription": "[нэкст с**а**мэ wи: wил лив он бо:д]"
+          },
+          {
+            "ours": "Он не будет жить в марине.",
+            "thought": "Он будет не жить в [известной] марине.",
+            "english": "He won't live in the marina.",
+            "transcription": "[хи: wоунт лив ин ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Ты будешь жить на яхте во время регаты?",
+            "thought": "Будешь ты жить на [известной] яхте во время [известной] регаты?",
+            "english": "Will you live on the yacht during the regatta?",
+            "transcription": "[wил ю: лив он ðэ йот дь**ю**эриŋ ðэ риг**æ**тэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were living",
+        "examples": [
+          {
+            "ours": "Прошлым летом мы жили на яхте.",
+            "thought": "Прошлым летом мы были живущими на [известной] яхте.",
+            "english": "Last summer we were living on the yacht.",
+            "transcription": "[ла:ст с**а**мэ wи: wœ: л**и**виŋ он ðэ йот]"
+          },
+          {
+            "ours": "Ты жил на борту, когда я пришёл?",
+            "thought": "Был ты живущим на борту когда я пришёл?",
+            "english": "Were you living on board when I came?",
+            "transcription": "[wœ: ю: л**и**виŋ он бо:д wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are living",
+        "examples": [
+          {
+            "ours": "Сейчас мы живём на борту.",
+            "thought": "Мы являемся живущими на борту сейчас.",
+            "english": "We are living on board now.",
+            "transcription": "[wи: а: л**и**виŋ он бо:д нау]"
+          },
+          {
+            "ours": "Ты сейчас живёшь на яхте?",
+            "thought": "Являешься ты живущим на [известной] яхте сейчас?",
+            "english": "Are you living on the yacht now?",
+            "transcription": "[а: ю: л**и**виŋ он ðэ йот нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be living",
+        "examples": [
+          {
+            "ours": "Следующим летом мы будем жить на яхте.",
+            "thought": "Следующее лето мы будем быть живущими на [известной] яхте.",
+            "english": "Next summer we will be living on the yacht.",
+            "transcription": "[нэкст с**а**мэ wи: wил би: л**и**виŋ он ðэ йот]"
+          },
+          {
+            "ours": "Ты будешь жить на борту во время регаты?",
+            "thought": "Будешь ты быть живущим на борту во время [известной] регаты?",
+            "english": "Will you be living on board during the regatta?",
+            "transcription": "[wил ю: би: л**и**виŋ он бо:д дь**ю**эриŋ ðэ риг**æ**тэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had lived",
+        "examples": [
+          {
+            "ours": "До регаты мы жили на борту два года.",
+            "thought": "Перед [известной] регатой мы имели прожитым на борту целых два года.",
+            "english": "Before the regatta we had lived on board for two years.",
+            "transcription": "[биф**о**: ðэ риг**æ**тэ wи: хæд ливд он бо:д фо: ту: йиэз]"
+          },
+          {
+            "ours": "Ты жил на яхте до того, как купил лодку?",
+            "thought": "Имел ты прожитым на [известной] яхте перед тем как ты купил [известную] лодку?",
+            "english": "Had you lived on the yacht before you bought the boat?",
+            "transcription": "[хæд ю: ливд он ðэ йот биф**о**: ю: бо:т ðэ боут]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has lived",
+        "examples": [
+          {
+            "ours": "Мы живём на борту уже два года.",
+            "thought": "Мы имеем прожитым на борту целых два года.",
+            "english": "We have lived on board for two years.",
+            "transcription": "[wи: хæв ливд он бо:д фо: ту: йиэз]"
+          },
+          {
+            "ours": "Ты жил в этой марине?",
+            "thought": "Имеешь ты прожитым в этой марине?",
+            "english": "Have you lived in this marina?",
+            "transcription": "[хæв ю: ливд ин ðис мэр**и**:нэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have lived",
+        "examples": [
+          {
+            "ours": "К июню мы будем жить на борту уже два года.",
+            "thought": "К июню мы будем иметь прожитым на борту целых два года.",
+            "english": "By June we will have lived on board for two years.",
+            "transcription": "[бай джу:н wи: wил хæв ливд он бо:д фо: ту: йиэз]"
+          },
+          {
+            "ours": "К июню ты будешь жить на яхте уже два года?",
+            "thought": "Будешь ты иметь прожитым на [известной] яхте целых два года к июню?",
+            "english": "Will you have lived on the yacht for two years by June?",
+            "transcription": "[wил ю: хæв ливд он ðэ йот фо: ту: йиэз бай джу:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been living",
+        "examples": [
+          {
+            "ours": "Мы жили на борту уже два года, когда ты пришёл.",
+            "thought": "Мы имели быть живущими на борту целых два года когда ты пришёл.",
+            "english": "We had been living on board for two years when you came.",
+            "transcription": "[wи: хæд би:н л**и**виŋ он бо:д фо: ту: йиэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты жил на яхте уже два года, когда он приехал?",
+            "thought": "Имел ты быть живущим на [известной] яхте целых два года когда он прибыл?",
+            "english": "Had you been living on the yacht for two years when he arrived?",
+            "transcription": "[хæд ю: би:н л**и**виŋ он ðэ йот фо: ту: йиэз wэн хи: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been living",
+        "examples": [
+          {
+            "ours": "Мы живём на борту уже два года.",
+            "thought": "Мы имеем быть живущими на борту целых два года.",
+            "english": "We have been living on board for two years.",
+            "transcription": "[wи: хæв би:н л**и**виŋ он бо:д фо: ту: йиэз]"
+          },
+          {
+            "ours": "Ты живёшь на яхте уже два года?",
+            "thought": "Имеешь ты быть живущим на [известной] яхте целых два года?",
+            "english": "Have you been living on the yacht for two years?",
+            "transcription": "[хæв ю: би:н л**и**виŋ он ðэ йот фо: ту: йиэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been living",
+        "examples": [
+          {
+            "ours": "К июню мы будем жить на борту уже два года.",
+            "thought": "К июню мы будем иметь быть живущими на борту целых два года.",
+            "english": "By June we will have been living on board for two years.",
+            "transcription": "[бай джу:н wи: wил хæв би:н л**и**виŋ он бо:д фо: ту: йиэз]"
+          },
+          {
+            "ours": "К июню ты будешь жить на яхте уже два года?",
+            "thought": "Будешь ты иметь быть живущим на [известной] яхте целых два года к июню?",
+            "english": "Will you have been living on the yacht for two years by June?",
+            "transcription": "[wил ю: хæв би:н л**и**виŋ он ðэ йот фо: ту: йиэз бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "В значении «проживать» live — непереходный глагол и пассив не образует. Скажут: We live on board."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они будут жить на борту.",
+        "thought": "[Известный] капитан сказал что они будут жить на борту.",
+        "english": "The captain said that they would live on board.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд лив он бо:д]"
+      },
+      {
+        "ours": "Я знал, что ты не будешь жить на берегу.",
+        "thought": "Я знал что ты будешь не жить на берегу.",
+        "english": "I knew that you wouldn't live ashore.",
+        "transcription": "[ай нью: ðæт ю: wуднт лив эш**о**:]"
+      },
+      {
+        "ours": "Капитан сказал, что мы будем жить на яхте.",
+        "thought": "[Известный] капитан сказал что мы будем жить на [известной] яхте.",
+        "english": "The captain said that we would live on the yacht.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд лив он ðэ йот]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "summer",
+      "meaning": "лето",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "summer"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "summer"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "summer"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "summer"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "board"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "board"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "board"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "board"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "board"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "winter",
+      "meaning": "зима",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "winter"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    }
+  ]
+}

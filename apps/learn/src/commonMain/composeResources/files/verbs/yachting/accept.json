@@ -1,0 +1,1401 @@
+{
+  "spec": 4,
+  "verb": "accept",
+  "forms": {
+    "base": [
+      {
+        "word": "accept",
+        "transcription": "[экс**э**пт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "accepted",
+        "transcription": "[экс**э**птид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "accepted",
+        "transcription": "[экс**э**птид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "accepting",
+        "transcription": "[экс**э**птиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "accepts",
+        "transcription": "[экс**э**птс]"
+      }
+    ]
+  },
+  "meaning": "принимать, соглашаться",
+  "notes": "правильный глагол, бывает с объектом, есть пассив; в типах 2 и 4 обычно значит «принимать, брать» (заявки, оплату, взятки), а значение «смириться» в них редко",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "accepted",
+        "examples": [
+          {
+            "ours": "Вчера моя команда приняла его план.",
+            "thought": "Вчера моя команда приняла его план.",
+            "english": "Yesterday my crew accepted his plan.",
+            "transcription": "[й**э**стэдэй май кру: экс**э**птид хиз плæн]"
+          },
+          {
+            "ours": "Он не принял деньги за причал.",
+            "thought": "Он [сделал] не принимать [известную] плату.",
+            "english": "He did not accept the fee.",
+            "transcription": "[хи: дид нот экс**э**пт ðэ фи:]"
+          },
+          {
+            "ours": "Они приняли твою заявку?",
+            "thought": "[Сделали] они принимать твою заявку?",
+            "english": "Did they accept your entry?",
+            "transcription": "[дид ðэй экс**э**пт йо: **э**нтри]"
+          }
+        ]
+      },
+      "present": {
+        "form": "accept, accepts",
+        "examples": [
+          {
+            "ours": "Мы принимаем заявки на регату.",
+            "thought": "Мы принимаем заявки.",
+            "english": "We accept entries.",
+            "transcription": "[wи: экс**э**пт **э**нтриз]"
+          },
+          {
+            "ours": "Наш капитан не принимает оправдания.",
+            "thought": "Наш капитан [делает] не принимать оправдания.",
+            "english": "Our skipper does not accept excuses.",
+            "transcription": "[ауэ ск**и**пэ даз нот экс**э**пт икскь**ю**:сиз]"
+          },
+          {
+            "ours": "Эта марина принимает яхты?",
+            "thought": "[Делает] эта марина принимать яхты?",
+            "english": "Does this marina accept yachts?",
+            "transcription": "[даз ðис мэр**и**:нэ экс**э**пт йотс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will accept",
+        "examples": [
+          {
+            "ours": "Завтра капитан примет награду.",
+            "thought": "Завтра [известный] капитан будет принимать [известную] награду.",
+            "english": "Tomorrow the skipper will accept the award.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил экс**э**пт ðи эw**о**:д]"
+          },
+          {
+            "ours": "Она не примет его помощь на борту.",
+            "thought": "Она будет не принимать его помощь на борту.",
+            "english": "She will not accept his help on board.",
+            "transcription": "[ши: wил нот экс**э**пт хиз хэлп он бо:д]"
+          },
+          {
+            "ours": "Марина примет этот документ?",
+            "thought": "Будет [известная] марина принимать этот документ?",
+            "english": "Will the marina accept this document?",
+            "transcription": "[wил ðэ мэр**и**:нэ экс**э**пт ðис д**о**кюмэнт]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were accepting",
+        "examples": [
+          {
+            "ours": "Всю прошлую неделю клуб принимал заявки.",
+            "thought": "Всю прошлую неделю [известный] клуб был принимающим заявки.",
+            "english": "All last week the club was accepting entries.",
+            "transcription": "[о:л ла:ст wи:к ðэ клаб wоз экс**э**птиŋ **э**нтриз]"
+          },
+          {
+            "ours": "В прошлом году марина не принимала новые яхты.",
+            "thought": "Прошлый год [известная] марина была не принимающей новые яхты.",
+            "english": "Last year the marina was not accepting new yachts.",
+            "transcription": "[ла:ст йиэ ðэ мэр**и**:нэ wоз нот экс**э**птиŋ нью: йотс]"
+          },
+          {
+            "ours": "Они принимали наличные, когда ты пришёл в марину?",
+            "thought": "Были они принимающими наличные, когда ты добрался туда?",
+            "english": "Were they accepting cash when you got there?",
+            "transcription": "[wœ: ðэй экс**э**птиŋ кæш wэн ю: гот ðээ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are accepting",
+        "examples": [
+          {
+            "ours": "Марина сейчас принимает бронирования.",
+            "thought": "[Известная] марина является сейчас принимающей бронирования.",
+            "english": "The marina is now accepting bookings.",
+            "transcription": "[ðэ мэр**и**:нэ из нау экс**э**птиŋ б**у**киŋз]"
+          },
+          {
+            "ours": "В этом месяце я не беру новых учеников по парусному спорту.",
+            "thought": "Я являюсь не принимающим новых учеников этот месяц.",
+            "english": "I am not accepting new students this month.",
+            "transcription": "[ай æм нот экс**э**птиŋ нью: сть**ю**:дэнтс ðис манθ]"
+          },
+          {
+            "ours": "Вы сейчас принимаете заявки на регату?",
+            "thought": "Являетесь вы принимающими заявки сейчас?",
+            "english": "Are you accepting entries now?",
+            "transcription": "[а: ю: экс**э**птиŋ **э**нтриз нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be accepting",
+        "examples": [
+          {
+            "ours": "С понедельника мы будем принимать оплату онлайн.",
+            "thought": "С понедельника мы будем быть принимающими платежи онлайн.",
+            "english": "From Monday we will be accepting payments online.",
+            "transcription": "[фром м**а**ндэй wи: wил би: экс**э**птиŋ п**э**ймэнтс онл**а**йн]"
+          },
+          {
+            "ours": "В следующем месяце клуб не будет принимать новых членов.",
+            "thought": "Следующий месяц [известный] клуб будет не быть принимающим новых членов.",
+            "english": "Next month the club will not be accepting new members.",
+            "transcription": "[нэкст манθ ðэ клаб wил нот би: экс**э**птиŋ нью: м**э**мбэз]"
+          },
+          {
+            "ours": "Завтра марина весь день будет принимать яхты?",
+            "thought": "Будет [известная] марина быть принимающей яхты весь день завтра?",
+            "english": "Will the marina be accepting yachts all day tomorrow?",
+            "transcription": "[wил ðэ мэр**и**:нэ би: экс**э**птиŋ йотс о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had accepted",
+        "examples": [
+          {
+            "ours": "К пятнице он уже принял другое предложение о вахте.",
+            "thought": "К пятнице он имел уже принятым другое предложение.",
+            "english": "By Friday he had already accepted another offer.",
+            "transcription": "[бай фр**а**йдэй хи: хæд о:лр**э**ди экс**э**птид эн**а**ðэ **о**фэ]"
+          },
+          {
+            "ours": "Когда мы позвонили, они ещё не приняли наши условия аренды.",
+            "thought": "Когда мы позвонили, они имели не принятыми наши условия.",
+            "english": "When we called, they had not accepted our terms.",
+            "transcription": "[wэн wи: ко:лд ðэй хæд нот экс**э**птид ауэ тœ:мз]"
+          },
+          {
+            "ours": "К тому времени капитан признал вину?",
+            "thought": "Имел твой капитан принятой [известную] вину к тогда?",
+            "english": "Had your skipper accepted the blame by then?",
+            "transcription": "[хæд йо: ск**и**пэ экс**э**птид ðэ блэйм бай ðэн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has accepted",
+        "examples": [
+          {
+            "ours": "Капитан уже принял мой план маршрута.",
+            "thought": "[Известный] капитан имеет уже принятым мой план.",
+            "english": "The skipper has already accepted my plan.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди экс**э**птид май плæн]"
+          },
+          {
+            "ours": "Она ещё не приняла прогноз.",
+            "thought": "Она имеет не принятым [известный] прогноз ещё.",
+            "english": "She has not accepted the forecast yet.",
+            "transcription": "[ши: хæз нот экс**э**птид ðэ ф**о**:ка:ст йэт]"
+          },
+          {
+            "ours": "Клуб уже принял твою заявку?",
+            "thought": "Имеет [известный] клуб принятой твою заявку уже?",
+            "english": "Has the club accepted your entry yet?",
+            "transcription": "[хæз ðэ клаб экс**э**птид йо: **э**нтри йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have accepted",
+        "examples": [
+          {
+            "ours": "К весне комитет примет этот план регаты.",
+            "thought": "К весне [известный] комитет будет иметь принятым этот план.",
+            "english": "By spring the committee will have accepted this plan.",
+            "transcription": "[бай сприŋ ðэ кэм**и**ти wил хæв экс**э**птид ðис плæн]"
+          },
+          {
+            "ours": "К понедельнику капитан примет изменения?",
+            "thought": "Будет [известный] капитан иметь принятыми [известные] изменения к понедельнику?",
+            "english": "Will the skipper have accepted the changes by Monday?",
+            "transcription": "[wил ðэ ск**и**пэ хæв экс**э**птид ðэ ч**э**йнджиз бай м**а**ндэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been accepting",
+        "examples": [
+          {
+            "ours": "Марина принимала яхты пять лет, когда её закрыли.",
+            "thought": "[Известная] марина имела быть принимающей яхты целых пять лет, когда они закрыли её.",
+            "english": "The marina had been accepting yachts for five years when they closed it.",
+            "transcription": "[ðэ мэр**и**:нэ хæд би:н экс**э**птиŋ йотс фо: файв йиэз wэн ðэй клоузд ит]"
+          },
+          {
+            "ours": "Клуб уже несколько месяцев принимал эти заявки, когда изменились правила?",
+            "thought": "Имел [известный] клуб быть принимающим эти заявки целые месяцы, когда [известные] правила изменились?",
+            "english": "Had the club been accepting these entries for months when the rules changed?",
+            "transcription": "[хæд ðэ клаб би:н экс**э**птиŋ ðи:з **э**нтриз фо: манθс wэн ðэ ру:лз чэйнджд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been accepting",
+        "examples": [
+          {
+            "ours": "Наша марина принимает яхты уже три года.",
+            "thought": "Наша марина имеет быть принимающей яхты целых три года.",
+            "english": "Our marina has been accepting yachts for three years.",
+            "transcription": "[ауэ мэр**и**:нэ хæз би:н экс**э**птиŋ йотс фо: θри: йиэз]"
+          },
+          {
+            "ours": "Ты уже год принимаешь заявки от этого клуба?",
+            "thought": "Имеешь ты быть принимающим заявки от этого клуба целый [какой-то] год?",
+            "english": "Have you been accepting entries from this club for a year?",
+            "transcription": "[хæв ю: би:н экс**э**птиŋ **э**нтриз фром ðис клаб фо: э йиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been accepting",
+        "examples": [
+          {
+            "ours": "К июню наш клуб будет принимать юных моряков уже десять лет.",
+            "thought": "К июню наш клуб будет иметь быть принимающим юных моряков целых десять лет.",
+            "english": "By June our club will have been accepting young sailors for ten years.",
+            "transcription": "[бай джу:н ауэ клаб wил хæв би:н экс**э**птиŋ йаŋ с**э**йлэз фо: тэн йиэз]"
+          },
+          {
+            "ours": "К декабрю марина будет принимать яхты уже год?",
+            "thought": "Будет [известная] марина иметь быть принимающей яхты целый [какой-то] год к декабрю?",
+            "english": "Will the marina have been accepting yachts for a year by December?",
+            "transcription": "[wил ðэ мэр**и**:нэ хæв би:н экс**э**птиŋ йотс фо: э йиэ бай дис**э**мбэ]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were accepted",
+        "examples": [
+          {
+            "ours": "Мою дочь в прошлом году приняли в яхт-клуб.",
+            "thought": "Моя дочь была принята в [известный] клуб прошлый год.",
+            "english": "My daughter was accepted into the club last year.",
+            "transcription": "[май д**о**:тэ wоз экс**э**птид **и**нту ðэ клаб ла:ст йиэ]"
+          },
+          {
+            "ours": "Его заявку не приняли на регату.",
+            "thought": "Его заявка была не принята для [известной] регаты.",
+            "english": "His entry was not accepted for the regatta.",
+            "transcription": "[хиз **э**нтри wоз нот экс**э**птид фо: ðэ риг**æ**тэ]"
+          },
+          {
+            "ours": "Твой план приняли на собрании команды?",
+            "thought": "Был твой план принят на [известном] собрании?",
+            "english": "Was your plan accepted at the meeting?",
+            "transcription": "[wоз йо: плæн экс**э**птид æт ðэ м**и**:тиŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are accepted",
+        "examples": [
+          {
+            "ours": "Заявки на регату принимают в течение тридцати дней.",
+            "thought": "Заявки есть приняты в пределах тридцати дней.",
+            "english": "Entries are accepted within thirty days.",
+            "transcription": "[**э**нтриз а: экс**э**птид wиð**и**н θ**œ**:ти дэйз]"
+          },
+          {
+            "ours": "В этой гонке поздние заявки не принимают.",
+            "thought": "Поздние заявки есть не приняты в этой гонке.",
+            "english": "Late entries are not accepted in this race.",
+            "transcription": "[лэйт **э**нтриз а: нот экс**э**птид ин ðис рэйс]"
+          },
+          {
+            "ours": "Этот сертификат признают за границей?",
+            "thought": "Есть этот сертификат принят за границей?",
+            "english": "Is this certificate accepted abroad?",
+            "transcription": "[из ðис сэт**и**фикэт экс**э**птид эбр**о**:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be accepted",
+        "examples": [
+          {
+            "ours": "Заявки на регату будут принимать до полуночи завтра.",
+            "thought": "Заявки будут быть приняты до полуночи завтра.",
+            "english": "Entries will be accepted until midnight tomorrow.",
+            "transcription": "[**э**нтриз wил би: экс**э**птид энт**и**л м**и**днайт тэм**о**роу]"
+          },
+          {
+            "ours": "Старые сертификаты не будут принимать после марта.",
+            "thought": "Старые сертификаты будут не быть приняты после марта.",
+            "english": "Old certificates will not be accepted after March.",
+            "transcription": "[оулд сэт**и**фикэтс wил нот би: экс**э**птид **а**:фтэ ма:ч]"
+          },
+          {
+            "ours": "Другие моряки примут нового члена экипажа?",
+            "thought": "Будет [известный] новый моряк быть принят от [известных] других моряков?",
+            "english": "Will the new sailor be accepted by the other sailors?",
+            "transcription": "[wил ðэ нью: с**э**йлэ би: экс**э**птид бай ðи **а**ðэ с**э**йлэз]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being accepted",
+        "examples": [
+          {
+            "ours": "Весь прошлый месяц в яхт-клуб принимали новых членов.",
+            "thought": "Новые члены были «долго» приняты в [известный] клуб весь прошлый месяц.",
+            "english": "New members were being accepted into the club all last month.",
+            "transcription": "[нью: м**э**мбэз wœ: б**и**:иŋ экс**э**птид **и**нту ðэ клаб о:л ла:ст манθ]"
+          },
+          {
+            "ours": "На прошлой неделе в той марине не принимали чеки.",
+            "thought": "Чеки были не «долго» приняты в той марине прошлую неделю.",
+            "english": "Cheques were not being accepted at that marina last week.",
+            "transcription": "[чэкс wœ: нот б**и**:иŋ экс**э**птид æт ðæт мэр**и**:нэ ла:ст wи:к]"
+          },
+          {
+            "ours": "Когда ты приехал, у входа на регату принимали билеты?",
+            "thought": "Были билеты «долго» приняты у [известных] ворот, когда ты прибыл?",
+            "english": "Were tickets being accepted at the gate when you arrived?",
+            "transcription": "[wœ: т**и**китс б**и**:иŋ экс**э**птид æт ðэ гэйт wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being accepted",
+        "examples": [
+          {
+            "ours": "Сейчас принимают заявки на регату.",
+            "thought": "Заявки есть «долго» приняты сейчас.",
+            "english": "Entries are being accepted now.",
+            "transcription": "[**э**нтриз а: б**и**:иŋ экс**э**птид нау]"
+          },
+          {
+            "ours": "Сейчас банковские переводы в марине не принимают.",
+            "thought": "Банковские переводы есть не «долго» приняты в [известный] момент.",
+            "english": "Bank transfers are not being accepted at the moment.",
+            "transcription": "[бæнк тр**æ**нсфœ:з а: нот б**и**:иŋ экс**э**птид æт ðэ м**о**умэнт]"
+          },
+          {
+            "ours": "Эти ваучеры сейчас принимают в марине?",
+            "thought": "Есть эти ваучеры «долго» приняты в [известной] марине сейчас?",
+            "english": "Are these vouchers being accepted at the marina now?",
+            "transcription": "[а: ðи:з в**а**учэз б**и**:иŋ экс**э**птид æт ðэ мэр**и**:нэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be accepting",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут принимать старые паруса.",
+            "thought": "Завтра они будут быть принимающими старые паруса весь день.",
+            "english": "Tomorrow they will be accepting old sails all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: экс**э**птиŋ оулд сэйлз о:л дэй]"
+          },
+          {
+            "ours": "Всю следующую неделю они не будут принимать поставки в марину.",
+            "thought": "Они будут не быть принимающими поставки всю следующую неделю.",
+            "english": "They will not be accepting deliveries all next week.",
+            "transcription": "[ðэй wил нот би: экс**э**птиŋ дил**и**вэриз о:л нэкст wи:к]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been accepted",
+        "examples": [
+          {
+            "ours": "К пяти вчера новый маршрут уже приняли.",
+            "thought": "К пяти вчера [известный] новый маршрут имел быть принят.",
+            "english": "By five yesterday the new route had been accepted.",
+            "transcription": "[бай файв й**э**стэдэй ðэ нью: ру:т хæд би:н экс**э**птид]"
+          },
+          {
+            "ours": "К полудню этот запрос на стоянку ещё не приняли.",
+            "thought": "К полудню этот запрос имел не быть принят.",
+            "english": "By noon this request had not been accepted.",
+            "transcription": "[бай ну:н ðис рикw**э**ст хæд нот би:н экс**э**птид]"
+          },
+          {
+            "ours": "Её предложение уже приняли, когда она уехала?",
+            "thought": "Имело её предложение уже быть принято, когда она уехала?",
+            "english": "Had her proposal already been accepted when she left?",
+            "transcription": "[хæд хœ: прэп**о**узл о:лр**э**ди би:н экс**э**птид wэн ши: лэфт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been accepted",
+        "examples": [
+          {
+            "ours": "Нашу заявку на регату уже приняли.",
+            "thought": "Наша заявка имеет уже быть принята.",
+            "english": "Our entry has already been accepted.",
+            "transcription": "[ауэ **э**нтри хæз о:лр**э**ди би:н экс**э**птид]"
+          },
+          {
+            "ours": "Этот план плавания ещё не приняли.",
+            "thought": "Этот план имеет не быть принят ещё.",
+            "english": "This plan has not been accepted yet.",
+            "transcription": "[ðис плæн хæз нот би:н экс**э**птид йэт]"
+          },
+          {
+            "ours": "Твоего двоюродного брата уже приняли в экипаж?",
+            "thought": "Имеет твой кузен быть принят в [известный] экипаж уже?",
+            "english": "Has your cousin been accepted into the crew yet?",
+            "transcription": "[хæз йо: к**а**зн би:н экс**э**птид **и**нту ðэ кру: йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been accepted",
+        "examples": [
+          {
+            "ours": "К пяти завтра план похода уже примут.",
+            "thought": "К пяти завтра [известный] план будет иметь быть принят.",
+            "english": "By five tomorrow the plan will have been accepted.",
+            "transcription": "[бай файв тэм**о**роу ðэ плæн wил хæв би:н экс**э**птид]"
+          },
+          {
+            "ours": "К лету эту поправку к правилам ещё не примут.",
+            "thought": "К лету эта поправка будет не иметь быть принята.",
+            "english": "By summer this amendment will not have been accepted.",
+            "transcription": "[бай с**а**мэ ðис эм**э**ндмэнт wил нот хæв би:н экс**э**птид]"
+          },
+          {
+            "ours": "Новые правила примут к осени?",
+            "thought": "Будут [известные] правила иметь быть приняты к осени?",
+            "english": "Will the rules have been accepted by autumn?",
+            "transcription": "[wил ðэ ру:лз хæв би:н экс**э**птид бай **о**:тэм]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being accepted` не употребляется. Вместо этого скажут: `Our offer has been accepted.` или `They have been accepting offers.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что он примет вызов на гонку.",
+        "thought": "Я знал, что он будет принимать [известный] вызов.",
+        "english": "I knew that he would accept the challenge.",
+        "transcription": "[ай нью: ðæт хи: wуд экс**э**пт ðэ ч**æ**линдж]"
+      },
+      {
+        "ours": "Она сказала, что не возьмёт никакой компенсации за повреждение яхты.",
+        "thought": "Она сказала, что она будет не принимать какую-либо компенсацию.",
+        "english": "She said that she would not accept any compensation.",
+        "transcription": "[ши: сэд ðæт ши: wуд нот экс**э**пт **э**ни компэнс**э**йшн]"
+      },
+      {
+        "ours": "Ты думал, что они согласятся на такую низкую цену аренды?",
+        "thought": "[Сделал] ты думать, что они будут принимать такую [какую-то] низкую цену?",
+        "english": "Did you think that they would accept such a low price?",
+        "transcription": "[дид ю: θинк ðæт ðэй wуд экс**э**пт сач э лоу прайс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "plan",
+      "meaning": "план",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "plan"
+        }
+      ]
+    },
+    {
+      "word": "fee",
+      "meaning": "плата",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "fee"
+        }
+      ]
+    },
+    {
+      "word": "entry",
+      "meaning": "заявка",
+      "sense": "application",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "entry"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "entries"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "entries"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "entries"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "entry"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "entries"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "entries"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "entry"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Entries"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "entries"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Entries"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Entries"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "entry"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "excuse",
+      "meaning": "оправдание",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "excuses"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "yachts"
+        }
+      ]
+    },
+    {
+      "word": "award",
+      "meaning": "награда",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "award"
+        }
+      ]
+    },
+    {
+      "word": "help",
+      "meaning": "помощь",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "help"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "document",
+      "meaning": "документ",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "document"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "week"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "week"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "week"
+        }
+      ]
+    },
+    {
+      "word": "club",
+      "meaning": "клуб",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "club"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "club"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "club"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "year"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "cash",
+      "meaning": "наличные",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "cash"
+        }
+      ]
+    },
+    {
+      "word": "booking",
+      "meaning": "бронирование",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "bookings"
+        }
+      ]
+    },
+    {
+      "word": "student",
+      "meaning": "ученик",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "students"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "month"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "month"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "months"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "month"
+        }
+      ]
+    },
+    {
+      "word": "Monday",
+      "meaning": "понедельник",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "Monday"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "Monday"
+        }
+      ]
+    },
+    {
+      "word": "payment",
+      "meaning": "платёж",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "payments"
+        }
+      ]
+    },
+    {
+      "word": "member",
+      "meaning": "член",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "members"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "members"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "days"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "offer",
+      "meaning": "предложение",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "offer"
+        }
+      ]
+    },
+    {
+      "word": "term",
+      "meaning": "условие",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "terms"
+        }
+      ]
+    },
+    {
+      "word": "blame",
+      "meaning": "вина",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "blame"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "spring",
+      "meaning": "весна",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "spring"
+        }
+      ]
+    },
+    {
+      "word": "committee",
+      "meaning": "комитет",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "committee"
+        }
+      ]
+    },
+    {
+      "word": "change",
+      "meaning": "изменение",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "changes"
+        }
+      ]
+    },
+    {
+      "word": "rule",
+      "meaning": "правило",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "rules"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "December",
+      "meaning": "декабрь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "December"
+        }
+      ]
+    },
+    {
+      "word": "daughter",
+      "meaning": "дочь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "daughter"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "meeting",
+      "meaning": "собрание",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "meeting"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "certificate",
+      "meaning": "сертификат",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "certificate"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "certificates"
+        }
+      ]
+    },
+    {
+      "word": "midnight",
+      "meaning": "полночь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "midnight"
+        }
+      ]
+    },
+    {
+      "word": "March",
+      "meaning": "март",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "March"
+        }
+      ]
+    },
+    {
+      "word": "cheque",
+      "meaning": "чек",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "Cheques"
+        }
+      ]
+    },
+    {
+      "word": "ticket",
+      "meaning": "билет",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.2",
+          "form": "tickets"
+        }
+      ]
+    },
+    {
+      "word": "gate",
+      "meaning": "ворота",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.2",
+          "form": "gate"
+        }
+      ]
+    },
+    {
+      "word": "bank",
+      "meaning": "банк",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "Bank"
+        }
+      ]
+    },
+    {
+      "word": "transfer",
+      "meaning": "перевод",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "transfers"
+        }
+      ]
+    },
+    {
+      "word": "moment",
+      "meaning": "момент",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "moment"
+        }
+      ]
+    },
+    {
+      "word": "voucher",
+      "meaning": "ваучер",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "vouchers"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "sails"
+        }
+      ]
+    },
+    {
+      "word": "delivery",
+      "meaning": "поставка",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "deliveries"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "request",
+      "meaning": "запрос",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "request"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "proposal",
+      "meaning": "предложение",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "proposal"
+        }
+      ]
+    },
+    {
+      "word": "cousin",
+      "meaning": "кузен",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "cousin"
+        }
+      ]
+    },
+    {
+      "word": "summer",
+      "meaning": "лето",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "summer"
+        }
+      ]
+    },
+    {
+      "word": "amendment",
+      "meaning": "поправка",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "amendment"
+        }
+      ]
+    },
+    {
+      "word": "autumn",
+      "meaning": "осень",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "autumn"
+        }
+      ]
+    },
+    {
+      "word": "challenge",
+      "meaning": "вызов",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "challenge"
+        }
+      ]
+    },
+    {
+      "word": "compensation",
+      "meaning": "компенсация",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "compensation"
+        }
+      ]
+    },
+    {
+      "word": "price",
+      "meaning": "цена",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "price"
+        }
+      ]
+    }
+  ]
+}

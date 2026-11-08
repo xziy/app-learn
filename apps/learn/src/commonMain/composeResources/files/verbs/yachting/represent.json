@@ -1,0 +1,929 @@
+{
+  "spec": 4,
+  "verb": "represent",
+  "forms": {
+    "base": [
+      {
+        "word": "represent",
+        "transcription": "[рэприз**э**нт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "represented",
+        "transcription": "[рэприз**э**нтид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "represented",
+        "transcription": "[рэприз**э**нтид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "representing",
+        "transcription": "[рэприз**э**нтиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "represents",
+        "transcription": "[рэприз**э**нтс]"
+      }
+    ]
+  },
+  "meaning": "представлять, выступать от имени",
+  "notes": "правильный переходный глагол; возможны длительные формы и пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "represented",
+        "examples": [
+          {
+            "ours": "Вчера капитан представлял клуб.",
+            "thought": "Вчера [известный] капитан представлял [известный] клуб.",
+            "english": "Yesterday the skipper represented the club.",
+            "transcription": "[й**э**стэдэй ðэ ск**и**пэ рэприз**э**нтид ðэ клаб]"
+          },
+          {
+            "ours": "Моряк представлял экипаж вчера?",
+            "thought": "[Сделал] [известный] моряк представлять [известный] экипаж вчера?",
+            "english": "Did the sailor represent the crew yesterday?",
+            "transcription": "[дид ðэ с**э**йлэ рэприз**э**нт ðэ кру: й**э**стэдэй]"
+          },
+          {
+            "ours": "Она не представляла клуб.",
+            "thought": "Она [сделала] не представлять [известный] клуб.",
+            "english": "She did not represent the club.",
+            "transcription": "[ши: дид нот рэприз**э**нт ðэ клаб]"
+          }
+        ]
+      },
+      "present": {
+        "form": "represent, represents",
+        "examples": [
+          {
+            "ours": "Офицер представляет флот.",
+            "thought": "[Известный] офицер представляет [известный] флот.",
+            "english": "The officer represents the fleet.",
+            "transcription": "[ðэ **о**фисэ рэприз**э**нтс ðэ фли:т]"
+          },
+          {
+            "ours": "Капитан представляет класс?",
+            "thought": "[Делает] [известный] капитан представлять [известный] класс?",
+            "english": "Does the captain represent the class?",
+            "transcription": "[даз ðэ к**æ**птин рэприз**э**нт ðэ кла:с]"
+          },
+          {
+            "ours": "Он не представляет экипаж.",
+            "thought": "Он [делает] не представлять [известный] экипаж.",
+            "english": "He does not represent the crew.",
+            "transcription": "[хи: даз нот рэприз**э**нт ðэ кру:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will represent",
+        "examples": [
+          {
+            "ours": "Завтра капитан представит клуб.",
+            "thought": "Завтра [известный] капитан будет представлять [известный] клуб.",
+            "english": "Tomorrow the skipper will represent the club.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил рэприз**э**нт ðэ клаб]"
+          },
+          {
+            "ours": "Моряк представит экипаж завтра?",
+            "thought": "Будет [известный] моряк представлять [известный] экипаж завтра?",
+            "english": "Will the sailor represent the crew tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ рэприз**э**нт ðэ кру: тэм**о**роу]"
+          },
+          {
+            "ours": "Она не будет представлять клуб.",
+            "thought": "Она будет не представлять [известный] клуб.",
+            "english": "She will not represent the club.",
+            "transcription": "[ши: wил нот рэприз**э**нт ðэ клаб]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were representing",
+        "examples": [
+          {
+            "ours": "Капитан представлял клуб, когда ты прибыл.",
+            "thought": "[Известный] капитан был представляющим [известный] клуб, когда ты прибыл.",
+            "english": "The skipper was representing the club when you arrived.",
+            "transcription": "[ðэ ск**и**пэ wоз рэприз**э**нтиŋ ðэ клаб wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Моряк представлял экипаж, когда ты прибыл?",
+            "thought": "Был [известный] моряк представляющим [известный] экипаж, когда ты прибыл?",
+            "english": "Was the sailor representing the crew when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ рэприз**э**нтиŋ ðэ кру: wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are representing",
+        "examples": [
+          {
+            "ours": "Офицер сейчас представляет флот.",
+            "thought": "[Известный] офицер является представляющим [известный] флот сейчас.",
+            "english": "The officer is representing the fleet now.",
+            "transcription": "[ðэ **о**фисэ из рэприз**э**нтиŋ ðэ фли:т нау]"
+          },
+          {
+            "ours": "Капитан сейчас представляет класс?",
+            "thought": "Является [известный] капитан представляющим [известный] класс сейчас?",
+            "english": "Is the captain representing the class now?",
+            "transcription": "[из ðэ к**æ**птин рэприз**э**нтиŋ ðэ кла:с нау]"
+          },
+          {
+            "ours": "Она сейчас не представляет клуб.",
+            "thought": "Она является не представляющей [известный] клуб сейчас.",
+            "english": "She is not representing the club now.",
+            "transcription": "[ши: из нот рэприз**э**нтиŋ ðэ клаб нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be representing",
+        "examples": [
+          {
+            "ours": "Завтра капитан будет представлять клуб.",
+            "thought": "Завтра [известный] капитан будет быть представляющим [известный] клуб.",
+            "english": "Tomorrow the skipper will be representing the club.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил би: рэприз**э**нтиŋ ðэ клаб]"
+          },
+          {
+            "ours": "Моряк завтра будет представлять экипаж?",
+            "thought": "Будет [известный] моряк быть представляющим [известный] экипаж завтра?",
+            "english": "Will the sailor be representing the crew tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: рэприз**э**нтиŋ ðэ кру: тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had represented",
+        "examples": [
+          {
+            "ours": "К полудню капитан представлял клуб.",
+            "thought": "К полудню [известный] капитан имел представленным [известный] клуб.",
+            "english": "By noon the skipper had represented the club.",
+            "transcription": "[бай ну:н ðэ ск**и**пэ хæд рэприз**э**нтид ðэ клаб]"
+          },
+          {
+            "ours": "Моряк представлял экипаж к полудню?",
+            "thought": "Имел [известный] моряк представленным [известный] экипаж к полудню?",
+            "english": "Had the sailor represented the crew by noon?",
+            "transcription": "[хæд ðэ с**э**йлэ рэприз**э**нтид ðэ кру: бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has represented",
+        "examples": [
+          {
+            "ours": "Офицер уже представлял флот.",
+            "thought": "[Известный] офицер имеет уже представленным [известный] флот.",
+            "english": "The officer has already represented the fleet.",
+            "transcription": "[ðэ **о**фисэ хæз о:лр**э**ди рэприз**э**нтид ðэ фли:т]"
+          },
+          {
+            "ours": "Капитан уже представлял класс?",
+            "thought": "Имеет [известный] капитан представленным [известный] класс уже?",
+            "english": "Has the captain represented the class yet?",
+            "transcription": "[хæз ðэ к**æ**птин рэприз**э**нтид ðэ кла:с йэт]"
+          },
+          {
+            "ours": "Она ещё не представляла клуб.",
+            "thought": "Она имеет не представленным [известный] клуб ещё.",
+            "english": "She has not represented the club yet.",
+            "transcription": "[ши: хæз нот рэприз**э**нтид ðэ клаб йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have represented",
+        "examples": [
+          {
+            "ours": "К пяти капитан представит клуб.",
+            "thought": "К пяти [известный] капитан будет иметь представленным [известный] клуб.",
+            "english": "By five the skipper will have represented the club.",
+            "transcription": "[бай файв ðэ ск**и**пэ wил хæв рэприз**э**нтид ðэ клаб]"
+          },
+          {
+            "ours": "Моряк представит экипаж к пяти?",
+            "thought": "Будет [известный] моряк иметь представленным [известный] экипаж к пяти?",
+            "english": "Will the sailor have represented the crew by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв рэприз**э**нтид ðэ кру: бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been representing",
+        "examples": [
+          {
+            "ours": "Капитан представлял клуб два часа до обеда.",
+            "thought": "[Известный] капитан имел быть представляющим [известный] клуб целых два часа перед обедом.",
+            "english": "The skipper had been representing the club for two hours before lunch.",
+            "transcription": "[ðэ ск**и**пэ хæд би:н рэприз**э**нтиŋ ðэ клаб фо: ту: **а**уэз биф**о**: ланч]"
+          },
+          {
+            "ours": "Моряк представлял экипаж час до обеда?",
+            "thought": "Имел [известный] моряк быть представляющим [известный] экипаж целый [какой-то] час перед обедом?",
+            "english": "Had the sailor been representing the crew for an hour before lunch?",
+            "transcription": "[хæд ðэ с**э**йлэ би:н рэприз**э**нтиŋ ðэ кру: фо: эн **а**уэ биф**о**: ланч]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been representing",
+        "examples": [
+          {
+            "ours": "Офицер представляет флот уже два часа.",
+            "thought": "[Известный] офицер имеет быть представляющим [известный] флот целых два часа.",
+            "english": "The officer has been representing the fleet for two hours.",
+            "transcription": "[ðэ **о**фисэ хæз би:н рэприз**э**нтиŋ ðэ фли:т фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Капитан представляет класс уже час?",
+            "thought": "Имеет [известный] капитан быть представляющим [известный] класс целый [какой-то] час?",
+            "english": "Has the captain been representing the class for an hour?",
+            "transcription": "[хæз ðэ к**æ**птин би:н рэприз**э**нтиŋ ðэ кла:с фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been representing",
+        "examples": [
+          {
+            "ours": "К пяти капитан будет представлять клуб уже два часа.",
+            "thought": "К пяти [известный] капитан будет иметь быть представляющим [известный] клуб целых два часа.",
+            "english": "By five the skipper will have been representing the club for two hours.",
+            "transcription": "[бай файв ðэ ск**и**пэ wил хæв би:н рэприз**э**нтиŋ ðэ клаб фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Моряк к пяти будет представлять экипаж уже час?",
+            "thought": "Будет [известный] моряк иметь быть представляющим [известный] экипаж целый [какой-то] час к пяти?",
+            "english": "Will the sailor have been representing the crew for an hour by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв би:н рэприз**э**нтиŋ ðэ кру: фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were represented",
+        "examples": [
+          {
+            "ours": "Клуб представляли вчера.",
+            "thought": "[Известный] клуб был представлен вчера.",
+            "english": "The club was represented yesterday.",
+            "transcription": "[ðэ клаб wоз рэприз**э**нтид й**э**стэдэй]"
+          },
+          {
+            "ours": "Экипаж представляли вчера?",
+            "thought": "Был [известный] экипаж представлен вчера?",
+            "english": "Was the crew represented yesterday?",
+            "transcription": "[wоз ðэ кру: рэприз**э**нтид й**э**стэдэй]"
+          },
+          {
+            "ours": "Клуб не был представлен вчера.",
+            "thought": "[Известный] клуб был не представлен вчера.",
+            "english": "The club was not represented yesterday.",
+            "transcription": "[ðэ клаб wоз нот рэприз**э**нтид й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are represented",
+        "examples": [
+          {
+            "ours": "Флот представляют здесь.",
+            "thought": "[Известный] флот есть представлен здесь.",
+            "english": "The fleet is represented here.",
+            "transcription": "[ðэ фли:т из рэприз**э**нтид хиэ]"
+          },
+          {
+            "ours": "Класс представляют здесь?",
+            "thought": "Есть [известный] класс представлен здесь?",
+            "english": "Is the class represented here?",
+            "transcription": "[из ðэ кла:с рэприз**э**нтид хиэ]"
+          },
+          {
+            "ours": "Экипаж здесь не представлен.",
+            "thought": "[Известный] экипаж есть не представлен здесь.",
+            "english": "The crew is not represented here.",
+            "transcription": "[ðэ кру: из нот рэприз**э**нтид хиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be represented",
+        "examples": [
+          {
+            "ours": "Клуб представят завтра.",
+            "thought": "[Известный] клуб будет быть представлен завтра.",
+            "english": "The club will be represented tomorrow.",
+            "transcription": "[ðэ клаб wил би: рэприз**э**нтид тэм**о**роу]"
+          },
+          {
+            "ours": "Экипаж представят завтра?",
+            "thought": "Будет [известный] экипаж быть представлен завтра?",
+            "english": "Will the crew be represented tomorrow?",
+            "transcription": "[wил ðэ кру: би: рэприз**э**нтид тэм**о**роу]"
+          },
+          {
+            "ours": "Клуб не будет представлен завтра.",
+            "thought": "[Известный] клуб будет не быть представлен завтра.",
+            "english": "The club will not be represented tomorrow.",
+            "transcription": "[ðэ клаб wил нот би: рэприз**э**нтид тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being represented",
+        "examples": [
+          {
+            "ours": "Клуб представляли, когда ты прибыл.",
+            "thought": "[Известный] клуб был «долго» представлен, когда ты прибыл.",
+            "english": "The club was being represented when you arrived.",
+            "transcription": "[ðэ клаб wоз б**и**:иŋ рэприз**э**нтид wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Экипаж представляли, когда ты прибыл?",
+            "thought": "Был [известный] экипаж «долго» представлен, когда ты прибыл?",
+            "english": "Was the crew being represented when you arrived?",
+            "transcription": "[wоз ðэ кру: б**и**:иŋ рэприз**э**нтид wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being represented",
+        "examples": [
+          {
+            "ours": "Флот сейчас представляют.",
+            "thought": "[Известный] флот есть «долго» представлен сейчас.",
+            "english": "The fleet is being represented now.",
+            "transcription": "[ðэ фли:т из б**и**:иŋ рэприз**э**нтид нау]"
+          },
+          {
+            "ours": "Класс сейчас представляют?",
+            "thought": "Есть [известный] класс «долго» представлен сейчас?",
+            "english": "Is the class being represented now?",
+            "transcription": "[из ðэ кла:с б**и**:иŋ рэприз**э**нтид нау]"
+          },
+          {
+            "ours": "Клуб сейчас не представляют.",
+            "thought": "[Известный] клуб есть не «долго» представлен сейчас.",
+            "english": "The club is not being represented now.",
+            "transcription": "[ðэ клаб из нот б**и**:иŋ рэприз**э**нтид нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be representing",
+        "examples": [
+          {
+            "ours": "Завтра они будут представлять клуб.",
+            "thought": "Завтра они будут быть представляющими [известный] клуб.",
+            "english": "Tomorrow they will be representing the club.",
+            "transcription": "[тэм**о**роу ðэй wил би: рэприз**э**нтиŋ ðэ клаб]"
+          },
+          {
+            "ours": "Они будут представлять экипаж завтра?",
+            "thought": "Будут они быть представляющими [известный] экипаж завтра?",
+            "english": "Will they be representing the crew tomorrow?",
+            "transcription": "[wил ðэй би: рэприз**э**нтиŋ ðэ кру: тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been represented",
+        "examples": [
+          {
+            "ours": "К полудню клуб представляли.",
+            "thought": "К полудню [известный] клуб имел быть представлен.",
+            "english": "By noon the club had been represented.",
+            "transcription": "[бай ну:н ðэ клаб хæд би:н рэприз**э**нтид]"
+          },
+          {
+            "ours": "Экипаж представляли к полудню?",
+            "thought": "Имел [известный] экипаж быть представлен к полудню?",
+            "english": "Had the crew been represented by noon?",
+            "transcription": "[хæд ðэ кру: би:н рэприз**э**нтид бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been represented",
+        "examples": [
+          {
+            "ours": "Флот уже представляли.",
+            "thought": "[Известный] флот имеет уже быть представлен.",
+            "english": "The fleet has already been represented.",
+            "transcription": "[ðэ фли:т хæз о:лр**э**ди би:н рэприз**э**нтид]"
+          },
+          {
+            "ours": "Класс уже представляли?",
+            "thought": "Имеет [известный] класс быть представлен уже?",
+            "english": "Has the class been represented yet?",
+            "transcription": "[хæз ðэ кла:с би:н рэприз**э**нтид йэт]"
+          },
+          {
+            "ours": "Экипаж ещё не был представлен.",
+            "thought": "[Известный] экипаж имеет не быть представлен ещё.",
+            "english": "The crew has not been represented yet.",
+            "transcription": "[ðэ кру: хæз нот би:н рэприз**э**нтид йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been represented",
+        "examples": [
+          {
+            "ours": "К пяти клуб представят.",
+            "thought": "К пяти [известный] клуб будет иметь быть представлен.",
+            "english": "By five the club will have been represented.",
+            "transcription": "[бай файв ðэ клаб wил хæв би:н рэприз**э**нтид]"
+          },
+          {
+            "ours": "Экипаж представят к пяти?",
+            "thought": "Будет [известный] экипаж иметь быть представлен к пяти?",
+            "english": "Will the crew have been represented by five?",
+            "transcription": "[wил ðэ кру: хæв би:н рэприз**э**нтид бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него скажут: The officer has been representing the fleet."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что моряк представит экипаж.",
+        "thought": "Я знал [известный] моряк будет представлять [известный] экипаж.",
+        "english": "I knew the sailor would represent the crew.",
+        "transcription": "[ай нью: ðэ с**э**йлэ wуд рэприз**э**нт ðэ кру:]"
+      },
+      {
+        "ours": "Мы думали, что шкипер не будет представлять клуб.",
+        "thought": "Мы думали, [известный] шкипер будет не представлять [известный] клуб.",
+        "english": "We thought the skipper would not represent the club.",
+        "transcription": "[wи: θо:т ðэ ск**и**пэ wуд нот рэприз**э**нт ðэ клаб]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "club",
+      "meaning": "клуб",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "club"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "club"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "club"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "club"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "club"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "club"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "club"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "club"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "club"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "club"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "club"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "club"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "club"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "club"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "officer",
+      "meaning": "офицер",
+      "sense": "military",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "officer"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "officer"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "officer"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "officer"
+        }
+      ]
+    },
+    {
+      "word": "fleet",
+      "meaning": "флот",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "fleet"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "fleet"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "fleet"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "fleet"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "class",
+      "meaning": "класс",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "class"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "class"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "class"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "class"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "class"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "class"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "class"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "meaning": "обед",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "lunch"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "lunch"
+        }
+      ]
+    }
+  ]
+}

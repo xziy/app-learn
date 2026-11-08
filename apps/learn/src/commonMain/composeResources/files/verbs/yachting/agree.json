@@ -1,0 +1,776 @@
+{
+  "spec": 4,
+  "verb": "agree",
+  "forms": {
+    "base": [
+      {
+        "word": "agree",
+        "transcription": "[эгр**и**:]"
+      }
+    ],
+    "past": [
+      {
+        "word": "agreed",
+        "transcription": "[эгр**и**:д]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "agreed",
+        "transcription": "[эгр**и**:д]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "agreeing",
+        "transcription": "[эгр**и**:иŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "agrees",
+        "transcription": "[эгр**и**:з]"
+      }
+    ]
+  },
+  "meaning": "соглашаться, договариваться",
+  "notes": "правильный глагол; agree with someone — соглашаться с кем-либо, agree on something — договариваться о чём-либо; возможен пассив с on",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "agreed",
+        "examples": [
+          {
+            "ours": "Вчера мы согласовали маршрут.",
+            "thought": "Вчера мы договорились о [известном] маршруте.",
+            "english": "Yesterday we agreed on the route.",
+            "transcription": "[й**э**стэдэй wи: эгр**и**:д он ðэ ру:т]"
+          },
+          {
+            "ours": "Ты согласился со шкипером?",
+            "thought": "[Сделал] ты соглашаться с [известным] шкипером?",
+            "english": "Did you agree with the skipper?",
+            "transcription": "[дид ю: эгр**и**: wиð ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Она не согласилась с командой.",
+            "thought": "Она [сделала] не соглашаться с [известной] командой.",
+            "english": "She did not agree with the crew.",
+            "transcription": "[ши: дид нот эгр**и**: wиð ðэ кру:]"
+          }
+        ]
+      },
+      "present": {
+        "form": "agree, agrees",
+        "examples": [
+          {
+            "ours": "Шкипер согласен с прогнозом.",
+            "thought": "[Известный] шкипер соглашается с [известным] прогнозом.",
+            "english": "The skipper agrees with the forecast.",
+            "transcription": "[ðэ ск**и**пэ эгр**и**:з wиð ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты согласен с командой?",
+            "thought": "[Делаешь] ты соглашаться с [известной] командой?",
+            "english": "Do you agree with the crew?",
+            "transcription": "[ду: ю: эгр**и**: wиð ðэ кру:]"
+          },
+          {
+            "ours": "Мы не согласны с планом.",
+            "thought": "Мы [делаем] не соглашаться с [известным] планом.",
+            "english": "We do not agree with the plan.",
+            "transcription": "[wи: ду: нот эгр**и**: wиð ðэ плæн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will agree",
+        "examples": [
+          {
+            "ours": "Завтра мы согласуем маршрут.",
+            "thought": "Завтра мы будем договариваться о [известном] маршруте.",
+            "english": "Tomorrow we will agree on the route.",
+            "transcription": "[тэм**о**роу wи: wил эгр**и**: он ðэ ру:т]"
+          },
+          {
+            "ours": "Ты согласишься со шкипером?",
+            "thought": "Будешь ты соглашаться с [известным] шкипером?",
+            "english": "Will you agree with the skipper?",
+            "transcription": "[wил ю: эгр**и**: wиð ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Она не согласится с планом.",
+            "thought": "Она будет не соглашаться с [известным] планом.",
+            "english": "She will not agree with the plan.",
+            "transcription": "[ши: wил нот эгр**и**: wиð ðэ плæн]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were agreeing",
+        "examples": [
+          {
+            "ours": "Вчера утром мы согласовывали маршрут.",
+            "thought": "Вчера утром мы были договаривающимися о [известном] маршруте.",
+            "english": "Yesterday morning we were agreeing on the route.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: эгр**и**:иŋ он ðэ ру:т]"
+          },
+          {
+            "ours": "Ты согласовывал детали, когда я позвонил?",
+            "thought": "Был ты договаривающимся о [известных] деталях, когда я позвонил?",
+            "english": "Were you agreeing on the details when I called?",
+            "transcription": "[wœ: ю: эгр**и**:иŋ он ðэ д**и**:тэйлз wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are agreeing",
+        "examples": [
+          {
+            "ours": "Мы сейчас согласовываем маршрут.",
+            "thought": "Мы являемся договаривающимися о [известном] маршруте сейчас.",
+            "english": "We are agreeing on the route now.",
+            "transcription": "[wи: а: эгр**и**:иŋ он ðэ ру:т нау]"
+          },
+          {
+            "ours": "Ты сейчас согласовываешь детали?",
+            "thought": "Являешься ты договаривающимся о [известных] деталях сейчас?",
+            "english": "Are you agreeing on the details now?",
+            "transcription": "[а: ю: эгр**и**:иŋ он ðэ д**и**:тэйлз нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be agreeing",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем согласовывать маршрут.",
+            "thought": "Завтра утром мы будем быть договаривающимися о [известном] маршруте.",
+            "english": "Tomorrow morning we will be agreeing on the route.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: эгр**и**:иŋ он ðэ ру:т]"
+          },
+          {
+            "ours": "Ты будешь согласовывать детали вечером?",
+            "thought": "Будешь ты быть договаривающимся о [известных] деталях этот вечер?",
+            "english": "Will you be agreeing on the details this evening?",
+            "transcription": "[wил ю: би: эгр**и**:иŋ он ðэ д**и**:тэйлз ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had agreed",
+        "examples": [
+          {
+            "ours": "К полудню мы уже согласовали маршрут.",
+            "thought": "К полудню мы имели уже договорившимся о [известном] маршруте.",
+            "english": "By noon we had already agreed on the route.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди эгр**и**:д он ðэ ру:т]"
+          },
+          {
+            "ours": "Ты согласовал детали до отхода?",
+            "thought": "Имел ты договорившимся о [известных] деталях до отхода?",
+            "english": "Had you agreed on the details before departure?",
+            "transcription": "[хæд ю: эгр**и**:д он ðэ д**и**:тэйлз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has agreed",
+        "examples": [
+          {
+            "ours": "Мы уже согласовали маршрут.",
+            "thought": "Мы имеем уже договорившимся о [известном] маршруте.",
+            "english": "We have already agreed on the route.",
+            "transcription": "[wи: хæв о:лр**э**ди эгр**и**:д он ðэ ру:т]"
+          },
+          {
+            "ours": "Ты уже согласовал детали?",
+            "thought": "Имеешь ты договорившимся о [известных] деталях уже?",
+            "english": "Have you agreed on the details yet?",
+            "transcription": "[хæв ю: эгр**и**:д он ðэ д**и**:тэйлз йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have agreed",
+        "examples": [
+          {
+            "ours": "К полудню мы согласуем маршрут.",
+            "thought": "К полудню мы будем иметь договорившимся о [известном] маршруте.",
+            "english": "By noon we will have agreed on the route.",
+            "transcription": "[бай ну:н wи: wил хæв эгр**и**:д он ðэ ру:т]"
+          },
+          {
+            "ours": "Ты согласуешь детали к пяти?",
+            "thought": "Будешь ты иметь договорившимся о [известных] деталях к пяти?",
+            "english": "Will you have agreed on the details by five?",
+            "transcription": "[wил ю: хæв эгр**и**:д он ðэ д**и**:тэйлз бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been agreeing",
+        "examples": [
+          {
+            "ours": "Они час согласовывали детали, когда зазвонило радио.",
+            "thought": "Они имели быть договаривающимися о деталях целый [какой-то] час, когда [известное] радио зазвонило.",
+            "english": "They had been agreeing on details for an hour when the radio rang.",
+            "transcription": "[ðэй хæд би:н эгр**и**:иŋ он д**и**:тэйлз фо: эн **а**уэ wэн ðэ р**э**йдиоу рэŋ]"
+          },
+          {
+            "ours": "Ты согласовывал детали два часа до отхода?",
+            "thought": "Имел ты быть договаривающимся о деталях целых два часа до отхода?",
+            "english": "Had you been agreeing on details for two hours before departure?",
+            "transcription": "[хæд ю: би:н эгр**и**:иŋ он д**и**:тэйлз фо: ту: **а**уэз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been agreeing",
+        "examples": [
+          {
+            "ours": "Мы уже час согласовываем детали.",
+            "thought": "Мы имеем быть договаривающимися о деталях целый [какой-то] час.",
+            "english": "We have been agreeing on details for an hour.",
+            "transcription": "[wи: хæв би:н эгр**и**:иŋ он д**и**:тэйлз фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты согласовываешь детали уже два часа?",
+            "thought": "Имеешь ты быть договаривающимся о деталях целых два часа?",
+            "english": "Have you been agreeing on details for two hours?",
+            "transcription": "[хæв ю: би:н эгр**и**:иŋ он д**и**:тэйлз фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been agreeing",
+        "examples": [
+          {
+            "ours": "К пяти мы будем согласовывать детали уже два часа.",
+            "thought": "К пяти мы будем иметь быть договаривающимися о деталях целых два часа.",
+            "english": "By five we will have been agreeing on details for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н эгр**и**:иŋ он д**и**:тэйлз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь согласовывать детали уже час?",
+            "thought": "Будешь ты иметь быть договаривающимся о деталях целый [какой-то] час к полудню?",
+            "english": "Will you have been agreeing on details for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н эгр**и**:иŋ он д**и**:тэйлз фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were agreed on",
+        "examples": [
+          {
+            "ours": "Маршрут согласовали вчера.",
+            "thought": "[Известный] маршрут был согласован о вчера.",
+            "english": "The route was agreed on yesterday.",
+            "transcription": "[ðэ ру:т wоз эгр**и**:д он й**э**стэдэй]"
+          },
+          {
+            "ours": "Детали согласовали до отхода?",
+            "thought": "Были [известные] детали согласованы о до отхода?",
+            "english": "Were the details agreed on before departure?",
+            "transcription": "[wœ: ðэ д**и**:тэйлз эгр**и**:д он биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are agreed on",
+        "examples": [
+          {
+            "ours": "Маршрут согласовывают до отплытия.",
+            "thought": "[Известный] маршрут есть согласован о до отхода.",
+            "english": "The route is agreed on before departure.",
+            "transcription": "[ðэ ру:т из эгр**и**:д он биф**о**: дип**а**:чэ]"
+          },
+          {
+            "ours": "Детали согласовывают до гонки?",
+            "thought": "Есть [известные] детали согласованы о до [известной] гонки?",
+            "english": "Are the details agreed on before the race?",
+            "transcription": "[а: ðэ д**и**:тэйлз эгр**и**:д он биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be agreed on",
+        "examples": [
+          {
+            "ours": "Маршрут согласуют завтра.",
+            "thought": "[Известный] маршрут будет быть согласован о завтра.",
+            "english": "The route will be agreed on tomorrow.",
+            "transcription": "[ðэ ру:т wил би: эгр**и**:д он тэм**о**роу]"
+          },
+          {
+            "ours": "Детали согласуют до отхода?",
+            "thought": "Будут [известные] детали быть согласованы о до отхода?",
+            "english": "Will the details be agreed on before departure?",
+            "transcription": "[wил ðэ д**и**:тэйлз би: эгр**и**:д он биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being agreed on",
+        "not_possible": "Длительный пассив being agreed on звучит тяжеловесно; естественнее The crew is discussing the route."
+      },
+      "present": {
+        "form": "am/is/are being agreed on",
+        "not_possible": "Длительный пассив being agreed on звучит тяжеловесно; естественнее The crew is discussing the route."
+      },
+      "future": {
+        "form": "will be agreeing on",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут согласовывать маршрут.",
+            "thought": "Завтра утром они будут быть договаривающимися о [известном] маршруте.",
+            "english": "Tomorrow morning they will be agreeing on the route.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: эгр**и**:иŋ он ðэ ру:т]"
+          },
+          {
+            "ours": "Они будут согласовывать детали вечером?",
+            "thought": "Будут они быть договаривающимися о [известных] деталях этот вечер?",
+            "english": "Will they be agreeing on the details this evening?",
+            "transcription": "[wил ðэй би: эгр**и**:иŋ он ðэ д**и**:тэйлз ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been agreed on",
+        "examples": [
+          {
+            "ours": "К полудню маршрут уже согласовали.",
+            "thought": "К полудню [известный] маршрут имел уже быть согласован о.",
+            "english": "By noon the route had already been agreed on.",
+            "transcription": "[бай ну:н ðэ ру:т хæд о:лр**э**ди би:н эгр**и**:д он]"
+          },
+          {
+            "ours": "Детали согласовали до отхода?",
+            "thought": "Имели [известные] детали быть согласованы о до отхода?",
+            "english": "Had the details been agreed on before departure?",
+            "transcription": "[хæд ðэ д**и**:тэйлз би:н эгр**и**:д он биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been agreed on",
+        "examples": [
+          {
+            "ours": "Маршрут уже согласовали.",
+            "thought": "[Известный] маршрут имеет уже быть согласован о.",
+            "english": "The route has already been agreed on.",
+            "transcription": "[ðэ ру:т хæз о:лр**э**ди би:н эгр**и**:д он]"
+          },
+          {
+            "ours": "Детали уже согласовали?",
+            "thought": "Имеют [известные] детали быть согласованы о уже?",
+            "english": "Have the details been agreed on yet?",
+            "transcription": "[хæв ðэ д**и**:тэйлз би:н эгр**и**:д он йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been agreed on",
+        "examples": [
+          {
+            "ours": "К полудню маршрут согласуют.",
+            "thought": "К полудню [известный] маршрут будет иметь быть согласован о.",
+            "english": "By noon the route will have been agreed on.",
+            "transcription": "[бай ну:н ðэ ру:т wил хæв би:н эгр**и**:д он]"
+          },
+          {
+            "ours": "Детали согласуют к пяти?",
+            "thought": "Будут [известные] детали иметь быть согласованы о к пяти?",
+            "english": "Will the details have been agreed on by five?",
+            "transcription": "[wил ðэ д**и**:тэйлз хæв би:н эгр**и**:д он бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been discussing the route."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они согласуют маршрут.",
+        "thought": "Я знал, они будут договариваться о [известном] маршруте.",
+        "english": "I knew they would agree on the route.",
+        "transcription": "[ай нью: ðэй wуд эгр**и**: он ðэ ру:т]"
+      },
+      {
+        "ours": "Она думала, что мы не согласимся со шкипером.",
+        "thought": "Она думала, мы будем не соглашаться с [известным] шкипером.",
+        "english": "She thought we would not agree with the skipper.",
+        "transcription": "[ши: θо:т wи: wуд нот эгр**и**: wиð ðэ ск**и**пэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "plan",
+      "meaning": "план",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "plan"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "detail",
+      "meaning": "деталь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "details"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "details"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "details"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "details"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "details"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "details"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "details"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "details"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "details"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "details"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "details"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "details"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "details"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "details"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "details"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "details"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "details"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "details"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "details"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "race"
+        }
+      ]
+    }
+  ]
+}

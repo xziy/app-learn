@@ -1,0 +1,514 @@
+{
+  "spec": 4,
+  "verb": "hope",
+  "forms": {
+    "base": [
+      {
+        "word": "hope",
+        "transcription": "[хоуп]"
+      }
+    ],
+    "past": [
+      {
+        "word": "hoped",
+        "transcription": "[хоупт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "hoped",
+        "transcription": "[хоупт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "hoping",
+        "transcription": "[х**о**упиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "hopes",
+        "transcription": "[хоупс]"
+      }
+    ]
+  },
+  "meaning": "надеяться",
+  "notes": "правильный непереходный глагол; hope for — надеяться на, hope to do — надеяться сделать",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "hoped",
+        "examples": [
+          {
+            "ours": "Вчера мы надеялись на ветер.",
+            "thought": "Вчера мы надеялись на ветер.",
+            "english": "Yesterday we hoped for wind.",
+            "transcription": "[й**э**стэдэй wи: хоупт фо: wинд]"
+          },
+          {
+            "ours": "Ты надеялся на хорошую погоду?",
+            "thought": "[Сделал] ты надеяться на хорошую погоду?",
+            "english": "Did you hope for good weather?",
+            "transcription": "[дид ю: хоуп фо: гуд w**э**ðэ]"
+          },
+          {
+            "ours": "Она не надеялась на победу.",
+            "thought": "Она [сделала] не надеяться на победу.",
+            "english": "She did not hope for victory.",
+            "transcription": "[ши: дид нот хоуп фо: в**и**ктэри]"
+          }
+        ]
+      },
+      "present": {
+        "form": "hope, hopes",
+        "examples": [
+          {
+            "ours": "Шкипер надеется на ветер.",
+            "thought": "[Известный] шкипер надеется на ветер.",
+            "english": "The skipper hopes for wind.",
+            "transcription": "[ðэ ск**и**пэ хоупс фо: wинд]"
+          },
+          {
+            "ours": "Ты надеешься на хорошую погоду?",
+            "thought": "[Делаешь] ты надеяться на хорошую погоду?",
+            "english": "Do you hope for good weather?",
+            "transcription": "[ду: ю: хоуп фо: гуд w**э**ðэ]"
+          },
+          {
+            "ours": "Мы не надеемся на победу.",
+            "thought": "Мы [делаем] не надеяться на победу.",
+            "english": "We do not hope for victory.",
+            "transcription": "[wи: ду: нот хоуп фо: в**и**ктэри]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will hope",
+        "examples": [
+          {
+            "ours": "Завтра мы будем надеяться на ветер.",
+            "thought": "Завтра мы будем надеяться на ветер.",
+            "english": "Tomorrow we will hope for wind.",
+            "transcription": "[тэм**о**роу wи: wил хоуп фо: wинд]"
+          },
+          {
+            "ours": "Ты будешь надеяться на хорошую погоду?",
+            "thought": "Будешь ты надеяться на хорошую погоду?",
+            "english": "Will you hope for good weather?",
+            "transcription": "[wил ю: хоуп фо: гуд w**э**ðэ]"
+          },
+          {
+            "ours": "Она не будет надеяться на победу.",
+            "thought": "Она будет не надеяться на победу.",
+            "english": "She will not hope for victory.",
+            "transcription": "[ши: wил нот хоуп фо: в**и**ктэри]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were hoping",
+        "examples": [
+          {
+            "ours": "Вчера мы надеялись выйти в море.",
+            "thought": "Вчера мы были надеющимися выйти в море.",
+            "english": "Yesterday we were hoping to go to sea.",
+            "transcription": "[й**э**стэдэй wи: wœ: х**о**упиŋ ту гоу ту си:]"
+          },
+          {
+            "ours": "Ты надеялся найти причал, когда я позвонил?",
+            "thought": "Был ты надеющимся найти [какое-то] причальное место, когда я позвонил?",
+            "english": "Were you hoping to find a berth when I called?",
+            "transcription": "[wœ: ю: х**о**упиŋ ту файнд э бœ:θ wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are hoping",
+        "examples": [
+          {
+            "ours": "Мы сейчас надеемся выйти в море.",
+            "thought": "Мы являемся надеющимися выйти в море сейчас.",
+            "english": "We are hoping to go to sea now.",
+            "transcription": "[wи: а: х**о**упиŋ ту гоу ту си: нау]"
+          },
+          {
+            "ours": "Шкипер сейчас надеется найти причал?",
+            "thought": "Является [известный] шкипер надеющимся найти [какое-то] причальное место сейчас?",
+            "english": "Is the skipper hoping to find a berth now?",
+            "transcription": "[из ðэ ск**и**пэ х**о**упиŋ ту файнд э бœ:θ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be hoping",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем надеяться на ветер.",
+            "thought": "Завтра утром мы будем быть надеющимися на ветер.",
+            "english": "Tomorrow morning we will be hoping for wind.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: х**о**упиŋ фо: wинд]"
+          },
+          {
+            "ours": "Ты будешь надеяться на победу во время гонки?",
+            "thought": "Будешь ты быть надеющимся на победу во время [известной] гонки?",
+            "english": "Will you be hoping for victory during the race?",
+            "transcription": "[wил ю: би: х**о**упиŋ фо: в**и**ктэри дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had hoped",
+        "examples": [
+          {
+            "ours": "До рассвета мы надеялись на ветер.",
+            "thought": "До рассвета мы имели надеявшимся на ветер.",
+            "english": "Before dawn we had hoped for wind.",
+            "transcription": "[биф**о**: до:н wи: хæд хоупт фо: wинд]"
+          },
+          {
+            "ours": "Ты надеялся на хорошую погоду до гонки?",
+            "thought": "Имел ты надеявшимся на хорошую погоду до [известной] гонки?",
+            "english": "Had you hoped for good weather before the race?",
+            "transcription": "[хæд ю: хоупт фо: гуд w**э**ðэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has hoped",
+        "examples": [
+          {
+            "ours": "Мы давно надеялись на хорошую погоду.",
+            "thought": "Мы имеем давно надеявшимся на хорошую погоду.",
+            "english": "We have long hoped for good weather.",
+            "transcription": "[wи: хæв лоŋ хоупт фо: гуд w**э**ðэ]"
+          },
+          {
+            "ours": "Ты давно надеялся на победу?",
+            "thought": "Имеешь ты давно надеявшимся на победу?",
+            "english": "Have you long hoped for victory?",
+            "transcription": "[хæв ю: лоŋ хоупт фо: в**и**ктэри]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have hoped",
+        "not_possible": "Будущее совершённое с hope возможно, но обычно звучит тяжеловесно. Естественнее: By then we will still hope for good weather."
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been hoping",
+        "examples": [
+          {
+            "ours": "Мы час надеялись на ветер, когда он поднялся.",
+            "thought": "Мы имели быть надеющимися на ветер целый [какой-то] час, когда он поднялся.",
+            "english": "We had been hoping for wind for an hour when it rose.",
+            "transcription": "[wи: хæд би:н х**о**упиŋ фо: wинд фо: эн **а**уэ wэн ит роуз]"
+          },
+          {
+            "ours": "Ты надеялся на хорошую погоду два дня до гонки?",
+            "thought": "Имел ты быть надеющимся на хорошую погоду целых два дня до [известной] гонки?",
+            "english": "Had you been hoping for good weather for two days before the race?",
+            "transcription": "[хæд ю: би:н х**о**упиŋ фо: гуд w**э**ðэ фо: ту: дэйз биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been hoping",
+        "examples": [
+          {
+            "ours": "Мы уже час надеемся на ветер.",
+            "thought": "Мы имеем быть надеющимися на ветер целый [какой-то] час.",
+            "english": "We have been hoping for wind for an hour.",
+            "transcription": "[wи: хæв би:н х**о**упиŋ фо: wинд фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты уже два дня надеешься на хорошую погоду?",
+            "thought": "Имеешь ты быть надеющимся на хорошую погоду целых два дня?",
+            "english": "Have you been hoping for good weather for two days?",
+            "transcription": "[хæв ю: би:н х**о**упиŋ фо: гуд w**э**ðэ фо: ту: дэйз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been hoping",
+        "examples": [
+          {
+            "ours": "К пяти мы будем надеяться на ветер уже два часа.",
+            "thought": "К пяти мы будем иметь быть надеющимися на ветер целых два часа.",
+            "english": "By five we will have been hoping for wind for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н х**о**упиŋ фо: wинд фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь надеяться на хорошую погоду уже час?",
+            "thought": "Будешь ты иметь быть надеющимся на хорошую погоду целый [какой-то] час к полудню?",
+            "english": "Will you have been hoping for good weather for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н х**о**упиŋ фо: гуд w**э**ðэ фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "Пассив с hope for грамматически возможен, но обычно звучит неестественно. Скажут: The crew hopes for good weather."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они будут надеяться на ветер.",
+        "thought": "Я знал, они будут надеяться на ветер.",
+        "english": "I knew they would hope for wind.",
+        "transcription": "[ай нью: ðэй wуд хоуп фо: wинд]"
+      },
+      {
+        "ours": "Она думала, что мы не будем надеяться на победу.",
+        "thought": "Она думала, мы будем не надеяться на победу.",
+        "english": "She thought we would not hope for victory.",
+        "transcription": "[ши: θо:т wи: wуд нот хоуп фо: в**и**ктэри]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "victory",
+      "meaning": "победа",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "victory"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "victory"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "victory"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "victory"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "victory"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "victory"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "berth",
+      "meaning": "причальное место",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "berth"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "berth"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "days"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "days"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,884 @@
+{
+  "spec": 4,
+  "verb": "drop",
+  "forms": {
+    "base": [
+      {
+        "word": "drop",
+        "transcription": "[дроп]"
+      }
+    ],
+    "past": [
+      {
+        "word": "dropped",
+        "transcription": "[дропт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "dropped",
+        "transcription": "[дропт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "dropping",
+        "transcription": "[др**о**пиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "drops",
+        "transcription": "[дропс]"
+      }
+    ]
+  },
+  "meaning": "бросать, ронять, спускать; снижаться",
+  "notes": "правильный переходный и непереходный глагол; drop anchor — встать на якорь; drop a sail — спустить парус; drop speed — снижать скорость; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "dropped",
+        "examples": [
+          {
+            "ours": "Вчера мы встали на якорь в бухте.",
+            "thought": "Вчера мы бросили [известный] якорь в [известной] бухте.",
+            "english": "Yesterday we dropped the anchor in the bay.",
+            "transcription": "[й**э**стэдэй wи: дропт ðи **æ**нкэ ин ðэ бэй]"
+          },
+          {
+            "ours": "Ты уронил инструмент за борт?",
+            "thought": "[Сделал] ты ронять [известный] инструмент за борт?",
+            "english": "Did you drop the tool overboard?",
+            "transcription": "[дид ю: дроп ðэ ту:л **о**увэбо:д]"
+          },
+          {
+            "ours": "Она не спустила парус.",
+            "thought": "Она [сделала] не спускать [известный] парус.",
+            "english": "She did not drop the sail.",
+            "transcription": "[ши: дид нот дроп ðэ сэйл]"
+          }
+        ]
+      },
+      "present": {
+        "form": "drop, drops",
+        "examples": [
+          {
+            "ours": "Шкипер бросает якорь в защищённой бухте.",
+            "thought": "[Известный] шкипер бросает [известный] якорь в [какой-то] защищённой бухте.",
+            "english": "The skipper drops the anchor in a sheltered bay.",
+            "transcription": "[ðэ ск**и**пэ дропс ðи **æ**нкэ ин э ш**э**лтэд бэй]"
+          },
+          {
+            "ours": "Ты снижаешь скорость у марины?",
+            "thought": "[Делаешь] ты снижать скорость у [известной] марины?",
+            "english": "Do you drop speed near the marina?",
+            "transcription": "[ду: ю: дроп спи:д ниэ ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Мы не бросаем верёвки на палубу.",
+            "thought": "Мы [делаем] не бросать верёвки на [известную] палубу.",
+            "english": "We do not drop ropes on the deck.",
+            "transcription": "[wи: ду: нот дроп роупс он ðэ дэк]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will drop",
+        "examples": [
+          {
+            "ours": "Завтра мы встанем на якорь у острова.",
+            "thought": "Завтра мы будем бросать [известный] якорь у [известного] острова.",
+            "english": "Tomorrow we will drop the anchor near the island.",
+            "transcription": "[тэм**о**роу wи: wил дроп ðи **æ**нкэ ниэ ðи **а**йлэнд]"
+          },
+          {
+            "ours": "Ты спустишь парус?",
+            "thought": "Будешь ты спускать [известный] парус?",
+            "english": "Will you drop the sail?",
+            "transcription": "[wил ю: дроп ðэ сэйл]"
+          },
+          {
+            "ours": "Она не бросит конец за борт.",
+            "thought": "Она будет не бросать [известный] конец за борт.",
+            "english": "She will not drop the line overboard.",
+            "transcription": "[ши: wил нот дроп ðэ лайн **о**увэбо:д]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were dropping",
+        "examples": [
+          {
+            "ours": "Мы бросали якорь, когда поднялся ветер.",
+            "thought": "Мы были бросающими [известный] якорь, когда [известный] ветер поднялся.",
+            "english": "We were dropping the anchor when the wind rose.",
+            "transcription": "[wи: wœ: др**о**пиŋ ðи **æ**нкэ wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты спускал парус, когда я позвал?",
+            "thought": "Был ты спускающим [известный] парус, когда я позвал?",
+            "english": "Were you dropping the sail when I called?",
+            "transcription": "[wœ: ю: др**о**пиŋ ðэ сэйл wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are dropping",
+        "examples": [
+          {
+            "ours": "Глубина сейчас уменьшается.",
+            "thought": "[Известная] глубина является снижающейся сейчас.",
+            "english": "The depth is dropping now.",
+            "transcription": "[ðэ дэпθ из др**о**пиŋ нау]"
+          },
+          {
+            "ours": "Они сейчас бросают якорь?",
+            "thought": "Являются они бросающими [известный] якорь сейчас?",
+            "english": "Are they dropping the anchor now?",
+            "transcription": "[а: ðэй др**о**пиŋ ðи **æ**нкэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be dropping",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем спускать паруса.",
+            "thought": "Завтра утром мы будем быть спускающими [известные] паруса.",
+            "english": "Tomorrow morning we will be dropping the sails.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: др**о**пиŋ ðэ сэйлз]"
+          },
+          {
+            "ours": "Ты будешь бросать якорь, когда я подойду?",
+            "thought": "Будешь ты быть бросающим [известный] якорь, когда я прибуду?",
+            "english": "Will you be dropping the anchor when I arrive?",
+            "transcription": "[wил ю: би: др**о**пиŋ ðи **æ**нкэ wэн ай эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had dropped",
+        "examples": [
+          {
+            "ours": "К полудню мы уже бросили якорь.",
+            "thought": "К полудню мы имели уже брошенным [известный] якорь.",
+            "english": "By noon we had already dropped the anchor.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди дропт ðи **æ**нкэ]"
+          },
+          {
+            "ours": "Ты спустил парус до шторма?",
+            "thought": "Имел ты спущенным [известный] парус до [известного] шторма?",
+            "english": "Had you dropped the sail before the storm?",
+            "transcription": "[хæд ю: дропт ðэ сэйл биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has dropped",
+        "examples": [
+          {
+            "ours": "Мы уже бросили якорь.",
+            "thought": "Мы имеем уже брошенным [известный] якорь.",
+            "english": "We have already dropped the anchor.",
+            "transcription": "[wи: хæв о:лр**э**ди дропт ðи **æ**нкэ]"
+          },
+          {
+            "ours": "Ты уже спустил парус?",
+            "thought": "Имеешь ты спущенным [известный] парус уже?",
+            "english": "Have you dropped the sail yet?",
+            "transcription": "[хæв ю: дропт ðэ сэйл йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have dropped",
+        "examples": [
+          {
+            "ours": "К полудню мы бросим якорь.",
+            "thought": "К полудню мы будем иметь брошенным [известный] якорь.",
+            "english": "By noon we will have dropped the anchor.",
+            "transcription": "[бай ну:н wи: wил хæв дропт ðи **æ**нкэ]"
+          },
+          {
+            "ours": "Ты спустишь парус к пяти?",
+            "thought": "Будешь ты иметь спущенным [известный] парус к пяти?",
+            "english": "Will you have dropped the sail by five?",
+            "transcription": "[wил ю: хæв дропт ðэ сэйл бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been dropping",
+        "examples": [
+          {
+            "ours": "Глубина уменьшалась уже час, когда мы увидели сушу.",
+            "thought": "[Известная] глубина имела быть снижающейся целый [какой-то] час, когда мы увидели сушу.",
+            "english": "The depth had been dropping for an hour when we saw land.",
+            "transcription": "[ðэ дэпθ хæд би:н др**о**пиŋ фо: эн **а**уэ wэн wи: со: лæнд]"
+          },
+          {
+            "ours": "Давление падало давно, когда ты проснулся?",
+            "thought": "Имело [известное] давление быть падающим долго, когда ты проснулся?",
+            "english": "Had the pressure been dropping long when you woke?",
+            "transcription": "[хæд ðэ пр**э**шэ би:н др**о**пиŋ лоŋ wэн ю: wоук]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been dropping",
+        "examples": [
+          {
+            "ours": "Давление падает уже час.",
+            "thought": "[Известное] давление имеет быть падающим целый [какой-то] час.",
+            "english": "The pressure has been dropping for an hour.",
+            "transcription": "[ðэ пр**э**шэ хæз би:н др**о**пиŋ фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Скорость ветра падает с полудня?",
+            "thought": "Имеет [известная] скорость ветра быть падающей с полудня?",
+            "english": "Has the wind speed been dropping since noon?",
+            "transcription": "[хæз ðэ wинд спи:д би:н др**о**пиŋ синс ну:н]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been dropping",
+        "examples": [
+          {
+            "ours": "К пяти давление будет падать уже два часа.",
+            "thought": "К пяти [известное] давление будет иметь быть падающим целых два часа.",
+            "english": "By five the pressure will have been dropping for two hours.",
+            "transcription": "[бай файв ðэ пр**э**шэ wил хæв би:н др**о**пиŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню скорость будет падать уже час?",
+            "thought": "Будет [известная] скорость иметь быть падающей целый [какой-то] час к полудню?",
+            "english": "Will the speed have been dropping for an hour by noon?",
+            "transcription": "[wил ðэ спи:д хæв би:н др**о**пиŋ фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were dropped",
+        "examples": [
+          {
+            "ours": "Якорь бросили в бухте.",
+            "thought": "[Известный] якорь был брошен в [известной] бухте.",
+            "english": "The anchor was dropped in the bay.",
+            "transcription": "[ðи **æ**нкэ wоз дропт ин ðэ бэй]"
+          },
+          {
+            "ours": "Парус спустили до шторма?",
+            "thought": "Был [известный] парус спущен до [известного] шторма?",
+            "english": "Was the sail dropped before the storm?",
+            "transcription": "[wоз ðэ сэйл дропт биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are dropped",
+        "examples": [
+          {
+            "ours": "Якорь бросают с носа.",
+            "thought": "[Известный] якорь есть брошен с [известного] носа.",
+            "english": "The anchor is dropped from the bow.",
+            "transcription": "[ðи **æ**нкэ из дропт фром ðэ бау]"
+          },
+          {
+            "ours": "Паруса спускают перед штормом?",
+            "thought": "Есть [известные] паруса спущены до [известного] шторма?",
+            "english": "Are the sails dropped before the storm?",
+            "transcription": "[а: ðэ сэйлз дропт биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be dropped",
+        "examples": [
+          {
+            "ours": "Якорь бросят завтра утром.",
+            "thought": "[Известный] якорь будет быть брошен завтра утром.",
+            "english": "The anchor will be dropped tomorrow morning.",
+            "transcription": "[ðи **æ**нкэ wил би: дропт тэм**о**роу м**о**:ниŋ]"
+          },
+          {
+            "ours": "Парус спустят до полудня?",
+            "thought": "Будет [известный] парус быть спущен до полудня?",
+            "english": "Will the sail be dropped before noon?",
+            "transcription": "[wил ðэ сэйл би: дропт биф**о**: ну:н]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being dropped",
+        "examples": [
+          {
+            "ours": "Якорь спускали, когда поднялся ветер.",
+            "thought": "[Известный] якорь был «долго» брошен, когда [известный] ветер поднялся.",
+            "english": "The anchor was being dropped when the wind rose.",
+            "transcription": "[ðи **æ**нкэ wоз б**и**:иŋ дропт wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Парус спускали, когда я прибыл?",
+            "thought": "Был [известный] парус «долго» спущен, когда я прибыл?",
+            "english": "Was the sail being dropped when I arrived?",
+            "transcription": "[wоз ðэ сэйл б**и**:иŋ дропт wэн ай эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being dropped",
+        "examples": [
+          {
+            "ours": "Сейчас бросают якорь.",
+            "thought": "[Известный] якорь есть «долго» брошен сейчас.",
+            "english": "The anchor is being dropped now.",
+            "transcription": "[ðи **æ**нкэ из б**и**:иŋ дропт нау]"
+          },
+          {
+            "ours": "Сейчас спускают парус?",
+            "thought": "Есть [известный] парус «долго» спущен сейчас?",
+            "english": "Is the sail being dropped now?",
+            "transcription": "[из ðэ сэйл б**и**:иŋ дропт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be dropping",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут бросать якорь.",
+            "thought": "Завтра утром они будут быть бросающими [известный] якорь.",
+            "english": "Tomorrow morning they will be dropping the anchor.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: др**о**пиŋ ðи **æ**нкэ]"
+          },
+          {
+            "ours": "Они будут спускать парус, когда мы прибудем?",
+            "thought": "Будут они быть спускающими [известный] парус, когда мы прибудем?",
+            "english": "Will they be dropping the sail when we arrive?",
+            "transcription": "[wил ðэй би: др**о**пиŋ ðэ сэйл wэн wи: эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been dropped",
+        "examples": [
+          {
+            "ours": "К полудню якорь уже бросили.",
+            "thought": "К полудню [известный] якорь имел уже быть брошен.",
+            "english": "By noon the anchor had already been dropped.",
+            "transcription": "[бай ну:н ðи **æ**нкэ хæд о:лр**э**ди би:н дропт]"
+          },
+          {
+            "ours": "Парус спустили до шторма?",
+            "thought": "Имел [известный] парус быть спущен до [известного] шторма?",
+            "english": "Had the sail been dropped before the storm?",
+            "transcription": "[хæд ðэ сэйл би:н дропт биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been dropped",
+        "examples": [
+          {
+            "ours": "Якорь уже бросили.",
+            "thought": "[Известный] якорь имеет уже быть брошен.",
+            "english": "The anchor has already been dropped.",
+            "transcription": "[ðи **æ**нкэ хæз о:лр**э**ди би:н дропт]"
+          },
+          {
+            "ours": "Парус уже спустили?",
+            "thought": "Имеет [известный] парус быть спущен уже?",
+            "english": "Has the sail been dropped yet?",
+            "transcription": "[хæз ðэ сэйл би:н дропт йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been dropped",
+        "examples": [
+          {
+            "ours": "К полудню якорь бросят.",
+            "thought": "К полудню [известный] якорь будет иметь быть брошен.",
+            "english": "By noon the anchor will have been dropped.",
+            "transcription": "[бай ну:н ðи **æ**нкэ wил хæв би:н дропт]"
+          },
+          {
+            "ours": "Парус спустят к пяти?",
+            "thought": "Будет [известный] парус иметь быть спущен к пяти?",
+            "english": "Will the sail have been dropped by five?",
+            "transcription": "[wил ðэ сэйл хæв би:н дропт бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: The anchor has been dropped."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что мы бросим якорь у острова.",
+        "thought": "Я знал, мы будем бросать [известный] якорь у [известного] острова.",
+        "english": "I knew we would drop the anchor near the island.",
+        "transcription": "[ай нью: wи: wуд дроп ðи **æ**нкэ ниэ ðи **а**йлэнд]"
+      },
+      {
+        "ours": "Она сказала, что ветер не ослабеет.",
+        "thought": "Она сказала, [известный] ветер будет не падать.",
+        "english": "She said the wind would not drop.",
+        "transcription": "[ши: сэд ðэ wинд wуд нот дроп]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "bay",
+      "meaning": "бухта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "bay"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "bay"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "bay"
+        }
+      ]
+    },
+    {
+      "word": "tool",
+      "meaning": "инструмент",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "tool"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "sails"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "sails"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "speed",
+      "meaning": "скорость",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "speed"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "верёвка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "ropes"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "island"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "depth",
+      "meaning": "глубина",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "depth"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "land",
+      "meaning": "суша",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "land"
+        }
+      ]
+    },
+    {
+      "word": "pressure",
+      "meaning": "давление",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "pressure"
+        }
+      ]
+    },
+    {
+      "word": "bow",
+      "meaning": "нос судна",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "bow"
+        }
+      ]
+    }
+  ]
+}

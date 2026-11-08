@@ -1,0 +1,781 @@
+{
+  "spec": 4,
+  "verb": "operate",
+  "forms": {
+    "base": [
+      {
+        "word": "operate",
+        "transcription": "[**о**пэрэйт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "operated",
+        "transcription": "[**о**пэрэйтид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "operated",
+        "transcription": "[**о**пэрэйтид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "operating",
+        "transcription": "[**о**пэрэйтиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "operates",
+        "transcription": "[**о**пэрэйтс]"
+      }
+    ]
+  },
+  "meaning": "управлять, работать",
+  "notes": "правильный переходный и непереходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "operated",
+        "examples": [
+          {
+            "ours": "Вчера мы управляли лебёдкой вручную.",
+            "thought": "Вчера мы управляли [известной] лебёдкой вручную.",
+            "english": "Yesterday we operated the winch manually.",
+            "transcription": "[й**э**стэдэй wи: **о**пэрэйтид ðэ wинч м**æ**ньюэли]"
+          },
+          {
+            "ours": "Он не управлял рацией.",
+            "thought": "Он [сделал] не управлять [известной] рацией.",
+            "english": "He didn't operate the radio.",
+            "transcription": "[хи: диднт **о**пэрэйт ðэ р**э**йдиоу]"
+          },
+          {
+            "ours": "Ты управлял насосом до выхода?",
+            "thought": "[Сделал] ты управлять [известным] насосом перед отправлением?",
+            "english": "Did you operate the pump before departure?",
+            "transcription": "[дид ю: **о**пэрэйт ðэ памп биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "operate, operates",
+        "examples": [
+          {
+            "ours": "Двигатель работает нормально.",
+            "thought": "[Известный] двигатель работает нормально.",
+            "english": "The engine operates normally.",
+            "transcription": "[ðэ **э**нджин **о**пэрэйтс н**о**:мэли]"
+          },
+          {
+            "ours": "Он не управляет лебёдкой.",
+            "thought": "Он [делает] не управлять [известной] лебёдкой.",
+            "english": "He doesn't operate the winch.",
+            "transcription": "[хи: дазнт **о**пэрэйт ðэ wинч]"
+          },
+          {
+            "ours": "Ты управляешь рацией на борту?",
+            "thought": "[Делаешь] ты управлять [известной] рацией на борту?",
+            "english": "Do you operate the radio on board?",
+            "transcription": "[ду: ю: **о**пэрэйт ðэ р**э**йдиоу он бо:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will operate",
+        "examples": [
+          {
+            "ours": "Завтра мы будем управлять лебёдкой вручную.",
+            "thought": "Завтра мы будем управлять [известной] лебёдкой вручную.",
+            "english": "Tomorrow we will operate the winch manually.",
+            "transcription": "[тэм**о**роу wи: wил **о**пэрэйт ðэ wинч м**æ**ньюэли]"
+          },
+          {
+            "ours": "Он не будет управлять рацией.",
+            "thought": "Он будет не управлять [известной] рацией.",
+            "english": "He won't operate the radio.",
+            "transcription": "[хи: wоунт **о**пэрэйт ðэ р**э**йдиоу]"
+          },
+          {
+            "ours": "Ты будешь управлять насосом до выхода?",
+            "thought": "Будешь ты управлять [известным] насосом перед отправлением?",
+            "english": "Will you operate the pump before departure?",
+            "transcription": "[wил ю: **о**пэрэйт ðэ памп биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were operating",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день управляли насосом.",
+            "thought": "Вчера мы были управляющими [известным] насосом весь день.",
+            "english": "Yesterday we were operating the pump all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: **о**пэрэйтиŋ ðэ памп о:л дэй]"
+          },
+          {
+            "ours": "Ты управлял лебёдкой, когда я пришёл?",
+            "thought": "Был ты управляющим [известной] лебёдкой когда я пришёл?",
+            "english": "Were you operating the winch when I came?",
+            "transcription": "[wœ: ю: **о**пэрэйтиŋ ðэ wинч wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are operating",
+        "examples": [
+          {
+            "ours": "Сейчас двигатель работает нормально.",
+            "thought": "[Известный] двигатель является работающим нормально сейчас.",
+            "english": "The engine is operating normally now.",
+            "transcription": "[ðэ **э**нджин из **о**пэрэйтиŋ н**о**:мэли нау]"
+          },
+          {
+            "ours": "Ты сейчас управляешь насосом?",
+            "thought": "Являешься ты управляющим [известным] насосом сейчас?",
+            "english": "Are you operating the pump now?",
+            "transcription": "[а: ю: **о**пэрэйтиŋ ðэ памп нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be operating",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем управлять насосом.",
+            "thought": "Завтра мы будем быть управляющими [известным] насосом весь день.",
+            "english": "Tomorrow we will be operating the pump all day.",
+            "transcription": "[тэм**о**роу wи: wил би: **о**пэрэйтиŋ ðэ памп о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь управлять лебёдкой во время гонки?",
+            "thought": "Будешь ты быть управляющим [известной] лебёдкой во время [известной] гонки?",
+            "english": "Will you be operating the winch during the race?",
+            "transcription": "[wил ю: би: **о**пэрэйтиŋ ðэ wинч дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had operated",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже управляли лебёдкой.",
+            "thought": "К пяти вчера мы имели уже управляемой [известную] лебёдку.",
+            "english": "By five yesterday we had already operated the winch.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди **о**пэрэйтид ðэ wинч]"
+          },
+          {
+            "ours": "Ты управлял насосом до выхода?",
+            "thought": "Имел ты управляемым [известный] насос перед отправлением?",
+            "english": "Had you operated the pump before departure?",
+            "transcription": "[хæд ю: **о**пэрэйтид ðэ памп биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has operated",
+        "examples": [
+          {
+            "ours": "Мы уже управляли лебёдкой вручную.",
+            "thought": "Мы имеем уже управляемой [известную] лебёдку вручную.",
+            "english": "We have already operated the winch manually.",
+            "transcription": "[wи: хæв о:лр**э**ди **о**пэрэйтид ðэ wинч м**æ**ньюэли]"
+          },
+          {
+            "ours": "Ты уже управлял насосом?",
+            "thought": "Имеешь ты уже управляемым [известный] насос?",
+            "english": "Have you already operated the pump?",
+            "transcription": "[хæв ю: о:лр**э**ди **о**пэрэйтид ðэ памп]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have operated",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже будем управлять лебёдкой.",
+            "thought": "К пяти завтра мы будем иметь уже управляемой [известную] лебёдку.",
+            "english": "By five tomorrow we will have already operated the winch.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди **о**пэрэйтид ðэ wинч]"
+          },
+          {
+            "ours": "Ты поработаешь с насосом до выхода?",
+            "thought": "Будешь ты иметь управляемым [известный] насос перед отправлением?",
+            "english": "Will you have operated the pump before departure?",
+            "transcription": "[wил ю: хæв **о**пэрэйтид ðэ памп биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been operating",
+        "examples": [
+          {
+            "ours": "Мы уже два часа управляли насосом, когда ты пришёл.",
+            "thought": "Мы имели быть управляющими [известным] насосом целых два часа когда ты пришёл.",
+            "english": "We had been operating the pump for two hours when you came.",
+            "transcription": "[wи: хæд би:н **о**пэрэйтиŋ ðэ памп фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Двигатель уже два часа работал, когда он пришёл?",
+            "thought": "Имел [известный] двигатель быть работающим целых два часа когда он пришёл?",
+            "english": "Had the engine been operating for two hours when he came?",
+            "transcription": "[хæд ðэ **э**нджин би:н **о**пэрэйтиŋ фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been operating",
+        "examples": [
+          {
+            "ours": "Насос уже два часа работает нормально.",
+            "thought": "[Известный] насос имеет быть работающим нормально целых два часа.",
+            "english": "The pump has been operating normally for two hours.",
+            "transcription": "[ðэ памп хæз би:н **о**пэрэйтиŋ н**о**:мэли фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа управляешь лебёдкой?",
+            "thought": "Имеешь ты быть управляющим [известной] лебёдкой целых два часа?",
+            "english": "Have you been operating the winch for two hours?",
+            "transcription": "[хæв ю: би:н **о**пэрэйтиŋ ðэ wинч фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been operating",
+        "examples": [
+          {
+            "ours": "К пяти двигатель будет работать уже два часа.",
+            "thought": "К пяти [известный] двигатель будет иметь быть работающим целых два часа.",
+            "english": "By five the engine will have been operating for two hours.",
+            "transcription": "[бай файв ðэ **э**нджин wил хæв би:н **о**пэрэйтиŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь управлять насосом уже два часа?",
+            "thought": "Будешь ты иметь быть управляющим [известным] насосом целых два часа к пяти?",
+            "english": "Will you have been operating the pump for two hours by five?",
+            "transcription": "[wил ю: хæв би:н **о**пэрэйтиŋ ðэ памп фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were operated",
+        "examples": [
+          {
+            "ours": "Вчера лебёдкой управляли вручную.",
+            "thought": "[Известная] лебёдка была управляема вручную вчера.",
+            "english": "The winch was operated manually yesterday.",
+            "transcription": "[ðэ wинч wоз **о**пэрэйтид м**æ**ньюэли й**э**стэдэй]"
+          },
+          {
+            "ours": "Насосом управляли до выхода?",
+            "thought": "Был [известный] насос управляем перед отправлением?",
+            "english": "Was the pump operated before departure?",
+            "transcription": "[wоз ðэ памп **о**пэрэйтид биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are operated",
+        "examples": [
+          {
+            "ours": "Насосом управляют вручную.",
+            "thought": "[Известный] насос есть управляем вручную.",
+            "english": "The pump is operated manually.",
+            "transcription": "[ðэ памп из **о**пэрэйтид м**æ**ньюэли]"
+          },
+          {
+            "ours": "Рацией управляют на борту?",
+            "thought": "Есть [известная] рация управляема на борту?",
+            "english": "Is the radio operated on board?",
+            "transcription": "[из ðэ р**э**йдиоу **о**пэрэйтид он бо:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be operated",
+        "examples": [
+          {
+            "ours": "Завтра лебёдкой будут управлять вручную.",
+            "thought": "[Известная] лебёдка будет быть управляема вручную завтра.",
+            "english": "The winch will be operated manually tomorrow.",
+            "transcription": "[ðэ wинч wил би: **о**пэрэйтид м**æ**ньюэли тэм**о**роу]"
+          },
+          {
+            "ours": "Насосом будут управлять до выхода?",
+            "thought": "Будет [известный] насос быть управляем перед отправлением?",
+            "english": "Will the pump be operated before departure?",
+            "transcription": "[wил ðэ памп би: **о**пэрэйтид биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being operated",
+        "examples": [
+          {
+            "ours": "Вчера насосом управляли весь день.",
+            "thought": "Вчера [известный] насос был «долго» управляем весь день.",
+            "english": "Yesterday the pump was being operated all day.",
+            "transcription": "[й**э**стэдэй ðэ памп wоз б**и**:иŋ **о**пэрэйтид о:л дэй]"
+          },
+          {
+            "ours": "Лебёдкой управляли, когда ты пришёл?",
+            "thought": "Была [известная] лебёдка «долго» управляема когда ты пришёл?",
+            "english": "Was the winch being operated when you came?",
+            "transcription": "[wоз ðэ wинч б**и**:иŋ **о**пэрэйтид wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being operated",
+        "examples": [
+          {
+            "ours": "Сейчас насосом управляют вручную.",
+            "thought": "[Известный] насос есть «долго» управляем вручную сейчас.",
+            "english": "The pump is being operated manually now.",
+            "transcription": "[ðэ памп из б**и**:иŋ **о**пэрэйтид м**æ**ньюэли нау]"
+          },
+          {
+            "ours": "Сейчас лебёдкой управляют?",
+            "thought": "Есть [известная] лебёдка «долго» управляема сейчас?",
+            "english": "Is the winch being operated now?",
+            "transcription": "[из ðэ wинч б**и**:иŋ **о**пэрэйтид нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be operating",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут управлять насосом.",
+            "thought": "Завтра они будут быть управляющими [известным] насосом весь день.",
+            "english": "Tomorrow they will be operating the pump all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: **о**пэрэйтиŋ ðэ памп о:л дэй]"
+          },
+          {
+            "ours": "Они будут управлять лебёдкой во время гонки?",
+            "thought": "Будут они быть управляющими [известной] лебёдкой во время [известной] гонки?",
+            "english": "Will they be operating the winch during the race?",
+            "transcription": "[wил ðэй би: **о**пэрэйтиŋ ðэ wинч дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been operated",
+        "examples": [
+          {
+            "ours": "Вчера к пяти лебёдкой уже управляли вручную.",
+            "thought": "К пяти вчера [известная] лебёдка имела уже быть управляема вручную.",
+            "english": "By five yesterday the winch had already been operated manually.",
+            "transcription": "[бай файв й**э**стэдэй ðэ wинч хæд о:лр**э**ди би:н **о**пэрэйтид м**æ**ньюэли]"
+          },
+          {
+            "ours": "Насосом управляли до выхода?",
+            "thought": "Имел [известный] насос быть управляем перед отправлением?",
+            "english": "Had the pump been operated before departure?",
+            "transcription": "[хæд ðэ памп би:н **о**пэрэйтид биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been operated",
+        "examples": [
+          {
+            "ours": "Лебёдкой уже управляли вручную.",
+            "thought": "[Известная] лебёдка имеет уже быть управляема вручную.",
+            "english": "The winch has already been operated manually.",
+            "transcription": "[ðэ wинч хæз о:лр**э**ди би:н **о**пэрэйтид м**æ**ньюэли]"
+          },
+          {
+            "ours": "Насосом уже управляли?",
+            "thought": "Имеет [известный] насос уже быть управляем?",
+            "english": "Has the pump already been operated?",
+            "transcription": "[хæз ðэ памп о:лр**э**ди би:н **о**пэрэйтид]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been operated",
+        "not_possible": "Завершённый будущий пассив для факта управления прибором без специального контекста звучит неестественно. Обычно скажут: The pump will be operated manually."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The winch has been operated. Или: They have been operating the pump."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они будут управлять насосом.",
+        "thought": "[Известный] капитан сказал что они будут управлять [известным] насосом.",
+        "english": "The captain said that they would operate the pump.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд **о**пэрэйт ðэ памп]"
+      },
+      {
+        "ours": "Я знал, что ты не будешь управлять рацией.",
+        "thought": "Я знал что ты будешь не управлять [известной] рацией.",
+        "english": "I knew that you wouldn't operate the radio.",
+        "transcription": "[ай нью: ðæт ю: wуднт **о**пэрэйт ðэ р**э**йдиоу]"
+      },
+      {
+        "ours": "Капитан сказал, что мы будем управлять лебёдкой.",
+        "thought": "[Известный] капитан сказал что мы будем управлять [известной] лебёдкой.",
+        "english": "The captain said that we would operate the winch.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд **о**пэрэйт ðэ wинч]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "winch",
+      "meaning": "лебёдка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "winch"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "winch"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "winch"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "winch"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "winch"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "winch"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "winch"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "winch"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "winch"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "winch"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "winch"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "winch"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "winch"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "winch"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "winch"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "winch"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "winch"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "насос",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отправление",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,744 @@
+{
+  "spec": 4,
+  "verb": "fight",
+  "forms": {
+    "base": [{"word": "fight", "transcription": "[файт]"}],
+    "past": [{"word": "fought", "transcription": "[фо:т]"}],
+    "participle": [{"word": "fought", "transcription": "[фо:т]"}],
+    "ing": [{"word": "fighting", "transcription": "[ф**а**йтиŋ]"}],
+    "s": [{"word": "fights", "transcription": "[файтс]"}]
+  },
+  "meaning": "бороться, сражаться, драться, оспаривать, тушить (пожар)",
+  "notes": "неправильный глагол: fight — fought — fought; чаще с объектом без предлога: fight the storm — бороться со штормом, fight a fire — тушить пожар, fight a penalty — оспаривать штраф; fight for — бороться за, fight with — драться с; пассив обычно в значении «оспаривать»: the penalty was fought — штраф оспаривали",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "fought",
+        "examples": [
+          {
+            "ours": "Прошлой ночью мы до рассвета боролись со штормом.",
+            "thought": "Прошлой ночью мы боролись [известный] шторм до рассвета.",
+            "english": "Last night we fought the storm until dawn.",
+            "transcription": "[ла:ст найт wи: фо:т ðэ сто:м энт**и**л до:н]"
+          },
+          {
+            "ours": "Шкипер не стал оспаривать штраф.",
+            "thought": "[Известный] шкипер [сделал] не оспаривать [известный] штраф.",
+            "english": "The skipper didn't fight the penalty.",
+            "transcription": "[ðэ ск**и**пэ диднт файт ðэ п**э**нэлти]"
+          },
+          {
+            "ours": "Экипаж тушил пожар под палубой?",
+            "thought": "[Сделал] [известный] экипаж бороться [известный] пожар под палубой?",
+            "english": "Did the crew fight the fire below deck?",
+            "transcription": "[дид ðэ кру: файт ðэ файэ бил**о**у дэк]"
+          }
+        ]
+      },
+      "present": {
+        "form": "fight, fights",
+        "examples": [
+          {
+            "ours": "Каждую весну она борется с ржавчиной на своей старой лодке.",
+            "thought": "Она борется ржавчину на её старой лодке каждую весну.",
+            "english": "She fights rust on her old boat every spring.",
+            "transcription": "[ши: файтс раст он хœ: оулд боут **э**ври сприŋ]"
+          },
+          {
+            "ours": "Наш рулевой не борется с волнами, а идёт вместе с ними.",
+            "thought": "Наш рулевой [делает] не бороться [известные] волны; он работает с ними.",
+            "english": "Our helmsman doesn't fight the waves; he works with them.",
+            "transcription": "[ауэ х**э**лмзмэн дазнт файт ðэ wэйвз хи: wœ:кс wиð ðэм]"
+          },
+          {
+            "ours": "Вам здесь всегда приходится идти против прилива?",
+            "thought": "[Делаете] вы всегда бороться [известный] прилив здесь?",
+            "english": "Do you always fight the tide here?",
+            "transcription": "[ду: ю: **о**:лwэйз файт ðэ тайд хиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will fight",
+        "examples": [
+          {
+            "ours": "Завтра мы будем бороться за лидерство.",
+            "thought": "Завтра мы будем бороться за [известное] лидерство.",
+            "english": "Tomorrow we will fight for the lead.",
+            "transcription": "[тэм**о**роу wи: wил файт фо: ðэ ли:д]"
+          },
+          {
+            "ours": "Владелец не станет судиться со страховой компанией.",
+            "thought": "[Известный] владелец будет не бороться [известную] страховую компанию.",
+            "english": "The owner won't fight the insurance company.",
+            "transcription": "[ðи **о**унэ wоунт файт ðи инш**у**эрэнс к**а**мпэни]"
+          },
+          {
+            "ours": "Пойдёшь против ветра или переждёшь в гавани?",
+            "thought": "Будешь ты бороться [известный] ветер или ждать в [известной] гавани?",
+            "english": "Will you fight the wind or wait in the harbor?",
+            "transcription": "[wил ю: файт ðэ wинд о: wэйт ин ðэ х**а**:бэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were fighting",
+        "examples": [
+          {
+            "ours": "Всё утро мы шли против сильного встречного ветра.",
+            "thought": "Мы были борющимися [какой-то] сильный встречный ветер всё утро.",
+            "english": "We were fighting a strong headwind all morning.",
+            "transcription": "[wи: wœ: ф**а**йтиŋ э строŋ х**э**дwинд о:л м**о**:ниŋ]"
+          },
+          {
+            "ours": "Вы шли против течения, когда отказал двигатель?",
+            "thought": "Были вы борющимися [известное] течение, когда [известный] двигатель отказал?",
+            "english": "Were you fighting the current when the engine failed?",
+            "transcription": "[wœ: ю: ф**а**йтиŋ ðэ к**а**рэнт wэн ðи **э**нджин фэйлд]"
+          },
+          {
+            "ours": "Он не дрался с другим шкипером, они просто спорили.",
+            "thought": "Он был не дерущимся с [известным] другим шкипером; они были просто спорящими.",
+            "english": "He wasn't fighting with the other skipper; they were just arguing.",
+            "transcription": "[хи: wознт ф**а**йтиŋ wиð ðи **а**ðэ ск**и**пэ ðэй wœ: джаст **а**:гьюиŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are fighting",
+        "examples": [
+          {
+            "ours": "Брат сейчас стоит за рулём и борется со сном.",
+            "thought": "Мой брат является борющимся сон у [известного] руля сейчас.",
+            "english": "My brother is fighting sleep at the helm now.",
+            "transcription": "[май бр**а**ðэ из ф**а**йтиŋ сли:п æт ðэ хэлм нау]"
+          },
+          {
+            "ours": "Сейчас она не борется за первое место, а держит второе.",
+            "thought": "Она является не борющейся за первое место сейчас; она является защищающей второе.",
+            "english": "She isn't fighting for first place now; she is defending second.",
+            "transcription": "[ши: изнт ф**а**йтиŋ фо: фœ:ст плэйс нау ши: из диф**э**ндиŋ с**э**кэнд]"
+          },
+          {
+            "ours": "Они всё ещё тушат пожар на той яхте?",
+            "thought": "Являются они всё ещё борющимися [известный] пожар на той яхте?",
+            "english": "Are they still fighting the fire on that yacht?",
+            "transcription": "[а: ðэй стил ф**а**йтиŋ ðэ файэ он ðæт йот]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be fighting",
+        "examples": [
+          {
+            "ours": "Завтра в это время мы будем бороться с зыбью у мыса.",
+            "thought": "В это время завтра мы будем быть борющимися [известную] зыбь у [известного] мыса.",
+            "english": "At this time tomorrow we will be fighting the swell off the cape.",
+            "transcription": "[æт ðис тайм тэм**о**роу wи: wил би: ф**а**йтиŋ ðэ сwэл оф ðэ кэйп]"
+          },
+          {
+            "ours": "Вы всю неделю будете бороться за кубок?",
+            "thought": "Будете вы быть борющимися за [известный] кубок всю неделю?",
+            "english": "Will you be fighting for the cup all week?",
+            "transcription": "[wил ю: би: ф**а**йтиŋ фо: ðэ кап о:л wи:к]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had fought",
+        "examples": [
+          {
+            "ours": "К тому времени она оспорила уже три протеста за сезон.",
+            "thought": "К тогда она имела уже оспоренными три протеста тот сезон.",
+            "english": "By then she had already fought three protests that season.",
+            "transcription": "[бай ðэн ши: хæд о:лр**э**ди фо:т θри: пр**о**утэстс ðæт с**и**:зн]"
+          },
+          {
+            "ours": "До той гонки мы никогда не боролись с таким сильным ветром.",
+            "thought": "До той гонки мы имели никогда боровшимися такие сильные ветры.",
+            "english": "Before that race we had never fought such strong winds.",
+            "transcription": "[биф**о**: ðæт рэйс wи: хæд н**э**вэ фо:т сач строŋ wиндз]"
+          },
+          {
+            "ours": "Ты когда-нибудь раньше боролся с таким штормом?",
+            "thought": "Имел ты когда-либо боровшимся [какой-то] шторм как тот раньше?",
+            "english": "Had you ever fought a storm like that before?",
+            "transcription": "[хæд ю: **э**вэ фо:т э сто:м лайк ðæт биф**о**:]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has fought",
+        "examples": [
+          {
+            "ours": "Она всю жизнь борется с морской болезнью.",
+            "thought": "Она имеет боровшейся морскую болезнь всю её жизнь.",
+            "english": "She has fought seasickness all her life.",
+            "transcription": "[ши: хæз фо:т с**и**:сикнэс о:л хœ: лайф]"
+          },
+          {
+            "ours": "Наш клуб пока не оспорил штраф.",
+            "thought": "Наш клуб имеет не оспоренным [известный] штраф ещё.",
+            "english": "Our club hasn't fought the fine yet.",
+            "transcription": "[ауэ клаб хæзнт фо:т ðэ файн йэт]"
+          },
+          {
+            "ours": "Тебе когда-нибудь приходилось тушить пожар в море?",
+            "thought": "Имеешь ты когда-либо боровшимся [какой-то] пожар в море?",
+            "english": "Have you ever fought a fire at sea?",
+            "transcription": "[хæв ю: **э**вэ фо:т э файэ æт си:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have fought",
+        "examples": [
+          {
+            "ours": "К пятнице шкипер разберётся со всеми тремя протестами.",
+            "thought": "К пятнице [известный] шкипер будет иметь оспоренными все три протеста.",
+            "english": "By Friday the skipper will have fought all three protests.",
+            "transcription": "[бай фр**а**йдэй ðэ ск**и**пэ wил хæв фо:т о:л θри: пр**о**утэстс]"
+          },
+          {
+            "ours": "Ты успеешь оспорить штраф до следующей гонки?",
+            "thought": "Будешь ты иметь оспоренным [известный] штраф к [известной] следующей гонке?",
+            "english": "Will you have fought the penalty by the next race?",
+            "transcription": "[wил ю: хæв фо:т ðэ п**э**нэлти бай ðэ нэкст рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been fighting",
+        "examples": [
+          {
+            "ours": "Мы три часа боролись с течью, когда подошла береговая охрана.",
+            "thought": "Мы имели быть борющимися [известную] течь целых три часа, когда [известная] береговая охрана прибыла.",
+            "english": "We had been fighting the leak for three hours when the coastguard arrived.",
+            "transcription": "[wи: хæд би:н ф**а**йтиŋ ðэ ли:к фо: θри: **а**уэз wэн ðэ к**о**устга:д эр**а**йвд]"
+          },
+          {
+            "ours": "Ты долго боролся с ветром, прежде чем сломалась мачта?",
+            "thought": "Имел ты быть борющимся [известный] ветер целое долго, когда [известная] мачта сломалась?",
+            "english": "Had you been fighting the wind for long when the mast broke?",
+            "transcription": "[хæд ю: би:н ф**а**йтиŋ ðэ wинд фо: лоŋ wэн ðэ ма:ст броук]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been fighting",
+        "examples": [
+          {
+            "ours": "Мы уже два часа боремся с этим течением.",
+            "thought": "Мы имеем быть борющимися это течение целых два часа.",
+            "english": "We have been fighting this current for two hours.",
+            "transcription": "[wи: хæв би:н ф**а**йтиŋ ðис к**а**рэнт фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Шкипер уже несколько часов борется с рулём?",
+            "thought": "Имеет [известный] шкипер быть борющимся [известный] руль целые часы?",
+            "english": "Has the skipper been fighting the helm for hours?",
+            "transcription": "[хæз ðэ ск**и**пэ би:н ф**а**йтиŋ ðэ хэлм фо: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been fighting",
+        "examples": [
+          {
+            "ours": "К рассвету мы будем бороться с этим штормом уже десять часов.",
+            "thought": "К рассвету мы будем иметь быть борющимися этот шторм целых десять часов.",
+            "english": "By dawn we will have been fighting this storm for ten hours.",
+            "transcription": "[бай до:н wи: wил хæв би:н ф**а**йтиŋ ðис сто:м фо: тэн **а**уэз]"
+          },
+          {
+            "ours": "К июню они будут бороться за кубок уже пять лет?",
+            "thought": "Будут они иметь быть борющимися за [известный] кубок целых пять лет к июню?",
+            "english": "Will they have been fighting for the cup for five years by June?",
+            "transcription": "[wил ðэй хæв би:н ф**а**йтиŋ фо: ðэ кап фо: файв йиэз бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were fought",
+        "examples": [
+          {
+            "ours": "Решение жюри оспаривал весь флот.",
+            "thought": "[Известного] жюри решение было оспорено от [известного] целого флота.",
+            "english": "The jury's decision was fought by the whole fleet.",
+            "transcription": "[ðэ дж**у**эриз дис**и**жн wоз фо:т бай ðэ хоул фли:т]"
+          },
+          {
+            "ours": "Штраф не оспаривали: шкипер его принял.",
+            "thought": "[Известный] штраф был не оспорен; [известный] шкипер принял его.",
+            "english": "The penalty wasn't fought; the skipper accepted it.",
+            "transcription": "[ðэ п**э**нэлти wознт фо:т ðэ ск**и**пэ экс**э**птид ит]"
+          },
+          {
+            "ours": "Страховое требование оспаривали в суде?",
+            "thought": "Было [известное] страховое требование оспорено в суде?",
+            "english": "Was the insurance claim fought in court?",
+            "transcription": "[wоз ðи инш**у**эрэнс клэйм фо:т ин ко:т]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are fought",
+        "examples": [
+          {
+            "ours": "Такие штрафы оспаривают редко.",
+            "thought": "Такие штрафы есть редко оспорены.",
+            "english": "Such penalties are rarely fought.",
+            "transcription": "[сач п**э**нэлтиз а: р**э**эли фо:т]"
+          },
+          {
+            "ours": "Решение гоночного комитета обычно не оспаривают.",
+            "thought": "[Известного] гоночного комитета решение есть не обычно оспорено.",
+            "english": "The race committee's decision isn't usually fought.",
+            "transcription": "[ðэ рэйс кэм**и**тиз дис**и**жн изнт **ю**:жуэли фо:т]"
+          },
+          {
+            "ours": "У вас в клубе решения по протестам часто оспаривают?",
+            "thought": "Есть протестов решения часто оспорены в вашем клубе?",
+            "english": "Are protest decisions often fought in your club?",
+            "transcription": "[а: пр**о**утэст дис**и**жнз **о**фэн фо:т ин йо: клаб]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be fought",
+        "examples": [
+          {
+            "ours": "Дисквалификацию будут оспаривать завтра на слушании.",
+            "thought": "[Известная] дисквалификация будет быть оспорена на [известном] слушании завтра.",
+            "english": "The disqualification will be fought at the hearing tomorrow.",
+            "transcription": "[ðэ дискwолифик**э**йшн wил би: фо:т æт ðэ х**и**эриŋ тэм**о**роу]"
+          },
+          {
+            "ours": "Владельцы не будут оспаривать новые правила.",
+            "thought": "[Известные] новые правила будут не быть оспорены от [известных] владельцев.",
+            "english": "The new rules won't be fought by the owners.",
+            "transcription": "[ðэ нью: ру:лз wоунт би: фо:т бай ðи **о**унэз]"
+          },
+          {
+            "ours": "Проигравший экипаж будет оспаривать результат?",
+            "thought": "Будет [известный] результат быть оспорен от [известного] проигравшего экипажа?",
+            "english": "Will the result be fought by the losing crew?",
+            "transcription": "[wил ðэ риз**а**лт би: фо:т бай ðэ л**у**:зиŋ кру:]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being fought",
+        "examples": [
+          {
+            "ours": "Весь тот год план марины оспаривали в суде.",
+            "thought": "[Известный] марины план был «долго» оспорен в суде весь тот год.",
+            "english": "The marina plan was being fought in court all that year.",
+            "transcription": "[ðэ мэр**и**:нэ плæн wоз б**и**:иŋ фо:т ин ко:т о:л ðæт йиэ]"
+          },
+          {
+            "ours": "Штраф ещё оспаривали, когда началась следующая гонка?",
+            "thought": "Был [известный] штраф ещё «долго» оспорен, когда [известная] следующая гонка началась?",
+            "english": "Was the penalty still being fought when the next race started?",
+            "transcription": "[wоз ðэ п**э**нэлти стил б**и**:иŋ фо:т wэн ðэ нэкст рэйс ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being fought",
+        "examples": [
+          {
+            "ours": "Сейчас весь клуб оспаривает новые сборы за стоянку.",
+            "thought": "[Известные] новые швартовочные сборы есть «долго» оспорены от [известного] целого клуба сейчас.",
+            "english": "The new mooring fees are being fought by the whole club now.",
+            "transcription": "[ðэ нью: м**у**эриŋ фи:з а: б**и**:иŋ фо:т бай ðэ хоул клаб нау]"
+          },
+          {
+            "ours": "Новое ограничение скорости в гавани сейчас оспаривают?",
+            "thought": "Есть [известное] новое скоростное ограничение в [известной] гавани «долго» оспорено сейчас?",
+            "english": "Is the new speed limit in the harbor being fought now?",
+            "transcription": "[из ðэ нью: спи:д л**и**мит ин ðэ х**а**:бэ б**и**:иŋ фо:т нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be fighting",
+        "examples": [
+          {
+            "ours": "Завтра в десять они будут оспаривать протест на слушании.",
+            "thought": "В десять завтра они будут быть оспаривающими [известный] протест на [известном] слушании.",
+            "english": "At ten tomorrow they will be fighting the protest at the hearing.",
+            "transcription": "[æт тэн тэм**о**роу ðэй wил би: ф**а**йтиŋ ðэ пр**о**утэст æт ðэ х**и**эриŋ]"
+          },
+          {
+            "ours": "Они будут тушить пожар всю ночь?",
+            "thought": "Будут они быть борющимися [известный] пожар всю ночь?",
+            "english": "Will they be fighting the fire all night?",
+            "transcription": "[wил ðэй би: ф**а**йтиŋ ðэ файэ о:л найт]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been fought",
+        "examples": [
+          {
+            "ours": "К тому времени штраф оспаривали уже дважды.",
+            "thought": "К тогда [известный] штраф имел уже быть оспорен дважды.",
+            "english": "By then the fine had already been fought twice.",
+            "transcription": "[бай ðэн ðэ файн хæд о:лр**э**ди би:н фо:т тwайс]"
+          },
+          {
+            "ours": "К июню новые правила ещё не оспорили.",
+            "thought": "К июню [известные] новые правила имели не быть оспорены ещё.",
+            "english": "By June the new rules hadn't been fought yet.",
+            "transcription": "[бай джу:н ðэ нью: ру:лз хæднт би:н фо:т йэт]"
+          },
+          {
+            "ours": "Требование оспаривали до продажи?",
+            "thought": "Имело [известное] требование быть оспорено до [известной] продажи?",
+            "english": "Had the claim been fought before the sale?",
+            "transcription": "[хæд ðэ клэйм би:н фо:т биф**о**: ðэ сэйл]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been fought",
+        "examples": [
+          {
+            "ours": "Новые сборы уже оспорили в суде.",
+            "thought": "[Известные] новые сборы имеют уже быть оспорены в суде.",
+            "english": "The new fees have already been fought in court.",
+            "transcription": "[ðэ нью: фи:з хæв о:лр**э**ди би:н фо:т ин ко:т]"
+          },
+          {
+            "ours": "Результат пока не оспорили.",
+            "thought": "[Известный] результат имеет не быть оспорен ещё.",
+            "english": "The result hasn't been fought yet.",
+            "transcription": "[ðэ риз**а**лт хæзнт би:н фо:т йэт]"
+          },
+          {
+            "ours": "Решение жюри уже оспорили?",
+            "thought": "Имеет [известного] жюри решение быть оспорено уже?",
+            "english": "Has the jury's decision been fought yet?",
+            "transcription": "[хæз ðэ дж**у**эриз дис**и**жн би:н фо:т йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been fought",
+        "examples": [
+          {
+            "ours": "К следующей регате дисквалификацию уже оспорят.",
+            "thought": "К [известной] следующей регате [известная] дисквалификация будет иметь быть оспорена.",
+            "english": "By the next regatta the disqualification will have been fought.",
+            "transcription": "[бай ðэ нэкст риг**æ**тэ ðэ дискwолифик**э**йшн wил хæв би:н фо:т]"
+          },
+          {
+            "ours": "Решение по протесту оспорят к понедельнику?",
+            "thought": "Будет [известное] протеста решение иметь быть оспорено к понедельнику?",
+            "english": "Will the protest decision have been fought by Monday?",
+            "transcription": "[wил ðэ пр**о**утэст дис**и**жн хæв би:н фо:т бай м**а**ндэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being fought` не употребляется. Вместо этого скажут: `The penalty has been fought.` или `They have been fighting the penalty for weeks.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они будут бороться за кубок.",
+        "thought": "Я знал, они будут бороться за [известный] кубок.",
+        "english": "I knew they would fight for the cup.",
+        "transcription": "[ай нью: ðэй wуд файт фо: ðэ кап]"
+      },
+      {
+        "ours": "Она сказала, что они не будут драться с другим экипажем.",
+        "thought": "Она сказала, они будут не драться с [известным] другим экипажем.",
+        "english": "She said they wouldn't fight with the other crew.",
+        "transcription": "[ши: сэд ðэй wуднт файт wиð ðи **а**ðэ кру:]"
+      },
+      {
+        "ours": "Ты думал, что мы будем всю ночь бороться со штормом?",
+        "thought": "[Сделал] ты думать, мы будем бороться [известный] шторм всю ночь?",
+        "english": "Did you think we would fight the storm all night?",
+        "transcription": "[дид ю: θинк wи: wуд файт ðэ сто:м о:л найт]"
+      }
+    ]
+  },
+  "nouns": [
+    {"word": "night", "meaning": "ночь", "used_in": [
+      {"phrase": "active.simple.past.0", "form": "night"},
+      {"phrase": "passive.continuous.future.1", "form": "night"},
+      {"phrase": "future_in_past.2", "form": "night"}
+    ]},
+    {"word": "storm", "meaning": "шторм", "used_in": [
+      {"phrase": "active.simple.past.0", "form": "storm"},
+      {"phrase": "active.perfect.past.2", "form": "storm"},
+      {"phrase": "active.perfect_continuous.future.0", "form": "storm"},
+      {"phrase": "future_in_past.2", "form": "storm"}
+    ]},
+    {"word": "dawn", "meaning": "рассвет", "used_in": [
+      {"phrase": "active.simple.past.0", "form": "dawn"},
+      {"phrase": "active.perfect_continuous.future.0", "form": "dawn"}
+    ]},
+    {"word": "skipper", "meaning": "шкипер", "used_in": [
+      {"phrase": "active.simple.past.1", "form": "skipper"},
+      {"phrase": "active.continuous.past.2", "form": "skipper"},
+      {"phrase": "active.perfect.future.0", "form": "skipper"},
+      {"phrase": "active.perfect_continuous.present.1", "form": "skipper"},
+      {"phrase": "passive.simple.past.1", "form": "skipper"}
+    ]},
+    {"word": "penalty", "meaning": "штраф", "used_in": [
+      {"phrase": "active.simple.past.1", "form": "penalty"},
+      {"phrase": "active.perfect.future.1", "form": "penalty"},
+      {"phrase": "passive.simple.past.1", "form": "penalty"},
+      {"phrase": "passive.simple.present.0", "form": "penalties"},
+      {"phrase": "passive.continuous.past.1", "form": "penalty"}
+    ]},
+    {"word": "crew", "meaning": "экипаж", "used_in": [
+      {"phrase": "active.simple.past.2", "form": "crew"},
+      {"phrase": "passive.simple.future.2", "form": "crew"},
+      {"phrase": "future_in_past.1", "form": "crew"}
+    ]},
+    {"word": "fire", "meaning": "пожар", "used_in": [
+      {"phrase": "active.simple.past.2", "form": "fire"},
+      {"phrase": "active.continuous.present.2", "form": "fire"},
+      {"phrase": "active.perfect.present.2", "form": "fire"},
+      {"phrase": "passive.continuous.future.1", "form": "fire"}
+    ]},
+    {"word": "deck", "meaning": "палуба", "used_in": [
+      {"phrase": "active.simple.past.2", "form": "deck"}
+    ]},
+    {"word": "rust", "meaning": "ржавчина", "used_in": [
+      {"phrase": "active.simple.present.0", "form": "rust"}
+    ]},
+    {"word": "boat", "meaning": "лодка", "used_in": [
+      {"phrase": "active.simple.present.0", "form": "boat"}
+    ]},
+    {"word": "spring", "meaning": "весна", "used_in": [
+      {"phrase": "active.simple.present.0", "form": "spring"}
+    ]},
+    {"word": "helmsman", "meaning": "рулевой", "used_in": [
+      {"phrase": "active.simple.present.1", "form": "helmsman"}
+    ]},
+    {"word": "wave", "meaning": "волна", "used_in": [
+      {"phrase": "active.simple.present.1", "form": "waves"}
+    ]},
+    {"word": "tide", "meaning": "прилив", "used_in": [
+      {"phrase": "active.simple.present.2", "form": "tide"}
+    ]},
+    {"word": "lead", "meaning": "лидерство", "used_in": [
+      {"phrase": "active.simple.future.0", "form": "lead"}
+    ]},
+    {"word": "owner", "meaning": "владелец", "used_in": [
+      {"phrase": "active.simple.future.1", "form": "owner"},
+      {"phrase": "passive.simple.future.1", "form": "owners"}
+    ]},
+    {"word": "insurance", "meaning": "страхование", "used_in": [
+      {"phrase": "active.simple.future.1", "form": "insurance"},
+      {"phrase": "passive.simple.past.2", "form": "insurance"}
+    ]},
+    {"word": "company", "meaning": "компания", "used_in": [
+      {"phrase": "active.simple.future.1", "form": "company"}
+    ]},
+    {"word": "wind", "meaning": "ветер", "used_in": [
+      {"phrase": "active.simple.future.2", "form": "wind"},
+      {"phrase": "active.perfect.past.1", "form": "winds"},
+      {"phrase": "active.perfect_continuous.past.1", "form": "wind"}
+    ]},
+    {"word": "harbor", "meaning": "гавань", "used_in": [
+      {"phrase": "active.simple.future.2", "form": "harbor"},
+      {"phrase": "passive.continuous.present.1", "form": "harbor"}
+    ]},
+    {"word": "headwind", "meaning": "встречный ветер", "used_in": [
+      {"phrase": "active.continuous.past.0", "form": "headwind"}
+    ]},
+    {"word": "morning", "meaning": "утро", "used_in": [
+      {"phrase": "active.continuous.past.0", "form": "morning"}
+    ]},
+    {"word": "current", "meaning": "течение", "used_in": [
+      {"phrase": "active.continuous.past.1", "form": "current"},
+      {"phrase": "active.perfect_continuous.present.0", "form": "current"}
+    ]},
+    {"word": "engine", "meaning": "двигатель", "used_in": [
+      {"phrase": "active.continuous.past.1", "form": "engine"}
+    ]},
+    {"word": "brother", "meaning": "брат", "used_in": [
+      {"phrase": "active.continuous.present.0", "form": "brother"}
+    ]},
+    {"word": "sleep", "meaning": "сон", "used_in": [
+      {"phrase": "active.continuous.present.0", "form": "sleep"}
+    ]},
+    {"word": "helm", "meaning": "руль", "used_in": [
+      {"phrase": "active.continuous.present.0", "form": "helm"},
+      {"phrase": "active.perfect_continuous.present.1", "form": "helm"}
+    ]},
+    {"word": "place", "meaning": "место", "used_in": [
+      {"phrase": "active.continuous.present.1", "form": "place"}
+    ]},
+    {"word": "yacht", "meaning": "яхта", "used_in": [
+      {"phrase": "active.continuous.present.2", "form": "yacht"}
+    ]},
+    {"word": "time", "meaning": "время", "used_in": [
+      {"phrase": "active.continuous.future.0", "form": "time"}
+    ]},
+    {"word": "swell", "meaning": "зыбь", "used_in": [
+      {"phrase": "active.continuous.future.0", "form": "swell"}
+    ]},
+    {"word": "cape", "meaning": "мыс", "used_in": [
+      {"phrase": "active.continuous.future.0", "form": "cape"}
+    ]},
+    {"word": "cup", "meaning": "кубок", "used_in": [
+      {"phrase": "active.continuous.future.1", "form": "cup"},
+      {"phrase": "active.perfect_continuous.future.1", "form": "cup"},
+      {"phrase": "future_in_past.0", "form": "cup"}
+    ]},
+    {"word": "week", "meaning": "неделя", "used_in": [
+      {"phrase": "active.continuous.future.1", "form": "week"}
+    ]},
+    {"word": "protest", "meaning": "протест", "used_in": [
+      {"phrase": "active.perfect.past.0", "form": "protests"},
+      {"phrase": "active.perfect.future.0", "form": "protests"},
+      {"phrase": "passive.simple.present.2", "form": "protest"},
+      {"phrase": "passive.continuous.future.0", "form": "protest"},
+      {"phrase": "passive.perfect.future.1", "form": "protest"}
+    ]},
+    {"word": "season", "meaning": "сезон", "used_in": [
+      {"phrase": "active.perfect.past.0", "form": "season"}
+    ]},
+    {"word": "race", "meaning": "гонка", "used_in": [
+      {"phrase": "active.perfect.past.1", "form": "race"},
+      {"phrase": "active.perfect.future.1", "form": "race"},
+      {"phrase": "passive.simple.present.1", "form": "race"},
+      {"phrase": "passive.continuous.past.1", "form": "race"}
+    ]},
+    {"word": "seasickness", "meaning": "морская болезнь", "used_in": [
+      {"phrase": "active.perfect.present.0", "form": "seasickness"}
+    ]},
+    {"word": "life", "meaning": "жизнь", "used_in": [
+      {"phrase": "active.perfect.present.0", "form": "life"}
+    ]},
+    {"word": "club", "meaning": "клуб", "used_in": [
+      {"phrase": "active.perfect.present.1", "form": "club"},
+      {"phrase": "passive.simple.present.2", "form": "club"},
+      {"phrase": "passive.continuous.present.0", "form": "club"}
+    ]},
+    {"word": "fine", "meaning": "штраф", "used_in": [
+      {"phrase": "active.perfect.present.1", "form": "fine"},
+      {"phrase": "passive.perfect.past.0", "form": "fine"}
+    ]},
+    {"word": "sea", "meaning": "море", "used_in": [
+      {"phrase": "active.perfect.present.2", "form": "sea"}
+    ]},
+    {"word": "Friday", "meaning": "пятница", "used_in": [
+      {"phrase": "active.perfect.future.0", "form": "Friday"}
+    ]},
+    {"word": "leak", "meaning": "течь", "used_in": [
+      {"phrase": "active.perfect_continuous.past.0", "form": "leak"}
+    ]},
+    {"word": "hour", "meaning": "час", "used_in": [
+      {"phrase": "active.perfect_continuous.past.0", "form": "hours"},
+      {"phrase": "active.perfect_continuous.present.0", "form": "hours"},
+      {"phrase": "active.perfect_continuous.present.1", "form": "hours"},
+      {"phrase": "active.perfect_continuous.future.0", "form": "hours"}
+    ]},
+    {"word": "coastguard", "meaning": "береговая охрана", "used_in": [
+      {"phrase": "active.perfect_continuous.past.0", "form": "coastguard"}
+    ]},
+    {"word": "mast", "meaning": "мачта", "used_in": [
+      {"phrase": "active.perfect_continuous.past.1", "form": "mast"}
+    ]},
+    {"word": "year", "meaning": "год", "used_in": [
+      {"phrase": "active.perfect_continuous.future.1", "form": "years"},
+      {"phrase": "passive.continuous.past.0", "form": "year"}
+    ]},
+    {"word": "June", "meaning": "июнь", "used_in": [
+      {"phrase": "active.perfect_continuous.future.1", "form": "June"},
+      {"phrase": "passive.perfect.past.1", "form": "June"}
+    ]},
+    {"word": "jury", "meaning": "жюри", "sense": "contest", "used_in": [
+      {"phrase": "passive.simple.past.0", "form": "jury"},
+      {"phrase": "passive.perfect.present.2", "form": "jury"}
+    ]},
+    {"word": "decision", "meaning": "решение", "used_in": [
+      {"phrase": "passive.simple.past.0", "form": "decision"},
+      {"phrase": "passive.simple.present.1", "form": "decision"},
+      {"phrase": "passive.simple.present.2", "form": "decisions"},
+      {"phrase": "passive.perfect.present.2", "form": "decision"},
+      {"phrase": "passive.perfect.future.1", "form": "decision"}
+    ]},
+    {"word": "fleet", "meaning": "флот", "used_in": [
+      {"phrase": "passive.simple.past.0", "form": "fleet"}
+    ]},
+    {"word": "claim", "meaning": "требование", "used_in": [
+      {"phrase": "passive.simple.past.2", "form": "claim"},
+      {"phrase": "passive.perfect.past.2", "form": "claim"}
+    ]},
+    {"word": "court", "meaning": "суд", "used_in": [
+      {"phrase": "passive.simple.past.2", "form": "court"},
+      {"phrase": "passive.continuous.past.0", "form": "court"},
+      {"phrase": "passive.perfect.present.0", "form": "court"}
+    ]},
+    {"word": "committee", "meaning": "комитет", "used_in": [
+      {"phrase": "passive.simple.present.1", "form": "committee"}
+    ]},
+    {"word": "disqualification", "meaning": "дисквалификация", "used_in": [
+      {"phrase": "passive.simple.future.0", "form": "disqualification"},
+      {"phrase": "passive.perfect.future.0", "form": "disqualification"}
+    ]},
+    {"word": "hearing", "meaning": "слушание", "used_in": [
+      {"phrase": "passive.simple.future.0", "form": "hearing"},
+      {"phrase": "passive.continuous.future.0", "form": "hearing"}
+    ]},
+    {"word": "rule", "meaning": "правило", "used_in": [
+      {"phrase": "passive.simple.future.1", "form": "rules"},
+      {"phrase": "passive.perfect.past.1", "form": "rules"}
+    ]},
+    {"word": "result", "meaning": "результат", "used_in": [
+      {"phrase": "passive.simple.future.2", "form": "result"},
+      {"phrase": "passive.perfect.present.1", "form": "result"}
+    ]},
+    {"word": "marina", "meaning": "марина", "used_in": [
+      {"phrase": "passive.continuous.past.0", "form": "marina"}
+    ]},
+    {"word": "plan", "meaning": "план", "used_in": [
+      {"phrase": "passive.continuous.past.0", "form": "plan"}
+    ]},
+    {"word": "mooring", "meaning": "швартовка", "used_in": [
+      {"phrase": "passive.continuous.present.0", "form": "mooring"}
+    ]},
+    {"word": "fee", "meaning": "сбор", "used_in": [
+      {"phrase": "passive.continuous.present.0", "form": "fees"},
+      {"phrase": "passive.perfect.present.0", "form": "fees"}
+    ]},
+    {"word": "speed limit", "meaning": "ограничение скорости", "used_in": [
+      {"phrase": "passive.continuous.present.1", "form": "speed limit"}
+    ]},
+    {"word": "sale", "meaning": "продажа", "used_in": [
+      {"phrase": "passive.perfect.past.2", "form": "sale"}
+    ]},
+    {"word": "regatta", "meaning": "регата", "used_in": [
+      {"phrase": "passive.perfect.future.0", "form": "regatta"}
+    ]},
+    {"word": "Monday", "meaning": "понедельник", "used_in": [
+      {"phrase": "passive.perfect.future.1", "form": "Monday"}
+    ]}
+  ]
+}

@@ -1,0 +1,824 @@
+{
+  "spec": 4,
+  "verb": "point",
+  "forms": {
+    "base": [
+      {
+        "word": "point",
+        "transcription": "[пойнт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "pointed",
+        "transcription": "[п**о**йнтид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "pointed",
+        "transcription": "[п**о**йнтид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "pointing",
+        "transcription": "[п**о**йнтиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "points",
+        "transcription": "[пойнтс]"
+      }
+    ]
+  },
+  "meaning": "указывать, показывать; указывать на что-то (point out)",
+  "notes": "правильный переходный и непереходный глагол; point out допускает пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "pointed",
+        "examples": [
+          {
+            "ours": "Вчера капитан указал на маяк.",
+            "thought": "Вчера [известный] капитан указал на [известный] маяк.",
+            "english": "Yesterday the captain pointed at the lighthouse.",
+            "transcription": "[й**э**стэдэй ðэ к**æ**птин п**о**йнтид æт ðэ л**а**йтхаус]"
+          },
+          {
+            "ours": "Он не указал на риф.",
+            "thought": "Он [сделал] не указывать на [известный] риф.",
+            "english": "He didn't point at the reef.",
+            "transcription": "[хи: диднт пойнт æт ðэ ри:ф]"
+          },
+          {
+            "ours": "Ты указал на опасность до гонки?",
+            "thought": "[Сделал] ты указывать вне [известную] опасность перед [известной] гонкой?",
+            "english": "Did you point out the hazard before the race?",
+            "transcription": "[дид ю: пойнт аут ðэ х**æ**зэд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "point, points",
+        "examples": [
+          {
+            "ours": "Стрелка компаса указывает на север.",
+            "thought": "[Известного] компаса стрелка указывает на север.",
+            "english": "The compass needle points north.",
+            "transcription": "[ðэ к**а**мпэс н**и**:дл пойнтс но:θ]"
+          },
+          {
+            "ours": "Он не указывает на скалы.",
+            "thought": "Он [делает] не указывать на [известные] скалы.",
+            "english": "He doesn't point at the rocks.",
+            "transcription": "[хи: дазнт пойнт æт ðэ рокс]"
+          },
+          {
+            "ours": "Ты указываешь на опасности во время инструктажа?",
+            "thought": "[Делаешь] ты указывать вне опасности во время [известного] инструктажа?",
+            "english": "Do you point out hazards during the briefing?",
+            "transcription": "[ду: ю: пойнт аут х**æ**зэдз дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will point",
+        "examples": [
+          {
+            "ours": "Завтра мы укажем на маяк.",
+            "thought": "Завтра мы будем указывать на [известный] маяк.",
+            "english": "Tomorrow we will point at the lighthouse.",
+            "transcription": "[тэм**о**роу wи: wил пойнт æт ðэ л**а**йтхаус]"
+          },
+          {
+            "ours": "Он не укажет на риф.",
+            "thought": "Он будет не указывать на [известный] риф.",
+            "english": "He won't point at the reef.",
+            "transcription": "[хи: wоунт пойнт æт ðэ ри:ф]"
+          },
+          {
+            "ours": "Ты укажешь на опасность до гонки?",
+            "thought": "Будешь ты указывать вне [известную] опасность перед [известной] гонкой?",
+            "english": "Will you point out the hazard before the race?",
+            "transcription": "[wил ю: пойнт аут ðэ х**æ**зэд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were pointing",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день указывали на опасности.",
+            "thought": "Вчера мы были указывающими вне опасности весь день.",
+            "english": "Yesterday we were pointing out hazards all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: п**о**йнтиŋ аут х**æ**зэдз о:л дэй]"
+          },
+          {
+            "ours": "Ты указывал на маяк, когда я пришёл?",
+            "thought": "Был ты указывающим на [известный] маяк когда я пришёл?",
+            "english": "Were you pointing at the lighthouse when I came?",
+            "transcription": "[wœ: ю: п**о**йнтиŋ æт ðэ л**а**йтхаус wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are pointing",
+        "examples": [
+          {
+            "ours": "Сейчас мы указываем на опасности.",
+            "thought": "Мы являемся указывающими вне опасности сейчас.",
+            "english": "We are pointing out hazards now.",
+            "transcription": "[wи: а: п**о**йнтиŋ аут х**æ**зэдз нау]"
+          },
+          {
+            "ours": "Ты сейчас указываешь на риф?",
+            "thought": "Являешься ты указывающим на [известный] риф сейчас?",
+            "english": "Are you pointing at the reef now?",
+            "transcription": "[а: ю: п**о**йнтиŋ æт ðэ ри:ф нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be pointing",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем указывать на опасности.",
+            "thought": "Завтра мы будем быть указывающими вне опасности весь день.",
+            "english": "Tomorrow we will be pointing out hazards all day.",
+            "transcription": "[тэм**о**роу wи: wил би: п**о**йнтиŋ аут х**æ**зэдз о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь указывать на маяк во время гонки?",
+            "thought": "Будешь ты быть указывающим на [известный] маяк во время [известной] гонки?",
+            "english": "Will you be pointing at the lighthouse during the race?",
+            "transcription": "[wил ю: би: п**о**йнтиŋ æт ðэ л**а**йтхаус дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had pointed out",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже указали на опасность.",
+            "thought": "К пяти вчера мы имели уже указанной вне [известную] опасность.",
+            "english": "By five yesterday we had already pointed out the hazard.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди п**о**йнтид аут ðэ х**æ**зэд]"
+          },
+          {
+            "ours": "Ты указал на скалы до гонки?",
+            "thought": "Имел ты указанными вне [известные] скалы перед [известной] гонкой?",
+            "english": "Had you pointed out the rocks before the race?",
+            "transcription": "[хæд ю: п**о**йнтид аут ðэ рокс биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has pointed out",
+        "examples": [
+          {
+            "ours": "Мы уже указали на риф.",
+            "thought": "Мы имеем уже указанным вне [известный] риф.",
+            "english": "We have already pointed out the reef.",
+            "transcription": "[wи: хæв о:лр**э**ди п**о**йнтид аут ðэ ри:ф]"
+          },
+          {
+            "ours": "Ты уже указал на опасность?",
+            "thought": "Имеешь ты уже указанной вне [известную] опасность?",
+            "english": "Have you already pointed out the hazard?",
+            "transcription": "[хæв ю: о:лр**э**ди п**о**йнтид аут ðэ х**æ**зэд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have pointed out",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже укажем на опасность.",
+            "thought": "К пяти завтра мы будем иметь уже указанной вне [известную] опасность.",
+            "english": "By five tomorrow we will have already pointed out the hazard.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди п**о**йнтид аут ðэ х**æ**зэд]"
+          },
+          {
+            "ours": "Ты укажешь на скалы до гонки?",
+            "thought": "Будешь ты иметь указанными вне [известные] скалы перед [известной] гонкой?",
+            "english": "Will you have pointed out the rocks before the race?",
+            "transcription": "[wил ю: хæв п**о**йнтид аут ðэ рокс биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been pointing out",
+        "examples": [
+          {
+            "ours": "Мы уже два часа указывали на опасности, когда ты пришёл.",
+            "thought": "Мы имели быть указывающими вне опасности целых два часа когда ты пришёл.",
+            "english": "We had been pointing out hazards for two hours when you came.",
+            "transcription": "[wи: хæд би:н п**о**йнтиŋ аут х**æ**зэдз фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа указывал на скалы, когда он пришёл?",
+            "thought": "Имел ты быть указывающим вне скалы целых два часа когда он пришёл?",
+            "english": "Had you been pointing out rocks for two hours when he came?",
+            "transcription": "[хæд ю: би:н п**о**йнтиŋ аут рокс фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been pointing out",
+        "examples": [
+          {
+            "ours": "Мы уже два часа указываем на опасности.",
+            "thought": "Мы имеем быть указывающими вне опасности целых два часа.",
+            "english": "We have been pointing out hazards for two hours.",
+            "transcription": "[wи: хæв би:н п**о**йнтиŋ аут х**æ**зэдз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа указываешь на скалы?",
+            "thought": "Имеешь ты быть указывающим вне скалы целых два часа?",
+            "english": "Have you been pointing out rocks for two hours?",
+            "transcription": "[хæв ю: би:н п**о**йнтиŋ аут рокс фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been pointing out",
+        "examples": [
+          {
+            "ours": "К пяти мы будем указывать на опасности уже два часа.",
+            "thought": "К пяти мы будем иметь быть указывающими вне опасности целых два часа.",
+            "english": "By five we will have been pointing out hazards for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н п**о**йнтиŋ аут х**æ**зэдз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь указывать на скалы уже два часа?",
+            "thought": "Будешь ты иметь быть указывающим вне скалы целых два часа к пяти?",
+            "english": "Will you have been pointing out rocks for two hours by five?",
+            "transcription": "[wил ю: хæв би:н п**о**йнтиŋ аут рокс фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were pointed out",
+        "examples": [
+          {
+            "ours": "Вчера указали на опасность.",
+            "thought": "[Известная] опасность была указана вне вчера.",
+            "english": "The hazard was pointed out yesterday.",
+            "transcription": "[ðэ х**æ**зэд wоз п**о**йнтид аут й**э**стэдэй]"
+          },
+          {
+            "ours": "На скалы указали до гонки?",
+            "thought": "Были [известные] скалы указаны вне перед [известной] гонкой?",
+            "english": "Were the rocks pointed out before the race?",
+            "transcription": "[wœ: ðэ рокс п**о**йнтид аут биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are pointed out",
+        "examples": [
+          {
+            "ours": "На опасности указывают во время инструктажа.",
+            "thought": "Опасности есть указаны вне во время [известного] инструктажа.",
+            "english": "Hazards are pointed out during the briefing.",
+            "transcription": "[х**æ**зэдз а: п**о**йнтид аут дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          },
+          {
+            "ours": "На риф указывают до гонки?",
+            "thought": "Есть [известный] риф указан вне перед [известной] гонкой?",
+            "english": "Is the reef pointed out before the race?",
+            "transcription": "[из ðэ ри:ф п**о**йнтид аут биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be pointed out",
+        "examples": [
+          {
+            "ours": "Завтра укажут на опасность.",
+            "thought": "[Известная] опасность будет быть указана вне завтра.",
+            "english": "The hazard will be pointed out tomorrow.",
+            "transcription": "[ðэ х**æ**зэд wил би: п**о**йнтид аут тэм**о**роу]"
+          },
+          {
+            "ours": "На скалы укажут до гонки?",
+            "thought": "Будут [известные] скалы быть указаны вне перед [известной] гонкой?",
+            "english": "Will the rocks be pointed out before the race?",
+            "transcription": "[wил ðэ рокс би: п**о**йнтид аут биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being pointed out",
+        "examples": [
+          {
+            "ours": "Вчера весь день указывали на опасности.",
+            "thought": "Вчера опасности были «долго» указаны вне весь день.",
+            "english": "Yesterday hazards were being pointed out all day.",
+            "transcription": "[й**э**стэдэй х**æ**зэдз wœ: б**и**:иŋ п**о**йнтид аут о:л дэй]"
+          },
+          {
+            "ours": "На скалы указывали, когда ты пришёл?",
+            "thought": "Были [известные] скалы «долго» указаны вне когда ты пришёл?",
+            "english": "Were the rocks being pointed out when you came?",
+            "transcription": "[wœ: ðэ рокс б**и**:иŋ п**о**йнтид аут wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being pointed out",
+        "examples": [
+          {
+            "ours": "Сейчас указывают на опасности.",
+            "thought": "Опасности есть «долго» указаны вне сейчас.",
+            "english": "Hazards are being pointed out now.",
+            "transcription": "[х**æ**зэдз а: б**и**:иŋ п**о**йнтид аут нау]"
+          },
+          {
+            "ours": "Сейчас указывают на риф?",
+            "thought": "Есть [известный] риф «долго» указан вне сейчас?",
+            "english": "Is the reef being pointed out now?",
+            "transcription": "[из ðэ ри:ф б**и**:иŋ п**о**йнтид аут нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be pointing out",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут указывать на опасности.",
+            "thought": "Завтра они будут быть указывающими вне опасности весь день.",
+            "english": "Tomorrow they will be pointing out hazards all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: п**о**йнтиŋ аут х**æ**зэдз о:л дэй]"
+          },
+          {
+            "ours": "Они будут указывать на скалы во время инструктажа?",
+            "thought": "Будут они быть указывающими вне [известные] скалы во время [известного] инструктажа?",
+            "english": "Will they be pointing out the rocks during the briefing?",
+            "transcription": "[wил ðэй би: п**о**йнтиŋ аут ðэ рокс дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been pointed out",
+        "examples": [
+          {
+            "ours": "Вчера к пяти на опасность уже указали.",
+            "thought": "К пяти вчера [известная] опасность имела уже быть указана вне.",
+            "english": "By five yesterday the hazard had already been pointed out.",
+            "transcription": "[бай файв й**э**стэдэй ðэ х**æ**зэд хæд о:лр**э**ди би:н п**о**йнтид аут]"
+          },
+          {
+            "ours": "На скалы указали до гонки?",
+            "thought": "Имели [известные] скалы быть указаны вне перед [известной] гонкой?",
+            "english": "Had the rocks been pointed out before the race?",
+            "transcription": "[хæд ðэ рокс би:н п**о**йнтид аут биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been pointed out",
+        "examples": [
+          {
+            "ours": "На риф уже указали.",
+            "thought": "[Известный] риф имеет уже быть указан вне.",
+            "english": "The reef has already been pointed out.",
+            "transcription": "[ðэ ри:ф хæз о:лр**э**ди би:н п**о**йнтид аут]"
+          },
+          {
+            "ours": "На опасность уже указали?",
+            "thought": "Имеет [известная] опасность уже быть указана вне?",
+            "english": "Has the hazard already been pointed out?",
+            "transcription": "[хæз ðэ х**æ**зэд о:лр**э**ди би:н п**о**йнтид аут]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been pointed out",
+        "examples": [
+          {
+            "ours": "К пяти завтра на опасность уже укажут.",
+            "thought": "К пяти завтра [известная] опасность будет уже иметь быть указана вне.",
+            "english": "By five tomorrow the hazard will already have been pointed out.",
+            "transcription": "[бай файв тэм**о**роу ðэ х**æ**зэд wил о:лр**э**ди хæв би:н п**о**йнтид аут]"
+          },
+          {
+            "ours": "На скалы укажут до гонки?",
+            "thought": "Будут [известные] скалы иметь быть указаны вне перед [известной] гонкой?",
+            "english": "Will the rocks have been pointed out before the race?",
+            "transcription": "[wил ðэ рокс хæв би:н п**о**йнтид аут биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The hazard has been pointed out. Или: They have been pointing out hazards."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они укажут на опасность.",
+        "thought": "[Известный] капитан сказал что они будут указывать вне [известную] опасность.",
+        "english": "The captain said that they would point out the hazard.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд пойнт аут ðэ х**æ**зэд]"
+      },
+      {
+        "ours": "Я знал, что ты не укажешь на риф.",
+        "thought": "Я знал что ты будешь не указывать вне [известный] риф.",
+        "english": "I knew that you wouldn't point out the reef.",
+        "transcription": "[ай нью: ðæт ю: wуднт пойнт аут ðэ ри:ф]"
+      },
+      {
+        "ours": "Капитан сказал, что мы укажем на скалы.",
+        "thought": "[Известный] капитан сказал что мы будем указывать вне [известные] скалы.",
+        "english": "The captain said that we would point out the rocks.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд пойнт аут ðэ рокс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "lighthouse",
+      "meaning": "маяк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "lighthouse"
+        }
+      ]
+    },
+    {
+      "word": "reef",
+      "meaning": "риф",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "reef"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "reef"
+        }
+      ]
+    },
+    {
+      "word": "hazard",
+      "meaning": "опасность",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "hazard"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "hazards"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "hazard"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "hazards"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "hazards"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "hazards"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "hazard"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "hazard"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "hazard"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hazards"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hazards"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hazards"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "hazard"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Hazards"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "hazard"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "hazards"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Hazards"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "hazards"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "hazard"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "hazard"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "hazard"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "hazard"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "needle",
+      "meaning": "стрелка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "needle"
+        }
+      ]
+    },
+    {
+      "word": "rock",
+      "meaning": "скала",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "rocks"
+        }
+      ]
+    },
+    {
+      "word": "briefing",
+      "meaning": "инструктаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "briefing"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    }
+  ]
+}

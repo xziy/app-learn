@@ -1,0 +1,800 @@
+{
+  "spec": 4,
+  "verb": "cover",
+  "forms": {
+    "base": [
+      {
+        "word": "cover",
+        "transcription": "[к**а**вэ]"
+      }
+    ],
+    "past": [
+      {
+        "word": "covered",
+        "transcription": "[к**а**вэд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "covered",
+        "transcription": "[к**а**вэд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "covering",
+        "transcription": "[к**а**вэриŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "covers",
+        "transcription": "[к**а**вэз]"
+      }
+    ]
+  },
+  "meaning": "накрывать, закрывать, покрывать",
+  "notes": "правильный переходный глагол; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "covered",
+        "examples": [
+          {
+            "ours": "Вчера экипаж накрыл люк.",
+            "thought": "Вчера [известный] экипаж накрыл [известный] люк.",
+            "english": "Yesterday the crew covered the hatch.",
+            "transcription": "[й**э**стэдэй ðэ кру: к**а**вэд ðэ хæч]"
+          },
+          {
+            "ours": "Моряк накрыл двигатель вчера?",
+            "thought": "[Сделал] [известный] моряк накрывать [известный] двигатель вчера?",
+            "english": "Did the sailor cover the engine yesterday?",
+            "transcription": "[дид ðэ с**э**йлэ к**а**вэ ðи **э**нджин й**э**стэдэй]"
+          },
+          {
+            "ours": "Они не накрыли компас.",
+            "thought": "Они [сделали] не накрывать [известный] компас.",
+            "english": "They did not cover the compass.",
+            "transcription": "[ðэй дид нот к**а**вэ ðэ к**а**мпэс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "cover, covers",
+        "examples": [
+          {
+            "ours": "Капитан накрывает компас.",
+            "thought": "[Известный] капитан накрывает [известный] компас.",
+            "english": "The skipper covers the compass.",
+            "transcription": "[ðэ ск**и**пэ к**а**вэз ðэ к**а**мпэс]"
+          },
+          {
+            "ours": "Экипаж накрывает кокпит?",
+            "thought": "[Делает] [известный] экипаж накрывать [известный] кокпит?",
+            "english": "Does the crew cover the cockpit?",
+            "transcription": "[даз ðэ кру: к**а**вэ ðэ к**о**кпит]"
+          },
+          {
+            "ours": "Мы не накрываем кокпит во время гонок.",
+            "thought": "Мы [делаем] не накрывать [известный] кокпит во время гонок.",
+            "english": "We do not cover the cockpit during races.",
+            "transcription": "[wи: ду: нот к**а**вэ ðэ к**о**кпит дь**ю**эриŋ р**э**йсиз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will cover",
+        "examples": [
+          {
+            "ours": "Завтра экипаж накроет люк.",
+            "thought": "Завтра [известный] экипаж будет накрывать [известный] люк.",
+            "english": "Tomorrow the crew will cover the hatch.",
+            "transcription": "[тэм**о**роу ðэ кру: wил к**а**вэ ðэ хæч]"
+          },
+          {
+            "ours": "Моряк накроет двигатель завтра?",
+            "thought": "Будет [известный] моряк накрывать [известный] двигатель завтра?",
+            "english": "Will the sailor cover the engine tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ к**а**вэ ðи **э**нджин тэм**о**роу]"
+          },
+          {
+            "ours": "Она не накроет двигатель.",
+            "thought": "Она будет не накрывать [известный] двигатель.",
+            "english": "She will not cover the engine.",
+            "transcription": "[ши: wил нот к**а**вэ ðи **э**нджин]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were covering",
+        "examples": [
+          {
+            "ours": "Экипаж накрывал люк, когда ты прибыл.",
+            "thought": "[Известный] экипаж был накрывающим [известный] люк, когда ты прибыл.",
+            "english": "The crew was covering the hatch when you arrived.",
+            "transcription": "[ðэ кру: wоз к**а**вэриŋ ðэ хæч wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Моряк накрывал двигатель, когда ты прибыл?",
+            "thought": "Был [известный] моряк накрывающим [известный] двигатель, когда ты прибыл?",
+            "english": "Was the sailor covering the engine when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ к**а**вэриŋ ðи **э**нджин wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are covering",
+        "examples": [
+          {
+            "ours": "Капитан сейчас накрывает компас.",
+            "thought": "[Известный] капитан является накрывающим [известный] компас сейчас.",
+            "english": "The skipper is covering the compass now.",
+            "transcription": "[ðэ ск**и**пэ из к**а**вэриŋ ðэ к**а**мпэс нау]"
+          },
+          {
+            "ours": "Экипаж сейчас накрывает кокпит?",
+            "thought": "Является [известный] экипаж накрывающим [известный] кокпит сейчас?",
+            "english": "Is the crew covering the cockpit now?",
+            "transcription": "[из ðэ кру: к**а**вэриŋ ðэ к**о**кпит нау]"
+          },
+          {
+            "ours": "Мы сейчас не накрываем люк.",
+            "thought": "Мы являемся не накрывающими [известный] люк сейчас.",
+            "english": "We are not covering the hatch now.",
+            "transcription": "[wи: а: нот к**а**вэриŋ ðэ хæч нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be covering",
+        "examples": [
+          {
+            "ours": "Завтра экипаж будет накрывать люк.",
+            "thought": "Завтра [известный] экипаж будет быть накрывающим [известный] люк.",
+            "english": "Tomorrow the crew will be covering the hatch.",
+            "transcription": "[тэм**о**роу ðэ кру: wил би: к**а**вэриŋ ðэ хæч]"
+          },
+          {
+            "ours": "Моряк завтра будет накрывать двигатель?",
+            "thought": "Будет [известный] моряк быть накрывающим [известный] двигатель завтра?",
+            "english": "Will the sailor be covering the engine tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: к**а**вэриŋ ðи **э**нджин тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had covered",
+        "examples": [
+          {
+            "ours": "К полудню экипаж накрыл люк.",
+            "thought": "К полудню [известный] экипаж имел накрытым [известный] люк.",
+            "english": "By noon the crew had covered the hatch.",
+            "transcription": "[бай ну:н ðэ кру: хæд к**а**вэд ðэ хæч]"
+          },
+          {
+            "ours": "Моряк накрыл двигатель к полудню?",
+            "thought": "Имел [известный] моряк накрытым [известный] двигатель к полудню?",
+            "english": "Had the sailor covered the engine by noon?",
+            "transcription": "[хæд ðэ с**э**йлэ к**а**вэд ðи **э**нджин бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has covered",
+        "examples": [
+          {
+            "ours": "Капитан уже накрыл компас.",
+            "thought": "[Известный] капитан имеет уже накрытым [известный] компас.",
+            "english": "The skipper has already covered the compass.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди к**а**вэд ðэ к**а**мпэс]"
+          },
+          {
+            "ours": "Экипаж уже накрыл кокпит?",
+            "thought": "Имеет [известный] экипаж накрытым [известный] кокпит уже?",
+            "english": "Has the crew covered the cockpit yet?",
+            "transcription": "[хæз ðэ кру: к**а**вэд ðэ к**о**кпит йэт]"
+          },
+          {
+            "ours": "Она ещё не накрыла двигатель.",
+            "thought": "Она имеет не накрытым [известный] двигатель ещё.",
+            "english": "She has not covered the engine yet.",
+            "transcription": "[ши: хæз нот к**а**вэд ðи **э**нджин йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have covered",
+        "examples": [
+          {
+            "ours": "К пяти экипаж накроет люк.",
+            "thought": "К пяти [известный] экипаж будет иметь накрытым [известный] люк.",
+            "english": "By five the crew will have covered the hatch.",
+            "transcription": "[бай файв ðэ кру: wил хæв к**а**вэд ðэ хæч]"
+          },
+          {
+            "ours": "Моряк накроет двигатель к пяти?",
+            "thought": "Будет [известный] моряк иметь накрытым [известный] двигатель к пяти?",
+            "english": "Will the sailor have covered the engine by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв к**а**вэд ðи **э**нджин бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для однократного накрывания предмета длительный perfect обычно не используют: The crew has covered the hatch. Для серии предметов он возможен."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were covered",
+        "examples": [
+          {
+            "ours": "Люк был накрыт вчера.",
+            "thought": "[Известный] люк был накрыт вчера.",
+            "english": "The hatch was covered yesterday.",
+            "transcription": "[ðэ хæч wоз к**а**вэд й**э**стэдэй]"
+          },
+          {
+            "ours": "Двигатель был накрыт вчера?",
+            "thought": "Был [известный] двигатель накрыт вчера?",
+            "english": "Was the engine covered yesterday?",
+            "transcription": "[wоз ðи **э**нджин к**а**вэд й**э**стэдэй]"
+          },
+          {
+            "ours": "Компас не накрыли вчера.",
+            "thought": "[Известный] компас был не накрыт вчера.",
+            "english": "The compass was not covered yesterday.",
+            "transcription": "[ðэ к**а**мпэс wоз нот к**а**вэд й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are covered",
+        "examples": [
+          {
+            "ours": "Компас накрывают здесь.",
+            "thought": "[Известный] компас есть накрыт здесь.",
+            "english": "The compass is covered here.",
+            "transcription": "[ðэ к**а**мпэс из к**а**вэд хиэ]"
+          },
+          {
+            "ours": "Кокпит накрывают здесь?",
+            "thought": "Есть [известный] кокпит накрыт здесь?",
+            "english": "Is the cockpit covered here?",
+            "transcription": "[из ðэ к**о**кпит к**а**вэд хиэ]"
+          },
+          {
+            "ours": "Компас не накрывают ночью.",
+            "thought": "[Известный] компас есть не накрыт ночью.",
+            "english": "The compass is not covered at night.",
+            "transcription": "[ðэ к**а**мпэс из нот к**а**вэд æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be covered",
+        "examples": [
+          {
+            "ours": "Люк накроют завтра.",
+            "thought": "[Известный] люк будет быть накрыт завтра.",
+            "english": "The hatch will be covered tomorrow.",
+            "transcription": "[ðэ хæч wил би: к**а**вэд тэм**о**роу]"
+          },
+          {
+            "ours": "Двигатель накроют завтра?",
+            "thought": "Будет [известный] двигатель быть накрыт завтра?",
+            "english": "Will the engine be covered tomorrow?",
+            "transcription": "[wил ðи **э**нджин би: к**а**вэд тэм**о**роу]"
+          },
+          {
+            "ours": "Двигатель не накроют завтра.",
+            "thought": "[Известный] двигатель будет не быть накрыт завтра.",
+            "english": "The engine will not be covered tomorrow.",
+            "transcription": "[ðи **э**нджин wил нот би: к**а**вэд тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being covered",
+        "examples": [
+          {
+            "ours": "Люк накрывали, когда ты прибыл.",
+            "thought": "[Известный] люк был «долго» накрыт, когда ты прибыл.",
+            "english": "The hatch was being covered when you arrived.",
+            "transcription": "[ðэ хæч wоз б**и**:иŋ к**а**вэд wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Двигатель накрывали, когда ты прибыл?",
+            "thought": "Был [известный] двигатель «долго» накрыт, когда ты прибыл?",
+            "english": "Was the engine being covered when you arrived?",
+            "transcription": "[wоз ðи **э**нджин б**и**:иŋ к**а**вэд wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being covered",
+        "examples": [
+          {
+            "ours": "Компас сейчас накрывают.",
+            "thought": "[Известный] компас есть «долго» накрыт сейчас.",
+            "english": "The compass is being covered now.",
+            "transcription": "[ðэ к**а**мпэс из б**и**:иŋ к**а**вэд нау]"
+          },
+          {
+            "ours": "Кокпит сейчас накрывают?",
+            "thought": "Есть [известный] кокпит «долго» накрыт сейчас?",
+            "english": "Is the cockpit being covered now?",
+            "transcription": "[из ðэ к**о**кпит б**и**:иŋ к**а**вэд нау]"
+          },
+          {
+            "ours": "Кокпит сейчас не накрывают.",
+            "thought": "[Известный] кокпит есть не «долго» накрыт сейчас.",
+            "english": "The cockpit is not being covered now.",
+            "transcription": "[ðэ к**о**кпит из нот б**и**:иŋ к**а**вэд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be covering",
+        "examples": [
+          {
+            "ours": "Завтра они будут накрывать люк.",
+            "thought": "Завтра они будут быть накрывающими [известный] люк.",
+            "english": "Tomorrow they will be covering the hatch.",
+            "transcription": "[тэм**о**роу ðэй wил би: к**а**вэриŋ ðэ хæч]"
+          },
+          {
+            "ours": "Они будут накрывать двигатель завтра?",
+            "thought": "Будут они быть накрывающими [известный] двигатель завтра?",
+            "english": "Will they be covering the engine tomorrow?",
+            "transcription": "[wил ðэй би: к**а**вэриŋ ðи **э**нджин тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been covered",
+        "examples": [
+          {
+            "ours": "К полудню люк накрыли.",
+            "thought": "К полудню [известный] люк имел быть накрыт.",
+            "english": "By noon the hatch had been covered.",
+            "transcription": "[бай ну:н ðэ хæч хæд би:н к**а**вэд]"
+          },
+          {
+            "ours": "Двигатель накрыли к полудню?",
+            "thought": "Имел [известный] двигатель быть накрыт к полудню?",
+            "english": "Had the engine been covered by noon?",
+            "transcription": "[хæд ðи **э**нджин би:н к**а**вэд бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been covered",
+        "examples": [
+          {
+            "ours": "Компас уже накрыли.",
+            "thought": "[Известный] компас имеет уже быть накрыт.",
+            "english": "The compass has already been covered.",
+            "transcription": "[ðэ к**а**мпэс хæз о:лр**э**ди би:н к**а**вэд]"
+          },
+          {
+            "ours": "Кокпит уже накрыли?",
+            "thought": "Имеет [известный] кокпит быть накрыт уже?",
+            "english": "Has the cockpit been covered yet?",
+            "transcription": "[хæз ðэ к**о**кпит би:н к**а**вэд йэт]"
+          },
+          {
+            "ours": "Двигатель ещё не накрыли.",
+            "thought": "[Известный] двигатель имеет не быть накрыт ещё.",
+            "english": "The engine has not been covered yet.",
+            "transcription": "[ðи **э**нджин хæз нот би:н к**а**вэд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been covered",
+        "examples": [
+          {
+            "ours": "К пяти люк накроют.",
+            "thought": "К пяти [известный] люк будет иметь быть накрыт.",
+            "english": "By five the hatch will have been covered.",
+            "transcription": "[бай файв ðэ хæч wил хæв би:н к**а**вэд]"
+          },
+          {
+            "ours": "Двигатель накроют к пяти?",
+            "thought": "Будет [известный] двигатель иметь быть накрыт к пяти?",
+            "english": "Will the engine have been covered by five?",
+            "transcription": "[wил ðи **э**нджин хæв би:н к**а**вэд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The crew has covered the hatch."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что моряк накроет двигатель.",
+        "thought": "Я знал [известный] моряк будет накрывать [известный] двигатель.",
+        "english": "I knew the sailor would cover the engine.",
+        "transcription": "[ай нью: ðэ с**э**йлэ wуд к**а**вэ ðи **э**нджин]"
+      },
+      {
+        "ours": "Мы думали, что экипаж не накроет люк.",
+        "thought": "Мы думали [известный] экипаж будет не накрывать [известный] люк.",
+        "english": "We thought the crew would not cover the hatch.",
+        "transcription": "[wи: θо:т ðэ кру: wуд нот к**а**вэ ðэ хæч]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "hatch",
+      "meaning": "люк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "hatch"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "compass"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "compass"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "compass"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "compass"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "compass"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "cockpit",
+      "meaning": "кокпит",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "cockpit"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "cockpit"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "races"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "night"
+        }
+      ]
+    }
+  ]
+}

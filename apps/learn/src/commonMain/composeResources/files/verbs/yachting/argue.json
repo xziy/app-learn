@@ -1,0 +1,942 @@
+{
+  "spec": 4,
+  "verb": "argue",
+  "forms": {
+    "base": [
+      {
+        "word": "argue",
+        "transcription": "[**а**:гью]"
+      }
+    ],
+    "past": [
+      {
+        "word": "argued",
+        "transcription": "[**а**:гьюд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "argued",
+        "transcription": "[**а**:гьюд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "arguing",
+        "transcription": "[**а**:гьюиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "argues",
+        "transcription": "[**а**:гьюз]"
+      }
+    ]
+  },
+  "meaning": "спорить, аргументировать, доказывать",
+  "notes": "правильный глагол; непереходный в значении спорить; переходный в значении представлять дело в суде",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "argued",
+        "examples": [
+          {
+            "ours": "Вчера мы спорили о маршруте.",
+            "thought": "Вчера мы спорили о [известном] маршруте.",
+            "english": "Yesterday we argued about the route.",
+            "transcription": "[й**э**стэдэй wи: **а**:гьюд эб**а**ут ðэ ру:т]"
+          },
+          {
+            "ours": "Он не спорил с капитаном.",
+            "thought": "Он [сделал] не спорить с [известным] капитаном.",
+            "english": "He didn't argue with the captain.",
+            "transcription": "[хи: диднт **а**:гью wиð ðэ к**æ**птин]"
+          },
+          {
+            "ours": "Ты спорил со шкипером до гонки?",
+            "thought": "[Сделал] ты спорить с [известным] шкипером перед [известной] гонкой?",
+            "english": "Did you argue with the skipper before the race?",
+            "transcription": "[дид ю: **а**:гью wиð ðэ ск**и**пэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "argue, argues",
+        "examples": [
+          {
+            "ours": "Экипаж часто спорит о погоде.",
+            "thought": "[Известный] экипаж часто спорит о [известной] погоде.",
+            "english": "The crew often argues about the weather.",
+            "transcription": "[ðэ кру: **о**фэн **а**:гьюз эб**а**ут ðэ w**э**ðэ]"
+          },
+          {
+            "ours": "Он не спорит с капитаном на борту.",
+            "thought": "Он [делает] не спорить с [известным] капитаном на борту.",
+            "english": "He doesn't argue with the captain on board.",
+            "transcription": "[хи: дазнт **а**:гью wиð ðэ к**æ**птин он бо:д]"
+          },
+          {
+            "ours": "Ты споришь о маршруте до гонки?",
+            "thought": "[Делаешь] ты спорить о [известном] маршруте перед [известной] гонкой?",
+            "english": "Do you argue about the route before the race?",
+            "transcription": "[ду: ю: **а**:гью эб**а**ут ðэ ру:т биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will argue",
+        "examples": [
+          {
+            "ours": "Завтра мы будем спорить о маршруте.",
+            "thought": "Завтра мы будем спорить о [известном] маршруте.",
+            "english": "Tomorrow we will argue about the route.",
+            "transcription": "[тэм**о**роу wи: wил **а**:гью эб**а**ут ðэ ру:т]"
+          },
+          {
+            "ours": "Он не будет спорить с капитаном.",
+            "thought": "Он будет не спорить с [известным] капитаном.",
+            "english": "He won't argue with the captain.",
+            "transcription": "[хи: wоунт **а**:гью wиð ðэ к**æ**птин]"
+          },
+          {
+            "ours": "Ты будешь спорить со шкипером до гонки?",
+            "thought": "Будешь ты спорить с [известным] шкипером перед [известной] гонкой?",
+            "english": "Will you argue with the skipper before the race?",
+            "transcription": "[wил ю: **а**:гью wиð ðэ ск**и**пэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were arguing",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день спорили о маршруте.",
+            "thought": "Вчера мы были спорящими о [известном] маршруте весь день.",
+            "english": "Yesterday we were arguing about the route all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: **а**:гьюиŋ эб**а**ут ðэ ру:т о:л дэй]"
+          },
+          {
+            "ours": "Ты спорил с капитаном, когда я пришёл?",
+            "thought": "Был ты спорящим с [известным] капитаном когда я пришёл?",
+            "english": "Were you arguing with the captain when I came?",
+            "transcription": "[wœ: ю: **а**:гьюиŋ wиð ðэ к**æ**птин wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are arguing",
+        "examples": [
+          {
+            "ours": "Сейчас мы спорим о погоде.",
+            "thought": "Мы являемся спорящими о [известной] погоде сейчас.",
+            "english": "We are arguing about the weather now.",
+            "transcription": "[wи: а: **а**:гьюиŋ эб**а**ут ðэ w**э**ðэ нау]"
+          },
+          {
+            "ours": "Ты сейчас споришь со шкипером?",
+            "thought": "Являешься ты спорящим с [известным] шкипером сейчас?",
+            "english": "Are you arguing with the skipper now?",
+            "transcription": "[а: ю: **а**:гьюиŋ wиð ðэ ск**и**пэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be arguing",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем спорить о маршруте.",
+            "thought": "Завтра мы будем быть спорящими о [известном] маршруте весь день.",
+            "english": "Tomorrow we will be arguing about the route all day.",
+            "transcription": "[тэм**о**роу wи: wил би: **а**:гьюиŋ эб**а**ут ðэ ру:т о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь спорить с капитаном до гонки?",
+            "thought": "Будешь ты быть спорящим с [известным] капитаном перед [известной] гонкой?",
+            "english": "Will you be arguing with the captain before the race?",
+            "transcription": "[wил ю: би: **а**:гьюиŋ wиð ðэ к**æ**птин биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had argued",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже поспорили о маршруте.",
+            "thought": "К пяти вчера мы имели уже поспорившим о [известном] маршруте.",
+            "english": "By five yesterday we had already argued about the route.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди **а**:гьюд эб**а**ут ðэ ру:т]"
+          },
+          {
+            "ours": "Ты спорил с капитаном до гонки?",
+            "thought": "Имел ты поспорившим с [известным] капитаном перед [известной] гонкой?",
+            "english": "Had you argued with the captain before the race?",
+            "transcription": "[хæд ю: **а**:гьюд wиð ðэ к**æ**птин биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has argued",
+        "examples": [
+          {
+            "ours": "Мы уже поспорили о погоде.",
+            "thought": "Мы имеем уже поспорившим о [известной] погоде.",
+            "english": "We have already argued about the weather.",
+            "transcription": "[wи: хæв о:лр**э**ди **а**:гьюд эб**а**ут ðэ w**э**ðэ]"
+          },
+          {
+            "ours": "Ты уже спорил с капитаном?",
+            "thought": "Имеешь ты уже поспорившим с [известным] капитаном?",
+            "english": "Have you already argued with the captain?",
+            "transcription": "[хæв ю: о:лр**э**ди **а**:гьюд wиð ðэ к**æ**птин]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have argued",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже поспорим о маршруте.",
+            "thought": "К пяти завтра мы будем иметь уже поспорившим о [известном] маршруте.",
+            "english": "By five tomorrow we will have already argued about the route.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди **а**:гьюд эб**а**ут ðэ ру:т]"
+          },
+          {
+            "ours": "Ты поспоришь с капитаном до гонки?",
+            "thought": "Будешь ты иметь поспорившим с [известным] капитаном перед [известной] гонкой?",
+            "english": "Will you have argued with the captain before the race?",
+            "transcription": "[wил ю: хæв **а**:гьюд wиð ðэ к**æ**птин биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been arguing",
+        "examples": [
+          {
+            "ours": "Мы уже два часа спорили о маршруте, когда ты пришёл.",
+            "thought": "Мы имели быть спорящими о [известном] маршруте целых два часа когда ты пришёл.",
+            "english": "We had been arguing about the route for two hours when you came.",
+            "transcription": "[wи: хæд би:н **а**:гьюиŋ эб**а**ут ðэ ру:т фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа спорил с капитаном, когда он пришёл?",
+            "thought": "Имел ты быть спорящим с [известным] капитаном целых два часа когда он пришёл?",
+            "english": "Had you been arguing with the captain for two hours when he came?",
+            "transcription": "[хæд ю: би:н **а**:гьюиŋ wиð ðэ к**æ**птин фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been arguing",
+        "examples": [
+          {
+            "ours": "Мы уже два часа спорим о маршруте.",
+            "thought": "Мы имеем быть спорящими о [известном] маршруте целых два часа.",
+            "english": "We have been arguing about the route for two hours.",
+            "transcription": "[wи: хæв би:н **а**:гьюиŋ эб**а**ут ðэ ру:т фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа споришь с капитаном?",
+            "thought": "Имеешь ты быть спорящим с [известным] капитаном целых два часа?",
+            "english": "Have you been arguing with the captain for two hours?",
+            "transcription": "[хæв ю: би:н **а**:гьюиŋ wиð ðэ к**æ**птин фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been arguing",
+        "examples": [
+          {
+            "ours": "К пяти мы будем спорить о маршруте уже два часа.",
+            "thought": "К пяти мы будем иметь быть спорящими о [известном] маршруте целых два часа.",
+            "english": "By five we will have been arguing about the route for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н **а**:гьюиŋ эб**а**ут ðэ ру:т фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь спорить с капитаном уже два часа?",
+            "thought": "Будешь ты иметь быть спорящим с [известным] капитаном целых два часа к пяти?",
+            "english": "Will you have been arguing with the captain for two hours by five?",
+            "transcription": "[wил ю: хæв би:н **а**:гьюиŋ wиð ðэ к**æ**птин фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were argued",
+        "examples": [
+          {
+            "ours": "Вчера морское дело рассматривалось в суде.",
+            "thought": "[Известное] морское дело было оспорено в суде вчера.",
+            "english": "The sailing case was argued in court yesterday.",
+            "transcription": "[ðэ с**э**йлиŋ кэйс wоз **а**:гьюд ин ко:т й**э**стэдэй]"
+          },
+          {
+            "ours": "Страховое дело разбирали до гонки?",
+            "thought": "Было [известное] яхты страховое дело оспорено перед [известной] гонкой?",
+            "english": "Was the yacht insurance case argued before the race?",
+            "transcription": "[wоз ðэ йот инш**у**эрэнс кэйс **а**:гьюд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are argued",
+        "examples": [
+          {
+            "ours": "Дела о страховании яхт разбираются в суде.",
+            "thought": "Яхт страхования дела есть оспорены в суде.",
+            "english": "Yacht insurance cases are argued in court.",
+            "transcription": "[йот инш**у**эрэнс к**э**йсиз а: **а**:гьюд ин ко:т]"
+          },
+          {
+            "ours": "Это дело разбирают в суде?",
+            "thought": "Есть это дело оспорено в суде?",
+            "english": "Is this case argued in court?",
+            "transcription": "[из ðис кэйс **а**:гьюд ин ко:т]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be argued",
+        "examples": [
+          {
+            "ours": "Завтра дело о страховании яхты разберут в суде.",
+            "thought": "[Известное] яхты страховое дело будет быть оспорено в суде завтра.",
+            "english": "The yacht insurance case will be argued in court tomorrow.",
+            "transcription": "[ðэ йот инш**у**эрэнс кэйс wил би: **а**:гьюд ин ко:т тэм**о**роу]"
+          },
+          {
+            "ours": "Дело разберут до гонки?",
+            "thought": "Будет [известное] дело быть оспорено перед [известной] гонкой?",
+            "english": "Will the case be argued before the race?",
+            "transcription": "[wил ðэ кэйс би: **а**:гьюд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being argued",
+        "examples": [
+          {
+            "ours": "Вчера дело о страховании яхты весь день разбирали в суде.",
+            "thought": "Вчера [известное] яхты страховое дело было «долго» оспорено в суде весь день.",
+            "english": "Yesterday the yacht insurance case was being argued in court all day.",
+            "transcription": "[й**э**стэдэй ðэ йот инш**у**эрэнс кэйс wоз б**и**:иŋ **а**:гьюд ин ко:т о:л дэй]"
+          },
+          {
+            "ours": "Дело разбирали, когда ты пришёл?",
+            "thought": "Было [известное] дело «долго» оспорено когда ты пришёл?",
+            "english": "Was the case being argued when you came?",
+            "transcription": "[wоз ðэ кэйс б**и**:иŋ **а**:гьюд wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being argued",
+        "examples": [
+          {
+            "ours": "Сейчас дело о страховании яхты разбирается в суде.",
+            "thought": "[Известное] яхты страховое дело есть «долго» оспорено в суде сейчас.",
+            "english": "The yacht insurance case is being argued in court now.",
+            "transcription": "[ðэ йот инш**у**эрэнс кэйс из б**и**:иŋ **а**:гьюд ин ко:т нау]"
+          },
+          {
+            "ours": "Сейчас дело разбирают в суде?",
+            "thought": "Есть [известное] дело «долго» оспорено в суде сейчас?",
+            "english": "Is the case being argued in court now?",
+            "transcription": "[из ðэ кэйс б**и**:иŋ **а**:гьюд ин ко:т нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be arguing",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут разбирать дело о страховании яхты.",
+            "thought": "Завтра они будут быть оспаривающими [известное] яхты страховое дело весь день.",
+            "english": "Tomorrow they will be arguing the yacht insurance case all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: **а**:гьюиŋ ðэ йот инш**у**эрэнс кэйс о:л дэй]"
+          },
+          {
+            "ours": "Они будут разбирать дело до гонки?",
+            "thought": "Будут они быть оспаривающими [известное] дело перед [известной] гонкой?",
+            "english": "Will they be arguing the case before the race?",
+            "transcription": "[wил ðэй би: **а**:гьюиŋ ðэ кэйс биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been argued",
+        "examples": [
+          {
+            "ours": "Вчера к пяти дело о страховании яхты уже разобрали.",
+            "thought": "К пяти вчера [известное] яхты страховое дело имело уже быть оспорено.",
+            "english": "By five yesterday the yacht insurance case had already been argued.",
+            "transcription": "[бай файв й**э**стэдэй ðэ йот инш**у**эрэнс кэйс хæд о:лр**э**ди би:н **а**:гьюд]"
+          },
+          {
+            "ours": "Дело разобрали до гонки?",
+            "thought": "Имело [известное] дело быть оспорено перед [известной] гонкой?",
+            "english": "Had the case been argued before the race?",
+            "transcription": "[хæд ðэ кэйс би:н **а**:гьюд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been argued",
+        "examples": [
+          {
+            "ours": "Страховое дело уже разобрали в суде.",
+            "thought": "[Известное] яхты страховое дело имеет уже быть оспорено в суде.",
+            "english": "The yacht insurance case has already been argued in court.",
+            "transcription": "[ðэ йот инш**у**эрэнс кэйс хæз о:лр**э**ди би:н **а**:гьюд ин ко:т]"
+          },
+          {
+            "ours": "Дело уже разобрали?",
+            "thought": "Имеет [известное] дело уже быть оспорено?",
+            "english": "Has the case already been argued?",
+            "transcription": "[хæз ðэ кэйс о:лр**э**ди би:н **а**:гьюд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been argued",
+        "examples": [
+          {
+            "ours": "К пяти завтра дело о страховании яхты уже разберут.",
+            "thought": "К пяти завтра [известное] яхты страховое дело будет уже иметь быть оспорено.",
+            "english": "By five tomorrow the yacht insurance case will already have been argued.",
+            "transcription": "[бай файв тэм**о**роу ðэ йот инш**у**эрэнс кэйс wил о:лр**э**ди хæв би:н **а**:гьюд]"
+          },
+          {
+            "ours": "Дело разберут до гонки?",
+            "thought": "Будет [известное] дело иметь быть оспорено перед [известной] гонкой?",
+            "english": "Will the case have been argued before the race?",
+            "transcription": "[wил ðэ кэйс хæв би:н **а**:гьюд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The case has been argued. Или: They have been arguing the case."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они будут спорить о маршруте.",
+        "thought": "[Известный] капитан сказал что они будут спорить о [известном] маршруте.",
+        "english": "The captain said that they would argue about the route.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд **а**:гью эб**а**ут ðэ ру:т]"
+      },
+      {
+        "ours": "Я знал, что ты не будешь спорить со шкипером.",
+        "thought": "Я знал что ты будешь не спорить с [известным] шкипером.",
+        "english": "I knew that you wouldn't argue with the skipper.",
+        "transcription": "[ай нью: ðæт ю: wуднт **а**:гью wиð ðэ ск**и**пэ]"
+      },
+      {
+        "ours": "Капитан сказал, что мы будем спорить о погоде.",
+        "thought": "[Известный] капитан сказал что мы будем спорить о [известной] погоде.",
+        "english": "The captain said that we would argue about the weather.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд **а**:гью эб**а**ут ðэ w**э**ðэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "sailing",
+      "meaning": "парусный спорт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "sailing"
+        }
+      ]
+    },
+    {
+      "word": "case",
+      "meaning": "дело",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "cases"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "case"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "case"
+        }
+      ]
+    },
+    {
+      "word": "court",
+      "meaning": "суд",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "court"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "court"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "court"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "court"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "court"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "court"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "court"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "court"
+        }
+      ]
+    },
+    {
+      "word": "insurance",
+      "meaning": "страхование",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "insurance"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Insurance"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "insurance"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "insurance"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "insurance"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "insurance"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "insurance"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "insurance"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "insurance"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Yacht"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "yacht"
+        }
+      ]
+    }
+  ]
+}

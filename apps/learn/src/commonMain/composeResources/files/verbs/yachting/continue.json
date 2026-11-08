@@ -1,0 +1,704 @@
+{
+  "spec": 4,
+  "verb": "continue",
+  "forms": {
+    "base": [
+      {
+        "word": "continue",
+        "transcription": "[кэнт**и**нью]"
+      }
+    ],
+    "past": [
+      {
+        "word": "continued",
+        "transcription": "[кэнт**и**нью:д]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "continued",
+        "transcription": "[кэнт**и**нью:д]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "continuing",
+        "transcription": "[кэнт**и**ньюиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "continues",
+        "transcription": "[кэнт**и**нью:з]"
+      }
+    ]
+  },
+  "meaning": "продолжать, продолжаться",
+  "notes": "правильный глагол, бывает переходным и непереходным; переходное значение образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "continued",
+        "examples": [
+          {
+            "ours": "Вчера мы продолжили ремонт.",
+            "thought": "Вчера мы продолжили [известный] ремонт.",
+            "english": "Yesterday we continued the repairs.",
+            "transcription": "[й**э**стэдэй wи: кэнт**и**нью:д ðэ рип**э**эз]"
+          },
+          {
+            "ours": "Ты продолжил вахту?",
+            "thought": "[Сделал] ты продолжать [известную] вахту?",
+            "english": "Did you continue the watch?",
+            "transcription": "[дид ю: кэнт**и**нью ðэ wоч]"
+          },
+          {
+            "ours": "Шторм не продолжился ночью.",
+            "thought": "[Известный] шторм [сделал] не продолжаться в ночь.",
+            "english": "The storm did not continue at night.",
+            "transcription": "[ðэ сто:м дид нот кэнт**и**нью æт найт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "continue, continues",
+        "examples": [
+          {
+            "ours": "Гонка продолжается в любую погоду.",
+            "thought": "[Известная] гонка продолжается в любую погоду.",
+            "english": "The race continues in any weather.",
+            "transcription": "[ðэ рэйс кэнт**и**нью:з ин **э**ни w**э**ðэ]"
+          },
+          {
+            "ours": "Ты продолжаешь учёбу на борту?",
+            "thought": "[Делаешь] ты продолжать обучение на борту?",
+            "english": "Do you continue training on board?",
+            "transcription": "[ду: ю: кэнт**и**нью тр**э**йниŋ он бо:д]"
+          },
+          {
+            "ours": "Мы не продолжаем гонку в шторм.",
+            "thought": "Мы [делаем] не продолжать [известную] гонку в [какой-то] шторм.",
+            "english": "We do not continue the race in a storm.",
+            "transcription": "[wи: ду: нот кэнт**и**нью ðэ рэйс ин э сто:м]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will continue",
+        "examples": [
+          {
+            "ours": "Завтра мы продолжим ремонт.",
+            "thought": "Завтра мы будем продолжать [известный] ремонт.",
+            "english": "Tomorrow we will continue the repairs.",
+            "transcription": "[тэм**о**роу wи: wил кэнт**и**нью ðэ рип**э**эз]"
+          },
+          {
+            "ours": "Ты продолжишь вахту?",
+            "thought": "Будешь ты продолжать [известную] вахту?",
+            "english": "Will you continue the watch?",
+            "transcription": "[wил ю: кэнт**и**нью ðэ wоч]"
+          },
+          {
+            "ours": "Шторм не продлится до утра.",
+            "thought": "[Известный] шторм будет не продолжаться до утра.",
+            "english": "The storm will not continue until morning.",
+            "transcription": "[ðэ сто:м wил нот кэнт**и**нью энт**и**л м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were continuing",
+        "examples": [
+          {
+            "ours": "Вчера утром мы продолжали ремонт паруса.",
+            "thought": "Вчера утром мы были продолжающими [известный] паруса ремонт.",
+            "english": "Yesterday morning we were continuing the sail repairs.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: кэнт**и**ньюиŋ ðэ сэйл рип**э**эз]"
+          },
+          {
+            "ours": "Ты продолжал вахту, когда начался дождь?",
+            "thought": "Был ты продолжающим [известную] вахту, когда он начал идти дождём?",
+            "english": "Were you continuing the watch when it started raining?",
+            "transcription": "[wœ: ю: кэнт**и**ньюиŋ ðэ wоч wэн ит ст**а**:тид р**э**йниŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are continuing",
+        "examples": [
+          {
+            "ours": "Мы сейчас продолжаем ремонт.",
+            "thought": "Мы являемся продолжающими [известный] ремонт сейчас.",
+            "english": "We are continuing the repairs now.",
+            "transcription": "[wи: а: кэнт**и**ньюиŋ ðэ рип**э**эз нау]"
+          },
+          {
+            "ours": "Гонка сейчас продолжается?",
+            "thought": "Является [известная] гонка продолжающейся сейчас?",
+            "english": "Is the race continuing now?",
+            "transcription": "[из ðэ рэйс кэнт**и**ньюиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be continuing",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем продолжать ремонт.",
+            "thought": "Завтра утром мы будем быть продолжающими [известный] ремонт.",
+            "english": "Tomorrow morning we will be continuing the repairs.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: кэнт**и**ньюиŋ ðэ рип**э**эз]"
+          },
+          {
+            "ours": "Ты будешь продолжать вахту днём?",
+            "thought": "Будешь ты быть продолжающим [известную] вахту это время после полудня?",
+            "english": "Will you be continuing the watch this afternoon?",
+            "transcription": "[wил ю: би: кэнт**и**ньюиŋ ðэ wоч ðис а:фтэн**у**:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had continued",
+        "examples": [
+          {
+            "ours": "К полудню мы уже продолжили ремонт.",
+            "thought": "К полудню мы имели уже продолженным [известный] ремонт.",
+            "english": "By noon we had already continued the repairs.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди кэнт**и**нью:д ðэ рип**э**эз]"
+          },
+          {
+            "ours": "Ты продолжил вахту после сигнала?",
+            "thought": "Имел ты продолженной [известную] вахту после [известного] сигнала?",
+            "english": "Had you continued the watch after the signal?",
+            "transcription": "[хæд ю: кэнт**и**нью:д ðэ wоч **а**:фтэ ðэ с**и**гнл]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has continued",
+        "examples": [
+          {
+            "ours": "Несмотря на дождь, мы продолжили ремонт.",
+            "thought": "Мы имеем продолженным [известный] ремонт несмотря на [известный] дождь.",
+            "english": "We have continued the repairs despite the rain.",
+            "transcription": "[wи: хæв кэнт**и**нью:д ðэ рип**э**эз дисп**а**йт ðэ рэйн]"
+          },
+          {
+            "ours": "Гонка продолжилась после шторма?",
+            "thought": "Имеет [известная] гонка продолжившейся после [известного] шторма?",
+            "english": "Has the race continued after the storm?",
+            "transcription": "[хæз ðэ рэйс кэнт**и**нью:д **а**:фтэ ðэ сто:м]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have continued",
+        "examples": [
+          {
+            "ours": "К полудню гонка будет длиться три часа.",
+            "thought": "К полудню [известная] гонка будет иметь продолжавшейся целых три часа.",
+            "english": "By noon the race will have continued for three hours.",
+            "transcription": "[бай ну:н ðэ рэйс wил хæв кэнт**и**нью:д фо: θри: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ремонт будет длиться два часа?",
+            "thought": "Будет [известный] ремонт иметь продолжавшимся целых два часа к пяти?",
+            "english": "Will the repairs have continued for two hours by five?",
+            "transcription": "[wил ðэ рип**э**эз хæв кэнт**и**нью:д фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Форма has been continuing грамматически возможна, но с продолжительностью здесь избыточна: The repairs have continued for an hour или They have been repairing the sail for an hour."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were continued",
+        "examples": [
+          {
+            "ours": "Вчера ремонт продолжили.",
+            "thought": "[Известный] ремонт был продолжен вчера.",
+            "english": "The repairs were continued yesterday.",
+            "transcription": "[ðэ рип**э**эз wœ: кэнт**и**нью:д й**э**стэдэй]"
+          },
+          {
+            "ours": "Гонку продолжили после шторма?",
+            "thought": "Была [известная] гонка продолжена после [известного] шторма?",
+            "english": "Was the race continued after the storm?",
+            "transcription": "[wоз ðэ рэйс кэнт**и**нью:д **а**:фтэ ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are continued",
+        "examples": [
+          {
+            "ours": "Работы продолжают каждый день.",
+            "thought": "[Известные] работы есть продолжены каждый день.",
+            "english": "The repairs are continued every day.",
+            "transcription": "[ðэ рип**э**эз а: кэнт**и**нью:д **э**ври дэй]"
+          },
+          {
+            "ours": "Вахту продолжают после полудня?",
+            "thought": "Есть [известная] вахта продолжена после полудня?",
+            "english": "Is the watch continued after noon?",
+            "transcription": "[из ðэ wоч кэнт**и**нью:д **а**:фтэ ну:н]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be continued",
+        "examples": [
+          {
+            "ours": "Ремонт продолжат завтра.",
+            "thought": "[Известный] ремонт будет быть продолжен завтра.",
+            "english": "The repairs will be continued tomorrow.",
+            "transcription": "[ðэ рип**э**эз wил би: кэнт**и**нью:д тэм**о**роу]"
+          },
+          {
+            "ours": "Гонку продолжат после шторма?",
+            "thought": "Будет [известная] гонка быть продолжена после [известного] шторма?",
+            "english": "Will the race be continued after the storm?",
+            "transcription": "[wил ðэ рэйс би: кэнт**и**нью:д **а**:фтэ ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being continued",
+        "not_possible": "Длительный пассив being continued звучит тяжеловесно; естественнее The repairs are continuing или They are continuing the repairs."
+      },
+      "present": {
+        "form": "am/is/are being continued",
+        "not_possible": "Длительный пассив being continued звучит тяжеловесно; естественнее The repairs are continuing или They are continuing the repairs."
+      },
+      "future": {
+        "form": "will be continuing",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут продолжать ремонт.",
+            "thought": "Завтра утром они будут быть продолжающими [известный] ремонт.",
+            "english": "Tomorrow morning they will be continuing the repairs.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: кэнт**и**ньюиŋ ðэ рип**э**эз]"
+          },
+          {
+            "ours": "Они будут продолжать вахту днём?",
+            "thought": "Будут они быть продолжающими [известную] вахту это время после полудня?",
+            "english": "Will they be continuing the watch this afternoon?",
+            "transcription": "[wил ðэй би: кэнт**и**ньюиŋ ðэ wоч ðис а:фтэн**у**:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been continued",
+        "examples": [
+          {
+            "ours": "К полудню ремонт уже продолжили.",
+            "thought": "К полудню [известный] ремонт имел уже быть продолжен.",
+            "english": "By noon the repairs had already been continued.",
+            "transcription": "[бай ну:н ðэ рип**э**эз хæд о:лр**э**ди би:н кэнт**и**нью:д]"
+          },
+          {
+            "ours": "Гонку продолжили после шторма?",
+            "thought": "Имела [известная] гонка быть продолжена после [известного] шторма?",
+            "english": "Had the race been continued after the storm?",
+            "transcription": "[хæд ðэ рэйс би:н кэнт**и**нью:д **а**:фтэ ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been continued",
+        "examples": [
+          {
+            "ours": "Ремонт уже продолжили.",
+            "thought": "[Известный] ремонт имеет уже быть продолжен.",
+            "english": "The repairs have already been continued.",
+            "transcription": "[ðэ рип**э**эз хæв о:лр**э**ди би:н кэнт**и**нью:д]"
+          },
+          {
+            "ours": "Гонку продолжили после шторма?",
+            "thought": "Имеет [известная] гонка быть продолжена после [известного] шторма?",
+            "english": "Has the race been continued after the storm?",
+            "transcription": "[хæз ðэ рэйс би:н кэнт**и**нью:д **а**:фтэ ðэ сто:м]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been continued",
+        "examples": [
+          {
+            "ours": "К полудню ремонт уже продолжат.",
+            "thought": "К полудню [известный] ремонт будет иметь быть продолжен.",
+            "english": "By noon the repairs will have been continued.",
+            "transcription": "[бай ну:н ðэ рип**э**эз wил хæв би:н кэнт**и**нью:д]"
+          },
+          {
+            "ours": "Вахту продолжат к пяти?",
+            "thought": "Будет [известная] вахта иметь быть продолжена к пяти?",
+            "english": "Will the watch have been continued by five?",
+            "transcription": "[wил ðэ wоч хæв би:н кэнт**и**нью:д бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been continuing the repairs."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они продолжат ремонт.",
+        "thought": "Я знал, они будут продолжать [известный] ремонт.",
+        "english": "I knew they would continue the repairs.",
+        "transcription": "[ай нью: ðэй wуд кэнт**и**нью ðэ рип**э**эз]"
+      },
+      {
+        "ours": "Она думала, что мы не продолжим гонку.",
+        "thought": "Она думала, мы будем не продолжать [известную] гонку.",
+        "english": "She thought we would not continue the race.",
+        "transcription": "[ши: θо:т wи: wуд нот кэнт**и**нью ðэ рэйс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "repair",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "repairs"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "repairs"
+        }
+      ]
+    },
+    {
+      "word": "watch",
+      "meaning": "вахта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "watch"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "watch"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "watch"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "watch"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "watch"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "watch"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "watch"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "watch"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "meaning": "время после полудня",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "afternoon"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "afternoon"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "signal",
+      "meaning": "сигнал",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "signal"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        }
+      ]
+    }
+  ]
+}

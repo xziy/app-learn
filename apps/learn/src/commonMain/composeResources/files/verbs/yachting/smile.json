@@ -1,0 +1,438 @@
+{
+  "spec": 4,
+  "verb": "smile",
+  "forms": {
+    "base": [
+      {
+        "word": "smile",
+        "transcription": "[смайл]"
+      }
+    ],
+    "past": [
+      {
+        "word": "smiled",
+        "transcription": "[смайлд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "smiled",
+        "transcription": "[смайлд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "smiling",
+        "transcription": "[см**а**йлиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "smiles",
+        "transcription": "[смайлз]"
+      }
+    ]
+  },
+  "meaning": "улыбаться",
+  "notes": "правильный непереходный глагол; smile at — улыбаться кому-либо",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "smiled",
+        "examples": [
+          {
+            "ours": "Вчера капитан улыбнулся гостям.",
+            "thought": "Вчера [известный] капитан улыбнулся на [известных] гостей.",
+            "english": "Yesterday the captain smiled at the guests.",
+            "transcription": "[й**э**стэдэй ðэ к**æ**птин смайлд æт ðэ гэстс]"
+          },
+          {
+            "ours": "Моряк не улыбнулся шкиперу.",
+            "thought": "[Известный] моряк [сделал] не улыбаться на [известного] шкипера.",
+            "english": "The sailor didn't smile at the skipper.",
+            "transcription": "[ðэ с**э**йлэ диднт смайл æт ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Ты улыбнулся экипажу до гонки?",
+            "thought": "[Сделал] ты улыбаться на [известный] экипаж перед [известной] гонкой?",
+            "english": "Did you smile at the crew before the race?",
+            "transcription": "[дид ю: смайл æт ðэ кру: биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "smile, smiles",
+        "examples": [
+          {
+            "ours": "Шкипер улыбается гостям на борту.",
+            "thought": "[Известный] шкипер улыбается на [известных] гостей на борту.",
+            "english": "The skipper smiles at the guests on board.",
+            "transcription": "[ðэ ск**и**пэ смайлз æт ðэ гэстс он бо:д]"
+          },
+          {
+            "ours": "Он не улыбается капитану.",
+            "thought": "Он [делает] не улыбаться на [известного] капитана.",
+            "english": "He doesn't smile at the captain.",
+            "transcription": "[хи: дазнт смайл æт ðэ к**æ**птин]"
+          },
+          {
+            "ours": "Ты улыбаешься экипажу?",
+            "thought": "[Делаешь] ты улыбаться на [известный] экипаж?",
+            "english": "Do you smile at the crew?",
+            "transcription": "[ду: ю: смайл æт ðэ кру:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will smile",
+        "examples": [
+          {
+            "ours": "Завтра капитан улыбнётся гостям.",
+            "thought": "Завтра [известный] капитан будет улыбаться на [известных] гостей.",
+            "english": "Tomorrow the captain will smile at the guests.",
+            "transcription": "[тэм**о**роу ðэ к**æ**птин wил смайл æт ðэ гэстс]"
+          },
+          {
+            "ours": "Он не улыбнётся шкиперу.",
+            "thought": "Он будет не улыбаться на [известного] шкипера.",
+            "english": "He won't smile at the skipper.",
+            "transcription": "[хи: wоунт смайл æт ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Ты улыбнёшься экипажу до гонки?",
+            "thought": "Будешь ты улыбаться на [известный] экипаж перед [известной] гонкой?",
+            "english": "Will you smile at the crew before the race?",
+            "transcription": "[wил ю: смайл æт ðэ кру: биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were smiling",
+        "examples": [
+          {
+            "ours": "Капитан улыбался гостям, когда я пришёл.",
+            "thought": "[Известный] капитан был улыбающимся на [известных] гостей когда я пришёл.",
+            "english": "The captain was smiling at the guests when I came.",
+            "transcription": "[ðэ к**æ**птин wоз см**а**йлиŋ æт ðэ гэстс wэн ай кэйм]"
+          },
+          {
+            "ours": "Ты улыбался шкиперу, когда он пришёл?",
+            "thought": "Был ты улыбающимся на [известного] шкипера когда он пришёл?",
+            "english": "Were you smiling at the skipper when he came?",
+            "transcription": "[wœ: ю: см**а**йлиŋ æт ðэ ск**и**пэ wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are smiling",
+        "examples": [
+          {
+            "ours": "Сейчас капитан улыбается экипажу.",
+            "thought": "[Известный] капитан является улыбающимся на [известный] экипаж сейчас.",
+            "english": "The captain is smiling at the crew now.",
+            "transcription": "[ðэ к**æ**птин из см**а**йлиŋ æт ðэ кру: нау]"
+          },
+          {
+            "ours": "Ты сейчас улыбаешься гостям?",
+            "thought": "Являешься ты улыбающимся на [известных] гостей сейчас?",
+            "english": "Are you smiling at the guests now?",
+            "transcription": "[а: ю: см**а**йлиŋ æт ðэ гэстс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be smiling",
+        "examples": [
+          {
+            "ours": "Завтра капитан весь день будет улыбаться гостям.",
+            "thought": "Завтра [известный] капитан будет быть улыбающимся на [известных] гостей весь день.",
+            "english": "Tomorrow the captain will be smiling at the guests all day.",
+            "transcription": "[тэм**о**роу ðэ к**æ**птин wил би: см**а**йлиŋ æт ðэ гэстс о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь улыбаться шкиперу во время гонки?",
+            "thought": "Будешь ты быть улыбающимся на [известного] шкипера во время [известной] гонки?",
+            "english": "Will you be smiling at the skipper during the race?",
+            "transcription": "[wил ю: би: см**а**йлиŋ æт ðэ ск**и**пэ дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had smiled",
+        "examples": [
+          {
+            "ours": "Вчера к пяти капитан уже улыбнулся гостям.",
+            "thought": "К пяти вчера [известный] капитан имел уже улыбнувшимся на [известных] гостей.",
+            "english": "By five yesterday the captain had already smiled at the guests.",
+            "transcription": "[бай файв й**э**стэдэй ðэ к**æ**птин хæд о:лр**э**ди смайлд æт ðэ гэстс]"
+          },
+          {
+            "ours": "Ты улыбнулся экипажу до гонки?",
+            "thought": "Имел ты улыбнувшимся на [известный] экипаж перед [известной] гонкой?",
+            "english": "Had you smiled at the crew before the race?",
+            "transcription": "[хæд ю: смайлд æт ðэ кру: биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has smiled",
+        "examples": [
+          {
+            "ours": "Капитан уже улыбнулся гостям.",
+            "thought": "[Известный] капитан имеет уже улыбнувшимся на [известных] гостей.",
+            "english": "The captain has already smiled at the guests.",
+            "transcription": "[ðэ к**æ**птин хæз о:лр**э**ди смайлд æт ðэ гэстс]"
+          },
+          {
+            "ours": "Ты уже улыбнулся экипажу?",
+            "thought": "Имеешь ты уже улыбнувшимся на [известный] экипаж?",
+            "english": "Have you already smiled at the crew?",
+            "transcription": "[хæв ю: о:лр**э**ди смайлд æт ðэ кру:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have smiled",
+        "not_possible": "Для обычного прогноза улыбки завершённая будущая форма звучит неестественно. Скажут: The captain will smile at the guests."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Длительное непрерывное улыбание целые часы в обычной ситуации неестественно; например, можно сказать: The captain has been smiling at the guests all morning."
+    }
+  },
+  "passive": {
+    "not_possible": "В обычном значении smile — непереходный глагол. Предложный пассив вроде The guests were smiled at грамматически возможен, но здесь естественнее: The captain smiled at the guests."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что улыбнётся гостям.",
+        "thought": "[Известный] капитан сказал что он будет улыбаться на [известных] гостей.",
+        "english": "The captain said that he would smile at the guests.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт хи: wуд смайл æт ðэ гэстс]"
+      },
+      {
+        "ours": "Я знал, что ты не улыбнёшься шкиперу.",
+        "thought": "Я знал что ты будешь не улыбаться на [известного] шкипера.",
+        "english": "I knew that you wouldn't smile at the skipper.",
+        "transcription": "[ай нью: ðæт ю: wуднт смайл æт ðэ ск**и**пэ]"
+      },
+      {
+        "ours": "Капитан сказал, что мы улыбнёмся экипажу.",
+        "thought": "[Известный] капитан сказал что мы будем улыбаться на [известный] экипаж.",
+        "english": "The captain said that we would smile at the crew.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд смайл æт ðэ кру:]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "guest",
+      "meaning": "гость",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "guests"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "guests"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "guests"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "guests"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "guests"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "guests"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "guests"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "guests"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "guests"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    }
+  ]
+}

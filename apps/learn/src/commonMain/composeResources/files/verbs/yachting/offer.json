@@ -1,0 +1,975 @@
+{
+  "spec": 4,
+  "verb": "offer",
+  "forms": {
+    "base": [
+      {
+        "word": "offer",
+        "transcription": "[**о**фэ]"
+      }
+    ],
+    "past": [
+      {
+        "word": "offered",
+        "transcription": "[**о**фэд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "offered",
+        "transcription": "[**о**фэд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "offering",
+        "transcription": "[**о**фэриŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "offers",
+        "transcription": "[**о**фэз]"
+      }
+    ]
+  },
+  "meaning": "предлагать, предоставлять",
+  "notes": "правильный переходный глагол; offer someone something — предлагать кому-то что-либо; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "offered",
+        "examples": [
+          {
+            "ours": "Вчера марина предложила нам место.",
+            "thought": "Вчера [известная] марина предложила нам [какое-то] место.",
+            "english": "Yesterday the marina offered us a berth.",
+            "transcription": "[й**э**стэдэй ðэ мэр**и**:нэ **о**фэд ас э бœ:θ]"
+          },
+          {
+            "ours": "Ты предложил шкиперу помощь?",
+            "thought": "[Сделал] ты предлагать [известному] шкиперу помощь?",
+            "english": "Did you offer the skipper help?",
+            "transcription": "[дид ю: **о**фэ ðэ ск**и**пэ хэлп]"
+          },
+          {
+            "ours": "Она не предложила нам воду.",
+            "thought": "Она [сделала] не предлагать нам воду.",
+            "english": "She did not offer us water.",
+            "transcription": "[ши: дид нот **о**фэ ас w**о**:тэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "offer, offers",
+        "examples": [
+          {
+            "ours": "Марина предлагает душ.",
+            "thought": "[Известная] марина предлагает душ.",
+            "english": "The marina offers showers.",
+            "transcription": "[ðэ мэр**и**:нэ **о**фэз ш**а**уэз]"
+          },
+          {
+            "ours": "Ты предлагаешь гостям жилеты?",
+            "thought": "[Делаешь] ты предлагать гостям спасательные жилеты?",
+            "english": "Do you offer guests life jackets?",
+            "transcription": "[ду: ю: **о**фэ гэстс лайф дж**æ**китс]"
+          },
+          {
+            "ours": "Эта компания не предлагает чартер.",
+            "thought": "Эта компания [делает] не предлагать чартер.",
+            "english": "This company does not offer charters.",
+            "transcription": "[ðис к**а**мпэни даз нот **о**фэ ч**а**:тэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will offer",
+        "examples": [
+          {
+            "ours": "Завтра они предложат нам место.",
+            "thought": "Завтра они будут предлагать нам [какое-то] место.",
+            "english": "Tomorrow they will offer us a berth.",
+            "transcription": "[тэм**о**роу ðэй wил **о**фэ ас э бœ:θ]"
+          },
+          {
+            "ours": "Ты предложишь команде помощь?",
+            "thought": "Будешь ты предлагать [известной] команде помощь?",
+            "english": "Will you offer the crew help?",
+            "transcription": "[wил ю: **о**фэ ðэ кру: хэлп]"
+          },
+          {
+            "ours": "Она не предложит нам топливо.",
+            "thought": "Она будет не предлагать нам топливо.",
+            "english": "She will not offer us fuel.",
+            "transcription": "[ши: wил нот **о**фэ ас фь**ю**:эл]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were offering",
+        "examples": [
+          {
+            "ours": "Вчера компания предлагала скидки.",
+            "thought": "Вчера [известная] компания была предлагающей скидки.",
+            "english": "Yesterday the company was offering discounts.",
+            "transcription": "[й**э**стэдэй ðэ к**а**мпэни wоз **о**фэриŋ д**и**скаунтс]"
+          },
+          {
+            "ours": "Ты предлагал помощь команде, когда я вошёл?",
+            "thought": "Был ты предлагающим помощь к [известной] команде, когда я вошёл?",
+            "english": "Were you offering help to the crew when I entered?",
+            "transcription": "[wœ: ю: **о**фэриŋ хэлп ту ðэ кру: wэн ай **э**нтэд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are offering",
+        "examples": [
+          {
+            "ours": "Марина сейчас предлагает свободные места.",
+            "thought": "[Известная] марина является предлагающей свободные места сейчас.",
+            "english": "The marina is offering available berths now.",
+            "transcription": "[ðэ мэр**и**:нэ из **о**фэриŋ эв**э**йлэбл бœ:θс нау]"
+          },
+          {
+            "ours": "Ты сейчас предлагаешь помощь шкиперу?",
+            "thought": "Являешься ты предлагающим помощь к [известному] шкиперу сейчас?",
+            "english": "Are you offering help to the skipper now?",
+            "transcription": "[а: ю: **о**фэриŋ хэлп ту ðэ ск**и**пэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be offering",
+        "examples": [
+          {
+            "ours": "Завтра утром компания будет предлагать экскурсии.",
+            "thought": "Завтра утром [известная] компания будет быть предлагающей экскурсии.",
+            "english": "Tomorrow morning the company will be offering tours.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэ к**а**мпэни wил би: **о**фэриŋ туэз]"
+          },
+          {
+            "ours": "Ты будешь предлагать уроки днём?",
+            "thought": "Будешь ты быть предлагающим уроки это время после полудня?",
+            "english": "Will you be offering lessons this afternoon?",
+            "transcription": "[wил ю: би: **о**фэриŋ л**э**снз ðис а:фтэн**у**:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had offered",
+        "examples": [
+          {
+            "ours": "К полудню они уже предложили нам место.",
+            "thought": "К полудню они имели уже предложенным нам [какое-то] место.",
+            "english": "By noon they had already offered us a berth.",
+            "transcription": "[бай ну:н ðэй хæд о:лр**э**ди **о**фэд ас э бœ:θ]"
+          },
+          {
+            "ours": "Ты предложил команде помощь до отхода?",
+            "thought": "Имел ты предложенной [известной] команде помощь до отхода?",
+            "english": "Had you offered the crew help before departure?",
+            "transcription": "[хæд ю: **о**фэд ðэ кру: хэлп биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has offered",
+        "examples": [
+          {
+            "ours": "Марина уже предложила нам место.",
+            "thought": "[Известная] марина имеет уже предложенным нам [какое-то] место.",
+            "english": "The marina has already offered us a berth.",
+            "transcription": "[ðэ мэр**и**:нэ хæз о:лр**э**ди **о**фэд ас э бœ:θ]"
+          },
+          {
+            "ours": "Ты уже предложил шкиперу помощь?",
+            "thought": "Имеешь ты предложенной [известному] шкиперу помощь уже?",
+            "english": "Have you offered the skipper help yet?",
+            "transcription": "[хæв ю: **о**фэд ðэ ск**и**пэ хэлп йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have offered",
+        "examples": [
+          {
+            "ours": "К полудню марина предложит нам место.",
+            "thought": "К полудню [известная] марина будет иметь предложенным нам [какое-то] место.",
+            "english": "By noon the marina will have offered us a berth.",
+            "transcription": "[бай ну:н ðэ мэр**и**:нэ wил хæв **о**фэд ас э бœ:θ]"
+          },
+          {
+            "ours": "Ты предложишь команде помощь к пяти?",
+            "thought": "Будешь ты иметь предложенной [известной] команде помощь к пяти?",
+            "english": "Will you have offered the crew help by five?",
+            "transcription": "[wил ю: хæв **о**фэд ðэ кру: хэлп бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been offering",
+        "examples": [
+          {
+            "ours": "Марина предлагала уроки десять лет до закрытия.",
+            "thought": "[Известная] марина имела быть предлагающей уроки целых десять лет до закрытия.",
+            "english": "The marina had been offering lessons for ten years before closing.",
+            "transcription": "[ðэ мэр**и**:нэ хæд би:н **о**фэриŋ л**э**снз фо: тэн йиэз биф**о**: кл**о**узиŋ]"
+          },
+          {
+            "ours": "Компания предлагала чартер пять лет до переезда?",
+            "thought": "Имела [известная] компания быть предлагающей чартеры целых пять лет до переезда?",
+            "english": "Had the company been offering charters for five years before moving?",
+            "transcription": "[хæд ðэ к**а**мпэни би:н **о**фэриŋ ч**а**:тэз фо: файв йиэз биф**о**: м**у**:виŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been offering",
+        "examples": [
+          {
+            "ours": "Марина предлагает уроки уже десять лет.",
+            "thought": "[Известная] марина имеет быть предлагающей уроки целых десять лет.",
+            "english": "The marina has been offering lessons for ten years.",
+            "transcription": "[ðэ мэр**и**:нэ хæз би:н **о**фэриŋ л**э**снз фо: тэн йиэз]"
+          },
+          {
+            "ours": "Компания предлагает чартер уже пять лет?",
+            "thought": "Имеет [известная] компания быть предлагающей чартеры целых пять лет?",
+            "english": "Has the company been offering charters for five years?",
+            "transcription": "[хæз ðэ к**а**мпэни би:н **о**фэриŋ ч**а**:тэз фо: файв йиэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been offering",
+        "examples": [
+          {
+            "ours": "К июню марина будет предлагать уроки уже десять лет.",
+            "thought": "К июню [известная] марина будет иметь быть предлагающей уроки целых десять лет.",
+            "english": "By June the marina will have been offering lessons for ten years.",
+            "transcription": "[бай джу:н ðэ мэр**и**:нэ wил хæв би:н **о**фэриŋ л**э**снз фо: тэн йиэз]"
+          },
+          {
+            "ours": "К маю компания будет предлагать чартер уже пять лет?",
+            "thought": "Будет [известная] компания иметь быть предлагающей чартеры целых пять лет к маю?",
+            "english": "Will the company have been offering charters for five years by May?",
+            "transcription": "[wил ðэ к**а**мпэни хæв би:н **о**фэриŋ ч**а**:тэз фо: файв йиэз бай мэй]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were offered",
+        "examples": [
+          {
+            "ours": "Нам предложили место.",
+            "thought": "Мы были предложены [какое-то] место.",
+            "english": "We were offered a berth.",
+            "transcription": "[wи: wœ: **о**фэд э бœ:θ]"
+          },
+          {
+            "ours": "Команде предложили помощь?",
+            "thought": "Была [известная] команда предложена помощь?",
+            "english": "Was the crew offered help?",
+            "transcription": "[wоз ðэ кру: **о**фэд хэлп]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are offered",
+        "examples": [
+          {
+            "ours": "Гостям предлагают жилеты.",
+            "thought": "Гости есть предложены спасательные жилеты.",
+            "english": "Guests are offered life jackets.",
+            "transcription": "[гэстс а: **о**фэд лайф дж**æ**китс]"
+          },
+          {
+            "ours": "На этой яхте предлагают уроки?",
+            "thought": "Есть уроки предложены на этой яхте?",
+            "english": "Are lessons offered on this yacht?",
+            "transcription": "[а: л**э**снз **о**фэд он ðис йот]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be offered",
+        "examples": [
+          {
+            "ours": "Нам предложат место завтра.",
+            "thought": "Мы будем быть предложены [какое-то] место завтра.",
+            "english": "We will be offered a berth tomorrow.",
+            "transcription": "[wи: wил би: **о**фэд э бœ:θ тэм**о**роу]"
+          },
+          {
+            "ours": "Команде предложат помощь?",
+            "thought": "Будет [известная] команда быть предложена помощь?",
+            "english": "Will the crew be offered help?",
+            "transcription": "[wил ðэ кру: би: **о**фэд хэлп]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being offered",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, гостям предлагали жилеты.",
+            "thought": "Гости были «долго» предложены спасательные жилеты, когда я прибыл.",
+            "english": "Guests were being offered life jackets when I arrived.",
+            "transcription": "[гэстс wœ: б**и**:иŋ **о**фэд лайф дж**æ**китс wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, предлагали скидки?",
+            "thought": "Были скидки «долго» предложены, когда ты позвонил?",
+            "english": "Were discounts being offered when you called?",
+            "transcription": "[wœ: д**и**скаунтс б**и**:иŋ **о**фэд wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being offered",
+        "examples": [
+          {
+            "ours": "Гостям сейчас предлагают жилеты.",
+            "thought": "Гости есть «долго» предложены спасательные жилеты сейчас.",
+            "english": "Guests are being offered life jackets now.",
+            "transcription": "[гэстс а: б**и**:иŋ **о**фэд лайф дж**æ**китс нау]"
+          },
+          {
+            "ours": "Сейчас предлагают скидки?",
+            "thought": "Есть скидки «долго» предложены сейчас?",
+            "english": "Are discounts being offered now?",
+            "transcription": "[а: д**и**скаунтс б**и**:иŋ **о**фэд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be offering",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут предлагать экскурсии.",
+            "thought": "Завтра утром они будут быть предлагающими экскурсии.",
+            "english": "Tomorrow morning they will be offering tours.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: **о**фэриŋ туэз]"
+          },
+          {
+            "ours": "Они будут предлагать уроки днём?",
+            "thought": "Будут они быть предлагающими уроки это время после полудня?",
+            "english": "Will they be offering lessons this afternoon?",
+            "transcription": "[wил ðэй би: **о**фэриŋ л**э**снз ðис а:фтэн**у**:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been offered",
+        "examples": [
+          {
+            "ours": "К полудню нам уже предложили место.",
+            "thought": "К полудню мы имели уже быть предложены [какое-то] место.",
+            "english": "By noon we had already been offered a berth.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди би:н **о**фэд э бœ:θ]"
+          },
+          {
+            "ours": "Команде предложили помощь до отхода?",
+            "thought": "Имела [известная] команда быть предложена помощь до отхода?",
+            "english": "Had the crew been offered help before departure?",
+            "transcription": "[хæд ðэ кру: би:н **о**фэд хэлп биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been offered",
+        "examples": [
+          {
+            "ours": "Нам уже предложили место.",
+            "thought": "Мы имеем уже быть предложены [какое-то] место.",
+            "english": "We have already been offered a berth.",
+            "transcription": "[wи: хæв о:лр**э**ди би:н **о**фэд э бœ:θ]"
+          },
+          {
+            "ours": "Команде уже предложили помощь?",
+            "thought": "Имеет [известная] команда быть предложена помощь уже?",
+            "english": "Has the crew been offered help yet?",
+            "transcription": "[хæз ðэ кру: би:н **о**фэд хэлп йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been offered",
+        "examples": [
+          {
+            "ours": "К полудню нам предложат место.",
+            "thought": "К полудню мы будем иметь быть предложены [какое-то] место.",
+            "english": "By noon we will have been offered a berth.",
+            "transcription": "[бай ну:н wи: wил хæв би:н **о**фэд э бœ:θ]"
+          },
+          {
+            "ours": "Команде предложат помощь к пяти?",
+            "thought": "Будет [известная] команда иметь быть предложена помощь к пяти?",
+            "english": "Will the crew have been offered help by five?",
+            "transcription": "[wил ðэ кру: хæв би:н **о**фэд хэлп бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: The marina has been offering lessons for years."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они предложат нам место.",
+        "thought": "Я знал, они будут предлагать нам [какое-то] место.",
+        "english": "I knew they would offer us a berth.",
+        "transcription": "[ай нью: ðэй wуд **о**фэ ас э бœ:θ]"
+      },
+      {
+        "ours": "Она думала, что мы не предложим помощь.",
+        "thought": "Она думала, мы будем не предлагать помощь.",
+        "english": "She thought we would not offer help.",
+        "transcription": "[ши: θо:т wи: wуд нот **о**фэ хэлп]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "berth",
+      "meaning": "причальное место",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "berths"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "berth"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "help",
+      "meaning": "помощь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "help"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "help"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "help"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "help"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "help"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "help"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "help"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "help"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "help"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "help"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "help"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "help"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "help"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "shower",
+      "meaning": "душ",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "showers"
+        }
+      ]
+    },
+    {
+      "word": "guest",
+      "meaning": "гость",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "guests"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Guests"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Guests"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Guests"
+        }
+      ]
+    },
+    {
+      "word": "life jacket",
+      "meaning": "спасательный жилет",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "life jackets"
+        }
+      ]
+    },
+    {
+      "word": "company",
+      "meaning": "компания",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "company"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "company"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "company"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "company"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "company"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "company"
+        }
+      ]
+    },
+    {
+      "word": "charter",
+      "meaning": "чартер",
+      "sense": "hire",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "charters"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "charters"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "charters"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "charters"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "fuel",
+      "meaning": "топливо",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "fuel"
+        }
+      ]
+    },
+    {
+      "word": "discount",
+      "meaning": "скидка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "discounts"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "discounts"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "discounts"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "tour",
+      "meaning": "экскурсия",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "tours"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "tours"
+        }
+      ]
+    },
+    {
+      "word": "lesson",
+      "meaning": "урок",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "lessons"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "lessons"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "lessons"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "lessons"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "lessons"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "lessons"
+        }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "meaning": "время после полудня",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "afternoon"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "afternoon"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "May",
+      "meaning": "май",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "May"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "yacht"
+        }
+      ]
+    }
+  ]
+}

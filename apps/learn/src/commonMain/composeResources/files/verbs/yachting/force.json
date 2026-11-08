@@ -1,0 +1,772 @@
+{
+  "spec": 4,
+  "verb": "force",
+  "forms": {
+    "base": [
+      {
+        "word": "force",
+        "transcription": "[фо:с]"
+      }
+    ],
+    "past": [
+      {
+        "word": "forced",
+        "transcription": "[фо:ст]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "forced",
+        "transcription": "[фо:ст]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "forcing",
+        "transcription": "[ф**о**:сиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "forces",
+        "transcription": "[ф**о**:сиз]"
+      }
+    ]
+  },
+  "meaning": "вынуждать, заставлять",
+  "notes": "правильный переходный глагол; force someone to do something — заставлять кого-либо что-либо сделать; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "forced",
+        "examples": [
+          {
+            "ours": "Вчера шторм вынудил нас ждать.",
+            "thought": "Вчера [известный] шторм заставил нас ждать.",
+            "english": "Yesterday the storm forced us to wait.",
+            "transcription": "[й**э**стэдэй ðэ сто:м фо:ст ас ту wэйт]"
+          },
+          {
+            "ours": "Ветер заставил тебя остановиться?",
+            "thought": "[Сделал] [известный] ветер заставлять тебя остановиться?",
+            "english": "Did the wind force you to stop?",
+            "transcription": "[дид ðэ wинд фо:с ю: ту стоп]"
+          },
+          {
+            "ours": "Шторм не заставил её уйти.",
+            "thought": "[Известный] шторм [сделал] не заставлять её уйти.",
+            "english": "The storm did not force her to leave.",
+            "transcription": "[ðэ сто:м дид нот фо:с хœ: ту ли:в]"
+          }
+        ]
+      },
+      "present": {
+        "form": "force, forces",
+        "examples": [
+          {
+            "ours": "Шторм заставляет экипаж ждать.",
+            "thought": "[Известный] шторм заставляет [известную] команду ждать.",
+            "english": "The storm forces the crew to wait.",
+            "transcription": "[ðэ сто:м ф**о**:сиз ðэ кру: ту wэйт]"
+          },
+          {
+            "ours": "Сильный ветер заставляет вас остановиться?",
+            "thought": "[Делает] сильный ветер заставлять вас остановиться?",
+            "english": "Does strong wind force you to stop?",
+            "transcription": "[даз строŋ wинд фо:с ю: ту стоп]"
+          },
+          {
+            "ours": "Дождь не заставляет нас уходить.",
+            "thought": "Дождь [делает] не заставлять нас уходить.",
+            "english": "Rain does not force us to leave.",
+            "transcription": "[рэйн даз нот фо:с ас ту ли:в]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will force",
+        "examples": [
+          {
+            "ours": "Завтра шторм заставит нас ждать.",
+            "thought": "Завтра [известный] шторм будет заставлять нас ждать.",
+            "english": "Tomorrow the storm will force us to wait.",
+            "transcription": "[тэм**о**роу ðэ сто:м wил фо:с ас ту wэйт]"
+          },
+          {
+            "ours": "Ветер заставит тебя остановиться?",
+            "thought": "Будет [известный] ветер заставлять тебя остановиться?",
+            "english": "Will the wind force you to stop?",
+            "transcription": "[wил ðэ wинд фо:с ю: ту стоп]"
+          },
+          {
+            "ours": "Шторм не заставит её уйти.",
+            "thought": "[Известный] шторм будет не заставлять её уходить.",
+            "english": "The storm will not force her to leave.",
+            "transcription": "[ðэ сто:м wил нот фо:с хœ: ту ли:в]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were forcing",
+        "examples": [
+          {
+            "ours": "Вчера утром шторм заставлял нас ждать.",
+            "thought": "Вчера утром [известный] шторм был заставляющим нас ждать.",
+            "english": "Yesterday morning the storm was forcing us to wait.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ ðэ сто:м wоз ф**о**:сиŋ ас ту wэйт]"
+          },
+          {
+            "ours": "Ветер заставлял тебя остановиться, когда я позвонил?",
+            "thought": "Был [известный] ветер заставляющим тебя остановиться, когда я позвонил?",
+            "english": "Was the wind forcing you to stop when I called?",
+            "transcription": "[wоз ðэ wинд ф**о**:сиŋ ю: ту стоп wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are forcing",
+        "examples": [
+          {
+            "ours": "Шторм сейчас заставляет нас ждать.",
+            "thought": "[Известный] шторм является заставляющим нас ждать сейчас.",
+            "english": "The storm is forcing us to wait now.",
+            "transcription": "[ðэ сто:м из ф**о**:сиŋ ас ту wэйт нау]"
+          },
+          {
+            "ours": "Ветер сейчас заставляет тебя остановиться?",
+            "thought": "Является [известный] ветер заставляющим тебя остановиться сейчас?",
+            "english": "Is the wind forcing you to stop now?",
+            "transcription": "[из ðэ wинд ф**о**:сиŋ ю: ту стоп нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be forcing",
+        "examples": [
+          {
+            "ours": "Завтра утром шторм будет заставлять нас ждать.",
+            "thought": "Завтра утром [известный] шторм будет быть заставляющим нас ждать.",
+            "english": "Tomorrow morning the storm will be forcing us to wait.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэ сто:м wил би: ф**о**:сиŋ ас ту wэйт]"
+          },
+          {
+            "ours": "Ветер будет заставлять тебя останавливаться во время гонки?",
+            "thought": "Будет [известный] ветер быть заставляющим тебя остановиться во время [известной] гонки?",
+            "english": "Will the wind be forcing you to stop during the race?",
+            "transcription": "[wил ðэ wинд би: ф**о**:сиŋ ю: ту стоп дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had forced",
+        "examples": [
+          {
+            "ours": "К полудню шторм уже заставил нас ждать.",
+            "thought": "К полудню [известный] шторм имел уже заставленными нас ждать.",
+            "english": "By noon the storm had already forced us to wait.",
+            "transcription": "[бай ну:н ðэ сто:м хæд о:лр**э**ди фо:ст ас ту wэйт]"
+          },
+          {
+            "ours": "Ветер заставил тебя остановиться до гонки?",
+            "thought": "Имел [известный] ветер заставленным тебя остановиться до [известной] гонки?",
+            "english": "Had the wind forced you to stop before the race?",
+            "transcription": "[хæд ðэ wинд фо:ст ю: ту стоп биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has forced",
+        "examples": [
+          {
+            "ours": "Шторм уже заставил нас ждать.",
+            "thought": "[Известный] шторм имеет уже заставленными нас ждать.",
+            "english": "The storm has already forced us to wait.",
+            "transcription": "[ðэ сто:м хæз о:лр**э**ди фо:ст ас ту wэйт]"
+          },
+          {
+            "ours": "Ветер уже заставил тебя остановиться?",
+            "thought": "Имеет [известный] ветер заставленным тебя остановиться уже?",
+            "english": "Has the wind forced you to stop yet?",
+            "transcription": "[хæз ðэ wинд фо:ст ю: ту стоп йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have forced",
+        "examples": [
+          {
+            "ours": "К полудню шторм уже заставит нас ждать.",
+            "thought": "К полудню [известный] шторм будет иметь заставленными нас ждать.",
+            "english": "By noon the storm will have forced us to wait.",
+            "transcription": "[бай ну:н ðэ сто:м wил хæв фо:ст ас ту wэйт]"
+          },
+          {
+            "ours": "Ветер заставит тебя остановиться к пяти?",
+            "thought": "Будет [известный] ветер иметь заставленным тебя остановиться к пяти?",
+            "english": "Will the wind have forced you to stop by five?",
+            "transcription": "[wил ðэ wинд хæв фо:ст ю: ту стоп бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been forcing",
+        "examples": [
+          {
+            "ours": "Шторм уже час заставлял нас ждать, когда ветер усилился.",
+            "thought": "[Известный] шторм имел быть заставляющим нас ждать целый [какой-то] час, когда [известный] ветер усилился.",
+            "english": "The storm had been forcing us to wait for an hour when the wind increased.",
+            "transcription": "[ðэ сто:м хæд би:н ф**о**:сиŋ ас ту wэйт фо: эн **а**уэ wэн ðэ wинд инкр**и**:ст]"
+          },
+          {
+            "ours": "Ветер заставлял тебя ждать два часа до рассвета?",
+            "thought": "Имел [известный] ветер быть заставляющим тебя ждать целых два часа до рассвета?",
+            "english": "Had the wind been forcing you to wait for two hours before dawn?",
+            "transcription": "[хæд ðэ wинд би:н ф**о**:сиŋ ю: ту wэйт фо: ту: **а**уэз биф**о**: до:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been forcing",
+        "examples": [
+          {
+            "ours": "Шторм заставляет нас ждать уже час.",
+            "thought": "[Известный] шторм имеет быть заставляющим нас ждать целый [какой-то] час.",
+            "english": "The storm has been forcing us to wait for an hour.",
+            "transcription": "[ðэ сто:м хæз би:н ф**о**:сиŋ ас ту wэйт фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ветер заставляет тебя ждать уже два часа?",
+            "thought": "Имеет [известный] ветер быть заставляющим тебя ждать целых два часа?",
+            "english": "Has the wind been forcing you to wait for two hours?",
+            "transcription": "[хæз ðэ wинд би:н ф**о**:сиŋ ю: ту wэйт фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been forcing",
+        "examples": [
+          {
+            "ours": "К пяти шторм будет заставлять нас ждать уже два часа.",
+            "thought": "К пяти [известный] шторм будет иметь быть заставляющим нас ждать целых два часа.",
+            "english": "By five the storm will have been forcing us to wait for two hours.",
+            "transcription": "[бай файв ðэ сто:м wил хæв би:н ф**о**:сиŋ ас ту wэйт фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ветер будет заставлять тебя ждать уже час?",
+            "thought": "Будет [известный] ветер иметь быть заставляющим тебя ждать целый [какой-то] час к полудню?",
+            "english": "Will the wind have been forcing you to wait for an hour by noon?",
+            "transcription": "[wил ðэ wинд хæв би:н ф**о**:сиŋ ю: ту wэйт фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were forced",
+        "examples": [
+          {
+            "ours": "Вчера нас заставили ждать.",
+            "thought": "Мы были заставлены ждать вчера.",
+            "english": "We were forced to wait yesterday.",
+            "transcription": "[wи: wœ: фо:ст ту wэйт й**э**стэдэй]"
+          },
+          {
+            "ours": "Экипаж заставили уйти?",
+            "thought": "Была [известная] команда заставлена уйти?",
+            "english": "Was the crew forced to leave?",
+            "transcription": "[wоз ðэ кру: фо:ст ту ли:в]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are forced",
+        "examples": [
+          {
+            "ours": "Команду заставляют ждать.",
+            "thought": "[Известная] команда есть заставлена ждать.",
+            "english": "The crew is forced to wait.",
+            "transcription": "[ðэ кру: из фо:ст ту wэйт]"
+          },
+          {
+            "ours": "Яхты вынуждены уходить?",
+            "thought": "Есть яхты заставлены уходить?",
+            "english": "Are yachts forced to leave?",
+            "transcription": "[а: йотс фо:ст ту ли:в]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be forced",
+        "examples": [
+          {
+            "ours": "Завтра нас заставят ждать.",
+            "thought": "Мы будем быть заставлены ждать завтра.",
+            "english": "We will be forced to wait tomorrow.",
+            "transcription": "[wи: wил би: фо:ст ту wэйт тэм**о**роу]"
+          },
+          {
+            "ours": "Команду заставят уйти?",
+            "thought": "Будет [известная] команда быть заставлена уйти?",
+            "english": "Will the crew be forced to leave?",
+            "transcription": "[wил ðэ кру: би: фо:ст ту ли:в]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being forced",
+        "examples": [
+          {
+            "ours": "Когда я прибыл, команду заставляли ждать.",
+            "thought": "[Известная] команда была «долго» заставлена ждать, когда я прибыл.",
+            "english": "The crew was being forced to wait when I arrived.",
+            "transcription": "[ðэ кру: wоз б**и**:иŋ фо:ст ту wэйт wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, яхты вынуждены были уходить?",
+            "thought": "Были яхты «долго» заставлены уходить, когда ты позвонил?",
+            "english": "Were yachts being forced to leave when you called?",
+            "transcription": "[wœ: йотс б**и**:иŋ фо:ст ту ли:в wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being forced",
+        "examples": [
+          {
+            "ours": "Команду сейчас заставляют ждать.",
+            "thought": "[Известная] команда есть «долго» заставлена ждать сейчас.",
+            "english": "The crew is being forced to wait now.",
+            "transcription": "[ðэ кру: из б**и**:иŋ фо:ст ту wэйт нау]"
+          },
+          {
+            "ours": "Яхты сейчас вынуждены уходить?",
+            "thought": "Есть яхты «долго» заставлены уходить сейчас?",
+            "english": "Are yachts being forced to leave now?",
+            "transcription": "[а: йотс б**и**:иŋ фо:ст ту ли:в нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be forcing",
+        "examples": [
+          {
+            "ours": "Завтра утром шторм будет заставлять команду ждать.",
+            "thought": "Завтра утром [известный] шторм будет быть заставляющим [известную] команду ждать.",
+            "english": "Tomorrow morning the storm will be forcing the crew to wait.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэ сто:м wил би: ф**о**:сиŋ ðэ кру: ту wэйт]"
+          },
+          {
+            "ours": "Ветер будет заставлять яхты уходить во время гонки?",
+            "thought": "Будет [известный] ветер быть заставляющим яхты уходить во время [известной] гонки?",
+            "english": "Will the wind be forcing yachts to leave during the race?",
+            "transcription": "[wил ðэ wинд би: ф**о**:сиŋ йотс ту ли:в дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been forced",
+        "examples": [
+          {
+            "ours": "К полудню нас уже заставили ждать.",
+            "thought": "К полудню мы имели уже быть заставлены ждать.",
+            "english": "By noon we had already been forced to wait.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди би:н фо:ст ту wэйт]"
+          },
+          {
+            "ours": "Команду заставили уйти до гонки?",
+            "thought": "Имела [известная] команда быть заставлена уйти до [известной] гонки?",
+            "english": "Had the crew been forced to leave before the race?",
+            "transcription": "[хæд ðэ кру: би:н фо:ст ту ли:в биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been forced",
+        "examples": [
+          {
+            "ours": "Нас уже заставили ждать.",
+            "thought": "Мы имеем уже быть заставлены ждать.",
+            "english": "We have already been forced to wait.",
+            "transcription": "[wи: хæв о:лр**э**ди би:н фо:ст ту wэйт]"
+          },
+          {
+            "ours": "Команду уже заставили уйти?",
+            "thought": "Имеет [известная] команда быть заставлена уйти уже?",
+            "english": "Has the crew been forced to leave yet?",
+            "transcription": "[хæз ðэ кру: би:н фо:ст ту ли:в йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been forced",
+        "examples": [
+          {
+            "ours": "К полудню нас заставят ждать.",
+            "thought": "К полудню мы будем иметь быть заставлены ждать.",
+            "english": "By noon we will have been forced to wait.",
+            "transcription": "[бай ну:н wи: wил хæв би:н фо:ст ту wэйт]"
+          },
+          {
+            "ours": "Команду заставят уйти к пяти?",
+            "thought": "Будет [известная] команда иметь быть заставлена уйти к пяти?",
+            "english": "Will the crew have been forced to leave by five?",
+            "transcription": "[wил ðэ кру: хæв би:н фо:ст ту ли:в бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: The storm has been forcing the crew to wait."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что шторм заставит их ждать.",
+        "thought": "Я знал, [известный] шторм будет заставлять их ждать.",
+        "english": "I knew the storm would force them to wait.",
+        "transcription": "[ай нью: ðэ сто:м wуд фо:с ðэм ту wэйт]"
+      },
+      {
+        "ours": "Она думала, что ветер не заставит нас уйти.",
+        "thought": "Она думала, [известный] ветер будет не заставлять нас уходить.",
+        "english": "She thought the wind would not force us to leave.",
+        "transcription": "[ши: θо:т ðэ wинд wуд нот фо:с ас ту ли:в]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "Rain"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "yachts"
+        }
+      ]
+    }
+  ]
+}

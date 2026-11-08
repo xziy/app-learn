@@ -1,0 +1,940 @@
+{
+  "spec": 4,
+  "verb": "break",
+  "forms": {
+    "base": [
+      {
+        "word": "break",
+        "transcription": "[брэйк]"
+      }
+    ],
+    "past": [
+      {
+        "word": "broke",
+        "transcription": "[броук]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "broken",
+        "transcription": "[бр**о**укэн]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "breaking",
+        "transcription": "[бр**э**йкиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "breaks",
+        "transcription": "[брэйкс]"
+      }
+    ]
+  },
+  "meaning": "ломать, ломаться, разбиваться; разбирать на лом (break up)",
+  "notes": "неправильный переходный и непереходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "broke",
+        "examples": [
+          {
+            "ours": "Вчера порвался трос.",
+            "thought": "Вчера [известный] трос сломался.",
+            "english": "Yesterday the rope broke.",
+            "transcription": "[й**э**стэдэй ðэ роуп броук]"
+          },
+          {
+            "ours": "Он не сломал лебёдку.",
+            "thought": "Он [сделал] не ломать [известную] лебёдку.",
+            "english": "He didn't break the winch.",
+            "transcription": "[хи: диднт брэйк ðэ wинч]"
+          },
+          {
+            "ours": "Шторм сломал мачту?",
+            "thought": "[Сделал] [известный] шторм ломать [известную] мачту?",
+            "english": "Did the storm break the mast?",
+            "transcription": "[дид ðэ сто:м брэйк ðэ ма:ст]"
+          }
+        ]
+      },
+      "present": {
+        "form": "break, breaks",
+        "examples": [
+          {
+            "ours": "Старые тросы рвутся на сильном ветру.",
+            "thought": "Старые тросы ломаются в сильном ветре.",
+            "english": "Old ropes break in strong wind.",
+            "transcription": "[оулд роупс брэйк ин строŋ wинд]"
+          },
+          {
+            "ours": "Этот трос не рвётся на ветру.",
+            "thought": "Этот трос [делает] не ломаться в ветре.",
+            "english": "This rope doesn't break in wind.",
+            "transcription": "[ðис роуп дазнт брэйк ин wинд]"
+          },
+          {
+            "ours": "Волны разбиваются о скалы?",
+            "thought": "[Делают] [известные] волны разбиваться о [известные] скалы?",
+            "english": "Do the waves break against the rocks?",
+            "transcription": "[ду: ðэ wэйвз брэйк эг**э**нст ðэ рокс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will break",
+        "examples": [
+          {
+            "ours": "Завтра трос порвётся.",
+            "thought": "Завтра [известный] трос будет ломаться.",
+            "english": "Tomorrow the rope will break.",
+            "transcription": "[тэм**о**роу ðэ роуп wил брэйк]"
+          },
+          {
+            "ours": "Шторм не сломает мачту.",
+            "thought": "[Известный] шторм будет не ломать [известную] мачту.",
+            "english": "The storm won't break the mast.",
+            "transcription": "[ðэ сто:м wоунт брэйк ðэ ма:ст]"
+          },
+          {
+            "ours": "Волны разобьются о берег?",
+            "thought": "Будут [известные] волны разбиваться о [известный] берег?",
+            "english": "Will the waves break against the shore?",
+            "transcription": "[wил ðэ wэйвз брэйк эг**э**нст ðэ шо:]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were breaking",
+        "examples": [
+          {
+            "ours": "Вчера волны весь день разбивались о берег.",
+            "thought": "Вчера [известные] волны были разбивающимися о [известный] берег весь день.",
+            "english": "Yesterday the waves were breaking against the shore all day.",
+            "transcription": "[й**э**стэдэй ðэ wэйвз wœ: бр**э**йкиŋ эг**э**нст ðэ шо: о:л дэй]"
+          },
+          {
+            "ours": "Волны разбивались о скалы, когда я пришёл?",
+            "thought": "Были [известные] волны разбивающимися о [известные] скалы когда я пришёл?",
+            "english": "Were the waves breaking against the rocks when I came?",
+            "transcription": "[wœ: ðэ wэйвз бр**э**йкиŋ эг**э**нст ðэ рокс wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are breaking",
+        "examples": [
+          {
+            "ours": "Сейчас волны разбиваются о берег.",
+            "thought": "[Известные] волны являются разбивающимися о [известный] берег сейчас.",
+            "english": "The waves are breaking against the shore now.",
+            "transcription": "[ðэ wэйвз а: бр**э**йкиŋ эг**э**нст ðэ шо: нау]"
+          },
+          {
+            "ours": "Волны сейчас разбиваются о скалы?",
+            "thought": "Являются [известные] волны разбивающимися о [известные] скалы сейчас?",
+            "english": "Are the waves breaking against the rocks now?",
+            "transcription": "[а: ðэ wэйвз бр**э**йкиŋ эг**э**нст ðэ рокс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be breaking",
+        "examples": [
+          {
+            "ours": "Завтра волны весь день будут разбиваться о берег.",
+            "thought": "Завтра [известные] волны будут быть разбивающимися о [известный] берег весь день.",
+            "english": "Tomorrow the waves will be breaking against the shore all day.",
+            "transcription": "[тэм**о**роу ðэ wэйвз wил би: бр**э**йкиŋ эг**э**нст ðэ шо: о:л дэй]"
+          },
+          {
+            "ours": "Волны будут разбиваться о скалы во время гонки?",
+            "thought": "Будут [известные] волны быть разбивающимися о [известные] скалы во время [известной] гонки?",
+            "english": "Will the waves be breaking against the rocks during the race?",
+            "transcription": "[wил ðэ wэйвз би: бр**э**йкиŋ эг**э**нст ðэ рокс дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had broken",
+        "examples": [
+          {
+            "ours": "Вчера к пяти трос уже порвался.",
+            "thought": "К пяти вчера [известный] трос имел уже сломавшимся.",
+            "english": "By five yesterday the rope had already broken.",
+            "transcription": "[бай файв й**э**стэдэй ðэ роуп хæд о:лр**э**ди бр**о**укэн]"
+          },
+          {
+            "ours": "Шторм сломал мачту до гонки?",
+            "thought": "Имел [известный] шторм сломанной [известную] мачту перед [известной] гонкой?",
+            "english": "Had the storm broken the mast before the race?",
+            "transcription": "[хæд ðэ сто:м бр**о**укэн ðэ ма:ст биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has broken",
+        "examples": [
+          {
+            "ours": "Лебёдка уже сломалась.",
+            "thought": "[Известная] лебёдка имеет уже сломавшимся.",
+            "english": "The winch has already broken.",
+            "transcription": "[ðэ wинч хæз о:лр**э**ди бр**о**укэн]"
+          },
+          {
+            "ours": "Шторм уже сломал мачту?",
+            "thought": "Имеет [известный] шторм уже сломанной [известную] мачту?",
+            "english": "Has the storm already broken the mast?",
+            "transcription": "[хæз ðэ сто:м о:лр**э**ди бр**о**укэн ðэ ма:ст]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have broken",
+        "examples": [
+          {
+            "ours": "Завтра к пяти трос уже порвётся.",
+            "thought": "К пяти завтра [известный] трос будет иметь уже сломавшимся.",
+            "english": "By five tomorrow the rope will have already broken.",
+            "transcription": "[бай файв тэм**о**роу ðэ роуп wил хæв о:лр**э**ди бр**о**укэн]"
+          },
+          {
+            "ours": "Шторм сломает мачту до утра?",
+            "thought": "Будет [известный] шторм иметь сломанной [известную] мачту перед утром?",
+            "english": "Will the storm have broken the mast before morning?",
+            "transcription": "[wил ðэ сто:м хæв бр**о**укэн ðэ ма:ст биф**о**: м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been breaking",
+        "examples": [
+          {
+            "ours": "Волны уже два часа разбивались о берег, когда ты пришёл.",
+            "thought": "[Известные] волны имели быть разбивающимися о [известный] берег целых два часа когда ты пришёл.",
+            "english": "The waves had been breaking against the shore for two hours when you came.",
+            "transcription": "[ðэ wэйвз хæд би:н бр**э**йкиŋ эг**э**нст ðэ шо: фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Волны уже два часа разбивались о скалы, когда он пришёл?",
+            "thought": "Имели [известные] волны быть разбивающимися о [известные] скалы целых два часа когда он пришёл?",
+            "english": "Had the waves been breaking against the rocks for two hours when he came?",
+            "transcription": "[хæд ðэ wэйвз би:н бр**э**йкиŋ эг**э**нст ðэ рокс фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been breaking",
+        "examples": [
+          {
+            "ours": "Волны уже два часа разбиваются о берег.",
+            "thought": "[Известные] волны имеют быть разбивающимися о [известный] берег целых два часа.",
+            "english": "The waves have been breaking against the shore for two hours.",
+            "transcription": "[ðэ wэйвз хæв би:н бр**э**йкиŋ эг**э**нст ðэ шо: фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Волны уже два часа разбиваются о скалы?",
+            "thought": "Имеют [известные] волны быть разбивающимися о [известные] скалы целых два часа?",
+            "english": "Have the waves been breaking against the rocks for two hours?",
+            "transcription": "[хæв ðэ wэйвз би:н бр**э**йкиŋ эг**э**нст ðэ рокс фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been breaking",
+        "examples": [
+          {
+            "ours": "К пяти волны будут разбиваться о берег уже два часа.",
+            "thought": "К пяти [известные] волны будут иметь быть разбивающимися о [известный] берег целых два часа.",
+            "english": "By five the waves will have been breaking against the shore for two hours.",
+            "transcription": "[бай файв ðэ wэйвз wил хæв би:н бр**э**йкиŋ эг**э**нст ðэ шо: фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти волны будут разбиваться о скалы уже два часа?",
+            "thought": "Будут [известные] волны иметь быть разбивающимися о [известные] скалы целых два часа к пяти?",
+            "english": "Will the waves have been breaking against the rocks for two hours by five?",
+            "transcription": "[wил ðэ wэйвз хæв би:н бр**э**йкиŋ эг**э**нст ðэ рокс фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were broken",
+        "examples": [
+          {
+            "ours": "Вчера шторм сломал мачту.",
+            "thought": "[Известная] мачта была сломана от [известного] шторма вчера.",
+            "english": "The mast was broken by the storm yesterday.",
+            "transcription": "[ðэ ма:ст wоз бр**о**укэн бай ðэ сто:м й**э**стэдэй]"
+          },
+          {
+            "ours": "Лебёдка была сломана во время гонки?",
+            "thought": "Была [известная] лебёдка сломана во время [известной] гонки?",
+            "english": "Was the winch broken during the race?",
+            "transcription": "[wоз ðэ wинч бр**о**укэн дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are broken",
+        "examples": [
+          {
+            "ours": "Старые тросы рвутся на сильном ветру.",
+            "thought": "Старые тросы есть сломаны от сильного ветра.",
+            "english": "Old ropes are broken by strong wind.",
+            "transcription": "[оулд роупс а: бр**о**укэн бай строŋ wинд]"
+          },
+          {
+            "ours": "Цепи рвутся во время шторма?",
+            "thought": "Есть цепи сломаны во время [известного] шторма?",
+            "english": "Are chains broken during the storm?",
+            "transcription": "[а: чэйнз бр**о**укэн дь**ю**эриŋ ðэ сто:м]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be broken",
+        "examples": [
+          {
+            "ours": "Завтра шторм сломает мачту.",
+            "thought": "[Известная] мачта будет быть сломана от [известного] шторма завтра.",
+            "english": "The mast will be broken by the storm tomorrow.",
+            "transcription": "[ðэ ма:ст wил би: бр**о**укэн бай ðэ сто:м тэм**о**роу]"
+          },
+          {
+            "ours": "Лебёдку сломают до гонки?",
+            "thought": "Будет [известная] лебёдка быть сломана перед [известной] гонкой?",
+            "english": "Will the winch be broken before the race?",
+            "transcription": "[wил ðэ wинч би: бр**о**укэн биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being broken up",
+        "examples": [
+          {
+            "ours": "Вчера старую лодку весь день разбирали на лом.",
+            "thought": "Вчера [известная] старая лодка была «долго» сломана вверх весь день.",
+            "english": "Yesterday the old boat was being broken up all day.",
+            "transcription": "[й**э**стэдэй ðэ оулд боут wоз б**и**:иŋ бр**о**укэн ап о:л дэй]"
+          },
+          {
+            "ours": "Лодку разбирали, когда ты пришёл?",
+            "thought": "Была [известная] лодка «долго» сломана вверх когда ты пришёл?",
+            "english": "Was the boat being broken up when you came?",
+            "transcription": "[wоз ðэ боут б**и**:иŋ бр**о**укэн ап wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being broken up",
+        "examples": [
+          {
+            "ours": "Сейчас старую лодку разбирают на лом.",
+            "thought": "[Известная] старая лодка есть «долго» сломана вверх сейчас.",
+            "english": "The old boat is being broken up now.",
+            "transcription": "[ðэ оулд боут из б**и**:иŋ бр**о**укэн ап нау]"
+          },
+          {
+            "ours": "Сейчас лодку разбирают на лом?",
+            "thought": "Есть [известная] лодка «долго» сломана вверх сейчас?",
+            "english": "Is the boat being broken up now?",
+            "transcription": "[из ðэ боут б**и**:иŋ бр**о**укэн ап нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be breaking up",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут разбирать старую лодку.",
+            "thought": "Завтра они будут быть ломающими вверх [известную] старую лодку весь день.",
+            "english": "Tomorrow they will be breaking up the old boat all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: бр**э**йкиŋ ап ðэ оулд боут о:л дэй]"
+          },
+          {
+            "ours": "Они будут разбирать лодку до гонки?",
+            "thought": "Будут они быть ломающими вверх [известную] лодку перед [известной] гонкой?",
+            "english": "Will they be breaking up the boat before the race?",
+            "transcription": "[wил ðэй би: бр**э**йкиŋ ап ðэ боут биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been broken",
+        "examples": [
+          {
+            "ours": "Вчера к пяти шторм уже сломал мачту.",
+            "thought": "К пяти вчера [известная] мачта имела уже быть сломана от [известного] шторма.",
+            "english": "By five yesterday the mast had already been broken by the storm.",
+            "transcription": "[бай файв й**э**стэдэй ðэ ма:ст хæд о:лр**э**ди би:н бр**о**укэн бай ðэ сто:м]"
+          },
+          {
+            "ours": "Лебёдка была сломана до гонки?",
+            "thought": "Имела [известная] лебёдка быть сломана перед [известной] гонкой?",
+            "english": "Had the winch been broken before the race?",
+            "transcription": "[хæд ðэ wинч би:н бр**о**укэн биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been broken",
+        "examples": [
+          {
+            "ours": "Шторм уже сломал мачту.",
+            "thought": "[Известная] мачта имеет уже быть сломана от [известного] шторма.",
+            "english": "The mast has already been broken by the storm.",
+            "transcription": "[ðэ ма:ст хæз о:лр**э**ди би:н бр**о**укэн бай ðэ сто:м]"
+          },
+          {
+            "ours": "Лебёдка уже сломана?",
+            "thought": "Имеет [известная] лебёдка уже быть сломана?",
+            "english": "Has the winch already been broken?",
+            "transcription": "[хæз ðэ wинч о:лр**э**ди би:н бр**о**укэн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been broken",
+        "examples": [
+          {
+            "ours": "К пяти завтра шторм уже сломает мачту.",
+            "thought": "К пяти завтра [известная] мачта будет уже иметь быть сломана от [известного] шторма.",
+            "english": "By five tomorrow the mast will already have been broken by the storm.",
+            "transcription": "[бай файв тэм**о**роу ðэ ма:ст wил о:лр**э**ди хæв би:н бр**о**укэн бай ðэ сто:м]"
+          },
+          {
+            "ours": "Лебёдка будет сломана до гонки?",
+            "thought": "Будет [известная] лебёдка иметь быть сломана перед [известной] гонкой?",
+            "english": "Will the winch have been broken before the race?",
+            "transcription": "[wил ðэ wинч хæв би:н бр**о**укэн биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The mast has been broken. Или: They have been breaking up the old boat."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что трос порвётся.",
+        "thought": "[Известный] капитан сказал что [известный] трос будет ломаться.",
+        "english": "The captain said that the rope would break.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ роуп wуд брэйк]"
+      },
+      {
+        "ours": "Я знал, что шторм не сломает мачту.",
+        "thought": "Я знал что [известный] шторм будет не ломать [известную] мачту.",
+        "english": "I knew that the storm wouldn't break the mast.",
+        "transcription": "[ай нью: ðæт ðэ сто:м wуднт брэйк ðэ ма:ст]"
+      },
+      {
+        "ours": "Капитан сказал, что волны разобьются о берег.",
+        "thought": "[Известный] капитан сказал что [известные] волны будут разбиваться о [известный] берег.",
+        "english": "The captain said that the waves would break against the shore.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ wэйвз wуд брэйк эг**э**нст ðэ шо:]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "rope",
+      "meaning": "трос",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "rope"
+        }
+      ]
+    },
+    {
+      "word": "winch",
+      "meaning": "лебёдка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "winch"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "winch"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "winch"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "winch"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "winch"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "winch"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "winch"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "mast",
+      "meaning": "мачта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "mast"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "mast"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "mast"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "mast"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "mast"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "mast"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "mast"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "mast"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "mast"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "mast"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "mast"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "wave",
+      "meaning": "волна",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "waves"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "waves"
+        }
+      ]
+    },
+    {
+      "word": "rock",
+      "meaning": "скала",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "rocks"
+        }
+      ]
+    },
+    {
+      "word": "shore",
+      "meaning": "берег",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "shore"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "shore"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "chain",
+      "meaning": "цепь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chains"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,936 @@
+{
+  "spec": 4,
+  "verb": "bear",
+  "forms": {
+    "base": [
+      {
+        "word": "bear",
+        "transcription": "[бээ]"
+      }
+    ],
+    "past": [
+      {
+        "word": "bore",
+        "transcription": "[бо:]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "borne",
+        "transcription": "[бо:н]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "bearing",
+        "transcription": "[б**э**эриŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "bears",
+        "transcription": "[бээз]"
+      }
+    ]
+  },
+  "meaning": "нести, выдерживать, нести расходы",
+  "notes": "неправильный переходный глагол; причастие borne; bear the cost — нести расходы; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "bore",
+        "examples": [
+          {
+            "ours": "Вчера они оплатили расходы.",
+            "thought": "Вчера они несли [известные] расходы.",
+            "english": "Yesterday they bore the costs.",
+            "transcription": "[й**э**стэдэй ðэй бо: ðэ костс]"
+          },
+          {
+            "ours": "Ванта выдержала нагрузку?",
+            "thought": "[Сделала] [известная] ванта нести [известную] нагрузку?",
+            "english": "Did the shroud bear the load?",
+            "transcription": "[дид ðэ шрауд бээ ðэ лоуд]"
+          },
+          {
+            "ours": "Она не понесла расходы.",
+            "thought": "Она [сделала] не нести [известные] расходы.",
+            "english": "She did not bear the costs.",
+            "transcription": "[ши: дид нот бээ ðэ костс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "bear, bears",
+        "examples": [
+          {
+            "ours": "Ванта несёт нагрузку.",
+            "thought": "[Известная] ванта несёт [известную] нагрузку.",
+            "english": "The shroud bears the load.",
+            "transcription": "[ðэ шрауд бээз ðэ лоуд]"
+          },
+          {
+            "ours": "Ты оплачиваешь расходы на ремонт?",
+            "thought": "[Делаешь] ты нести [известные] ремонта расходы?",
+            "english": "Do you bear the repair costs?",
+            "transcription": "[ду: ю: бээ ðэ рип**э**э костс]"
+          },
+          {
+            "ours": "Мы не несём расходы на стоянку.",
+            "thought": "Мы [делаем] не нести [известные] стоянки расходы.",
+            "english": "We do not bear the mooring costs.",
+            "transcription": "[wи: ду: нот бээ ðэ м**у**эриŋ костс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will bear",
+        "examples": [
+          {
+            "ours": "Завтра они оплатят расходы.",
+            "thought": "Завтра они будут нести [известные] расходы.",
+            "english": "Tomorrow they will bear the costs.",
+            "transcription": "[тэм**о**роу ðэй wил бээ ðэ костс]"
+          },
+          {
+            "ours": "Ты оплатишь ремонт?",
+            "thought": "Будешь ты нести [известные] ремонта расходы?",
+            "english": "Will you bear the repair costs?",
+            "transcription": "[wил ю: бээ ðэ рип**э**э костс]"
+          },
+          {
+            "ours": "Она не оплатит стоянку.",
+            "thought": "Она будет не нести [известные] стоянки расходы.",
+            "english": "She will not bear the mooring costs.",
+            "transcription": "[ши: wил нот бээ ðэ м**у**эриŋ костс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were bearing",
+        "examples": [
+          {
+            "ours": "Вчера утром ванта несла нагрузку.",
+            "thought": "Вчера утром [известная] ванта была несущей [известную] нагрузку.",
+            "english": "Yesterday morning the shroud was bearing the load.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ ðэ шрауд wоз б**э**эриŋ ðэ лоуд]"
+          },
+          {
+            "ours": "Ты нёс расходы на ремонт во время гонки?",
+            "thought": "Был ты несущим [известные] ремонта расходы во время [известной] гонки?",
+            "english": "Were you bearing the repair costs during the race?",
+            "transcription": "[wœ: ю: б**э**эриŋ ðэ рип**э**э костс дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are bearing",
+        "examples": [
+          {
+            "ours": "Сейчас ванта несёт нагрузку.",
+            "thought": "[Известная] ванта является несущей [известную] нагрузку сейчас.",
+            "english": "The shroud is bearing the load now.",
+            "transcription": "[ðэ шрауд из б**э**эриŋ ðэ лоуд нау]"
+          },
+          {
+            "ours": "Ты сейчас несёшь расходы?",
+            "thought": "Являешься ты несущим [известные] расходы сейчас?",
+            "english": "Are you bearing the costs now?",
+            "transcription": "[а: ю: б**э**эриŋ ðэ костс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be bearing",
+        "examples": [
+          {
+            "ours": "Завтра утром ванта будет нести нагрузку.",
+            "thought": "Завтра утром [известная] ванта будет быть несущей [известную] нагрузку.",
+            "english": "Tomorrow morning the shroud will be bearing the load.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэ шрауд wил би: б**э**эриŋ ðэ лоуд]"
+          },
+          {
+            "ours": "Ты будешь нести расходы во время гонки?",
+            "thought": "Будешь ты быть несущим [известные] расходы во время [известной] гонки?",
+            "english": "Will you be bearing the costs during the race?",
+            "transcription": "[wил ю: би: б**э**эриŋ ðэ костс дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had borne",
+        "examples": [
+          {
+            "ours": "К июню они уже понесли расходы.",
+            "thought": "К июню они имели уже понесёнными [известные] расходы.",
+            "english": "By June they had already borne the costs.",
+            "transcription": "[бай джу:н ðэй хæд о:лр**э**ди бо:н ðэ костс]"
+          },
+          {
+            "ours": "Ты понёс расходы на ремонт до гонки?",
+            "thought": "Имел ты понесёнными [известные] ремонта расходы до [известной] гонки?",
+            "english": "Had you borne the repair costs before the race?",
+            "transcription": "[хæд ю: бо:н ðэ рип**э**э костс биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has borne",
+        "examples": [
+          {
+            "ours": "Они уже понесли расходы.",
+            "thought": "Они имеют уже понесёнными [известные] расходы.",
+            "english": "They have already borne the costs.",
+            "transcription": "[ðэй хæв о:лр**э**ди бо:н ðэ костс]"
+          },
+          {
+            "ours": "Ты уже понёс расходы на ремонт?",
+            "thought": "Имеешь ты понесёнными [известные] ремонта расходы уже?",
+            "english": "Have you borne the repair costs yet?",
+            "transcription": "[хæв ю: бо:н ðэ рип**э**э костс йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have borne",
+        "examples": [
+          {
+            "ours": "К июню они понесут расходы.",
+            "thought": "К июню они будут иметь понесёнными [известные] расходы.",
+            "english": "By June they will have borne the costs.",
+            "transcription": "[бай джу:н ðэй wил хæв бо:н ðэ костс]"
+          },
+          {
+            "ours": "Ты понесёшь расходы на ремонт к маю?",
+            "thought": "Будешь ты иметь понесёнными [известные] ремонта расходы к маю?",
+            "english": "Will you have borne the repair costs by May?",
+            "transcription": "[wил ю: хæв бо:н ðэ рип**э**э костс бай мэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been bearing",
+        "examples": [
+          {
+            "ours": "Владелец нёс расходы на ремонт год до продажи.",
+            "thought": "[Известный] владелец имел быть несущим [известные] ремонта расходы целый [какой-то] год до [известной] продажи.",
+            "english": "The owner had been bearing the repair costs for a year before the sale.",
+            "transcription": "[ðи **о**унэ хæд би:н б**э**эриŋ ðэ рип**э**э костс фо: э йиэ биф**о**: ðэ сэйл]"
+          },
+          {
+            "ours": "Ты нёс расходы два года до гонки?",
+            "thought": "Имел ты быть несущим [известные] расходы целых два года до [известной] гонки?",
+            "english": "Had you been bearing the costs for two years before the race?",
+            "transcription": "[хæд ю: би:н б**э**эриŋ ðэ костс фо: ту: йиэз биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been bearing",
+        "examples": [
+          {
+            "ours": "Владелец несёт расходы на ремонт уже год.",
+            "thought": "[Известный] владелец имеет быть несущим [известные] ремонта расходы целый [какой-то] год.",
+            "english": "The owner has been bearing the repair costs for a year.",
+            "transcription": "[ðи **о**унэ хæз би:н б**э**эриŋ ðэ рип**э**э костс фо: э йиэ]"
+          },
+          {
+            "ours": "Ты несёшь расходы уже два года?",
+            "thought": "Имеешь ты быть несущим [известные] расходы целых два года?",
+            "english": "Have you been bearing the costs for two years?",
+            "transcription": "[хæв ю: би:н б**э**эриŋ ðэ костс фо: ту: йиэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been bearing",
+        "examples": [
+          {
+            "ours": "К июню владелец будет нести расходы уже два года.",
+            "thought": "К июню [известный] владелец будет иметь быть несущим [известные] расходы целых два года.",
+            "english": "By June the owner will have been bearing the costs for two years.",
+            "transcription": "[бай джу:н ðи **о**унэ wил хæв би:н б**э**эриŋ ðэ костс фо: ту: йиэз]"
+          },
+          {
+            "ours": "К маю ты будешь нести расходы уже год?",
+            "thought": "Будешь ты иметь быть несущим [известные] расходы целый [какой-то] год к маю?",
+            "english": "Will you have been bearing the costs for a year by May?",
+            "transcription": "[wил ю: хæв би:н б**э**эриŋ ðэ костс фо: э йиэ бай мэй]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were borne",
+        "examples": [
+          {
+            "ours": "Расходы понёс владелец.",
+            "thought": "[Известные] расходы были понесены от [известного] владельца.",
+            "english": "The costs were borne by the owner.",
+            "transcription": "[ðэ костс wœ: бо:н бай ðи **о**унэ]"
+          },
+          {
+            "ours": "Нагрузку выдержала ванта?",
+            "thought": "Была [известная] нагрузка понесена от [известной] ванты?",
+            "english": "Was the load borne by the shroud?",
+            "transcription": "[wоз ðэ лоуд бо:н бай ðэ шрауд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are borne",
+        "examples": [
+          {
+            "ours": "Расходы несёт владелец.",
+            "thought": "[Известные] расходы есть понесены от [известного] владельца.",
+            "english": "The costs are borne by the owner.",
+            "transcription": "[ðэ костс а: бо:н бай ðи **о**унэ]"
+          },
+          {
+            "ours": "Нагрузку несёт ванта?",
+            "thought": "Есть [известная] нагрузка понесена от [известной] ванты?",
+            "english": "Is the load borne by the shroud?",
+            "transcription": "[из ðэ лоуд бо:н бай ðэ шрауд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be borne",
+        "examples": [
+          {
+            "ours": "Расходы понесёт владелец.",
+            "thought": "[Известные] расходы будут быть понесены от [известного] владельца.",
+            "english": "The costs will be borne by the owner.",
+            "transcription": "[ðэ костс wил би: бо:н бай ðи **о**унэ]"
+          },
+          {
+            "ours": "Нагрузку будет нести ванта?",
+            "thought": "Будет [известная] нагрузка быть понесена от [известной] ванты?",
+            "english": "Will the load be borne by the shroud?",
+            "transcription": "[wил ðэ лоуд би: бо:н бай ðэ шрауд]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being borne",
+        "examples": [
+          {
+            "ours": "Когда я прибыл, расходы нёс владелец.",
+            "thought": "[Известные] расходы были «долго» понесены от [известного] владельца, когда я прибыл.",
+            "english": "The costs were being borne by the owner when I arrived.",
+            "transcription": "[ðэ костс wœ: б**и**:иŋ бо:н бай ðи **о**унэ wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, нагрузку несла ванта?",
+            "thought": "Была [известная] нагрузка «долго» понесена от [известной] ванты, когда ты позвонил?",
+            "english": "Was the load being borne by the shroud when you called?",
+            "transcription": "[wоз ðэ лоуд б**и**:иŋ бо:н бай ðэ шрауд wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being borne",
+        "examples": [
+          {
+            "ours": "Сейчас расходы несёт владелец.",
+            "thought": "[Известные] расходы есть «долго» понесены от [известного] владельца сейчас.",
+            "english": "The costs are being borne by the owner now.",
+            "transcription": "[ðэ костс а: б**и**:иŋ бо:н бай ðи **о**унэ нау]"
+          },
+          {
+            "ours": "Нагрузку сейчас несёт ванта?",
+            "thought": "Есть [известная] нагрузка «долго» понесена от [известной] ванты сейчас?",
+            "english": "Is the load being borne by the shroud now?",
+            "transcription": "[из ðэ лоуд б**и**:иŋ бо:н бай ðэ шрауд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be bearing",
+        "examples": [
+          {
+            "ours": "Завтра владелец будет нести расходы.",
+            "thought": "Завтра [известный] владелец будет быть несущим [известные] расходы.",
+            "english": "Tomorrow the owner will be bearing the costs.",
+            "transcription": "[тэм**о**роу ðи **о**унэ wил би: б**э**эриŋ ðэ костс]"
+          },
+          {
+            "ours": "Он будет нести расходы во время гонки?",
+            "thought": "Будет он быть несущим [известные] расходы во время [известной] гонки?",
+            "english": "Will he be bearing the costs during the race?",
+            "transcription": "[wил хи: би: б**э**эриŋ ðэ костс дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been borne",
+        "examples": [
+          {
+            "ours": "К июню расходы уже понёс владелец.",
+            "thought": "К июню [известные] расходы имели уже быть понесены от [известного] владельца.",
+            "english": "By June the costs had already been borne by the owner.",
+            "transcription": "[бай джу:н ðэ костс хæд о:лр**э**ди би:н бо:н бай ðи **о**унэ]"
+          },
+          {
+            "ours": "Расходы понесли до гонки?",
+            "thought": "Имели [известные] расходы быть понесены до [известной] гонки?",
+            "english": "Had the costs been borne before the race?",
+            "transcription": "[хæд ðэ костс би:н бо:н биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been borne",
+        "examples": [
+          {
+            "ours": "Расходы уже понёс владелец.",
+            "thought": "[Известные] расходы имеют уже быть понесены от [известного] владельца.",
+            "english": "The costs have already been borne by the owner.",
+            "transcription": "[ðэ костс хæв о:лр**э**ди би:н бо:н бай ðи **о**унэ]"
+          },
+          {
+            "ours": "Расходы уже понесли?",
+            "thought": "Имеют [известные] расходы быть понесены уже?",
+            "english": "Have the costs been borne yet?",
+            "transcription": "[хæв ðэ костс би:н бо:н йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been borne",
+        "examples": [
+          {
+            "ours": "К июню расходы понесёт владелец.",
+            "thought": "К июню [известные] расходы будут иметь быть понесены от [известного] владельца.",
+            "english": "By June the costs will have been borne by the owner.",
+            "transcription": "[бай джу:н ðэ костс wил хæв би:н бо:н бай ðи **о**унэ]"
+          },
+          {
+            "ours": "Расходы понесут к маю?",
+            "thought": "Будут [известные] расходы иметь быть понесены к маю?",
+            "english": "Will the costs have been borne by May?",
+            "transcription": "[wил ðэ костс хæв би:н бо:н бай мэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: The owner has been bearing the costs."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они понесут расходы.",
+        "thought": "Я знал, они будут нести [известные] расходы.",
+        "english": "I knew they would bear the costs.",
+        "transcription": "[ай нью: ðэй wуд бээ ðэ костс]"
+      },
+      {
+        "ours": "Она думала, что мы не оплатим ремонт.",
+        "thought": "Она думала, мы будем не нести [известные] ремонта расходы.",
+        "english": "She thought we would not bear the repair costs.",
+        "transcription": "[ши: θо:т wи: wуд нот бээ ðэ рип**э**э костс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "cost",
+      "meaning": "расход",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "costs"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "costs"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "costs"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "costs"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "costs"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "costs"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "costs"
+        }
+      ]
+    },
+    {
+      "word": "shroud",
+      "meaning": "ванта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "shroud"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "shroud"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "shroud"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "shroud"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "shroud"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "shroud"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "shroud"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "shroud"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "shroud"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "shroud"
+        }
+      ]
+    },
+    {
+      "word": "load",
+      "meaning": "нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "load"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "load"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "load"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "load"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "load"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "load"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "load"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "load"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "load"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "load"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "repair"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "repair"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "repair"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "repair"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "repair"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "repair"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "repair"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "repair"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "repair"
+        }
+      ]
+    },
+    {
+      "word": "mooring",
+      "meaning": "швартовка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "mooring"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "mooring"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "June"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "May",
+      "meaning": "май",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "May"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "May"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "May"
+        }
+      ]
+    },
+    {
+      "word": "owner",
+      "meaning": "владелец",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "owner"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "owner"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "sale",
+      "meaning": "продажа",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "sale"
+        }
+      ]
+    }
+  ]
+}

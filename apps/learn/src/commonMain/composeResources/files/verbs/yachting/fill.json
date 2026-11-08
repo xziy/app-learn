@@ -1,0 +1,878 @@
+{
+  "spec": 4,
+  "verb": "fill",
+  "forms": {
+    "base": [
+      {
+        "word": "fill",
+        "transcription": "[фил]"
+      }
+    ],
+    "past": [
+      {
+        "word": "filled",
+        "transcription": "[филд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "filled",
+        "transcription": "[филд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "filling",
+        "transcription": "[ф**и**лиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "fills",
+        "transcription": "[филз]"
+      }
+    ]
+  },
+  "meaning": "наполнять, заполнять; наполняться",
+  "notes": "правильный глагол; fill something with something — наполнить что-либо чем-либо; бывает переходным и непереходным",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "filled",
+        "examples": [
+          {
+            "ours": "Вчера мы наполнили бак водой.",
+            "thought": "Вчера мы наполнили [известный] бак с водой.",
+            "english": "Yesterday we filled the tank with water.",
+            "transcription": "[й**э**стэдэй wи: филд ðэ тæнк wиð w**о**:тэ]"
+          },
+          {
+            "ours": "Ты наполнил канистру топливом?",
+            "thought": "[Сделал] ты наполнять [известную] канистру с топливом?",
+            "english": "Did you fill the container with fuel?",
+            "transcription": "[дид ю: фил ðэ кэнт**э**йнэ wиð фь**ю**:эл]"
+          },
+          {
+            "ours": "Парус не наполнился ветром.",
+            "thought": "[Известный] парус [сделал] не наполняться с ветром.",
+            "english": "The sail did not fill with wind.",
+            "transcription": "[ðэ сэйл дид нот фил wиð wинд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "fill, fills",
+        "examples": [
+          {
+            "ours": "Парус наполняется ветром.",
+            "thought": "[Известный] парус наполняется с ветром.",
+            "english": "The sail fills with wind.",
+            "transcription": "[ðэ сэйл филз wиð wинд]"
+          },
+          {
+            "ours": "Ты наполняешь бак перед отходом?",
+            "thought": "[Делаешь] ты наполнять [известный] бак до отхода?",
+            "english": "Do you fill the tank before departure?",
+            "transcription": "[ду: ю: фил ðэ тæнк биф**о**: дип**а**:чэ]"
+          },
+          {
+            "ours": "Мы не наполняем рундук водой.",
+            "thought": "Мы [делаем] не наполнять [известный] рундук с водой.",
+            "english": "We do not fill the locker with water.",
+            "transcription": "[wи: ду: нот фил ðэ л**о**кэ wиð w**о**:тэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will fill",
+        "examples": [
+          {
+            "ours": "Завтра мы наполним бак водой.",
+            "thought": "Завтра мы будем наполнять [известный] бак с водой.",
+            "english": "Tomorrow we will fill the tank with water.",
+            "transcription": "[тэм**о**роу wи: wил фил ðэ тæнк wиð w**о**:тэ]"
+          },
+          {
+            "ours": "Ты наполнишь канистру топливом?",
+            "thought": "Будешь ты наполнять [известную] канистру с топливом?",
+            "english": "Will you fill the container with fuel?",
+            "transcription": "[wил ю: фил ðэ кэнт**э**йнэ wиð фь**ю**:эл]"
+          },
+          {
+            "ours": "Парус не наполнится без ветра.",
+            "thought": "[Известный] парус будет не наполняться без ветра.",
+            "english": "The sail will not fill without wind.",
+            "transcription": "[ðэ сэйл wил нот фил wиð**а**ут wинд]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were filling",
+        "examples": [
+          {
+            "ours": "Вчера утром мы наполняли бак.",
+            "thought": "Вчера утром мы были наполняющими [известный] бак.",
+            "english": "Yesterday morning we were filling the tank.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: ф**и**лиŋ ðэ тæнк]"
+          },
+          {
+            "ours": "Ты наполнял канистру, когда я позвонил?",
+            "thought": "Был ты наполняющим [известную] канистру, когда я позвонил?",
+            "english": "Were you filling the container when I called?",
+            "transcription": "[wœ: ю: ф**и**лиŋ ðэ кэнт**э**йнэ wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are filling",
+        "examples": [
+          {
+            "ours": "Мы сейчас наполняем бак водой.",
+            "thought": "Мы являемся наполняющими [известный] бак с водой сейчас.",
+            "english": "We are filling the tank with water now.",
+            "transcription": "[wи: а: ф**и**лиŋ ðэ тæнк wиð w**о**:тэ нау]"
+          },
+          {
+            "ours": "Трюм сейчас наполняется водой?",
+            "thought": "Является [известный] трюм наполняющимся с водой сейчас?",
+            "english": "Is the bilge filling with water now?",
+            "transcription": "[из ðэ билдж ф**и**лиŋ wиð w**о**:тэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be filling",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем наполнять канистры.",
+            "thought": "Завтра утром мы будем быть наполняющими [известные] канистры.",
+            "english": "Tomorrow morning we will be filling the containers.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: ф**и**лиŋ ðэ кэнт**э**йнэз]"
+          },
+          {
+            "ours": "Ты будешь наполнять бак вечером?",
+            "thought": "Будешь ты быть наполняющим [известный] бак этот вечер?",
+            "english": "Will you be filling the tank this evening?",
+            "transcription": "[wил ю: би: ф**и**лиŋ ðэ тæнк ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had filled",
+        "examples": [
+          {
+            "ours": "К полудню мы уже наполнили бак.",
+            "thought": "К полудню мы имели уже наполненным [известный] бак.",
+            "english": "By noon we had already filled the tank.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди филд ðэ тæнк]"
+          },
+          {
+            "ours": "Ты наполнил канистру до отхода?",
+            "thought": "Имел ты наполненной [известную] канистру до отхода?",
+            "english": "Had you filled the container before departure?",
+            "transcription": "[хæд ю: филд ðэ кэнт**э**йнэ биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has filled",
+        "examples": [
+          {
+            "ours": "Мы уже наполнили бак.",
+            "thought": "Мы имеем уже наполненным [известный] бак.",
+            "english": "We have already filled the tank.",
+            "transcription": "[wи: хæв о:лр**э**ди филд ðэ тæнк]"
+          },
+          {
+            "ours": "Ты уже наполнил канистру?",
+            "thought": "Имеешь ты наполненной [известную] канистру уже?",
+            "english": "Have you filled the container yet?",
+            "transcription": "[хæв ю: филд ðэ кэнт**э**йнэ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have filled",
+        "examples": [
+          {
+            "ours": "К полудню мы наполним бак.",
+            "thought": "К полудню мы будем иметь наполненным [известный] бак.",
+            "english": "By noon we will have filled the tank.",
+            "transcription": "[бай ну:н wи: wил хæв филд ðэ тæнк]"
+          },
+          {
+            "ours": "Ты наполнишь канистру к пяти?",
+            "thought": "Будешь ты иметь наполненной [известную] канистру к пяти?",
+            "english": "Will you have filled the container by five?",
+            "transcription": "[wил ю: хæв филд ðэ кэнт**э**йнэ бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been filling",
+        "examples": [
+          {
+            "ours": "Мы час наполняли бак, когда зазвонило радио.",
+            "thought": "Мы имели быть наполняющими [известный] бак целый [какой-то] час, когда [известное] радио зазвонило.",
+            "english": "We had been filling the tank for an hour when the radio rang.",
+            "transcription": "[wи: хæд би:н ф**и**лиŋ ðэ тæнк фо: эн **а**уэ wэн ðэ р**э**йдиоу рэŋ]"
+          },
+          {
+            "ours": "Ты наполнял канистры два часа до отхода?",
+            "thought": "Имел ты быть наполняющим [известные] канистры целых два часа до отхода?",
+            "english": "Had you been filling the containers for two hours before departure?",
+            "transcription": "[хæд ю: би:н ф**и**лиŋ ðэ кэнт**э**йнэз фо: ту: **а**уэз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been filling",
+        "examples": [
+          {
+            "ours": "Мы наполняем бак уже час.",
+            "thought": "Мы имеем быть наполняющими [известный] бак целый [какой-то] час.",
+            "english": "We have been filling the tank for an hour.",
+            "transcription": "[wи: хæв би:н ф**и**лиŋ ðэ тæнк фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты наполняешь канистры уже два часа?",
+            "thought": "Имеешь ты быть наполняющим [известные] канистры целых два часа?",
+            "english": "Have you been filling the containers for two hours?",
+            "transcription": "[хæв ю: би:н ф**и**лиŋ ðэ кэнт**э**йнэз фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been filling",
+        "examples": [
+          {
+            "ours": "К пяти мы будем наполнять бак уже два часа.",
+            "thought": "К пяти мы будем иметь быть наполняющими [известный] бак целых два часа.",
+            "english": "By five we will have been filling the tank for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н ф**и**лиŋ ðэ тæнк фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь наполнять канистры уже час?",
+            "thought": "Будешь ты иметь быть наполняющим [известные] канистры целый [какой-то] час к полудню?",
+            "english": "Will you have been filling the containers for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н ф**и**лиŋ ðэ кэнт**э**йнэз фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were filled",
+        "examples": [
+          {
+            "ours": "Бак наполнили вчера.",
+            "thought": "[Известный] бак был наполнен вчера.",
+            "english": "The tank was filled yesterday.",
+            "transcription": "[ðэ тæнк wоз филд й**э**стэдэй]"
+          },
+          {
+            "ours": "Канистры наполнили до отхода?",
+            "thought": "Были [известные] канистры наполнены до отхода?",
+            "english": "Were the containers filled before departure?",
+            "transcription": "[wœ: ðэ кэнт**э**йнэз филд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are filled",
+        "examples": [
+          {
+            "ours": "Бак наполняют в марине.",
+            "thought": "[Известный] бак есть наполнен в [известной] марине.",
+            "english": "The tank is filled at the marina.",
+            "transcription": "[ðэ тæнк из филд æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Канистры наполняют перед отходом?",
+            "thought": "Есть [известные] канистры наполнены до отхода?",
+            "english": "Are the containers filled before departure?",
+            "transcription": "[а: ðэ кэнт**э**йнэз филд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be filled",
+        "examples": [
+          {
+            "ours": "Бак наполнят завтра.",
+            "thought": "[Известный] бак будет быть наполнен завтра.",
+            "english": "The tank will be filled tomorrow.",
+            "transcription": "[ðэ тæнк wил би: филд тэм**о**роу]"
+          },
+          {
+            "ours": "Канистры наполнят до отхода?",
+            "thought": "Будут [известные] канистры быть наполнены до отхода?",
+            "english": "Will the containers be filled before departure?",
+            "transcription": "[wил ðэ кэнт**э**йнэз би: филд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being filled",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, бак наполняли водой.",
+            "thought": "[Известный] бак был «долго» наполнен с водой, когда я прибыл.",
+            "english": "The tank was being filled with water when I arrived.",
+            "transcription": "[ðэ тæнк wоз б**и**:иŋ филд wиð w**о**:тэ wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, канистры наполняли?",
+            "thought": "Были [известные] канистры «долго» наполнены, когда ты позвонил?",
+            "english": "Were the containers being filled when you called?",
+            "transcription": "[wœ: ðэ кэнт**э**йнэз б**и**:иŋ филд wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being filled",
+        "examples": [
+          {
+            "ours": "Бак сейчас наполняют водой.",
+            "thought": "[Известный] бак есть «долго» наполнен с водой сейчас.",
+            "english": "The tank is being filled with water now.",
+            "transcription": "[ðэ тæнк из б**и**:иŋ филд wиð w**о**:тэ нау]"
+          },
+          {
+            "ours": "Канистры сейчас наполняют?",
+            "thought": "Есть [известные] канистры «долго» наполнены сейчас?",
+            "english": "Are the containers being filled now?",
+            "transcription": "[а: ðэ кэнт**э**йнэз б**и**:иŋ филд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be filling",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут наполнять канистры.",
+            "thought": "Завтра утром они будут быть наполняющими [известные] канистры.",
+            "english": "Tomorrow morning they will be filling the containers.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: ф**и**лиŋ ðэ кэнт**э**йнэз]"
+          },
+          {
+            "ours": "Они будут наполнять бак вечером?",
+            "thought": "Будут они быть наполняющими [известный] бак этот вечер?",
+            "english": "Will they be filling the tank this evening?",
+            "transcription": "[wил ðэй би: ф**и**лиŋ ðэ тæнк ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been filled",
+        "examples": [
+          {
+            "ours": "К полудню бак уже наполнили.",
+            "thought": "К полудню [известный] бак имел уже быть наполнен.",
+            "english": "By noon the tank had already been filled.",
+            "transcription": "[бай ну:н ðэ тæнк хæд о:лр**э**ди би:н филд]"
+          },
+          {
+            "ours": "Канистру наполнили до отхода?",
+            "thought": "Имела [известная] канистра быть наполнена до отхода?",
+            "english": "Had the container been filled before departure?",
+            "transcription": "[хæд ðэ кэнт**э**йнэ би:н филд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been filled",
+        "examples": [
+          {
+            "ours": "Бак уже наполнили.",
+            "thought": "[Известный] бак имеет уже быть наполнен.",
+            "english": "The tank has already been filled.",
+            "transcription": "[ðэ тæнк хæз о:лр**э**ди би:н филд]"
+          },
+          {
+            "ours": "Канистры уже наполнили?",
+            "thought": "Имеют [известные] канистры быть наполнены уже?",
+            "english": "Have the containers been filled yet?",
+            "transcription": "[хæв ðэ кэнт**э**йнэз би:н филд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been filled",
+        "examples": [
+          {
+            "ours": "К полудню бак наполнят.",
+            "thought": "К полудню [известный] бак будет иметь быть наполнен.",
+            "english": "By noon the tank will have been filled.",
+            "transcription": "[бай ну:н ðэ тæнк wил хæв би:н филд]"
+          },
+          {
+            "ours": "Канистры наполнят к пяти?",
+            "thought": "Будут [известные] канистры иметь быть наполнены к пяти?",
+            "english": "Will the containers have been filled by five?",
+            "transcription": "[wил ðэ кэнт**э**йнэз хæв би:н филд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been filling the tank."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они наполнят бак.",
+        "thought": "Я знал, они будут наполнять [известный] бак.",
+        "english": "I knew they would fill the tank.",
+        "transcription": "[ай нью: ðэй wуд фил ðэ тæнк]"
+      },
+      {
+        "ours": "Она думала, что мы не наполним канистру.",
+        "thought": "Она думала, мы будем не наполнять [известную] канистру.",
+        "english": "She thought we would not fill the container.",
+        "transcription": "[ши: θо:т wи: wуд нот фил ðэ кэнт**э**йнэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "tank",
+      "meaning": "бак",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "tank"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "tank"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "tank"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "tank"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "tank"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "water"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "container",
+      "meaning": "канистра",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "container"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "container"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "container"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "containers"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "container"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "container"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "container"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "container"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "container"
+        }
+      ]
+    },
+    {
+      "word": "fuel",
+      "meaning": "топливо",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "fuel"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "locker",
+      "meaning": "рундук",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "locker"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "bilge",
+      "meaning": "трюм",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "bilge"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "marina"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "spec": 4,
+  "verb": "stand",
+  "forms": {
+    "base": [
+      {
+        "word": "stand",
+        "transcription": "[стæнд]"
+      }
+    ],
+    "past": [
+      {
+        "word": "stood",
+        "transcription": "[студ]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "stood",
+        "transcription": "[студ]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "standing",
+        "transcription": "[ст**æ**ндиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "stands",
+        "transcription": "[стæндз]"
+      }
+    ]
+  },
+  "meaning": "стоять",
+  "notes": "неправильный непереходный глагол в значении положения; пассива нет",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "stood",
+        "examples": [
+          {
+            "ours": "Вчера я стоял у штурвала.",
+            "thought": "Вчера я стоял у [известного] штурвала.",
+            "english": "Yesterday I stood at the helm.",
+            "transcription": "[й**э**стэдэй ай студ æт ðэ хэлм]"
+          },
+          {
+            "ours": "Капитан не стоял на носу.",
+            "thought": "[Известный] капитан [сделал] не стоять на [известном] носу.",
+            "english": "The skipper did not stand at the bow.",
+            "transcription": "[ðэ ск**и**пэ дид нот стæнд æт ðэ бау]"
+          },
+          {
+            "ours": "Ты стоял на палубе?",
+            "thought": "[Сделал] ты стоять на палубе?",
+            "english": "Did you stand on deck?",
+            "transcription": "[дид ю: стæнд он дэк]"
+          }
+        ]
+      },
+      "present": {
+        "form": "stand, stands",
+        "examples": [
+          {
+            "ours": "Капитан стоит у штурвала.",
+            "thought": "[Известный] капитан стоит у [известного] штурвала.",
+            "english": "The skipper stands at the helm.",
+            "transcription": "[ðэ ск**и**пэ стæндз æт ðэ хэлм]"
+          },
+          {
+            "ours": "Я не стою на носу во время шторма.",
+            "thought": "Я [делаю] не стоять на [известном] носу во время штормов.",
+            "english": "I do not stand at the bow during storms.",
+            "transcription": "[ай ду: нот стæнд æт ðэ бау дь**ю**эриŋ сто:мз]"
+          },
+          {
+            "ours": "Ты стоишь на палубе во время швартовки?",
+            "thought": "[Делаешь] ты стоять на палубе во время швартовки?",
+            "english": "Do you stand on deck during docking?",
+            "transcription": "[ду: ю: стæнд он дэк дь**ю**эриŋ д**о**киŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will stand",
+        "examples": [
+          {
+            "ours": "Завтра я буду стоять у штурвала.",
+            "thought": "Завтра я буду стоять у [известного] штурвала.",
+            "english": "Tomorrow I will stand at the helm.",
+            "transcription": "[тэм**о**роу ай wил стæнд æт ðэ хэлм]"
+          },
+          {
+            "ours": "Она не будет стоять на носу.",
+            "thought": "Она будет не стоять на [известном] носу.",
+            "english": "She will not stand at the bow.",
+            "transcription": "[ши: wил нот стæнд æт ðэ бау]"
+          },
+          {
+            "ours": "Ты будешь стоять на палубе?",
+            "thought": "Будешь ты стоять на палубе?",
+            "english": "Will you stand on deck?",
+            "transcription": "[wил ю: стæнд он дэк]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were standing",
+        "examples": [
+          {
+            "ours": "Я стоял у штурвала, когда поднялся ветер.",
+            "thought": "Я был стоящим у [известного] штурвала, когда [известный] ветер поднялся.",
+            "english": "I was standing at the helm when the wind rose.",
+            "transcription": "[ай wоз ст**æ**ндиŋ æт ðэ хэлм wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты стоял на носу, когда начался дождь?",
+            "thought": "Был ты стоящим на [известном] носу, когда [известный] дождь начался?",
+            "english": "Were you standing at the bow when the rain started?",
+            "transcription": "[wœ: ю: ст**æ**ндиŋ æт ðэ бау wэн ðэ рэйн ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are standing",
+        "examples": [
+          {
+            "ours": "Я сейчас стою у штурвала.",
+            "thought": "Я являюсь стоящим у [известного] штурвала сейчас.",
+            "english": "I am standing at the helm now.",
+            "transcription": "[ай æм ст**æ**ндиŋ æт ðэ хэлм нау]"
+          },
+          {
+            "ours": "Она сейчас не стоит на носу.",
+            "thought": "Она является не стоящей на [известном] носу сейчас.",
+            "english": "She is not standing at the bow now.",
+            "transcription": "[ши: из нот ст**æ**ндиŋ æт ðэ бау нау]"
+          },
+          {
+            "ours": "Ты сейчас стоишь на палубе?",
+            "thought": "Являешься ты стоящим на палубе сейчас?",
+            "english": "Are you standing on deck now?",
+            "transcription": "[а: ю: ст**æ**ндиŋ он дэк нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be standing",
+        "examples": [
+          {
+            "ours": "Завтра я буду стоять у штурвала с трёх до пяти.",
+            "thought": "Завтра я буду быть стоящим у [известного] штурвала с трёх до пяти.",
+            "english": "Tomorrow I will be standing at the helm from three to five.",
+            "transcription": "[тэм**о**роу ай wил би: ст**æ**ндиŋ æт ðэ хэлм фром θри: ту файв]"
+          },
+          {
+            "ours": "Ты будешь стоять на носу во время швартовки?",
+            "thought": "Будешь ты быть стоящим на [известном] носу во время швартовки?",
+            "english": "Will you be standing at the bow during docking?",
+            "transcription": "[wил ю: би: ст**æ**ндиŋ æт ðэ бау дь**ю**эриŋ д**о**киŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had stood",
+        "examples": [
+          {
+            "ours": "К пяти я простоял у штурвала два часа.",
+            "thought": "К пяти я имел простоявшим у [известного] штурвала целых два часа.",
+            "english": "By five I had stood at the helm for two hours.",
+            "transcription": "[бай файв ай хæд студ æт ðэ хэлм фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты простоял на палубе час?",
+            "thought": "Имел ты простоявшим на палубе целый [какой-то] час к полудню?",
+            "english": "Had you stood on deck for an hour by noon?",
+            "transcription": "[хæд ю: студ он дэк фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has stood",
+        "examples": [
+          {
+            "ours": "Я стоял у штурвала два часа.",
+            "thought": "Я имею простоявшим у [известного] штурвала целых два часа.",
+            "english": "I have stood at the helm for two hours.",
+            "transcription": "[ай хæв студ æт ðэ хэлм фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже стоял у штурвала?",
+            "thought": "Имеешь ты простоявшим у [известного] штурвала уже?",
+            "english": "Have you stood at the helm yet?",
+            "transcription": "[хæв ю: студ æт ðэ хэлм йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have stood",
+        "examples": [
+          {
+            "ours": "К пяти я простою у штурвала два часа.",
+            "thought": "К пяти я буду иметь простоявшим у [известного] штурвала целых два часа.",
+            "english": "By five I will have stood at the helm for two hours.",
+            "transcription": "[бай файв ай wил хæв студ æт ðэ хэлм фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты простоишь на палубе час?",
+            "thought": "Будешь ты иметь простоявшим на палубе целый [какой-то] час к полудню?",
+            "english": "Will you have stood on deck for an hour by noon?",
+            "transcription": "[wил ю: хæв студ он дэк фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been standing",
+        "examples": [
+          {
+            "ours": "Я стоял у штурвала два часа, когда поднялся ветер.",
+            "thought": "Я имел быть стоящим у [известного] штурвала целых два часа, когда [известный] ветер поднялся.",
+            "english": "I had been standing at the helm for two hours when the wind rose.",
+            "transcription": "[ай хæд би:н ст**æ**ндиŋ æт ðэ хэлм фо: ту: **а**уэз wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты долго стоял на носу, когда начался дождь?",
+            "thought": "Имел ты быть стоящим на [известном] носу долго, когда [известный] дождь начался?",
+            "english": "Had you been standing at the bow long when the rain started?",
+            "transcription": "[хæд ю: би:н ст**æ**ндиŋ æт ðэ бау лоŋ wэн ðэ рэйн ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been standing",
+        "examples": [
+          {
+            "ours": "Я стою у штурвала уже два часа.",
+            "thought": "Я имею быть стоящим у [известного] штурвала целых два часа.",
+            "english": "I have been standing at the helm for two hours.",
+            "transcription": "[ай хæв би:н ст**æ**ндиŋ æт ðэ хэлм фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже час стоишь на палубе?",
+            "thought": "Имеешь ты быть стоящим на палубе целый [какой-то] час?",
+            "english": "Have you been standing on deck for an hour?",
+            "transcription": "[хæв ю: би:н ст**æ**ндиŋ он дэк фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been standing",
+        "examples": [
+          {
+            "ours": "К пяти я буду стоять у штурвала уже два часа.",
+            "thought": "К пяти я буду иметь быть стоящим у [известного] штурвала целых два часа.",
+            "english": "By five I will have been standing at the helm for two hours.",
+            "transcription": "[бай файв ай wил хæв би:н ст**æ**ндиŋ æт ðэ хэлм фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь стоять на палубе уже час?",
+            "thought": "Будешь ты иметь быть стоящим на палубе целый [какой-то] час к пяти?",
+            "english": "Will you have been standing on deck for an hour by five?",
+            "transcription": "[wил ю: хæв би:н ст**æ**ндиŋ он дэк фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "В значении положения stand непереходный и не образует пассив. Вместо этого скажут: The skipper stands at the helm."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она будет стоять у штурвала.",
+        "thought": "Я знал она будет стоять у [известного] штурвала.",
+        "english": "I knew she would stand at the helm.",
+        "transcription": "[ай нью: ши: wуд стæнд æт ðэ хэлм]"
+      },
+      {
+        "ours": "Мы думали, что он не будет стоять на носу.",
+        "thought": "Мы думали он будет не стоять на [известном] носу.",
+        "english": "We thought he would not stand at the bow.",
+        "transcription": "[wи: θо:т хи: wуд нот стæнд æт ðэ бау]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "helm",
+      "meaning": "штурвал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "helm"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "helm"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "bow",
+      "meaning": "нос судна",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "bow"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "bow"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "bow"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "bow"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "bow"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "bow"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "bow"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "bow"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "storms"
+        }
+      ]
+    },
+    {
+      "word": "docking",
+      "meaning": "швартовка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "docking"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "docking"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "noon"
+        }
+      ]
+    }
+  ]
+}

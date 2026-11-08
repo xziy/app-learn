@@ -1,0 +1,670 @@
+{
+  "spec": 4,
+  "verb": "love",
+  "forms": {
+    "base": [
+      {
+        "word": "love",
+        "transcription": "[лав]"
+      }
+    ],
+    "past": [
+      {
+        "word": "loved",
+        "transcription": "[лавд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "loved",
+        "transcription": "[лавд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "loving",
+        "transcription": "[л**а**виŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "loves",
+        "transcription": "[лавз]"
+      }
+    ]
+  },
+  "meaning": "любить, обожать",
+  "notes": "правильный переходный глагол; обычно обозначает чувство",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "loved",
+        "examples": [
+          {
+            "ours": "В детстве я любил море.",
+            "thought": "В детстве я любил [известное] море.",
+            "english": "In childhood I loved the sea.",
+            "transcription": "[ин ч**а**йлдхуд ай лавд ðэ си:]"
+          },
+          {
+            "ours": "Она не любила ночные вахты.",
+            "thought": "Она [сделала] не любить ночные вахты.",
+            "english": "She did not love night watches.",
+            "transcription": "[ши: дид нот лав найт w**о**чиз]"
+          },
+          {
+            "ours": "Ты любил свою первую яхту?",
+            "thought": "[Сделал] ты любить твою первую яхту?",
+            "english": "Did you love your first yacht?",
+            "transcription": "[дид ю: лав йо: фœ:ст йот]"
+          }
+        ]
+      },
+      "present": {
+        "form": "love, loves",
+        "examples": [
+          {
+            "ours": "Мы любим парусный спорт.",
+            "thought": "Мы любим парусный спорт.",
+            "english": "We love sailing.",
+            "transcription": "[wи: лав с**э**йлиŋ]"
+          },
+          {
+            "ours": "Он не любит холодное море.",
+            "thought": "Он [делает] не любить [известное] холодное море.",
+            "english": "He does not love the cold sea.",
+            "transcription": "[хи: даз нот лав ðэ коулд си:]"
+          },
+          {
+            "ours": "Ты любишь эту яхту?",
+            "thought": "[Делаешь] ты любить эту яхту?",
+            "english": "Do you love this yacht?",
+            "transcription": "[ду: ю: лав ðис йот]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will love",
+        "examples": [
+          {
+            "ours": "Тебе понравится эта марина.",
+            "thought": "Ты будешь любить эту марину.",
+            "english": "You will love this marina.",
+            "transcription": "[ю: wил лав ðис мэр**и**:нэ]"
+          },
+          {
+            "ours": "Она не полюбит холодное море.",
+            "thought": "Она будет не любить [известное] холодное море.",
+            "english": "She will not love the cold sea.",
+            "transcription": "[ши: wил нот лав ðэ коулд си:]"
+          },
+          {
+            "ours": "Тебе понравится эта регата?",
+            "thought": "Будешь ты любить эту регату?",
+            "english": "Will you love this regatta?",
+            "transcription": "[wил ю: лав ðис риг**æ**тэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Love обычно обозначает чувство и не употребляется в длительных формах. Для эмоциональной реакции разговорное I am loving this voyage возможно, но базовая форма: I love this voyage."
+    },
+    "perfect": {
+      "past": {
+        "form": "had loved",
+        "examples": [
+          {
+            "ours": "До переезда к морю она много лет любила паруса.",
+            "thought": "Перед [известным] переездом она имела любимым парусный спорт целые годы.",
+            "english": "Before the move she had loved sailing for years.",
+            "transcription": "[биф**о**: ðэ му:в ши: хæд лавд с**э**йлиŋ фо: йиэз]"
+          },
+          {
+            "ours": "До покупки яхты ты давно любил море?",
+            "thought": "Имел ты любимым [известное] море долго перед [известной] покупкой?",
+            "english": "Had you loved the sea long before the purchase?",
+            "transcription": "[хæд ю: лавд ðэ си: лоŋ биф**о**: ðэ п**œ**:чэс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has loved",
+        "examples": [
+          {
+            "ours": "Я люблю парусный спорт много лет.",
+            "thought": "Я имею любимым парусный спорт целые годы.",
+            "english": "I have loved sailing for years.",
+            "transcription": "[ай хæв лавд с**э**йлиŋ фо: йиэз]"
+          },
+          {
+            "ours": "Она никогда не любила море.",
+            "thought": "Она имеет никогда не любимым [известное] море.",
+            "english": "She has never loved the sea.",
+            "transcription": "[ши: хæз н**э**вэ лавд ðэ си:]"
+          },
+          {
+            "ours": "Ты давно любишь эту яхту?",
+            "thought": "Имеешь ты любимой эту яхту долго?",
+            "english": "Have you loved this yacht for long?",
+            "transcription": "[хæв ю: лавд ðис йот фо: лоŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have loved",
+        "examples": [
+          {
+            "ours": "К июню я буду любить эту яхту уже десять лет.",
+            "thought": "К июню я буду иметь любимой эту яхту целых десять лет.",
+            "english": "By June I will have loved this yacht for ten years.",
+            "transcription": "[бай джу:н ай wил хæв лавд ðис йот фо: тэн йиэз]"
+          },
+          {
+            "ours": "К июню ты будешь любить море уже десять лет?",
+            "thought": "Будешь ты иметь любимым [известное] море целых десять лет к июню?",
+            "english": "Will you have loved the sea for ten years by June?",
+            "transcription": "[wил ю: хæв лавд ðэ си: фо: тэн йиэз бай джу:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для длительного чувства обычно используют простой perfect: I have loved sailing for years."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were loved",
+        "examples": [
+          {
+            "ours": "Эту яхту любил весь экипаж.",
+            "thought": "Эта яхта была любима всем [известным] экипажем.",
+            "english": "This yacht was loved by all the crew.",
+            "transcription": "[ðис йот wоз лавд бай о:л ðэ кру:]"
+          },
+          {
+            "ours": "Старую марину не любили.",
+            "thought": "[Известная] старая марина была не любима.",
+            "english": "The old marina was not loved.",
+            "transcription": "[ðи оулд мэр**и**:нэ wоз нот лавд]"
+          },
+          {
+            "ours": "Этот остров любили моряки?",
+            "thought": "Был этот остров любим моряками?",
+            "english": "Was this island loved by sailors?",
+            "transcription": "[wоз ðис **а**йлэнд лавд бай с**э**йлэз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are loved",
+        "examples": [
+          {
+            "ours": "Эту яхту любит экипаж.",
+            "thought": "Эта яхта есть любима [известным] экипажем.",
+            "english": "This yacht is loved by the crew.",
+            "transcription": "[ðис йот из лавд бай ðэ кру:]"
+          },
+          {
+            "ours": "Старую марину не любят.",
+            "thought": "[Известная] старая марина есть не любима.",
+            "english": "The old marina is not loved.",
+            "transcription": "[ðи оулд мэр**и**:нэ из нот лавд]"
+          },
+          {
+            "ours": "Этот остров любят моряки?",
+            "thought": "Есть этот остров любим моряками?",
+            "english": "Is this island loved by sailors?",
+            "transcription": "[из ðис **а**йлэнд лавд бай с**э**йлэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be loved",
+        "examples": [
+          {
+            "ours": "Эту яхту полюбит экипаж.",
+            "thought": "Эта яхта будет быть любима [известным] экипажем.",
+            "english": "This yacht will be loved by the crew.",
+            "transcription": "[ðис йот wил би: лавд бай ðэ кру:]"
+          },
+          {
+            "ours": "Старую марину не полюбят.",
+            "thought": "[Известная] старая марина будет не быть любима.",
+            "english": "The old marina will not be loved.",
+            "transcription": "[ðи оулд мэр**и**:нэ wил нот би: лавд]"
+          },
+          {
+            "ours": "Этот остров полюбят моряки?",
+            "thought": "Будет этот остров быть любим моряками?",
+            "english": "Will this island be loved by sailors?",
+            "transcription": "[wил ðис **а**йлэнд би: лавд бай с**э**йлэз]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Для состояния любви длительный пассив неестественен. Скажут: This yacht is loved by the crew."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been loved",
+        "examples": [
+          {
+            "ours": "К тому времени моряки любили эту яхту много лет.",
+            "thought": "К тогда эта яхта имела быть любима моряками целые годы.",
+            "english": "By then this yacht had been loved by sailors for years.",
+            "transcription": "[бай ðэн ðис йот хæд би:н лавд бай с**э**йлэз фо: йиэз]"
+          },
+          {
+            "ours": "К тому времени экипаж любил эту лодку год?",
+            "thought": "Имела эта лодка быть любима [известным] экипажем целый [какой-то] год к тогда?",
+            "english": "Had this boat been loved by the crew for a year by then?",
+            "transcription": "[хæд ðис боут би:н лавд бай ðэ кру: фо: э йиэ бай ðэн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been loved",
+        "examples": [
+          {
+            "ours": "Моряки любят эту яхту много лет.",
+            "thought": "Эта яхта имеет быть любима моряками целые годы.",
+            "english": "This yacht has been loved by sailors for years.",
+            "transcription": "[ðис йот хæз би:н лавд бай с**э**йлэз фо: йиэз]"
+          },
+          {
+            "ours": "Экипаж давно любит эту лодку?",
+            "thought": "Имеет эта лодка быть любима [известным] экипажем долго?",
+            "english": "Has this boat been loved by the crew for long?",
+            "transcription": "[хæз ðис боут би:н лавд бай ðэ кру: фо: лоŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been loved",
+        "examples": [
+          {
+            "ours": "К июню экипаж будет любить эту яхту уже десять лет.",
+            "thought": "К июню эта яхта будет иметь быть любима [известным] экипажем целых десять лет.",
+            "english": "By June this yacht will have been loved by the crew for ten years.",
+            "transcription": "[бай джу:н ðис йот wил хæв би:н лавд бай ðэ кру: фо: тэн йиэз]"
+          },
+          {
+            "ours": "К июню моряки будут любить этот остров уже десять лет?",
+            "thought": "Будет этот остров иметь быть любим моряками целых десять лет к июню?",
+            "english": "Will this island have been loved by sailors for ten years by June?",
+            "transcription": "[wил ðис **а**йлэнд хæв би:н лавд бай с**э**йлэз фо: тэн йиэз бай джу:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: This yacht is loved by the crew."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она полюбит эту яхту.",
+        "thought": "Я знал она будет любить эту яхту.",
+        "english": "I knew she would love this yacht.",
+        "transcription": "[ай нью: ши: wуд лав ðис йот]"
+      },
+      {
+        "ours": "Мы думали, что он не полюбит эту марину.",
+        "thought": "Мы думали он будет не любить эту марину.",
+        "english": "We thought he would not love this marina.",
+        "transcription": "[wи: θо:т хи: wуд нот лав ðис мэр**и**:нэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "childhood",
+      "meaning": "детство",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "childhood"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "watch",
+      "meaning": "вахта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "watches"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "sailing",
+      "meaning": "парусный спорт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sailing"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "sailing"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "sailing"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "move",
+      "meaning": "переезд",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "move"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "years"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "year"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "purchase",
+      "meaning": "покупка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "purchase"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "June"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "sailors"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "boat"
+        }
+      ]
+    }
+  ]
+}

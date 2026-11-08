@@ -1,0 +1,573 @@
+{
+  "spec": 4,
+  "verb": "wait",
+  "forms": {
+    "base": [
+      {
+        "word": "wait",
+        "transcription": "[wэйт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "waited",
+        "transcription": "[w**э**йтид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "waited",
+        "transcription": "[w**э**йтид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "waiting",
+        "transcription": "[w**э**йтиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "waits",
+        "transcription": "[wэйтс]"
+      }
+    ]
+  },
+  "meaning": "ждать, ожидать",
+  "notes": "правильный глагол; объект ожидания вводится предлогом for",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "waited",
+        "examples": [
+          {
+            "ours": "Вчера мы ждали прилива.",
+            "thought": "Вчера мы ждали для [известного] прилива.",
+            "english": "Yesterday we waited for the tide.",
+            "transcription": "[й**э**стэдэй wи: w**э**йтид фо: ðэ тайд]"
+          },
+          {
+            "ours": "Ты ждал шкипера?",
+            "thought": "[Сделал] ты ждать для [известного] шкипера?",
+            "english": "Did you wait for the skipper?",
+            "transcription": "[дид ю: wэйт фо: ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Она не ждала команду.",
+            "thought": "Она [сделала] не ждать для [известной] команды.",
+            "english": "She did not wait for the crew.",
+            "transcription": "[ши: дид нот wэйт фо: ðэ кру:]"
+          }
+        ]
+      },
+      "present": {
+        "form": "wait, waits",
+        "examples": [
+          {
+            "ours": "Шкипер ждёт прилива.",
+            "thought": "[Известный] шкипер ждёт для [известного] прилива.",
+            "english": "The skipper waits for the tide.",
+            "transcription": "[ðэ ск**и**пэ wэйтс фо: ðэ тайд]"
+          },
+          {
+            "ours": "Ты ждёшь прогноз в марине?",
+            "thought": "[Делаешь] ты ждать для [известного] прогноза в [известной] марине?",
+            "english": "Do you wait for the forecast at the marina?",
+            "transcription": "[ду: ю: wэйт фо: ðэ ф**о**:ка:ст æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Мы не ждём команду на палубе.",
+            "thought": "Мы [делаем] не ждать для [известной] команды на палубе.",
+            "english": "We do not wait for the crew on deck.",
+            "transcription": "[wи: ду: нот wэйт фо: ðэ кру: он дэк]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will wait",
+        "examples": [
+          {
+            "ours": "Завтра мы будем ждать прилива.",
+            "thought": "Завтра мы будем ждать для [известного] прилива.",
+            "english": "Tomorrow we will wait for the tide.",
+            "transcription": "[тэм**о**роу wи: wил wэйт фо: ðэ тайд]"
+          },
+          {
+            "ours": "Ты подождёшь шкипера?",
+            "thought": "Будешь ты ждать для [известного] шкипера?",
+            "english": "Will you wait for the skipper?",
+            "transcription": "[wил ю: wэйт фо: ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Она не будет ждать команду.",
+            "thought": "Она будет не ждать для [известной] команды.",
+            "english": "She will not wait for the crew.",
+            "transcription": "[ши: wил нот wэйт фо: ðэ кру:]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were waiting",
+        "examples": [
+          {
+            "ours": "Вчера утром мы ждали прилива.",
+            "thought": "Вчера утром мы были ждущими для [известного] прилива.",
+            "english": "Yesterday morning we were waiting for the tide.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: w**э**йтиŋ фо: ðэ тайд]"
+          },
+          {
+            "ours": "Ты ждал шкипера, когда я позвонил?",
+            "thought": "Был ты ждущим для [известного] шкипера, когда я позвонил?",
+            "english": "Were you waiting for the skipper when I called?",
+            "transcription": "[wœ: ю: w**э**йтиŋ фо: ðэ ск**и**пэ wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are waiting",
+        "examples": [
+          {
+            "ours": "Мы сейчас ждём прилива.",
+            "thought": "Мы являемся ждущими для [известного] прилива сейчас.",
+            "english": "We are waiting for the tide now.",
+            "transcription": "[wи: а: w**э**йтиŋ фо: ðэ тайд нау]"
+          },
+          {
+            "ours": "Шкипер сейчас ждёт команду?",
+            "thought": "Является [известный] шкипер ждущим для [известной] команды сейчас?",
+            "english": "Is the skipper waiting for the crew now?",
+            "transcription": "[из ðэ ск**и**пэ w**э**йтиŋ фо: ðэ кру: нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be waiting",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем ждать прилива.",
+            "thought": "Завтра утром мы будем быть ждущими для [известного] прилива.",
+            "english": "Tomorrow morning we will be waiting for the tide.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: w**э**йтиŋ фо: ðэ тайд]"
+          },
+          {
+            "ours": "Ты будешь ждать шкипера вечером?",
+            "thought": "Будешь ты быть ждущим для [известного] шкипера этот вечер?",
+            "english": "Will you be waiting for the skipper this evening?",
+            "transcription": "[wил ю: би: w**э**йтиŋ фо: ðэ ск**и**пэ ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had waited",
+        "examples": [
+          {
+            "ours": "К полудню мы уже прождали прилив два часа.",
+            "thought": "К полудню мы имели уже подождавшим для [известного] прилива целых два часа.",
+            "english": "By noon we had already waited for the tide for two hours.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди w**э**йтид фо: ðэ тайд фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты подождал шкипера до отхода?",
+            "thought": "Имел ты подождавшим для [известного] шкипера до отхода?",
+            "english": "Had you waited for the skipper before departure?",
+            "transcription": "[хæд ю: w**э**йтид фо: ðэ ск**и**пэ биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has waited",
+        "examples": [
+          {
+            "ours": "Мы уже подождали прилива.",
+            "thought": "Мы имеем уже подождавшим для [известного] прилива.",
+            "english": "We have already waited for the tide.",
+            "transcription": "[wи: хæв о:лр**э**ди w**э**йтид фо: ðэ тайд]"
+          },
+          {
+            "ours": "Ты когда-нибудь ждал шкипера?",
+            "thought": "Имеешь ты когда-либо подождавшим для [известного] шкипера?",
+            "english": "Have you ever waited for the skipper?",
+            "transcription": "[хæв ю: **э**вэ w**э**йтид фо: ðэ ск**и**пэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have waited",
+        "examples": [
+          {
+            "ours": "К полудню мы будем ждать прилив час.",
+            "thought": "К полудню мы будем иметь подождавшим для [известного] прилива целый [какой-то] час.",
+            "english": "By noon we will have waited for the tide for an hour.",
+            "transcription": "[бай ну:н wи: wил хæв w**э**йтид фо: ðэ тайд фо: эн **а**уэ]"
+          },
+          {
+            "ours": "К пяти ты прождёшь шкипера два часа?",
+            "thought": "Будешь ты иметь подождавшим для [известного] шкипера целых два часа к пяти?",
+            "english": "Will you have waited for the skipper for two hours by five?",
+            "transcription": "[wил ю: хæв w**э**йтид фо: ðэ ск**и**пэ фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been waiting",
+        "examples": [
+          {
+            "ours": "Мы час ждали прилива, когда ветер усилился.",
+            "thought": "Мы имели быть ждущими для [известного] прилива целый [какой-то] час, когда [известный] ветер усилился.",
+            "english": "We had been waiting for the tide for an hour when the wind increased.",
+            "transcription": "[wи: хæд би:н w**э**йтиŋ фо: ðэ тайд фо: эн **а**уэ wэн ðэ wинд инкр**и**:ст]"
+          },
+          {
+            "ours": "Ты ждал шкипера два часа до рассвета?",
+            "thought": "Имел ты быть ждущим для [известного] шкипера целых два часа до рассвета?",
+            "english": "Had you been waiting for the skipper for two hours before dawn?",
+            "transcription": "[хæд ю: би:н w**э**йтиŋ фо: ðэ ск**и**пэ фо: ту: **а**уэз биф**о**: до:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been waiting",
+        "examples": [
+          {
+            "ours": "Мы ждём прилива уже час.",
+            "thought": "Мы имеем быть ждущими для [известного] прилива целый [какой-то] час.",
+            "english": "We have been waiting for the tide for an hour.",
+            "transcription": "[wи: хæв би:н w**э**йтиŋ фо: ðэ тайд фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты ждёшь шкипера уже два часа?",
+            "thought": "Имеешь ты быть ждущим для [известного] шкипера целых два часа?",
+            "english": "Have you been waiting for the skipper for two hours?",
+            "transcription": "[хæв ю: би:н w**э**йтиŋ фо: ðэ ск**и**пэ фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been waiting",
+        "examples": [
+          {
+            "ours": "К пяти мы будем ждать прилива уже два часа.",
+            "thought": "К пяти мы будем иметь быть ждущими для [известного] прилива целых два часа.",
+            "english": "By five we will have been waiting for the tide for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н w**э**йтиŋ фо: ðэ тайд фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь ждать шкипера уже час?",
+            "thought": "Будешь ты иметь быть ждущим для [известного] шкипера целый [какой-то] час к полудню?",
+            "english": "Will you have been waiting for the skipper for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н w**э**йтиŋ фо: ðэ ск**и**пэ фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "Пассив с wait for возможен, но обычно звучит тяжеловесно; естественнее сказать The crew is waiting for the tide."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они дождутся прилива.",
+        "thought": "Я знал, они будут ждать для [известного] прилива.",
+        "english": "I knew they would wait for the tide.",
+        "transcription": "[ай нью: ðэй wуд wэйт фо: ðэ тайд]"
+      },
+      {
+        "ours": "Она думала, что мы не будем ждать шкипера.",
+        "thought": "Она думала, мы будем не ждать для [известного] шкипера.",
+        "english": "She thought we would not wait for the skipper.",
+        "transcription": "[ши: θо:т wи: wуд нот wэйт фо: ðэ ск**и**пэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "tide",
+      "meaning": "прилив",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "tide"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "dawn"
+        }
+      ]
+    }
+  ]
+}

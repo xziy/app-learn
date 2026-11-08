@@ -1,0 +1,445 @@
+{
+  "spec": 4,
+  "verb": "exist",
+  "forms": {
+    "base": [
+      {
+        "word": "exist",
+        "transcription": "[игз**и**ст]"
+      }
+    ],
+    "past": [
+      {
+        "word": "existed",
+        "transcription": "[игз**и**стид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "existed",
+        "transcription": "[игз**и**стид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "existing",
+        "transcription": "[игз**и**стиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "exists",
+        "transcription": "[игз**и**стс]"
+      }
+    ]
+  },
+  "meaning": "существовать",
+  "notes": "правильный непереходный глагол состояния; пассив не образуется",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "existed",
+        "examples": [
+          {
+            "ours": "До гонки существовал риск.",
+            "thought": "Перед [известной] гонкой [какой-то] риск существовал.",
+            "english": "Before the race a risk existed.",
+            "transcription": "[биф**о**: ðэ рэйс э риск игз**и**стид]"
+          },
+          {
+            "ours": "Этот маршрут не существовал до шторма.",
+            "thought": "Этот маршрут [сделал] не существовать перед [известным] штормом.",
+            "english": "This route didn't exist before the storm.",
+            "transcription": "[ðис ру:т диднт игз**и**ст биф**о**: ðэ сто:м]"
+          },
+          {
+            "ours": "План существовал до выхода?",
+            "thought": "[Сделал] [известный] план существовать перед выходом?",
+            "english": "Did the plan exist before departure?",
+            "transcription": "[дид ðэ плæн игз**и**ст биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "exist, exists",
+        "examples": [
+          {
+            "ours": "Риск столкновения существует в гавани.",
+            "thought": "[Какой-то] столкновения риск существует в [известной] гавани.",
+            "english": "A collision risk exists in the harbor.",
+            "transcription": "[э кэл**и**жн риск игз**и**стс ин ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Этот маршрут больше не существует.",
+            "thought": "Этот маршрут [делает] не существовать сейчас.",
+            "english": "This route doesn't exist now.",
+            "transcription": "[ðис ру:т дазнт игз**и**ст нау]"
+          },
+          {
+            "ours": "Для яхты существует альтернативный маршрут?",
+            "thought": "[Делает] [какой-то] альтернативный маршрут существовать для [известной] яхты?",
+            "english": "Does an alternative route exist for the yacht?",
+            "transcription": "[даз эн о:лт**œ**:нэтив ру:т игз**и**ст фо: ðэ йот]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will exist",
+        "examples": [
+          {
+            "ours": "Завтра риск для экипажа сохранится.",
+            "thought": "Завтра [известный] риск для [известного] экипажа будет существовать.",
+            "english": "Tomorrow the risk for the crew will exist.",
+            "transcription": "[тэм**о**роу ðэ риск фо: ðэ кру: wил игз**и**ст]"
+          },
+          {
+            "ours": "Проблема не будет существовать после гонки.",
+            "thought": "[Известная] проблема будет не существовать после [известной] гонки.",
+            "english": "The problem won't exist after the race.",
+            "transcription": "[ðэ пр**о**блэм wоунт игз**и**ст **а**:фтэ ðэ рэйс]"
+          },
+          {
+            "ours": "Будет ли маршрут существовать после шторма?",
+            "thought": "Будет [известный] маршрут существовать после [известного] шторма?",
+            "english": "Will the route exist after the storm?",
+            "transcription": "[wил ðэ ру:т игз**и**ст **а**:фтэ ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Exist обычно описывает состояние и не употребляется в длительной форме. Вместо The risk is existing говорят: The risk exists."
+    },
+    "perfect": {
+      "past": {
+        "form": "had existed",
+        "examples": [
+          {
+            "ours": "К началу гонки риск существовал уже два дня.",
+            "thought": "Перед [известной] гонкой [известный] риск имел существовавшим целых два дня.",
+            "english": "Before the race the risk had existed for two days.",
+            "transcription": "[биф**о**: ðэ рэйс ðэ риск хæд игз**и**стид фо: ту: дэйз]"
+          },
+          {
+            "ours": "Марина существовала до выхода?",
+            "thought": "Имела [известная] марина существовавшим перед выходом?",
+            "english": "Had the marina existed before departure?",
+            "transcription": "[хæд ðэ мэр**и**:нэ игз**и**стид биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has existed",
+        "examples": [
+          {
+            "ours": "Марина существует уже два года.",
+            "thought": "[Известная] марина имеет существовавшим целых два года.",
+            "english": "The marina has existed for two years.",
+            "transcription": "[ðэ мэр**и**:нэ хæз игз**и**стид фо: ту: йиэз]"
+          },
+          {
+            "ours": "Этот маршрут существует с прошлого года?",
+            "thought": "Имеет этот маршрут существовавшим с прошлого года?",
+            "english": "Has this route existed since last year?",
+            "transcription": "[хæз ðис ру:т игз**и**стид синс ла:ст йиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have existed",
+        "examples": [
+          {
+            "ours": "К июню этот маршрут будет существовать уже два года.",
+            "thought": "К июню этот маршрут будет иметь существовавшим целых два года.",
+            "english": "By June this route will have existed for two years.",
+            "transcription": "[бай джу:н ðис ру:т wил хæв игз**и**стид фо: ту: йиэз]"
+          },
+          {
+            "ours": "К июню марина будет существовать уже два года?",
+            "thought": "Будет [известная] марина иметь существовавшим целых два года к июню?",
+            "english": "Will the marina have existed for two years by June?",
+            "transcription": "[wил ðэ мэр**и**:нэ хæв игз**и**стид фо: ту: йиэз бай джу:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Exist обозначает состояние; perfect continuous обычно не употребляется. Скажут: The marina has existed for two years."
+    }
+  },
+  "passive": {
+    "not_possible": "Exist — непереходный глагол без прямого дополнения; пассив не образуется. Скажут: A risk exists."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что риск сохранится.",
+        "thought": "[Известный] капитан сказал что [известный] риск будет существовать.",
+        "english": "The captain said that the risk would exist.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ риск wуд игз**и**ст]"
+      },
+      {
+        "ours": "Я знал, что эта проблема не будет существовать.",
+        "thought": "Я знал что эта проблема будет не существовать.",
+        "english": "I knew that this problem wouldn't exist.",
+        "transcription": "[ай нью: ðæт ðис пр**о**блэм wуднт игз**и**ст]"
+      },
+      {
+        "ours": "Капитан сказал, что маршрут сохранится.",
+        "thought": "[Известный] капитан сказал что [известный] маршрут будет существовать.",
+        "english": "The captain said that the route would exist.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ ру:т wуд игз**и**ст]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "risk",
+      "meaning": "риск",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "risk"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "risk"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "risk"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "risk"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "risk"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "plan",
+      "meaning": "план",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "plan"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отправление",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "collision",
+      "meaning": "столкновение",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "collision"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "problem",
+      "meaning": "проблема",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "problem"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "problem"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "days"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

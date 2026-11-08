@@ -1,0 +1,582 @@
+{
+  "spec": 4,
+  "verb": "recognize",
+  "forms": {
+    "base": [
+      {
+        "word": "recognize",
+        "transcription": "[р**э**кэгнайз]"
+      }
+    ],
+    "past": [
+      {
+        "word": "recognized",
+        "transcription": "[р**э**кэгнайзд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "recognized",
+        "transcription": "[р**э**кэгнайзд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "recognizing",
+        "transcription": "[р**э**кэгнайзиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "recognizes",
+        "transcription": "[р**э**кэгнайзиз]"
+      }
+    ]
+  },
+  "meaning": "узнавать, распознавать, признавать",
+  "notes": "правильный переходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "recognized",
+        "examples": [
+          {
+            "ours": "Вчера мы узнали маяк.",
+            "thought": "Вчера мы узнали [известный] маяк.",
+            "english": "Yesterday we recognized the lighthouse.",
+            "transcription": "[й**э**стэдэй wи: р**э**кэгнайзд ðэ л**а**йтхаус]"
+          },
+          {
+            "ours": "Он не узнал судно.",
+            "thought": "Он [сделал] не узнавать [известное] судно.",
+            "english": "He didn't recognize the vessel.",
+            "transcription": "[хи: диднт р**э**кэгнайз ðэ в**э**сл]"
+          },
+          {
+            "ours": "Ты распознал сигнал до гонки?",
+            "thought": "[Сделал] ты распознавать [известный] сигнал перед [известной] гонкой?",
+            "english": "Did you recognize the signal before the race?",
+            "transcription": "[дид ю: р**э**кэгнайз ðэ с**и**гнл биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "recognize, recognizes",
+        "examples": [
+          {
+            "ours": "Капитан признаёт опасность.",
+            "thought": "[Известный] капитан признаёт [известную] опасность.",
+            "english": "The captain recognizes the danger.",
+            "transcription": "[ðэ к**æ**птин р**э**кэгнайзиз ðэ д**э**йнджэ]"
+          },
+          {
+            "ours": "Он не распознаёт сигнал бедствия.",
+            "thought": "Он [делает] не распознавать [известный] бедствия сигнал.",
+            "english": "He doesn't recognize the distress signal.",
+            "transcription": "[хи: дазнт р**э**кэгнайз ðэ дистр**э**с с**и**гнл]"
+          },
+          {
+            "ours": "Ты узнаёшь вход в гавань?",
+            "thought": "[Делаешь] ты узнавать [известной] гавани вход?",
+            "english": "Do you recognize the harbor entrance?",
+            "transcription": "[ду: ю: р**э**кэгнайз ðэ х**а**:бэ **э**нтрэнс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will recognize",
+        "examples": [
+          {
+            "ours": "Завтра мы узнаем маяк.",
+            "thought": "Завтра мы будем узнавать [известный] маяк.",
+            "english": "Tomorrow we will recognize the lighthouse.",
+            "transcription": "[тэм**о**роу wи: wил р**э**кэгнайз ðэ л**а**йтхаус]"
+          },
+          {
+            "ours": "Он не распознает сигнал до гонки.",
+            "thought": "Он будет не распознавать [известный] сигнал перед [известной] гонкой.",
+            "english": "He won't recognize the signal before the race.",
+            "transcription": "[хи: wоунт р**э**кэгнайз ðэ с**и**гнл биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Ты узнаешь судно до выхода?",
+            "thought": "Будешь ты узнавать [известное] судно перед выходом?",
+            "english": "Will you recognize the vessel before departure?",
+            "transcription": "[wил ю: р**э**кэгнайз ðэ в**э**сл биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "В обычном значении узнавания recognize обозначает результат или состояние и обычно не используется в длительной форме. Вместо We are recognizing the lighthouse говорят: We recognize the lighthouse."
+    },
+    "perfect": {
+      "past": {
+        "form": "had recognized",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже узнали маяк.",
+            "thought": "К пяти вчера мы имели уже узнанным [известный] маяк.",
+            "english": "By five yesterday we had already recognized the lighthouse.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди р**э**кэгнайзд ðэ л**а**йтхаус]"
+          },
+          {
+            "ours": "Ты распознал сигнал до гонки?",
+            "thought": "Имел ты распознанным [известный] сигнал перед [известной] гонкой?",
+            "english": "Had you recognized the signal before the race?",
+            "transcription": "[хæд ю: р**э**кэгнайзд ðэ с**и**гнл биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has recognized",
+        "examples": [
+          {
+            "ours": "Мы уже узнали судно.",
+            "thought": "Мы имеем уже узнанным [известное] судно.",
+            "english": "We have already recognized the vessel.",
+            "transcription": "[wи: хæв о:лр**э**ди р**э**кэгнайзд ðэ в**э**сл]"
+          },
+          {
+            "ours": "Ты уже узнал маяк?",
+            "thought": "Имеешь ты уже узнанным [известный] маяк?",
+            "english": "Have you already recognized the lighthouse?",
+            "transcription": "[хæв ю: о:лр**э**ди р**э**кэгнайзд ðэ л**а**йтхаус]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have recognized",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже узнаем маяк.",
+            "thought": "К пяти завтра мы будем иметь уже узнанным [известный] маяк.",
+            "english": "By five tomorrow we will have already recognized the lighthouse.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди р**э**кэгнайзд ðэ л**а**йтхаус]"
+          },
+          {
+            "ours": "Ты распознаешь сигнал до гонки?",
+            "thought": "Будешь ты иметь распознанным [известный] сигнал перед [известной] гонкой?",
+            "english": "Will you have recognized the signal before the race?",
+            "transcription": "[wил ю: хæв р**э**кэгнайзд ðэ с**и**гнл биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для отдельного акта узнавания perfect continuous неестественен. Вместо We have been recognizing the vessel говорят: We have recognized the vessel. Повторяющееся распознавание может выражаться длительной формой в специальном контексте."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were recognized",
+        "examples": [
+          {
+            "ours": "Вчера маяк узнали с моря.",
+            "thought": "[Известный] маяк был узнан с [известного] моря вчера.",
+            "english": "The lighthouse was recognized from the sea yesterday.",
+            "transcription": "[ðэ л**а**йтхаус wоз р**э**кэгнайзд фром ðэ си: й**э**стэдэй]"
+          },
+          {
+            "ours": "Сигнал распознали до гонки?",
+            "thought": "Был [известный] сигнал распознан перед [известной] гонкой?",
+            "english": "Was the signal recognized before the race?",
+            "transcription": "[wоз ðэ с**и**гнл р**э**кэгнайзд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are recognized",
+        "examples": [
+          {
+            "ours": "Сигналы бедствия распознают на борту.",
+            "thought": "Бедствия сигналы есть распознаны на борту.",
+            "english": "Distress signals are recognized on board.",
+            "transcription": "[дистр**э**с с**и**гнлз а: р**э**кэгнайзд он бо:д]"
+          },
+          {
+            "ours": "Этот флаг узнают в гавани?",
+            "thought": "Есть этот флаг узнан в [известной] гавани?",
+            "english": "Is this flag recognized in the harbor?",
+            "transcription": "[из ðис флæг р**э**кэгнайзд ин ðэ х**а**:бэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be recognized",
+        "examples": [
+          {
+            "ours": "Завтра маяк узнают с моря.",
+            "thought": "[Известный] маяк будет быть узнан с [известного] моря завтра.",
+            "english": "The lighthouse will be recognized from the sea tomorrow.",
+            "transcription": "[ðэ л**а**йтхаус wил би: р**э**кэгнайзд фром ðэ си: тэм**о**роу]"
+          },
+          {
+            "ours": "Сигнал распознают до гонки?",
+            "thought": "Будет [известный] сигнал быть распознан перед [известной] гонкой?",
+            "english": "Will the signal be recognized before the race?",
+            "transcription": "[wил ðэ с**и**гнл би: р**э**кэгнайзд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Для единичного узнавания длительный пассив неестественен: The lighthouse is recognized. Для происходящего процесса наблюдения можно сказать: The crew is looking for the lighthouse."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been recognized",
+        "examples": [
+          {
+            "ours": "Вчера к пяти маяк уже узнали.",
+            "thought": "К пяти вчера [известный] маяк имел уже быть узнан.",
+            "english": "By five yesterday the lighthouse had already been recognized.",
+            "transcription": "[бай файв й**э**стэдэй ðэ л**а**йтхаус хæд о:лр**э**ди би:н р**э**кэгнайзд]"
+          },
+          {
+            "ours": "Сигнал распознали до гонки?",
+            "thought": "Имел [известный] сигнал быть распознан перед [известной] гонкой?",
+            "english": "Had the signal been recognized before the race?",
+            "transcription": "[хæд ðэ с**и**гнл би:н р**э**кэгнайзд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been recognized",
+        "examples": [
+          {
+            "ours": "Судно уже узнали.",
+            "thought": "[Известное] судно имеет уже быть узнано.",
+            "english": "The vessel has already been recognized.",
+            "transcription": "[ðэ в**э**сл хæз о:лр**э**ди би:н р**э**кэгнайзд]"
+          },
+          {
+            "ours": "Маяк уже узнали?",
+            "thought": "Имеет [известный] маяк уже быть узнан?",
+            "english": "Has the lighthouse already been recognized?",
+            "transcription": "[хæз ðэ л**а**йтхаус о:лр**э**ди би:н р**э**кэгнайзд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been recognized",
+        "examples": [
+          {
+            "ours": "К пяти завтра маяк уже узнают.",
+            "thought": "К пяти завтра [известный] маяк будет уже иметь быть узнан.",
+            "english": "By five tomorrow the lighthouse will already have been recognized.",
+            "transcription": "[бай файв тэм**о**роу ðэ л**а**йтхаус wил о:лр**э**ди хæв би:н р**э**кэгнайзд]"
+          },
+          {
+            "ours": "Сигнал распознают до гонки?",
+            "thought": "Будет [известный] сигнал иметь быть распознан перед [известной] гонкой?",
+            "english": "Will the signal have been recognized before the race?",
+            "transcription": "[wил ðэ с**и**гнл хæв би:н р**э**кэгнайзд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The signal has been recognized."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они узнают маяк.",
+        "thought": "[Известный] капитан сказал что они будут узнавать [известный] маяк.",
+        "english": "The captain said that they would recognize the lighthouse.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд р**э**кэгнайз ðэ л**а**йтхаус]"
+      },
+      {
+        "ours": "Я знал, что ты не узнаешь судно.",
+        "thought": "Я знал что ты будешь не узнавать [известное] судно.",
+        "english": "I knew that you wouldn't recognize the vessel.",
+        "transcription": "[ай нью: ðæт ю: wуднт р**э**кэгнайз ðэ в**э**сл]"
+      },
+      {
+        "ours": "Капитан сказал, что мы распознаем сигнал.",
+        "thought": "[Известный] капитан сказал что мы будем распознавать [известный] сигнал.",
+        "english": "The captain said that we would recognize the signal.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд р**э**кэгнайз ðэ с**и**гнл]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "lighthouse",
+      "meaning": "маяк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "lighthouse"
+        }
+      ]
+    },
+    {
+      "word": "vessel",
+      "meaning": "судно",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "vessel"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "vessel"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "vessel"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "vessel"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "vessel"
+        }
+      ]
+    },
+    {
+      "word": "signal",
+      "meaning": "сигнал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "signals"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "signal"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "danger",
+      "meaning": "опасность",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "danger"
+        }
+      ]
+    },
+    {
+      "word": "distress",
+      "meaning": "бедствие",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "distress"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Distress"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "entrance",
+      "meaning": "вход",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "entrance"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "выход",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "flag",
+      "meaning": "флаг",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "flag"
+        }
+      ]
+    }
+  ]
+}

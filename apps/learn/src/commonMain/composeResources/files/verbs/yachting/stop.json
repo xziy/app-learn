@@ -1,0 +1,846 @@
+{
+  "spec": 4,
+  "verb": "stop",
+  "forms": {
+    "base": [
+      {
+        "word": "stop",
+        "transcription": "[стоп]"
+      }
+    ],
+    "past": [
+      {
+        "word": "stopped",
+        "transcription": "[стопт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "stopped",
+        "transcription": "[стопт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "stopping",
+        "transcription": "[ст**о**пиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "stops",
+        "transcription": "[стопс]"
+      }
+    ]
+  },
+  "meaning": "останавливать, останавливаться, прекращать",
+  "notes": "правильный глагол, бывает переходным и непереходным; переходное значение образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "stopped",
+        "examples": [
+          {
+            "ours": "Вчера мы остановили двигатель.",
+            "thought": "Вчера мы остановили [известный] двигатель.",
+            "english": "Yesterday we stopped the engine.",
+            "transcription": "[й**э**стэдэй wи: стопт ðи **э**нджин]"
+          },
+          {
+            "ours": "Ты остановил насос?",
+            "thought": "[Сделал] ты останавливать [известный] насос?",
+            "english": "Did you stop the pump?",
+            "transcription": "[дид ю: стоп ðэ памп]"
+          },
+          {
+            "ours": "Дождь не прекратился ночью.",
+            "thought": "[Известный] дождь [сделал] не прекратиться в ночь.",
+            "english": "The rain did not stop at night.",
+            "transcription": "[ðэ рэйн дид нот стоп æт найт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "stop, stops",
+        "examples": [
+          {
+            "ours": "Шкипер останавливает двигатель у причала.",
+            "thought": "[Известный] шкипер останавливает [известный] двигатель у [известного] причала.",
+            "english": "The skipper stops the engine at the dock.",
+            "transcription": "[ðэ ск**и**пэ стопс ðи **э**нджин æт ðэ док]"
+          },
+          {
+            "ours": "Ты останавливаешь насос ночью?",
+            "thought": "[Делаешь] ты останавливать [известный] насос в ночь?",
+            "english": "Do you stop the pump at night?",
+            "transcription": "[ду: ю: стоп ðэ памп æт найт]"
+          },
+          {
+            "ours": "Мы не останавливаем двигатель в канале.",
+            "thought": "Мы [делаем] не останавливать [известный] двигатель в [известном] канале.",
+            "english": "We do not stop the engine in the channel.",
+            "transcription": "[wи: ду: нот стоп ðи **э**нджин ин ðэ ч**æ**нл]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will stop",
+        "examples": [
+          {
+            "ours": "Завтра мы остановимся в марине.",
+            "thought": "Завтра мы будем останавливаться в [известной] марине.",
+            "english": "Tomorrow we will stop at the marina.",
+            "transcription": "[тэм**о**роу wи: wил стоп æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Ты остановишь двигатель?",
+            "thought": "Будешь ты останавливать [известный] двигатель?",
+            "english": "Will you stop the engine?",
+            "transcription": "[wил ю: стоп ðи **э**нджин]"
+          },
+          {
+            "ours": "Дождь не прекратится сегодня.",
+            "thought": "[Известный] дождь будет не прекращаться сегодня.",
+            "english": "The rain will not stop today.",
+            "transcription": "[ðэ рэйн wил нот стоп тэд**э**й]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were stopping",
+        "examples": [
+          {
+            "ours": "Вчера мы останавливались у островов.",
+            "thought": "Вчера мы были останавливающимися у островов.",
+            "english": "Yesterday we were stopping at islands.",
+            "transcription": "[й**э**стэдэй wи: wœ: ст**о**пиŋ æт **а**йлэндз]"
+          },
+          {
+            "ours": "Ты останавливал насос, когда я позвал?",
+            "thought": "Был ты останавливающим [известный] насос, когда я позвал?",
+            "english": "Were you stopping the pump when I called?",
+            "transcription": "[wœ: ю: ст**о**пиŋ ðэ памп wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are stopping",
+        "examples": [
+          {
+            "ours": "Мы сейчас останавливаем двигатель.",
+            "thought": "Мы являемся останавливающими [известный] двигатель сейчас.",
+            "english": "We are stopping the engine now.",
+            "transcription": "[wи: а: ст**о**пиŋ ðи **э**нджин нау]"
+          },
+          {
+            "ours": "Дождь сейчас прекращается?",
+            "thought": "Является [известный] дождь прекращающимся сейчас?",
+            "english": "Is the rain stopping now?",
+            "transcription": "[из ðэ рэйн ст**о**пиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be stopping",
+        "examples": [
+          {
+            "ours": "Завтра утром мы остановимся в марине.",
+            "thought": "Завтра утром мы будем быть останавливающимися в [известной] марине.",
+            "english": "Tomorrow morning we will be stopping at the marina.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: ст**о**пиŋ æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Ты будешь останавливать двигатель, когда они прибудут?",
+            "thought": "Будешь ты быть останавливающим [известный] двигатель, когда они прибудут?",
+            "english": "Will you be stopping the engine when they arrive?",
+            "transcription": "[wил ю: би: ст**о**пиŋ ðи **э**нджин wэн ðэй эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had stopped",
+        "examples": [
+          {
+            "ours": "К полудню мы уже остановили двигатель.",
+            "thought": "К полудню мы имели уже остановленным [известный] двигатель.",
+            "english": "By noon we had already stopped the engine.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди стопт ðи **э**нджин]"
+          },
+          {
+            "ours": "Дождь прекратился до отхода?",
+            "thought": "Имел [известный] дождь прекратившимся до отхода?",
+            "english": "Had the rain stopped before departure?",
+            "transcription": "[хæд ðэ рэйн стопт биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has stopped",
+        "examples": [
+          {
+            "ours": "Мы уже остановили двигатель.",
+            "thought": "Мы имеем уже остановленным [известный] двигатель.",
+            "english": "We have already stopped the engine.",
+            "transcription": "[wи: хæв о:лр**э**ди стопт ðи **э**нджин]"
+          },
+          {
+            "ours": "Дождь уже прекратился?",
+            "thought": "Имеет [известный] дождь прекратившимся уже?",
+            "english": "Has the rain stopped yet?",
+            "transcription": "[хæз ðэ рэйн стопт йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have stopped",
+        "examples": [
+          {
+            "ours": "К полудню мы остановим двигатель.",
+            "thought": "К полудню мы будем иметь остановленным [известный] двигатель.",
+            "english": "By noon we will have stopped the engine.",
+            "transcription": "[бай ну:н wи: wил хæв стопт ðи **э**нджин]"
+          },
+          {
+            "ours": "Дождь прекратится к пяти?",
+            "thought": "Будет [известный] дождь иметь прекратившимся к пяти?",
+            "english": "Will the rain have stopped by five?",
+            "transcription": "[wил ðэ рэйн хæв стопт бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been stopping",
+        "examples": [
+          {
+            "ours": "До шторма мы неделю останавливались у каждого острова.",
+            "thought": "Мы имели быть останавливающимися у каждого острова целую [какую-то] неделю до [известного] шторма.",
+            "english": "We had been stopping at every island for a week before the storm.",
+            "transcription": "[wи: хæд би:н ст**о**пиŋ æт **э**ври **а**йлэнд фо: э wи:к биф**о**: ðэ сто:м]"
+          },
+          {
+            "ours": "Вы останавливались в этой марине каждый год пять лет до переезда?",
+            "thought": "Имели вы быть останавливающимися в этой марине каждый год целых пять лет до переезда?",
+            "english": "Had you been stopping at this marina every year for five years before moving?",
+            "transcription": "[хæд ю: би:н ст**о**пиŋ æт ðис мэр**и**:нэ **э**ври йиэ фо: файв йиэз биф**о**: м**у**:виŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been stopping",
+        "examples": [
+          {
+            "ours": "Мы уже неделю останавливаемся у каждого острова.",
+            "thought": "Мы имеем быть останавливающимися у каждого острова целую [какую-то] неделю.",
+            "english": "We have been stopping at every island for a week.",
+            "transcription": "[wи: хæв би:н ст**о**пиŋ æт **э**ври **а**йлэнд фо: э wи:к]"
+          },
+          {
+            "ours": "Вы останавливаетесь в этой марине каждый год уже пять лет?",
+            "thought": "Имеете вы быть останавливающимися в этой марине каждый год целых пять лет?",
+            "english": "Have you been stopping at this marina every year for five years?",
+            "transcription": "[хæв ю: би:н ст**о**пиŋ æт ðис мэр**и**:нэ **э**ври йиэ фо: файв йиэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been stopping",
+        "examples": [
+          {
+            "ours": "К июню мы будем останавливаться здесь каждый год уже пять лет.",
+            "thought": "К июню мы будем иметь быть останавливающимися здесь каждый год целых пять лет.",
+            "english": "By June we will have been stopping here every year for five years.",
+            "transcription": "[бай джу:н wи: wил хæв би:н ст**о**пиŋ хиэ **э**ври йиэ фо: файв йиэз]"
+          },
+          {
+            "ours": "К маю вы будете останавливаться в этой марине каждый год уже пять лет?",
+            "thought": "Будете вы иметь быть останавливающимися в этой марине каждый год целых пять лет к маю?",
+            "english": "Will you have been stopping at this marina every year for five years by May?",
+            "transcription": "[wил ю: хæв би:н ст**о**пиŋ æт ðис мэр**и**:нэ **э**ври йиэ фо: файв йиэз бай мэй]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were stopped",
+        "examples": [
+          {
+            "ours": "Вчера двигатель остановили.",
+            "thought": "[Известный] двигатель был остановлен вчера.",
+            "english": "The engine was stopped yesterday.",
+            "transcription": "[ðи **э**нджин wоз стопт й**э**стэдэй]"
+          },
+          {
+            "ours": "Насосы остановили до отхода?",
+            "thought": "Были [известные] насосы остановлены до отхода?",
+            "english": "Were the pumps stopped before departure?",
+            "transcription": "[wœ: ðэ пампс стопт биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are stopped",
+        "examples": [
+          {
+            "ours": "Двигатель останавливают у причала.",
+            "thought": "[Известный] двигатель есть остановлен у [известного] причала.",
+            "english": "The engine is stopped at the dock.",
+            "transcription": "[ðи **э**нджин из стопт æт ðэ док]"
+          },
+          {
+            "ours": "Насосы останавливают ночью?",
+            "thought": "Есть [известные] насосы остановлены в ночь?",
+            "english": "Are the pumps stopped at night?",
+            "transcription": "[а: ðэ пампс стопт æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be stopped",
+        "examples": [
+          {
+            "ours": "Двигатель остановят у причала.",
+            "thought": "[Известный] двигатель будет быть остановлен у [известного] причала.",
+            "english": "The engine will be stopped at the dock.",
+            "transcription": "[ðи **э**нджин wил би: стопт æт ðэ док]"
+          },
+          {
+            "ours": "Насос остановят до отхода?",
+            "thought": "Будет [известный] насос быть остановлен до отхода?",
+            "english": "Will the pump be stopped before departure?",
+            "transcription": "[wил ðэ памп би: стопт биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being stopped",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, двигатель останавливали.",
+            "thought": "[Известный] двигатель был «долго» остановлен, когда я прибыл.",
+            "english": "The engine was being stopped when I arrived.",
+            "transcription": "[ðи **э**нджин wоз б**и**:иŋ стопт wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, насосы останавливали?",
+            "thought": "Были [известные] насосы «долго» остановлены, когда ты позвонил?",
+            "english": "Were the pumps being stopped when you called?",
+            "transcription": "[wœ: ðэ пампс б**и**:иŋ стопт wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being stopped",
+        "examples": [
+          {
+            "ours": "Двигатель сейчас останавливают.",
+            "thought": "[Известный] двигатель есть «долго» остановлен сейчас.",
+            "english": "The engine is being stopped now.",
+            "transcription": "[ðи **э**нджин из б**и**:иŋ стопт нау]"
+          },
+          {
+            "ours": "Насосы сейчас останавливают?",
+            "thought": "Есть [известные] насосы «долго» остановлены сейчас?",
+            "english": "Are the pumps being stopped now?",
+            "transcription": "[а: ðэ пампс б**и**:иŋ стопт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be stopping",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут останавливать двигатель.",
+            "thought": "Завтра утром они будут быть останавливающими [известный] двигатель.",
+            "english": "Tomorrow morning they will be stopping the engine.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: ст**о**пиŋ ðи **э**нджин]"
+          },
+          {
+            "ours": "Они будут останавливать насос, когда мы прибудем?",
+            "thought": "Будут они быть останавливающими [известный] насос, когда мы прибудем?",
+            "english": "Will they be stopping the pump when we arrive?",
+            "transcription": "[wил ðэй би: ст**о**пиŋ ðэ памп wэн wи: эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been stopped",
+        "examples": [
+          {
+            "ours": "К полудню двигатель уже остановили.",
+            "thought": "К полудню [известный] двигатель имел уже быть остановлен.",
+            "english": "By noon the engine had already been stopped.",
+            "transcription": "[бай ну:н ðи **э**нджин хæд о:лр**э**ди би:н стопт]"
+          },
+          {
+            "ours": "Насос остановили до отхода?",
+            "thought": "Имел [известный] насос быть остановлен до отхода?",
+            "english": "Had the pump been stopped before departure?",
+            "transcription": "[хæд ðэ памп би:н стопт биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been stopped",
+        "examples": [
+          {
+            "ours": "Двигатель уже остановили.",
+            "thought": "[Известный] двигатель имеет уже быть остановлен.",
+            "english": "The engine has already been stopped.",
+            "transcription": "[ðи **э**нджин хæз о:лр**э**ди би:н стопт]"
+          },
+          {
+            "ours": "Насосы уже остановили?",
+            "thought": "Имеют [известные] насосы быть остановлены уже?",
+            "english": "Have the pumps been stopped yet?",
+            "transcription": "[хæв ðэ пампс би:н стопт йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been stopped",
+        "examples": [
+          {
+            "ours": "К полудню двигатель уже остановят.",
+            "thought": "К полудню [известный] двигатель будет иметь быть остановлен.",
+            "english": "By noon the engine will have been stopped.",
+            "transcription": "[бай ну:н ðи **э**нджин wил хæв би:н стопт]"
+          },
+          {
+            "ours": "Насос остановят к пяти?",
+            "thought": "Будет [известный] насос иметь быть остановлен к пяти?",
+            "english": "Will the pump have been stopped by five?",
+            "transcription": "[wил ðэ памп хæв би:н стопт бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been stopping at islands."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она остановит двигатель.",
+        "thought": "Я знал, она будет останавливать [известный] двигатель.",
+        "english": "I knew she would stop the engine.",
+        "transcription": "[ай нью: ши: wуд стоп ðи **э**нджин]"
+      },
+      {
+        "ours": "Он думал, что мы не остановимся в марине.",
+        "thought": "Он думал, мы будем не останавливаться в [известной] марине.",
+        "english": "He thought we would not stop at the marina.",
+        "transcription": "[хи: θо:т wи: wуд нот стоп æт ðэ мэр**и**:нэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "насос",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "pumps"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "pumps"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "pumps"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "pumps"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "pumps"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "night"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "night"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "dock",
+      "meaning": "причал",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "dock"
+        }
+      ]
+    },
+    {
+      "word": "channel",
+      "meaning": "канал",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "channel"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "islands"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "island"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "week"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "week"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "May",
+      "meaning": "май",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "May"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,866 @@
+{
+  "spec": 4,
+  "verb": "read",
+  "forms": {
+    "base": [
+      {
+        "word": "read",
+        "transcription": "[ри:д]"
+      }
+    ],
+    "past": [
+      {
+        "word": "read",
+        "transcription": "[рэд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "read",
+        "transcription": "[рэд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "reading",
+        "transcription": "[р**и**:диŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "reads",
+        "transcription": "[ри:дз]"
+      }
+    ]
+  },
+  "meaning": "читать, прочесть",
+  "notes": "неправильный глагол; прошедшее и причастие пишутся read и произносятся [рэд]; переходное значение образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "read",
+        "examples": [
+          {
+            "ours": "Вчера я прочитал прогноз.",
+            "thought": "Вчера я прочитал [известный] прогноз.",
+            "english": "Yesterday I read the forecast.",
+            "transcription": "[й**э**стэдэй ай рэд ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты прочитал журнал?",
+            "thought": "[Сделал] ты читать [известный] журнал?",
+            "english": "Did you read the log?",
+            "transcription": "[дид ю: ри:д ðэ лог]"
+          },
+          {
+            "ours": "Она не прочитала сообщение.",
+            "thought": "Она [сделала] не читать [известное] сообщение.",
+            "english": "She did not read the message.",
+            "transcription": "[ши: дид нот ри:д ðэ м**э**сидж]"
+          }
+        ]
+      },
+      "present": {
+        "form": "read, reads",
+        "examples": [
+          {
+            "ours": "Шкипер читает прогноз каждый день.",
+            "thought": "[Известный] шкипер читает [известный] прогноз каждый день.",
+            "english": "The skipper reads the forecast every day.",
+            "transcription": "[ðэ ск**и**пэ ри:дз ðэ ф**о**:ка:ст **э**ври дэй]"
+          },
+          {
+            "ours": "Ты читаешь журнал на борту?",
+            "thought": "[Делаешь] ты читать [известный] журнал на борту?",
+            "english": "Do you read the log on board?",
+            "transcription": "[ду: ю: ри:д ðэ лог он бо:д]"
+          },
+          {
+            "ours": "Мы не читаем письма на вахте.",
+            "thought": "Мы [делаем] не читать письма на вахте.",
+            "english": "We do not read letters on watch.",
+            "transcription": "[wи: ду: нот ри:д л**э**тэз он wоч]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will read",
+        "examples": [
+          {
+            "ours": "Завтра мы прочитаем прогноз.",
+            "thought": "Завтра мы будем читать [известный] прогноз.",
+            "english": "Tomorrow we will read the forecast.",
+            "transcription": "[тэм**о**роу wи: wил ри:д ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты прочитаешь сообщение?",
+            "thought": "Будешь ты читать [известное] сообщение?",
+            "english": "Will you read the message?",
+            "transcription": "[wил ю: ри:д ðэ м**э**сидж]"
+          },
+          {
+            "ours": "Она не будет читать отчёт сегодня.",
+            "thought": "Она будет не читать [известный] отчёт сегодня.",
+            "english": "She will not read the report today.",
+            "transcription": "[ши: wил нот ри:д ðэ рип**о**:т тэд**э**й]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were reading",
+        "examples": [
+          {
+            "ours": "Вчера вечером я читал журнал.",
+            "thought": "Вчера вечером я был читающим [известный] журнал.",
+            "english": "Yesterday evening I was reading the log.",
+            "transcription": "[й**э**стэдэй **и**:вниŋ ай wоз р**и**:диŋ ðэ лог]"
+          },
+          {
+            "ours": "Ты читал прогноз, когда я вошёл?",
+            "thought": "Был ты читающим [известный] прогноз, когда я вошёл?",
+            "english": "Were you reading the forecast when I entered?",
+            "transcription": "[wœ: ю: р**и**:диŋ ðэ ф**о**:ка:ст wэн ай **э**нтэд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are reading",
+        "examples": [
+          {
+            "ours": "Мы сейчас читаем карту.",
+            "thought": "Мы являемся читающими [известную] карту сейчас.",
+            "english": "We are reading the chart now.",
+            "transcription": "[wи: а: р**и**:диŋ ðэ ча:т нау]"
+          },
+          {
+            "ours": "Ты сейчас читаешь отчёт?",
+            "thought": "Являешься ты читающим [известный] отчёт сейчас?",
+            "english": "Are you reading the report now?",
+            "transcription": "[а: ю: р**и**:диŋ ðэ рип**о**:т нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be reading",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем читать прогноз.",
+            "thought": "Завтра утром мы будем быть читающими [известный] прогноз.",
+            "english": "Tomorrow morning we will be reading the forecast.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: р**и**:диŋ ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты будешь читать журнал вечером?",
+            "thought": "Будешь ты быть читающим [известный] журнал этот вечер?",
+            "english": "Will you be reading the log this evening?",
+            "transcription": "[wил ю: би: р**и**:диŋ ðэ лог ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had read",
+        "examples": [
+          {
+            "ours": "К полудню я уже прочитал прогноз.",
+            "thought": "К полудню я имел уже прочитанным [известный] прогноз.",
+            "english": "By noon I had already read the forecast.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди рэд ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты прочитал журнал до отхода?",
+            "thought": "Имел ты прочитанным [известный] журнал до отхода?",
+            "english": "Had you read the log before departure?",
+            "transcription": "[хæд ю: рэд ðэ лог биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has read",
+        "examples": [
+          {
+            "ours": "Мы уже прочитали прогноз.",
+            "thought": "Мы имеем уже прочитанным [известный] прогноз.",
+            "english": "We have already read the forecast.",
+            "transcription": "[wи: хæв о:лр**э**ди рэд ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты уже прочитал сообщение?",
+            "thought": "Имеешь ты прочитанным [известное] сообщение уже?",
+            "english": "Have you read the message yet?",
+            "transcription": "[хæв ю: рэд ðэ м**э**сидж йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have read",
+        "examples": [
+          {
+            "ours": "К полудню я прочитаю отчёт.",
+            "thought": "К полудню я буду иметь прочитанным [известный] отчёт.",
+            "english": "By noon I will have read the report.",
+            "transcription": "[бай ну:н ай wил хæв рэд ðэ рип**о**:т]"
+          },
+          {
+            "ours": "К пяти ты прочитаешь сообщение?",
+            "thought": "Будешь ты иметь прочитанным [известное] сообщение к пяти?",
+            "english": "Will you have read the message by five?",
+            "transcription": "[wил ю: хæв рэд ðэ м**э**сидж бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been reading",
+        "examples": [
+          {
+            "ours": "Мы час читали инструкцию, когда зазвонило радио.",
+            "thought": "Мы имели быть читающими [известную] инструкцию целый [какой-то] час, когда [известное] радио зазвонило.",
+            "english": "We had been reading the manual for an hour when the radio rang.",
+            "transcription": "[wи: хæд би:н р**и**:диŋ ðэ м**æ**ньюэл фо: эн **а**уэ wэн ðэ р**э**йдиоу рэŋ]"
+          },
+          {
+            "ours": "Ты читал журнал два часа до отхода?",
+            "thought": "Имел ты быть читающим [известный] журнал целых два часа до отхода?",
+            "english": "Had you been reading the log for two hours before departure?",
+            "transcription": "[хæд ю: би:н р**и**:диŋ ðэ лог фо: ту: **а**уэз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been reading",
+        "examples": [
+          {
+            "ours": "Я читаю инструкцию уже час.",
+            "thought": "Я имею быть читающим [известную] инструкцию целый [какой-то] час.",
+            "english": "I have been reading the manual for an hour.",
+            "transcription": "[ай хæв би:н р**и**:диŋ ðэ м**æ**ньюэл фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты уже два часа читаешь журнал?",
+            "thought": "Имеешь ты быть читающим [известный] журнал целых два часа?",
+            "english": "Have you been reading the log for two hours?",
+            "transcription": "[хæв ю: би:н р**и**:диŋ ðэ лог фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been reading",
+        "examples": [
+          {
+            "ours": "К пяти я буду читать инструкцию уже два часа.",
+            "thought": "К пяти я буду иметь быть читающим [известную] инструкцию целых два часа.",
+            "english": "By five I will have been reading the manual for two hours.",
+            "transcription": "[бай файв ай wил хæв би:н р**и**:диŋ ðэ м**æ**ньюэл фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь читать журнал уже час?",
+            "thought": "Будешь ты иметь быть читающим [известный] журнал целый [какой-то] час к полудню?",
+            "english": "Will you have been reading the log for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н р**и**:диŋ ðэ лог фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were read",
+        "examples": [
+          {
+            "ours": "Прогноз прочитали вчера.",
+            "thought": "[Известный] прогноз был прочитан вчера.",
+            "english": "The forecast was read yesterday.",
+            "transcription": "[ðэ ф**о**:ка:ст wоз рэд й**э**стэдэй]"
+          },
+          {
+            "ours": "Сообщения прочитали на палубе?",
+            "thought": "Были [известные] сообщения прочитаны на палубе?",
+            "english": "Were the messages read on deck?",
+            "transcription": "[wœ: ðэ м**э**сиджиз рэд он дэк]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are read",
+        "examples": [
+          {
+            "ours": "Прогноз читают каждое утро.",
+            "thought": "[Известный] прогноз есть прочитан каждое утро.",
+            "english": "The forecast is read every morning.",
+            "transcription": "[ðэ ф**о**:ка:ст из рэд **э**ври м**о**:ниŋ]"
+          },
+          {
+            "ours": "Журнал читают перед выходом?",
+            "thought": "Есть [известный] журнал прочитан до отхода?",
+            "english": "Is the log read before departure?",
+            "transcription": "[из ðэ лог рэд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be read",
+        "examples": [
+          {
+            "ours": "Отчёт прочитают завтра.",
+            "thought": "[Известный] отчёт будет быть прочитан завтра.",
+            "english": "The report will be read tomorrow.",
+            "transcription": "[ðэ рип**о**:т wил би: рэд тэм**о**роу]"
+          },
+          {
+            "ours": "Сообщение прочитают до старта?",
+            "thought": "Будет [известное] сообщение быть прочитано до [известного] старта?",
+            "english": "Will the message be read before the start?",
+            "transcription": "[wил ðэ м**э**сидж би: рэд биф**о**: ðэ ста:т]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being read",
+        "examples": [
+          {
+            "ours": "Когда я вошёл, отчёт читали.",
+            "thought": "[Известный] отчёт был «долго» прочитан, когда я вошёл.",
+            "english": "The report was being read when I entered.",
+            "transcription": "[ðэ рип**о**:т wоз б**и**:иŋ рэд wэн ай **э**нтэд]"
+          },
+          {
+            "ours": "Когда ты позвонил, сообщения читали?",
+            "thought": "Были [известные] сообщения «долго» прочитаны, когда ты позвонил?",
+            "english": "Were the messages being read when you called?",
+            "transcription": "[wœ: ðэ м**э**сиджиз б**и**:иŋ рэд wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being read",
+        "examples": [
+          {
+            "ours": "Отчёт сейчас читают.",
+            "thought": "[Известный] отчёт есть «долго» прочитан сейчас.",
+            "english": "The report is being read now.",
+            "transcription": "[ðэ рип**о**:т из б**и**:иŋ рэд нау]"
+          },
+          {
+            "ours": "Сообщения сейчас читают?",
+            "thought": "Есть [известные] сообщения «долго» прочитаны сейчас?",
+            "english": "Are the messages being read now?",
+            "transcription": "[а: ðэ м**э**сиджиз б**и**:иŋ рэд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be reading",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут читать отчёт.",
+            "thought": "Завтра утром они будут быть читающими [известный] отчёт.",
+            "english": "Tomorrow morning they will be reading the report.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: р**и**:диŋ ðэ рип**о**:т]"
+          },
+          {
+            "ours": "Они будут читать сообщения вечером?",
+            "thought": "Будут они быть читающими [известные] сообщения этот вечер?",
+            "english": "Will they be reading the messages this evening?",
+            "transcription": "[wил ðэй би: р**и**:диŋ ðэ м**э**сиджиз ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been read",
+        "examples": [
+          {
+            "ours": "К полудню прогноз уже прочитали.",
+            "thought": "К полудню [известный] прогноз имел уже быть прочитан.",
+            "english": "By noon the forecast had already been read.",
+            "transcription": "[бай ну:н ðэ ф**о**:ка:ст хæд о:лр**э**ди би:н рэд]"
+          },
+          {
+            "ours": "Журнал прочитали до отхода?",
+            "thought": "Имел [известный] журнал быть прочитан до отхода?",
+            "english": "Had the log been read before departure?",
+            "transcription": "[хæд ðэ лог би:н рэд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been read",
+        "examples": [
+          {
+            "ours": "Отчёт уже прочитали.",
+            "thought": "[Известный] отчёт имеет уже быть прочитан.",
+            "english": "The report has already been read.",
+            "transcription": "[ðэ рип**о**:т хæз о:лр**э**ди би:н рэд]"
+          },
+          {
+            "ours": "Сообщения уже прочитали?",
+            "thought": "Имеют [известные] сообщения быть прочитаны уже?",
+            "english": "Have the messages been read yet?",
+            "transcription": "[хæв ðэ м**э**сиджиз би:н рэд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been read",
+        "examples": [
+          {
+            "ours": "К полудню отчёт уже прочитают.",
+            "thought": "К полудню [известный] отчёт будет иметь быть прочитан.",
+            "english": "By noon the report will have been read.",
+            "transcription": "[бай ну:н ðэ рип**о**:т wил хæв би:н рэд]"
+          },
+          {
+            "ours": "Сообщение прочитают к пяти?",
+            "thought": "Будет [известное] сообщение иметь быть прочитано к пяти?",
+            "english": "Will the message have been read by five?",
+            "transcription": "[wил ðэ м**э**сидж хæв би:н рэд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been reading the manual."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она прочитает прогноз.",
+        "thought": "Я знал, она будет читать [известный] прогноз.",
+        "english": "I knew she would read the forecast.",
+        "transcription": "[ай нью: ши: wуд ри:д ðэ ф**о**:ка:ст]"
+      },
+      {
+        "ours": "Он думал, что мы не будем читать журнал.",
+        "thought": "Он думал, мы будем не читать [известный] журнал.",
+        "english": "He thought we would not read the log.",
+        "transcription": "[хи: θо:т wи: wуд нот ри:д ðэ лог]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "log",
+      "meaning": "судовой журнал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "log"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "log"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "log"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "log"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "log"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "log"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "log"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "log"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "log"
+        }
+      ]
+    },
+    {
+      "word": "message",
+      "meaning": "сообщение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "message"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "message"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "message"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "message"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "messages"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "message"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "messages"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "messages"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "messages"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "messages"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "message"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "letter",
+      "meaning": "письмо",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "letters"
+        }
+      ]
+    },
+    {
+      "word": "watch",
+      "meaning": "вахта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "watch"
+        }
+      ]
+    },
+    {
+      "word": "report",
+      "meaning": "отчёт",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "report"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "report"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "evening"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "manual",
+      "meaning": "инструкция",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "manual"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "manual"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "manual"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "start",
+      "meaning": "старт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "start"
+        }
+      ]
+    }
+  ]
+}

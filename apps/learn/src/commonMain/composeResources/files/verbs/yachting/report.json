@@ -1,0 +1,864 @@
+{
+  "spec": 4,
+  "verb": "report",
+  "forms": {
+    "base": [
+      {
+        "word": "report",
+        "transcription": "[рип**о**:т]"
+      }
+    ],
+    "past": [
+      {
+        "word": "reported",
+        "transcription": "[рип**о**:тид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "reported",
+        "transcription": "[рип**о**:тид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "reporting",
+        "transcription": "[рип**о**:тиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "reports",
+        "transcription": "[рип**о**:тс]"
+      }
+    ]
+  },
+  "meaning": "сообщать, докладывать",
+  "notes": "правильный переходный глагол; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "reported",
+        "examples": [
+          {
+            "ours": "Вчера капитан сообщил о ветре.",
+            "thought": "Вчера [известный] капитан сообщил [известный] ветер.",
+            "english": "Yesterday the skipper reported the wind.",
+            "transcription": "[й**э**стэдэй ðэ ск**и**пэ рип**о**:тид ðэ wинд]"
+          },
+          {
+            "ours": "Моряк сообщил об ущербе вчера?",
+            "thought": "[Сделал] [известный] моряк сообщать [известный] ущерб вчера?",
+            "english": "Did the sailor report the damage yesterday?",
+            "transcription": "[дид ðэ с**э**йлэ рип**о**:т ðэ д**æ**мидж й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "report, reports",
+        "examples": [
+          {
+            "ours": "Офицер сообщает о состоянии моря.",
+            "thought": "[Известный] офицер сообщает [известное] состояние моря.",
+            "english": "The officer reports the sea state.",
+            "transcription": "[ðэ **о**фисэ рип**о**:тс ðэ си: стэйт]"
+          },
+          {
+            "ours": "Капитан сообщает об инциденте?",
+            "thought": "[Делает] [известный] капитан сообщать [известный] инцидент?",
+            "english": "Does the captain report the incident?",
+            "transcription": "[даз ðэ к**æ**птин рип**о**:т ðэ **и**нсидэнт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will report",
+        "examples": [
+          {
+            "ours": "Завтра капитан сообщит о ветре.",
+            "thought": "Завтра [известный] капитан будет сообщать [известный] ветер.",
+            "english": "Tomorrow the skipper will report the wind.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил рип**о**:т ðэ wинд]"
+          },
+          {
+            "ours": "Моряк сообщит об ущербе завтра?",
+            "thought": "Будет [известный] моряк сообщать [известный] ущерб завтра?",
+            "english": "Will the sailor report the damage tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ рип**о**:т ðэ д**æ**мидж тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were reporting",
+        "examples": [
+          {
+            "ours": "Капитан сообщал о ветре, когда ты прибыл.",
+            "thought": "[Известный] капитан был сообщающим [известный] ветер, когда ты прибыл.",
+            "english": "The skipper was reporting the wind when you arrived.",
+            "transcription": "[ðэ ск**и**пэ wоз рип**о**:тиŋ ðэ wинд wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Моряк сообщал об ущербе, когда ты прибыл?",
+            "thought": "Был [известный] моряк сообщающим [известный] ущерб, когда ты прибыл?",
+            "english": "Was the sailor reporting the damage when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ рип**о**:тиŋ ðэ д**æ**мидж wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are reporting",
+        "examples": [
+          {
+            "ours": "Офицер сейчас сообщает о состоянии моря.",
+            "thought": "[Известный] офицер является сообщающим [известное] состояние моря сейчас.",
+            "english": "The officer is reporting the sea state now.",
+            "transcription": "[ðэ **о**фисэ из рип**о**:тиŋ ðэ си: стэйт нау]"
+          },
+          {
+            "ours": "Капитан сейчас сообщает об инциденте?",
+            "thought": "Является [известный] капитан сообщающим [известный] инцидент сейчас?",
+            "english": "Is the captain reporting the incident now?",
+            "transcription": "[из ðэ к**æ**птин рип**о**:тиŋ ðэ **и**нсидэнт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be reporting",
+        "examples": [
+          {
+            "ours": "Завтра капитан будет сообщать о ветре.",
+            "thought": "Завтра [известный] капитан будет быть сообщающим [известный] ветер.",
+            "english": "Tomorrow the skipper will be reporting the wind.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил би: рип**о**:тиŋ ðэ wинд]"
+          },
+          {
+            "ours": "Моряк завтра будет сообщать об ущербе?",
+            "thought": "Будет [известный] моряк быть сообщающим [известный] ущерб завтра?",
+            "english": "Will the sailor be reporting the damage tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: рип**о**:тиŋ ðэ д**æ**мидж тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had reported",
+        "examples": [
+          {
+            "ours": "К полудню капитан сообщил о ветре.",
+            "thought": "К полудню [известный] капитан имел сообщённым [известный] ветер.",
+            "english": "By noon the skipper had reported the wind.",
+            "transcription": "[бай ну:н ðэ ск**и**пэ хæд рип**о**:тид ðэ wинд]"
+          },
+          {
+            "ours": "Моряк сообщил об ущербе к полудню?",
+            "thought": "Имел [известный] моряк сообщённым [известный] ущерб к полудню?",
+            "english": "Had the sailor reported the damage by noon?",
+            "transcription": "[хæд ðэ с**э**йлэ рип**о**:тид ðэ д**æ**мидж бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has reported",
+        "examples": [
+          {
+            "ours": "Офицер уже сообщил о состоянии моря.",
+            "thought": "[Известный] офицер имеет уже сообщённым [известное] состояние моря.",
+            "english": "The officer has already reported the sea state.",
+            "transcription": "[ðэ **о**фисэ хæз о:лр**э**ди рип**о**:тид ðэ си: стэйт]"
+          },
+          {
+            "ours": "Капитан уже сообщил об инциденте?",
+            "thought": "Имеет [известный] капитан сообщённым [известный] инцидент уже?",
+            "english": "Has the captain reported the incident yet?",
+            "transcription": "[хæз ðэ к**æ**птин рип**о**:тид ðэ **и**нсидэнт йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have reported",
+        "examples": [
+          {
+            "ours": "К пяти капитан сообщит о ветре.",
+            "thought": "К пяти [известный] капитан будет иметь сообщённым [известный] ветер.",
+            "english": "By five the skipper will have reported the wind.",
+            "transcription": "[бай файв ðэ ск**и**пэ wил хæв рип**о**:тид ðэ wинд]"
+          },
+          {
+            "ours": "Моряк сообщит об ущербе к пяти?",
+            "thought": "Будет [известный] моряк иметь сообщённым [известный] ущерб к пяти?",
+            "english": "Will the sailor have reported the damage by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв рип**о**:тид ðэ д**æ**мидж бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been reporting",
+        "examples": [
+          {
+            "ours": "Капитан сообщал о ветре два часа до обеда.",
+            "thought": "[Известный] капитан имел быть сообщающим [известный] ветер целых два часа перед обедом.",
+            "english": "The skipper had been reporting the wind for two hours before lunch.",
+            "transcription": "[ðэ ск**и**пэ хæд би:н рип**о**:тиŋ ðэ wинд фо: ту: **а**уэз биф**о**: ланч]"
+          },
+          {
+            "ours": "Моряк сообщал об ущербе час до обеда?",
+            "thought": "Имел [известный] моряк быть сообщающим [известный] ущерб целый [какой-то] час перед обедом?",
+            "english": "Had the sailor been reporting the damage for an hour before lunch?",
+            "transcription": "[хæд ðэ с**э**йлэ би:н рип**о**:тиŋ ðэ д**æ**мидж фо: эн **а**уэ биф**о**: ланч]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been reporting",
+        "examples": [
+          {
+            "ours": "Офицер сообщает о состоянии моря уже два часа.",
+            "thought": "[Известный] офицер имеет быть сообщающим [известное] состояние моря целых два часа.",
+            "english": "The officer has been reporting the sea state for two hours.",
+            "transcription": "[ðэ **о**фисэ хæз би:н рип**о**:тиŋ ðэ си: стэйт фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Капитан сообщает об инциденте уже час?",
+            "thought": "Имеет [известный] капитан быть сообщающим [известный] инцидент целый [какой-то] час?",
+            "english": "Has the captain been reporting the incident for an hour?",
+            "transcription": "[хæз ðэ к**æ**птин би:н рип**о**:тиŋ ðэ **и**нсидэнт фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been reporting",
+        "examples": [
+          {
+            "ours": "К пяти капитан будет сообщать о ветре уже два часа.",
+            "thought": "К пяти [известный] капитан будет иметь быть сообщающим [известный] ветер целых два часа.",
+            "english": "By five the skipper will have been reporting the wind for two hours.",
+            "transcription": "[бай файв ðэ ск**и**пэ wил хæв би:н рип**о**:тиŋ ðэ wинд фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Моряк к пяти будет сообщать об ущербе уже час?",
+            "thought": "Будет [известный] моряк иметь быть сообщающим [известный] ущерб целый [какой-то] час к пяти?",
+            "english": "Will the sailor have been reporting the damage for an hour by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв би:н рип**о**:тиŋ ðэ д**æ**мидж фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were reported",
+        "examples": [
+          {
+            "ours": "О ветре сообщили вчера.",
+            "thought": "[Известный] ветер был сообщён вчера.",
+            "english": "The wind was reported yesterday.",
+            "transcription": "[ðэ wинд wоз рип**о**:тид й**э**стэдэй]"
+          },
+          {
+            "ours": "Об ущербе сообщили вчера?",
+            "thought": "Был [известный] ущерб сообщён вчера?",
+            "english": "Was the damage reported yesterday?",
+            "transcription": "[wоз ðэ д**æ**мидж рип**о**:тид й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are reported",
+        "examples": [
+          {
+            "ours": "О состоянии моря сообщают здесь.",
+            "thought": "[Известное] состояние моря есть сообщено здесь.",
+            "english": "The sea state is reported here.",
+            "transcription": "[ðэ си: стэйт из рип**о**:тид хиэ]"
+          },
+          {
+            "ours": "Об инциденте сообщают здесь?",
+            "thought": "Есть [известный] инцидент сообщён здесь?",
+            "english": "Is the incident reported here?",
+            "transcription": "[из ðэ **и**нсидэнт рип**о**:тид хиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be reported",
+        "examples": [
+          {
+            "ours": "О ветре сообщат завтра.",
+            "thought": "[Известный] ветер будет быть сообщён завтра.",
+            "english": "The wind will be reported tomorrow.",
+            "transcription": "[ðэ wинд wил би: рип**о**:тид тэм**о**роу]"
+          },
+          {
+            "ours": "Об ущербе сообщат завтра?",
+            "thought": "Будет [известный] ущерб быть сообщён завтра?",
+            "english": "Will the damage be reported tomorrow?",
+            "transcription": "[wил ðэ д**æ**мидж би: рип**о**:тид тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being reported",
+        "examples": [
+          {
+            "ours": "О ветре сообщали, когда ты прибыл.",
+            "thought": "[Известный] ветер был «долго» сообщён, когда ты прибыл.",
+            "english": "The wind was being reported when you arrived.",
+            "transcription": "[ðэ wинд wоз б**и**:иŋ рип**о**:тид wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Об ущербе сообщали, когда ты прибыл?",
+            "thought": "Был [известный] ущерб «долго» сообщён, когда ты прибыл?",
+            "english": "Was the damage being reported when you arrived?",
+            "transcription": "[wоз ðэ д**æ**мидж б**и**:иŋ рип**о**:тид wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being reported",
+        "examples": [
+          {
+            "ours": "О состоянии моря сейчас сообщают.",
+            "thought": "[Известное] состояние моря есть «долго» сообщено сейчас.",
+            "english": "The sea state is being reported now.",
+            "transcription": "[ðэ си: стэйт из б**и**:иŋ рип**о**:тид нау]"
+          },
+          {
+            "ours": "Об инциденте сейчас сообщают?",
+            "thought": "Есть [известный] инцидент «долго» сообщён сейчас?",
+            "english": "Is the incident being reported now?",
+            "transcription": "[из ðэ **и**нсидэнт б**и**:иŋ рип**о**:тид нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be reporting",
+        "examples": [
+          {
+            "ours": "Завтра они будут сообщать о ветре.",
+            "thought": "Завтра они будут быть сообщающими [известный] ветер.",
+            "english": "Tomorrow they will be reporting the wind.",
+            "transcription": "[тэм**о**роу ðэй wил би: рип**о**:тиŋ ðэ wинд]"
+          },
+          {
+            "ours": "Они будут сообщать об ущербе завтра?",
+            "thought": "Будут они быть сообщающими [известный] ущерб завтра?",
+            "english": "Will they be reporting the damage tomorrow?",
+            "transcription": "[wил ðэй би: рип**о**:тиŋ ðэ д**æ**мидж тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been reported",
+        "examples": [
+          {
+            "ours": "К полудню о ветре сообщили.",
+            "thought": "К полудню [известный] ветер имел быть сообщён.",
+            "english": "By noon the wind had been reported.",
+            "transcription": "[бай ну:н ðэ wинд хæд би:н рип**о**:тид]"
+          },
+          {
+            "ours": "Об ущербе сообщили к полудню?",
+            "thought": "Имел [известный] ущерб быть сообщён к полудню?",
+            "english": "Had the damage been reported by noon?",
+            "transcription": "[хæд ðэ д**æ**мидж би:н рип**о**:тид бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been reported",
+        "examples": [
+          {
+            "ours": "О состоянии моря уже сообщили.",
+            "thought": "[Известное] состояние моря имеет уже быть сообщено.",
+            "english": "The sea state has already been reported.",
+            "transcription": "[ðэ си: стэйт хæз о:лр**э**ди би:н рип**о**:тид]"
+          },
+          {
+            "ours": "Об инциденте уже сообщили?",
+            "thought": "Имеет [известный] инцидент быть сообщён уже?",
+            "english": "Has the incident been reported yet?",
+            "transcription": "[хæз ðэ **и**нсидэнт би:н рип**о**:тид йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been reported",
+        "examples": [
+          {
+            "ours": "К пяти о ветре сообщат.",
+            "thought": "К пяти [известный] ветер будет иметь быть сообщён.",
+            "english": "By five the wind will have been reported.",
+            "transcription": "[бай файв ðэ wинд wил хæв би:н рип**о**:тид]"
+          },
+          {
+            "ours": "Об ущербе сообщат к пяти?",
+            "thought": "Будет [известный] ущерб иметь быть сообщён к пяти?",
+            "english": "Will the damage have been reported by five?",
+            "transcription": "[wил ðэ д**æ**мидж хæв би:н рип**о**:тид бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The officer has been reporting the sea state."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что моряк сообщит ущерб.",
+        "thought": "Я знал [известный] моряк будет сообщать [известный] ущерб.",
+        "english": "I knew the sailor would report the damage.",
+        "transcription": "[ай нью: ðэ с**э**йлэ wуд рип**о**:т ðэ д**æ**мидж]"
+      },
+      {
+        "ours": "Мы думали, что шкипер не сообщит о ветре.",
+        "thought": "Мы думали, [известный] шкипер будет не сообщать [известный] ветер.",
+        "english": "We thought the skipper would not report the wind.",
+        "transcription": "[wи: θо:т ðэ ск**и**пэ wуд нот рип**о**:т ðэ wинд]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "damage",
+      "meaning": "ущерб",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "damage"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "damage"
+        }
+      ]
+    },
+    {
+      "word": "officer",
+      "meaning": "помощник капитана",
+      "sense": "mate",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "officer"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "officer"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "officer"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "officer"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "state",
+      "meaning": "состояние",
+      "sense": "condition",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "state"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "state"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "state"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "state"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "state"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "state"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "state"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "incident",
+      "meaning": "происшествие",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "incident"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "incident"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "incident"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "incident"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "incident"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "incident"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "incident"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "meaning": "обед",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "lunch"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "lunch"
+        }
+      ]
+    }
+  ]
+}

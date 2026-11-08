@@ -1,0 +1,825 @@
+{
+  "spec": 4,
+  "verb": "enjoy",
+  "forms": {
+    "base": [
+      {
+        "word": "enjoy",
+        "transcription": "[индж**о**й]"
+      }
+    ],
+    "past": [
+      {
+        "word": "enjoyed",
+        "transcription": "[индж**о**йд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "enjoyed",
+        "transcription": "[индж**о**йд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "enjoying",
+        "transcription": "[индж**о**йиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "enjoys",
+        "transcription": "[индж**о**йз]"
+      }
+    ]
+  },
+  "meaning": "получать удовольствие, наслаждаться",
+  "notes": "правильный переходный глагол; в отличие от love часто употребляется в длительных формах",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "enjoyed",
+        "examples": [
+          {
+            "ours": "Вчера экипаж насладился ужином.",
+            "thought": "Вчера [известный] экипаж насладился ужином.",
+            "english": "Yesterday the crew enjoyed dinner.",
+            "transcription": "[й**э**стэдэй ðэ кру: индж**о**йд д**и**нэ]"
+          },
+          {
+            "ours": "Моряк насладился обедом вчера?",
+            "thought": "[Сделал] [известный] моряк наслаждаться [известным] обедом вчера?",
+            "english": "Did the sailor enjoy the meal yesterday?",
+            "transcription": "[дид ðэ с**э**йлэ индж**о**й ðэ ми:л й**э**стэдэй]"
+          },
+          {
+            "ours": "Они не насладились супом.",
+            "thought": "Они [сделали] не наслаждаться [известным] супом.",
+            "english": "They did not enjoy the soup.",
+            "transcription": "[ðэй дид нот индж**о**й ðэ су:п]"
+          }
+        ]
+      },
+      "present": {
+        "form": "enjoy, enjoys",
+        "examples": [
+          {
+            "ours": "Капитан наслаждается супом.",
+            "thought": "[Известный] капитан наслаждается [известным] супом.",
+            "english": "The skipper enjoys the soup.",
+            "transcription": "[ðэ ск**и**пэ индж**о**йз ðэ су:п]"
+          },
+          {
+            "ours": "Тебе нравится ходить под парусом?",
+            "thought": "[Делаешь] ты наслаждаться парусным спортом?",
+            "english": "Do you enjoy sailing?",
+            "transcription": "[ду: ю: индж**о**й с**э**йлиŋ]"
+          },
+          {
+            "ours": "Нам не нравится сильное волнение.",
+            "thought": "Мы [делаем] не наслаждаться сильным волнением.",
+            "english": "We do not enjoy rough seas.",
+            "transcription": "[wи: ду: нот индж**о**й раф си:з]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will enjoy",
+        "examples": [
+          {
+            "ours": "Завтра экипаж будет наслаждаться ужином.",
+            "thought": "Завтра [известный] экипаж будет наслаждаться ужином.",
+            "english": "Tomorrow the crew will enjoy dinner.",
+            "transcription": "[тэм**о**роу ðэ кру: wил индж**о**й д**и**нэ]"
+          },
+          {
+            "ours": "Моряк будет наслаждаться обедом завтра?",
+            "thought": "Будет [известный] моряк наслаждаться [известным] обедом завтра?",
+            "english": "Will the sailor enjoy the meal tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ индж**о**й ðэ ми:л тэм**о**роу]"
+          },
+          {
+            "ours": "Она не будет наслаждаться обедом.",
+            "thought": "Она будет не наслаждаться [известным] обедом.",
+            "english": "She will not enjoy the meal.",
+            "transcription": "[ши: wил нот индж**о**й ðэ ми:л]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were enjoying",
+        "examples": [
+          {
+            "ours": "Экипаж наслаждался ужином, когда ты прибыл.",
+            "thought": "[Известный] экипаж был наслаждающимся ужином, когда ты прибыл.",
+            "english": "The crew was enjoying dinner when you arrived.",
+            "transcription": "[ðэ кру: wоз индж**о**йиŋ д**и**нэ wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Моряк наслаждался обедом, когда ты прибыл?",
+            "thought": "Был [известный] моряк наслаждающимся [известным] обедом, когда ты прибыл?",
+            "english": "Was the sailor enjoying the meal when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ индж**о**йиŋ ðэ ми:л wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are enjoying",
+        "examples": [
+          {
+            "ours": "Капитан сейчас наслаждается парусным спортом.",
+            "thought": "[Известный] капитан является наслаждающимся парусным спортом сейчас.",
+            "english": "The skipper is enjoying sailing now.",
+            "transcription": "[ðэ ск**и**пэ из индж**о**йиŋ с**э**йлиŋ нау]"
+          },
+          {
+            "ours": "Экипаж сейчас наслаждается чаем?",
+            "thought": "Является [известный] экипаж наслаждающимся чаем сейчас?",
+            "english": "Is the crew enjoying tea now?",
+            "transcription": "[из ðэ кру: индж**о**йиŋ ти: нау]"
+          },
+          {
+            "ours": "Мы сейчас не наслаждаемся ужином.",
+            "thought": "Мы являемся не наслаждающимися ужином сейчас.",
+            "english": "We are not enjoying dinner now.",
+            "transcription": "[wи: а: нот индж**о**йиŋ д**и**нэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be enjoying",
+        "examples": [
+          {
+            "ours": "Завтра экипаж будет наслаждаться парусным спортом.",
+            "thought": "Завтра [известный] экипаж будет быть наслаждающимся парусным спортом.",
+            "english": "Tomorrow the crew will be enjoying sailing.",
+            "transcription": "[тэм**о**роу ðэ кру: wил би: индж**о**йиŋ с**э**йлиŋ]"
+          },
+          {
+            "ours": "Моряк завтра будет наслаждаться обедом?",
+            "thought": "Будет [известный] моряк быть наслаждающимся [известным] обедом завтра?",
+            "english": "Will the sailor be enjoying the meal tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: индж**о**йиŋ ðэ ми:л тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had enjoyed",
+        "examples": [
+          {
+            "ours": "К полудню экипаж насладился ужином.",
+            "thought": "К полудню [известный] экипаж имел наслаждённым ужином.",
+            "english": "By noon the crew had enjoyed dinner.",
+            "transcription": "[бай ну:н ðэ кру: хæд индж**о**йд д**и**нэ]"
+          },
+          {
+            "ours": "Моряк насладился обедом к полудню?",
+            "thought": "Имел [известный] моряк наслаждённым [известным] обедом к полудню?",
+            "english": "Had the sailor enjoyed the meal by noon?",
+            "transcription": "[хæд ðэ с**э**йлэ индж**о**йд ðэ ми:л бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has enjoyed",
+        "examples": [
+          {
+            "ours": "Капитан уже насладился парусным спортом.",
+            "thought": "[Известный] капитан имеет уже наслаждённым парусным спортом.",
+            "english": "The skipper has already enjoyed sailing.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди индж**о**йд с**э**йлиŋ]"
+          },
+          {
+            "ours": "Экипаж уже насладился чаем?",
+            "thought": "Имеет [известный] экипаж наслаждённым чаем уже?",
+            "english": "Has the crew enjoyed tea yet?",
+            "transcription": "[хæз ðэ кру: индж**о**йд ти: йэт]"
+          },
+          {
+            "ours": "Она ещё не насладилась обедом.",
+            "thought": "Она имеет не наслаждённым [известным] обедом ещё.",
+            "english": "She has not enjoyed the meal yet.",
+            "transcription": "[ши: хæз нот индж**о**йд ðэ ми:л йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have enjoyed",
+        "examples": [
+          {
+            "ours": "К пяти экипаж будет наслаждаться ужином.",
+            "thought": "К пяти [известный] экипаж будет иметь наслаждённым ужином.",
+            "english": "By five the crew will have enjoyed dinner.",
+            "transcription": "[бай файв ðэ кру: wил хæв индж**о**йд д**и**нэ]"
+          },
+          {
+            "ours": "Моряк будет наслаждаться обедом к пяти?",
+            "thought": "Будет [известный] моряк иметь наслаждённым [известным] обедом к пяти?",
+            "english": "Will the sailor have enjoyed the meal by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв индж**о**йд ðэ ми:л бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been enjoying",
+        "examples": [
+          {
+            "ours": "Экипаж наслаждался ужином два часа, когда поднялся ветер.",
+            "thought": "[Известный] экипаж имел быть наслаждающимся ужином целых два часа, когда [известный] ветер поднялся.",
+            "english": "The crew had been enjoying dinner for two hours when the wind rose.",
+            "transcription": "[ðэ кру: хæд би:н индж**о**йиŋ д**и**нэ фо: ту: **а**уэз wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты долго наслаждался чаем, когда я пришёл?",
+            "thought": "Имел ты быть наслаждающимся чаем долго, когда я прибыл?",
+            "english": "Had you been enjoying tea long when I arrived?",
+            "transcription": "[хæд ю: би:н индж**о**йиŋ ти: лоŋ wэн ай эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been enjoying",
+        "examples": [
+          {
+            "ours": "Экипаж наслаждается парусным спортом уже два часа.",
+            "thought": "[Известный] экипаж имеет быть наслаждающимся парусным спортом целых два часа.",
+            "english": "The crew has been enjoying sailing for two hours.",
+            "transcription": "[ðэ кру: хæз би:н индж**о**йиŋ с**э**йлиŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже час наслаждаешься чаем.?",
+            "thought": "Имеешь ты быть наслаждающимся чаем целый [какой-то] час?",
+            "english": "Have you been enjoying tea for an hour?",
+            "transcription": "[хæв ю: би:н индж**о**йиŋ ти: фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been enjoying",
+        "examples": [
+          {
+            "ours": "К пяти экипаж будет наслаждаться ужином уже два часа.",
+            "thought": "К пяти [известный] экипаж будет иметь быть наслаждающимся ужином целых два часа.",
+            "english": "By five the crew will have been enjoying dinner for two hours.",
+            "transcription": "[бай файв ðэ кру: wил хæв би:н индж**о**йиŋ д**и**нэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь наслаждаться чаем уже час?",
+            "thought": "Будешь ты иметь быть наслаждающимся чаем целый [какой-то] час к пяти?",
+            "english": "Will you have been enjoying tea for an hour by five?",
+            "transcription": "[wил ю: хæв би:н индж**о**йиŋ ти: фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were enjoyed",
+        "examples": [
+          {
+            "ours": "Вчера экипажу понравилось плавание.",
+            "thought": "Вчера [известное] плавание было наслаждено [известным] экипажем.",
+            "english": "Yesterday the voyage was enjoyed by the crew.",
+            "transcription": "[й**э**стэдэй ðэ в**о**йидж wоз индж**о**йд бай ðэ кру:]"
+          },
+          {
+            "ours": "Гонка понравилась морякам?",
+            "thought": "Была [известная] гонка наслаждена моряками?",
+            "english": "Was the race enjoyed by sailors?",
+            "transcription": "[wоз ðэ рэйс индж**о**йд бай с**э**йлэз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are enjoyed",
+        "examples": [
+          {
+            "ours": "Парусным спортом увлекаются моряки во всём мире.",
+            "thought": "Парусный спорт есть наслаждён моряками во всём мире.",
+            "english": "Sailing is enjoyed by sailors worldwide.",
+            "transcription": "[с**э**йлиŋ из индж**о**йд бай с**э**йлэз wœ:лдw**а**йд]"
+          },
+          {
+            "ours": "Эту регату любят участники?",
+            "thought": "Есть эта регата наслаждена участниками?",
+            "english": "Is this regatta enjoyed by participants?",
+            "transcription": "[из ðис риг**æ**тэ индж**о**йд бай па:т**и**сипэнтс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be enjoyed",
+        "examples": [
+          {
+            "ours": "Экипажу понравится плавание.",
+            "thought": "[Известное] плавание будет быть наслаждено [известным] экипажем.",
+            "english": "The voyage will be enjoyed by the crew.",
+            "transcription": "[ðэ в**о**йидж wил би: индж**о**йд бай ðэ кру:]"
+          },
+          {
+            "ours": "Гонка понравится морякам?",
+            "thought": "Будет [известная] гонка быть наслаждена моряками?",
+            "english": "Will the race be enjoyed by sailors?",
+            "transcription": "[wил ðэ рэйс би: индж**о**йд бай с**э**йлэз]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Для описания удовольствия пассажиров длительный пассив звучит тяжеловесно. Скажут: The crew is enjoying the voyage; в будущем: They will be enjoying the voyage."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been enjoyed",
+        "examples": [
+          {
+            "ours": "К полудню экипаж уже успел насладиться плаванием.",
+            "thought": "К полудню [известное] плавание имело уже быть наслаждено [известным] экипажем.",
+            "english": "By noon the voyage had already been enjoyed by the crew.",
+            "transcription": "[бай ну:н ðэ в**о**йидж хæд о:лр**э**ди би:н индж**о**йд бай ðэ кру:]"
+          },
+          {
+            "ours": "К тому времени гонка понравилась морякам?",
+            "thought": "Имела [известная] гонка быть наслаждена моряками к тогда?",
+            "english": "Had the race been enjoyed by sailors by then?",
+            "transcription": "[хæд ðэ рэйс би:н индж**о**йд бай с**э**йлэз бай ðэн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been enjoyed",
+        "examples": [
+          {
+            "ours": "Экипажу уже понравилось плавание.",
+            "thought": "[Известное] плавание имеет уже быть наслаждено [известным] экипажем.",
+            "english": "The voyage has already been enjoyed by the crew.",
+            "transcription": "[ðэ в**о**йидж хæз о:лр**э**ди би:н индж**о**йд бай ðэ кру:]"
+          },
+          {
+            "ours": "Эта регата уже понравилась участникам?",
+            "thought": "Имеет эта регата быть наслаждена участниками уже?",
+            "english": "Has this regatta been enjoyed by participants yet?",
+            "transcription": "[хæз ðис риг**æ**тэ би:н индж**о**йд бай па:т**и**сипэнтс йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been enjoyed",
+        "not_possible": "Предсказывать завершённость удовольствия пассивным future perfect здесь неестественно. Скажут: The crew will enjoy the voyage."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него скажут: The crew has been enjoying dinner."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что моряк будет наслаждаться обедом.",
+        "thought": "Я знал [известный] моряк будет наслаждаться [известным] обедом.",
+        "english": "I knew the sailor would enjoy the meal.",
+        "transcription": "[ай нью: ðэ с**э**йлэ wуд индж**о**й ðэ ми:л]"
+      },
+      {
+        "ours": "Мы думали, что экипаж не будет наслаждаться ужином.",
+        "thought": "Мы думали [известный] экипаж будет не наслаждаться ужином.",
+        "english": "We thought the crew would not enjoy dinner.",
+        "transcription": "[wи: θо:т ðэ кру: wуд нот индж**о**й д**и**нэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "dinner",
+      "meaning": "ужин",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "dinner"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "dinner"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "sailors"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "meal",
+      "meaning": "еда",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "meal"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "meal"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "meal"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "meal"
+        }
+      ]
+    },
+    {
+      "word": "soup",
+      "meaning": "суп",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "soup"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "soup"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "sailing",
+      "meaning": "парусный спорт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sailing"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "sailing"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "sailing"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "sailing"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "sailing"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Sailing"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "seas"
+        }
+      ]
+    },
+    {
+      "word": "tea",
+      "meaning": "чай",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "tea"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "tea"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "tea"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "tea"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "tea"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "voyage",
+      "meaning": "плавание",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "voyage"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "voyage"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "voyage"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "voyage"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "participant",
+      "meaning": "участник",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "participants"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "participants"
+        }
+      ]
+    }
+  ]
+}

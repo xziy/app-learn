@@ -1,0 +1,397 @@
+{
+  "spec": 4,
+  "verb": "intend",
+  "forms": {
+    "base": [
+      {
+        "word": "intend",
+        "transcription": "[инт**э**нд]"
+      }
+    ],
+    "past": [
+      {
+        "word": "intended",
+        "transcription": "[инт**э**ндид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "intended",
+        "transcription": "[инт**э**ндид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "intending",
+        "transcription": "[инт**э**ндиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "intends",
+        "transcription": "[инт**э**ндз]"
+      }
+    ]
+  },
+  "meaning": "намереваться, предназначать",
+  "notes": "правильный переходный и непереходный глагол состояния; intended for обозначает назначение",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "intended",
+        "examples": [
+          {
+            "ours": "Вчера мы намеревались выйти в море.",
+            "thought": "Вчера мы намеревались отплыть.",
+            "english": "Yesterday we intended to sail.",
+            "transcription": "[й**э**стэдэй wи: инт**э**ндид ту сэйл]"
+          },
+          {
+            "ours": "Капитан не намеревался возвращаться в порт.",
+            "thought": "[Известный] капитан [сделал] не намереваться возвращаться в порт.",
+            "english": "The captain didn't intend to return to port.",
+            "transcription": "[ðэ к**æ**птин диднт инт**э**нд ту рит**œ**:н ту по:т]"
+          },
+          {
+            "ours": "Ты намеревался участвовать в регате?",
+            "thought": "[Сделал] ты намереваться присоединяться к [известной] регате?",
+            "english": "Did you intend to join the regatta?",
+            "transcription": "[дид ю: инт**э**нд ту джойн ðэ риг**æ**тэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "intend, intends",
+        "examples": [
+          {
+            "ours": "Капитан намерен выйти в море завтра.",
+            "thought": "[Известный] капитан намеревается отплыть завтра.",
+            "english": "The captain intends to sail tomorrow.",
+            "transcription": "[ðэ к**æ**птин инт**э**ндз ту сэйл тэм**о**роу]"
+          },
+          {
+            "ours": "Экипаж не намерен оставаться в гавани.",
+            "thought": "[Известный] экипаж [делает] не намереваться оставаться в [известной] гавани.",
+            "english": "The crew doesn't intend to stay in the harbor.",
+            "transcription": "[ðэ кру: дазнт инт**э**нд ту стэй ин ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Ты намерен вернуться в порт до шторма?",
+            "thought": "[Делаешь] ты намереваться возвращаться в порт перед [известным] штормом?",
+            "english": "Do you intend to return to port before the storm?",
+            "transcription": "[ду: ю: инт**э**нд ту рит**œ**:н ту по:т биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will intend",
+        "not_possible": "Will intend грамматически возможно, но для обычных планов звучит неестественно. Скажут: We intend to sail tomorrow."
+      }
+    },
+    "continuous": {
+      "not_possible": "Intend обычно обозначает намерение как состояние; вместо I am intending to sail обычно говорят: I intend to sail. Длительная форма встречается в отдельных контекстах."
+    },
+    "perfect": {
+      "past": {
+        "form": "had intended",
+        "examples": [
+          {
+            "ours": "До шторма мы намеревались выйти в море.",
+            "thought": "Перед [известным] штормом мы имели намеревавшимся отплыть.",
+            "english": "Before the storm we had intended to sail.",
+            "transcription": "[биф**о**: ðэ сто:м wи: хæд инт**э**ндид ту сэйл]"
+          },
+          {
+            "ours": "Ты намеревался вернуться в порт до гонки?",
+            "thought": "Имел ты намеревавшимся возвращаться в порт перед [известной] гонкой?",
+            "english": "Had you intended to return to port before the race?",
+            "transcription": "[хæд ю: инт**э**ндид ту рит**œ**:н ту по:т биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has intended",
+        "examples": [
+          {
+            "ours": "Мы давно намеревались выйти в море.",
+            "thought": "Мы имеем намеревавшимся отплыть целое [какое-то] долгое время.",
+            "english": "We have intended to sail for a long time.",
+            "transcription": "[wи: хæв инт**э**ндид ту сэйл фо: э лоŋ тайм]"
+          },
+          {
+            "ours": "Ты всегда собирался выйти в море?",
+            "thought": "Имеешь ты всегда намеревавшимся отплыть?",
+            "english": "Have you always intended to sail?",
+            "transcription": "[хæв ю: **о**:лwэйз инт**э**ндид ту сэйл]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have intended",
+        "not_possible": "Future perfect для намерения без специальной ретроспективы звучит неестественно. Скажут: By then we will intend to sail."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Perfect continuous с intend возможен, но в обычном описании намерения предпочтительнее: We have intended to sail for a long time."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were intended for",
+        "examples": [
+          {
+            "ours": "Парус предназначался для слабого ветра.",
+            "thought": "[Известный] парус был предназначен для слабых ветров.",
+            "english": "The sail was intended for light winds.",
+            "transcription": "[ðэ сэйл wоз инт**э**ндид фо: лайт wиндз]"
+          },
+          {
+            "ours": "Лодка предназначалась для гонки?",
+            "thought": "Была [известная] лодка предназначена для [известной] гонки?",
+            "english": "Was the boat intended for the race?",
+            "transcription": "[wоз ðэ боут инт**э**ндид фо: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are intended for",
+        "examples": [
+          {
+            "ours": "Эта яхта предназначена для длительного плавания.",
+            "thought": "Эта яхта есть предназначена для [какого-то] долгого плавания.",
+            "english": "This yacht is intended for a long voyage.",
+            "transcription": "[ðис йот из инт**э**ндид фо: э лоŋ в**о**йидж]"
+          },
+          {
+            "ours": "Парус предназначен для слабого ветра?",
+            "thought": "Есть [известный] парус предназначен для слабых ветров?",
+            "english": "Is the sail intended for light winds?",
+            "transcription": "[из ðэ сэйл инт**э**ндид фо: лайт wиндз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be intended for",
+        "examples": [
+          {
+            "ours": "Лодка будет предназначена для гонки.",
+            "thought": "[Известная] лодка будет быть предназначена для [известной] гонки.",
+            "english": "The boat will be intended for the race.",
+            "transcription": "[ðэ боут wил би: инт**э**ндид фо: ðэ рэйс]"
+          },
+          {
+            "ours": "Парус будет предназначен для слабого ветра?",
+            "thought": "Будет [известный] парус быть предназначен для слабых ветров?",
+            "english": "Will the sail be intended for light winds?",
+            "transcription": "[wил ðэ сэйл би: инт**э**ндид фо: лайт wиндз]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "В значении назначения быть предназначенным для пассив Continuous неестественен. Обычно говорят: The sail is intended for light winds."
+    },
+    "perfect": {
+      "not_possible": "Для описания назначения снаряжения простая форма обычно естественнее: The sail was intended for light winds. Perfect пассива возможен, когда важен предшествующий период назначения."
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Скажут: The sail is intended for light winds."
+    }
+  },
+  "future_in_past": {
+    "not_possible": "Would intend возможно в особом контексте рассуждения о будущем намерении. Для обычного плана в прошлом естественнее: The captain said that they intended to sail."
+  },
+  "nouns": [
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "port",
+      "meaning": "порт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "port"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "port"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "port"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "winds"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "winds"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "winds"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "voyage",
+      "meaning": "плавание",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "voyage"
+        }
+      ]
+    }
+  ]
+}

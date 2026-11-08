@@ -1,0 +1,796 @@
+{
+  "spec": 4,
+  "verb": "pick",
+  "forms": {
+    "base": [
+      {
+        "word": "pick",
+        "transcription": "[пик]"
+      }
+    ],
+    "past": [
+      {
+        "word": "picked",
+        "transcription": "[пикт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "picked",
+        "transcription": "[пикт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "picking",
+        "transcription": "[п**и**киŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "picks",
+        "transcription": "[пикс]"
+      }
+    ]
+  },
+  "meaning": "выбирать, поднимать",
+  "notes": "правильный переходный глагол; pick up также значит поднять, подобрать",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "picked",
+        "examples": [
+          {
+            "ours": "Вчера экипаж выбрал якорный пункт.",
+            "thought": "Вчера [известный] экипаж выбрал [известный] якорный пункт.",
+            "english": "Yesterday the crew picked the mooring.",
+            "transcription": "[й**э**стэдэй ðэ кру: пикт ðэ м**у**эриŋ]"
+          },
+          {
+            "ours": "Моряк выбрал трос вчера?",
+            "thought": "[Сделал] [известный] моряк выбирать [известный] трос вчера?",
+            "english": "Did the sailor pick the rope yesterday?",
+            "transcription": "[дид ðэ с**э**йлэ пик ðэ роуп й**э**стэдэй]"
+          },
+          {
+            "ours": "Они не выбрали буй.",
+            "thought": "Они [сделали] не выбирать [известный] буй.",
+            "english": "They did not pick the buoy.",
+            "transcription": "[ðэй дид нот пик ðэ бой]"
+          }
+        ]
+      },
+      "present": {
+        "form": "pick, picks",
+        "examples": [
+          {
+            "ours": "Капитан выбирает буй.",
+            "thought": "[Известный] капитан выбирает [известный] буй.",
+            "english": "The skipper picks the buoy.",
+            "transcription": "[ðэ ск**и**пэ пикс ðэ бой]"
+          },
+          {
+            "ours": "Ты подбираешь трос?",
+            "thought": "[Делаешь] ты подбирать [известный] трос вверх?",
+            "english": "Do you pick up the rope?",
+            "transcription": "[ду: ю: пик ап ðэ роуп]"
+          },
+          {
+            "ours": "Мы не выбираем порт в шторм.",
+            "thought": "Мы [делаем] не выбирать [известный] порт в шторм.",
+            "english": "We do not pick the port in storms.",
+            "transcription": "[wи: ду: нот пик ðэ по:т ин сто:мз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will pick",
+        "examples": [
+          {
+            "ours": "Завтра экипаж выберет якорный пункт.",
+            "thought": "Завтра [известный] экипаж будет выбирать [известный] якорный пункт.",
+            "english": "Tomorrow the crew will pick the mooring.",
+            "transcription": "[тэм**о**роу ðэ кру: wил пик ðэ м**у**эриŋ]"
+          },
+          {
+            "ours": "Моряк выберет трос завтра?",
+            "thought": "Будет [известный] моряк выбирать [известный] трос завтра?",
+            "english": "Will the sailor pick the rope tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ пик ðэ роуп тэм**о**роу]"
+          },
+          {
+            "ours": "Она не выберет трос.",
+            "thought": "Она будет не выбирать [известный] трос.",
+            "english": "She will not pick the rope.",
+            "transcription": "[ши: wил нот пик ðэ роуп]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were picking",
+        "examples": [
+          {
+            "ours": "Экипаж выбирал якорный пункт, когда ты прибыл.",
+            "thought": "[Известный] экипаж был выбирающим [известный] якорный пункт, когда ты прибыл.",
+            "english": "The crew was picking the mooring when you arrived.",
+            "transcription": "[ðэ кру: wоз п**и**киŋ ðэ м**у**эриŋ wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Моряк выбирал трос, когда ты прибыл?",
+            "thought": "Был [известный] моряк выбирающим [известный] трос, когда ты прибыл?",
+            "english": "Was the sailor picking the rope when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ п**и**киŋ ðэ роуп wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are picking",
+        "examples": [
+          {
+            "ours": "Капитан сейчас выбирает буй.",
+            "thought": "[Известный] капитан является выбирающим [известный] буй сейчас.",
+            "english": "The skipper is picking the buoy now.",
+            "transcription": "[ðэ ск**и**пэ из п**и**киŋ ðэ бой нау]"
+          },
+          {
+            "ours": "Экипаж сейчас выбирает порт?",
+            "thought": "Является [известный] экипаж выбирающим [известный] порт сейчас?",
+            "english": "Is the crew picking the port now?",
+            "transcription": "[из ðэ кру: п**и**киŋ ðэ по:т нау]"
+          },
+          {
+            "ours": "Мы сейчас не выбираем якорный пункт.",
+            "thought": "Мы являемся не выбирающими [известный] якорный пункт сейчас.",
+            "english": "We are not picking the mooring now.",
+            "transcription": "[wи: а: нот п**и**киŋ ðэ м**у**эриŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be picking",
+        "examples": [
+          {
+            "ours": "Завтра экипаж будет выбирать якорный пункт.",
+            "thought": "Завтра [известный] экипаж будет быть выбирающим [известный] якорный пункт.",
+            "english": "Tomorrow the crew will be picking the mooring.",
+            "transcription": "[тэм**о**роу ðэ кру: wил би: п**и**киŋ ðэ м**у**эриŋ]"
+          },
+          {
+            "ours": "Моряк завтра будет выбирать трос?",
+            "thought": "Будет [известный] моряк быть выбирающим [известный] трос завтра?",
+            "english": "Will the sailor be picking the rope tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: п**и**киŋ ðэ роуп тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had picked",
+        "examples": [
+          {
+            "ours": "К полудню экипаж выбрал якорный пункт.",
+            "thought": "К полудню [известный] экипаж имел выбранным [известный] якорный пункт.",
+            "english": "By noon the crew had picked the mooring.",
+            "transcription": "[бай ну:н ðэ кру: хæд пикт ðэ м**у**эриŋ]"
+          },
+          {
+            "ours": "Моряк выбрал трос к полудню?",
+            "thought": "Имел [известный] моряк выбранным [известный] трос к полудню?",
+            "english": "Had the sailor picked the rope by noon?",
+            "transcription": "[хæд ðэ с**э**йлэ пикт ðэ роуп бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has picked",
+        "examples": [
+          {
+            "ours": "Капитан уже выбрал буй.",
+            "thought": "[Известный] капитан имеет уже выбранным [известный] буй.",
+            "english": "The skipper has already picked the buoy.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди пикт ðэ бой]"
+          },
+          {
+            "ours": "Экипаж уже выбрал порт?",
+            "thought": "Имеет [известный] экипаж выбранным [известный] порт уже?",
+            "english": "Has the crew picked the port yet?",
+            "transcription": "[хæз ðэ кру: пикт ðэ по:т йэт]"
+          },
+          {
+            "ours": "Она ещё не выбрала трос.",
+            "thought": "Она имеет не выбранным [известный] трос ещё.",
+            "english": "She has not picked the rope yet.",
+            "transcription": "[ши: хæз нот пикт ðэ роуп йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have picked",
+        "examples": [
+          {
+            "ours": "К пяти экипаж выберет якорный пункт.",
+            "thought": "К пяти [известный] экипаж будет иметь выбранным [известный] якорный пункт.",
+            "english": "By five the crew will have picked the mooring.",
+            "transcription": "[бай файв ðэ кру: wил хæв пикт ðэ м**у**эриŋ]"
+          },
+          {
+            "ours": "Моряк выберет трос к пяти?",
+            "thought": "Будет [известный] моряк иметь выбранным [известный] трос к пяти?",
+            "english": "Will the sailor have picked the rope by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв пикт ðэ роуп бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для однократного выбора пункта стоянки длительный perfect не нужен: The crew has picked the mooring. Он возможен при выборе нескольких объектов за некоторое время."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were picked",
+        "examples": [
+          {
+            "ours": "Якорный пункт был выбран вчера.",
+            "thought": "[Известный] якорный пункт был выбран вчера.",
+            "english": "The mooring was picked yesterday.",
+            "transcription": "[ðэ м**у**эриŋ wоз пикт й**э**стэдэй]"
+          },
+          {
+            "ours": "Трос был выбран вчера?",
+            "thought": "Был [известный] трос выбран вчера?",
+            "english": "Was the rope picked yesterday?",
+            "transcription": "[wоз ðэ роуп пикт й**э**стэдэй]"
+          },
+          {
+            "ours": "Буй не выбрали вчера.",
+            "thought": "[Известный] буй был не выбран вчера.",
+            "english": "The buoy was not picked yesterday.",
+            "transcription": "[ðэ бой wоз нот пикт й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are picked",
+        "examples": [
+          {
+            "ours": "Буй выбирают здесь.",
+            "thought": "[Известный] буй есть выбран здесь.",
+            "english": "The buoy is picked here.",
+            "transcription": "[ðэ бой из пикт хиэ]"
+          },
+          {
+            "ours": "Порт выбирают здесь?",
+            "thought": "Есть [известный] порт выбран здесь?",
+            "english": "Is the port picked here?",
+            "transcription": "[из ðэ по:т пикт хиэ]"
+          },
+          {
+            "ours": "Буй не выбирают ночью.",
+            "thought": "[Известный] буй есть не выбран ночью.",
+            "english": "The buoy is not picked at night.",
+            "transcription": "[ðэ бой из нот пикт æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be picked",
+        "examples": [
+          {
+            "ours": "Якорный пункт выберут завтра.",
+            "thought": "[Известный] якорный пункт будет быть выбран завтра.",
+            "english": "The mooring will be picked tomorrow.",
+            "transcription": "[ðэ м**у**эриŋ wил би: пикт тэм**о**роу]"
+          },
+          {
+            "ours": "Трос выберут завтра?",
+            "thought": "Будет [известный] трос быть выбран завтра?",
+            "english": "Will the rope be picked tomorrow?",
+            "transcription": "[wил ðэ роуп би: пикт тэм**о**роу]"
+          },
+          {
+            "ours": "Трос не выберут завтра.",
+            "thought": "[Известный] трос будет не быть выбран завтра.",
+            "english": "The rope will not be picked tomorrow.",
+            "transcription": "[ðэ роуп wил нот би: пикт тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being picked",
+        "examples": [
+          {
+            "ours": "Якорный пункт выбирали, когда ты прибыл.",
+            "thought": "[Известный] якорный пункт был «долго» выбран, когда ты прибыл.",
+            "english": "The mooring was being picked when you arrived.",
+            "transcription": "[ðэ м**у**эриŋ wоз б**и**:иŋ пикт wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Трос выбирали, когда ты прибыл?",
+            "thought": "Был [известный] трос «долго» выбран, когда ты прибыл?",
+            "english": "Was the rope being picked when you arrived?",
+            "transcription": "[wоз ðэ роуп б**и**:иŋ пикт wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being picked",
+        "examples": [
+          {
+            "ours": "Буй сейчас выбирают.",
+            "thought": "[Известный] буй есть «долго» выбран сейчас.",
+            "english": "The buoy is being picked now.",
+            "transcription": "[ðэ бой из б**и**:иŋ пикт нау]"
+          },
+          {
+            "ours": "Порт сейчас выбирают?",
+            "thought": "Есть [известный] порт «долго» выбран сейчас?",
+            "english": "Is the port being picked now?",
+            "transcription": "[из ðэ по:т б**и**:иŋ пикт нау]"
+          },
+          {
+            "ours": "Порт сейчас не выбирают.",
+            "thought": "[Известный] порт есть не «долго» выбран сейчас.",
+            "english": "The port is not being picked now.",
+            "transcription": "[ðэ по:т из нот б**и**:иŋ пикт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be picking",
+        "examples": [
+          {
+            "ours": "Завтра они будут выбирать якорный пункт.",
+            "thought": "Завтра они будут быть выбирающими [известный] якорный пункт.",
+            "english": "Tomorrow they will be picking the mooring.",
+            "transcription": "[тэм**о**роу ðэй wил би: п**и**киŋ ðэ м**у**эриŋ]"
+          },
+          {
+            "ours": "Они будут выбирать трос завтра?",
+            "thought": "Будут они быть выбирающими [известный] трос завтра?",
+            "english": "Will they be picking the rope tomorrow?",
+            "transcription": "[wил ðэй би: п**и**киŋ ðэ роуп тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been picked",
+        "examples": [
+          {
+            "ours": "К полудню якорный пункт выбрали.",
+            "thought": "К полудню [известный] якорный пункт имел быть выбран.",
+            "english": "By noon the mooring had been picked.",
+            "transcription": "[бай ну:н ðэ м**у**эриŋ хæд би:н пикт]"
+          },
+          {
+            "ours": "Трос выбрали к полудню?",
+            "thought": "Имел [известный] трос быть выбран к полудню?",
+            "english": "Had the rope been picked by noon?",
+            "transcription": "[хæд ðэ роуп би:н пикт бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been picked",
+        "examples": [
+          {
+            "ours": "Буй уже выбрали.",
+            "thought": "[Известный] буй имеет уже быть выбран.",
+            "english": "The buoy has already been picked.",
+            "transcription": "[ðэ бой хæз о:лр**э**ди би:н пикт]"
+          },
+          {
+            "ours": "Порт уже выбрали?",
+            "thought": "Имеет [известный] порт быть выбран уже?",
+            "english": "Has the port been picked yet?",
+            "transcription": "[хæз ðэ по:т би:н пикт йэт]"
+          },
+          {
+            "ours": "Трос ещё не выбрали.",
+            "thought": "[Известный] трос имеет не быть выбран ещё.",
+            "english": "The rope has not been picked yet.",
+            "transcription": "[ðэ роуп хæз нот би:н пикт йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been picked",
+        "examples": [
+          {
+            "ours": "К пяти якорный пункт выберут.",
+            "thought": "К пяти [известный] якорный пункт будет иметь быть выбран.",
+            "english": "By five the mooring will have been picked.",
+            "transcription": "[бай файв ðэ м**у**эриŋ wил хæв би:н пикт]"
+          },
+          {
+            "ours": "Трос выберут к пяти?",
+            "thought": "Будет [известный] трос иметь быть выбран к пяти?",
+            "english": "Will the rope have been picked by five?",
+            "transcription": "[wил ðэ роуп хæв би:н пикт бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The crew has picked the mooring."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что моряк выберет трос.",
+        "thought": "Я знал [известный] моряк будет выбирать [известный] трос.",
+        "english": "I knew the sailor would pick the rope.",
+        "transcription": "[ай нью: ðэ с**э**йлэ wуд пик ðэ роуп]"
+      },
+      {
+        "ours": "Мы думали, что экипаж не выберет якорный пункт.",
+        "thought": "Мы думали [известный] экипаж будет не выбирать [известный] якорный пункт.",
+        "english": "We thought the crew would not pick the mooring.",
+        "transcription": "[wи: θо:т ðэ кру: wуд нот пик ðэ м**у**эриŋ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "mooring",
+      "meaning": "место швартовки",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "mooring"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "mooring"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "mooring"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "mooring"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "mooring"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "mooring"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "mooring"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "mooring"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "mooring"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "mooring"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "mooring"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "mooring"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "mooring"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "mooring"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "трос",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "rope"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "meaning": "буй",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "buoy"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "buoy"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "buoy"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "buoy"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "port",
+      "meaning": "порт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "port"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "port"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "port"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "port"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "port"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "port"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "port"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "storms"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "night"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "spec": 4,
+  "verb": "appear",
+  "forms": {
+    "base": [
+      {
+        "word": "appear",
+        "transcription": "[эп**и**э]"
+      }
+    ],
+    "past": [
+      {
+        "word": "appeared",
+        "transcription": "[эп**и**эд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "appeared",
+        "transcription": "[эп**и**эд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "appearing",
+        "transcription": "[эп**и**эриŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "appears",
+        "transcription": "[эп**и**эз]"
+      }
+    ]
+  },
+  "meaning": "появляться, казаться",
+  "notes": "правильный непереходный глагол; в значении «казаться» обычно описывает состояние",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "appeared",
+        "examples": [
+          {
+            "ours": "Вчера впереди появился остров.",
+            "thought": "Вчера [какой-то] остров появился впереди.",
+            "english": "Yesterday an island appeared ahead.",
+            "transcription": "[й**э**стэдэй эн **а**йлэнд эп**и**эд эх**э**д]"
+          },
+          {
+            "ours": "Маяк появился в тумане?",
+            "thought": "[Сделал] [известный] маяк появиться в [известном] тумане?",
+            "english": "Did the lighthouse appear in the fog?",
+            "transcription": "[дид ðэ л**а**йтхаус эп**и**э ин ðэ фог]"
+          },
+          {
+            "ours": "Катер не появился до рассвета.",
+            "thought": "[Известный] катер [сделал] не появиться до рассвета.",
+            "english": "The motorboat did not appear before dawn.",
+            "transcription": "[ðэ м**о**утэбоут дид нот эп**и**э биф**о**: до:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "appear, appears",
+        "examples": [
+          {
+            "ours": "Каждое утро у марины появляется дельфин.",
+            "thought": "Каждое утро [какой-то] дельфин появляется возле [известной] марины.",
+            "english": "Every morning a dolphin appears near the marina.",
+            "transcription": "[**э**ври м**о**:ниŋ э д**о**лфин эп**и**эз ниэ ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Паруса появляются на горизонте?",
+            "thought": "[Делают] паруса появляться на [известном] горизонте?",
+            "english": "Do sails appear on the horizon?",
+            "transcription": "[ду: сэйлз эп**и**э он ðэ хэр**а**йзн]"
+          },
+          {
+            "ours": "Эта бухта не кажется безопасной.",
+            "thought": "Эта бухта [делает] не казаться безопасной.",
+            "english": "This bay does not appear safe.",
+            "transcription": "[ðис бэй даз нот эп**и**э сэйф]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will appear",
+        "examples": [
+          {
+            "ours": "Скоро впереди появится маяк.",
+            "thought": "Скоро [известный] маяк будет появляться впереди.",
+            "english": "Soon the lighthouse will appear ahead.",
+            "transcription": "[су:н ðэ л**а**йтхаус wил эп**и**э эх**э**д]"
+          },
+          {
+            "ours": "Остров появится после поворота?",
+            "thought": "Будет [известный] остров появляться после [известного] поворота?",
+            "english": "Will the island appear after the turn?",
+            "transcription": "[wил ðи **а**йлэнд эп**и**э **а**:фтэ ðэ тœ:н]"
+          },
+          {
+            "ours": "Берег не появится до рассвета.",
+            "thought": "[Известный] берег будет не появляться до рассвета.",
+            "english": "The shore will not appear before dawn.",
+            "transcription": "[ðэ шо: wил нот эп**и**э биф**о**: до:н]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were appearing",
+        "examples": [
+          {
+            "ours": "Остров как раз появлялся из тумана, когда я проснулся.",
+            "thought": "[Известный] остров был появляющимся сквозь [известный] туман, когда я проснулся.",
+            "english": "The island was appearing through the fog when I woke.",
+            "transcription": "[ðи **а**йлэнд wоз эп**и**эриŋ θру: ðэ фог wэн ай wоук]"
+          },
+          {
+            "ours": "Когда ты вышел на палубу, вдали появлялись лодки?",
+            "thought": "Были лодки появляющимися в [известном] отдалении, когда ты пришёл на палубу?",
+            "english": "Were boats appearing in the distance when you came on deck?",
+            "transcription": "[wœ: боутс эп**и**эриŋ ин ðэ д**и**стэнс wэн ю: кэйм он дэк]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are appearing",
+        "examples": [
+          {
+            "ours": "Сейчас из тумана появляются огни.",
+            "thought": "Огни являются появляющимися сквозь [известный] туман сейчас.",
+            "english": "Lights are appearing through the fog now.",
+            "transcription": "[лайтс а: эп**и**эриŋ θру: ðэ фог нау]"
+          },
+          {
+            "ours": "Остров сейчас появляется впереди?",
+            "thought": "Является [известный] остров появляющимся впереди сейчас?",
+            "english": "Is the island appearing ahead now?",
+            "transcription": "[из ðи **а**йлэнд эп**и**эриŋ эх**э**д нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be appearing",
+        "examples": [
+          {
+            "ours": "Завтра утром из тумана будут постепенно появляться острова.",
+            "thought": "Завтра утром острова будут быть появляющимися сквозь [известный] туман.",
+            "english": "Tomorrow morning islands will be appearing through the fog.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ **а**йлэндз wил би: эп**и**эриŋ θру: ðэ фог]"
+          },
+          {
+            "ours": "Во время подхода будут появляться огни впереди?",
+            "thought": "Будут огни быть появляющимися впереди во время [известного] подхода?",
+            "english": "Will lights be appearing ahead during the approach?",
+            "transcription": "[wил лайтс би: эп**и**эриŋ эх**э**д дь**ю**эриŋ ðи эпр**о**уч]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had appeared",
+        "examples": [
+          {
+            "ours": "К полудню остров уже появился впереди.",
+            "thought": "К полудню [известный] остров имел уже появившимся впереди.",
+            "english": "By noon the island had already appeared ahead.",
+            "transcription": "[бай ну:н ðи **а**йлэнд хæд о:лр**э**ди эп**и**эд эх**э**д]"
+          },
+          {
+            "ours": "Маяк появился к пяти?",
+            "thought": "Имел [известный] маяк появившимся к пяти?",
+            "english": "Had the lighthouse appeared by five?",
+            "transcription": "[хæд ðэ л**а**йтхаус эп**и**эд бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has appeared",
+        "examples": [
+          {
+            "ours": "Остров уже появился впереди.",
+            "thought": "[Известный] остров имеет уже появившимся впереди.",
+            "english": "The island has already appeared ahead.",
+            "transcription": "[ðи **а**йлэнд хæз о:лр**э**ди эп**и**эд эх**э**д]"
+          },
+          {
+            "ours": "Маяк уже появился?",
+            "thought": "Имеет [известный] маяк появившимся уже?",
+            "english": "Has the lighthouse appeared yet?",
+            "transcription": "[хæз ðэ л**а**йтхаус эп**и**эд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have appeared",
+        "examples": [
+          {
+            "ours": "К полудню остров появится впереди.",
+            "thought": "К полудню [известный] остров будет иметь появившимся впереди.",
+            "english": "By noon the island will have appeared ahead.",
+            "transcription": "[бай ну:н ðи **а**йлэнд wил хæв эп**и**эд эх**э**д]"
+          },
+          {
+            "ours": "Маяк появится к пяти?",
+            "thought": "Будет [известный] маяк иметь появившимся к пяти?",
+            "english": "Will the lighthouse have appeared by five?",
+            "transcription": "[wил ðэ л**а**йтхаус хæв эп**и**эд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Единичное появление — краткий переход, а не действие, которое длится часами. Скажут: The island has appeared или Lights have been emerging from the fog."
+    }
+  },
+  "passive": {
+    "not_possible": "Appear в значениях «появляться» и «казаться» непереходный и не образует пассив. Вместо него: The island appeared ahead."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что маяк появится впереди.",
+        "thought": "Я знал, [известный] маяк будет появляться впереди.",
+        "english": "I knew the lighthouse would appear ahead.",
+        "transcription": "[ай нью: ðэ л**а**йтхаус wуд эп**и**э эх**э**д]"
+      },
+      {
+        "ours": "Она думала, что берег не появится до рассвета.",
+        "thought": "Она думала, [известный] берег будет не появляться до рассвета.",
+        "english": "She thought the shore would not appear before dawn.",
+        "transcription": "[ши: θо:т ðэ шо: wуд нот эп**и**э биф**о**: до:н]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "island"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "island"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "island"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "island"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "islands"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "island"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "island"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "lighthouse",
+      "meaning": "маяк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "lighthouse"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "lighthouse"
+        }
+      ]
+    },
+    {
+      "word": "fog",
+      "meaning": "туман",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "fog"
+        }
+      ]
+    },
+    {
+      "word": "motorboat",
+      "meaning": "катер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "motorboat"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "dawn"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "dawn"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "dolphin",
+      "meaning": "дельфин",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "dolphin"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sails"
+        }
+      ]
+    },
+    {
+      "word": "horizon",
+      "meaning": "горизонт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "horizon"
+        }
+      ]
+    },
+    {
+      "word": "bay",
+      "meaning": "бухта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "bay"
+        }
+      ]
+    },
+    {
+      "word": "turn",
+      "meaning": "поворот",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "turn"
+        }
+      ]
+    },
+    {
+      "word": "shore",
+      "meaning": "берег",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "shore"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "shore"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "boats"
+        }
+      ]
+    },
+    {
+      "word": "distance",
+      "meaning": "расстояние",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "distance"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "light",
+      "meaning": "огонь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "Lights"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "lights"
+        }
+      ]
+    },
+    {
+      "word": "approach",
+      "meaning": "подход",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "approach"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2114 @@
+{
+  "spec": 4,
+  "verb": "describe",
+  "forms": {
+    "base": [
+      {
+        "word": "describe",
+        "transcription": "[дискр**а**йб]"
+      }
+    ],
+    "past": [
+      {
+        "word": "described",
+        "transcription": "[дискр**а**йбд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "described",
+        "transcription": "[дискр**а**йбд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "describing",
+        "transcription": "[дискр**а**йбиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "describes",
+        "transcription": "[дискр**а**йбз]"
+      }
+    ]
+  },
+  "meaning": "описывать, рассказывать, называть (describe as), описывать дугу, круг",
+  "notes": "правильный переходный глагол; describe something to someone — описать что-то кому-то, а не describe someone something; describe as — описывать как, называть: The almanac describes this anchorage as sheltered; describe an arc — описать дугу, пройти дугой; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "described",
+        "examples": [
+          {
+            "ours": "Вчера штурман описал береговой охране наше положение.",
+            "thought": "Вчера [известный] штурман описал наше положение к [известной] береговой охране.",
+            "english": "Yesterday the navigator described our position to the coastguard.",
+            "transcription": "[й**э**стэдэй ðэ н**æ**вигэйтэ дискр**а**йбд ауэ пэз**и**шн ту ðэ к**о**устга:д]"
+          },
+          {
+            "ours": "Владелец не описал трещину в корпусе.",
+            "thought": "[Известный] владелец [сделал] не описывать [известную] трещину в [известном] корпусе.",
+            "english": "The owner didn't describe the crack in the hull.",
+            "transcription": "[ðи **о**унэ диднт дискр**а**йб ðэ крæк ин ðэ хал]"
+          },
+          {
+            "ours": "Ты описал механику этот странный шум?",
+            "thought": "[Сделал] ты описывать [известный] странный шум к [известному] механику?",
+            "english": "Did you describe the strange noise to the mechanic?",
+            "transcription": "[дид ю: дискр**а**йб ðэ стрэйндж нойз ту ðэ мик**æ**ник]"
+          }
+        ]
+      },
+      "present": {
+        "form": "describe, describes",
+        "examples": [
+          {
+            "ours": "В альманахе эта якорная стоянка описана как защищённая.",
+            "thought": "[Известный] альманах описывает эту якорную стоянку как защищённую.",
+            "english": "The almanac describes this anchorage as sheltered.",
+            "transcription": "[ðи **о**:лмэнæк дискр**а**йбз ðис **æ**нкэридж æз ш**э**лтэд]"
+          },
+          {
+            "ours": "В этой инструкции не описано обслуживание лебёдок.",
+            "thought": "Эта инструкция [делает] не описывать лебёдок обслуживание.",
+            "english": "This manual doesn't describe winch maintenance.",
+            "transcription": "[ðис м**æ**ньюэл дазнт дискр**а**йб wинч м**э**йнтэнэнс]"
+          },
+          {
+            "ours": "Как ты обычно описываешь яхту покупателям?",
+            "thought": "Как [делаешь] ты обычно описывать [известную] яхту к покупателям?",
+            "english": "How do you usually describe the yacht to buyers?",
+            "transcription": "[хау ду: ю: **ю**:жуэли дискр**а**йб ðэ йот ту б**а**йэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will describe",
+        "examples": [
+          {
+            "ours": "Завтра на инструктаже организаторы опишут новую стартовую линию.",
+            "thought": "Завтра [известные] организаторы будут описывать [известную] новую стартовую линию на [известном] инструктаже.",
+            "english": "Tomorrow the organisers will describe the new start line at the briefing.",
+            "transcription": "[тэм**о**роу ðи **о**:гэнайзэз wил дискр**а**йб ðэ нью: ста:т лайн æт ðэ бр**и**:фиŋ]"
+          },
+          {
+            "ours": "Она не станет описывать родителям этот случай.",
+            "thought": "Она будет не описывать [известный] случай к её родителям.",
+            "english": "She won't describe the incident to her parents.",
+            "transcription": "[ши: wоунт дискр**а**йб ðи **и**нсидэнт ту хœ: п**э**эрэнтс]"
+          },
+          {
+            "ours": "Ты опишешь страховщику повреждения?",
+            "thought": "Будешь ты описывать [известное] повреждение к [известному] страховщику?",
+            "english": "Will you describe the damage to the insurer?",
+            "transcription": "[wил ю: дискр**а**йб ðэ д**æ**мидж ту ðи инш**у**эрэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were describing",
+        "examples": [
+          {
+            "ours": "Мы описывали шкиперу течь, когда отказал насос.",
+            "thought": "Мы были описывающими [известную] течь к [известному] шкиперу, когда [известный] насос отказал.",
+            "english": "We were describing the leak to the skipper when the pump failed.",
+            "transcription": "[wи: wœ: дискр**а**йбиŋ ðэ ли:к ту ðэ ск**и**пэ wэн ðэ памп фэйлд]"
+          },
+          {
+            "ours": "Я описывал не твою лодку, а свою.",
+            "thought": "Я был не описывающим твою лодку, я был описывающим мою.",
+            "english": "I wasn't describing your boat, I was describing mine.",
+            "transcription": "[ай wознт дискр**а**йбиŋ йо: боут ай wоз дискр**а**йбиŋ майн]"
+          },
+          {
+            "ours": "Ты описывал новой команде риф, когда переменился ветер?",
+            "thought": "Был ты описывающим [известный] риф к [известному] новому экипажу, когда [известный] ветер переменился?",
+            "english": "Were you describing the reef to the new crew when the wind changed?",
+            "transcription": "[wœ: ю: дискр**а**йбиŋ ðэ ри:ф ту ðэ нью: кру: wэн ðэ wинд чэйнджд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are describing",
+        "examples": [
+          {
+            "ours": "Лоцман сейчас описывает подход к порту.",
+            "thought": "[Известный] лоцман является описывающим [известный] подход к [известному] порту сейчас.",
+            "english": "The pilot is describing the approach to the port now.",
+            "transcription": "[ðэ п**а**йлэт из дискр**а**йбиŋ ðи эпр**о**уч ту ðэ по:т нау]"
+          },
+          {
+            "ours": "Ты непонятно описываешь, что случилось с рулём.",
+            "thought": "Ты являешься не описывающим [известную] проблему с [известным] рулём ясно.",
+            "english": "You aren't describing the problem with the rudder clearly.",
+            "transcription": "[ю: а:нт дискр**а**йбиŋ ðэ пр**о**блэм wиð ðэ р**а**дэ кл**и**эли]"
+          },
+          {
+            "ours": "Ты сейчас описываешь в статье наш ночной переход?",
+            "thought": "Являешься ты описывающим наш ночной переход в твоей статье сейчас?",
+            "english": "Are you describing our night crossing in your article now?",
+            "transcription": "[а: ю: дискр**а**йбиŋ ауэ найт кр**о**сиŋ ин йо: **а**:тикл нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be describing",
+        "examples": [
+          {
+            "ours": "Завтра с десяти до двенадцати я буду описывать гостям спасательное снаряжение.",
+            "thought": "Завтра с десяти до двенадцати я буду быть описывающим [известное] безопасности снаряжение к гостям.",
+            "english": "Tomorrow from ten to twelve I will be describing the safety equipment to guests.",
+            "transcription": "[тэм**о**роу фром тэн ту тwэлв ай wил би: дискр**а**йбиŋ ðэ с**э**йфти икw**и**пмэнт ту гэстс]"
+          },
+          {
+            "ours": "Сегодня вечером в клубе мы не будем рассказывать о столкновении.",
+            "thought": "Мы будем не быть описывающими [известное] столкновение в [известном] клубе сегодня вечером.",
+            "english": "We won't be describing the collision at the club tonight.",
+            "transcription": "[wи: wоунт би: дискр**а**йбиŋ ðэ кэл**и**жн æт ðэ клаб тэн**а**йт]"
+          },
+          {
+            "ours": "Ты весь день будешь рассказывать зрителям о регате?",
+            "thought": "Будешь ты быть описывающим [известную] регату к [известным] зрителям весь день?",
+            "english": "Will you be describing the regatta to the spectators all day?",
+            "transcription": "[wил ю: би: дискр**а**йбиŋ ðэ риг**æ**тэ ту ðэ спэкт**э**йтэз о:л дэй]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had described",
+        "examples": [
+          {
+            "ours": "К полудню экипаж уже описал журналистам спасение.",
+            "thought": "К полудню [известный] экипаж имел уже описанным [известное] спасение к [известным] журналистам.",
+            "english": "By noon the crew had already described the rescue to the journalists.",
+            "transcription": "[бай ну:н ðэ кру: хæд о:лр**э**ди дискр**а**йбд ðэ р**э**скью: ту ðэ дж**œ**:нэлистс]"
+          },
+          {
+            "ours": "К пятнице мы так и не описали парусному мастеру порванный грот.",
+            "thought": "Мы всё ещё имели не описанным [известный] порванный грот к [известному] парусному мастеру к пятнице.",
+            "english": "We still hadn't described the torn mainsail to the sailmaker by Friday.",
+            "transcription": "[wи: стил хæднт дискр**а**йбд ðэ то:н м**э**йнсэйл ту ðэ с**э**йлмэйкэ бай фр**а**йдэй]"
+          },
+          {
+            "ours": "Шкипер описал тебе мель ещё до перехода?",
+            "thought": "Имел [известный] шкипер описанной [известную] мель к тебе перед [известным] переходом?",
+            "english": "Had the skipper described the sandbank to you before the passage?",
+            "transcription": "[хæд ðэ ск**и**пэ дискр**а**йбд ðэ с**æ**ндбæнк ту ю: биф**о**: ðэ п**æ**сидж]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has described",
+        "examples": [
+          {
+            "ours": "Я уже описал этот шквал в судовом журнале.",
+            "thought": "Я имею уже описанным [известный] шквал в [известном] журнале.",
+            "english": "I have already described the squall in the log.",
+            "transcription": "[ай хæв о:лр**э**ди дискр**а**йбд ðэ скwо:л ин ðэ лог]"
+          },
+          {
+            "ours": "Наш инструктор ещё не описал нам систему вахт.",
+            "thought": "Наш инструктор имеет не описанной [известную] вахтенную систему к нам ещё.",
+            "english": "Our instructor hasn't described the watch system to us yet.",
+            "transcription": "[ауэ инстр**а**ктэ хæзнт дискр**а**йбд ðэ wоч с**и**стэм ту ас йэт]"
+          },
+          {
+            "ours": "Ты описал рулевому огни того судна?",
+            "thought": "Имеешь ты описанными того судна огни к [известному] рулевому?",
+            "english": "Have you described that ship's lights to the helmsman?",
+            "transcription": "[хæв ю: дискр**а**йбд ðæт шипс лайтс ту ðэ х**э**лмзмэн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have described",
+        "examples": [
+          {
+            "ours": "К понедельнику инспектор опишет в отчёте каждый дефект.",
+            "thought": "К понедельнику [известный] инспектор будет иметь описанным каждый дефект в его отчёте.",
+            "english": "By Monday the inspector will have described every defect in his report.",
+            "transcription": "[бай м**а**ндэй ðи инсп**э**ктэ wил хæв дискр**а**йбд **э**ври д**и**:фэкт ин хиз рип**о**:т]"
+          },
+          {
+            "ours": "До обеда мы не успеем описать все путевые точки.",
+            "thought": "Мы будем не иметь описанной каждую путевую точку к обеду.",
+            "english": "We won't have described every waypoint by lunch.",
+            "transcription": "[wи: wоунт хæв дискр**а**йбд **э**ври w**э**йпойнт бай ланч]"
+          },
+          {
+            "ours": "Ты успеешь до старта описать новичкам все буи?",
+            "thought": "Будешь ты иметь описанными все [известные] буи к [известным] новичкам к [известному] старту?",
+            "english": "Will you have described all the buoys to the beginners by the start?",
+            "transcription": "[wил ю: хæв дискр**а**йбд о:л ðэ бойз ту ðэ биг**и**нэз бай ðэ ста:т]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been describing",
+        "examples": [
+          {
+            "ours": "Капитан уже два часа рассказывал о своих плаваниях, когда пришёл паром.",
+            "thought": "[Известный] капитан имел быть описывающим его плавания целых два часа, когда [известный] паром прибыл.",
+            "english": "The captain had been describing his voyages for two hours when the ferry arrived.",
+            "transcription": "[ðэ к**æ**птин хæд би:н дискр**а**йбиŋ хиз в**о**йиджиз фо: ту: **а**уэз wэн ðэ ф**э**ри эр**а**йвд]"
+          },
+          {
+            "ours": "Он долго описывал свою морскую болезнь, прежде чем на борт поднялся врач?",
+            "thought": "Имел он быть описывающим его морскую болезнь целое долго, когда [известный] врач пришёл на борт?",
+            "english": "Had he been describing his seasickness for long when the doctor came aboard?",
+            "transcription": "[хæд хи: би:н дискр**а**йбиŋ хиз с**и**:сикнэс фо: лоŋ wэн ðэ д**о**ктэ кэйм эб**о**:д]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been describing",
+        "examples": [
+          {
+            "ours": "Тренер уже сорок минут рассказывает о настройке парусов.",
+            "thought": "[Известный] тренер имеет быть описывающим парусную настройку целых сорок минут.",
+            "english": "The coach has been describing sail trim for forty minutes.",
+            "transcription": "[ðэ коуч хæз би:н дискр**а**йбиŋ сэйл трим фо: ф**о**:ти м**и**нитс]"
+          },
+          {
+            "ours": "Победитель с самого завтрака рассказывает репортёрам о гонке?",
+            "thought": "Имеет [известный] победитель быть описывающим [известную] гонку к репортёрам с завтрака?",
+            "english": "Has the winner been describing the race to reporters since breakfast?",
+            "transcription": "[хæз ðэ w**и**нэ би:н дискр**а**йбиŋ ðэ рэйс ту рип**о**:тэз синс бр**э**кфэст]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been describing",
+        "examples": [
+          {
+            "ours": "К полуночи дедушка будет рассказывать о своей первой регате уже три часа.",
+            "thought": "К полуночи мой дедушка будет иметь быть описывающим его первую регату целых три часа.",
+            "english": "By midnight my grandfather will have been describing his first regatta for three hours.",
+            "transcription": "[бай м**и**днайт май гр**æ**нфа:ðэ wил хæв би:н дискр**а**йбиŋ хиз фœ:ст риг**æ**тэ фо: θри: **а**уэз]"
+          },
+          {
+            "ours": "К ужину штурман будет рассказывать о приливах уже два часа?",
+            "thought": "Будет [известный] штурман иметь быть описывающим [известные] приливы целых два часа к ужину?",
+            "english": "Will the navigator have been describing the tides for two hours by dinner?",
+            "transcription": "[wил ðэ н**æ**вигэйтэ хæв би:н дискр**а**йбиŋ ðэ тайдз фо: ту: **а**уэз бай д**и**нэ]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were described",
+        "examples": [
+          {
+            "ours": "Этот шторм описали все газеты.",
+            "thought": "[Известный] шторм был описан в каждой газете.",
+            "english": "The storm was described in every newspaper.",
+            "transcription": "[ðэ сто:м wоз дискр**а**йбд ин **э**ври нь**ю**:зпэйпэ]"
+          },
+          {
+            "ours": "В гоночной инструкции этот штраф описан не был.",
+            "thought": "[Известный] штраф был не описан в [известных] парусных инструкциях.",
+            "english": "The penalty wasn't described in the sailing instructions.",
+            "transcription": "[ðэ п**э**нэлти wознт дискр**а**йбд ин ðэ с**э**йлиŋ инстр**а**кшнз]"
+          },
+          {
+            "ours": "Полиции описали пропавшую шлюпку?",
+            "thought": "Была [известная] пропавшая шлюпка описана к [известной] полиции?",
+            "english": "Was the missing tender described to the police?",
+            "transcription": "[wоз ðэ м**и**сиŋ т**э**ндэ дискр**а**йбд ту ðэ пэл**и**:с]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are described",
+        "examples": [
+          {
+            "ours": "На сайте марины описано каждое место у причала.",
+            "thought": "Каждое причальное место есть описано на [известном] марины сайте.",
+            "english": "Every berth is described on the marina website.",
+            "transcription": "[**э**ври бœ:θ из дискр**а**йбд он ðэ мэр**и**:нэ w**э**бсайт]"
+          },
+          {
+            "ours": "Местные течения в прогнозе не описывают.",
+            "thought": "Местные течения есть не описаны в [известном] прогнозе.",
+            "english": "Local currents aren't described in the forecast.",
+            "transcription": "[л**о**укл к**а**рэнтс а:нт дискр**а**йбд ин ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Затонувшее судно у маяка где-нибудь описано?",
+            "thought": "Есть [известное] затонувшее судно у [известного] маяка описано где-нибудь?",
+            "english": "Is the wreck by the lighthouse described anywhere?",
+            "transcription": "[из ðэ рэк бай ðэ л**а**йтхаус дискр**а**йбд **э**нивээ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be described",
+        "examples": [
+          {
+            "ours": "Новые правила швартовки расскажут на собрании шкиперов.",
+            "thought": "[Известные] новые швартовочные правила будут быть описаны на [известных] шкиперов собрании.",
+            "english": "The new mooring rules will be described at the skippers' meeting.",
+            "transcription": "[ðэ нью: м**у**эриŋ ру:лз wил би: дискр**а**йбд æт ðэ ск**и**пэз м**и**:тиŋ]"
+          },
+          {
+            "ours": "В прессе этот протест описывать не будут.",
+            "thought": "[Известный] протест будет не быть описан в [известной] прессе.",
+            "english": "The protest won't be described in the press.",
+            "transcription": "[ðэ пр**о**утэст wоунт би: дискр**а**йбд ин ðэ прэс]"
+          },
+          {
+            "ours": "Нашу лодку опишут в журнале?",
+            "thought": "Будет наша лодка быть описана в [известном] журнале?",
+            "english": "Will our boat be described in the magazine?",
+            "transcription": "[wил ауэ боут би: дискр**а**йбд ин ðэ мæгэз**и**:н]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being described",
+        "examples": [
+          {
+            "ours": "Когда пришли пассажиры, как раз рассказывали, что делать при аварии.",
+            "thought": "[Известные] аварийные процедуры были «долго» описаны, когда [известные] пассажиры прибыли.",
+            "english": "The emergency procedures were being described when the passengers arrived.",
+            "transcription": "[ðи им**œ**:джэнси прэс**и**:джэз wœ: б**и**:иŋ дискр**а**йбд wэн ðэ п**æ**синджэз эр**а**йвд]"
+          },
+          {
+            "ours": "Продавец описывал яхту нечестно.",
+            "thought": "[Известная] яхта была не «долго» описана честно от [известного] продавца.",
+            "english": "The yacht wasn't being described honestly by the seller.",
+            "transcription": "[ðэ йот wознт б**и**:иŋ дискр**а**йбд **о**нистли бай ðэ с**э**лэ]"
+          },
+          {
+            "ours": "О пожаре в марине рассказывали по радио?",
+            "thought": "Был [известный] пожар в [известной] марине «долго» описан по [известному] радио?",
+            "english": "Was the fire in the marina being described on the radio?",
+            "transcription": "[wоз ðэ файэ ин ðэ мэр**и**:нэ б**и**:иŋ дискр**а**йбд он ðэ р**э**йдиоу]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being described",
+        "examples": [
+          {
+            "ours": "Сейчас в новостях описывают ураган.",
+            "thought": "[Известный] ураган есть «долго» описан в [известных] новостях сейчас.",
+            "english": "The hurricane is being described on the news now.",
+            "transcription": "[ðэ х**а**рикэн из б**и**:иŋ дискр**а**йбд он ðэ нью:з нау]"
+          },
+          {
+            "ours": "В этих сводках не описывают реальную обстановку на море.",
+            "thought": "[Известные] реальные морские условия есть не «долго» описаны в этих сводках.",
+            "english": "The real sea conditions aren't being described in these updates.",
+            "transcription": "[ðэ риэл си: кэнд**и**шнз а:нт б**и**:иŋ дискр**а**йбд ин ðи:з **а**пдэйтс]"
+          },
+          {
+            "ours": "Спасателям сейчас описывают пропавшего водолаза?",
+            "thought": "Есть [известный] пропавший водолаз «долго» описан к [известным] спасателям сейчас?",
+            "english": "Is the missing diver being described to the rescuers now?",
+            "transcription": "[из ðэ м**и**сиŋ д**а**йвэ б**и**:иŋ дискр**а**йбд ту ðэ р**э**скью:эз нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be describing",
+        "examples": [
+          {
+            "ours": "Завтра они всё утро будут рассказывать экипажам о гоночной акватории.",
+            "thought": "Завтра они будут быть описывающими [известный] гоночный район к [известным] экипажам всё утро.",
+            "english": "Tomorrow they will be describing the race area to the crews all morning.",
+            "transcription": "[тэм**о**роу ðэй wил би: дискр**а**йбиŋ ðэ рэйс **э**эриэ ту ðэ кру:з о:л м**о**:ниŋ]"
+          },
+          {
+            "ours": "Они всю неделю будут рассказывать о новых яхтах на выставке?",
+            "thought": "Будут они быть описывающими [известные] новые яхты на [известной] выставке всю неделю?",
+            "english": "Will they be describing the new yachts at the exhibition all week?",
+            "transcription": "[wил ðэй би: дискр**а**йбиŋ ðэ нью: йотс æт ðи эксиб**и**шн о:л wи:к]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been described",
+        "examples": [
+          {
+            "ours": "К утру технику уже описали неисправность.",
+            "thought": "К утру [известная] неисправность имела быть описана к [известному] технику.",
+            "english": "By morning the fault had been described to the technician.",
+            "transcription": "[бай м**о**:ниŋ ðэ фо:лт хæд би:н дискр**а**йбд ту ðэ тэкн**и**шн]"
+          },
+          {
+            "ours": "В старом путеводителе эти скалы описаны не были.",
+            "thought": "[Известные] скалы имели не быть описаны в [известном] старом путеводителе.",
+            "english": "The rocks hadn't been described in the old guide.",
+            "transcription": "[ðэ рокс хæднт би:н дискр**а**йбд ин ðи оулд гайд]"
+          },
+          {
+            "ours": "Финишную линию описали ещё до регаты?",
+            "thought": "Имела [известная] финишная линия быть описана перед [известной] регатой?",
+            "english": "Had the finish line been described before the regatta?",
+            "transcription": "[хæд ðэ ф**и**ниш лайн би:н дискр**а**йбд биф**о**: ðэ риг**æ**тэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been described",
+        "examples": [
+          {
+            "ours": "Эту бухту описывали многие моряки.",
+            "thought": "Эта бухта имеет быть описана от многих моряков.",
+            "english": "This bay has been described by many sailors.",
+            "transcription": "[ðис бэй хæз би:н дискр**а**йбд бай м**э**ни с**э**йлэз]"
+          },
+          {
+            "ours": "Владельцу ещё не описали коррозию на мачте.",
+            "thought": "[Известная] коррозия на [известной] мачте имеет не быть описана к [известному] владельцу ещё.",
+            "english": "The corrosion on the mast hasn't been described to the owner yet.",
+            "transcription": "[ðэ кэр**о**ужн он ðэ ма:ст хæзнт би:н дискр**а**йбд ту ðи **о**унэ йэт]"
+          },
+          {
+            "ours": "Старый форт на мысе описан в твоей книге?",
+            "thought": "Имеет [известный] старый форт на [известном] мысе быть описан в твоей книге?",
+            "english": "Has the old fort on the cape been described in your book?",
+            "transcription": "[хæз ðи оулд фо:т он ðэ кэйп би:н дискр**а**йбд ин йо: бук]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been described",
+        "examples": [
+          {
+            "ours": "К воскресенью в программе будет описана каждая лодка флотилии.",
+            "thought": "К воскресенью каждая лодка в [известной] флотилии будет иметь быть описана в [известной] программе.",
+            "english": "By Sunday every boat in the fleet will have been described in the programme.",
+            "transcription": "[бай с**а**ндэй **э**ври боут ин ðэ фли:т wил хæв би:н дискр**а**йбд ин ðэ пр**о**угрæм]"
+          },
+          {
+            "ours": "К лету новые понтоны в путеводителе ещё не опишут.",
+            "thought": "[Известные] новые понтоны будут не иметь быть описаны в [известном] путеводителе к лету.",
+            "english": "The new pontoons won't have been described in the guide by summer.",
+            "transcription": "[ðэ нью: понт**у**:нз wоунт хæв би:н дискр**а**йбд ин ðэ гайд бай с**а**мэ]"
+          },
+          {
+            "ours": "К пятнице все ремонтные работы будут описаны?",
+            "thought": "Будут все [известные] ремонты иметь быть описаны к пятнице?",
+            "english": "Will all the repairs have been described by Friday?",
+            "transcription": "[wил о:л ðэ рип**э**эз хæв би:н дискр**а**йбд бай фр**а**йдэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being described` не употребляется. Вместо этого скажут: `This bay has been described.` или `They have been describing this bay for an hour.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что старый шкипер красиво опишет остров.",
+        "thought": "Я знал, [известный] старый шкипер будет описывать [известный] остров красиво.",
+        "english": "I knew the old skipper would describe the island beautifully.",
+        "transcription": "[ай нью: ðи оулд ск**и**пэ wуд дискр**а**йб ðи **а**йлэнд бь**ю**:тифли]"
+      },
+      {
+        "ours": "Он пообещал, что не станет описывать клубу наши ошибки.",
+        "thought": "Он обещал, он будет не описывать наши ошибки к [известному] клубу.",
+        "english": "He promised he wouldn't describe our mistakes to the club.",
+        "transcription": "[хи: пр**о**мист хи: wуднт дискр**а**йб ауэ мист**э**йкс ту ðэ клаб]"
+      },
+      {
+        "ours": "Рулевой сказал, что лодка обойдёт буй широкой дугой.",
+        "thought": "[Известный] рулевой сказал, [известная] лодка будет описывать [какую-то] широкую дугу вокруг [известного] буя.",
+        "english": "The helmsman said the boat would describe a wide arc around the buoy.",
+        "transcription": "[ðэ х**э**лмзмэн сэд ðэ боут wуд дискр**а**йб э wайд а:к эр**а**унд ðэ бой]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "navigator",
+      "meaning": "штурман",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "navigator"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "navigator"
+        }
+      ]
+    },
+    {
+      "word": "position",
+      "meaning": "положение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "position"
+        }
+      ]
+    },
+    {
+      "word": "coastguard",
+      "meaning": "береговая охрана",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "coastguard"
+        }
+      ]
+    },
+    {
+      "word": "owner",
+      "meaning": "владелец",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "owner"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "owner"
+        }
+      ]
+    },
+    {
+      "word": "crack",
+      "meaning": "трещина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "crack"
+        }
+      ]
+    },
+    {
+      "word": "hull",
+      "meaning": "корпус",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "hull"
+        }
+      ]
+    },
+    {
+      "word": "noise",
+      "meaning": "шум",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "noise"
+        }
+      ]
+    },
+    {
+      "word": "mechanic",
+      "meaning": "механик",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "mechanic"
+        }
+      ]
+    },
+    {
+      "word": "almanac",
+      "meaning": "альманах",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "almanac"
+        }
+      ]
+    },
+    {
+      "word": "anchorage",
+      "meaning": "якорная стоянка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "anchorage"
+        }
+      ]
+    },
+    {
+      "word": "manual",
+      "meaning": "инструкция",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "manual"
+        }
+      ]
+    },
+    {
+      "word": "winch",
+      "meaning": "лебёдка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "winch"
+        }
+      ]
+    },
+    {
+      "word": "maintenance",
+      "meaning": "обслуживание",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "maintenance"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "yachts"
+        }
+      ]
+    },
+    {
+      "word": "buyer",
+      "meaning": "покупатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "buyers"
+        }
+      ]
+    },
+    {
+      "word": "organiser",
+      "meaning": "организатор",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "organisers"
+        }
+      ]
+    },
+    {
+      "word": "start",
+      "meaning": "старт",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "start"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "start"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "линия",
+      "sense": "mark",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "line"
+        },
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "briefing",
+      "meaning": "инструктаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "briefing"
+        }
+      ]
+    },
+    {
+      "word": "incident",
+      "meaning": "случай",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "incident"
+        }
+      ]
+    },
+    {
+      "word": "parent",
+      "meaning": "родитель",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "parents"
+        }
+      ]
+    },
+    {
+      "word": "damage",
+      "meaning": "повреждение",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "damage"
+        }
+      ]
+    },
+    {
+      "word": "insurer",
+      "meaning": "страховщик",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "insurer"
+        }
+      ]
+    },
+    {
+      "word": "leak",
+      "meaning": "течь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "leak"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "skippers"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "насос",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "reef",
+      "meaning": "риф",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "reef"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "crews"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "pilot",
+      "meaning": "лоцман",
+      "sense": "harbour",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "pilot"
+        }
+      ]
+    },
+    {
+      "word": "approach",
+      "meaning": "подход",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "approach"
+        }
+      ]
+    },
+    {
+      "word": "port",
+      "meaning": "порт",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "port"
+        }
+      ]
+    },
+    {
+      "word": "problem",
+      "meaning": "проблема",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "problem"
+        }
+      ]
+    },
+    {
+      "word": "rudder",
+      "meaning": "руль",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "rudder"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "crossing",
+      "meaning": "переход",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "crossing"
+        }
+      ]
+    },
+    {
+      "word": "article",
+      "meaning": "статья",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "article"
+        }
+      ]
+    },
+    {
+      "word": "safety",
+      "meaning": "безопасность",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "safety"
+        }
+      ]
+    },
+    {
+      "word": "equipment",
+      "meaning": "снаряжение",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "equipment"
+        }
+      ]
+    },
+    {
+      "word": "guest",
+      "meaning": "гость",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "guests"
+        }
+      ]
+    },
+    {
+      "word": "collision",
+      "meaning": "столкновение",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "collision"
+        }
+      ]
+    },
+    {
+      "word": "club",
+      "meaning": "клуб",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "club"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "club"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "spectator",
+      "meaning": "зритель",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "spectators"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "rescue",
+      "meaning": "спасение",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "rescue"
+        }
+      ]
+    },
+    {
+      "word": "journalist",
+      "meaning": "журналист",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "journalists"
+        }
+      ]
+    },
+    {
+      "word": "mainsail",
+      "meaning": "грот",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "mainsail"
+        }
+      ]
+    },
+    {
+      "word": "sailmaker",
+      "meaning": "парусный мастер",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailmaker"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "Friday"
+        },
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "sandbank",
+      "meaning": "мель",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "sandbank"
+        }
+      ]
+    },
+    {
+      "word": "passage",
+      "meaning": "переход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "passage"
+        }
+      ]
+    },
+    {
+      "word": "squall",
+      "meaning": "шквал",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "squall"
+        }
+      ]
+    },
+    {
+      "word": "log",
+      "meaning": "судовой журнал",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "log"
+        }
+      ]
+    },
+    {
+      "word": "instructor",
+      "meaning": "инструктор",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "instructor"
+        }
+      ]
+    },
+    {
+      "word": "watch",
+      "meaning": "вахта",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "watch"
+        }
+      ]
+    },
+    {
+      "word": "system",
+      "meaning": "система",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "system"
+        }
+      ]
+    },
+    {
+      "word": "ship",
+      "meaning": "судно",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "ship"
+        }
+      ]
+    },
+    {
+      "word": "light",
+      "meaning": "огонь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "lights"
+        }
+      ]
+    },
+    {
+      "word": "helmsman",
+      "meaning": "рулевой",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "helmsman"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "helmsman"
+        }
+      ]
+    },
+    {
+      "word": "Monday",
+      "meaning": "понедельник",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "Monday"
+        }
+      ]
+    },
+    {
+      "word": "inspector",
+      "meaning": "инспектор",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "inspector"
+        }
+      ]
+    },
+    {
+      "word": "defect",
+      "meaning": "дефект",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "defect"
+        }
+      ]
+    },
+    {
+      "word": "report",
+      "meaning": "отчёт",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "report"
+        }
+      ]
+    },
+    {
+      "word": "waypoint",
+      "meaning": "путевая точка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "waypoint"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "meaning": "обед",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "lunch"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "meaning": "буй",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "buoys"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "buoy"
+        }
+      ]
+    },
+    {
+      "word": "beginner",
+      "meaning": "новичок",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "beginners"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "voyage",
+      "meaning": "плавание",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "voyages"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "ferry",
+      "meaning": "паром",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "ferry"
+        }
+      ]
+    },
+    {
+      "word": "seasickness",
+      "meaning": "морская болезнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "seasickness"
+        }
+      ]
+    },
+    {
+      "word": "doctor",
+      "meaning": "врач",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "doctor"
+        }
+      ]
+    },
+    {
+      "word": "coach",
+      "meaning": "тренер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "coach"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "trim",
+      "meaning": "настройка парусов",
+      "sense": "sails",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "trim"
+        }
+      ]
+    },
+    {
+      "word": "minute",
+      "meaning": "минута",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "minutes"
+        }
+      ]
+    },
+    {
+      "word": "winner",
+      "meaning": "победитель",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "winner"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "reporter",
+      "meaning": "репортёр",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "reporters"
+        }
+      ]
+    },
+    {
+      "word": "breakfast",
+      "meaning": "завтрак",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "breakfast"
+        }
+      ]
+    },
+    {
+      "word": "midnight",
+      "meaning": "полночь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "midnight"
+        }
+      ]
+    },
+    {
+      "word": "grandfather",
+      "meaning": "дедушка",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "grandfather"
+        }
+      ]
+    },
+    {
+      "word": "tide",
+      "meaning": "прилив",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "tides"
+        }
+      ]
+    },
+    {
+      "word": "dinner",
+      "meaning": "ужин",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "dinner"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "newspaper",
+      "meaning": "газета",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "newspaper"
+        }
+      ]
+    },
+    {
+      "word": "penalty",
+      "meaning": "штраф",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "penalty"
+        }
+      ]
+    },
+    {
+      "word": "sailing",
+      "meaning": "парусный спорт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sailing"
+        }
+      ]
+    },
+    {
+      "word": "instruction",
+      "meaning": "инструкция",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "instructions"
+        }
+      ]
+    },
+    {
+      "word": "tender",
+      "meaning": "шлюпка",
+      "sense": "boat",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "tender"
+        }
+      ]
+    },
+    {
+      "word": "police",
+      "meaning": "полиция",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "police"
+        }
+      ]
+    },
+    {
+      "word": "berth",
+      "meaning": "место у причала",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "berth"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.continuous.past.2",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "website",
+      "meaning": "сайт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "website"
+        }
+      ]
+    },
+    {
+      "word": "current",
+      "meaning": "течение",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "currents"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "wreck",
+      "meaning": "затонувшее судно",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "wreck"
+        }
+      ]
+    },
+    {
+      "word": "lighthouse",
+      "meaning": "маяк",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "lighthouse"
+        }
+      ]
+    },
+    {
+      "word": "mooring",
+      "meaning": "швартовка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "mooring"
+        }
+      ]
+    },
+    {
+      "word": "rule",
+      "meaning": "правило",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "rules"
+        }
+      ]
+    },
+    {
+      "word": "meeting",
+      "meaning": "собрание",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "meeting"
+        }
+      ]
+    },
+    {
+      "word": "protest",
+      "meaning": "протест",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "protest"
+        }
+      ]
+    },
+    {
+      "word": "press",
+      "meaning": "пресса",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "press"
+        }
+      ]
+    },
+    {
+      "word": "magazine",
+      "meaning": "журнал",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "magazine"
+        }
+      ]
+    },
+    {
+      "word": "emergency",
+      "meaning": "чрезвычайная ситуация",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "emergency"
+        }
+      ]
+    },
+    {
+      "word": "procedure",
+      "meaning": "процедура",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "procedures"
+        }
+      ]
+    },
+    {
+      "word": "passenger",
+      "meaning": "пассажир",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "passengers"
+        }
+      ]
+    },
+    {
+      "word": "seller",
+      "meaning": "продавец",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "seller"
+        }
+      ]
+    },
+    {
+      "word": "fire",
+      "meaning": "пожар",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.2",
+          "form": "fire"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.2",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "hurricane",
+      "meaning": "ураган",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "hurricane"
+        }
+      ]
+    },
+    {
+      "word": "news",
+      "meaning": "новости",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "news"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "condition",
+      "meaning": "условия",
+      "sense": "circumstances",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "conditions"
+        }
+      ]
+    },
+    {
+      "word": "update",
+      "meaning": "сводка",
+      "sense": "news",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "updates"
+        }
+      ]
+    },
+    {
+      "word": "diver",
+      "meaning": "водолаз",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "diver"
+        }
+      ]
+    },
+    {
+      "word": "rescuer",
+      "meaning": "спасатель",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "rescuers"
+        }
+      ]
+    },
+    {
+      "word": "area",
+      "meaning": "район",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "area"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "exhibition",
+      "meaning": "выставка",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "exhibition"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "week"
+        }
+      ]
+    },
+    {
+      "word": "fault",
+      "meaning": "неисправность",
+      "sense": "defect",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "fault"
+        }
+      ]
+    },
+    {
+      "word": "technician",
+      "meaning": "техник",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "technician"
+        }
+      ]
+    },
+    {
+      "word": "rock",
+      "meaning": "скала",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "rocks"
+        }
+      ]
+    },
+    {
+      "word": "guide",
+      "meaning": "путеводитель",
+      "sense": "book",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "guide"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "guide"
+        }
+      ]
+    },
+    {
+      "word": "finish",
+      "meaning": "финиш",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "finish"
+        }
+      ]
+    },
+    {
+      "word": "bay",
+      "meaning": "бухта",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "bay"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "sailors"
+        }
+      ]
+    },
+    {
+      "word": "corrosion",
+      "meaning": "коррозия",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "corrosion"
+        }
+      ]
+    },
+    {
+      "word": "mast",
+      "meaning": "мачта",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "mast"
+        }
+      ]
+    },
+    {
+      "word": "fort",
+      "meaning": "форт",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "fort"
+        }
+      ]
+    },
+    {
+      "word": "cape",
+      "meaning": "мыс",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "cape"
+        }
+      ]
+    },
+    {
+      "word": "book",
+      "meaning": "книга",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "book"
+        }
+      ]
+    },
+    {
+      "word": "Sunday",
+      "meaning": "воскресенье",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "Sunday"
+        }
+      ]
+    },
+    {
+      "word": "fleet",
+      "meaning": "флотилия",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "fleet"
+        }
+      ]
+    },
+    {
+      "word": "programme",
+      "meaning": "программа",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "programme"
+        }
+      ]
+    },
+    {
+      "word": "pontoon",
+      "meaning": "понтон",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "pontoons"
+        }
+      ]
+    },
+    {
+      "word": "summer",
+      "meaning": "лето",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "summer"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "repairs"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "mistake",
+      "meaning": "ошибка",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "mistakes"
+        }
+      ]
+    },
+    {
+      "word": "arc",
+      "meaning": "дуга",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "arc"
+        }
+      ]
+    }
+  ]
+}

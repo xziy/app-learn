@@ -1,0 +1,665 @@
+{
+  "spec": 4,
+  "verb": "increase",
+  "forms": {
+    "base": [
+      {
+        "word": "increase",
+        "transcription": "[инкр**и**:с]"
+      }
+    ],
+    "past": [
+      {
+        "word": "increased",
+        "transcription": "[инкр**и**:ст]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "increased",
+        "transcription": "[инкр**и**:ст]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "increasing",
+        "transcription": "[инкр**и**:сиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "increases",
+        "transcription": "[инкр**и**:сиз]"
+      }
+    ]
+  },
+  "meaning": "увеличиваться, усиливаться",
+  "notes": "правильный глагол; здесь непереходный; переходное значение «увеличивать» образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "increased",
+        "examples": [
+          {
+            "ours": "Вчера ветер усилился.",
+            "thought": "Вчера [известная] скорость ветра увеличилась.",
+            "english": "Yesterday the wind speed increased.",
+            "transcription": "[й**э**стэдэй ðэ wинд спи:д инкр**и**:ст]"
+          },
+          {
+            "ours": "Высота волн не увеличилась.",
+            "thought": "[Известная] высота волн [сделала] не увеличиваться.",
+            "english": "The wave height did not increase.",
+            "transcription": "[ðэ wэйв хайт дид нот инкр**и**:с]"
+          },
+          {
+            "ours": "Вчера ветер усилился?",
+            "thought": "[Сделала] [известная] скорость ветра увеличиваться вчера?",
+            "english": "Did the wind speed increase yesterday?",
+            "transcription": "[дид ðэ wинд спи:д инкр**и**:с й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "increase, increases",
+        "examples": [
+          {
+            "ours": "Высота волн увеличивается при сильном ветре.",
+            "thought": "[Известная] высота волн увеличивается при сильном ветре.",
+            "english": "The wave height increases in strong winds.",
+            "transcription": "[ðэ wэйв хайт инкр**и**:сиз ин строŋ wиндз]"
+          },
+          {
+            "ours": "Скорость ветра не увеличивается ночью.",
+            "thought": "[Известная] скорость ветра [делает] не увеличиваться ночью.",
+            "english": "The wind speed does not increase at night.",
+            "transcription": "[ðэ wинд спи:д даз нот инкр**и**:с æт найт]"
+          },
+          {
+            "ours": "Скорость течения увеличивается здесь?",
+            "thought": "[Делает] [известная] скорость от [известного] течения увеличиваться здесь?",
+            "english": "Does the speed of the current increase here?",
+            "transcription": "[даз ðэ спи:д ов ðэ к**а**рэнт инкр**и**:с хиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will increase",
+        "examples": [
+          {
+            "ours": "Завтра ветер усилится.",
+            "thought": "Завтра [известная] скорость ветра будет увеличиваться.",
+            "english": "Tomorrow the wind speed will increase.",
+            "transcription": "[тэм**о**роу ðэ wинд спи:д wил инкр**и**:с]"
+          },
+          {
+            "ours": "Высота волн не увеличится.",
+            "thought": "[Известная] высота волн будет не увеличиваться.",
+            "english": "The wave height will not increase.",
+            "transcription": "[ðэ wэйв хайт wил нот инкр**и**:с]"
+          },
+          {
+            "ours": "Завтра скорость течения увеличится?",
+            "thought": "Будет [известная] скорость от [известного] течения увеличиваться завтра?",
+            "english": "Will the speed of the current increase tomorrow?",
+            "transcription": "[wил ðэ спи:д ов ðэ к**а**рэнт инкр**и**:с тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were increasing",
+        "examples": [
+          {
+            "ours": "Ветер усиливался, когда мы вышли из гавани.",
+            "thought": "[Известная] скорость ветра была увеличивающейся, когда мы покинули [известную] гавань.",
+            "english": "The wind speed was increasing when we left the harbor.",
+            "transcription": "[ðэ wинд спи:д wоз инкр**и**:сиŋ wэн wи: лэфт ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Высота волн увеличивалась, когда ты позвонил?",
+            "thought": "Была [известная] высота волн увеличивающейся, когда ты позвонил?",
+            "english": "Was the wave height increasing when you called?",
+            "transcription": "[wоз ðэ wэйв хайт инкр**и**:сиŋ wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are increasing",
+        "examples": [
+          {
+            "ours": "Ветер сейчас усиливается.",
+            "thought": "[Известная] скорость ветра является увеличивающейся сейчас.",
+            "english": "The wind speed is increasing now.",
+            "transcription": "[ðэ wинд спи:д из инкр**и**:сиŋ нау]"
+          },
+          {
+            "ours": "Высота волн сейчас не увеличивается.",
+            "thought": "[Известная] высота волн является не увеличивающейся сейчас.",
+            "english": "The wave height is not increasing now.",
+            "transcription": "[ðэ wэйв хайт из нот инкр**и**:сиŋ нау]"
+          },
+          {
+            "ours": "Скорость течения сейчас увеличивается?",
+            "thought": "Является [известная] скорость от [известного] течения увеличивающейся сейчас?",
+            "english": "Is the speed of the current increasing now?",
+            "transcription": "[из ðэ спи:д ов ðэ к**а**рэнт инкр**и**:сиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be increasing",
+        "examples": [
+          {
+            "ours": "Завтра ветер будет усиливаться весь день.",
+            "thought": "Завтра [известная] скорость ветра будет быть увеличивающейся весь день.",
+            "english": "Tomorrow the wind speed will be increasing all day.",
+            "transcription": "[тэм**о**роу ðэ wинд спи:д wил би: инкр**и**:сиŋ о:л дэй]"
+          },
+          {
+            "ours": "Высота волн будет увеличиваться утром?",
+            "thought": "Будет [известная] высота волн быть увеличивающейся в [известное] утро?",
+            "english": "Will the wave height be increasing in the morning?",
+            "transcription": "[wил ðэ wэйв хайт би: инкр**и**:сиŋ ин ðэ м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had increased",
+        "examples": [
+          {
+            "ours": "К полудню ветер уже усилился.",
+            "thought": "К полудню [известная] скорость ветра имела уже увеличившейся.",
+            "english": "By noon the wind speed had already increased.",
+            "transcription": "[бай ну:н ðэ wинд спи:д хæд о:лр**э**ди инкр**и**:ст]"
+          },
+          {
+            "ours": "К тому времени высота волн ещё не увеличилась.",
+            "thought": "К тогда [известная] высота волн имела не увеличившейся ещё.",
+            "english": "By then the wave height had not increased yet.",
+            "transcription": "[бай ðэн ðэ wэйв хайт хæд нот инкр**и**:ст йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has increased",
+        "examples": [
+          {
+            "ours": "Ветер уже усилился.",
+            "thought": "[Известная] скорость ветра имеет уже увеличившейся.",
+            "english": "The wind speed has already increased.",
+            "transcription": "[ðэ wинд спи:д хæз о:лр**э**ди инкр**и**:ст]"
+          },
+          {
+            "ours": "Высота волн ещё не увеличилась.",
+            "thought": "[Известная] высота волн имеет не увеличившейся ещё.",
+            "english": "The wave height has not increased yet.",
+            "transcription": "[ðэ wэйв хайт хæз нот инкр**и**:ст йэт]"
+          },
+          {
+            "ours": "Скорость течения уже увеличилась?",
+            "thought": "Имеет [известная] скорость от [известного] течения увеличившейся уже?",
+            "english": "Has the speed of the current increased yet?",
+            "transcription": "[хæз ðэ спи:д ов ðэ к**а**рэнт инкр**и**:ст йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have increased",
+        "examples": [
+          {
+            "ours": "К полудню ветер усилится.",
+            "thought": "К полудню [известная] скорость ветра будет иметь увеличившейся.",
+            "english": "By noon the wind speed will have increased.",
+            "transcription": "[бай ну:н ðэ wинд спи:д wил хæв инкр**и**:ст]"
+          },
+          {
+            "ours": "К пяти высота волн увеличится?",
+            "thought": "Будет [известная] высота волн иметь увеличившейся к пяти?",
+            "english": "Will the wave height have increased by five?",
+            "transcription": "[wил ðэ wэйв хайт хæв инкр**и**:ст бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been increasing",
+        "examples": [
+          {
+            "ours": "Скорость ветра увеличивалась два часа, когда мы вышли.",
+            "thought": "[Известная] скорость ветра имела быть увеличивающейся целых два часа, когда мы вышли.",
+            "english": "The wind speed had been increasing for two hours when we left.",
+            "transcription": "[ðэ wинд спи:д хæд би:н инкр**и**:сиŋ фо: ту: **а**уэз wэн wи: лэфт]"
+          },
+          {
+            "ours": "Высота волн долго увеличивалась, когда ты прибыл?",
+            "thought": "Имела [известная] высота волн быть увеличивающейся долго, когда ты прибыл?",
+            "english": "Had the wave height been increasing long when you arrived?",
+            "transcription": "[хæд ðэ wэйв хайт би:н инкр**и**:сиŋ лоŋ wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been increasing",
+        "examples": [
+          {
+            "ours": "Ветер усиливается уже два часа.",
+            "thought": "[Известная] скорость ветра имеет быть увеличивающейся целых два часа.",
+            "english": "The wind speed has been increasing for two hours.",
+            "transcription": "[ðэ wинд спи:д хæз би:н инкр**и**:сиŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Высота волн увеличивается уже час?",
+            "thought": "Имеет [известная] высота волн быть увеличивающейся целый [какой-то] час?",
+            "english": "Has the wave height been increasing for an hour?",
+            "transcription": "[хæз ðэ wэйв хайт би:н инкр**и**:сиŋ фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been increasing",
+        "examples": [
+          {
+            "ours": "К пяти ветер будет усиливаться уже два часа.",
+            "thought": "К пяти [известная] скорость ветра будет иметь быть увеличивающейся целых два часа.",
+            "english": "By five the wind speed will have been increasing for two hours.",
+            "transcription": "[бай файв ðэ wинд спи:д wил хæв би:н инкр**и**:сиŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти высота волн будет увеличиваться уже час?",
+            "thought": "Будет [известная] высота волн иметь быть увеличивающейся целый [какой-то] час к пяти?",
+            "english": "Will the wave height have been increasing for an hour by five?",
+            "transcription": "[wил ðэ wэйв хайт хæв би:н инкр**и**:сиŋ фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "Здесь increase означает самостоятельное увеличение и не имеет прямого дополнения. Для переходного значения пассив возможен: Sail area was increased."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что ветер усилится.",
+        "thought": "Я знал [известная] скорость ветра будет увеличиваться.",
+        "english": "I knew the wind speed would increase.",
+        "transcription": "[ай нью: ðэ wинд спи:д wуд инкр**и**:с]"
+      },
+      {
+        "ours": "Мы думали, что высота волн не увеличится.",
+        "thought": "Мы думали [известная] высота волн будет не увеличиваться.",
+        "english": "We thought the wave height would not increase.",
+        "transcription": "[wи: θо:т ðэ wэйв хайт wуд нот инкр**и**:с]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "winds"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "speed",
+      "meaning": "скорость",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "speed"
+        }
+      ]
+    },
+    {
+      "word": "wave",
+      "meaning": "волна",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "wave"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "wave"
+        }
+      ]
+    },
+    {
+      "word": "height",
+      "meaning": "высота",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "height"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "height"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "height"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "height"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "height"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "height"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "height"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "height"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "height"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "height"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "height"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "height"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "height"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "current",
+      "meaning": "течение",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "current"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "current"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "current"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "current"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    }
+  ]
+}

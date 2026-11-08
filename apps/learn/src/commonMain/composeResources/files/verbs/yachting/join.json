@@ -1,0 +1,499 @@
+{
+  "spec": 4,
+  "verb": "join",
+  "forms": {
+    "base": [
+      {
+        "word": "join",
+        "transcription": "[джойн]"
+      }
+    ],
+    "past": [
+      {
+        "word": "joined",
+        "transcription": "[джойнд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "joined",
+        "transcription": "[джойнд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "joining",
+        "transcription": "[дж**о**йниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "joins",
+        "transcription": "[джойнз]"
+      }
+    ]
+  },
+  "meaning": "присоединяться, вступать",
+  "notes": "правильный переходный глагол, с непосредственным дополнением без предлога to",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "joined",
+        "examples": [
+          {
+            "ours": "Вчера моряк присоединился к экипажу.",
+            "thought": "Вчера [известный] моряк присоединил [известный] экипаж.",
+            "english": "Yesterday the sailor joined the crew.",
+            "transcription": "[й**э**стэдэй ðэ с**э**йлэ джойнд ðэ кру:]"
+          },
+          {
+            "ours": "Капитан присоединился к клубу вчера?",
+            "thought": "[Сделал] [известный] капитан присоединять [известный] клуб вчера?",
+            "english": "Did the skipper join the club yesterday?",
+            "transcription": "[дид ðэ ск**и**пэ джойн ðэ клаб й**э**стэдэй]"
+          },
+          {
+            "ours": "Они не присоединились к флоту.",
+            "thought": "Они [сделали] не присоединять [известный] флот.",
+            "english": "They did not join the fleet.",
+            "transcription": "[ðэй дид нот джойн ðэ фли:т]"
+          }
+        ]
+      },
+      "present": {
+        "form": "join, joins",
+        "examples": [
+          {
+            "ours": "Шкипер присоединяется к флоту.",
+            "thought": "[Известный] шкипер присоединяет [известный] флот.",
+            "english": "The captain joins the fleet.",
+            "transcription": "[ðэ к**æ**птин джойнз ðэ фли:т]"
+          },
+          {
+            "ours": "Моряк присоединяется к коллективу?",
+            "thought": "[Делает] [известный] моряк присоединять [известный] коллектив?",
+            "english": "Does the sailor join the team?",
+            "transcription": "[даз ðэ с**э**йлэ джойн ðэ ти:м]"
+          },
+          {
+            "ours": "Мы не присоединяемся к коллективу в шторм.",
+            "thought": "Мы [делаем] не присоединять [известный] коллектив в шторм.",
+            "english": "We do not join the team in storms.",
+            "transcription": "[wи: ду: нот джойн ðэ ти:м ин сто:мз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will join",
+        "examples": [
+          {
+            "ours": "Завтра моряк присоединится к экипажу.",
+            "thought": "Завтра [известный] моряк будет присоединять [известный] экипаж.",
+            "english": "Tomorrow the sailor will join the crew.",
+            "transcription": "[тэм**о**роу ðэ с**э**йлэ wил джойн ðэ кру:]"
+          },
+          {
+            "ours": "Капитан присоединится к клубу завтра?",
+            "thought": "Будет [известный] капитан присоединять [известный] клуб завтра?",
+            "english": "Will the skipper join the club tomorrow?",
+            "transcription": "[wил ðэ ск**и**пэ джойн ðэ клаб тэм**о**роу]"
+          },
+          {
+            "ours": "Она не присоединится к клубу.",
+            "thought": "Она будет не присоединять [известный] клуб.",
+            "english": "She will not join the club.",
+            "transcription": "[ши: wил нот джойн ðэ клаб]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were joining",
+        "examples": [
+          {
+            "ours": "Моряк присоединялся к экипажу, когда ты прибыл.",
+            "thought": "[Известный] моряк был присоединяющим [известный] экипаж, когда ты прибыл.",
+            "english": "The sailor was joining the crew when you arrived.",
+            "transcription": "[ðэ с**э**йлэ wоз дж**о**йниŋ ðэ кру: wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Капитан присоединялся к клубу, когда ты прибыл?",
+            "thought": "Был [известный] капитан присоединяющим [известный] клуб, когда ты прибыл?",
+            "english": "Was the skipper joining the club when you arrived?",
+            "transcription": "[wоз ðэ ск**и**пэ дж**о**йниŋ ðэ клаб wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are joining",
+        "examples": [
+          {
+            "ours": "Шкипер сейчас присоединяется к флоту.",
+            "thought": "[Известный] шкипер является присоединяющим [известный] флот сейчас.",
+            "english": "The captain is joining the fleet now.",
+            "transcription": "[ðэ к**æ**птин из дж**о**йниŋ ðэ фли:т нау]"
+          },
+          {
+            "ours": "Моряк сейчас присоединяется к коллективу?",
+            "thought": "Является [известный] моряк присоединяющим [известный] коллектив сейчас?",
+            "english": "Is the sailor joining the team now?",
+            "transcription": "[из ðэ с**э**йлэ дж**о**йниŋ ðэ ти:м нау]"
+          },
+          {
+            "ours": "Мы сейчас не присоединяемся к экипажу.",
+            "thought": "Мы являемся не присоединяющими [известный] экипаж сейчас.",
+            "english": "We are not joining the crew now.",
+            "transcription": "[wи: а: нот дж**о**йниŋ ðэ кру: нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be joining",
+        "examples": [
+          {
+            "ours": "Завтра моряк будет присоединяться к экипажу.",
+            "thought": "Завтра [известный] моряк будет быть присоединяющим [известный] экипаж.",
+            "english": "Tomorrow the sailor will be joining the crew.",
+            "transcription": "[тэм**о**роу ðэ с**э**йлэ wил би: дж**о**йниŋ ðэ кру:]"
+          },
+          {
+            "ours": "Капитан завтра будет присоединяться к клубу?",
+            "thought": "Будет [известный] капитан быть присоединяющим [известный] клуб завтра?",
+            "english": "Will the skipper be joining the club tomorrow?",
+            "transcription": "[wил ðэ ск**и**пэ би: дж**о**йниŋ ðэ клаб тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had joined",
+        "examples": [
+          {
+            "ours": "К полудню моряк присоединился к экипажу.",
+            "thought": "К полудню [известный] моряк имел присоединённым [известный] экипаж.",
+            "english": "By noon the sailor had joined the crew.",
+            "transcription": "[бай ну:н ðэ с**э**йлэ хæд джойнд ðэ кру:]"
+          },
+          {
+            "ours": "Капитан присоединился к клубу к полудню?",
+            "thought": "Имел [известный] капитан присоединённым [известный] клуб к полудню?",
+            "english": "Had the skipper joined the club by noon?",
+            "transcription": "[хæд ðэ ск**и**пэ джойнд ðэ клаб бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has joined",
+        "examples": [
+          {
+            "ours": "Шкипер уже присоединился к флоту.",
+            "thought": "[Известный] шкипер имеет уже присоединённым [известный] флот.",
+            "english": "The captain has already joined the fleet.",
+            "transcription": "[ðэ к**æ**птин хæз о:лр**э**ди джойнд ðэ фли:т]"
+          },
+          {
+            "ours": "Моряк уже присоединился к коллективу?",
+            "thought": "Имеет [известный] моряк присоединённым [известный] коллектив уже?",
+            "english": "Has the sailor joined the team yet?",
+            "transcription": "[хæз ðэ с**э**йлэ джойнд ðэ ти:м йэт]"
+          },
+          {
+            "ours": "Она ещё не присоединилась к клубу.",
+            "thought": "Она имеет не присоединённым [известный] клуб ещё.",
+            "english": "She has not joined the club yet.",
+            "transcription": "[ши: хæз нот джойнд ðэ клаб йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have joined",
+        "examples": [
+          {
+            "ours": "К пяти моряк присоединится к экипажу.",
+            "thought": "К пяти [известный] моряк будет иметь присоединённым [известный] экипаж.",
+            "english": "By five the sailor will have joined the crew.",
+            "transcription": "[бай файв ðэ с**э**йлэ wил хæв джойнд ðэ кру:]"
+          },
+          {
+            "ours": "Капитан присоединится к клубу к пяти?",
+            "thought": "Будет [известный] капитан иметь присоединённым [известный] клуб к пяти?",
+            "english": "Will the skipper have joined the club by five?",
+            "transcription": "[wил ðэ ск**и**пэ хæв джойнд ðэ клаб бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для однократного вступления в команду длительный perfect обычно не употребляют: The sailor has joined the crew. При повторяющихся присоединениях форма возможна."
+    }
+  },
+  "passive": {
+    "not_possible": "Для joining в значении вступления в коллектив чаще используют актив: The sailor joined the crew. Пассив с указанным участником возможен: The crew was joined by a sailor."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что капитан присоединится к клубу.",
+        "thought": "Я знал [известный] капитан будет присоединять [известный] клуб.",
+        "english": "I knew the skipper would join the club.",
+        "transcription": "[ай нью: ðэ ск**и**пэ wуд джойн ðэ клаб]"
+      },
+      {
+        "ours": "Мы думали, что моряк не присоединится к экипажу.",
+        "thought": "Мы думали [известный] моряк будет не присоединять [известный] экипаж.",
+        "english": "We thought the sailor would not join the crew.",
+        "transcription": "[wи: θо:т ðэ с**э**йлэ wуд нот джойн ðэ кру:]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "club",
+      "meaning": "клуб",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "club"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "club"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "club"
+        }
+      ]
+    },
+    {
+      "word": "fleet",
+      "meaning": "флот",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "fleet"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "fleet"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "team",
+      "meaning": "команда",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "team"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "team"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "team"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "team"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "storms"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    }
+  ]
+}

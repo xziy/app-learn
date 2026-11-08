@@ -1,0 +1,879 @@
+{
+  "spec": 4,
+  "verb": "buy",
+  "forms": {
+    "base": [
+      {
+        "word": "buy",
+        "transcription": "[бай]"
+      }
+    ],
+    "past": [
+      {
+        "word": "bought",
+        "transcription": "[бо:т]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "bought",
+        "transcription": "[бо:т]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "buying",
+        "transcription": "[б**а**йиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "buys",
+        "transcription": "[байз]"
+      }
+    ]
+  },
+  "meaning": "покупать",
+  "notes": "неправильный переходный глагол; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "bought",
+        "examples": [
+          {
+            "ours": "Вчера я купил карту.",
+            "thought": "Вчера я купил [какую-то] карту.",
+            "english": "Yesterday I bought a chart.",
+            "transcription": "[й**э**стэдэй ай бо:т э ча:т]"
+          },
+          {
+            "ours": "Ты купил спасательный жилет?",
+            "thought": "[Сделал] ты покупать [известный] спасательный жилет?",
+            "english": "Did you buy the life jacket?",
+            "transcription": "[дид ю: бай ðэ лайф дж**æ**кит]"
+          },
+          {
+            "ours": "Она не купила якорь.",
+            "thought": "Она [сделала] не покупать [известный] якорь.",
+            "english": "She did not buy the anchor.",
+            "transcription": "[ши: дид нот бай ðи **æ**нкэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "buy, buys",
+        "examples": [
+          {
+            "ours": "Шкипер покупает топливо в марине.",
+            "thought": "[Известный] шкипер покупает топливо в [известной] марине.",
+            "english": "The skipper buys fuel at the marina.",
+            "transcription": "[ðэ ск**и**пэ байз фь**ю**:эл æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Ты покупаешь карты перед плаванием?",
+            "thought": "[Делаешь] ты покупать карты до [известного] плавания?",
+            "english": "Do you buy charts before the voyage?",
+            "transcription": "[ду: ю: бай ча:тс биф**о**: ðэ в**о**йидж]"
+          },
+          {
+            "ours": "Мы не покупаем воду в порту.",
+            "thought": "Мы [делаем] не покупать воду в [известном] порту.",
+            "english": "We do not buy water in the port.",
+            "transcription": "[wи: ду: нот бай w**о**:тэ ин ðэ по:т]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will buy",
+        "examples": [
+          {
+            "ours": "Завтра мы купим новый парус.",
+            "thought": "Завтра мы будем покупать [какой-то] новый парус.",
+            "english": "Tomorrow we will buy a new sail.",
+            "transcription": "[тэм**о**роу wи: wил бай э нью: сэйл]"
+          },
+          {
+            "ours": "Ты купишь карту?",
+            "thought": "Будешь ты покупать [известную] карту?",
+            "english": "Will you buy the chart?",
+            "transcription": "[wил ю: бай ðэ ча:т]"
+          },
+          {
+            "ours": "Она не купит эту лодку.",
+            "thought": "Она будет не покупать эту лодку.",
+            "english": "She will not buy this boat.",
+            "transcription": "[ши: wил нот бай ðис боут]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were buying",
+        "examples": [
+          {
+            "ours": "Вчера утром мы покупали припасы.",
+            "thought": "Вчера утром мы были покупающими припасы.",
+            "english": "Yesterday morning we were buying supplies.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: б**а**йиŋ сэпл**а**йз]"
+          },
+          {
+            "ours": "Ты покупал топливо, когда я позвонил?",
+            "thought": "Был ты покупающим топливо, когда я позвонил?",
+            "english": "Were you buying fuel when I called?",
+            "transcription": "[wœ: ю: б**а**йиŋ фь**ю**:эл wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are buying",
+        "examples": [
+          {
+            "ours": "Мы сейчас покупаем припасы.",
+            "thought": "Мы являемся покупающими припасы сейчас.",
+            "english": "We are buying supplies now.",
+            "transcription": "[wи: а: б**а**йиŋ сэпл**а**йз нау]"
+          },
+          {
+            "ours": "Шкипер сейчас покупает топливо?",
+            "thought": "Является [известный] шкипер покупающим топливо сейчас?",
+            "english": "Is the skipper buying fuel now?",
+            "transcription": "[из ðэ ск**и**пэ б**а**йиŋ фь**ю**:эл нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be buying",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем покупать припасы.",
+            "thought": "Завтра утром мы будем быть покупающими припасы.",
+            "english": "Tomorrow morning we will be buying supplies.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: б**а**йиŋ сэпл**а**йз]"
+          },
+          {
+            "ours": "Ты будешь покупать топливо перед отходом?",
+            "thought": "Будешь ты быть покупающим топливо до отхода?",
+            "english": "Will you be buying fuel before departure?",
+            "transcription": "[wил ю: би: б**а**йиŋ фь**ю**:эл биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had bought",
+        "examples": [
+          {
+            "ours": "К полудню мы уже купили карту.",
+            "thought": "К полудню мы имели уже купленной [известную] карту.",
+            "english": "By noon we had already bought the chart.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди бо:т ðэ ча:т]"
+          },
+          {
+            "ours": "Ты купил топливо до отхода?",
+            "thought": "Имел ты купленным топливо до отхода?",
+            "english": "Had you bought fuel before departure?",
+            "transcription": "[хæд ю: бо:т фь**ю**:эл биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has bought",
+        "examples": [
+          {
+            "ours": "Мы уже купили якорь.",
+            "thought": "Мы имеем уже купленным [известный] якорь.",
+            "english": "We have already bought the anchor.",
+            "transcription": "[wи: хæв о:лр**э**ди бо:т ðи **æ**нкэ]"
+          },
+          {
+            "ours": "Ты уже купил карту?",
+            "thought": "Имеешь ты купленной [известную] карту уже?",
+            "english": "Have you bought the chart yet?",
+            "transcription": "[хæв ю: бо:т ðэ ча:т йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have bought",
+        "examples": [
+          {
+            "ours": "К полудню мы купим топливо.",
+            "thought": "К полудню мы будем иметь купленным топливо.",
+            "english": "By noon we will have bought fuel.",
+            "transcription": "[бай ну:н wи: wил хæв бо:т фь**ю**:эл]"
+          },
+          {
+            "ours": "Ты купишь карту к пяти?",
+            "thought": "Будешь ты иметь купленной [известную] карту к пяти?",
+            "english": "Will you have bought the chart by five?",
+            "transcription": "[wил ю: хæв бо:т ðэ ча:т бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been buying",
+        "examples": [
+          {
+            "ours": "Компания покупала лодки десять лет до закрытия.",
+            "thought": "[Известная] компания имела быть покупающей лодки целых десять лет до закрытия.",
+            "english": "The company had been buying boats for ten years before closing.",
+            "transcription": "[ðэ к**а**мпэни хæд би:н б**а**йиŋ боутс фо: тэн йиэз биф**о**: кл**о**узиŋ]"
+          },
+          {
+            "ours": "Ты покупал топливо здесь пять лет до переезда?",
+            "thought": "Имел ты быть покупающим топливо здесь целых пять лет до переезда?",
+            "english": "Had you been buying fuel here for five years before moving?",
+            "transcription": "[хæд ю: би:н б**а**йиŋ фь**ю**:эл хиэ фо: файв йиэз биф**о**: м**у**:виŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been buying",
+        "examples": [
+          {
+            "ours": "Компания покупает лодки уже десять лет.",
+            "thought": "[Известная] компания имеет быть покупающей лодки целых десять лет.",
+            "english": "The company has been buying boats for ten years.",
+            "transcription": "[ðэ к**а**мпэни хæз би:н б**а**йиŋ боутс фо: тэн йиэз]"
+          },
+          {
+            "ours": "Ты покупаешь топливо здесь уже пять лет?",
+            "thought": "Имеешь ты быть покупающим топливо здесь целых пять лет?",
+            "english": "Have you been buying fuel here for five years?",
+            "transcription": "[хæв ю: би:н б**а**йиŋ фь**ю**:эл хиэ фо: файв йиэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been buying",
+        "examples": [
+          {
+            "ours": "К июню компания будет покупать лодки уже десять лет.",
+            "thought": "К июню [известная] компания будет иметь быть покупающей лодки целых десять лет.",
+            "english": "By June the company will have been buying boats for ten years.",
+            "transcription": "[бай джу:н ðэ к**а**мпэни wил хæв би:н б**а**йиŋ боутс фо: тэн йиэз]"
+          },
+          {
+            "ours": "К маю ты будешь покупать топливо здесь уже пять лет?",
+            "thought": "Будешь ты иметь быть покупающим топливо здесь целых пять лет к маю?",
+            "english": "Will you have been buying fuel here for five years by May?",
+            "transcription": "[wил ю: хæв би:н б**а**йиŋ фь**ю**:эл хиэ фо: файв йиэз бай мэй]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were bought",
+        "examples": [
+          {
+            "ours": "Карту купили вчера.",
+            "thought": "[Известная] карта была куплена вчера.",
+            "english": "The chart was bought yesterday.",
+            "transcription": "[ðэ ча:т wоз бо:т й**э**стэдэй]"
+          },
+          {
+            "ours": "Жилеты купили до отхода?",
+            "thought": "Были [известные] спасательные жилеты куплены до отхода?",
+            "english": "Were the life jackets bought before departure?",
+            "transcription": "[wœ: ðэ лайф дж**æ**китс бо:т биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are bought",
+        "examples": [
+          {
+            "ours": "Топливо покупают в марине.",
+            "thought": "Топливо есть куплено в [известной] марине.",
+            "english": "Fuel is bought at the marina.",
+            "transcription": "[фь**ю**:эл из бо:т æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Карты покупают перед плаванием?",
+            "thought": "Есть карты куплены до [известного] плавания?",
+            "english": "Are charts bought before the voyage?",
+            "transcription": "[а: ча:тс бо:т биф**о**: ðэ в**о**йидж]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be bought",
+        "examples": [
+          {
+            "ours": "Парус купят завтра.",
+            "thought": "[Известный] парус будет быть куплен завтра.",
+            "english": "The sail will be bought tomorrow.",
+            "transcription": "[ðэ сэйл wил би: бо:т тэм**о**роу]"
+          },
+          {
+            "ours": "Карту купят до отплытия?",
+            "thought": "Будет [известная] карта быть куплена до отхода?",
+            "english": "Will the chart be bought before departure?",
+            "transcription": "[wил ðэ ча:т би: бо:т биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being bought",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, покупали припасы.",
+            "thought": "Припасы были «долго» куплены, когда я прибыл.",
+            "english": "Supplies were being bought when I arrived.",
+            "transcription": "[сэпл**а**йз wœ: б**и**:иŋ бо:т wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, покупали карты?",
+            "thought": "Были [известные] карты «долго» куплены, когда ты позвонил?",
+            "english": "Were the charts being bought when you called?",
+            "transcription": "[wœ: ðэ ча:тс б**и**:иŋ бо:т wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being bought",
+        "examples": [
+          {
+            "ours": "Припасы сейчас покупают.",
+            "thought": "Припасы есть «долго» куплены сейчас.",
+            "english": "Supplies are being bought now.",
+            "transcription": "[сэпл**а**йз а: б**и**:иŋ бо:т нау]"
+          },
+          {
+            "ours": "Карты сейчас покупают?",
+            "thought": "Есть [известные] карты «долго» куплены сейчас?",
+            "english": "Are the charts being bought now?",
+            "transcription": "[а: ðэ ча:тс б**и**:иŋ бо:т нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be buying",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут покупать припасы.",
+            "thought": "Завтра утром они будут быть покупающими припасы.",
+            "english": "Tomorrow morning they will be buying supplies.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: б**а**йиŋ сэпл**а**йз]"
+          },
+          {
+            "ours": "Они будут покупать топливо перед отходом?",
+            "thought": "Будут они быть покупающими топливо до отхода?",
+            "english": "Will they be buying fuel before departure?",
+            "transcription": "[wил ðэй би: б**а**йиŋ фь**ю**:эл биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been bought",
+        "examples": [
+          {
+            "ours": "К полудню карту уже купили.",
+            "thought": "К полудню [известная] карта имела уже быть куплена.",
+            "english": "By noon the chart had already been bought.",
+            "transcription": "[бай ну:н ðэ ча:т хæд о:лр**э**ди би:н бо:т]"
+          },
+          {
+            "ours": "Жилеты купили до отхода?",
+            "thought": "Имели [известные] спасательные жилеты быть куплены до отхода?",
+            "english": "Had the life jackets been bought before departure?",
+            "transcription": "[хæд ðэ лайф дж**æ**китс би:н бо:т биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been bought",
+        "examples": [
+          {
+            "ours": "Якорь уже купили.",
+            "thought": "[Известный] якорь имеет уже быть куплен.",
+            "english": "The anchor has already been bought.",
+            "transcription": "[ðи **æ**нкэ хæз о:лр**э**ди би:н бо:т]"
+          },
+          {
+            "ours": "Карты уже купили?",
+            "thought": "Имеют [известные] карты быть куплены уже?",
+            "english": "Have the charts been bought yet?",
+            "transcription": "[хæв ðэ ча:тс би:н бо:т йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been bought",
+        "examples": [
+          {
+            "ours": "К полудню карту купят.",
+            "thought": "К полудню [известная] карта будет иметь быть куплена.",
+            "english": "By noon the chart will have been bought.",
+            "transcription": "[бай ну:н ðэ ча:т wил хæв би:н бо:т]"
+          },
+          {
+            "ours": "Якорь купят к пяти?",
+            "thought": "Будет [известный] якорь иметь быть куплен к пяти?",
+            "english": "Will the anchor have been bought by five?",
+            "transcription": "[wил ðи **æ**нкэ хæв би:н бо:т бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been buying boats for years."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они купят парус.",
+        "thought": "Я знал, они будут покупать [известный] парус.",
+        "english": "I knew they would buy the sail.",
+        "transcription": "[ай нью: ðэй wуд бай ðэ сэйл]"
+      },
+      {
+        "ours": "Она думала, что мы не купим эту лодку.",
+        "thought": "Она думала, мы будем не покупать эту лодку.",
+        "english": "She thought we would not buy this boat.",
+        "transcription": "[ши: θо:т wи: wуд нот бай ðис боут]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "life jacket",
+      "meaning": "спасательный жилет",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "life jacket"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "life jackets"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "fuel",
+      "meaning": "топливо",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Fuel"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "fuel"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "voyage",
+      "meaning": "плавание",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "voyage"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "voyage"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "port",
+      "meaning": "порт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "port"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "boats"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "supply",
+      "meaning": "припасы",
+      "sense": "stock",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "supplies"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Supplies"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Supplies"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "supplies"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "company",
+      "meaning": "компания",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "company"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "company"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "company"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "May",
+      "meaning": "май",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "May"
+        }
+      ]
+    }
+  ]
+}

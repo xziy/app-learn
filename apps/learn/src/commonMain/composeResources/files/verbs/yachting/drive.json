@@ -1,0 +1,896 @@
+{
+  "spec": 4,
+  "verb": "drive",
+  "forms": {
+    "base": [
+      {
+        "word": "drive",
+        "transcription": "[драйв]"
+      }
+    ],
+    "past": [
+      {
+        "word": "drove",
+        "transcription": "[дроув]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "driven",
+        "transcription": "[др**и**вн]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "driving",
+        "transcription": "[др**а**йвиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "drives",
+        "transcription": "[драйвз]"
+      }
+    ]
+  },
+  "meaning": "управлять моторной лодкой, приводить в движение",
+  "notes": "неправильный переходный глагол; drive a motorboat — управлять моторной лодкой, drive a propeller — приводить винт в движение; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "drove",
+        "examples": [
+          {
+            "ours": "Вчера я управлял катером.",
+            "thought": "Вчера я управлял [известным] катером.",
+            "english": "Yesterday I drove the motorboat.",
+            "transcription": "[й**э**стэдэй ай дроув ðэ м**о**утэбоут]"
+          },
+          {
+            "ours": "Ты управлял лодкой?",
+            "thought": "[Сделал] ты управлять [известной] лодкой?",
+            "english": "Did you drive the boat?",
+            "transcription": "[дид ю: драйв ðэ боут]"
+          },
+          {
+            "ours": "Она не управляла катером.",
+            "thought": "Она [сделала] не управлять [известным] катером.",
+            "english": "She did not drive the motorboat.",
+            "transcription": "[ши: дид нот драйв ðэ м**о**утэбоут]"
+          }
+        ]
+      },
+      "present": {
+        "form": "drive, drives",
+        "examples": [
+          {
+            "ours": "Двигатель приводит винт в движение.",
+            "thought": "[Известный] двигатель приводит в движение [известный] винт.",
+            "english": "The engine drives the propeller.",
+            "transcription": "[ðи **э**нджин драйвз ðэ прэп**э**лэ]"
+          },
+          {
+            "ours": "Ты управляешь катером?",
+            "thought": "[Делаешь] ты управлять [известным] катером?",
+            "english": "Do you drive the motorboat?",
+            "transcription": "[ду: ю: драйв ðэ м**о**утэбоут]"
+          },
+          {
+            "ours": "Мы не управляем лодкой ночью.",
+            "thought": "Мы [делаем] не управлять [известной] лодкой в ночь.",
+            "english": "We do not drive the boat at night.",
+            "transcription": "[wи: ду: нот драйв ðэ боут æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will drive",
+        "examples": [
+          {
+            "ours": "Завтра я поведу катер.",
+            "thought": "Завтра я буду управлять [известным] катером.",
+            "english": "Tomorrow I will drive the motorboat.",
+            "transcription": "[тэм**о**роу ай wил драйв ðэ м**о**утэбоут]"
+          },
+          {
+            "ours": "Ты поведёшь лодку?",
+            "thought": "Будешь ты управлять [известной] лодкой?",
+            "english": "Will you drive the boat?",
+            "transcription": "[wил ю: драйв ðэ боут]"
+          },
+          {
+            "ours": "Она не поведёт катер сегодня.",
+            "thought": "Она будет не управлять [известным] катером сегодня.",
+            "english": "She will not drive the motorboat today.",
+            "transcription": "[ши: wил нот драйв ðэ м**о**утэбоут тэд**э**й]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were driving",
+        "examples": [
+          {
+            "ours": "Вчера утром мы вели катер.",
+            "thought": "Вчера утром мы были управляющими [известным] катером.",
+            "english": "Yesterday morning we were driving the motorboat.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: др**а**йвиŋ ðэ м**о**утэбоут]"
+          },
+          {
+            "ours": "Ты вёл лодку, когда я позвонил?",
+            "thought": "Был ты управляющим [известной] лодкой, когда я позвонил?",
+            "english": "Were you driving the boat when I called?",
+            "transcription": "[wœ: ю: др**а**йвиŋ ðэ боут wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are driving",
+        "examples": [
+          {
+            "ours": "Мы сейчас ведём катер.",
+            "thought": "Мы являемся управляющими [известным] катером сейчас.",
+            "english": "We are driving the motorboat now.",
+            "transcription": "[wи: а: др**а**йвиŋ ðэ м**о**утэбоут нау]"
+          },
+          {
+            "ours": "Шкипер сейчас управляет лодкой?",
+            "thought": "Является [известный] шкипер управляющим [известной] лодкой сейчас?",
+            "english": "Is the skipper driving the boat now?",
+            "transcription": "[из ðэ ск**и**пэ др**а**йвиŋ ðэ боут нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be driving",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем вести катер.",
+            "thought": "Завтра утром мы будем быть управляющими [известным] катером.",
+            "english": "Tomorrow morning we will be driving the motorboat.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: др**а**йвиŋ ðэ м**о**утэбоут]"
+          },
+          {
+            "ours": "Ты будешь вести лодку вечером?",
+            "thought": "Будешь ты быть управляющим [известной] лодкой этот вечер?",
+            "english": "Will you be driving the boat this evening?",
+            "transcription": "[wил ю: би: др**а**йвиŋ ðэ боут ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had driven",
+        "examples": [
+          {
+            "ours": "К полудню я уже провёл катер через канал.",
+            "thought": "К полудню я имел уже управляемым [известный] катер через [известный] канал.",
+            "english": "By noon I had already driven the motorboat through the channel.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди др**и**вн ðэ м**о**утэбоут θру: ðэ ч**æ**нл]"
+          },
+          {
+            "ours": "Ты провёл лодку через канал до заката?",
+            "thought": "Имел ты управляемой [известную] лодку через [известный] канал до заката?",
+            "english": "Had you driven the boat through the channel before sunset?",
+            "transcription": "[хæд ю: др**и**вн ðэ боут θру: ðэ ч**æ**нл биф**о**: с**а**нсэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has driven",
+        "examples": [
+          {
+            "ours": "Я уже управлял этим катером.",
+            "thought": "Я имею уже управляемым этот катер.",
+            "english": "I have already driven this motorboat.",
+            "transcription": "[ай хæв о:лр**э**ди др**и**вн ðис м**о**утэбоут]"
+          },
+          {
+            "ours": "Ты уже управлял этой лодкой?",
+            "thought": "Имеешь ты управляемой эту лодку уже?",
+            "english": "Have you driven this boat yet?",
+            "transcription": "[хæв ю: др**и**вн ðис боут йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have driven",
+        "examples": [
+          {
+            "ours": "К полудню я проведу катер через канал.",
+            "thought": "К полудню я буду иметь управляемым [известный] катер через [известный] канал.",
+            "english": "By noon I will have driven the motorboat through the channel.",
+            "transcription": "[бай ну:н ай wил хæв др**и**вн ðэ м**о**утэбоут θру: ðэ ч**æ**нл]"
+          },
+          {
+            "ours": "Ты проведёшь лодку через канал к пяти?",
+            "thought": "Будешь ты иметь управляемой [известную] лодку через [известный] канал к пяти?",
+            "english": "Will you have driven the boat through the channel by five?",
+            "transcription": "[wил ю: хæв др**и**вн ðэ боут θру: ðэ ч**æ**нл бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been driving",
+        "examples": [
+          {
+            "ours": "Мы вели катер час, когда усилился ветер.",
+            "thought": "Мы имели быть управляющими [известным] катером целый [какой-то] час, когда [известный] ветер усилился.",
+            "english": "We had been driving the motorboat for an hour when the wind increased.",
+            "transcription": "[wи: хæд би:н др**а**йвиŋ ðэ м**о**утэбоут фо: эн **а**уэ wэн ðэ wинд инкр**и**:ст]"
+          },
+          {
+            "ours": "Ты управлял лодкой два часа до заката?",
+            "thought": "Имел ты быть управляющим [известной] лодкой целых два часа до заката?",
+            "english": "Had you been driving the boat for two hours before sunset?",
+            "transcription": "[хæд ю: би:н др**а**йвиŋ ðэ боут фо: ту: **а**уэз биф**о**: с**а**нсэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been driving",
+        "examples": [
+          {
+            "ours": "Мы ведём катер уже час.",
+            "thought": "Мы имеем быть управляющими [известным] катером целый [какой-то] час.",
+            "english": "We have been driving the motorboat for an hour.",
+            "transcription": "[wи: хæв би:н др**а**йвиŋ ðэ м**о**утэбоут фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты ведёшь лодку уже два часа?",
+            "thought": "Имеешь ты быть управляющим [известной] лодкой целых два часа?",
+            "english": "Have you been driving the boat for two hours?",
+            "transcription": "[хæв ю: би:н др**а**йвиŋ ðэ боут фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been driving",
+        "examples": [
+          {
+            "ours": "К пяти мы будем вести катер уже два часа.",
+            "thought": "К пяти мы будем иметь быть управляющими [известным] катером целых два часа.",
+            "english": "By five we will have been driving the motorboat for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н др**а**йвиŋ ðэ м**о**утэбоут фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь вести лодку уже час?",
+            "thought": "Будешь ты иметь быть управляющим [известной] лодкой целый [какой-то] час к полудню?",
+            "english": "Will you have been driving the boat for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н др**а**йвиŋ ðэ боут фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were driven",
+        "examples": [
+          {
+            "ours": "Катером управлял шкипер.",
+            "thought": "[Известный] катер был управляем от [известного] шкипера.",
+            "english": "The motorboat was driven by the skipper.",
+            "transcription": "[ðэ м**о**утэбоут wоз др**и**вн бай ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Винт приводился в движение двигателем?",
+            "thought": "Был [известный] винт приводим в движение от [известного] двигателя?",
+            "english": "Was the propeller driven by the engine?",
+            "transcription": "[wоз ðэ прэп**э**лэ др**и**вн бай ðи **э**нджин]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are driven",
+        "examples": [
+          {
+            "ours": "Винт приводится в движение двигателем.",
+            "thought": "[Известный] винт есть приводим в движение от [известного] двигателя.",
+            "english": "The propeller is driven by the engine.",
+            "transcription": "[ðэ прэп**э**лэ из др**и**вн бай ðи **э**нджин]"
+          },
+          {
+            "ours": "Эти катера приводятся в движение электрическими моторами?",
+            "thought": "Есть эти катера приводимы в движение от электрических моторов?",
+            "english": "Are these boats driven by electric motors?",
+            "transcription": "[а: ðи:з боутс др**и**вн бай ил**э**ктрик м**о**утэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be driven",
+        "examples": [
+          {
+            "ours": "Завтра катером будет управлять шкипер.",
+            "thought": "[Известный] катер будет быть управляем от [известного] шкипера завтра.",
+            "english": "The motorboat will be driven by the skipper tomorrow.",
+            "transcription": "[ðэ м**о**утэбоут wил би: др**и**вн бай ðэ ск**и**пэ тэм**о**роу]"
+          },
+          {
+            "ours": "Лодкой будет управлять шкипер?",
+            "thought": "Будет [известная] лодка быть управляема от [известного] шкипера?",
+            "english": "Will the boat be driven by the skipper?",
+            "transcription": "[wил ðэ боут би: др**и**вн бай ðэ ск**и**пэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being driven",
+        "examples": [
+          {
+            "ours": "Когда я прибыл, катером управлял шкипер.",
+            "thought": "[Известный] катер был «долго» управляем от [известного] шкипера, когда я прибыл.",
+            "english": "The motorboat was being driven by the skipper when I arrived.",
+            "transcription": "[ðэ м**о**утэбоут wоз б**и**:иŋ др**и**вн бай ðэ ск**и**пэ wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, лодкой управлял шкипер?",
+            "thought": "Была [известная] лодка «долго» управляема от [известного] шкипера, когда ты позвонил?",
+            "english": "Was the boat being driven by the skipper when you called?",
+            "transcription": "[wоз ðэ боут б**и**:иŋ др**и**вн бай ðэ ск**и**пэ wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being driven",
+        "examples": [
+          {
+            "ours": "Сейчас катером управляет шкипер.",
+            "thought": "[Известный] катер есть «долго» управляем от [известного] шкипера сейчас.",
+            "english": "The motorboat is being driven by the skipper now.",
+            "transcription": "[ðэ м**о**утэбоут из б**и**:иŋ др**и**вн бай ðэ ск**и**пэ нау]"
+          },
+          {
+            "ours": "Лодкой сейчас управляет шкипер?",
+            "thought": "Есть [известная] лодка «долго» управляема от [известного] шкипера сейчас?",
+            "english": "Is the boat being driven by the skipper now?",
+            "transcription": "[из ðэ боут б**и**:иŋ др**и**вн бай ðэ ск**и**пэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be driving",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут вести катер.",
+            "thought": "Завтра утром они будут быть управляющими [известным] катером.",
+            "english": "Tomorrow morning they will be driving the motorboat.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: др**а**йвиŋ ðэ м**о**утэбоут]"
+          },
+          {
+            "ours": "Они будут вести лодку вечером?",
+            "thought": "Будут они быть управляющими [известной] лодкой этот вечер?",
+            "english": "Will they be driving the boat this evening?",
+            "transcription": "[wил ðэй би: др**а**йвиŋ ðэ боут ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been driven",
+        "examples": [
+          {
+            "ours": "К полудню катер уже провели через канал.",
+            "thought": "К полудню [известный] катер имел уже быть управляем через [известный] канал.",
+            "english": "By noon the motorboat had already been driven through the channel.",
+            "transcription": "[бай ну:н ðэ м**о**утэбоут хæд о:лр**э**ди би:н др**и**вн θру: ðэ ч**æ**нл]"
+          },
+          {
+            "ours": "Лодку провели через канал до заката?",
+            "thought": "Имела [известная] лодка быть управляема через [известный] канал до заката?",
+            "english": "Had the boat been driven through the channel before sunset?",
+            "transcription": "[хæд ðэ боут би:н др**и**вн θру: ðэ ч**æ**нл биф**о**: с**а**нсэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been driven",
+        "examples": [
+          {
+            "ours": "Катер уже провели через канал.",
+            "thought": "[Известный] катер имеет уже быть управляем через [известный] канал.",
+            "english": "The motorboat has already been driven through the channel.",
+            "transcription": "[ðэ м**о**утэбоут хæз о:лр**э**ди би:н др**и**вн θру: ðэ ч**æ**нл]"
+          },
+          {
+            "ours": "Лодку уже провели через канал?",
+            "thought": "Имеет [известная] лодка быть управляема через [известный] канал уже?",
+            "english": "Has the boat been driven through the channel yet?",
+            "transcription": "[хæз ðэ боут би:н др**и**вн θру: ðэ ч**æ**нл йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been driven",
+        "examples": [
+          {
+            "ours": "К полудню катер проведут через канал.",
+            "thought": "К полудню [известный] катер будет иметь быть управляем через [известный] канал.",
+            "english": "By noon the motorboat will have been driven through the channel.",
+            "transcription": "[бай ну:н ðэ м**о**утэбоут wил хæв би:н др**и**вн θру: ðэ ч**æ**нл]"
+          },
+          {
+            "ours": "Лодку проведут через канал к пяти?",
+            "thought": "Будет [известная] лодка иметь быть управляема через [известный] канал к пяти?",
+            "english": "Will the boat have been driven through the channel by five?",
+            "transcription": "[wил ðэ боут хæв би:н др**и**вн θру: ðэ ч**æ**нл бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been driving the motorboat."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она поведёт катер.",
+        "thought": "Я знал, она будет управлять [известным] катером.",
+        "english": "I knew she would drive the motorboat.",
+        "transcription": "[ай нью: ши: wуд драйв ðэ м**о**утэбоут]"
+      },
+      {
+        "ours": "Он думал, что мы не поведём лодку.",
+        "thought": "Он думал, мы будем не управлять [известной] лодкой.",
+        "english": "He thought we would not drive the boat.",
+        "transcription": "[хи: θо:т wи: wуд нот драйв ðэ боут]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "motorboat",
+      "meaning": "катер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "motorboat"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "propeller",
+      "meaning": "винт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "propeller"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "propeller"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "propeller"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "channel",
+      "meaning": "канал",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "channel"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "channel"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "channel"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "channel"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "channel"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "channel"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "channel"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "channel"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "channel"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "channel"
+        }
+      ]
+    },
+    {
+      "word": "sunset",
+      "meaning": "закат",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sunset"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "sunset"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "sunset"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "motor",
+      "meaning": "мотор",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "motors"
+        }
+      ]
+    }
+  ]
+}

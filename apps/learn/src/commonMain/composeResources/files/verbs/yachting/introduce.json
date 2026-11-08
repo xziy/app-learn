@@ -1,0 +1,946 @@
+{
+  "spec": 4,
+  "verb": "introduce",
+  "forms": {
+    "base": [
+      {
+        "word": "introduce",
+        "transcription": "[интрэдь**ю**:с]"
+      }
+    ],
+    "past": [
+      {
+        "word": "introduced",
+        "transcription": "[интрэдь**ю**:ст]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "introduced",
+        "transcription": "[интрэдь**ю**:ст]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "introducing",
+        "transcription": "[интрэдь**ю**:сиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "introduces",
+        "transcription": "[интрэдь**ю**:сиз]"
+      }
+    ]
+  },
+  "meaning": "представлять, знакомить, вводить",
+  "notes": "правильный переходный глагол; introduce someone to someone; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "introduced",
+        "examples": [
+          {
+            "ours": "Вчера капитан представил нового моряка экипажу.",
+            "thought": "Вчера [известный] капитан представил [известного] нового моряка к [известному] экипажу.",
+            "english": "Yesterday the captain introduced the new sailor to the crew.",
+            "transcription": "[й**э**стэдэй ðэ к**æ**птин интрэдь**ю**:ст ðэ нью: с**э**йлэ ту ðэ кру:]"
+          },
+          {
+            "ours": "Он не ввёл правила безопасности.",
+            "thought": "Он [сделал] не вводить [известные] безопасности правила.",
+            "english": "He didn't introduce the safety rules.",
+            "transcription": "[хи: диднт интрэдь**ю**:с ðэ с**э**йфти ру:лз]"
+          },
+          {
+            "ours": "Ты представил гостей шкиперу до гонки?",
+            "thought": "[Сделал] ты представлять [известных] гостей к [известному] шкиперу перед [известной] гонкой?",
+            "english": "Did you introduce the guests to the skipper before the race?",
+            "transcription": "[дид ю: интрэдь**ю**:с ðэ гэстс ту ðэ ск**и**пэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "introduce, introduces",
+        "examples": [
+          {
+            "ours": "Капитан представляет новых моряков экипажу.",
+            "thought": "[Известный] капитан представляет новых моряков к [известному] экипажу.",
+            "english": "The captain introduces new sailors to the crew.",
+            "transcription": "[ðэ к**æ**птин интрэдь**ю**:сиз нью: с**э**йлэз ту ðэ кру:]"
+          },
+          {
+            "ours": "Он не вводит новые правила на борту.",
+            "thought": "Он [делает] не вводить новые правила на борту.",
+            "english": "He doesn't introduce new rules on board.",
+            "transcription": "[хи: дазнт интрэдь**ю**:с нью: ру:лз он бо:д]"
+          },
+          {
+            "ours": "Ты представляешь гостей шкиперу?",
+            "thought": "[Делаешь] ты представлять [известных] гостей к [известному] шкиперу?",
+            "english": "Do you introduce the guests to the skipper?",
+            "transcription": "[ду: ю: интрэдь**ю**:с ðэ гэстс ту ðэ ск**и**пэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will introduce",
+        "examples": [
+          {
+            "ours": "Завтра мы введём новые процедуры.",
+            "thought": "Завтра мы будем вводить новые процедуры.",
+            "english": "Tomorrow we will introduce new procedures.",
+            "transcription": "[тэм**о**роу wи: wил интрэдь**ю**:с нью: прэс**и**:джэз]"
+          },
+          {
+            "ours": "Он не представит гостя капитану.",
+            "thought": "Он будет не представлять [известного] гостя к [известному] капитану.",
+            "english": "He won't introduce the guest to the captain.",
+            "transcription": "[хи: wоунт интрэдь**ю**:с ðэ гэст ту ðэ к**æ**птин]"
+          },
+          {
+            "ours": "Ты введёшь правила безопасности до гонки?",
+            "thought": "Будешь ты вводить [известные] безопасности правила перед [известной] гонкой?",
+            "english": "Will you introduce the safety rules before the race?",
+            "transcription": "[wил ю: интрэдь**ю**:с ðэ с**э**йфти ру:лз биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were introducing",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день внедряли новые процедуры.",
+            "thought": "Вчера мы были вводящими новые процедуры весь день.",
+            "english": "Yesterday we were introducing new procedures all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: интрэдь**ю**:сиŋ нью: прэс**и**:джэз о:л дэй]"
+          },
+          {
+            "ours": "Ты представлял гостя капитану, когда я пришёл?",
+            "thought": "Был ты представляющим [известного] гостя к [известному] капитану когда я пришёл?",
+            "english": "Were you introducing the guest to the captain when I came?",
+            "transcription": "[wœ: ю: интрэдь**ю**:сиŋ ðэ гэст ту ðэ к**æ**птин wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are introducing",
+        "examples": [
+          {
+            "ours": "Сейчас мы вводим новые правила безопасности.",
+            "thought": "Мы являемся вводящими новые безопасности правила сейчас.",
+            "english": "We are introducing new safety rules now.",
+            "transcription": "[wи: а: интрэдь**ю**:сиŋ нью: с**э**йфти ру:лз нау]"
+          },
+          {
+            "ours": "Ты сейчас представляешь гостя шкиперу?",
+            "thought": "Являешься ты представляющим [известного] гостя к [известному] шкиперу сейчас?",
+            "english": "Are you introducing the guest to the skipper now?",
+            "transcription": "[а: ю: интрэдь**ю**:сиŋ ðэ гэст ту ðэ ск**и**пэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be introducing",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем внедрять новые процедуры.",
+            "thought": "Завтра мы будем быть вводящими новые процедуры весь день.",
+            "english": "Tomorrow we will be introducing new procedures all day.",
+            "transcription": "[тэм**о**роу wи: wил би: интрэдь**ю**:сиŋ нью: прэс**и**:джэз о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь представлять гостей капитану до гонки?",
+            "thought": "Будешь ты быть представляющим [известных] гостей к [известному] капитану перед [известной] гонкой?",
+            "english": "Will you be introducing the guests to the captain before the race?",
+            "transcription": "[wил ю: би: интрэдь**ю**:сиŋ ðэ гэстс ту ðэ к**æ**птин биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had introduced",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже ввели новые правила.",
+            "thought": "К пяти вчера мы имели уже введёнными новые правила.",
+            "english": "By five yesterday we had already introduced new rules.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди интрэдь**ю**:ст нью: ру:лз]"
+          },
+          {
+            "ours": "Ты представил гостя шкиперу до гонки?",
+            "thought": "Имел ты представленным [известного] гостя к [известному] шкиперу перед [известной] гонкой?",
+            "english": "Had you introduced the guest to the skipper before the race?",
+            "transcription": "[хæд ю: интрэдь**ю**:ст ðэ гэст ту ðэ ск**и**пэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has introduced",
+        "examples": [
+          {
+            "ours": "Мы уже ввели правила безопасности.",
+            "thought": "Мы имеем уже введёнными [известные] безопасности правила.",
+            "english": "We have already introduced the safety rules.",
+            "transcription": "[wи: хæв о:лр**э**ди интрэдь**ю**:ст ðэ с**э**йфти ру:лз]"
+          },
+          {
+            "ours": "Ты уже представил гостя капитану?",
+            "thought": "Имеешь ты уже представленным [известного] гостя к [известному] капитану?",
+            "english": "Have you already introduced the guest to the captain?",
+            "transcription": "[хæв ю: о:лр**э**ди интрэдь**ю**:ст ðэ гэст ту ðэ к**æ**птин]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have introduced",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже введём новые процедуры.",
+            "thought": "К пяти завтра мы будем иметь уже введёнными новые процедуры.",
+            "english": "By five tomorrow we will have already introduced new procedures.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди интрэдь**ю**:ст нью: прэс**и**:джэз]"
+          },
+          {
+            "ours": "Ты представишь гостя шкиперу до гонки?",
+            "thought": "Будешь ты иметь представленным [известного] гостя к [известному] шкиперу перед [известной] гонкой?",
+            "english": "Will you have introduced the guest to the skipper before the race?",
+            "transcription": "[wил ю: хæв интрэдь**ю**:ст ðэ гэст ту ðэ ск**и**пэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been introducing",
+        "examples": [
+          {
+            "ours": "Мы уже два года внедряли новые процедуры, когда ты пришёл.",
+            "thought": "Мы имели быть вводящими новые процедуры целых два года когда ты пришёл.",
+            "english": "We had been introducing new procedures for two years when you came.",
+            "transcription": "[wи: хæд би:н интрэдь**ю**:сиŋ нью: прэс**и**:джэз фо: ту: йиэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа представлял гостей, когда он пришёл?",
+            "thought": "Имел ты быть представляющим гостей целых два часа когда он пришёл?",
+            "english": "Had you been introducing guests for two hours when he came?",
+            "transcription": "[хæд ю: би:н интрэдь**ю**:сиŋ гэстс фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been introducing",
+        "examples": [
+          {
+            "ours": "Мы уже два года внедряем новые правила.",
+            "thought": "Мы имеем быть вводящими новые правила целых два года.",
+            "english": "We have been introducing new rules for two years.",
+            "transcription": "[wи: хæв би:н интрэдь**ю**:сиŋ нью: ру:лз фо: ту: йиэз]"
+          },
+          {
+            "ours": "Ты уже два часа представляешь гостей?",
+            "thought": "Имеешь ты быть представляющим гостей целых два часа?",
+            "english": "Have you been introducing guests for two hours?",
+            "transcription": "[хæв ю: би:н интрэдь**ю**:сиŋ гэстс фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been introducing",
+        "examples": [
+          {
+            "ours": "К июню мы будем вводить новые процедуры уже два года.",
+            "thought": "К июню мы будем иметь быть вводящими новые процедуры целых два года.",
+            "english": "By June we will have been introducing new procedures for two years.",
+            "transcription": "[бай джу:н wи: wил хæв би:н интрэдь**ю**:сиŋ нью: прэс**и**:джэз фо: ту: йиэз]"
+          },
+          {
+            "ours": "К пяти ты будешь представлять гостей уже два часа?",
+            "thought": "Будешь ты иметь быть представляющим гостей целых два часа к пяти?",
+            "english": "Will you have been introducing guests for two hours by five?",
+            "transcription": "[wил ю: хæв би:н интрэдь**ю**:сиŋ гэстс фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were introduced",
+        "examples": [
+          {
+            "ours": "Вчера ввели новые правила безопасности.",
+            "thought": "Новые безопасности правила были введены вчера.",
+            "english": "New safety rules were introduced yesterday.",
+            "transcription": "[нью: с**э**йфти ру:лз wœ: интрэдь**ю**:ст й**э**стэдэй]"
+          },
+          {
+            "ours": "Гостя представили капитану до гонки?",
+            "thought": "Был [известный] гость представлен к [известному] капитану перед [известной] гонкой?",
+            "english": "Was the guest introduced to the captain before the race?",
+            "transcription": "[wоз ðэ гэст интрэдь**ю**:ст ту ðэ к**æ**птин биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are introduced",
+        "examples": [
+          {
+            "ours": "Новых моряков представляют капитану.",
+            "thought": "Новые моряки есть представлены к [известному] капитану.",
+            "english": "New sailors are introduced to the captain.",
+            "transcription": "[нью: с**э**йлэз а: интрэдь**ю**:ст ту ðэ к**æ**птин]"
+          },
+          {
+            "ours": "Гостя представляют шкиперу?",
+            "thought": "Есть [известный] гость представлен к [известному] шкиперу?",
+            "english": "Is the guest introduced to the skipper?",
+            "transcription": "[из ðэ гэст интрэдь**ю**:ст ту ðэ ск**и**пэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be introduced",
+        "examples": [
+          {
+            "ours": "Завтра введут новые процедуры.",
+            "thought": "Новые процедуры будут быть введены завтра.",
+            "english": "New procedures will be introduced tomorrow.",
+            "transcription": "[нью: прэс**и**:джэз wил би: интрэдь**ю**:ст тэм**о**роу]"
+          },
+          {
+            "ours": "Гостя представят капитану до гонки?",
+            "thought": "Будет [известный] гость быть представлен к [известному] капитану перед [известной] гонкой?",
+            "english": "Will the guest be introduced to the captain before the race?",
+            "transcription": "[wил ðэ гэст би: интрэдь**ю**:ст ту ðэ к**æ**птин биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being introduced",
+        "examples": [
+          {
+            "ours": "Вчера новые правила вводили весь день.",
+            "thought": "Вчера новые правила были «долго» введены весь день.",
+            "english": "Yesterday new rules were being introduced all day.",
+            "transcription": "[й**э**стэдэй нью: ру:лз wœ: б**и**:иŋ интрэдь**ю**:ст о:л дэй]"
+          },
+          {
+            "ours": "Гостя представляли, когда ты пришёл?",
+            "thought": "Был [известный] гость «долго» представлен когда ты пришёл?",
+            "english": "Was the guest being introduced when you came?",
+            "transcription": "[wоз ðэ гэст б**и**:иŋ интрэдь**ю**:ст wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being introduced",
+        "examples": [
+          {
+            "ours": "Сейчас вводят новые правила.",
+            "thought": "Новые правила есть «долго» введены сейчас.",
+            "english": "New rules are being introduced now.",
+            "transcription": "[нью: ру:лз а: б**и**:иŋ интрэдь**ю**:ст нау]"
+          },
+          {
+            "ours": "Гостя сейчас представляют шкиперу?",
+            "thought": "Есть [известный] гость «долго» представлен к [известному] шкиперу сейчас?",
+            "english": "Is the guest being introduced to the skipper now?",
+            "transcription": "[из ðэ гэст б**и**:иŋ интрэдь**ю**:ст ту ðэ ск**и**пэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be introducing",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут вводить новые процедуры.",
+            "thought": "Завтра они будут быть вводящими новые процедуры весь день.",
+            "english": "Tomorrow they will be introducing new procedures all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: интрэдь**ю**:сиŋ нью: прэс**и**:джэз о:л дэй]"
+          },
+          {
+            "ours": "Они будут представлять гостя капитану до гонки?",
+            "thought": "Будут они быть представляющими [известного] гостя к [известному] капитану перед [известной] гонкой?",
+            "english": "Will they be introducing the guest to the captain before the race?",
+            "transcription": "[wил ðэй би: интрэдь**ю**:сиŋ ðэ гэст ту ðэ к**æ**птин биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been introduced",
+        "examples": [
+          {
+            "ours": "Вчера к пяти правила безопасности уже ввели.",
+            "thought": "К пяти вчера [известные] безопасности правила имели уже быть введены.",
+            "english": "By five yesterday the safety rules had already been introduced.",
+            "transcription": "[бай файв й**э**стэдэй ðэ с**э**йфти ру:лз хæд о:лр**э**ди би:н интрэдь**ю**:ст]"
+          },
+          {
+            "ours": "Гостя представили капитану до гонки?",
+            "thought": "Имел [известный] гость быть представлен к [известному] капитану перед [известной] гонкой?",
+            "english": "Had the guest been introduced to the captain before the race?",
+            "transcription": "[хæд ðэ гэст би:н интрэдь**ю**:ст ту ðэ к**æ**птин биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been introduced",
+        "examples": [
+          {
+            "ours": "Новые правила уже ввели.",
+            "thought": "Новые правила имеют уже быть введены.",
+            "english": "New rules have already been introduced.",
+            "transcription": "[нью: ру:лз хæв о:лр**э**ди би:н интрэдь**ю**:ст]"
+          },
+          {
+            "ours": "Гостя уже представили шкиперу?",
+            "thought": "Имеет [известный] гость уже быть представлен к [известному] шкиперу?",
+            "english": "Has the guest already been introduced to the skipper?",
+            "transcription": "[хæз ðэ гэст о:лр**э**ди би:н интрэдь**ю**:ст ту ðэ ск**и**пэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been introduced",
+        "examples": [
+          {
+            "ours": "К пяти завтра новые процедуры уже введут.",
+            "thought": "К пяти завтра новые процедуры будут уже иметь быть введены.",
+            "english": "By five tomorrow new procedures will already have been introduced.",
+            "transcription": "[бай файв тэм**о**роу нью: прэс**и**:джэз wил о:лр**э**ди хæв би:н интрэдь**ю**:ст]"
+          },
+          {
+            "ours": "Гостя представят капитану до гонки?",
+            "thought": "Будет [известный] гость иметь быть представлен к [известному] капитану перед [известной] гонкой?",
+            "english": "Will the guest have been introduced to the captain before the race?",
+            "transcription": "[wил ðэ гэст хæв би:н интрэдь**ю**:ст ту ðэ к**æ**птин биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: New rules have been introduced. Или: They have been introducing new rules."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они введут новые правила.",
+        "thought": "[Известный] капитан сказал что они будут вводить новые правила.",
+        "english": "The captain said that they would introduce new rules.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд интрэдь**ю**:с нью: ру:лз]"
+      },
+      {
+        "ours": "Я знал, что ты не представишь гостя шкиперу.",
+        "thought": "Я знал что ты будешь не представлять [известного] гостя к [известному] шкиперу.",
+        "english": "I knew that you wouldn't introduce the guest to the skipper.",
+        "transcription": "[ай нью: ðæт ю: wуднт интрэдь**ю**:с ðэ гэст ту ðэ ск**и**пэ]"
+      },
+      {
+        "ours": "Капитан сказал, что мы введём новые процедуры.",
+        "thought": "[Известный] капитан сказал что мы будем вводить новые процедуры.",
+        "english": "The captain said that we would introduce new procedures.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд интрэдь**ю**:с нью: прэс**и**:джэз]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "sailors"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "safety",
+      "meaning": "безопасность",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "safety"
+        }
+      ]
+    },
+    {
+      "word": "rule",
+      "meaning": "правило",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "rules"
+        }
+      ]
+    },
+    {
+      "word": "guest",
+      "meaning": "гость",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "guests"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "guests"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "guest"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "guest"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "guest"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "guests"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "guest"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "guest"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "guest"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "guests"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "guests"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "guests"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "guest"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "guest"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "guest"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "guest"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "guest"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "guest"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "guest"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "guest"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "guest"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "guest"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "procedure",
+      "meaning": "процедура",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "procedures"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "procedures"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "procedures"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "procedures"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "procedures"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "procedures"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "procedures"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "procedures"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "procedures"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "procedures"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        }
+      ]
+    }
+  ]
+}

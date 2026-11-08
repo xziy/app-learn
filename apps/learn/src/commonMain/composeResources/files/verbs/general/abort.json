@@ -1,5 +1,5 @@
 {
-  "spec": 3,
+  "spec": 4,
   "verb": "abort",
   "forms": {
     "base": [
@@ -232,7 +232,7 @@
             "ours": "К полуночи инженеры прервут обратный отсчёт.",
             "thought": "К полуночи [известные] инженеры будут иметь прерванным [известный] обратный отсчёт.",
             "english": "By midnight the engineers will have aborted the countdown.",
-            "transcription": "[бай м**и**днайт ðи инджин**и**эз wил хæв эб**о**:тид ðэ к**а**унтдаун]"
+            "transcription": "[бай м**и**днайт ðи энджин**и**эз wил хæв эб**о**:тид ðэ к**а**унтдаун]"
           },
           {
             "ours": "К воскресенью она ещё не прервёт экспедицию.",
@@ -1129,6 +1129,7 @@
     {
       "word": "job",
       "meaning": "задание",
+      "sense": "task",
       "used_in": [
         {
           "phrase": "active.perfect_continuous.past.1",

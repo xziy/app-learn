@@ -1,0 +1,796 @@
+{
+  "spec": 4,
+  "verb": "close",
+  "forms": {
+    "base": [
+      {
+        "word": "close",
+        "transcription": "[клоуз]"
+      }
+    ],
+    "past": [
+      {
+        "word": "closed",
+        "transcription": "[клоузд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "closed",
+        "transcription": "[клоузд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "closing",
+        "transcription": "[кл**о**узиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "closes",
+        "transcription": "[кл**о**узиз]"
+      }
+    ]
+  },
+  "meaning": "закрывать, закрываться",
+  "notes": "правильный глагол; может быть переходным и непереходным, имеет пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "closed",
+        "examples": [
+          {
+            "ours": "Вчера экипаж закрыл люк.",
+            "thought": "Вчера [известный] экипаж закрыл [известный] люк.",
+            "english": "Yesterday the crew closed the hatch.",
+            "transcription": "[й**э**стэдэй ðэ кру: клоузд ðэ хæч]"
+          },
+          {
+            "ours": "Моряк закрыл кингстон вчера?",
+            "thought": "[Сделал] [известный] моряк закрывать [известный] кингстон вчера?",
+            "english": "Did the sailor close the seacock yesterday?",
+            "transcription": "[дид ðэ с**э**йлэ клоуз ðэ с**и**:кок й**э**стэдэй]"
+          },
+          {
+            "ours": "Они не закрыли рундук.",
+            "thought": "Они [сделали] не закрывать [известный] рундук.",
+            "english": "They did not close the locker.",
+            "transcription": "[ðэй дид нот клоуз ðэ л**о**кэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "close, closes",
+        "examples": [
+          {
+            "ours": "Капитан закрывает рундук.",
+            "thought": "[Известный] капитан закрывает [известный] рундук.",
+            "english": "The skipper closes the locker.",
+            "transcription": "[ðэ ск**и**пэ кл**о**узиз ðэ л**о**кэ]"
+          },
+          {
+            "ours": "Люк закрывается?",
+            "thought": "[Делает] [известный] люк закрываться?",
+            "english": "Does the hatch close?",
+            "transcription": "[даз ðэ хæч клоуз]"
+          },
+          {
+            "ours": "Мы не закрываем иллюминатор во время гонок.",
+            "thought": "Мы [делаем] не закрывать [известный] иллюминатор во время гонок.",
+            "english": "We do not close the porthole during races.",
+            "transcription": "[wи: ду: нот клоуз ðэ п**о**:тхоул дь**ю**эриŋ р**э**йсиз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will close",
+        "examples": [
+          {
+            "ours": "Завтра экипаж закроет люк.",
+            "thought": "Завтра [известный] экипаж будет закрывать [известный] люк.",
+            "english": "Tomorrow the crew will close the hatch.",
+            "transcription": "[тэм**о**роу ðэ кру: wил клоуз ðэ хæч]"
+          },
+          {
+            "ours": "Моряк закроет кингстон завтра?",
+            "thought": "Будет [известный] моряк закрывать [известный] кингстон завтра?",
+            "english": "Will the sailor close the seacock tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ клоуз ðэ с**и**:кок тэм**о**роу]"
+          },
+          {
+            "ours": "Она не закроет кингстон.",
+            "thought": "Она будет не закрывать [известный] кингстон.",
+            "english": "She will not close the seacock.",
+            "transcription": "[ши: wил нот клоуз ðэ с**и**:кок]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were closing",
+        "examples": [
+          {
+            "ours": "Экипаж закрывал люк, когда ты прибыл.",
+            "thought": "[Известный] экипаж был закрывающим [известный] люк, когда ты прибыл.",
+            "english": "The crew was closing the hatch when you arrived.",
+            "transcription": "[ðэ кру: wоз кл**о**узиŋ ðэ хæч wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Моряк закрывал кингстон, когда ты прибыл?",
+            "thought": "Был [известный] моряк закрывающим [известный] кингстон, когда ты прибыл?",
+            "english": "Was the sailor closing the seacock when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ кл**о**узиŋ ðэ с**и**:кок wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are closing",
+        "examples": [
+          {
+            "ours": "Капитан сейчас закрывает рундук.",
+            "thought": "[Известный] капитан является закрывающим [известный] рундук сейчас.",
+            "english": "The skipper is closing the locker now.",
+            "transcription": "[ðэ ск**и**пэ из кл**о**узиŋ ðэ л**о**кэ нау]"
+          },
+          {
+            "ours": "Экипаж сейчас закрывает иллюминатор?",
+            "thought": "Является [известный] экипаж закрывающим [известный] иллюминатор сейчас?",
+            "english": "Is the crew closing the porthole now?",
+            "transcription": "[из ðэ кру: кл**о**узиŋ ðэ п**о**:тхоул нау]"
+          },
+          {
+            "ours": "Мы сейчас не закрываем люк.",
+            "thought": "Мы являемся не закрывающими [известный] люк сейчас.",
+            "english": "We are not closing the hatch now.",
+            "transcription": "[wи: а: нот кл**о**узиŋ ðэ хæч нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be closing",
+        "examples": [
+          {
+            "ours": "Завтра экипаж будет закрывать люк.",
+            "thought": "Завтра [известный] экипаж будет быть закрывающим [известный] люк.",
+            "english": "Tomorrow the crew will be closing the hatch.",
+            "transcription": "[тэм**о**роу ðэ кру: wил би: кл**о**узиŋ ðэ хæч]"
+          },
+          {
+            "ours": "Моряк завтра будет закрывать кингстон?",
+            "thought": "Будет [известный] моряк быть закрывающим [известный] кингстон завтра?",
+            "english": "Will the sailor be closing the seacock tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: кл**о**узиŋ ðэ с**и**:кок тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had closed",
+        "examples": [
+          {
+            "ours": "К полудню экипаж закрыл люк.",
+            "thought": "К полудню [известный] экипаж имел закрытым [известный] люк.",
+            "english": "By noon the crew had closed the hatch.",
+            "transcription": "[бай ну:н ðэ кру: хæд клоузд ðэ хæч]"
+          },
+          {
+            "ours": "Моряк закрыл кингстон к полудню?",
+            "thought": "Имел [известный] моряк закрытым [известный] кингстон к полудню?",
+            "english": "Had the sailor closed the seacock by noon?",
+            "transcription": "[хæд ðэ с**э**йлэ клоузд ðэ с**и**:кок бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has closed",
+        "examples": [
+          {
+            "ours": "Капитан уже закрыл рундук.",
+            "thought": "[Известный] капитан имеет уже закрытым [известный] рундук.",
+            "english": "The skipper has already closed the locker.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди клоузд ðэ л**о**кэ]"
+          },
+          {
+            "ours": "Экипаж уже закрыл иллюминатор?",
+            "thought": "Имеет [известный] экипаж закрытым [известный] иллюминатор уже?",
+            "english": "Has the crew closed the porthole yet?",
+            "transcription": "[хæз ðэ кру: клоузд ðэ п**о**:тхоул йэт]"
+          },
+          {
+            "ours": "Она ещё не закрыла кингстон.",
+            "thought": "Она имеет не закрытым [известный] кингстон ещё.",
+            "english": "She has not closed the seacock yet.",
+            "transcription": "[ши: хæз нот клоузд ðэ с**и**:кок йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have closed",
+        "examples": [
+          {
+            "ours": "К пяти экипаж закроет люк.",
+            "thought": "К пяти [известный] экипаж будет иметь закрытым [известный] люк.",
+            "english": "By five the crew will have closed the hatch.",
+            "transcription": "[бай файв ðэ кру: wил хæв клоузд ðэ хæч]"
+          },
+          {
+            "ours": "Моряк закроет кингстон к пяти?",
+            "thought": "Будет [известный] моряк иметь закрытым [известный] кингстон к пяти?",
+            "english": "Will the sailor have closed the seacock by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв клоузд ðэ с**и**:кок бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для однократного закрытия люка длительный perfect обычно не употребляют: The crew has closed the hatch. Форма возможна для повторяющихся действий."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were closed",
+        "examples": [
+          {
+            "ours": "Люк был закрыт вчера.",
+            "thought": "[Известный] люк был закрыт вчера.",
+            "english": "The hatch was closed yesterday.",
+            "transcription": "[ðэ хæч wоз клоузд й**э**стэдэй]"
+          },
+          {
+            "ours": "Кингстон был закрыт вчера?",
+            "thought": "Был [известный] кингстон закрыт вчера?",
+            "english": "Was the seacock closed yesterday?",
+            "transcription": "[wоз ðэ с**и**:кок клоузд й**э**стэдэй]"
+          },
+          {
+            "ours": "Рундук не закрыли вчера.",
+            "thought": "[Известный] рундук был не закрыт вчера.",
+            "english": "The locker was not closed yesterday.",
+            "transcription": "[ðэ л**о**кэ wоз нот клоузд й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are closed",
+        "examples": [
+          {
+            "ours": "Рундук закрывают здесь.",
+            "thought": "[Известный] рундук есть закрыт здесь.",
+            "english": "The locker is closed here.",
+            "transcription": "[ðэ л**о**кэ из клоузд хиэ]"
+          },
+          {
+            "ours": "Иллюминатор закрывают здесь?",
+            "thought": "Есть [известный] иллюминатор закрыт здесь?",
+            "english": "Is the porthole closed here?",
+            "transcription": "[из ðэ п**о**:тхоул клоузд хиэ]"
+          },
+          {
+            "ours": "Рундук не закрывают ночью.",
+            "thought": "[Известный] рундук есть не закрыт ночью.",
+            "english": "The locker is not closed at night.",
+            "transcription": "[ðэ л**о**кэ из нот клоузд æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be closed",
+        "examples": [
+          {
+            "ours": "Люк закроют завтра.",
+            "thought": "[Известный] люк будет быть закрыт завтра.",
+            "english": "The hatch will be closed tomorrow.",
+            "transcription": "[ðэ хæч wил би: клоузд тэм**о**роу]"
+          },
+          {
+            "ours": "Кингстон закроют завтра?",
+            "thought": "Будет [известный] кингстон быть закрыт завтра?",
+            "english": "Will the seacock be closed tomorrow?",
+            "transcription": "[wил ðэ с**и**:кок би: клоузд тэм**о**роу]"
+          },
+          {
+            "ours": "Кингстон не закроют завтра.",
+            "thought": "[Известный] кингстон будет не быть закрыт завтра.",
+            "english": "The seacock will not be closed tomorrow.",
+            "transcription": "[ðэ с**и**:кок wил нот би: клоузд тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being closed",
+        "examples": [
+          {
+            "ours": "Люк закрывали, когда ты прибыл.",
+            "thought": "[Известный] люк был «долго» закрыт, когда ты прибыл.",
+            "english": "The hatch was being closed when you arrived.",
+            "transcription": "[ðэ хæч wоз б**и**:иŋ клоузд wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Кингстон закрывали, когда ты прибыл?",
+            "thought": "Был [известный] кингстон «долго» закрыт, когда ты прибыл?",
+            "english": "Was the seacock being closed when you arrived?",
+            "transcription": "[wоз ðэ с**и**:кок б**и**:иŋ клоузд wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being closed",
+        "examples": [
+          {
+            "ours": "Рундук сейчас закрывают.",
+            "thought": "[Известный] рундук есть «долго» закрыт сейчас.",
+            "english": "The locker is being closed now.",
+            "transcription": "[ðэ л**о**кэ из б**и**:иŋ клоузд нау]"
+          },
+          {
+            "ours": "Иллюминатор сейчас закрывают?",
+            "thought": "Есть [известный] иллюминатор «долго» закрыт сейчас?",
+            "english": "Is the porthole being closed now?",
+            "transcription": "[из ðэ п**о**:тхоул б**и**:иŋ клоузд нау]"
+          },
+          {
+            "ours": "Иллюминатор сейчас не закрывают.",
+            "thought": "[Известный] иллюминатор есть не «долго» закрыт сейчас.",
+            "english": "The porthole is not being closed now.",
+            "transcription": "[ðэ п**о**:тхоул из нот б**и**:иŋ клоузд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be closing",
+        "examples": [
+          {
+            "ours": "Завтра они будут закрывать люк.",
+            "thought": "Завтра они будут быть закрывающими [известный] люк.",
+            "english": "Tomorrow they will be closing the hatch.",
+            "transcription": "[тэм**о**роу ðэй wил би: кл**о**узиŋ ðэ хæч]"
+          },
+          {
+            "ours": "Они будут закрывать кингстон завтра?",
+            "thought": "Будут они быть закрывающими [известный] кингстон завтра?",
+            "english": "Will they be closing the seacock tomorrow?",
+            "transcription": "[wил ðэй би: кл**о**узиŋ ðэ с**и**:кок тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been closed",
+        "examples": [
+          {
+            "ours": "К полудню люк закрыли.",
+            "thought": "К полудню [известный] люк имел быть закрыт.",
+            "english": "By noon the hatch had been closed.",
+            "transcription": "[бай ну:н ðэ хæч хæд би:н клоузд]"
+          },
+          {
+            "ours": "Кингстон закрыли к полудню?",
+            "thought": "Имел [известный] кингстон быть закрыт к полудню?",
+            "english": "Had the seacock been closed by noon?",
+            "transcription": "[хæд ðэ с**и**:кок би:н клоузд бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been closed",
+        "examples": [
+          {
+            "ours": "Рундук уже закрыли.",
+            "thought": "[Известный] рундук имеет уже быть закрыт.",
+            "english": "The locker has already been closed.",
+            "transcription": "[ðэ л**о**кэ хæз о:лр**э**ди би:н клоузд]"
+          },
+          {
+            "ours": "Иллюминатор уже закрыли?",
+            "thought": "Имеет [известный] иллюминатор быть закрыт уже?",
+            "english": "Has the porthole been closed yet?",
+            "transcription": "[хæз ðэ п**о**:тхоул би:н клоузд йэт]"
+          },
+          {
+            "ours": "Кингстон ещё не закрыли.",
+            "thought": "[Известный] кингстон имеет не быть закрыт ещё.",
+            "english": "The seacock has not been closed yet.",
+            "transcription": "[ðэ с**и**:кок хæз нот би:н клоузд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been closed",
+        "examples": [
+          {
+            "ours": "К пяти люк закроют.",
+            "thought": "К пяти [известный] люк будет иметь быть закрыт.",
+            "english": "By five the hatch will have been closed.",
+            "transcription": "[бай файв ðэ хæч wил хæв би:н клоузд]"
+          },
+          {
+            "ours": "Кингстон закроют к пяти?",
+            "thought": "Будет [известный] кингстон иметь быть закрыт к пяти?",
+            "english": "Will the seacock have been closed by five?",
+            "transcription": "[wил ðэ с**и**:кок хæв би:н клоузд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The crew has closed the hatch."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что моряк закроет кингстон.",
+        "thought": "Я знал [известный] моряк будет закрывать [известный] кингстон.",
+        "english": "I knew the sailor would close the seacock.",
+        "transcription": "[ай нью: ðэ с**э**йлэ wуд клоуз ðэ с**и**:кок]"
+      },
+      {
+        "ours": "Мы думали, что экипаж не закроет люк.",
+        "thought": "Мы думали [известный] экипаж будет не закрывать [известный] люк.",
+        "english": "We thought the crew would not close the hatch.",
+        "transcription": "[wи: θо:т ðэ кру: wуд нот клоуз ðэ хæч]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "hatch",
+      "meaning": "люк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "hatch"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "seacock",
+      "meaning": "кингстон",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "seacock"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "seacock"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "seacock"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "seacock"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "seacock"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "seacock"
+        }
+      ]
+    },
+    {
+      "word": "locker",
+      "meaning": "рундук",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "locker"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "locker"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "locker"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "locker"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "locker"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "locker"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "locker"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "locker"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "locker"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "porthole",
+      "meaning": "иллюминатор",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "porthole"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "porthole"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "porthole"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "porthole"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "porthole"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "porthole"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "porthole"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "races"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "night"
+        }
+      ]
+    }
+  ]
+}

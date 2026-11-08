@@ -1,5 +1,5 @@
 {
-  "spec": 3,
+  "spec": 4,
   "verb": "accept",
   "forms": {
     "base": [
@@ -173,7 +173,7 @@
             "ours": "Завтра почта весь день будет принимать посылки?",
             "thought": "Будет [известное] почтовое отделение быть принимающим посылки весь день завтра?",
             "english": "Will the post office be accepting parcels all day tomorrow?",
-            "transcription": "[wил ðэ п**о**уст **о**фис би: экс**э**птиŋ п**а**:слз о:л дэй тэм**о**роу]"
+            "transcription": "[wил ðэ поуст **о**фис би: экс**э**птиŋ п**а**:слз о:л дэй тэм**о**роу]"
           }
         ]
       }
@@ -625,6 +625,7 @@
     {
       "word": "director",
       "meaning": "режиссёр",
+      "sense": "film",
       "used_in": [
         {
           "phrase": "active.simple.future.0",
@@ -1245,6 +1246,7 @@
     {
       "word": "paper",
       "meaning": "доклад",
+      "sense": "report",
       "used_in": [
         {
           "phrase": "passive.simple.past.1",
@@ -1325,6 +1327,7 @@
     {
       "word": "entry",
       "meaning": "заявка",
+      "sense": "application",
       "used_in": [
         {
           "phrase": "passive.simple.future.0",

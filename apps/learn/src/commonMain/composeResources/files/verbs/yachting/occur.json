@@ -1,0 +1,582 @@
+{
+  "spec": 4,
+  "verb": "occur",
+  "forms": {
+    "base": [
+      {
+        "word": "occur",
+        "transcription": "[эк**œ**:]"
+      }
+    ],
+    "past": [
+      {
+        "word": "occurred",
+        "transcription": "[эк**œ**:д]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "occurred",
+        "transcription": "[эк**œ**:д]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "occurring",
+        "transcription": "[эк**œ**:риŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "occurs",
+        "transcription": "[эк**œ**:з]"
+      }
+    ]
+  },
+  "meaning": "происходить, случаться",
+  "notes": "правильный непереходный глагол; пассив не образуется",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "occurred",
+        "examples": [
+          {
+            "ours": "Вчера в марине произошёл несчастный случай.",
+            "thought": "Вчера [какой-то] несчастный случай произошёл в [известной] марине.",
+            "english": "Yesterday an accident occurred in the marina.",
+            "transcription": "[й**э**стэдэй эн **æ**ксидэнт эк**œ**:д ин ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Во время гонки ничего не произошло.",
+            "thought": "Ничто произошло во время [известной] гонки.",
+            "english": "Nothing occurred during the race.",
+            "transcription": "[н**а**θиŋ эк**œ**:д дь**ю**эриŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Что произошло на борту?",
+            "thought": "Что произошло на борту?",
+            "english": "What occurred on board?",
+            "transcription": "[wот эк**œ**:д он бо:д]"
+          }
+        ]
+      },
+      "present": {
+        "form": "occur, occurs",
+        "examples": [
+          {
+            "ours": "Поломки двигателя случаются в море.",
+            "thought": "Двигателя поломки происходят в море.",
+            "english": "Engine failures occur at sea.",
+            "transcription": "[**э**нджин ф**э**йлйэз эк**œ**: æт си:]"
+          },
+          {
+            "ours": "В гавани это происходит нечасто.",
+            "thought": "Это [делает] не происходить часто в [известной] гавани.",
+            "english": "It doesn't occur often in the harbor.",
+            "transcription": "[ит дазнт эк**œ**: **о**фэн ин ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Это часто происходит в море?",
+            "thought": "[Делает] это происходить часто в море?",
+            "english": "Does this occur often at sea?",
+            "transcription": "[даз ðис эк**œ**: **о**фэн æт си:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will occur",
+        "examples": [
+          {
+            "ours": "Завтра это повторится.",
+            "thought": "Завтра это будет происходить снова.",
+            "english": "Tomorrow it will occur again.",
+            "transcription": "[тэм**о**роу ит wил эк**œ**: эг**э**н]"
+          },
+          {
+            "ours": "Во время гонки ничего не произойдёт.",
+            "thought": "Ничто будет происходить во время [известной] гонки.",
+            "english": "Nothing will occur during the race.",
+            "transcription": "[н**а**θиŋ wил эк**œ**: дь**ю**эриŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Что произойдёт после сигнала старта?",
+            "thought": "Что будет происходить после [известного] старта сигнала?",
+            "english": "What will occur after the start signal?",
+            "transcription": "[wот wил эк**œ**: **а**:фтэ ðэ ста:т с**и**гнл]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were occurring",
+        "examples": [
+          {
+            "ours": "Вчера в марине весь день происходили задержки.",
+            "thought": "Вчера задержки были происходящими в [известной] марине весь день.",
+            "english": "Yesterday delays were occurring in the marina all day.",
+            "transcription": "[й**э**стэдэй дил**э**йз wœ: эк**œ**:риŋ ин ðэ мэр**и**:нэ о:л дэй]"
+          },
+          {
+            "ours": "Что происходило на борту, когда ты пришёл?",
+            "thought": "Что было происходящим на борту когда ты пришёл?",
+            "english": "What was occurring on board when you came?",
+            "transcription": "[wот wоз эк**œ**:риŋ он бо:д wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are occurring",
+        "examples": [
+          {
+            "ours": "Сейчас в гавани происходят задержки.",
+            "thought": "Задержки являются происходящими в [известной] гавани сейчас.",
+            "english": "Delays are occurring in the harbor now.",
+            "transcription": "[дил**э**йз а: эк**œ**:риŋ ин ðэ х**а**:бэ нау]"
+          },
+          {
+            "ours": "Что сейчас происходит на борту?",
+            "thought": "Что является происходящим на борту сейчас?",
+            "english": "What is occurring on board now?",
+            "transcription": "[wот из эк**œ**:риŋ он бо:д нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be occurring",
+        "examples": [
+          {
+            "ours": "Завтра задержки в гавани будут происходить весь день.",
+            "thought": "Завтра задержки будут быть происходящими в [известной] гавани весь день.",
+            "english": "Tomorrow delays will be occurring in the harbor all day.",
+            "transcription": "[тэм**о**роу дил**э**йз wил би: эк**œ**:риŋ ин ðэ х**а**:бэ о:л дэй]"
+          },
+          {
+            "ours": "Что будет происходить на борту во время гонки?",
+            "thought": "Что будет быть происходящим на борту во время [известной] гонки?",
+            "english": "What will be occurring on board during the race?",
+            "transcription": "[wот wил би: эк**œ**:риŋ он бо:д дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had occurred",
+        "examples": [
+          {
+            "ours": "До старта гонки уже произошла задержка.",
+            "thought": "Перед [известной] гонкой [какая-то] задержка имела уже произошедшим.",
+            "english": "Before the race a delay had already occurred.",
+            "transcription": "[биф**о**: ðэ рэйс э дил**э**й хæд о:лр**э**ди эк**œ**:д]"
+          },
+          {
+            "ours": "До шторма произошла какая-нибудь авария?",
+            "thought": "Имела [какая-то] авария произошедшим перед [известным] штормом?",
+            "english": "Had an accident occurred before the storm?",
+            "transcription": "[хæд эн **æ**ксидэнт эк**œ**:д биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has occurred",
+        "examples": [
+          {
+            "ours": "На борту уже произошла авария.",
+            "thought": "[Какая-то] авария имеет уже произошедшим на борту.",
+            "english": "An accident has already occurred on board.",
+            "transcription": "[эн **æ**ксидэнт хæз о:лр**э**ди эк**œ**:д он бо:д]"
+          },
+          {
+            "ours": "Что произошло в марине?",
+            "thought": "Что имеет произошедшим в [известной] марине?",
+            "english": "What has occurred in the marina?",
+            "transcription": "[wот хæз эк**œ**:д ин ðэ мэр**и**:нэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have occurred",
+        "not_possible": "Завершённая будущая форма возможна в сложном ретроспективном контексте, но для прогноза отдельного события обычно говорят: An accident will occur before the race."
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been occurring",
+        "examples": [
+          {
+            "ours": "Такие задержки происходили уже два года, когда он прибыл.",
+            "thought": "Такие задержки имели быть происходящими целых два года когда он прибыл.",
+            "english": "Such delays had been occurring for two years when he arrived.",
+            "transcription": "[сач дил**э**йз хæд би:н эк**œ**:риŋ фо: ту: йиэз wэн хи: эр**а**йвд]"
+          },
+          {
+            "ours": "Такие поломки происходили уже два года, когда вы прибыли?",
+            "thought": "Имели такие поломки быть происходящими целых два года когда вы прибыли?",
+            "english": "Had such breakdowns been occurring for two years when you arrived?",
+            "transcription": "[хæд сач бр**э**йкдаунз би:н эк**œ**:риŋ фо: ту: йиэз wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been occurring",
+        "examples": [
+          {
+            "ours": "Такие задержки происходят уже два года.",
+            "thought": "Такие задержки имеют быть происходящими целых два года.",
+            "english": "Such delays have been occurring for two years.",
+            "transcription": "[сач дил**э**йз хæв би:н эк**œ**:риŋ фо: ту: йиэз]"
+          },
+          {
+            "ours": "Такие поломки происходят уже два года?",
+            "thought": "Имеют такие поломки быть происходящими целых два года?",
+            "english": "Have such breakdowns been occurring for two years?",
+            "transcription": "[хæв сач бр**э**йкдаунз би:н эк**œ**:риŋ фо: ту: йиэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been occurring",
+        "examples": [
+          {
+            "ours": "К июню такие задержки будут происходить уже два года.",
+            "thought": "К июню такие задержки будут иметь быть происходящими целых два года.",
+            "english": "By June such delays will have been occurring for two years.",
+            "transcription": "[бай джу:н сач дил**э**йз wил хæв би:н эк**œ**:риŋ фо: ту: йиэз]"
+          },
+          {
+            "ours": "К июню такие поломки будут происходить уже два года?",
+            "thought": "Будут такие поломки иметь быть происходящими целых два года к июню?",
+            "english": "Will such breakdowns have been occurring for two years by June?",
+            "transcription": "[wил сач бр**э**йкдаунз хæв би:н эк**œ**:риŋ фо: ту: йиэз бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "occur — непереходный глагол без прямого дополнения; пассив не образуется. Скажут: An accident occurred on board."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что задержка повторится.",
+        "thought": "[Известный] капитан сказал что [известная] задержка будет происходить снова.",
+        "english": "The captain said that the delay would occur again.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ дил**э**й wуд эк**œ**: эг**э**н]"
+      },
+      {
+        "ours": "Я знал, что аварии не произойдёт.",
+        "thought": "Я знал что [какая-то] авария будет не происходить.",
+        "english": "I knew that an accident wouldn't occur.",
+        "transcription": "[ай нью: ðæт эн **æ**ксидэнт wуднт эк**œ**:]"
+      },
+      {
+        "ours": "Я думал, что это произойдёт до гонки.",
+        "thought": "Я думал это будет происходить перед [известной] гонкой.",
+        "english": "I thought this would occur before the race.",
+        "transcription": "[ай θо:т ðис wуд эк**œ**: биф**о**: ðэ рэйс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "accident",
+      "meaning": "несчастный случай",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "accident"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "accident"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "accident"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "accident"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "board"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "Engine"
+        }
+      ]
+    },
+    {
+      "word": "failure",
+      "meaning": "поломка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "failures"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "start",
+      "meaning": "старт",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "start"
+        }
+      ]
+    },
+    {
+      "word": "signal",
+      "meaning": "сигнал",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "signal"
+        }
+      ]
+    },
+    {
+      "word": "delay",
+      "meaning": "задержка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "Delays"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "delay"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "delays"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "delay"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "breakdown",
+      "meaning": "поломка",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "breakdowns"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "breakdowns"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "breakdowns"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1828 @@
+{
+  "spec": 4,
+  "verb": "obtain",
+  "forms": {
+    "base": [
+      {
+        "word": "obtain",
+        "transcription": "[эбт**э**йн]"
+      }
+    ],
+    "past": [
+      {
+        "word": "obtained",
+        "transcription": "[эбт**э**йнд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "obtained",
+        "transcription": "[эбт**э**йнд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "obtaining",
+        "transcription": "[эбт**э**йниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "obtains",
+        "transcription": "[эбт**э**йнз]"
+      }
+    ]
+  },
+  "meaning": "получать, добывать, доставать, приобретать",
+  "notes": "правильный переходный глагол, есть пассив; книжнее и официальнее, чем get: obtain a permit — получить разрешение, obtain fresh water — добыть пресную воду; часто в пассиве: Permission was obtained — разрешение получено",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "obtained",
+        "examples": [
+          {
+            "ours": "Вчера шкипер получил разрешение на стоянку в морском заповеднике.",
+            "thought": "Вчера [известный] шкипер получил [какое-то] разрешение для [известного] морского заповедника.",
+            "english": "Yesterday the skipper obtained a permit for the marine reserve.",
+            "transcription": "[й**э**стэдэй ðэ ск**и**пэ эбт**э**йнд э п**œ**:мит фо: ðэ мэр**и**:н риз**œ**:в]"
+          },
+          {
+            "ours": "В деревне мы не достали достаточно солярки.",
+            "thought": "Мы [сделали] не получать достаточно дизеля в [известной] деревне.",
+            "english": "We didn't obtain enough diesel in the village.",
+            "transcription": "[wи: диднт эбт**э**йн ин**а**ф д**и**:зл ин ðэ в**и**лидж]"
+          },
+          {
+            "ours": "Ты взял квитанцию за стоянку?",
+            "thought": "[Сделал] ты получать [какую-то] квитанцию для [известного] швартовочного сбора?",
+            "english": "Did you obtain a receipt for the mooring fee?",
+            "transcription": "[дид ю: эбт**э**йн э рис**и**:т фо: ðэ м**у**эриŋ фи:]"
+          }
+        ]
+      },
+      "present": {
+        "form": "obtain, obtains",
+        "examples": [
+          {
+            "ours": "Каждый сезон клуб добивается для своих членов скидок на паруса.",
+            "thought": "Каждый сезон [известный] клуб получает скидки на паруса для его членов.",
+            "english": "Every season the club obtains discounts on sails for its members.",
+            "transcription": "[**э**ври с**и**:зн ðэ клаб эбт**э**йнз д**и**скаунтс он сэйлз фо: итс м**э**мбэз]"
+          },
+          {
+            "ours": "Моя сестра не покупает продукты в магазине марины.",
+            "thought": "Моя сестра [делает] не получать её провизию из [известного] марины магазина.",
+            "english": "My sister doesn't obtain her provisions from the marina shop.",
+            "transcription": "[май с**и**стэ дазнт эбт**э**йн хœ: прэв**и**жнз фром ðэ мэр**и**:нэ шоп]"
+          },
+          {
+            "ours": "Где в этом районе достают газ?",
+            "thought": "Где [делаете] вы получать газ в этом районе?",
+            "english": "Where do you obtain gas in this area?",
+            "transcription": "[wээ ду: ю: эбт**э**йн гæс ин ðис **э**эриэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will obtain",
+        "examples": [
+          {
+            "ours": "Завтра механик достанет в городе запасной винт.",
+            "thought": "Завтра [известный] механик будет получать [какой-то] запасной винт в городе.",
+            "english": "Tomorrow the mechanic will obtain a spare propeller in town.",
+            "transcription": "[тэм**о**роу ðэ мик**æ**ник wил эбт**э**йн э спээ прэп**э**лэ ин таун]"
+          },
+          {
+            "ours": "На этом острове свежего хлеба не достанешь.",
+            "thought": "Ты будешь не получать свежий хлеб на этом острове.",
+            "english": "You won't obtain fresh bread on this island.",
+            "transcription": "[ю: wоунт эбт**э**йн фрэш брэд он ðис **а**йлэнд]"
+          },
+          {
+            "ours": "Они получат разрешение войти в гавань сегодня ночью?",
+            "thought": "Будут они получать разрешение войти [известную] гавань сегодня ночью?",
+            "english": "Will they obtain permission to enter the harbor tonight?",
+            "transcription": "[wил ðэй эбт**э**йн пэм**и**шн ту **э**нтэ ðэ х**а**:бэ тэн**а**йт]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were obtaining",
+        "examples": [
+          {
+            "ours": "Мы получали координаты по солнцу, когда набежали облака.",
+            "thought": "Мы были получающими [какое-то] местоположение от [известного] солнца, когда [известные] облака пришли.",
+            "english": "We were obtaining a position from the sun when the clouds came.",
+            "transcription": "[wи: wœ: эбт**э**йниŋ э пэз**и**шн фром ðэ сан wэн ðэ клаудз кэйм]"
+          },
+          {
+            "ours": "Разрешения он оформлял не сам — этим занимался его агент.",
+            "thought": "Он был не получающим [известные] разрешения сам; его агент был.",
+            "english": "He wasn't obtaining the permits himself; his agent was.",
+            "transcription": "[хи: wознт эбт**э**йниŋ ðэ п**œ**:митс химс**э**лф хиз **э**йджэнт wоз]"
+          },
+          {
+            "ours": "Ты доставал запчасти на верфи, когда начался шторм?",
+            "thought": "Был ты получающим запасные детали на [известной] верфи, когда [известный] шторм начался?",
+            "english": "Were you obtaining spare parts at the shipyard when the storm started?",
+            "transcription": "[wœ: ю: эбт**э**йниŋ спээ па:тс æт ðэ ш**и**пйа:д wэн ðэ сто:м ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are obtaining",
+        "examples": [
+          {
+            "ours": "Штурман сейчас получает по спутнику свежий прогноз.",
+            "thought": "[Известный] штурман является получающим [известный] последний прогноз по спутнику сейчас.",
+            "english": "The navigator is obtaining the latest forecast by satellite now.",
+            "transcription": "[ðэ н**æ**вигэйтэ из эбт**э**йниŋ ðэ л**э**йтист ф**о**:ка:ст бай с**æ**тэлайт нау]"
+          },
+          {
+            "ours": "Сейчас мы не получаем никаких данных с датчика ветра.",
+            "thought": "Мы являемся не получающими каких-нибудь данных от [известного] ветрового датчика сейчас.",
+            "english": "We aren't obtaining any data from the wind sensor now.",
+            "transcription": "[wи: а:нт эбт**э**йниŋ **э**ни д**э**йтэ фром ðэ wинд с**э**нсэ нау]"
+          },
+          {
+            "ours": "Ты сейчас ловишь нормальный сигнал?",
+            "thought": "Являешься ты получающим [какой-то] чистый сигнал сейчас?",
+            "english": "Are you obtaining a clear signal now?",
+            "transcription": "[а: ю: эбт**э**йниŋ э клиэ с**и**гнл нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be obtaining",
+        "examples": [
+          {
+            "ours": "Завтра с девяти до двенадцати я буду оформлять выход из порта.",
+            "thought": "Завтра с девяти до двенадцати я буду быть получающим наше портовое оформление.",
+            "english": "Tomorrow from nine to twelve I will be obtaining our port clearance.",
+            "transcription": "[тэм**о**роу фром найн ту тwэлв ай wил би: эбт**э**йниŋ ауэ по:т кл**и**эрэнс]"
+          },
+          {
+            "ours": "Из-за высоких цен мы не будем брать солярку в том порту.",
+            "thought": "Мы будем не быть получающими дизель в том порту из-за [известных] высоких цен.",
+            "english": "We won't be obtaining diesel in that port because of the high prices.",
+            "transcription": "[wи: wоунт би: эбт**э**йниŋ д**и**:зл ин ðæт по:т бик**о**з ов ðэ хай пр**а**йсиз]"
+          },
+          {
+            "ours": "Ты будешь в понедельник получать карты в Лиссабоне?",
+            "thought": "Будешь ты быть получающим [известные] карты в Лиссабоне в понедельник?",
+            "english": "Will you be obtaining the charts in Lisbon on Monday?",
+            "transcription": "[wил ю: би: эбт**э**йниŋ ðэ ча:тс ин л**и**збэн он м**а**ндэй]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had obtained",
+        "examples": [
+          {
+            "ours": "К полудню мы уже получили место во внутренней гавани.",
+            "thought": "К полудню мы имели уже полученным [какое-то] причальное место в [известной] внутренней гавани.",
+            "english": "By noon we had already obtained a berth in the inner harbor.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди эбт**э**йнд э бœ:θ ин ðи **и**нэ х**а**:бэ]"
+          },
+          {
+            "ours": "Перед переходом мы так и не оформили страховку.",
+            "thought": "Мы имели не полученной [известную] страховку перед [известным] переходом.",
+            "english": "We hadn't obtained the insurance before the crossing.",
+            "transcription": "[wи: хæднт эбт**э**йнд ðи инш**у**эрэнс биф**о**: ðэ кр**о**сиŋ]"
+          },
+          {
+            "ours": "Экипаж получил свидетельства до гонки?",
+            "thought": "Имел [известный] экипаж полученными их сертификаты перед [известной] гонкой?",
+            "english": "Had the crew obtained their certificates before the race?",
+            "transcription": "[хæд ðэ кру: эбт**э**йнд ðээ сэт**и**фикэтс биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has obtained",
+        "examples": [
+          {
+            "ours": "Клуб уже получил деньги на новые понтоны.",
+            "thought": "[Известный] клуб имеет уже полученным финансирование для [известных] новых понтонов.",
+            "english": "The club has already obtained funding for the new pontoons.",
+            "transcription": "[ðэ клаб хæз о:лр**э**ди эбт**э**йнд ф**а**ндиŋ фо: ðэ нью: понт**у**:нз]"
+          },
+          {
+            "ours": "Я ещё не получил лицензию на рацию.",
+            "thought": "Я имею не полученной мою радио лицензию ещё.",
+            "english": "I haven't obtained my radio licence yet.",
+            "transcription": "[ай хæвнт эбт**э**йнд май р**э**йдиоу л**а**йсэнс йэт]"
+          },
+          {
+            "ours": "Ты уже взял ключ от ворот марины?",
+            "thought": "Имеешь ты полученным [известный] ключ для [известных] марины ворот уже?",
+            "english": "Have you obtained the key for the marina gate yet?",
+            "transcription": "[хæв ю: эбт**э**йнд ðэ ки: фо: ðэ мэр**и**:нэ гэйт йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have obtained",
+        "examples": [
+          {
+            "ours": "К пятнице шкипер оформит все документы на лодку.",
+            "thought": "К пятнице [известный] шкипер будет иметь полученными все [известные] документы для [известной] лодки.",
+            "english": "By Friday the skipper will have obtained all the documents for the boat.",
+            "transcription": "[бай фр**а**йдэй ðэ ск**и**пэ wил хæв эбт**э**йнд о:л ðэ д**о**кюмэнтс фо: ðэ боут]"
+          },
+          {
+            "ours": "К регате они ещё не получат новые паруса.",
+            "thought": "Они будут не иметь полученными [известные] новые паруса к [известной] регате.",
+            "english": "They won't have obtained the new sails by the regatta.",
+            "transcription": "[ðэй wоунт хæв эбт**э**йнд ðэ нью: сэйлз бай ðэ риг**æ**тэ]"
+          },
+          {
+            "ours": "Марина получит новую топливную колонку к июню?",
+            "thought": "Будет [известная] марина иметь полученным [какой-то] новый топливный насос к июню?",
+            "english": "Will the marina have obtained a new fuel pump by June?",
+            "transcription": "[wил ðэ мэр**и**:нэ хæв эбт**э**йнд э нью: фь**ю**:эл памп бай джу:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been obtaining",
+        "examples": [
+          {
+            "ours": "Моряки веками брали воду из этого колодца, пока не открылась марина.",
+            "thought": "Моряки имели быть получающими воду из этого колодца целые века перед [известная] марина открылась.",
+            "english": "Sailors had been obtaining water from this well for centuries before the marina opened.",
+            "transcription": "[с**э**йлэз хæд би:н эбт**э**йниŋ w**о**:тэ фром ðис wэл фо: с**э**нчэриз биф**о**: ðэ мэр**и**:нэ **о**упэнд]"
+          },
+          {
+            "ours": "Ты годами заправлялся у того причала, пока его не закрыли?",
+            "thought": "Имел ты быть получающим топливо от того причала целые годы перед он закрылся?",
+            "english": "Had you been obtaining fuel from that dock for years before it closed?",
+            "transcription": "[хæд ю: би:н эбт**э**йниŋ фь**ю**:эл фром ðæт док фо: йиэз биф**о**: ит клоузд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been obtaining",
+        "examples": [
+          {
+            "ours": "Яхта уже год получает всю энергию от солнечных панелей.",
+            "thought": "[Известная] яхта имеет быть получающей всю её энергию от солнечных панелей целый [какой-то] год.",
+            "english": "The yacht has been obtaining all its power from solar panels for a year.",
+            "transcription": "[ðэ йот хæз би:н эбт**э**йниŋ о:л итс п**а**уэ фром с**о**улэ п**æ**нлз фо: э йиэ]"
+          },
+          {
+            "ours": "Ты уже месяц берёшь рыбу у местных рыбаков?",
+            "thought": "Имеешь ты быть получающим рыбу от [известных] местных рыбаков целый [какой-то] месяц?",
+            "english": "Have you been obtaining fish from the local fishermen for a month?",
+            "transcription": "[хæв ю: би:н эбт**э**йниŋ фиш фром ðэ л**о**укл ф**и**шэмэн фо: э манθ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been obtaining",
+        "examples": [
+          {
+            "ours": "К маю наша школа будет брать лодки на этой верфи уже много лет.",
+            "thought": "К маю наша школа будет иметь быть получающей лодки от этой верфи целые годы.",
+            "english": "By May our school will have been obtaining boats from this shipyard for years.",
+            "transcription": "[бай мэй ауэ ску:л wил хæв би:н эбт**э**йниŋ боутс фром ðис ш**и**пйа:д фо: йиэз]"
+          },
+          {
+            "ours": "К июню экспедиция будет брать пробы льда уже год?",
+            "thought": "Будет [известная] экспедиция иметь быть получающей ледовые пробы целый [какой-то] год к июню?",
+            "english": "Will the expedition have been obtaining ice samples for a year by June?",
+            "transcription": "[wил ðи экспид**и**шн хæв би:н эбт**э**йниŋ айс с**а**:мплз фо: э йиэ бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were obtained",
+        "examples": [
+          {
+            "ours": "В прошлом году яхту приобрели на аукционе.",
+            "thought": "Прошлый год [известная] яхта была получена на [каком-то] аукционе.",
+            "english": "Last year the yacht was obtained at an auction.",
+            "transcription": "[ла:ст йиэ ðэ йот wоз эбт**э**йнд æт эн **о**:кшн]"
+          },
+          {
+            "ours": "Детали достали не у официального дилера.",
+            "thought": "[Известные] детали были не получены от [известного] официального дилера.",
+            "english": "The parts weren't obtained from the official dealer.",
+            "transcription": "[ðэ па:тс wœ:нт эбт**э**йнд фром ðи эф**и**шл д**и**:лэ]"
+          },
+          {
+            "ours": "Прогноз погоды получили до выхода?",
+            "thought": "Был [известный] погодный прогноз получен перед отходом?",
+            "english": "Was the weather forecast obtained before departure?",
+            "transcription": "[wоз ðэ w**э**ðэ ф**о**:ка:ст эбт**э**йнд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are obtained",
+        "examples": [
+          {
+            "ours": "У нас на яхте пресную воду получают из морской.",
+            "thought": "На нашей яхте пресная вода есть получена из морской воды.",
+            "english": "On our yacht fresh water is obtained from seawater.",
+            "transcription": "[он ауэ йот фрэш w**о**:тэ из эбт**э**йнд фром с**и**:wо:тэ]"
+          },
+          {
+            "ours": "На этих островах непросто достать лёд.",
+            "thought": "Лёд есть не легко получен на этих островах.",
+            "english": "Ice isn't easily obtained on these islands.",
+            "transcription": "[айс изнт **и**:зили эбт**э**йнд он ðи:з **а**йлэндз]"
+          },
+          {
+            "ours": "Таблицы приливов берут в портовой конторе?",
+            "thought": "Есть [известные] приливные таблицы получены от [известного] гавани офиса?",
+            "english": "Are the tide tables obtained from the harbor office?",
+            "transcription": "[а: ðэ тайд т**э**йблз эбт**э**йнд фром ðэ х**а**:бэ **о**фис]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be obtained",
+        "examples": [
+          {
+            "ours": "Запасной аккумулятор достанут завтра.",
+            "thought": "[Известный] запасной аккумулятор будет быть получен завтра.",
+            "english": "The spare battery will be obtained tomorrow.",
+            "transcription": "[ðэ спээ б**æ**тэри wил би: эбт**э**йнд тэм**о**роу]"
+          },
+          {
+            "ours": "Разрешение на выход оформят не раньше понедельника.",
+            "thought": "Оформление будет не быть получено до понедельника.",
+            "english": "Clearance won't be obtained before Monday.",
+            "transcription": "[кл**и**эрэнс wоунт би: эбт**э**йнд биф**о**: м**а**ндэй]"
+          },
+          {
+            "ours": "Для реки возьмут лоцмана?",
+            "thought": "Будет [какой-то] лоцман быть получен для [известной] реки?",
+            "english": "Will a pilot be obtained for the river?",
+            "transcription": "[wил э п**а**йлэт би: эбт**э**йнд фо: ðэ р**и**вэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being obtained",
+        "examples": [
+          {
+            "ours": "Разрешения как раз оформляли, когда офис внезапно закрылся.",
+            "thought": "[Известные] разрешения были «долго» получены, когда [известный] офис внезапно закрылся.",
+            "english": "The permits were being obtained when the office suddenly closed.",
+            "transcription": "[ðэ п**œ**:митс wœ: б**и**:иŋ эбт**э**йнд wэн ðи **о**фис с**а**днли клоузд]"
+          },
+          {
+            "ours": "Солярку как раз набирали, когда сломался насос?",
+            "thought": "Был [известный] дизель «долго» получен, когда [известный] насос сломался?",
+            "english": "Was the diesel being obtained when the pump broke?",
+            "transcription": "[wоз ðэ д**и**:зл б**и**:иŋ эбт**э**йнд wэн ðэ памп броук]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being obtained",
+        "examples": [
+          {
+            "ours": "Визы для экипажа сейчас оформляют.",
+            "thought": "[Известного] экипажа визы есть «долго» получены сейчас.",
+            "english": "The crew's visas are being obtained now.",
+            "transcription": "[ðэ кру:з в**и**:зэз а: б**и**:иŋ эбт**э**йнд нау]"
+          },
+          {
+            "ours": "Для сломанной лебёдки сейчас ищут замену?",
+            "thought": "Есть [какая-то] замена «долго» получена для [известной] сломанной лебёдки сейчас?",
+            "english": "Is a replacement being obtained for the broken winch now?",
+            "transcription": "[из э рипл**э**йсмэнт б**и**:иŋ эбт**э**йнд фо: ðэ бр**о**укэн wинч нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be obtaining",
+        "examples": [
+          {
+            "ours": "Завтра всё утро они будут заправляться топливом и водой.",
+            "thought": "Завтра они будут быть получающими топливо и воду всё утро.",
+            "english": "Tomorrow they will be obtaining fuel and water all morning.",
+            "transcription": "[тэм**о**роу ðэй wил би: эбт**э**йниŋ фь**ю**:эл æнд w**о**:тэ о:л м**о**:ниŋ]"
+          },
+          {
+            "ours": "Они будут получать сводки погоды каждые шесть часов?",
+            "thought": "Будут они быть получающими погодные сводки каждые шесть часов?",
+            "english": "Will they be obtaining weather updates every six hours?",
+            "transcription": "[wил ðэй би: эбт**э**йниŋ w**э**ðэ **а**пдэйтс **э**ври сикс **а**уэз]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been obtained",
+        "examples": [
+          {
+            "ours": "К марту получили все лицензии для наших чартерных лодок.",
+            "thought": "К марту все [известные] лицензии для наших чартерных лодок имели быть получены.",
+            "english": "By March all the licences for our charter boats had been obtained.",
+            "transcription": "[бай ма:ч о:л ðэ л**а**йсэнсиз фо: ауэ ч**а**:тэ боутс хæд би:н эбт**э**йнд]"
+          },
+          {
+            "ours": "Когда лодка вошла в порт, разрешения ещё не было.",
+            "thought": "Разрешение имело не быть получено, когда [известная] лодка вошла [известный] порт.",
+            "english": "Permission hadn't been obtained when the boat entered the port.",
+            "transcription": "[пэм**и**шн хæднт би:н эбт**э**йнд wэн ðэ боут **э**нтэд ðэ по:т]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been obtained",
+        "examples": [
+          {
+            "ours": "Новое место для стоянки на зиму уже получили.",
+            "thought": "[Какое-то] новое место швартовки имеет уже быть получено для [известной] зимы.",
+            "english": "A new mooring has already been obtained for the winter.",
+            "transcription": "[э нью: м**у**эриŋ хæз о:лр**э**ди би:н эбт**э**йнд фо: ðэ w**и**нтэ]"
+          },
+          {
+            "ours": "Разрешение на новую мачту ещё не получено.",
+            "thought": "[Известное] одобрение для [известной] новой мачты имеет не быть получено ещё.",
+            "english": "The approval for the new mast hasn't been obtained yet.",
+            "transcription": "[ðи эпр**у**:вл фо: ðэ нью: ма:ст хæзнт би:н эбт**э**йнд йэт]"
+          },
+          {
+            "ours": "Смету на ремонт уже получили?",
+            "thought": "Имеет [какая-то] смета быть получена для [известных] ремонтов?",
+            "english": "Has a quote been obtained for the repairs?",
+            "transcription": "[хæз э кwоут би:н эбт**э**йнд фо: ðэ рип**э**эз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been obtained",
+        "examples": [
+          {
+            "ours": "К весне новый двигатель уже получат.",
+            "thought": "К весне [известный] новый двигатель будет иметь быть получен.",
+            "english": "By spring the new engine will have been obtained.",
+            "transcription": "[бай сприŋ ðэ нью: **э**нджин wил хæв би:н эбт**э**йнд]"
+          },
+          {
+            "ours": "Карты для перехода получат к маю?",
+            "thought": "Будут [известные] карты для [известного] перехода иметь быть получены к маю?",
+            "english": "Will the charts for the crossing have been obtained by May?",
+            "transcription": "[wил ðэ ча:тс фо: ðэ кр**о**сиŋ хæв би:н эбт**э**йнд бай мэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being obtained` не употребляется. Вместо этого скажут: `The permits have been obtained.` или `The yacht has been obtaining its power from solar panels for a year.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что шкипер где-нибудь добудет место у причала.",
+        "thought": "Я знал, [известный] шкипер будет получать [какое-то] причальное место где-нибудь.",
+        "english": "I knew the skipper would obtain a berth somewhere.",
+        "transcription": "[ай нью: ðэ ск**и**пэ wуд эбт**э**йн э бœ:θ с**а**мwээ]"
+      },
+      {
+        "ours": "Мы думали, что механик не достанет деталь до воскресенья.",
+        "thought": "Мы думали, [известный] механик будет не получать [известную] деталь до воскресенья.",
+        "english": "We thought the mechanic wouldn't obtain the part before Sunday.",
+        "transcription": "[wи: θо:т ðэ мик**æ**ник wуднт эбт**э**йн ðэ па:т биф**о**: с**а**ндэй]"
+      },
+      {
+        "ours": "Она надеялась, что клуб получит грант на юных яхтсменов.",
+        "thought": "Она надеялась, [известный] клуб будет получать [какой-то] грант для [известных] юных моряков.",
+        "english": "She hoped the club would obtain a grant for the junior sailors.",
+        "transcription": "[ши: хоупт ðэ клаб wуд эбт**э**йн э гра:нт фо: ðэ дж**у**:ниэ с**э**йлэз]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "permit",
+      "meaning": "разрешение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "permit"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "permits"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "permits"
+        }
+      ]
+    },
+    {
+      "word": "reserve",
+      "meaning": "заповедник",
+      "sense": "nature",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "reserve"
+        }
+      ]
+    },
+    {
+      "word": "diesel",
+      "meaning": "дизель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "diesel"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "diesel"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "diesel"
+        }
+      ]
+    },
+    {
+      "word": "village",
+      "meaning": "деревня",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "village"
+        }
+      ]
+    },
+    {
+      "word": "receipt",
+      "meaning": "квитанция",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "receipt"
+        }
+      ]
+    },
+    {
+      "word": "mooring",
+      "meaning": "швартовка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "mooring"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "mooring"
+        }
+      ]
+    },
+    {
+      "word": "fee",
+      "meaning": "сбор",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "fee"
+        }
+      ]
+    },
+    {
+      "word": "season",
+      "meaning": "сезон",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "season"
+        }
+      ]
+    },
+    {
+      "word": "club",
+      "meaning": "клуб",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "club"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "club"
+        }
+      ]
+    },
+    {
+      "word": "discount",
+      "meaning": "скидка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "discounts"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sails"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sails"
+        }
+      ]
+    },
+    {
+      "word": "member",
+      "meaning": "член",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "members"
+        }
+      ]
+    },
+    {
+      "word": "sister",
+      "meaning": "сестра",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sister"
+        }
+      ]
+    },
+    {
+      "word": "provision",
+      "meaning": "провизия",
+      "sense": "food",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "provisions"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "shop",
+      "meaning": "магазин",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "shop"
+        }
+      ]
+    },
+    {
+      "word": "gas",
+      "meaning": "газ",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "gas"
+        }
+      ]
+    },
+    {
+      "word": "area",
+      "meaning": "район",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "area"
+        }
+      ]
+    },
+    {
+      "word": "mechanic",
+      "meaning": "механик",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "mechanic"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "mechanic"
+        }
+      ]
+    },
+    {
+      "word": "propeller",
+      "meaning": "винт",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "propeller"
+        }
+      ]
+    },
+    {
+      "word": "town",
+      "meaning": "город",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "town"
+        }
+      ]
+    },
+    {
+      "word": "bread",
+      "meaning": "хлеб",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "bread"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "islands"
+        }
+      ]
+    },
+    {
+      "word": "permission",
+      "meaning": "разрешение",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "permission"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "Permission"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "position",
+      "meaning": "местоположение",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "position"
+        }
+      ]
+    },
+    {
+      "word": "sun",
+      "meaning": "солнце",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sun"
+        }
+      ]
+    },
+    {
+      "word": "cloud",
+      "meaning": "облако",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "clouds"
+        }
+      ]
+    },
+    {
+      "word": "agent",
+      "meaning": "агент",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "agent"
+        }
+      ]
+    },
+    {
+      "word": "part",
+      "meaning": "деталь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "parts"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "parts"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "part"
+        }
+      ]
+    },
+    {
+      "word": "shipyard",
+      "meaning": "верфь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "shipyard"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "shipyard"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.2",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "navigator",
+      "meaning": "штурман",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "navigator"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "satellite",
+      "meaning": "спутник",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "satellite"
+        }
+      ]
+    },
+    {
+      "word": "data",
+      "meaning": "данные",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "data"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "sensor",
+      "meaning": "датчик",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "sensor"
+        }
+      ]
+    },
+    {
+      "word": "signal",
+      "meaning": "сигнал",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "signal"
+        }
+      ]
+    },
+    {
+      "word": "port",
+      "meaning": "порт",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "port"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "port"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "port"
+        }
+      ]
+    },
+    {
+      "word": "clearance",
+      "meaning": "оформление",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "clearance"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "Clearance"
+        }
+      ]
+    },
+    {
+      "word": "price",
+      "meaning": "цена",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "prices"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "charts"
+        }
+      ]
+    },
+    {
+      "word": "Monday",
+      "meaning": "понедельник",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "Monday"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "Monday"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "berth",
+      "meaning": "причальное место",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "berth"
+        }
+      ]
+    },
+    {
+      "word": "insurance",
+      "meaning": "страховка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "insurance"
+        }
+      ]
+    },
+    {
+      "word": "crossing",
+      "meaning": "переход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "crossing"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "crossing"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "certificate",
+      "meaning": "сертификат",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "certificates"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "funding",
+      "meaning": "финансирование",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "funding"
+        }
+      ]
+    },
+    {
+      "word": "pontoon",
+      "meaning": "понтон",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "pontoons"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "licence",
+      "meaning": "лицензия",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "licence"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "licences"
+        }
+      ]
+    },
+    {
+      "word": "key",
+      "meaning": "ключ",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "key"
+        }
+      ]
+    },
+    {
+      "word": "gate",
+      "meaning": "ворота",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "gate"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "document",
+      "meaning": "документ",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "documents"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "fuel",
+      "meaning": "топливо",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "fuel"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "fuel"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "fuel"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "насос",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "Sailors"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "sailors"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "well",
+      "meaning": "колодец",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "well"
+        }
+      ]
+    },
+    {
+      "word": "century",
+      "meaning": "век",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "centuries"
+        }
+      ]
+    },
+    {
+      "word": "dock",
+      "meaning": "причал",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "dock"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "year"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "power",
+      "meaning": "энергия",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "power"
+        }
+      ]
+    },
+    {
+      "word": "panel",
+      "meaning": "панель",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "panels"
+        }
+      ]
+    },
+    {
+      "word": "fish",
+      "meaning": "рыба",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "fish"
+        }
+      ]
+    },
+    {
+      "word": "fisherman",
+      "meaning": "рыбак",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "fishermen"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "month"
+        }
+      ]
+    },
+    {
+      "word": "May",
+      "meaning": "май",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "May"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "May"
+        }
+      ]
+    },
+    {
+      "word": "school",
+      "meaning": "школа",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "school"
+        }
+      ]
+    },
+    {
+      "word": "expedition",
+      "meaning": "экспедиция",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "expedition"
+        }
+      ]
+    },
+    {
+      "word": "ice",
+      "meaning": "лёд",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "ice"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "Ice"
+        }
+      ]
+    },
+    {
+      "word": "sample",
+      "meaning": "проба",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "samples"
+        }
+      ]
+    },
+    {
+      "word": "auction",
+      "meaning": "аукцион",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "auction"
+        }
+      ]
+    },
+    {
+      "word": "dealer",
+      "meaning": "дилер",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "dealer"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "weather"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "seawater",
+      "meaning": "морская вода",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "seawater"
+        }
+      ]
+    },
+    {
+      "word": "tide",
+      "meaning": "прилив",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "tide"
+        }
+      ]
+    },
+    {
+      "word": "table",
+      "meaning": "таблица",
+      "sense": "chart",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "tables"
+        }
+      ]
+    },
+    {
+      "word": "office",
+      "meaning": "офис",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "office"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "office"
+        }
+      ]
+    },
+    {
+      "word": "battery",
+      "meaning": "аккумулятор",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "battery"
+        }
+      ]
+    },
+    {
+      "word": "pilot",
+      "meaning": "лоцман",
+      "sense": "harbour",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "pilot"
+        }
+      ]
+    },
+    {
+      "word": "river",
+      "meaning": "река",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "river"
+        }
+      ]
+    },
+    {
+      "word": "visa",
+      "meaning": "виза",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "visas"
+        }
+      ]
+    },
+    {
+      "word": "replacement",
+      "meaning": "замена",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "replacement"
+        }
+      ]
+    },
+    {
+      "word": "winch",
+      "meaning": "лебёдка",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "winch"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "update",
+      "meaning": "сводка",
+      "sense": "news",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "updates"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "March",
+      "meaning": "март",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "March"
+        }
+      ]
+    },
+    {
+      "word": "charter",
+      "meaning": "чартер",
+      "sense": "hire",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "charter"
+        }
+      ]
+    },
+    {
+      "word": "winter",
+      "meaning": "зима",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "winter"
+        }
+      ]
+    },
+    {
+      "word": "approval",
+      "meaning": "одобрение",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "approval"
+        }
+      ]
+    },
+    {
+      "word": "mast",
+      "meaning": "мачта",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "mast"
+        }
+      ]
+    },
+    {
+      "word": "quote",
+      "meaning": "смета",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "quote"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "repairs"
+        }
+      ]
+    },
+    {
+      "word": "spring",
+      "meaning": "весна",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "spring"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "Sunday",
+      "meaning": "воскресенье",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "Sunday"
+        }
+      ]
+    },
+    {
+      "word": "grant",
+      "meaning": "грант",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "grant"
+        }
+      ]
+    }
+  ]
+}

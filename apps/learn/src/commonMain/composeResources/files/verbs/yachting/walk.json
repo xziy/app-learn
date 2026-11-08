@@ -1,0 +1,549 @@
+{
+  "spec": 4,
+  "verb": "walk",
+  "forms": {
+    "base": [
+      {
+        "word": "walk",
+        "transcription": "[wо:к]"
+      }
+    ],
+    "past": [
+      {
+        "word": "walked",
+        "transcription": "[wо:кт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "walked",
+        "transcription": "[wо:кт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "walking",
+        "transcription": "[w**о**:киŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "walks",
+        "transcription": "[wо:кс]"
+      }
+    ]
+  },
+  "meaning": "ходить, идти пешком, гулять",
+  "notes": "правильный непереходный глагол в выбранном значении; пассив не образуется",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "walked",
+        "examples": [
+          {
+            "ours": "Вчера мы прошли вдоль причала.",
+            "thought": "Вчера мы шли вдоль [известного] причала.",
+            "english": "Yesterday we walked along the dock.",
+            "transcription": "[й**э**стэдэй wи: wо:кт эл**о**ŋ ðэ док]"
+          },
+          {
+            "ours": "Он не ходил на берег во время шторма.",
+            "thought": "Он [сделал] не ходить на берег во время [известного] шторма.",
+            "english": "He didn't walk ashore during the storm.",
+            "transcription": "[хи: диднт wо:к эш**о**: дь**ю**эриŋ ðэ сто:м]"
+          },
+          {
+            "ours": "Ты прошёл к марине до гонки?",
+            "thought": "[Сделал] ты идти к [известной] марине перед [известной] гонкой?",
+            "english": "Did you walk to the marina before the race?",
+            "transcription": "[дид ю: wо:к ту ðэ мэр**и**:нэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "walk, walks",
+        "examples": [
+          {
+            "ours": "Капитан каждый день ходит вдоль причала.",
+            "thought": "[Известный] капитан ходит вдоль [известного] причала каждый день.",
+            "english": "The captain walks along the dock every day.",
+            "transcription": "[ðэ к**æ**птин wо:кс эл**о**ŋ ðэ док **э**ври дэй]"
+          },
+          {
+            "ours": "Он не ходит по палубе во время гонки.",
+            "thought": "Он [делает] не ходить по [известной] палубе во время [известной] гонки.",
+            "english": "He doesn't walk on the deck during the race.",
+            "transcription": "[хи: дазнт wо:к он ðэ дэк дь**ю**эриŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Ты ходишь в марину каждое утро?",
+            "thought": "[Делаешь] ты ходить к [известной] марине каждое утро?",
+            "english": "Do you walk to the marina every morning?",
+            "transcription": "[ду: ю: wо:к ту ðэ мэр**и**:нэ **э**ври м**о**:ниŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will walk",
+        "examples": [
+          {
+            "ours": "Завтра мы прогуляемся вдоль гавани.",
+            "thought": "Завтра мы будем ходить вокруг [известной] гавани.",
+            "english": "Tomorrow we will walk around the harbor.",
+            "transcription": "[тэм**о**роу wи: wил wо:к эр**а**унд ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Он не будет ходить по палубе.",
+            "thought": "Он будет не ходить по [известной] палубе.",
+            "english": "He won't walk on the deck.",
+            "transcription": "[хи: wоунт wо:к он ðэ дэк]"
+          },
+          {
+            "ours": "Ты пойдёшь к причалу до гонки?",
+            "thought": "Будешь ты идти к [известному] причалу перед [известной] гонкой?",
+            "english": "Will you walk to the dock before the race?",
+            "transcription": "[wил ю: wо:к ту ðэ док биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were walking",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день гуляли вокруг гавани.",
+            "thought": "Вчера мы были ходящими вокруг [известной] гавани весь день.",
+            "english": "Yesterday we were walking around the harbor all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: w**о**:киŋ эр**а**унд ðэ х**а**:бэ о:л дэй]"
+          },
+          {
+            "ours": "Ты шёл вдоль причала, когда я пришёл?",
+            "thought": "Был ты идущим вдоль [известного] причала когда я пришёл?",
+            "english": "Were you walking along the dock when I came?",
+            "transcription": "[wœ: ю: w**о**:киŋ эл**о**ŋ ðэ док wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are walking",
+        "examples": [
+          {
+            "ours": "Сейчас мы идём к марине.",
+            "thought": "Мы являемся идущими к [известной] марине сейчас.",
+            "english": "We are walking to the marina now.",
+            "transcription": "[wи: а: w**о**:киŋ ту ðэ мэр**и**:нэ нау]"
+          },
+          {
+            "ours": "Ты сейчас идёшь вдоль причала?",
+            "thought": "Являешься ты идущим вдоль [известного] причала сейчас?",
+            "english": "Are you walking along the dock now?",
+            "transcription": "[а: ю: w**о**:киŋ эл**о**ŋ ðэ док нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be walking",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем гулять вокруг гавани.",
+            "thought": "Завтра мы будем быть ходящими вокруг [известной] гавани весь день.",
+            "english": "Tomorrow we will be walking around the harbor all day.",
+            "transcription": "[тэм**о**роу wи: wил би: w**о**:киŋ эр**а**унд ðэ х**а**:бэ о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь идти вдоль причала до гонки?",
+            "thought": "Будешь ты быть идущим вдоль [известного] причала перед [известной] гонкой?",
+            "english": "Will you be walking along the dock before the race?",
+            "transcription": "[wил ю: би: w**о**:киŋ эл**о**ŋ ðэ док биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had walked",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже прошли вокруг гавани.",
+            "thought": "К пяти вчера мы имели уже прошедшим вокруг [известной] гавани.",
+            "english": "By five yesterday we had already walked around the harbor.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди wо:кт эр**а**унд ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Ты дошёл до марины до гонки?",
+            "thought": "Имел ты прошедшим к [известной] марине перед [известной] гонкой?",
+            "english": "Had you walked to the marina before the race?",
+            "transcription": "[хæд ю: wо:кт ту ðэ мэр**и**:нэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has walked",
+        "examples": [
+          {
+            "ours": "Мы уже прошли вдоль причала.",
+            "thought": "Мы имеем уже прошедшим вдоль [известного] причала.",
+            "english": "We have already walked along the dock.",
+            "transcription": "[wи: хæв о:лр**э**ди wо:кт эл**о**ŋ ðэ док]"
+          },
+          {
+            "ours": "Ты уже дошёл до марины?",
+            "thought": "Имеешь ты уже прошедшим к [известной] марине?",
+            "english": "Have you already walked to the marina?",
+            "transcription": "[хæв ю: о:лр**э**ди wо:кт ту ðэ мэр**и**:нэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have walked",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже обойдём гавань.",
+            "thought": "К пяти завтра мы будем иметь уже прошедшим вокруг [известной] гавани.",
+            "english": "By five tomorrow we will have already walked around the harbor.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди wо:кт эр**а**унд ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Ты дойдёшь до марины до гонки?",
+            "thought": "Будешь ты иметь прошедшим к [известной] марине перед [известной] гонкой?",
+            "english": "Will you have walked to the marina before the race?",
+            "transcription": "[wил ю: хæв wо:кт ту ðэ мэр**и**:нэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been walking",
+        "examples": [
+          {
+            "ours": "Мы уже два часа гуляли вокруг гавани, когда ты пришёл.",
+            "thought": "Мы имели быть ходящими вокруг [известной] гавани целых два часа когда ты пришёл.",
+            "english": "We had been walking around the harbor for two hours when you came.",
+            "transcription": "[wи: хæд би:н w**о**:киŋ эр**а**унд ðэ х**а**:бэ фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа гулял вдоль причала, когда он пришёл?",
+            "thought": "Имел ты быть ходящим вдоль [известного] причала целых два часа когда он пришёл?",
+            "english": "Had you been walking along the dock for two hours when he came?",
+            "transcription": "[хæд ю: би:н w**о**:киŋ эл**о**ŋ ðэ док фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been walking",
+        "examples": [
+          {
+            "ours": "Мы уже два часа гуляем вокруг гавани.",
+            "thought": "Мы имеем быть ходящими вокруг [известной] гавани целых два часа.",
+            "english": "We have been walking around the harbor for two hours.",
+            "transcription": "[wи: хæв би:н w**о**:киŋ эр**а**унд ðэ х**а**:бэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа ходишь вдоль причала?",
+            "thought": "Имеешь ты быть ходящим вдоль [известного] причала целых два часа?",
+            "english": "Have you been walking along the dock for two hours?",
+            "transcription": "[хæв ю: би:н w**о**:киŋ эл**о**ŋ ðэ док фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been walking",
+        "examples": [
+          {
+            "ours": "К пяти мы будем гулять вокруг гавани уже два часа.",
+            "thought": "К пяти мы будем иметь быть ходящими вокруг [известной] гавани целых два часа.",
+            "english": "By five we will have been walking around the harbor for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н w**о**:киŋ эр**а**унд ðэ х**а**:бэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь гулять вдоль причала уже два часа?",
+            "thought": "Будешь ты иметь быть ходящим вдоль [известного] причала целых два часа к пяти?",
+            "english": "Will you have been walking along the dock for two hours by five?",
+            "transcription": "[wил ю: хæв би:н w**о**:киŋ эл**о**ŋ ðэ док фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "В значении «идти пешком, гулять» без прямого дополнения walk не образует пассив. Скажут: We walk along the dock."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они пойдут к марине.",
+        "thought": "[Известный] капитан сказал что они будут идти к [известной] марине.",
+        "english": "The captain said that they would walk to the marina.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд wо:к ту ðэ мэр**и**:нэ]"
+      },
+      {
+        "ours": "Я знал, что ты не пойдёшь на берег.",
+        "thought": "Я знал что ты будешь не ходить на берег.",
+        "english": "I knew that you wouldn't walk ashore.",
+        "transcription": "[ай нью: ðæт ю: wуднт wо:к эш**о**:]"
+      },
+      {
+        "ours": "Капитан сказал, что мы прогуляемся вдоль причала.",
+        "thought": "[Известный] капитан сказал что мы будем ходить вдоль [известного] причала.",
+        "english": "The captain said that we would walk along the dock.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд wо:к эл**о**ŋ ðэ док]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "dock",
+      "meaning": "причал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "dock"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "dock"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    }
+  ]
+}

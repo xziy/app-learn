@@ -1,0 +1,868 @@
+{
+  "spec": 4,
+  "verb": "return",
+  "forms": {
+    "base": [
+      {
+        "word": "return",
+        "transcription": "[рит**œ**:н]"
+      }
+    ],
+    "past": [
+      {
+        "word": "returned",
+        "transcription": "[рит**œ**:нд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "returned",
+        "transcription": "[рит**œ**:нд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "returning",
+        "transcription": "[рит**œ**:ниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "returns",
+        "transcription": "[рит**œ**:нз]"
+      }
+    ]
+  },
+  "meaning": "возвращаться, возвращать",
+  "notes": "правильный переходный и непереходный глагол; переходное значение допускает пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "returned",
+        "examples": [
+          {
+            "ours": "Вчера мы вернулись в марину.",
+            "thought": "Вчера мы вернулись в [известную] марину.",
+            "english": "Yesterday we returned to the marina.",
+            "transcription": "[й**э**стэдэй wи: рит**œ**:нд ту ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Он не вернул карту.",
+            "thought": "Он [сделал] не возвращать [известную] карту.",
+            "english": "He didn't return the chart.",
+            "transcription": "[хи: диднт рит**œ**:н ðэ ча:т]"
+          },
+          {
+            "ours": "Ты вернул рацию до выхода?",
+            "thought": "[Сделал] ты возвращать [известную] рацию перед выходом?",
+            "english": "Did you return the radio before departure?",
+            "transcription": "[дид ю: рит**œ**:н ðэ р**э**йдиоу биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "return, returns",
+        "examples": [
+          {
+            "ours": "Яхта возвращается в порт после каждой гонки.",
+            "thought": "[Известная] яхта возвращается в порт после каждой гонки.",
+            "english": "The yacht returns to port after each race.",
+            "transcription": "[ðэ йот рит**œ**:нз ту по:т **а**:фтэ и:ч рэйс]"
+          },
+          {
+            "ours": "Он не возвращает оборудование в марину.",
+            "thought": "Он [делает] не возвращать оборудование в [известную] марину.",
+            "english": "He doesn't return equipment to the marina.",
+            "transcription": "[хи: дазнт рит**œ**:н икw**и**пмэнт ту ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Ты возвращаешь карту капитану?",
+            "thought": "[Делаешь] ты возвращать [известную] карту к [известному] капитану?",
+            "english": "Do you return the chart to the captain?",
+            "transcription": "[ду: ю: рит**œ**:н ðэ ча:т ту ðэ к**æ**птин]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will return",
+        "examples": [
+          {
+            "ours": "Завтра мы вернёмся в гавань.",
+            "thought": "Завтра мы будем возвращаться в [известную] гавань.",
+            "english": "Tomorrow we will return to the harbor.",
+            "transcription": "[тэм**о**роу wи: wил рит**œ**:н ту ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Он не вернёт рацию до выхода.",
+            "thought": "Он будет не возвращать [известную] рацию перед выходом.",
+            "english": "He won't return the radio before departure.",
+            "transcription": "[хи: wоунт рит**œ**:н ðэ р**э**йдиоу биф**о**: дип**а**:чэ]"
+          },
+          {
+            "ours": "Ты вернёшь лодку до гонки?",
+            "thought": "Будешь ты возвращать [известную] лодку перед [известной] гонкой?",
+            "english": "Will you return the boat before the race?",
+            "transcription": "[wил ю: рит**œ**:н ðэ боут биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were returning",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день возвращались в порт.",
+            "thought": "Вчера мы были возвращающимися в порт весь день.",
+            "english": "Yesterday we were returning to port all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: рит**œ**:ниŋ ту по:т о:л дэй]"
+          },
+          {
+            "ours": "Ты возвращал оборудование, когда я пришёл?",
+            "thought": "Был ты возвращающим оборудование когда я пришёл?",
+            "english": "Were you returning equipment when I came?",
+            "transcription": "[wœ: ю: рит**œ**:ниŋ икw**и**пмэнт wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are returning",
+        "examples": [
+          {
+            "ours": "Сейчас мы возвращаемся в марину.",
+            "thought": "Мы являемся возвращающимися в [известную] марину сейчас.",
+            "english": "We are returning to the marina now.",
+            "transcription": "[wи: а: рит**œ**:ниŋ ту ðэ мэр**и**:нэ нау]"
+          },
+          {
+            "ours": "Ты сейчас возвращаешь рацию?",
+            "thought": "Являешься ты возвращающим [известную] рацию сейчас?",
+            "english": "Are you returning the radio now?",
+            "transcription": "[а: ю: рит**œ**:ниŋ ðэ р**э**йдиоу нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be returning",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем возвращаться в порт.",
+            "thought": "Завтра мы будем быть возвращающимися в порт весь день.",
+            "english": "Tomorrow we will be returning to port all day.",
+            "transcription": "[тэм**о**роу wи: wил би: рит**œ**:ниŋ ту по:т о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь возвращать оборудование до гонки?",
+            "thought": "Будешь ты быть возвращающим оборудование перед [известной] гонкой?",
+            "english": "Will you be returning equipment before the race?",
+            "transcription": "[wил ю: би: рит**œ**:ниŋ икw**и**пмэнт биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had returned",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже вернулись в марину.",
+            "thought": "К пяти вчера мы имели уже вернувшимся в [известную] марину.",
+            "english": "By five yesterday we had already returned to the marina.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди рит**œ**:нд ту ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Ты вернул рацию до выхода?",
+            "thought": "Имел ты возвращённой [известную] рацию перед выходом?",
+            "english": "Had you returned the radio before departure?",
+            "transcription": "[хæд ю: рит**œ**:нд ðэ р**э**йдиоу биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has returned",
+        "examples": [
+          {
+            "ours": "Мы уже вернулись в порт.",
+            "thought": "Мы имеем уже вернувшимся в порт.",
+            "english": "We have already returned to port.",
+            "transcription": "[wи: хæв о:лр**э**ди рит**œ**:нд ту по:т]"
+          },
+          {
+            "ours": "Ты уже вернул карту?",
+            "thought": "Имеешь ты уже возвращённой [известную] карту?",
+            "english": "Have you already returned the chart?",
+            "transcription": "[хæв ю: о:лр**э**ди рит**œ**:нд ðэ ча:т]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have returned",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже вернёмся в гавань.",
+            "thought": "К пяти завтра мы будем иметь уже вернувшимся в [известную] гавань.",
+            "english": "By five tomorrow we will have already returned to the harbor.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди рит**œ**:нд ту ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Ты вернёшь рацию до выхода?",
+            "thought": "Будешь ты иметь возвращённой [известную] рацию перед выходом?",
+            "english": "Will you have returned the radio before departure?",
+            "transcription": "[wил ю: хæв рит**œ**:нд ðэ р**э**йдиоу биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been returning",
+        "examples": [
+          {
+            "ours": "Мы уже два часа возвращали оборудование, когда ты пришёл.",
+            "thought": "Мы имели быть возвращающими оборудование целых два часа когда ты пришёл.",
+            "english": "We had been returning equipment for two hours when you came.",
+            "transcription": "[wи: хæд би:н рит**œ**:ниŋ икw**и**пмэнт фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа возвращал карты, когда он пришёл?",
+            "thought": "Имел ты быть возвращающим карты целых два часа когда он пришёл?",
+            "english": "Had you been returning charts for two hours when he came?",
+            "transcription": "[хæд ю: би:н рит**œ**:ниŋ ча:тс фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been returning",
+        "examples": [
+          {
+            "ours": "Мы уже два часа возвращаем оборудование.",
+            "thought": "Мы имеем быть возвращающими оборудование целых два часа.",
+            "english": "We have been returning equipment for two hours.",
+            "transcription": "[wи: хæв би:н рит**œ**:ниŋ икw**и**пмэнт фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа возвращаешь карты?",
+            "thought": "Имеешь ты быть возвращающим карты целых два часа?",
+            "english": "Have you been returning charts for two hours?",
+            "transcription": "[хæв ю: би:н рит**œ**:ниŋ ча:тс фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been returning",
+        "examples": [
+          {
+            "ours": "К пяти мы будем возвращать оборудование уже два часа.",
+            "thought": "К пяти мы будем иметь быть возвращающими оборудование целых два часа.",
+            "english": "By five we will have been returning equipment for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н рит**œ**:ниŋ икw**и**пмэнт фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь возвращать карты уже два часа?",
+            "thought": "Будешь ты иметь быть возвращающим карты целых два часа к пяти?",
+            "english": "Will you have been returning charts for two hours by five?",
+            "transcription": "[wил ю: хæв би:н рит**œ**:ниŋ ча:тс фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were returned",
+        "examples": [
+          {
+            "ours": "Вчера оборудование вернули в марину.",
+            "thought": "Оборудование было возвращено в [известную] марину вчера.",
+            "english": "Equipment was returned to the marina yesterday.",
+            "transcription": "[икw**и**пмэнт wоз рит**œ**:нд ту ðэ мэр**и**:нэ й**э**стэдэй]"
+          },
+          {
+            "ours": "Карту вернули до выхода?",
+            "thought": "Была [известная] карта возвращена перед выходом?",
+            "english": "Was the chart returned before departure?",
+            "transcription": "[wоз ðэ ча:т рит**œ**:нд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are returned",
+        "examples": [
+          {
+            "ours": "После гонки оборудование возвращают капитану.",
+            "thought": "Оборудование есть возвращено к [известному] капитану после [известной] гонки.",
+            "english": "Equipment is returned to the captain after the race.",
+            "transcription": "[икw**и**пмэнт из рит**œ**:нд ту ðэ к**æ**птин **а**:фтэ ðэ рэйс]"
+          },
+          {
+            "ours": "Карту возвращают в марину?",
+            "thought": "Есть [известная] карта возвращена в [известную] марину?",
+            "english": "Is the chart returned to the marina?",
+            "transcription": "[из ðэ ча:т рит**œ**:нд ту ðэ мэр**и**:нэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be returned",
+        "examples": [
+          {
+            "ours": "Завтра оборудование вернут в марину.",
+            "thought": "Оборудование будет быть возвращено в [известную] марину завтра.",
+            "english": "Equipment will be returned to the marina tomorrow.",
+            "transcription": "[икw**и**пмэнт wил би: рит**œ**:нд ту ðэ мэр**и**:нэ тэм**о**роу]"
+          },
+          {
+            "ours": "Рацию вернут до выхода?",
+            "thought": "Будет [известная] рация быть возвращена перед выходом?",
+            "english": "Will the radio be returned before departure?",
+            "transcription": "[wил ðэ р**э**йдиоу би: рит**œ**:нд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being returned",
+        "examples": [
+          {
+            "ours": "Вчера оборудование весь день возвращали в марину.",
+            "thought": "Вчера оборудование было «долго» возвращено в [известную] марину весь день.",
+            "english": "Yesterday equipment was being returned to the marina all day.",
+            "transcription": "[й**э**стэдэй икw**и**пмэнт wоз б**и**:иŋ рит**œ**:нд ту ðэ мэр**и**:нэ о:л дэй]"
+          },
+          {
+            "ours": "Карты возвращали, когда ты пришёл?",
+            "thought": "Были карты «долго» возвращены когда ты пришёл?",
+            "english": "Were charts being returned when you came?",
+            "transcription": "[wœ: ча:тс б**и**:иŋ рит**œ**:нд wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being returned",
+        "examples": [
+          {
+            "ours": "Сейчас оборудование возвращают в марину.",
+            "thought": "Оборудование есть «долго» возвращено в [известную] марину сейчас.",
+            "english": "Equipment is being returned to the marina now.",
+            "transcription": "[икw**и**пмэнт из б**и**:иŋ рит**œ**:нд ту ðэ мэр**и**:нэ нау]"
+          },
+          {
+            "ours": "Сейчас возвращают карты?",
+            "thought": "Есть карты «долго» возвращены сейчас?",
+            "english": "Are charts being returned now?",
+            "transcription": "[а: ча:тс б**и**:иŋ рит**œ**:нд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be returning",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут возвращать оборудование.",
+            "thought": "Завтра они будут быть возвращающими оборудование весь день.",
+            "english": "Tomorrow they will be returning equipment all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: рит**œ**:ниŋ икw**и**пмэнт о:л дэй]"
+          },
+          {
+            "ours": "Они будут возвращать карты до гонки?",
+            "thought": "Будут они быть возвращающими карты перед [известной] гонкой?",
+            "english": "Will they be returning charts before the race?",
+            "transcription": "[wил ðэй би: рит**œ**:ниŋ ча:тс биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been returned",
+        "examples": [
+          {
+            "ours": "Вчера к пяти оборудование уже вернули.",
+            "thought": "К пяти вчера оборудование имело уже быть возвращено.",
+            "english": "By five yesterday equipment had already been returned.",
+            "transcription": "[бай файв й**э**стэдэй икw**и**пмэнт хæд о:лр**э**ди би:н рит**œ**:нд]"
+          },
+          {
+            "ours": "Рацию вернули до выхода?",
+            "thought": "Имела [известная] рация быть возвращена перед выходом?",
+            "english": "Had the radio been returned before departure?",
+            "transcription": "[хæд ðэ р**э**йдиоу би:н рит**œ**:нд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been returned",
+        "examples": [
+          {
+            "ours": "Карту уже вернули капитану.",
+            "thought": "[Известная] карта имеет уже быть возвращена к [известному] капитану.",
+            "english": "The chart has already been returned to the captain.",
+            "transcription": "[ðэ ча:т хæз о:лр**э**ди би:н рит**œ**:нд ту ðэ к**æ**птин]"
+          },
+          {
+            "ours": "Рацию уже вернули?",
+            "thought": "Имеет [известная] рация уже быть возвращена?",
+            "english": "Has the radio already been returned?",
+            "transcription": "[хæз ðэ р**э**йдиоу о:лр**э**ди би:н рит**œ**:нд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been returned",
+        "examples": [
+          {
+            "ours": "К пяти завтра оборудование уже вернут.",
+            "thought": "К пяти завтра оборудование будет уже иметь быть возвращено.",
+            "english": "By five tomorrow equipment will already have been returned.",
+            "transcription": "[бай файв тэм**о**роу икw**и**пмэнт wил о:лр**э**ди хæв би:н рит**œ**:нд]"
+          },
+          {
+            "ours": "Карту вернут до выхода?",
+            "thought": "Будет [известная] карта иметь быть возвращена перед выходом?",
+            "english": "Will the chart have been returned before departure?",
+            "transcription": "[wил ðэ ча:т хæв би:н рит**œ**:нд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: Equipment has been returned. Или: They have been returning equipment."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они вернутся в марину.",
+        "thought": "[Известный] капитан сказал что они будут возвращаться в [известную] марину.",
+        "english": "The captain said that they would return to the marina.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд рит**œ**:н ту ðэ мэр**и**:нэ]"
+      },
+      {
+        "ours": "Я знал, что ты не вернёшь карту.",
+        "thought": "Я знал что ты будешь не возвращать [известную] карту.",
+        "english": "I knew that you wouldn't return the chart.",
+        "transcription": "[ай нью: ðæт ю: wуднт рит**œ**:н ðэ ча:т]"
+      },
+      {
+        "ours": "Капитан сказал, что мы вернём оборудование.",
+        "thought": "[Известный] капитан сказал что мы будем возвращать оборудование.",
+        "english": "The captain said that we would return equipment.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд рит**œ**:н икw**и**пмэнт]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "рация",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "выход",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "port",
+      "meaning": "порт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "port"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "port"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "port"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "port"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "equipment",
+      "meaning": "оборудование",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Equipment"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Equipment"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Equipment"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Equipment"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "equipment"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    }
+  ]
+}

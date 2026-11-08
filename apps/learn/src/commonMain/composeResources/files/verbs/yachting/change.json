@@ -1,0 +1,842 @@
+{
+  "spec": 4,
+  "verb": "change",
+  "forms": {
+    "base": [
+      {
+        "word": "change",
+        "transcription": "[чэйндж]"
+      }
+    ],
+    "past": [
+      {
+        "word": "changed",
+        "transcription": "[чэйнджд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "changed",
+        "transcription": "[чэйнджд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "changing",
+        "transcription": "[ч**э**йнджиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "changes",
+        "transcription": "[ч**э**йнджиз]"
+      }
+    ]
+  },
+  "meaning": "менять, изменяться",
+  "notes": "правильный глагол, бывает переходным и непереходным; переходное значение образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "changed",
+        "examples": [
+          {
+            "ours": "Вчера мы сменили курс.",
+            "thought": "Вчера мы сменили [известный] курс.",
+            "english": "Yesterday we changed the course.",
+            "transcription": "[й**э**стэдэй wи: чэйнджд ðэ ко:с]"
+          },
+          {
+            "ours": "Ты поменял парус?",
+            "thought": "[Сделал] ты менять [известный] парус?",
+            "english": "Did you change the sail?",
+            "transcription": "[дид ю: чэйндж ðэ сэйл]"
+          },
+          {
+            "ours": "Ветер не изменился.",
+            "thought": "[Известный] ветер [сделал] не измениться.",
+            "english": "The wind did not change.",
+            "transcription": "[ðэ wинд дид нот чэйндж]"
+          }
+        ]
+      },
+      "present": {
+        "form": "change, changes",
+        "examples": [
+          {
+            "ours": "Погода быстро меняется.",
+            "thought": "[Известная] погода меняется быстро.",
+            "english": "The weather changes quickly.",
+            "transcription": "[ðэ w**э**ðэ ч**э**йнджиз кw**и**кли]"
+          },
+          {
+            "ours": "Ты меняешь паруса перед гонкой?",
+            "thought": "[Делаешь] ты менять паруса до [известной] гонки?",
+            "english": "Do you change sails before the race?",
+            "transcription": "[ду: ю: чэйндж сэйлз биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Мы не меняем маршрут ночью.",
+            "thought": "Мы [делаем] не менять [известный] маршрут в ночь.",
+            "english": "We do not change the route at night.",
+            "transcription": "[wи: ду: нот чэйндж ðэ ру:т æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will change",
+        "examples": [
+          {
+            "ours": "Завтра мы изменим маршрут.",
+            "thought": "Завтра мы будем менять [известный] маршрут.",
+            "english": "Tomorrow we will change the route.",
+            "transcription": "[тэм**о**роу wи: wил чэйндж ðэ ру:т]"
+          },
+          {
+            "ours": "Ты поменяешь парус?",
+            "thought": "Будешь ты менять [известный] парус?",
+            "english": "Will you change the sail?",
+            "transcription": "[wил ю: чэйндж ðэ сэйл]"
+          },
+          {
+            "ours": "Ветер сегодня не изменится.",
+            "thought": "[Известный] ветер будет не изменяться сегодня.",
+            "english": "The wind will not change today.",
+            "transcription": "[ðэ wинд wил нот чэйндж тэд**э**й]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were changing",
+        "examples": [
+          {
+            "ours": "Вчера утром мы меняли паруса.",
+            "thought": "Вчера утром мы были меняющими [известные] паруса.",
+            "english": "Yesterday morning we were changing the sails.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: ч**э**йнджиŋ ðэ сэйлз]"
+          },
+          {
+            "ours": "Ты менял курс, когда я позвал?",
+            "thought": "Был ты меняющим [известный] курс, когда я позвал?",
+            "english": "Were you changing the course when I called?",
+            "transcription": "[wœ: ю: ч**э**йнджиŋ ðэ ко:с wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are changing",
+        "examples": [
+          {
+            "ours": "Мы сейчас меняем парус.",
+            "thought": "Мы являемся меняющими [известный] парус сейчас.",
+            "english": "We are changing the sail now.",
+            "transcription": "[wи: а: ч**э**йнджиŋ ðэ сэйл нау]"
+          },
+          {
+            "ours": "Ветер сейчас меняется?",
+            "thought": "Является [известный] ветер меняющимся сейчас?",
+            "english": "Is the wind changing now?",
+            "transcription": "[из ðэ wинд ч**э**йнджиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be changing",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем менять паруса.",
+            "thought": "Завтра утром мы будем быть меняющими [известные] паруса.",
+            "english": "Tomorrow morning we will be changing the sails.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: ч**э**йнджиŋ ðэ сэйлз]"
+          },
+          {
+            "ours": "Ты будешь менять курс во время гонки?",
+            "thought": "Будешь ты быть меняющим курс во время [известной] гонки?",
+            "english": "Will you be changing course during the race?",
+            "transcription": "[wил ю: би: ч**э**йнджиŋ ко:с дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had changed",
+        "examples": [
+          {
+            "ours": "К полудню мы уже сменили парус.",
+            "thought": "К полудню мы имели уже сменённым [известный] парус.",
+            "english": "By noon we had already changed the sail.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди чэйнджд ðэ сэйл]"
+          },
+          {
+            "ours": "Ты сменил курс до шторма?",
+            "thought": "Имел ты изменённым [известный] курс до [известного] шторма?",
+            "english": "Had you changed the course before the storm?",
+            "transcription": "[хæд ю: чэйнджд ðэ ко:с биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has changed",
+        "examples": [
+          {
+            "ours": "Мы уже изменили маршрут.",
+            "thought": "Мы имеем уже изменённым [известный] маршрут.",
+            "english": "We have already changed the route.",
+            "transcription": "[wи: хæв о:лр**э**ди чэйнджд ðэ ру:т]"
+          },
+          {
+            "ours": "Ветер уже изменился?",
+            "thought": "Имеет [известный] ветер изменившимся уже?",
+            "english": "Has the wind changed yet?",
+            "transcription": "[хæз ðэ wинд чэйнджд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have changed",
+        "examples": [
+          {
+            "ours": "К полудню мы сменим парус.",
+            "thought": "К полудню мы будем иметь сменённым [известный] парус.",
+            "english": "By noon we will have changed the sail.",
+            "transcription": "[бай ну:н wи: wил хæв чэйнджд ðэ сэйл]"
+          },
+          {
+            "ours": "Ты сменишь курс к пяти?",
+            "thought": "Будешь ты иметь изменённым [известный] курс к пяти?",
+            "english": "Will you have changed the course by five?",
+            "transcription": "[wил ю: хæв чэйнджд ðэ ко:с бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been changing",
+        "examples": [
+          {
+            "ours": "Ветер менял направление уже час, когда начался дождь.",
+            "thought": "[Известный] ветер имел быть меняющим направление целый [какой-то] час, когда он начал идти дождём.",
+            "english": "The wind had been changing direction for an hour when it started raining.",
+            "transcription": "[ðэ wинд хæд би:н ч**э**йнджиŋ дир**э**кшн фо: эн **а**уэ wэн ит ст**а**:тид р**э**йниŋ]"
+          },
+          {
+            "ours": "Вы меняли паруса два часа до старта?",
+            "thought": "Имели вы быть меняющими паруса целых два часа до [известного] старта?",
+            "english": "Had you been changing sails for two hours before the start?",
+            "transcription": "[хæд ю: би:н ч**э**йнджиŋ сэйлз фо: ту: **а**уэз биф**о**: ðэ ста:т]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been changing",
+        "examples": [
+          {
+            "ours": "Ветер меняет направление уже час.",
+            "thought": "[Известный] ветер имеет быть меняющим направление целый [какой-то] час.",
+            "english": "The wind has been changing direction for an hour.",
+            "transcription": "[ðэ wинд хæз би:н ч**э**йнджиŋ дир**э**кшн фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Вы меняете паруса уже два часа?",
+            "thought": "Имеете вы быть меняющими паруса целых два часа?",
+            "english": "Have you been changing sails for two hours?",
+            "transcription": "[хæв ю: би:н ч**э**йнджиŋ сэйлз фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been changing",
+        "examples": [
+          {
+            "ours": "К пяти ветер будет менять направление уже два часа.",
+            "thought": "К пяти [известный] ветер будет иметь быть меняющим направление целых два часа.",
+            "english": "By five the wind will have been changing direction for two hours.",
+            "transcription": "[бай файв ðэ wинд wил хæв би:н ч**э**йнджиŋ дир**э**кшн фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню вы будете менять паруса уже час?",
+            "thought": "Будете вы иметь быть меняющими паруса целый [какой-то] час к полудню?",
+            "english": "Will you have been changing sails for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н ч**э**йнджиŋ сэйлз фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were changed",
+        "examples": [
+          {
+            "ours": "Парус сменили вчера.",
+            "thought": "[Известный] парус был сменён вчера.",
+            "english": "The sail was changed yesterday.",
+            "transcription": "[ðэ сэйл wоз чэйнджд й**э**стэдэй]"
+          },
+          {
+            "ours": "Курс изменили после шторма?",
+            "thought": "Был [известный] курс изменён после [известного] шторма?",
+            "english": "Was the course changed after the storm?",
+            "transcription": "[wоз ðэ ко:с чэйнджд **а**:фтэ ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are changed",
+        "examples": [
+          {
+            "ours": "Паруса меняют перед каждой гонкой.",
+            "thought": "Паруса есть сменены до каждой гонки.",
+            "english": "Sails are changed before every race.",
+            "transcription": "[сэйлз а: чэйнджд биф**о**: **э**ври рэйс]"
+          },
+          {
+            "ours": "Маршрут меняют каждую неделю?",
+            "thought": "Есть [известный] маршрут изменён каждую неделю?",
+            "english": "Is the route changed every week?",
+            "transcription": "[из ðэ ру:т чэйнджд **э**ври wи:к]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be changed",
+        "examples": [
+          {
+            "ours": "Маршрут изменят завтра.",
+            "thought": "[Известный] маршрут будет быть изменён завтра.",
+            "english": "The route will be changed tomorrow.",
+            "transcription": "[ðэ ру:т wил би: чэйнджд тэм**о**роу]"
+          },
+          {
+            "ours": "Парус сменят до старта?",
+            "thought": "Будет [известный] парус быть сменён до [известного] старта?",
+            "english": "Will the sail be changed before the start?",
+            "transcription": "[wил ðэ сэйл би: чэйнджд биф**о**: ðэ ста:т]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being changed",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, парус меняли.",
+            "thought": "[Известный] парус был «долго» сменён, когда я прибыл.",
+            "english": "The sail was being changed when I arrived.",
+            "transcription": "[ðэ сэйл wоз б**и**:иŋ чэйнджд wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, маршруты меняли?",
+            "thought": "Были [известные] маршруты «долго» изменены, когда ты позвонил?",
+            "english": "Were the routes being changed when you called?",
+            "transcription": "[wœ: ðэ ру:тс б**и**:иŋ чэйнджд wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being changed",
+        "examples": [
+          {
+            "ours": "Парус сейчас меняют.",
+            "thought": "[Известный] парус есть «долго» сменён сейчас.",
+            "english": "The sail is being changed now.",
+            "transcription": "[ðэ сэйл из б**и**:иŋ чэйнджд нау]"
+          },
+          {
+            "ours": "Маршруты сейчас меняют?",
+            "thought": "Есть [известные] маршруты «долго» изменены сейчас?",
+            "english": "Are the routes being changed now?",
+            "transcription": "[а: ðэ ру:тс б**и**:иŋ чэйнджд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be changing",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут менять парус.",
+            "thought": "Завтра утром они будут быть меняющими [известный] парус.",
+            "english": "Tomorrow morning they will be changing the sail.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: ч**э**йнджиŋ ðэ сэйл]"
+          },
+          {
+            "ours": "Они будут менять маршруты днём?",
+            "thought": "Будут они быть меняющими [известные] маршруты это время после полудня?",
+            "english": "Will they be changing the routes this afternoon?",
+            "transcription": "[wил ðэй би: ч**э**йнджиŋ ðэ ру:тс ðис а:фтэн**у**:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been changed",
+        "examples": [
+          {
+            "ours": "К полудню парус уже сменили.",
+            "thought": "К полудню [известный] парус имел уже быть сменён.",
+            "english": "By noon the sail had already been changed.",
+            "transcription": "[бай ну:н ðэ сэйл хæд о:лр**э**ди би:н чэйнджд]"
+          },
+          {
+            "ours": "Курс изменили до шторма?",
+            "thought": "Имел [известный] курс быть изменён до [известного] шторма?",
+            "english": "Had the course been changed before the storm?",
+            "transcription": "[хæд ðэ ко:с би:н чэйнджд биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been changed",
+        "examples": [
+          {
+            "ours": "Маршрут уже изменили.",
+            "thought": "[Известный] маршрут имеет уже быть изменён.",
+            "english": "The route has already been changed.",
+            "transcription": "[ðэ ру:т хæз о:лр**э**ди би:н чэйнджд]"
+          },
+          {
+            "ours": "Парус уже сменили?",
+            "thought": "Имеет [известный] парус быть сменён уже?",
+            "english": "Has the sail been changed yet?",
+            "transcription": "[хæз ðэ сэйл би:н чэйнджд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been changed",
+        "examples": [
+          {
+            "ours": "К полудню парус уже сменят.",
+            "thought": "К полудню [известный] парус будет иметь быть сменён.",
+            "english": "By noon the sail will have been changed.",
+            "transcription": "[бай ну:н ðэ сэйл wил хæв би:н чэйнджд]"
+          },
+          {
+            "ours": "Маршрут изменят к пяти?",
+            "thought": "Будет [известный] маршрут иметь быть изменён к пяти?",
+            "english": "Will the route have been changed by five?",
+            "transcription": "[wил ðэ ру:т хæв би:н чэйнджд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been changing sails."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они сменят парус.",
+        "thought": "Я знал, они будут менять [известный] парус.",
+        "english": "I knew they would change the sail.",
+        "transcription": "[ай нью: ðэй wуд чэйндж ðэ сэйл]"
+      },
+      {
+        "ours": "Она думала, что мы не изменим маршрут.",
+        "thought": "Она думала, мы будем не менять [известный] маршрут.",
+        "english": "She thought we would not change the route.",
+        "transcription": "[ши: θо:т wи: wуд нот чэйндж ðэ ру:т]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "course",
+      "meaning": "курс",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "course"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "course"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "course"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "course"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "course"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sails"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sails"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "sails"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "sails"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "sails"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "sails"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Sails"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "routes"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "routes"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "routes"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "direction",
+      "meaning": "направление",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "direction"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "direction"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "direction"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "start",
+      "meaning": "старт",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "start"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "start"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "week"
+        }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "meaning": "время после полудня",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "afternoon"
+        }
+      ]
+    }
+  ]
+}

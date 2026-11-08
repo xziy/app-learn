@@ -1,0 +1,648 @@
+{
+  "spec": 4,
+  "verb": "allow",
+  "forms": {
+    "base": [
+      {
+        "word": "allow",
+        "transcription": "[эл**а**у]"
+      }
+    ],
+    "past": [
+      {
+        "word": "allowed",
+        "transcription": "[эл**а**уд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "allowed",
+        "transcription": "[эл**а**уд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "allowing",
+        "transcription": "[эл**а**уиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "allows",
+        "transcription": "[эл**а**уз]"
+      }
+    ]
+  },
+  "meaning": "разрешать, позволять",
+  "notes": "правильный переходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "allowed",
+        "examples": [
+          {
+            "ours": "Вчера капитан разрешил купание.",
+            "thought": "Вчера [известный] капитан разрешил купание.",
+            "english": "Yesterday the skipper allowed swimming.",
+            "transcription": "[й**э**стэдэй ðэ ск**и**пэ эл**а**уд сw**и**миŋ]"
+          },
+          {
+            "ours": "Марина не разрешила стоянку.",
+            "thought": "[Известная] марина [сделала] не разрешать стоянку.",
+            "english": "The marina did not allow docking.",
+            "transcription": "[ðэ мэр**и**:нэ дид нот эл**а**у д**о**киŋ]"
+          },
+          {
+            "ours": "Ты разрешил рыбалку?",
+            "thought": "[Сделал] ты разрешать рыбалку?",
+            "english": "Did you allow fishing?",
+            "transcription": "[дид ю: эл**а**у ф**и**шиŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "allow, allows",
+        "examples": [
+          {
+            "ours": "Клуб разрешает купание.",
+            "thought": "[Известный] клуб разрешает купание.",
+            "english": "The club allows swimming.",
+            "transcription": "[ðэ клаб эл**а**уз сw**и**миŋ]"
+          },
+          {
+            "ours": "Марина не разрешает рыбалку.",
+            "thought": "[Известная] марина [делает] не разрешать рыбалку.",
+            "english": "The marina does not allow fishing.",
+            "transcription": "[ðэ мэр**и**:нэ даз нот эл**а**у ф**и**шиŋ]"
+          },
+          {
+            "ours": "Ты разрешаешь купание?",
+            "thought": "[Делаешь] ты разрешать купание?",
+            "english": "Do you allow swimming?",
+            "transcription": "[ду: ю: эл**а**у сw**и**миŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will allow",
+        "examples": [
+          {
+            "ours": "Завтра капитан разрешит купание.",
+            "thought": "Завтра [известный] капитан будет разрешать купание.",
+            "english": "Tomorrow the skipper will allow swimming.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил эл**а**у сw**и**миŋ]"
+          },
+          {
+            "ours": "Марина не разрешит стоянку.",
+            "thought": "[Известная] марина будет не разрешать стоянку.",
+            "english": "The marina will not allow docking.",
+            "transcription": "[ðэ мэр**и**:нэ wил нот эл**а**у д**о**киŋ]"
+          },
+          {
+            "ours": "Ты разрешишь рыбалку?",
+            "thought": "Будешь ты разрешать рыбалку?",
+            "english": "Will you allow fishing?",
+            "transcription": "[wил ю: эл**а**у ф**и**шиŋ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were allowing",
+        "examples": [
+          {
+            "ours": "Вчера марина весь день разрешала стоянку.",
+            "thought": "Вчера [известная] марина была разрешающей стоянку весь день.",
+            "english": "Yesterday the marina was allowing docking all day.",
+            "transcription": "[й**э**стэдэй ðэ мэр**и**:нэ wоз эл**а**уиŋ д**о**киŋ о:л дэй]"
+          },
+          {
+            "ours": "Клуб разрешал купание, когда ты прибыл?",
+            "thought": "Был [известный] клуб разрешающим купание, когда ты прибыл?",
+            "english": "Was the club allowing swimming when you arrived?",
+            "transcription": "[wоз ðэ клаб эл**а**уиŋ сw**и**миŋ wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are allowing",
+        "examples": [
+          {
+            "ours": "Клуб сейчас разрешает купание.",
+            "thought": "[Известный] клуб является разрешающим купание сейчас.",
+            "english": "The club is allowing swimming now.",
+            "transcription": "[ðэ клаб из эл**а**уиŋ сw**и**миŋ нау]"
+          },
+          {
+            "ours": "Марина сейчас не разрешает стоянку.",
+            "thought": "[Известная] марина является не разрешающей стоянку сейчас.",
+            "english": "The marina is not allowing docking now.",
+            "transcription": "[ðэ мэр**и**:нэ из нот эл**а**уиŋ д**о**киŋ нау]"
+          },
+          {
+            "ours": "Капитан сейчас разрешает рыбалку?",
+            "thought": "Является [известный] капитан разрешающим рыбалку сейчас?",
+            "english": "Is the skipper allowing fishing now?",
+            "transcription": "[из ðэ ск**и**пэ эл**а**уиŋ ф**и**шиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be allowing",
+        "examples": [
+          {
+            "ours": "Завтра клуб будет разрешать купание весь день.",
+            "thought": "Завтра [известный] клуб будет быть разрешающим купание весь день.",
+            "english": "Tomorrow the club will be allowing swimming all day.",
+            "transcription": "[тэм**о**роу ðэ клаб wил би: эл**а**уиŋ сw**и**миŋ о:л дэй]"
+          },
+          {
+            "ours": "Завтра марина будет разрешать стоянку весь день?",
+            "thought": "Будет [известная] марина быть разрешающей стоянку весь день завтра?",
+            "english": "Will the marina be allowing docking all day tomorrow?",
+            "transcription": "[wил ðэ мэр**и**:нэ би: эл**а**уиŋ д**о**киŋ о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had allowed",
+        "examples": [
+          {
+            "ours": "К пяти капитан уже разрешил купание.",
+            "thought": "К пяти [известный] капитан имел уже разрешённым купание.",
+            "english": "By five the skipper had already allowed swimming.",
+            "transcription": "[бай файв ðэ ск**и**пэ хæд о:лр**э**ди эл**а**уд сw**и**миŋ]"
+          },
+          {
+            "ours": "К тому времени марина ещё не разрешила стоянку.",
+            "thought": "К тогда [известная] марина имела не разрешённой стоянку ещё.",
+            "english": "By then the marina had not allowed docking yet.",
+            "transcription": "[бай ðэн ðэ мэр**и**:нэ хæд нот эл**а**уд д**о**киŋ йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has allowed",
+        "examples": [
+          {
+            "ours": "Капитан уже разрешил купание.",
+            "thought": "[Известный] капитан имеет уже разрешённым купание.",
+            "english": "The skipper has already allowed swimming.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди эл**а**уд сw**и**миŋ]"
+          },
+          {
+            "ours": "Марина ещё не разрешила стоянку.",
+            "thought": "[Известная] марина имеет не разрешённой стоянку ещё.",
+            "english": "The marina has not allowed docking yet.",
+            "transcription": "[ðэ мэр**и**:нэ хæз нот эл**а**уд д**о**киŋ йэт]"
+          },
+          {
+            "ours": "Клуб уже разрешил рыбалку?",
+            "thought": "Имеет [известный] клуб разрешённой рыбалку уже?",
+            "english": "Has the club allowed fishing yet?",
+            "transcription": "[хæз ðэ клаб эл**а**уд ф**и**шиŋ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have allowed",
+        "examples": [
+          {
+            "ours": "К пяти капитан разрешит купание.",
+            "thought": "К пяти [известный] капитан будет иметь разрешённым купание.",
+            "english": "By five the skipper will have allowed swimming.",
+            "transcription": "[бай файв ðэ ск**и**пэ wил хæв эл**а**уд сw**и**миŋ]"
+          },
+          {
+            "ours": "К полудню клуб разрешит рыбалку?",
+            "thought": "Будет [известный] клуб иметь разрешённой рыбалку к полудню?",
+            "english": "Will the club have allowed fishing by noon?",
+            "transcription": "[wил ðэ клаб хæв эл**а**уд ф**и**шиŋ бай ну:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been allowing",
+        "examples": [
+          {
+            "ours": "Клуб разрешал купание два часа, когда поднялся ветер.",
+            "thought": "[Известный] клуб имел быть разрешающим купание целых два часа, когда [известный] ветер поднялся.",
+            "english": "The club had been allowing swimming for two hours when the wind rose.",
+            "transcription": "[ðэ клаб хæд би:н эл**а**уиŋ сw**и**миŋ фо: ту: **а**уэз wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Марина давно разрешала стоянку, когда вы прибыли?",
+            "thought": "Имела [известная] марина быть разрешающей стоянку долго, когда вы прибыли?",
+            "english": "Had the marina been allowing docking long when you arrived?",
+            "transcription": "[хæд ðэ мэр**и**:нэ би:н эл**а**уиŋ д**о**киŋ лоŋ wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been allowing",
+        "examples": [
+          {
+            "ours": "Клуб разрешает купание уже два часа.",
+            "thought": "[Известный] клуб имеет быть разрешающим купание целых два часа.",
+            "english": "The club has been allowing swimming for two hours.",
+            "transcription": "[ðэ клаб хæз би:н эл**а**уиŋ сw**и**миŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Марина разрешает стоянку уже год?",
+            "thought": "Имеет [известная] марина быть разрешающей стоянку целый [какой-то] год?",
+            "english": "Has the marina been allowing docking for a year?",
+            "transcription": "[хæз ðэ мэр**и**:нэ би:н эл**а**уиŋ д**о**киŋ фо: э йиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been allowing",
+        "examples": [
+          {
+            "ours": "К пяти клуб будет разрешать купание уже два часа.",
+            "thought": "К пяти [известный] клуб будет иметь быть разрешающим купание целых два часа.",
+            "english": "By five the club will have been allowing swimming for two hours.",
+            "transcription": "[бай файв ðэ клаб wил хæв би:н эл**а**уиŋ сw**и**миŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К июню марина будет разрешать стоянку уже год?",
+            "thought": "Будет [известная] марина иметь быть разрешающей стоянку целый [какой-то] год к июню?",
+            "english": "Will the marina have been allowing docking for a year by June?",
+            "transcription": "[wил ðэ мэр**и**:нэ хæв би:н эл**а**уиŋ д**о**киŋ фо: э йиэ бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were allowed",
+        "examples": [
+          {
+            "ours": "Купание было разрешено вчера.",
+            "thought": "Купание было разрешено вчера.",
+            "english": "Swimming was allowed yesterday.",
+            "transcription": "[сw**и**миŋ wоз эл**а**уд й**э**стэдэй]"
+          },
+          {
+            "ours": "Рыбалка не была разрешена.",
+            "thought": "Рыбалка была не разрешена.",
+            "english": "Fishing was not allowed.",
+            "transcription": "[ф**и**шиŋ wоз нот эл**а**уд]"
+          },
+          {
+            "ours": "Стоянка была разрешена?",
+            "thought": "Была стоянка разрешена?",
+            "english": "Was docking allowed?",
+            "transcription": "[wоз д**о**киŋ эл**а**уд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are allowed",
+        "examples": [
+          {
+            "ours": "Купание разрешено.",
+            "thought": "Купание есть разрешено.",
+            "english": "Swimming is allowed.",
+            "transcription": "[сw**и**миŋ из эл**а**уд]"
+          },
+          {
+            "ours": "Рыбалка не разрешена.",
+            "thought": "Рыбалка есть не разрешена.",
+            "english": "Fishing is not allowed.",
+            "transcription": "[ф**и**шиŋ из нот эл**а**уд]"
+          },
+          {
+            "ours": "Стоянка разрешена?",
+            "thought": "Есть стоянка разрешена?",
+            "english": "Is docking allowed?",
+            "transcription": "[из д**о**киŋ эл**а**уд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be allowed",
+        "examples": [
+          {
+            "ours": "Завтра купание разрешат.",
+            "thought": "Завтра купание будет быть разрешено.",
+            "english": "Tomorrow swimming will be allowed.",
+            "transcription": "[тэм**о**роу сw**и**миŋ wил би: эл**а**уд]"
+          },
+          {
+            "ours": "Рыбалку не разрешат.",
+            "thought": "Рыбалка будет не быть разрешена.",
+            "english": "Fishing will not be allowed.",
+            "transcription": "[ф**и**шиŋ wил нот би: эл**а**уд]"
+          },
+          {
+            "ours": "Стоянку разрешат завтра?",
+            "thought": "Будет стоянка быть разрешена завтра?",
+            "english": "Will docking be allowed tomorrow?",
+            "transcription": "[wил д**о**киŋ би: эл**а**уд тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Длительный пассив с allow для правил звучит неестественно; обычно скажут: Swimming is allowed now. Для будущего процесса: The club will be allowing swimming all day."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been allowed",
+        "examples": [
+          {
+            "ours": "К пяти купание уже разрешили.",
+            "thought": "К пяти купание имело уже быть разрешено.",
+            "english": "By five swimming had already been allowed.",
+            "transcription": "[бай файв сw**и**миŋ хæд о:лр**э**ди би:н эл**а**уд]"
+          },
+          {
+            "ours": "К тому времени стоянку ещё не разрешили.",
+            "thought": "К тогда стоянка имела не быть разрешена ещё.",
+            "english": "By then docking had not been allowed yet.",
+            "transcription": "[бай ðэн д**о**киŋ хæд нот би:н эл**а**уд йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been allowed",
+        "examples": [
+          {
+            "ours": "Купание уже разрешили.",
+            "thought": "Купание имеет уже быть разрешено.",
+            "english": "Swimming has already been allowed.",
+            "transcription": "[сw**и**миŋ хæз о:лр**э**ди би:н эл**а**уд]"
+          },
+          {
+            "ours": "Стоянку ещё не разрешили.",
+            "thought": "Стоянка имеет не быть разрешена ещё.",
+            "english": "Docking has not been allowed yet.",
+            "transcription": "[д**о**киŋ хæз нот би:н эл**а**уд йэт]"
+          },
+          {
+            "ours": "Рыбалку уже разрешили?",
+            "thought": "Имеет рыбалка быть разрешена уже?",
+            "english": "Has fishing been allowed yet?",
+            "transcription": "[хæз ф**и**шиŋ би:н эл**а**уд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been allowed",
+        "examples": [
+          {
+            "ours": "К пяти купание разрешат.",
+            "thought": "К пяти купание будет иметь быть разрешено.",
+            "english": "By five swimming will have been allowed.",
+            "transcription": "[бай файв сw**и**миŋ wил хæв би:н эл**а**уд]"
+          },
+          {
+            "ours": "К пяти стоянку ещё не разрешат.",
+            "thought": "К пяти стоянка будет не иметь быть разрешена ещё.",
+            "english": "By five docking will not have been allowed yet.",
+            "transcription": "[бай файв д**о**киŋ wил нот хæв би:н эл**а**уд йэт]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The club has been allowing swimming."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что капитан разрешит купание.",
+        "thought": "Я знал [известный] капитан будет разрешать купание.",
+        "english": "I knew the skipper would allow swimming.",
+        "transcription": "[ай нью: ðэ ск**и**пэ wуд эл**а**у сw**и**миŋ]"
+      },
+      {
+        "ours": "Мы думали, что марина не разрешит стоянку.",
+        "thought": "Мы думали [известная] марина будет не разрешать стоянку.",
+        "english": "We thought the marina would not allow docking.",
+        "transcription": "[wи: θо:т ðэ мэр**и**:нэ wуд нот эл**а**у д**о**киŋ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "club",
+      "meaning": "клуб",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "club"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "club"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    }
+  ]
+}

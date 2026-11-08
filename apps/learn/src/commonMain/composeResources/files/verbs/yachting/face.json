@@ -1,0 +1,810 @@
+{
+  "spec": 4,
+  "verb": "face",
+  "forms": {
+    "base": [
+      {
+        "word": "face",
+        "transcription": "[фэйс]"
+      }
+    ],
+    "past": [
+      {
+        "word": "faced",
+        "transcription": "[фэйст]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "faced",
+        "transcription": "[фэйст]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "facing",
+        "transcription": "[ф**э**йсиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "faces",
+        "transcription": "[ф**э**йсиз]"
+      }
+    ]
+  },
+  "meaning": "сталкиваться с, быть обращённым к",
+  "notes": "правильный глагол; переходный, возможна конструкция be faced with",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "faced",
+        "examples": [
+          {
+            "ours": "Вчера экипаж столкнулся с сильным встречным ветром.",
+            "thought": "Вчера [известный] экипаж встретил сильным встречным ветром.",
+            "english": "Yesterday the crew faced strong headwinds.",
+            "transcription": "[й**э**стэдэй ðэ кру: фэйст строŋ х**э**дwиндз]"
+          },
+          {
+            "ours": "Капитан не столкнулся с задержками.",
+            "thought": "[Известный] капитан [сделал] не встречать задержками.",
+            "english": "The captain didn't face delays.",
+            "transcription": "[ðэ к**æ**птин диднт фэйс дил**э**йз]"
+          },
+          {
+            "ours": "Вы столкнулись с туманом до гонки?",
+            "thought": "[Сделали] вы встречать туманом перед [известной] гонкой?",
+            "english": "Did you face fog before the race?",
+            "transcription": "[дид ю: фэйс фог биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "face, faces",
+        "examples": [
+          {
+            "ours": "Экипаж сталкивается с трудными условиями.",
+            "thought": "[Известный] экипаж встречает трудными условиями.",
+            "english": "The crew faces difficult conditions.",
+            "transcription": "[ðэ кру: ф**э**йсиз д**и**фикэлт кэнд**и**шнз]"
+          },
+          {
+            "ours": "Он не сталкивается с нехваткой воды.",
+            "thought": "Он [делает] не встречать нехваткой воды.",
+            "english": "He doesn't face water shortages.",
+            "transcription": "[хи: дазнт фэйс w**о**:тэ ш**о**:тиджиз]"
+          },
+          {
+            "ours": "Вы сталкиваетесь с задержками в гавани?",
+            "thought": "[Делаете] вы встречать задержками в [известной] гавани?",
+            "english": "Do you face delays in the harbor?",
+            "transcription": "[ду: ю: фэйс дил**э**йз ин ðэ х**а**:бэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will face",
+        "examples": [
+          {
+            "ours": "Завтра мы столкнёмся с сильным ветром.",
+            "thought": "Завтра мы будем встречать сильным ветром.",
+            "english": "Tomorrow we will face strong wind.",
+            "transcription": "[тэм**о**роу wи: wил фэйс строŋ wинд]"
+          },
+          {
+            "ours": "Капитан не столкнётся с задержками.",
+            "thought": "[Известный] капитан будет не встречать задержками.",
+            "english": "The captain won't face delays.",
+            "transcription": "[ðэ к**æ**птин wоунт фэйс дил**э**йз]"
+          },
+          {
+            "ours": "Вы столкнётесь с туманом до гонки?",
+            "thought": "Будете вы встречать туманом перед [известной] гонкой?",
+            "english": "Will you face fog before the race?",
+            "transcription": "[wил ю: фэйс фог биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were facing",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день сталкивались с задержками.",
+            "thought": "Вчера мы были встречающими задержками весь день.",
+            "english": "Yesterday we were facing delays all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: ф**э**йсиŋ дил**э**йз о:л дэй]"
+          },
+          {
+            "ours": "Вы сталкивались с трудностями, когда я пришёл?",
+            "thought": "Были вы встречающими трудностями когда я пришёл?",
+            "english": "Were you facing difficulties when I came?",
+            "transcription": "[wœ: ю: ф**э**йсиŋ д**и**фикэлтиз wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are facing",
+        "examples": [
+          {
+            "ours": "Сейчас мы сталкиваемся с сильным ветром.",
+            "thought": "Мы являемся встречающими сильным ветром сейчас.",
+            "english": "We are facing strong wind now.",
+            "transcription": "[wи: а: ф**э**йсиŋ строŋ wинд нау]"
+          },
+          {
+            "ours": "Экипаж сейчас сталкивается с задержками?",
+            "thought": "Является [известный] экипаж встречающим задержками сейчас?",
+            "english": "Is the crew facing delays now?",
+            "transcription": "[из ðэ кру: ф**э**йсиŋ дил**э**йз нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be facing",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем сталкиваться с задержками.",
+            "thought": "Завтра мы будем быть встречающими задержками весь день.",
+            "english": "Tomorrow we will be facing delays all day.",
+            "transcription": "[тэм**о**роу wи: wил би: ф**э**йсиŋ дил**э**йз о:л дэй]"
+          },
+          {
+            "ours": "Экипаж будет сталкиваться с трудностями во время гонки?",
+            "thought": "Будет [известный] экипаж быть встречающим трудностями во время [известной] гонки?",
+            "english": "Will the crew be facing difficulties during the race?",
+            "transcription": "[wил ðэ кру: би: ф**э**йсиŋ д**и**фикэлтиз дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had faced",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже столкнулись с задержками.",
+            "thought": "К пяти вчера мы имели уже встреченными задержки.",
+            "english": "By five yesterday we had already faced delays.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди фэйст дил**э**йз]"
+          },
+          {
+            "ours": "Экипаж столкнулся с туманом до гонки?",
+            "thought": "Имел [известный] экипаж встреченным туман перед [известной] гонкой?",
+            "english": "Had the crew faced fog before the race?",
+            "transcription": "[хæд ðэ кру: фэйст фог биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has faced",
+        "examples": [
+          {
+            "ours": "Мы уже столкнулись с трудными условиями.",
+            "thought": "Мы имеем уже встреченными трудные условия.",
+            "english": "We have already faced difficult conditions.",
+            "transcription": "[wи: хæв о:лр**э**ди фэйст д**и**фикэлт кэнд**и**шнз]"
+          },
+          {
+            "ours": "Капитан уже столкнулся с задержками?",
+            "thought": "Имеет [известный] капитан уже встреченными задержки?",
+            "english": "Has the captain already faced delays?",
+            "transcription": "[хæз ðэ к**æ**птин о:лр**э**ди фэйст дил**э**йз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have faced",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже столкнёмся с сильным ветром.",
+            "thought": "К пяти завтра мы будем иметь уже встреченным сильный ветер.",
+            "english": "By five tomorrow we will have already faced strong wind.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди фэйст строŋ wинд]"
+          },
+          {
+            "ours": "Экипаж столкнётся с туманом до гонки?",
+            "thought": "Будет [известный] экипаж иметь встреченным туман перед [известной] гонкой?",
+            "english": "Will the crew have faced fog before the race?",
+            "transcription": "[wил ðэ кру: хæв фэйст фог биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been facing",
+        "examples": [
+          {
+            "ours": "Мы уже два часа сталкивались с сильным ветром, когда ты пришёл.",
+            "thought": "Мы имели быть встречающими сильным ветром целых два часа когда ты пришёл.",
+            "english": "We had been facing strong wind for two hours when you came.",
+            "transcription": "[wи: хæд би:н ф**э**йсиŋ строŋ wинд фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Экипаж уже два часа сталкивался с задержками, когда он пришёл?",
+            "thought": "Имел [известный] экипаж быть встречающим задержками целых два часа когда он пришёл?",
+            "english": "Had the crew been facing delays for two hours when he came?",
+            "transcription": "[хæд ðэ кру: би:н ф**э**йсиŋ дил**э**йз фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been facing",
+        "examples": [
+          {
+            "ours": "Мы уже два часа сталкиваемся с сильным ветром.",
+            "thought": "Мы имеем быть встречающими сильным ветром целых два часа.",
+            "english": "We have been facing strong wind for two hours.",
+            "transcription": "[wи: хæв би:н ф**э**йсиŋ строŋ wинд фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Экипаж уже два часа сталкивается с задержками?",
+            "thought": "Имеет [известный] экипаж быть встречающим задержками целых два часа?",
+            "english": "Has the crew been facing delays for two hours?",
+            "transcription": "[хæз ðэ кру: би:н ф**э**йсиŋ дил**э**йз фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been facing",
+        "examples": [
+          {
+            "ours": "К пяти мы будем сталкиваться с сильным ветром уже два часа.",
+            "thought": "К пяти мы будем иметь быть встречающими сильным ветром целых два часа.",
+            "english": "By five we will have been facing strong wind for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н ф**э**йсиŋ строŋ wинд фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти экипаж будет сталкиваться с задержками уже два часа?",
+            "thought": "Будет [известный] экипаж иметь быть встречающим задержками целых два часа к пяти?",
+            "english": "Will the crew have been facing delays for two hours by five?",
+            "transcription": "[wил ðэ кру: хæв би:н ф**э**йсиŋ дил**э**йз фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were faced",
+        "examples": [
+          {
+            "ours": "Вчера экипаж столкнулся с задержками.",
+            "thought": "[Известный] экипаж был столкнут с задержками вчера.",
+            "english": "The crew was faced with delays yesterday.",
+            "transcription": "[ðэ кру: wоз фэйст wиð дил**э**йз й**э**стэдэй]"
+          },
+          {
+            "ours": "Капитан столкнулся с трудностями?",
+            "thought": "Был [известный] капитан столкнут с трудностями?",
+            "english": "Was the captain faced with difficulties?",
+            "transcription": "[wоз ðэ к**æ**птин фэйст wиð д**и**фикэлтиз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are faced",
+        "examples": [
+          {
+            "ours": "Экипаж сталкивается с трудными условиями.",
+            "thought": "[Известный] экипаж есть столкнут с трудными условиями.",
+            "english": "The crew is faced with difficult conditions.",
+            "transcription": "[ðэ кру: из фэйст wиð д**и**фикэлт кэнд**и**шнз]"
+          },
+          {
+            "ours": "Капитан сталкивается с задержками?",
+            "thought": "Есть [известный] капитан столкнут с задержками?",
+            "english": "Is the captain faced with delays?",
+            "transcription": "[из ðэ к**æ**птин фэйст wиð дил**э**йз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be faced",
+        "examples": [
+          {
+            "ours": "Завтра экипаж столкнётся с задержками.",
+            "thought": "[Известный] экипаж будет быть столкнут с задержками завтра.",
+            "english": "The crew will be faced with delays tomorrow.",
+            "transcription": "[ðэ кру: wил би: фэйст wиð дил**э**йз тэм**о**роу]"
+          },
+          {
+            "ours": "Капитан столкнётся с трудностями?",
+            "thought": "Будет [известный] капитан быть столкнут с трудностями?",
+            "english": "Will the captain be faced with difficulties?",
+            "transcription": "[wил ðэ к**æ**птин би: фэйст wиð д**и**фикэлтиз]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Для положения перед трудностями обычно используют be faced with как состояние: The crew is faced with delays. Пассивные длительные формы для этого значения звучат неестественно; вместо них говорят: The crew is facing delays."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been faced",
+        "examples": [
+          {
+            "ours": "До гонки экипаж уже столкнулся с трудностями.",
+            "thought": "Перед [известной] гонкой [известный] экипаж имел уже быть столкнут с трудностями.",
+            "english": "Before the race the crew had already been faced with difficulties.",
+            "transcription": "[биф**о**: ðэ рэйс ðэ кру: хæд о:лр**э**ди би:н фэйст wиð д**и**фикэлтиз]"
+          },
+          {
+            "ours": "Капитан столкнулся с задержками до выхода?",
+            "thought": "Имел [известный] капитан быть столкнут с задержками перед выходом?",
+            "english": "Had the captain been faced with delays before departure?",
+            "transcription": "[хæд ðэ к**æ**птин би:н фэйст wиð дил**э**йз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been faced",
+        "examples": [
+          {
+            "ours": "Экипаж уже столкнулся с трудностями.",
+            "thought": "[Известный] экипаж имеет уже быть столкнут с трудностями.",
+            "english": "The crew has already been faced with difficulties.",
+            "transcription": "[ðэ кру: хæз о:лр**э**ди би:н фэйст wиð д**и**фикэлтиз]"
+          },
+          {
+            "ours": "Капитан уже столкнулся с задержками?",
+            "thought": "Имеет [известный] капитан уже быть столкнут с задержками?",
+            "english": "Has the captain already been faced with delays?",
+            "transcription": "[хæз ðэ к**æ**птин о:лр**э**ди би:н фэйст wиð дил**э**йз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been faced",
+        "not_possible": "Для обычного прогноза трудностей естественнее актив: The crew will face delays before the race."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The crew has been faced with delays. Или: The crew has been facing delays."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они столкнутся с трудностями.",
+        "thought": "[Известный] капитан сказал что они будут встречать трудностями.",
+        "english": "The captain said that they would face difficulties.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд фэйс д**и**фикэлтиз]"
+      },
+      {
+        "ours": "Я знал, что ты не столкнёшься с задержками.",
+        "thought": "Я знал что ты будешь не встречать задержками.",
+        "english": "I knew that you wouldn't face delays.",
+        "transcription": "[ай нью: ðæт ю: wуднт фэйс дил**э**йз]"
+      },
+      {
+        "ours": "Капитан сказал, что мы столкнёмся с сильным ветром.",
+        "thought": "[Известный] капитан сказал что мы будем встречать сильным ветром.",
+        "english": "The captain said that we would face strong wind.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд фэйс строŋ wинд]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "headwind",
+      "meaning": "встречный ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "headwinds"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "delay",
+      "meaning": "задержка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "delays"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "delays"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "delays"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "delays"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "delays"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "delays"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "delays"
+        }
+      ]
+    },
+    {
+      "word": "fog",
+      "meaning": "туман",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "fog"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "condition",
+      "meaning": "условия",
+      "sense": "circumstances",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "conditions"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "conditions"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "conditions"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "shortage",
+      "meaning": "нехватка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "shortages"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "difficulty",
+      "meaning": "трудность",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "difficulties"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "difficulties"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "difficulties"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "difficulties"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "difficulties"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "difficulties"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "difficulties"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "выход",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "spec": 4,
+  "verb": "remain",
+  "forms": {
+    "base": [
+      {
+        "word": "remain",
+        "transcription": "[рим**э**йн]"
+      }
+    ],
+    "past": [
+      {
+        "word": "remained",
+        "transcription": "[рим**э**йнд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "remained",
+        "transcription": "[рим**э**йнд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "remaining",
+        "transcription": "[рим**э**йниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "remains",
+        "transcription": "[рим**э**йнз]"
+      }
+    ]
+  },
+  "meaning": "оставаться, сохраняться",
+  "notes": "правильный непереходный глагол; пассив не образуется",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "remained",
+        "examples": [
+          {
+            "ours": "Вчера яхта осталась в гавани.",
+            "thought": "Вчера [известная] яхта осталась в [известной] гавани.",
+            "english": "Yesterday the yacht remained in the harbor.",
+            "transcription": "[й**э**стэдэй ðэ йот рим**э**йнд ин ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Экипаж не остался на борту.",
+            "thought": "[Известный] экипаж [сделал] не оставаться на борту.",
+            "english": "The crew didn't remain on board.",
+            "transcription": "[ðэ кру: диднт рим**э**йн он бо:д]"
+          },
+          {
+            "ours": "Шкипер оставался спокойным во время шторма?",
+            "thought": "[Сделал] [известный] шкипер оставаться спокойным во время [известного] шторма?",
+            "english": "Did the skipper remain calm during the storm?",
+            "transcription": "[дид ðэ ск**и**пэ рим**э**йн ка:м дь**ю**эриŋ ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "remain, remains",
+        "examples": [
+          {
+            "ours": "Яхта остаётся на якоре.",
+            "thought": "[Известная] яхта остаётся на якоре.",
+            "english": "The yacht remains at anchor.",
+            "transcription": "[ðэ йот рим**э**йнз æт **æ**нкэ]"
+          },
+          {
+            "ours": "Экипаж не остаётся на борту.",
+            "thought": "[Известный] экипаж [делает] не оставаться на борту.",
+            "english": "The crew doesn't remain on board.",
+            "transcription": "[ðэ кру: дазнт рим**э**йн он бо:д]"
+          },
+          {
+            "ours": "Марина остаётся открытой зимой?",
+            "thought": "[Делает] [известная] марина оставаться открытой в зиму?",
+            "english": "Does the marina remain open in winter?",
+            "transcription": "[даз ðэ мэр**и**:нэ рим**э**йн **о**упэн ин w**и**нтэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will remain",
+        "examples": [
+          {
+            "ours": "Завтра мы останемся в гавани.",
+            "thought": "Завтра мы будем оставаться в [известной] гавани.",
+            "english": "Tomorrow we will remain in the harbor.",
+            "transcription": "[тэм**о**роу wи: wил рим**э**йн ин ðэ х**а**:бэ]"
+          },
+          {
+            "ours": "Экипаж не останется на борту.",
+            "thought": "[Известный] экипаж будет не оставаться на борту.",
+            "english": "The crew won't remain on board.",
+            "transcription": "[ðэ кру: wоунт рим**э**йн он бо:д]"
+          },
+          {
+            "ours": "Яхта останется на якоре до утра?",
+            "thought": "Будет [известная] яхта оставаться на якоре до утра?",
+            "english": "Will the yacht remain at anchor until morning?",
+            "transcription": "[wил ðэ йот рим**э**йн æт **æ**нкэ энт**и**л м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were remaining",
+        "not_possible": "В обычном рассказе о пребывании were remaining звучит неестественно. Скажут: We remained at anchor all day или We were staying on board."
+      },
+      "present": {
+        "form": "am/is/are remaining",
+        "examples": [
+          {
+            "ours": "Сейчас мы остаёмся на борту.",
+            "thought": "Мы являемся остающимися на борту сейчас.",
+            "english": "We are remaining on board now.",
+            "transcription": "[wи: а: рим**э**йниŋ он бо:д нау]"
+          },
+          {
+            "ours": "Ты остаёшься в гавани до утра?",
+            "thought": "Являешься ты остающимся в [известной] гавани до утра?",
+            "english": "Are you remaining in the harbor until morning?",
+            "transcription": "[а: ю: рим**э**йниŋ ин ðэ х**а**:бэ энт**и**л м**о**:ниŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be remaining",
+        "examples": [
+          {
+            "ours": "Завтра мы останемся на якоре весь день.",
+            "thought": "Завтра мы будем быть остающимися на якоре весь день.",
+            "english": "Tomorrow we will be remaining at anchor all day.",
+            "transcription": "[тэм**о**роу wи: wил би: рим**э**йниŋ æт **æ**нкэ о:л дэй]"
+          },
+          {
+            "ours": "Ты останешься на борту во время гонки?",
+            "thought": "Будешь ты быть остающимся на борту во время [известной] гонки?",
+            "english": "Will you be remaining on board during the race?",
+            "transcription": "[wил ю: би: рим**э**йниŋ он бо:д дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had remained",
+        "examples": [
+          {
+            "ours": "До утра яхта оставалась на якоре два дня.",
+            "thought": "Перед утром [известная] яхта имела оставшейся на якоре целых два дня.",
+            "english": "Before morning the yacht had remained at anchor for two days.",
+            "transcription": "[биф**о**: м**о**:ниŋ ðэ йот хæд рим**э**йнд æт **æ**нкэ фо: ту: дэйз]"
+          },
+          {
+            "ours": "Вы оставались на борту до шторма?",
+            "thought": "Имели вы оставшимися на борту перед [известным] штормом?",
+            "english": "Had you remained on board before the storm?",
+            "transcription": "[хæд ю: рим**э**йнд он бо:д биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has remained",
+        "examples": [
+          {
+            "ours": "Яхта остаётся на якоре уже два дня.",
+            "thought": "[Известная] яхта имеет оставшейся на якоре целых два дня.",
+            "english": "The yacht has remained at anchor for two days.",
+            "transcription": "[ðэ йот хæз рим**э**йнд æт **æ**нкэ фо: ту: дэйз]"
+          },
+          {
+            "ours": "Вы оставались на борту во время шторма?",
+            "thought": "Имеете вы оставшимися на борту во время [известного] шторма?",
+            "english": "Have you remained on board during the storm?",
+            "transcription": "[хæв ю: рим**э**йнд он бо:д дь**ю**эриŋ ðэ сто:м]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have remained",
+        "examples": [
+          {
+            "ours": "К среде яхта будет стоять на якоре уже два дня.",
+            "thought": "К среде [известная] яхта будет иметь оставшейся на якоре целых два дня.",
+            "english": "By Wednesday the yacht will have remained at anchor for two days.",
+            "transcription": "[бай w**э**нздэй ðэ йот wил хæв рим**э**йнд æт **æ**нкэ фо: ту: дэйз]"
+          },
+          {
+            "ours": "К среде вы останетесь на борту уже два дня?",
+            "thought": "Будете вы иметь оставшимися на борту целых два дня к среде?",
+            "english": "Will you have remained on board for two days by Wednesday?",
+            "transcription": "[wил ю: хæв рим**э**йнд он бо:д фо: ту: дэйз бай w**э**нздэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "В значении продолжающегося состояния perfect continuous с remain употребляется крайне редко; обычно выбирают present perfect или stay: The yacht has remained at anchor for two days; We have been staying on board for two days."
+    }
+  },
+  "passive": {
+    "not_possible": "В значении «оставаться» remain — непереходный глагол без прямого дополнения, пассив не образуется. Скажут: The yacht remains at anchor."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они останутся на борту.",
+        "thought": "[Известный] капитан сказал что они будут оставаться на борту.",
+        "english": "The captain said that they would remain on board.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд рим**э**йн он бо:д]"
+      },
+      {
+        "ours": "Я знал, что яхта не останется в гавани.",
+        "thought": "Я знал что [известная] яхта будет не оставаться в [известной] гавани.",
+        "english": "I knew that the yacht wouldn't remain in the harbor.",
+        "transcription": "[ай нью: ðæт ðэ йот wуднт рим**э**йн ин ðэ х**а**:бэ]"
+      },
+      {
+        "ours": "Капитан сказал, что мы останемся на якоре.",
+        "thought": "[Известный] капитан сказал что мы будем оставаться на якоре.",
+        "english": "The captain said that we would remain at anchor.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд рим**э**йн æт **æ**нкэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "board"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "winter",
+      "meaning": "зима",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "winter"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "days"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "days"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "days"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "days"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "Wednesday",
+      "meaning": "среда",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "Wednesday"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "Wednesday"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,868 @@
+{
+  "spec": 4,
+  "verb": "send",
+  "forms": {
+    "base": [
+      {
+        "word": "send",
+        "transcription": "[сэнд]"
+      }
+    ],
+    "past": [
+      {
+        "word": "sent",
+        "transcription": "[сэнт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "sent",
+        "transcription": "[сэнт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "sending",
+        "transcription": "[с**э**ндиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "sends",
+        "transcription": "[сэндз]"
+      }
+    ]
+  },
+  "meaning": "отправлять, посылать",
+  "notes": "неправильный переходный глагол; send someone something и send something to someone; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "sent",
+        "examples": [
+          {
+            "ours": "Вчера я отправил сообщение.",
+            "thought": "Вчера я отправил [известное] сообщение.",
+            "english": "Yesterday I sent the message.",
+            "transcription": "[й**э**стэдэй ай сэнт ðэ м**э**сидж]"
+          },
+          {
+            "ours": "Ты отправил шкиперу прогноз?",
+            "thought": "[Сделал] ты отправлять [известному] шкиперу [известный] прогноз?",
+            "english": "Did you send the skipper the forecast?",
+            "transcription": "[дид ю: сэнд ðэ ск**и**пэ ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Она не отправила координаты.",
+            "thought": "Она [сделала] не отправлять [известные] координаты.",
+            "english": "She did not send the coordinates.",
+            "transcription": "[ши: дид нот сэнд ðэ коу**о**:динэтс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "send, sends",
+        "examples": [
+          {
+            "ours": "Шкипер каждый день отправляет отчёт.",
+            "thought": "[Известный] шкипер отправляет [какой-то] отчёт каждый день.",
+            "english": "The skipper sends a report every day.",
+            "transcription": "[ðэ ск**и**пэ сэндз э рип**о**:т **э**ври дэй]"
+          },
+          {
+            "ours": "Ты отправляешь команде прогноз?",
+            "thought": "[Делаешь] ты отправлять [известной] команде [известный] прогноз?",
+            "english": "Do you send the crew the forecast?",
+            "transcription": "[ду: ю: сэнд ðэ кру: ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Мы не отправляем фотографии в море.",
+            "thought": "Мы [делаем] не отправлять фотографии в море.",
+            "english": "We do not send photos at sea.",
+            "transcription": "[wи: ду: нот сэнд ф**о**утоуз æт си:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will send",
+        "examples": [
+          {
+            "ours": "Завтра мы отправим отчёт.",
+            "thought": "Завтра мы будем отправлять [известный] отчёт.",
+            "english": "Tomorrow we will send the report.",
+            "transcription": "[тэм**о**роу wи: wил сэнд ðэ рип**о**:т]"
+          },
+          {
+            "ours": "Ты отправишь координаты?",
+            "thought": "Будешь ты отправлять [известные] координаты?",
+            "english": "Will you send the coordinates?",
+            "transcription": "[wил ю: сэнд ðэ коу**о**:динэтс]"
+          },
+          {
+            "ours": "Она не отправит сообщение сегодня.",
+            "thought": "Она будет не отправлять [известное] сообщение сегодня.",
+            "english": "She will not send the message today.",
+            "transcription": "[ши: wил нот сэнд ðэ м**э**сидж тэд**э**й]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were sending",
+        "examples": [
+          {
+            "ours": "Вчера утром мы отправляли сообщения.",
+            "thought": "Вчера утром мы были отправляющими сообщения.",
+            "english": "Yesterday morning we were sending messages.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: с**э**ндиŋ м**э**сиджиз]"
+          },
+          {
+            "ours": "Ты отправлял координаты, когда я позвонил?",
+            "thought": "Был ты отправляющим [известные] координаты, когда я позвонил?",
+            "english": "Were you sending the coordinates when I called?",
+            "transcription": "[wœ: ю: с**э**ндиŋ ðэ коу**о**:динэтс wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are sending",
+        "examples": [
+          {
+            "ours": "Мы сейчас отправляем сообщение.",
+            "thought": "Мы являемся отправляющими [известное] сообщение сейчас.",
+            "english": "We are sending the message now.",
+            "transcription": "[wи: а: с**э**ндиŋ ðэ м**э**сидж нау]"
+          },
+          {
+            "ours": "Шкипер сейчас отправляет координаты?",
+            "thought": "Является [известный] шкипер отправляющим [известные] координаты сейчас?",
+            "english": "Is the skipper sending the coordinates now?",
+            "transcription": "[из ðэ ск**и**пэ с**э**ндиŋ ðэ коу**о**:динэтс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be sending",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем отправлять отчёты.",
+            "thought": "Завтра утром мы будем быть отправляющими отчёты.",
+            "english": "Tomorrow morning we will be sending reports.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: с**э**ндиŋ рип**о**:тс]"
+          },
+          {
+            "ours": "Ты будешь отправлять координаты во время гонки?",
+            "thought": "Будешь ты быть отправляющим [известные] координаты во время [известной] гонки?",
+            "english": "Will you be sending the coordinates during the race?",
+            "transcription": "[wил ю: би: с**э**ндиŋ ðэ коу**о**:динэтс дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had sent",
+        "examples": [
+          {
+            "ours": "К полудню мы уже отправили сообщение.",
+            "thought": "К полудню мы имели уже отправленным [известное] сообщение.",
+            "english": "By noon we had already sent the message.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди сэнт ðэ м**э**сидж]"
+          },
+          {
+            "ours": "Ты отправил координаты до отхода?",
+            "thought": "Имел ты отправленными [известные] координаты до отхода?",
+            "english": "Had you sent the coordinates before departure?",
+            "transcription": "[хæд ю: сэнт ðэ коу**о**:динэтс биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has sent",
+        "examples": [
+          {
+            "ours": "Мы уже отправили отчёт.",
+            "thought": "Мы имеем уже отправленным [известный] отчёт.",
+            "english": "We have already sent the report.",
+            "transcription": "[wи: хæв о:лр**э**ди сэнт ðэ рип**о**:т]"
+          },
+          {
+            "ours": "Ты уже отправил координаты?",
+            "thought": "Имеешь ты отправленными [известные] координаты уже?",
+            "english": "Have you sent the coordinates yet?",
+            "transcription": "[хæв ю: сэнт ðэ коу**о**:динэтс йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have sent",
+        "examples": [
+          {
+            "ours": "К полудню мы отправим сообщение.",
+            "thought": "К полудню мы будем иметь отправленным [известное] сообщение.",
+            "english": "By noon we will have sent the message.",
+            "transcription": "[бай ну:н wи: wил хæв сэнт ðэ м**э**сидж]"
+          },
+          {
+            "ours": "Ты отправишь координаты к пяти?",
+            "thought": "Будешь ты иметь отправленными [известные] координаты к пяти?",
+            "english": "Will you have sent the coordinates by five?",
+            "transcription": "[wил ю: хæв сэнт ðэ коу**о**:динэтс бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been sending",
+        "examples": [
+          {
+            "ours": "Мы час отправляли сигналы, когда получили ответ.",
+            "thought": "Мы имели быть отправляющими сигналы целый [какой-то] час, когда мы получили [какой-то] ответ.",
+            "english": "We had been sending signals for an hour when we got a reply.",
+            "transcription": "[wи: хæд би:н с**э**ндиŋ с**и**гнлз фо: эн **а**уэ wэн wи: гот э рипл**а**й]"
+          },
+          {
+            "ours": "Ты отправлял сообщения два часа до рассвета?",
+            "thought": "Имел ты быть отправляющим сообщения целых два часа до рассвета?",
+            "english": "Had you been sending messages for two hours before dawn?",
+            "transcription": "[хæд ю: би:н с**э**ндиŋ м**э**сиджиз фо: ту: **а**уэз биф**о**: до:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been sending",
+        "examples": [
+          {
+            "ours": "Мы уже час отправляем сигналы.",
+            "thought": "Мы имеем быть отправляющими сигналы целый [какой-то] час.",
+            "english": "We have been sending signals for an hour.",
+            "transcription": "[wи: хæв би:н с**э**ндиŋ с**и**гнлз фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты отправляешь сообщения уже два часа?",
+            "thought": "Имеешь ты быть отправляющим сообщения целых два часа?",
+            "english": "Have you been sending messages for two hours?",
+            "transcription": "[хæв ю: би:н с**э**ндиŋ м**э**сиджиз фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been sending",
+        "examples": [
+          {
+            "ours": "К пяти мы будем отправлять сигналы уже два часа.",
+            "thought": "К пяти мы будем иметь быть отправляющими сигналы целых два часа.",
+            "english": "By five we will have been sending signals for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н с**э**ндиŋ с**и**гнлз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь отправлять сообщения уже час?",
+            "thought": "Будешь ты иметь быть отправляющим сообщения целый [какой-то] час к полудню?",
+            "english": "Will you have been sending messages for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н с**э**ндиŋ м**э**сиджиз фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were sent",
+        "examples": [
+          {
+            "ours": "Сообщение отправили вчера.",
+            "thought": "[Известное] сообщение было отправлено вчера.",
+            "english": "The message was sent yesterday.",
+            "transcription": "[ðэ м**э**сидж wоз сэнт й**э**стэдэй]"
+          },
+          {
+            "ours": "Координаты отправили до отхода?",
+            "thought": "Были [известные] координаты отправлены до отхода?",
+            "english": "Were the coordinates sent before departure?",
+            "transcription": "[wœ: ðэ коу**о**:динэтс сэнт биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are sent",
+        "examples": [
+          {
+            "ours": "Отчёт отправляют каждый день.",
+            "thought": "[Известный] отчёт есть отправлен каждый день.",
+            "english": "The report is sent every day.",
+            "transcription": "[ðэ рип**о**:т из сэнт **э**ври дэй]"
+          },
+          {
+            "ours": "Координаты отправляют в марину?",
+            "thought": "Есть [известные] координаты отправлены в [известную] марину?",
+            "english": "Are the coordinates sent to the marina?",
+            "transcription": "[а: ðэ коу**о**:динэтс сэнт ту ðэ мэр**и**:нэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be sent",
+        "examples": [
+          {
+            "ours": "Сообщение отправят завтра.",
+            "thought": "[Известное] сообщение будет быть отправлено завтра.",
+            "english": "The message will be sent tomorrow.",
+            "transcription": "[ðэ м**э**сидж wил би: сэнт тэм**о**роу]"
+          },
+          {
+            "ours": "Координаты отправят до отхода?",
+            "thought": "Будут [известные] координаты быть отправлены до отхода?",
+            "english": "Will the coordinates be sent before departure?",
+            "transcription": "[wил ðэ коу**о**:динэтс би: сэнт биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being sent",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, отправляли сообщение.",
+            "thought": "[Известное] сообщение было «долго» отправлено, когда я прибыл.",
+            "english": "The message was being sent when I arrived.",
+            "transcription": "[ðэ м**э**сидж wоз б**и**:иŋ сэнт wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, отправляли координаты?",
+            "thought": "Были [известные] координаты «долго» отправлены, когда ты позвонил?",
+            "english": "Were the coordinates being sent when you called?",
+            "transcription": "[wœ: ðэ коу**о**:динэтс б**и**:иŋ сэнт wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being sent",
+        "examples": [
+          {
+            "ours": "Сообщение сейчас отправляют.",
+            "thought": "[Известное] сообщение есть «долго» отправлено сейчас.",
+            "english": "The message is being sent now.",
+            "transcription": "[ðэ м**э**сидж из б**и**:иŋ сэнт нау]"
+          },
+          {
+            "ours": "Координаты сейчас отправляют?",
+            "thought": "Есть [известные] координаты «долго» отправлены сейчас?",
+            "english": "Are the coordinates being sent now?",
+            "transcription": "[а: ðэ коу**о**:динэтс б**и**:иŋ сэнт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be sending",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут отправлять отчёты.",
+            "thought": "Завтра утром они будут быть отправляющими отчёты.",
+            "english": "Tomorrow morning they will be sending reports.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: с**э**ндиŋ рип**о**:тс]"
+          },
+          {
+            "ours": "Они будут отправлять координаты во время гонки?",
+            "thought": "Будут они быть отправляющими [известные] координаты во время [известной] гонки?",
+            "english": "Will they be sending the coordinates during the race?",
+            "transcription": "[wил ðэй би: с**э**ндиŋ ðэ коу**о**:динэтс дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been sent",
+        "examples": [
+          {
+            "ours": "К полудню сообщение уже отправили.",
+            "thought": "К полудню [известное] сообщение имело уже быть отправлено.",
+            "english": "By noon the message had already been sent.",
+            "transcription": "[бай ну:н ðэ м**э**сидж хæд о:лр**э**ди би:н сэнт]"
+          },
+          {
+            "ours": "Координаты отправили до отхода?",
+            "thought": "Имели [известные] координаты быть отправлены до отхода?",
+            "english": "Had the coordinates been sent before departure?",
+            "transcription": "[хæд ðэ коу**о**:динэтс би:н сэнт биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been sent",
+        "examples": [
+          {
+            "ours": "Отчёт уже отправили.",
+            "thought": "[Известный] отчёт имеет уже быть отправлен.",
+            "english": "The report has already been sent.",
+            "transcription": "[ðэ рип**о**:т хæз о:лр**э**ди би:н сэнт]"
+          },
+          {
+            "ours": "Координаты уже отправили?",
+            "thought": "Имеют [известные] координаты быть отправлены уже?",
+            "english": "Have the coordinates been sent yet?",
+            "transcription": "[хæв ðэ коу**о**:динэтс би:н сэнт йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been sent",
+        "examples": [
+          {
+            "ours": "К полудню сообщение уже отправят.",
+            "thought": "К полудню [известное] сообщение будет иметь быть отправлено.",
+            "english": "By noon the message will have been sent.",
+            "transcription": "[бай ну:н ðэ м**э**сидж wил хæв би:н сэнт]"
+          },
+          {
+            "ours": "Координаты отправят к пяти?",
+            "thought": "Будут [известные] координаты иметь быть отправлены к пяти?",
+            "english": "Will the coordinates have been sent by five?",
+            "transcription": "[wил ðэ коу**о**:динэтс хæв би:н сэнт бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been sending signals."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она отправит сообщение.",
+        "thought": "Я знал, она будет отправлять [известное] сообщение.",
+        "english": "I knew she would send the message.",
+        "transcription": "[ай нью: ши: wуд сэнд ðэ м**э**сидж]"
+      },
+      {
+        "ours": "Он думал, что мы не отправим координаты.",
+        "thought": "Он думал, мы будем не отправлять [известные] координаты.",
+        "english": "He thought we would not send the coordinates.",
+        "transcription": "[хи: θо:т wи: wуд нот сэнд ðэ коу**о**:динэтс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "message",
+      "meaning": "сообщение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "message"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "message"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "messages"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "message"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "message"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "message"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "messages"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "messages"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "messages"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "message"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "message"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "message"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "message"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "message"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "message"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "message"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "coordinates",
+      "meaning": "координаты",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "coordinates"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "coordinates"
+        }
+      ]
+    },
+    {
+      "word": "report",
+      "meaning": "отчёт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "report"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "reports"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "reports"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "report"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "photo",
+      "meaning": "фотография",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "photos"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "signal",
+      "meaning": "сигнал",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "signals"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "signals"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "signals"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "reply",
+      "meaning": "ответ",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "reply"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "marina"
+        }
+      ]
+    }
+  ]
+}

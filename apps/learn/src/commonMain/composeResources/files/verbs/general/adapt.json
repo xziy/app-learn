@@ -1,5 +1,5 @@
 {
-  "spec": 3,
+  "spec": 4,
   "verb": "adapt",
   "forms": {
     "base": [
@@ -56,7 +56,7 @@
             "ours": "Ты адаптировал урок для взрослых вчера?",
             "thought": "[Сделал] ты адаптировать [известный] урок для взрослых вчера?",
             "english": "Did you adapt the lesson for adults yesterday?",
-            "transcription": "[дид ю: эд**æ**пт ðэ л**э**сэн фо: **æ**далтс й**э**стэдэй]"
+            "transcription": "[дид ю: эд**æ**пт ðэ л**э**сн фо: **æ**далтс й**э**стэдэй]"
           }
         ]
       },
@@ -729,6 +729,7 @@
     {
       "word": "stage",
       "meaning": "сцена",
+      "sense": "theatre",
       "used_in": [
         {
           "phrase": "active.simple.present.2",

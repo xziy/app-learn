@@ -1,0 +1,598 @@
+{
+  "spec": 4,
+  "verb": "assume",
+  "forms": {
+    "base": [
+      {
+        "word": "assume",
+        "transcription": "[эсь**ю**:м]"
+      }
+    ],
+    "past": [
+      {
+        "word": "assumed",
+        "transcription": "[эсь**ю**:мд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "assumed",
+        "transcription": "[эсь**ю**:мд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "assuming",
+        "transcription": "[эсь**ю**:миŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "assumes",
+        "transcription": "[эсь**ю**:мз]"
+      }
+    ]
+  },
+  "meaning": "предполагать; принимать на себя",
+  "notes": "правильный переходный глагол; assume that — предполагать, assume responsibility — брать ответственность; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "assumed",
+        "examples": [
+          {
+            "ours": "Вчера мы решили, что якорь держит.",
+            "thought": "Вчера мы предположили, что [известный] якорь был держащим.",
+            "english": "Yesterday we assumed that the anchor was holding.",
+            "transcription": "[й**э**стэдэй wи: эсь**ю**:мд ðæт ðи **æ**нкэ wоз х**о**улдиŋ]"
+          },
+          {
+            "ours": "Ты предположил, что ветер стихнет?",
+            "thought": "[Сделал] ты предполагать, что [известный] ветер будет стихать?",
+            "english": "Did you assume that the wind would drop?",
+            "transcription": "[дид ю: эсь**ю**:м ðæт ðэ wинд wуд дроп]"
+          },
+          {
+            "ours": "Она не взяла на себя ответственность.",
+            "thought": "Она [сделала] не принимать [известную] ответственность.",
+            "english": "She did not assume the responsibility.",
+            "transcription": "[ши: дид нот эсь**ю**:м ðэ риспонсиб**и**лити]"
+          }
+        ]
+      },
+      "present": {
+        "form": "assume, assumes",
+        "examples": [
+          {
+            "ours": "Шкипер предполагает, что команда готова.",
+            "thought": "[Известный] шкипер предполагает, что [известная] команда есть готова.",
+            "english": "The skipper assumes that the crew is ready.",
+            "transcription": "[ðэ ск**и**пэ эсь**ю**:мз ðæт ðэ кру: из р**э**ди]"
+          },
+          {
+            "ours": "Ты считаешь, что глубины достаточно?",
+            "thought": "[Делаешь] ты предполагать, что [известная] глубина есть достаточна?",
+            "english": "Do you assume that the depth is sufficient?",
+            "transcription": "[ду: ю: эсь**ю**:м ðæт ðэ дэпθ из сэф**и**шнт]"
+          },
+          {
+            "ours": "Мы не считаем, что погода безопасна.",
+            "thought": "Мы [делаем] не предполагать, что [известная] погода есть безопасна.",
+            "english": "We do not assume that the weather is safe.",
+            "transcription": "[wи: ду: нот эсь**ю**:м ðæт ðэ w**э**ðэ из сэйф]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will assume",
+        "examples": [
+          {
+            "ours": "Завтра я возьму на себя ответственность.",
+            "thought": "Завтра я буду принимать [известную] ответственность.",
+            "english": "Tomorrow I will assume the responsibility.",
+            "transcription": "[тэм**о**роу ай wил эсь**ю**:м ðэ риспонсиб**и**лити]"
+          },
+          {
+            "ours": "Ты предположишь, что якорь держит?",
+            "thought": "Будешь ты предполагать, что [известный] якорь есть держащим?",
+            "english": "Will you assume that the anchor is holding?",
+            "transcription": "[wил ю: эсь**ю**:м ðæт ðи **æ**нкэ из х**о**улдиŋ]"
+          },
+          {
+            "ours": "Она не будет считать, что команда готова.",
+            "thought": "Она будет не предполагать, что [известная] команда есть готова.",
+            "english": "She will not assume that the crew is ready.",
+            "transcription": "[ши: wил нот эсь**ю**:м ðæт ðэ кру: из р**э**ди]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were assuming",
+        "examples": [
+          {
+            "ours": "Вчера утром мы исходили из того, что море спокойно.",
+            "thought": "Вчера утром мы были предполагающими, что [известное] море было спокойным.",
+            "english": "Yesterday morning we were assuming that the sea was calm.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: эсь**ю**:миŋ ðæт ðэ си: wоз ка:м]"
+          },
+          {
+            "ours": "Ты исходил из того, что ветер стихает, когда я позвонил?",
+            "thought": "Был ты предполагающим, [известный] ветер был стихающим, когда я позвонил?",
+            "english": "Were you assuming the wind was dropping when I called?",
+            "transcription": "[wœ: ю: эсь**ю**:миŋ ðэ wинд wоз др**о**пиŋ wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are assuming",
+        "examples": [
+          {
+            "ours": "Сейчас мы исходим из того, что якорь держит.",
+            "thought": "Мы являемся предполагающими, что [известный] якорь есть держащим сейчас.",
+            "english": "We are assuming that the anchor is holding now.",
+            "transcription": "[wи: а: эсь**ю**:миŋ ðæт ðи **æ**нкэ из х**о**улдиŋ нау]"
+          },
+          {
+            "ours": "Шкипер сейчас предполагает, что команда готова?",
+            "thought": "Является [известный] шкипер предполагающим, [известная] команда есть готова сейчас?",
+            "english": "Is the skipper assuming the crew is ready now?",
+            "transcription": "[из ðэ ск**и**пэ эсь**ю**:миŋ ðэ кру: из р**э**ди нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be assuming",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем исходить из того, что море спокойно.",
+            "thought": "Завтра утром мы будем быть предполагающими, [известное] море есть спокойно.",
+            "english": "Tomorrow morning we will be assuming the sea is calm.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: эсь**ю**:миŋ ðэ си: из ка:м]"
+          },
+          {
+            "ours": "Ты будешь предполагать, что якорь держит?",
+            "thought": "Будешь ты быть предполагающим, [известный] якорь есть держащим?",
+            "english": "Will you be assuming the anchor is holding?",
+            "transcription": "[wил ю: би: эсь**ю**:миŋ ðи **æ**нкэ из х**о**улдиŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had assumed",
+        "examples": [
+          {
+            "ours": "К полудню мы уже приняли на себя ответственность.",
+            "thought": "К полудню мы имели уже принятой [известную] ответственность.",
+            "english": "By noon we had already assumed the responsibility.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди эсь**ю**:мд ðэ риспонсиб**и**лити]"
+          },
+          {
+            "ours": "Ты предполагал, что команда готова до отхода?",
+            "thought": "Имел ты предположенным, [известная] команда была готова до отхода?",
+            "english": "Had you assumed the crew was ready before departure?",
+            "transcription": "[хæд ю: эсь**ю**:мд ðэ кру: wоз р**э**ди биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has assumed",
+        "examples": [
+          {
+            "ours": "Мы уже приняли на себя ответственность.",
+            "thought": "Мы имеем уже принятой [известную] ответственность.",
+            "english": "We have already assumed the responsibility.",
+            "transcription": "[wи: хæв о:лр**э**ди эсь**ю**:мд ðэ риспонсиб**и**лити]"
+          },
+          {
+            "ours": "Ты уже предположил, что команда готова?",
+            "thought": "Имеешь ты предположенным, что [известная] команда есть готова уже?",
+            "english": "Have you assumed that the crew is ready yet?",
+            "transcription": "[хæв ю: эсь**ю**:мд ðæт ðэ кру: из р**э**ди йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have assumed",
+        "examples": [
+          {
+            "ours": "К полудню я возьму на себя ответственность.",
+            "thought": "К полудню я буду иметь принятой [известную] ответственность.",
+            "english": "By noon I will have assumed the responsibility.",
+            "transcription": "[бай ну:н ай wил хæв эсь**ю**:мд ðэ риспонсиб**и**лити]"
+          },
+          {
+            "ours": "Ты возьмёшь на себя ответственность к пяти?",
+            "thought": "Будешь ты иметь принятой [известную] ответственность к пяти?",
+            "english": "Will you have assumed the responsibility by five?",
+            "transcription": "[wил ю: хæв эсь**ю**:мд ðэ риспонсиб**и**лити бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для предположения обычно используют simple perfect: We have assumed the sea is calm. Продолженная форма возможна в особом контексте, но здесь звучит тяжеловесно."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were assumed",
+        "examples": [
+          {
+            "ours": "Предполагалось, что команда готова.",
+            "thought": "Это было предположено, что [известная] команда была готова.",
+            "english": "It was assumed that the crew was ready.",
+            "transcription": "[ит wоз эсь**ю**:мд ðæт ðэ кру: wоз р**э**ди]"
+          },
+          {
+            "ours": "Предполагалось, что якорь держит?",
+            "thought": "Было это предположено, что [известный] якорь был держащим?",
+            "english": "Was it assumed that the anchor was holding?",
+            "transcription": "[wоз ит эсь**ю**:мд ðæт ðи **æ**нкэ wоз х**о**улдиŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are assumed",
+        "examples": [
+          {
+            "ours": "Предполагается, что команда готова.",
+            "thought": "Это есть предположено, что [известная] команда есть готова.",
+            "english": "It is assumed that the crew is ready.",
+            "transcription": "[ит из эсь**ю**:мд ðæт ðэ кру: из р**э**ди]"
+          },
+          {
+            "ours": "Предполагается, что море спокойно?",
+            "thought": "Есть это предположено, что [известное] море есть спокойно?",
+            "english": "Is it assumed that the sea is calm?",
+            "transcription": "[из ит эсь**ю**:мд ðæт ðэ си: из ка:м]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be assumed",
+        "examples": [
+          {
+            "ours": "Завтра будет считаться, что команда готова.",
+            "thought": "Это будет быть предположено, что [известная] команда есть готова завтра.",
+            "english": "It will be assumed that the crew is ready tomorrow.",
+            "transcription": "[ит wил би: эсь**ю**:мд ðæт ðэ кру: из р**э**ди тэм**о**роу]"
+          },
+          {
+            "ours": "Будет считаться, что якорь держит?",
+            "thought": "Будет это быть предположено, что [известный] якорь есть держащим?",
+            "english": "Will it be assumed that the anchor is holding?",
+            "transcription": "[wил ит би: эсь**ю**:мд ðæт ðи **æ**нкэ из х**о**улдиŋ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Длительный пассив being assumed для предположения обычно не нужен. Скажут: It is assumed that the crew is ready."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been assumed",
+        "examples": [
+          {
+            "ours": "К полудню уже предполагалось, что море спокойно.",
+            "thought": "К полудню это имело уже быть предположено, что [известное] море было спокойно.",
+            "english": "By noon it had already been assumed that the sea was calm.",
+            "transcription": "[бай ну:н ит хæд о:лр**э**ди би:н эсь**ю**:мд ðæт ðэ си: wоз ка:м]"
+          },
+          {
+            "ours": "До отхода предполагалось, что команда готова?",
+            "thought": "Имело это быть предположено, что [известная] команда была готова до отхода?",
+            "english": "Had it been assumed that the crew was ready before departure?",
+            "transcription": "[хæд ит би:н эсь**ю**:мд ðæт ðэ кру: wоз р**э**ди биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been assumed",
+        "examples": [
+          {
+            "ours": "Уже предположили, что море спокойно.",
+            "thought": "Это имеет уже быть предположено, что [известное] море есть спокойно.",
+            "english": "It has already been assumed that the sea is calm.",
+            "transcription": "[ит хæз о:лр**э**ди би:н эсь**ю**:мд ðæт ðэ си: из ка:м]"
+          },
+          {
+            "ours": "Уже предположили, что команда готова?",
+            "thought": "Имеет это быть предположено, что [известная] команда есть готова уже?",
+            "english": "Has it been assumed that the crew is ready yet?",
+            "transcription": "[хæз ит би:н эсь**ю**:мд ðæт ðэ кру: из р**э**ди йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been assumed",
+        "examples": [
+          {
+            "ours": "К полудню уже предположат, что море спокойно.",
+            "thought": "К полудню это будет иметь быть предположено, что [известное] море есть спокойно.",
+            "english": "By noon it will have been assumed that the sea is calm.",
+            "transcription": "[бай ну:н ит wил хæв би:н эсь**ю**:мд ðæт ðэ си: из ка:м]"
+          },
+          {
+            "ours": "К пяти предположат, что команда готова?",
+            "thought": "Будет это иметь быть предположено, что [известная] команда есть готова к пяти?",
+            "english": "Will it have been assumed that the crew is ready by five?",
+            "transcription": "[wил ит хæв би:н эсь**ю**:мд ðæт ðэ кру: из р**э**ди бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: The skipper has assumed responsibility."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она возьмёт на себя ответственность.",
+        "thought": "Я знал, она будет принимать [известную] ответственность.",
+        "english": "I knew she would assume the responsibility.",
+        "transcription": "[ай нью: ши: wуд эсь**ю**:м ðэ риспонсиб**и**лити]"
+      },
+      {
+        "ours": "Он думал, что мы не будем считать море спокойным.",
+        "thought": "Он думал, мы будем не предполагать [известное] море спокойным.",
+        "english": "He thought we would not assume the sea was calm.",
+        "transcription": "[хи: θо:т wи: wуд нот эсь**ю**:м ðэ си: wоз ка:м]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "anchor"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "responsibility",
+      "meaning": "ответственность",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "responsibility"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "responsibility"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "responsibility"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "responsibility"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "responsibility"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "responsibility"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "responsibility"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "depth",
+      "meaning": "глубина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "depth"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "sea"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    }
+  ]
+}

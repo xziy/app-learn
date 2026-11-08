@@ -1,0 +1,981 @@
+{
+  "spec": 4,
+  "verb": "prove",
+  "forms": {
+    "base": [
+      {
+        "word": "prove",
+        "transcription": "[пру:в]"
+      }
+    ],
+    "past": [
+      {
+        "word": "proved",
+        "transcription": "[пру:вд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "proved",
+        "transcription": "[пру:вд]"
+      },
+      {
+        "word": "proven",
+        "transcription": "[пр**у**:вн]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "proving",
+        "transcription": "[пр**у**:виŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "proves",
+        "transcription": "[пру:вз]"
+      }
+    ]
+  },
+  "meaning": "доказывать, подтверждать",
+  "notes": "правильный глагол; причастия proved и proven, в примерах использовано proved; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "proved",
+        "examples": [
+          {
+            "ours": "Вчера испытание подтвердило прочность корпуса.",
+            "thought": "Вчера [известное] испытание доказало [известную] корпуса прочность.",
+            "english": "Yesterday the test proved the hull strength.",
+            "transcription": "[й**э**стэдэй ðэ тэст пру:вд ðэ хал стрэŋθ]"
+          },
+          {
+            "ours": "Ты доказал свою правоту?",
+            "thought": "[Сделал] ты доказывать твою правоту?",
+            "english": "Did you prove your claim?",
+            "transcription": "[дид ю: пру:в йо: клэйм]"
+          },
+          {
+            "ours": "Она не доказала безопасность лодки.",
+            "thought": "Она [сделала] не доказывать [известную] лодки безопасность.",
+            "english": "She did not prove the boat’s safety.",
+            "transcription": "[ши: дид нот пру:в ðэ боутс с**э**йфти]"
+          }
+        ]
+      },
+      "present": {
+        "form": "prove, proves",
+        "examples": [
+          {
+            "ours": "Испытание подтверждает прочность корпуса.",
+            "thought": "[Известное] испытание доказывает [известную] корпуса прочность.",
+            "english": "The test proves the hull strength.",
+            "transcription": "[ðэ тэст пру:вз ðэ хал стрэŋθ]"
+          },
+          {
+            "ours": "Эти данные доказывают твою правоту?",
+            "thought": "[Делают] эти данные доказывать твою правоту?",
+            "english": "Do these data prove your claim?",
+            "transcription": "[ду: ðи:з д**э**йтэ пру:в йо: клэйм]"
+          },
+          {
+            "ours": "Мы не доказываем эту теорию.",
+            "thought": "Мы [делаем] не доказывать эту теорию.",
+            "english": "We do not prove this theory.",
+            "transcription": "[wи: ду: нот пру:в ðис θ**и**эри]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will prove",
+        "examples": [
+          {
+            "ours": "Завтра испытание подтвердит прочность корпуса.",
+            "thought": "Завтра [известное] испытание будет доказывать [известную] корпуса прочность.",
+            "english": "Tomorrow the test will prove the hull strength.",
+            "transcription": "[тэм**о**роу ðэ тэст wил пру:в ðэ хал стрэŋθ]"
+          },
+          {
+            "ours": "Ты докажешь свою правоту?",
+            "thought": "Будешь ты доказывать твою правоту?",
+            "english": "Will you prove your claim?",
+            "transcription": "[wил ю: пру:в йо: клэйм]"
+          },
+          {
+            "ours": "Она не докажет безопасность лодки.",
+            "thought": "Она будет не доказывать [известную] лодки безопасность.",
+            "english": "She will not prove the boat’s safety.",
+            "transcription": "[ши: wил нот пру:в ðэ боутс с**э**йфти]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were proving",
+        "examples": [
+          {
+            "ours": "Вчера утром мы доказывали прочность корпуса испытаниями.",
+            "thought": "Вчера утром мы были доказывающими [известную] корпуса прочность.",
+            "english": "Yesterday morning we were proving the hull strength.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: пр**у**:виŋ ðэ хал стрэŋθ]"
+          },
+          {
+            "ours": "Ты доказывал свою правоту, когда я позвонил?",
+            "thought": "Был ты доказывающим твою правоту, когда я позвонил?",
+            "english": "Were you proving your claim when I called?",
+            "transcription": "[wœ: ю: пр**у**:виŋ йо: клэйм wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are proving",
+        "examples": [
+          {
+            "ours": "Сейчас испытания подтверждают прочность корпуса.",
+            "thought": "[Известные] испытания являются доказывающими [известную] корпуса прочность сейчас.",
+            "english": "The tests are proving the hull strength now.",
+            "transcription": "[ðэ тэстс а: пр**у**:виŋ ðэ хал стрэŋθ нау]"
+          },
+          {
+            "ours": "Ты сейчас доказываешь свою правоту?",
+            "thought": "Являешься ты доказывающим твою правоту сейчас?",
+            "english": "Are you proving your claim now?",
+            "transcription": "[а: ю: пр**у**:виŋ йо: клэйм нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be proving",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем доказывать прочность корпуса.",
+            "thought": "Завтра утром мы будем быть доказывающими [известную] корпуса прочность.",
+            "english": "Tomorrow morning we will be proving the hull strength.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: пр**у**:виŋ ðэ хал стрэŋθ]"
+          },
+          {
+            "ours": "Ты будешь доказывать свою правоту вечером?",
+            "thought": "Будешь ты быть доказывающим твою правоту этот вечер?",
+            "english": "Will you be proving your claim this evening?",
+            "transcription": "[wил ю: би: пр**у**:виŋ йо: клэйм ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had proved",
+        "examples": [
+          {
+            "ours": "К полудню мы уже доказали прочность корпуса.",
+            "thought": "К полудню мы имели уже доказанной [известную] корпуса прочность.",
+            "english": "By noon we had already proved the hull strength.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди пру:вд ðэ хал стрэŋθ]"
+          },
+          {
+            "ours": "Ты доказал свою правоту до гонки?",
+            "thought": "Имел ты доказанной твою правоту до [известной] гонки?",
+            "english": "Had you proved your claim before the race?",
+            "transcription": "[хæд ю: пру:вд йо: клэйм биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has proved",
+        "examples": [
+          {
+            "ours": "Мы уже доказали прочность корпуса.",
+            "thought": "Мы имеем уже доказанной [известную] корпуса прочность.",
+            "english": "We have already proved the hull strength.",
+            "transcription": "[wи: хæв о:лр**э**ди пру:вд ðэ хал стрэŋθ]"
+          },
+          {
+            "ours": "Ты уже доказал свою правоту?",
+            "thought": "Имеешь ты доказанной твою правоту уже?",
+            "english": "Have you proved your claim yet?",
+            "transcription": "[хæв ю: пру:вд йо: клэйм йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have proved",
+        "examples": [
+          {
+            "ours": "К полудню мы докажем прочность корпуса.",
+            "thought": "К полудню мы будем иметь доказанной [известную] корпуса прочность.",
+            "english": "By noon we will have proved the hull strength.",
+            "transcription": "[бай ну:н wи: wил хæв пру:вд ðэ хал стрэŋθ]"
+          },
+          {
+            "ours": "Ты докажешь свою правоту к пяти?",
+            "thought": "Будешь ты иметь доказанной твою правоту к пяти?",
+            "english": "Will you have proved your claim by five?",
+            "transcription": "[wил ю: хæв пру:вд йо: клэйм бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been proving",
+        "examples": [
+          {
+            "ours": "Эта лодка год доказывала надёжность, когда начался шторм.",
+            "thought": "Эта лодка имела быть доказывающей её надёжность целый [какой-то] год, когда [известный] шторм начался.",
+            "english": "This boat had been proving its reliability for a year when the storm began.",
+            "transcription": "[ðис боут хæд би:н пр**у**:виŋ итс рилайэб**и**лити фо: э йиэ wэн ðэ сто:м биг**æ**н]"
+          },
+          {
+            "ours": "Ты доказывал пригодность корпуса два года до гонки?",
+            "thought": "Имел ты быть доказывающим [известную] корпуса пригодность целых два года до [известной] гонки?",
+            "english": "Had you been proving the hull’s fitness for two years before the race?",
+            "transcription": "[хæд ю: би:н пр**у**:виŋ ðэ халз ф**и**тнэс фо: ту: йиэз биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been proving",
+        "examples": [
+          {
+            "ours": "Эта лодка уже год доказывает надёжность.",
+            "thought": "Эта лодка имеет быть доказывающей её надёжность целый [какой-то] год.",
+            "english": "This boat has been proving its reliability for a year.",
+            "transcription": "[ðис боут хæз би:н пр**у**:виŋ итс рилайэб**и**лити фо: э йиэ]"
+          },
+          {
+            "ours": "Ты доказываешь пригодность корпуса уже два года?",
+            "thought": "Имеешь ты быть доказывающим [известную] корпуса пригодность целых два года?",
+            "english": "Have you been proving the hull’s fitness for two years?",
+            "transcription": "[хæв ю: би:н пр**у**:виŋ ðэ халз ф**и**тнэс фо: ту: йиэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been proving",
+        "examples": [
+          {
+            "ours": "К июню эта лодка будет доказывать надёжность уже два года.",
+            "thought": "К июню эта лодка будет иметь быть доказывающей её надёжность целых два года.",
+            "english": "By June this boat will have been proving its reliability for two years.",
+            "transcription": "[бай джу:н ðис боут wил хæв би:н пр**у**:виŋ итс рилайэб**и**лити фо: ту: йиэз]"
+          },
+          {
+            "ours": "К маю ты будешь доказывать пригодность корпуса уже год?",
+            "thought": "Будешь ты иметь быть доказывающим [известную] корпуса пригодность целый [какой-то] год к маю?",
+            "english": "Will you have been proving the hull’s fitness for a year by May?",
+            "transcription": "[wил ю: хæв би:н пр**у**:виŋ ðэ халз ф**и**тнэс фо: э йиэ бай мэй]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were proved",
+        "examples": [
+          {
+            "ours": "Прочность корпуса доказали вчера.",
+            "thought": "[Известная] корпуса прочность была доказана вчера.",
+            "english": "The hull strength was proved yesterday.",
+            "transcription": "[ðэ хал стрэŋθ wоз пру:вд й**э**стэдэй]"
+          },
+          {
+            "ours": "Эти утверждения доказали до гонки?",
+            "thought": "Были эти утверждения доказаны до [известной] гонки?",
+            "english": "Were these claims proved before the race?",
+            "transcription": "[wœ: ðи:з клэймз пру:вд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are proved",
+        "examples": [
+          {
+            "ours": "Безопасность лодки подтверждают испытаниями.",
+            "thought": "[Известная] лодки безопасность есть доказана от испытаний.",
+            "english": "The boat’s safety is proved by tests.",
+            "transcription": "[ðэ боутс с**э**йфти из пру:вд бай тэстс]"
+          },
+          {
+            "ours": "Утверждения подтверждаются данными?",
+            "thought": "Есть [известные] утверждения доказаны от данных?",
+            "english": "Are the claims proved by data?",
+            "transcription": "[а: ðэ клэймз пру:вд бай д**э**йтэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be proved",
+        "examples": [
+          {
+            "ours": "Прочность корпуса докажут завтра.",
+            "thought": "[Известная] корпуса прочность будет быть доказана завтра.",
+            "english": "The hull strength will be proved tomorrow.",
+            "transcription": "[ðэ хал стрэŋθ wил би: пру:вд тэм**о**роу]"
+          },
+          {
+            "ours": "Утверждение докажут до гонки?",
+            "thought": "Будет [известное] утверждение быть доказано до [известной] гонки?",
+            "english": "Will the claim be proved before the race?",
+            "transcription": "[wил ðэ клэйм би: пру:вд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being proved",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, прочность корпуса доказывали испытаниями.",
+            "thought": "[Известная] корпуса прочность была «долго» доказана, когда я прибыл.",
+            "english": "The hull strength was being proved when I arrived.",
+            "transcription": "[ðэ хал стрэŋθ wоз б**и**:иŋ пру:вд wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, утверждения доказывали?",
+            "thought": "Были [известные] утверждения «долго» доказаны, когда ты позвонил?",
+            "english": "Were the claims being proved when you called?",
+            "transcription": "[wœ: ðэ клэймз б**и**:иŋ пру:вд wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being proved",
+        "examples": [
+          {
+            "ours": "Прочность корпуса сейчас подтверждают испытаниями.",
+            "thought": "[Известная] корпуса прочность есть «долго» доказана сейчас.",
+            "english": "The hull strength is being proved now.",
+            "transcription": "[ðэ хал стрэŋθ из б**и**:иŋ пру:вд нау]"
+          },
+          {
+            "ours": "Утверждения сейчас доказывают?",
+            "thought": "Есть [известные] утверждения «долго» доказаны сейчас?",
+            "english": "Are the claims being proved now?",
+            "transcription": "[а: ðэ клэймз б**и**:иŋ пру:вд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be proving",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут доказывать прочность корпуса.",
+            "thought": "Завтра утром они будут быть доказывающими [известную] корпуса прочность.",
+            "english": "Tomorrow morning they will be proving the hull strength.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: пр**у**:виŋ ðэ хал стрэŋθ]"
+          },
+          {
+            "ours": "Они будут доказывать свою правоту вечером?",
+            "thought": "Будут они быть доказывающими их правоту этот вечер?",
+            "english": "Will they be proving their claim this evening?",
+            "transcription": "[wил ðэй би: пр**у**:виŋ ðээ клэйм ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been proved",
+        "examples": [
+          {
+            "ours": "К полудню прочность корпуса уже доказали.",
+            "thought": "К полудню [известная] корпуса прочность имела уже быть доказана.",
+            "english": "By noon the hull strength had already been proved.",
+            "transcription": "[бай ну:н ðэ хал стрэŋθ хæд о:лр**э**ди би:н пру:вд]"
+          },
+          {
+            "ours": "Утверждение доказали до гонки?",
+            "thought": "Имело [известное] утверждение быть доказано до [известной] гонки?",
+            "english": "Had the claim been proved before the race?",
+            "transcription": "[хæд ðэ клэйм би:н пру:вд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been proved",
+        "examples": [
+          {
+            "ours": "Прочность корпуса уже доказали.",
+            "thought": "[Известная] корпуса прочность имеет уже быть доказана.",
+            "english": "The hull strength has already been proved.",
+            "transcription": "[ðэ хал стрэŋθ хæз о:лр**э**ди би:н пру:вд]"
+          },
+          {
+            "ours": "Утверждения уже доказали?",
+            "thought": "Имеют [известные] утверждения быть доказаны уже?",
+            "english": "Have the claims been proved yet?",
+            "transcription": "[хæв ðэ клэймз би:н пру:вд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been proved",
+        "examples": [
+          {
+            "ours": "К полудню прочность корпуса докажут.",
+            "thought": "К полудню [известная] корпуса прочность будет иметь быть доказана.",
+            "english": "By noon the hull strength will have been proved.",
+            "transcription": "[бай ну:н ðэ хал стрэŋθ wил хæв би:н пру:вд]"
+          },
+          {
+            "ours": "Утверждение докажут к пяти?",
+            "thought": "Будет [известное] утверждение иметь быть доказано к пяти?",
+            "english": "Will the claim have been proved by five?",
+            "transcription": "[wил ðэ клэйм хæв би:н пру:вд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been proving the boat’s reliability."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они докажут прочность корпуса.",
+        "thought": "Я знал, они будут доказывать [известную] корпуса прочность.",
+        "english": "I knew they would prove the hull strength.",
+        "transcription": "[ай нью: ðэй wуд пру:в ðэ хал стрэŋθ]"
+      },
+      {
+        "ours": "Она думала, что мы не докажем утверждение.",
+        "thought": "Она думала, мы будем не доказывать [известное] утверждение.",
+        "english": "She thought we would not prove the claim.",
+        "transcription": "[ши: θо:т wи: wуд нот пру:в ðэ клэйм]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "test",
+      "meaning": "испытание",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "test"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "test"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "test"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "tests"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "tests"
+        }
+      ]
+    },
+    {
+      "word": "hull",
+      "meaning": "корпус",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hull"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hull"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "hull"
+        }
+      ]
+    },
+    {
+      "word": "strength",
+      "meaning": "прочность",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "strength"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "strength"
+        }
+      ]
+    },
+    {
+      "word": "claim",
+      "meaning": "утверждение",
+      "sense": "statement",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "claim"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "claim"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "claim"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "claim"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "claim"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "claim"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "claim"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "claim"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "claim"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "claims"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "claims"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "claim"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "claims"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "claims"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "claim"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "claim"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "claims"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "claim"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "claim"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "safety",
+      "meaning": "безопасность",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "safety"
+        }
+      ]
+    },
+    {
+      "word": "data",
+      "meaning": "данные",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "data"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "data"
+        }
+      ]
+    },
+    {
+      "word": "theory",
+      "meaning": "теория",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "theory"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "reliability",
+      "meaning": "надёжность",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "reliability"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "reliability"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "reliability"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "year"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "years"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "fitness",
+      "meaning": "пригодность",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "fitness"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "fitness"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "fitness"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "May",
+      "meaning": "май",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "May"
+        }
+      ]
+    }
+  ]
+}

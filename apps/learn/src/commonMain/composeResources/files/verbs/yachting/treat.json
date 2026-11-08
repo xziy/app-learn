@@ -1,0 +1,876 @@
+{
+  "spec": 4,
+  "verb": "treat",
+  "forms": {
+    "base": [
+      {
+        "word": "treat",
+        "transcription": "[три:т]"
+      }
+    ],
+    "past": [
+      {
+        "word": "treated",
+        "transcription": "[тр**и**:тид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "treated",
+        "transcription": "[тр**и**:тид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "treating",
+        "transcription": "[тр**и**:тиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "treats",
+        "transcription": "[три:тс]"
+      }
+    ]
+  },
+  "meaning": "лечить, обрабатывать, обращаться",
+  "notes": "правильный переходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "treated",
+        "examples": [
+          {
+            "ours": "Вчера врач помог моряку.",
+            "thought": "Вчера [известный] врач лечил [известного] моряка.",
+            "english": "Yesterday the doctor treated the sailor.",
+            "transcription": "[й**э**стэдэй ðэ д**о**ктэ тр**и**:тид ðэ с**э**йлэ]"
+          },
+          {
+            "ours": "Он не лечил пациента на борту.",
+            "thought": "Он [сделал] не лечить [известного] пациента на борту.",
+            "english": "He didn't treat the patient on board.",
+            "transcription": "[хи: диднт три:т ðэ п**э**йшнт он бо:д]"
+          },
+          {
+            "ours": "Ты обработал древесину до выхода?",
+            "thought": "[Сделал] ты обрабатывать [известную] древесину перед отправлением?",
+            "english": "Did you treat the wood before departure?",
+            "transcription": "[дид ю: три:т ðэ wуд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "treat, treats",
+        "examples": [
+          {
+            "ours": "Врач лечит моряков на борту.",
+            "thought": "[Известный] врач лечит моряков на борту.",
+            "english": "The doctor treats sailors on board.",
+            "transcription": "[ðэ д**о**ктэ три:тс с**э**йлэз он бо:д]"
+          },
+          {
+            "ours": "Он не обращается с гостями доброжелательно.",
+            "thought": "Он [делает] не обращаться с гостями доброжелательно.",
+            "english": "He doesn't treat guests kindly.",
+            "transcription": "[хи: дазнт три:т гэстс к**а**йндли]"
+          },
+          {
+            "ours": "Ты обрабатываешь древесину до гонки?",
+            "thought": "[Делаешь] ты обрабатывать [известную] древесину перед [известной] гонкой?",
+            "english": "Do you treat the wood before the race?",
+            "transcription": "[ду: ю: три:т ðэ wуд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will treat",
+        "examples": [
+          {
+            "ours": "Завтра врач будет лечить пациента.",
+            "thought": "Завтра [известный] врач будет лечить [известного] пациента.",
+            "english": "Tomorrow the doctor will treat the patient.",
+            "transcription": "[тэм**о**роу ðэ д**о**ктэ wил три:т ðэ п**э**йшнт]"
+          },
+          {
+            "ours": "Он не будет лечить моряка на борту.",
+            "thought": "Он будет не лечить [известного] моряка на борту.",
+            "english": "He won't treat the sailor on board.",
+            "transcription": "[хи: wоунт три:т ðэ с**э**йлэ он бо:д]"
+          },
+          {
+            "ours": "Ты обработаешь древесину до выхода?",
+            "thought": "Будешь ты обрабатывать [известную] древесину перед отправлением?",
+            "english": "Will you treat the wood before departure?",
+            "transcription": "[wил ю: три:т ðэ wуд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were treating",
+        "examples": [
+          {
+            "ours": "Вчера врач весь день лечил моряков.",
+            "thought": "Вчера [известный] врач был лечащим моряков весь день.",
+            "english": "Yesterday the doctor was treating sailors all day.",
+            "transcription": "[й**э**стэдэй ðэ д**о**ктэ wоз тр**и**:тиŋ с**э**йлэз о:л дэй]"
+          },
+          {
+            "ours": "Ты лечил пациента, когда я пришёл?",
+            "thought": "Был ты лечащим [известного] пациента когда я пришёл?",
+            "english": "Were you treating the patient when I came?",
+            "transcription": "[wœ: ю: тр**и**:тиŋ ðэ п**э**йшнт wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are treating",
+        "examples": [
+          {
+            "ours": "Сейчас врач лечит моряка.",
+            "thought": "[Известный] врач является лечащим [известного] моряка сейчас.",
+            "english": "The doctor is treating the sailor now.",
+            "transcription": "[ðэ д**о**ктэ из тр**и**:тиŋ ðэ с**э**йлэ нау]"
+          },
+          {
+            "ours": "Ты сейчас обрабатываешь древесину?",
+            "thought": "Являешься ты обрабатывающим [известную] древесину сейчас?",
+            "english": "Are you treating the wood now?",
+            "transcription": "[а: ю: тр**и**:тиŋ ðэ wуд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be treating",
+        "examples": [
+          {
+            "ours": "Завтра врач весь день будет лечить моряков.",
+            "thought": "Завтра [известный] врач будет быть лечащим моряков весь день.",
+            "english": "Tomorrow the doctor will be treating sailors all day.",
+            "transcription": "[тэм**о**роу ðэ д**о**ктэ wил би: тр**и**:тиŋ с**э**йлэз о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь обрабатывать древесину до выхода?",
+            "thought": "Будешь ты быть обрабатывающим [известную] древесину перед отправлением?",
+            "english": "Will you be treating the wood before departure?",
+            "transcription": "[wил ю: би: тр**и**:тиŋ ðэ wуд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had treated",
+        "examples": [
+          {
+            "ours": "Вчера к пяти врач уже вылечил пациента.",
+            "thought": "К пяти вчера [известный] врач имел уже леченным [известного] пациента.",
+            "english": "By five yesterday the doctor had already treated the patient.",
+            "transcription": "[бай файв й**э**стэдэй ðэ д**о**ктэ хæд о:лр**э**ди тр**и**:тид ðэ п**э**йшнт]"
+          },
+          {
+            "ours": "Ты обработал древесину до выхода?",
+            "thought": "Имел ты обработанной [известную] древесину перед отправлением?",
+            "english": "Had you treated the wood before departure?",
+            "transcription": "[хæд ю: тр**и**:тид ðэ wуд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has treated",
+        "examples": [
+          {
+            "ours": "Врач уже оказал моряку помощь.",
+            "thought": "[Известный] врач имеет уже леченным [известного] моряка.",
+            "english": "The doctor has already treated the sailor.",
+            "transcription": "[ðэ д**о**ктэ хæз о:лр**э**ди тр**и**:тид ðэ с**э**йлэ]"
+          },
+          {
+            "ours": "Ты уже обработал древесину?",
+            "thought": "Имеешь ты уже обработанной [известную] древесину?",
+            "english": "Have you already treated the wood?",
+            "transcription": "[хæв ю: о:лр**э**ди тр**и**:тид ðэ wуд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have treated",
+        "examples": [
+          {
+            "ours": "Завтра к пяти врач уже окажет пациенту помощь.",
+            "thought": "К пяти завтра [известный] врач будет иметь уже леченным [известного] пациента.",
+            "english": "By five tomorrow the doctor will have already treated the patient.",
+            "transcription": "[бай файв тэм**о**роу ðэ д**о**ктэ wил хæв о:лр**э**ди тр**и**:тид ðэ п**э**йшнт]"
+          },
+          {
+            "ours": "Ты обработаешь древесину до выхода?",
+            "thought": "Будешь ты иметь обработанной [известную] древесину перед отправлением?",
+            "english": "Will you have treated the wood before departure?",
+            "transcription": "[wил ю: хæв тр**и**:тид ðэ wуд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been treating",
+        "examples": [
+          {
+            "ours": "Врач уже два часа лечил моряка, когда ты пришёл.",
+            "thought": "[Известный] врач имел быть лечащим [известного] моряка целых два часа когда ты пришёл.",
+            "english": "The doctor had been treating the sailor for two hours when you came.",
+            "transcription": "[ðэ д**о**ктэ хæд би:н тр**и**:тиŋ ðэ с**э**йлэ фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа обрабатывал древесину, когда он пришёл?",
+            "thought": "Имел ты быть обрабатывающим [известную] древесину целых два часа когда он пришёл?",
+            "english": "Had you been treating the wood for two hours when he came?",
+            "transcription": "[хæд ю: би:н тр**и**:тиŋ ðэ wуд фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been treating",
+        "examples": [
+          {
+            "ours": "Врач уже два часа лечит моряка.",
+            "thought": "[Известный] врач имеет быть лечащим [известного] моряка целых два часа.",
+            "english": "The doctor has been treating the sailor for two hours.",
+            "transcription": "[ðэ д**о**ктэ хæз би:н тр**и**:тиŋ ðэ с**э**йлэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа обрабатываешь древесину?",
+            "thought": "Имеешь ты быть обрабатывающим [известную] древесину целых два часа?",
+            "english": "Have you been treating the wood for two hours?",
+            "transcription": "[хæв ю: би:н тр**и**:тиŋ ðэ wуд фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been treating",
+        "examples": [
+          {
+            "ours": "К пяти врач будет лечить моряка уже два часа.",
+            "thought": "К пяти [известный] врач будет иметь быть лечащим [известного] моряка целых два часа.",
+            "english": "By five the doctor will have been treating the sailor for two hours.",
+            "transcription": "[бай файв ðэ д**о**ктэ wил хæв би:н тр**и**:тиŋ ðэ с**э**йлэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь обрабатывать древесину уже два часа?",
+            "thought": "Будешь ты иметь быть обрабатывающим [известную] древесину целых два часа к пяти?",
+            "english": "Will you have been treating the wood for two hours by five?",
+            "transcription": "[wил ю: хæв би:н тр**и**:тиŋ ðэ wуд фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were treated",
+        "examples": [
+          {
+            "ours": "Вчера моряку оказали помощь.",
+            "thought": "[Известный] моряк был лечен вчера.",
+            "english": "The sailor was treated yesterday.",
+            "transcription": "[ðэ с**э**йлэ wоз тр**и**:тид й**э**стэдэй]"
+          },
+          {
+            "ours": "Древесину обработали до выхода?",
+            "thought": "Была [известная] древесина обработана перед отправлением?",
+            "english": "Was the wood treated before departure?",
+            "transcription": "[wоз ðэ wуд тр**и**:тид биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are treated",
+        "examples": [
+          {
+            "ours": "Моряков лечат на борту.",
+            "thought": "Моряки есть лечены на борту.",
+            "english": "Sailors are treated on board.",
+            "transcription": "[с**э**йлэз а: тр**и**:тид он бо:д]"
+          },
+          {
+            "ours": "Древесину обрабатывают до выхода?",
+            "thought": "Есть [известная] древесина обработана перед отправлением?",
+            "english": "Is the wood treated before departure?",
+            "transcription": "[из ðэ wуд тр**и**:тид биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be treated",
+        "examples": [
+          {
+            "ours": "Завтра моряку окажут помощь.",
+            "thought": "[Известный] моряк будет быть лечен завтра.",
+            "english": "The sailor will be treated tomorrow.",
+            "transcription": "[ðэ с**э**йлэ wил би: тр**и**:тид тэм**о**роу]"
+          },
+          {
+            "ours": "Древесину обработают до выхода?",
+            "thought": "Будет [известная] древесина быть обработана перед отправлением?",
+            "english": "Will the wood be treated before departure?",
+            "transcription": "[wил ðэ wуд би: тр**и**:тид биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being treated",
+        "examples": [
+          {
+            "ours": "Вчера моряков лечили весь день.",
+            "thought": "Вчера моряки были «долго» лечены весь день.",
+            "english": "Yesterday sailors were being treated all day.",
+            "transcription": "[й**э**стэдэй с**э**йлэз wœ: б**и**:иŋ тр**и**:тид о:л дэй]"
+          },
+          {
+            "ours": "Древесину обрабатывали, когда ты пришёл?",
+            "thought": "Была [известная] древесина «долго» обработана когда ты пришёл?",
+            "english": "Was the wood being treated when you came?",
+            "transcription": "[wоз ðэ wуд б**и**:иŋ тр**и**:тид wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being treated",
+        "examples": [
+          {
+            "ours": "Сейчас моряку оказывают помощь.",
+            "thought": "[Известный] моряк есть «долго» лечен сейчас.",
+            "english": "The sailor is being treated now.",
+            "transcription": "[ðэ с**э**йлэ из б**и**:иŋ тр**и**:тид нау]"
+          },
+          {
+            "ours": "Сейчас древесину обрабатывают?",
+            "thought": "Есть [известная] древесина «долго» обработана сейчас?",
+            "english": "Is the wood being treated now?",
+            "transcription": "[из ðэ wуд б**и**:иŋ тр**и**:тид нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be treating",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут лечить моряков.",
+            "thought": "Завтра они будут быть лечащими моряков весь день.",
+            "english": "Tomorrow they will be treating sailors all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: тр**и**:тиŋ с**э**йлэз о:л дэй]"
+          },
+          {
+            "ours": "Они будут обрабатывать древесину до выхода?",
+            "thought": "Будут они быть обрабатывающими [известную] древесину перед отправлением?",
+            "english": "Will they be treating the wood before departure?",
+            "transcription": "[wил ðэй би: тр**и**:тиŋ ðэ wуд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been treated",
+        "examples": [
+          {
+            "ours": "Вчера к пяти моряку уже оказали помощь.",
+            "thought": "К пяти вчера [известный] моряк имел уже быть лечен.",
+            "english": "By five yesterday the sailor had already been treated.",
+            "transcription": "[бай файв й**э**стэдэй ðэ с**э**йлэ хæд о:лр**э**ди би:н тр**и**:тид]"
+          },
+          {
+            "ours": "Древесину обработали до выхода?",
+            "thought": "Имела [известная] древесина быть обработана перед отправлением?",
+            "english": "Had the wood been treated before departure?",
+            "transcription": "[хæд ðэ wуд би:н тр**и**:тид биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been treated",
+        "examples": [
+          {
+            "ours": "Моряку уже оказали помощь.",
+            "thought": "[Известный] моряк имеет уже быть лечен.",
+            "english": "The sailor has already been treated.",
+            "transcription": "[ðэ с**э**йлэ хæз о:лр**э**ди би:н тр**и**:тид]"
+          },
+          {
+            "ours": "Древесину уже обработали?",
+            "thought": "Имеет [известная] древесина уже быть обработана?",
+            "english": "Has the wood already been treated?",
+            "transcription": "[хæз ðэ wуд о:лр**э**ди би:н тр**и**:тид]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been treated",
+        "examples": [
+          {
+            "ours": "К пяти завтра моряку уже окажут помощь.",
+            "thought": "К пяти завтра [известный] моряк будет уже иметь быть лечен.",
+            "english": "By five tomorrow the sailor will already have been treated.",
+            "transcription": "[бай файв тэм**о**роу ðэ с**э**йлэ wил о:лр**э**ди хæв би:н тр**и**:тид]"
+          },
+          {
+            "ours": "Древесину обработают до выхода?",
+            "thought": "Будет [известная] древесина иметь быть обработана перед отправлением?",
+            "english": "Will the wood have been treated before departure?",
+            "transcription": "[wил ðэ wуд хæв би:н тр**и**:тид биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The sailor has been treated. Или: The doctor has been treating the sailor."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они окажут моряку помощь.",
+        "thought": "[Известный] капитан сказал что они будут лечить [известного] моряка.",
+        "english": "The captain said that they would treat the sailor.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд три:т ðэ с**э**йлэ]"
+      },
+      {
+        "ours": "Я знал, что ты не будешь обрабатывать древесину.",
+        "thought": "Я знал что ты будешь не обрабатывать [известную] древесину.",
+        "english": "I knew that you wouldn't treat the wood.",
+        "transcription": "[ай нью: ðæт ю: wуднт три:т ðэ wуд]"
+      },
+      {
+        "ours": "Капитан сказал, что мы окажем пациенту помощь.",
+        "thought": "[Известный] капитан сказал что мы будем лечить [известного] пациента.",
+        "english": "The captain said that we would treat the patient.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд три:т ðэ п**э**йшнт]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "doctor",
+      "meaning": "врач",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "doctor"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "doctor"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "doctor"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "doctor"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "doctor"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "doctor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "doctor"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "doctor"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "doctor"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "doctor"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "doctor"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "doctor"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Sailors"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "sailors"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "patient",
+      "meaning": "пациент",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "patient"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "patient"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "patient"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "patient"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "patient"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "patient"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "wood",
+      "meaning": "древесина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "wood"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "wood"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "wood"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "wood"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "wood"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отправление",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "guest",
+      "meaning": "гость",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "guests"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

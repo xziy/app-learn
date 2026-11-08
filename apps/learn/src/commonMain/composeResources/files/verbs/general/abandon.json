@@ -1,5 +1,5 @@
 {
-  "spec": 3,
+  "spec": 4,
   "verb": "abandon",
   "forms": {
     "base": [
@@ -777,8 +777,9 @@
       ]
     },
     {
-      "word": "studies",
+      "word": "study",
       "meaning": "учёба",
+      "sense": "learning",
       "used_in": [
         {
           "phrase": "active.continuous.present.1",
@@ -1361,6 +1362,7 @@
     {
       "word": "bill",
       "meaning": "законопроект",
+      "sense": "law",
       "used_in": [
         {
           "phrase": "passive.simple.future.0",

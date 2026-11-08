@@ -1,0 +1,1441 @@
+{
+  "spec": 4,
+  "verb": "indicate",
+  "forms": {
+    "base": [
+      {
+        "word": "indicate",
+        "transcription": "[**и**ндикэйт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "indicated",
+        "transcription": "[**и**ндикэйтид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "indicated",
+        "transcription": "[**и**ндикэйтид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "indicating",
+        "transcription": "[**и**ндикэйтиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "indicates",
+        "transcription": "[**и**ндикэйтс]"
+      }
+    ]
+  },
+  "meaning": "указывать, показывать (о приборе), обозначать (о буе, огне), отмечать (на карте)",
+  "notes": "правильный переходный глагол; есть пассив: the channel is indicated by buoys — фарватер обозначен буями; о приборе во времени типа 2: the gauge is indicating low pressure — датчик сейчас показывает низкое давление",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "indicated",
+        "examples": [
+          {
+            "ours": "Вчера шкипер показал на карте якорную стоянку.",
+            "thought": "Вчера [известный] шкипер указал [известную] якорную стоянку на [известной] карте.",
+            "english": "Yesterday the skipper indicated the anchorage on the chart.",
+            "transcription": "[й**э**стэдэй ðэ ск**и**пэ **и**ндикэйтид ðи **æ**нкэридж он ðэ ча:т]"
+          },
+          {
+            "ours": "Барометр не предвещал шторма.",
+            "thought": "[Известный] барометр [сделал] не указывать [какой-то] шторм.",
+            "english": "The barometer did not indicate a storm.",
+            "transcription": "[ðэ бэр**о**митэ дид нот **и**ндикэйт э сто:м]"
+          },
+          {
+            "ours": "На карте были отмечены опасности у входа?",
+            "thought": "[Сделала] [известная] карта указывать какие-нибудь опасности у [известного] входа?",
+            "english": "Did the chart indicate any hazards at the entrance?",
+            "transcription": "[дид ðэ ча:т **и**ндикэйт **э**ни х**æ**зэдз æт ðи **э**нтрэнс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "indicate, indicates",
+        "examples": [
+          {
+            "ours": "Этот буй обозначает затонувшее судно.",
+            "thought": "Этот буй указывает [какое-то] затонувшее судно.",
+            "english": "This buoy indicates a wreck.",
+            "transcription": "[ðис бой **и**ндикэйтс э рэк]"
+          },
+          {
+            "ours": "Компас показывает не на истинный север.",
+            "thought": "[Известный] компас [делает] не указывать истинный север.",
+            "english": "The compass does not indicate true north.",
+            "transcription": "[ðэ к**а**мпэс даз нот **и**ндикэйт тру: но:θ]"
+          },
+          {
+            "ours": "Что означает этот мигающий огонь?",
+            "thought": "Что [делает] этот мигающий огонь указывать?",
+            "english": "What does this flashing light indicate?",
+            "transcription": "[wот даз ðис фл**æ**шиŋ лайт **и**ндикэйт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will indicate",
+        "examples": [
+          {
+            "ours": "Завтра комитет сообщит время старта по радио.",
+            "thought": "Завтра [известный] комитет будет указывать [известное] старта время по радио.",
+            "english": "Tomorrow the committee will indicate the start time by radio.",
+            "transcription": "[тэм**о**роу ðэ кэм**и**ти wил **и**ндикэйт ðэ ста:т тайм бай р**э**йдиоу]"
+          },
+          {
+            "ours": "На старой карте нового волнореза не будет.",
+            "thought": "[Какая-то] старая карта будет не указывать [известный] новый волнорез.",
+            "english": "An old chart will not indicate the new breakwater.",
+            "transcription": "[эн оулд ча:т wил нот **и**ндикэйт ðэ нью: бр**э**йкwо:тэ]"
+          },
+          {
+            "ours": "Дисплей покажет скорость ветра?",
+            "thought": "Будет [известный] дисплей указывать [известную] ветра скорость?",
+            "english": "Will the display indicate the wind speed?",
+            "transcription": "[wил ðэ диспл**э**й **и**ндикэйт ðэ wинд спи:д]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were indicating",
+        "examples": [
+          {
+            "ours": "В полдень барометр показывал резкое падение давления.",
+            "thought": "В полдень [известный] барометр был указывающим [какое-то] резкое падение в давлении.",
+            "english": "At noon the barometer was indicating a sharp fall in pressure.",
+            "transcription": "[æт ну:н ðэ бэр**о**митэ wоз **и**ндикэйтиŋ э ша:п фо:л ин пр**э**шэ]"
+          },
+          {
+            "ours": "Датчик показывал низкое давление масла, когда заглох двигатель?",
+            "thought": "Был [известный] датчик указывающим низкое масла давление, когда [известный] двигатель остановился?",
+            "english": "Was the gauge indicating low oil pressure when the engine stopped?",
+            "transcription": "[wоз ðэ гэйдж **и**ндикэйтиŋ лоу ойл пр**э**шэ wэн ðи **э**нджин стопт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are indicating",
+        "examples": [
+          {
+            "ours": "Дисплей сейчас показывает неисправность двигателя.",
+            "thought": "[Известный] дисплей является указывающим [какую-то] двигателя неисправность сейчас.",
+            "english": "The display is indicating an engine fault now.",
+            "transcription": "[ðэ диспл**э**й из **и**ндикэйтиŋ эн **э**нджин фо:лт нау]"
+          },
+          {
+            "ours": "Экран сейчас не показывает наше местоположение.",
+            "thought": "[Известный] экран является не указывающим наше местоположение сейчас.",
+            "english": "The screen is not indicating our position now.",
+            "transcription": "[ðэ скри:н из нот **и**ндикэйтиŋ ауэ пэз**и**шн нау]"
+          },
+          {
+            "ours": "Облака предвещают перемену погоды?",
+            "thought": "Являются [известные] облака указывающими [какую-то] перемену в [известной] погоде?",
+            "english": "Are the clouds indicating a change in the weather?",
+            "transcription": "[а: ðэ клаудз **и**ндикэйтиŋ э чэйндж ин ðэ w**э**ðэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be indicating",
+        "examples": [
+          {
+            "ours": "Завтра персонал марины весь день будет показывать свободные места.",
+            "thought": "Завтра [известный] марины персонал будет быть указывающим свободные места весь день.",
+            "english": "Tomorrow the marina staff will be indicating free berths all day.",
+            "transcription": "[тэм**о**роу ðэ мэр**и**:нэ ста:ф wил би: **и**ндикэйтиŋ фри: бœ:θс о:л дэй]"
+          },
+          {
+            "ours": "Огни будут обозначать фарватер всю ночь?",
+            "thought": "Будут [известные] огни быть указывающими [известный] фарватер всю ночь?",
+            "english": "Will the lights be indicating the channel all night?",
+            "transcription": "[wил ðэ лайтс би: **и**ндикэйтиŋ ðэ ч**æ**нл о:л найт]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had indicated",
+        "examples": [
+          {
+            "ours": "К полудню прогноз уже обещал туман в бухте.",
+            "thought": "К полудню [известный] прогноз имел уже указанным туман в [известной] бухте.",
+            "english": "By noon the forecast had already indicated fog in the bay.",
+            "transcription": "[бай ну:н ðэ ф**о**:ка:ст хæд о:лр**э**ди **и**ндикэйтид фог ин ðэ бэй]"
+          },
+          {
+            "ours": "На старой карте мель у острова не была отмечена.",
+            "thought": "[Известная] старая карта имела не указанной [известную] мель около [известного] острова.",
+            "english": "The old chart had not indicated the sandbank near the island.",
+            "transcription": "[ðи оулд ча:т хæд нот **и**ндикэйтид ðэ с**æ**ндбæнк ниэ ðи **а**йлэнд]"
+          },
+          {
+            "ours": "Марина к тому времени уже указала наше место?",
+            "thought": "Имела [известная] марина указанным наше место к тогда?",
+            "english": "Had the marina indicated our berth by then?",
+            "transcription": "[хæд ðэ мэр**и**:нэ **и**ндикэйтид ауэ бœ:θ бай ðэн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has indicated",
+        "examples": [
+          {
+            "ours": "Шкипер уже показал, где лежат спасательные жилеты.",
+            "thought": "[Известный] шкипер имеет уже указанным, где [известные] спасательные жилеты есть.",
+            "english": "The skipper has already indicated where the life jackets are.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди **и**ндикэйтид wээ ðэ лайф дж**æ**китс а:]"
+          },
+          {
+            "ours": "Радар пока не показал ни одного судна.",
+            "thought": "[Известный] радар имеет не указанными какие-нибудь суда ещё.",
+            "english": "The radar has not indicated any vessels yet.",
+            "transcription": "[ðэ р**э**йда: хæз нот **и**ндикэйтид **э**ни в**э**слз йэт]"
+          },
+          {
+            "ours": "Прогноз обещает какие-нибудь перемены на завтра?",
+            "thought": "Имеет [известный] прогноз указанной какую-нибудь перемену для завтра?",
+            "english": "Has the forecast indicated any change for tomorrow?",
+            "transcription": "[хæз ðэ ф**о**:ка:ст **и**ндикэйтид **э**ни чэйндж фо: тэм**о**роу]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have indicated",
+        "examples": [
+          {
+            "ours": "К пяти комитет обозначит финишную линию.",
+            "thought": "К пяти [известный] комитет будет иметь указанной [известную] финишную линию.",
+            "english": "By five the committee will have indicated the finish line.",
+            "transcription": "[бай файв ðэ кэм**и**ти wил хæв **и**ндикэйтид ðэ ф**и**ниш лайн]"
+          },
+          {
+            "ours": "Береговая охрана к полуночи укажет безопасный маршрут?",
+            "thought": "Будет [известная] береговая охрана иметь указанным [какой-то] безопасный маршрут к полуночи?",
+            "english": "Will the coastguard have indicated a safe route by midnight?",
+            "transcription": "[wил ðэ к**о**устга:д хæв **и**ндикэйтид э сэйф ру:т бай м**и**днайт]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been indicating",
+        "examples": [
+          {
+            "ours": "Радар двадцать минут показывал судно, прежде чем мы его увидели.",
+            "thought": "[Известный] радар имел быть указывающим [какое-то] судно целых двадцать минут, прежде чем мы увидели его.",
+            "english": "The radar had been indicating a vessel for twenty minutes before we saw it.",
+            "transcription": "[ðэ р**э**йда: хæд би:н **и**ндикэйтиŋ э в**э**сл фо: тw**э**нти м**и**нитс биф**о**: wи: со: ит]"
+          },
+          {
+            "ours": "Сигнализация уже час показывала течь, когда ты пришёл?",
+            "thought": "Имела [известная] сигнализация быть указывающей [какую-то] течь целый [какой-то] час, когда ты прибыл?",
+            "english": "Had the alarm been indicating a leak for an hour when you arrived?",
+            "transcription": "[хæд ðи эл**а**:м би:н **и**ндикэйтиŋ э ли:к фо: эн **а**уэ wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been indicating",
+        "examples": [
+          {
+            "ours": "Барометр уже шесть часов показывает падение давления.",
+            "thought": "[Известный] барометр имеет быть указывающим падающее давление целых шесть часов.",
+            "english": "The barometer has been indicating falling pressure for six hours.",
+            "transcription": "[ðэ бэр**о**митэ хæз би:н **и**ндикэйтиŋ ф**о**:лиŋ пр**э**шэ фо: сикс **а**уэз]"
+          },
+          {
+            "ours": "Датчик топлива давно показывает низкий уровень?",
+            "thought": "Имеет [известный] топлива датчик быть указывающим [какой-то] низкий уровень целое долго?",
+            "english": "Has the fuel gauge been indicating a low level for long?",
+            "transcription": "[хæз ðэ фь**ю**:эл гэйдж би:н **и**ндикэйтиŋ э лоу л**э**вл фо: лоŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been indicating",
+        "examples": [
+          {
+            "ours": "К воскресенью прогнозы будут обещать сильный ветер уже неделю.",
+            "thought": "К воскресенью [известные] прогнозы будут иметь быть указывающими сильные ветры целую [какую-то] неделю.",
+            "english": "By Sunday the forecasts will have been indicating strong winds for a week.",
+            "transcription": "[бай с**а**ндэй ðэ ф**о**:ка:стс wил хæв би:н **и**ндикэйтиŋ строŋ wиндз фо: э wи:к]"
+          },
+          {
+            "ours": "Компас к тому времени будет уже час показывать неверный курс?",
+            "thought": "Будет [известный] компас иметь быть указывающим [известный] неверный курс целый [какой-то] час к тогда?",
+            "english": "Will the compass have been indicating the wrong course for an hour by then?",
+            "transcription": "[wил ðэ к**а**мпэс хæв би:н **и**ндикэйтиŋ ðэ роŋ ко:с фо: эн **а**уэ бай ðэн]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were indicated",
+        "examples": [
+          {
+            "ours": "Затонувшее судно обозначили мигающим огнём.",
+            "thought": "[Известное] затонувшее судно было указано посредством [какого-то] мигающего огня.",
+            "english": "The wreck was indicated by a flashing light.",
+            "transcription": "[ðэ рэк wоз **и**ндикэйтид бай э фл**æ**шиŋ лайт]"
+          },
+          {
+            "ours": "В сообщении наше место не указали.",
+            "thought": "Наше место было не указано в [известном] сообщении.",
+            "english": "Our berth was not indicated in the message.",
+            "transcription": "[ауэ бœ:θ wоз нот **и**ндикэйтид ин ðэ м**э**сидж]"
+          },
+          {
+            "ours": "Мелководье было обозначено буями?",
+            "thought": "Был [известный] мелкий район указан посредством буёв?",
+            "english": "Was the shallow area indicated by buoys?",
+            "transcription": "[wоз ðэ ш**æ**лоу **э**эриэ **и**ндикэйтид бай бойз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are indicated",
+        "examples": [
+          {
+            "ours": "Фарватер обозначен красными и зелёными буями.",
+            "thought": "[Известный] фарватер есть указан посредством красных и зелёных буёв.",
+            "english": "The channel is indicated by red and green buoys.",
+            "transcription": "[ðэ ч**æ**нл из **и**ндикэйтид бай рэд æнд гри:н бойз]"
+          },
+          {
+            "ours": "Глубины на этой карте не указаны.",
+            "thought": "Глубины есть не указаны на этой карте.",
+            "english": "Depths are not indicated on this chart.",
+            "transcription": "[дэпθс а: нот **и**ндикэйтид он ðис ча:т]"
+          },
+          {
+            "ours": "Как на карте обозначают затонувшее судно?",
+            "thought": "Как есть [какое-то] затонувшее судно указано на [известной] карте?",
+            "english": "How is a wreck indicated on the chart?",
+            "transcription": "[хау из э рэк **и**ндикэйтид он ðэ ча:т]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be indicated",
+        "examples": [
+          {
+            "ours": "Риф отметят на новой карте.",
+            "thought": "[Известный] риф будет быть указан на [известной] новой карте.",
+            "english": "The reef will be indicated on the new chart.",
+            "transcription": "[ðэ ри:ф wил би: **и**ндикэйтид он ðэ нью: ча:т]"
+          },
+          {
+            "ours": "На старых картах новую опасность не отметят.",
+            "thought": "[Известная] новая опасность будет не быть указана на старых картах.",
+            "english": "The new hazard will not be indicated on old charts.",
+            "transcription": "[ðэ нью: х**æ**зэд wил нот би: **и**ндикэйтид он оулд ча:тс]"
+          },
+          {
+            "ours": "Ограничение скорости обозначат знаками?",
+            "thought": "Будет [известное] ограничение скорости быть указано посредством знаков?",
+            "english": "Will the speed limit be indicated by signs?",
+            "transcription": "[wил ðэ спи:д л**и**мит би: **и**ндикэйтид бай сайнз]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being indicated",
+        "not_possible": "indicate в пассиве описывает состояние: буй или знак обозначает место всё время, и `was being indicated` носитель не скажет. Вместо этого скажут: The wreck was indicated by a flashing light."
+      },
+      "present": {
+        "form": "am/is/are being indicated",
+        "not_possible": "indicate в пассиве описывает состояние, и `is being indicated` носитель не скажет. Вместо этого скажут: The channel is indicated by buoys. или The display is indicating an engine fault now."
+      },
+      "future": {
+        "form": "will be indicating",
+        "examples": [
+          {
+            "ours": "Завтра всё утро они будут показывать дистанцию флагами.",
+            "thought": "Завтра они будут быть указывающими [известный] курс с флагами всё утро.",
+            "english": "Tomorrow they will be indicating the course with flags all morning.",
+            "transcription": "[тэм**о**роу ðэй wил би: **и**ндикэйтиŋ ðэ ко:с wиð флæгз о:л м**о**:ниŋ]"
+          },
+          {
+            "ours": "Они всю неделю будут обозначать опасную зону буями?",
+            "thought": "Будут они быть указывающими [известную] опасную зону с буями всю неделю?",
+            "english": "Will they be indicating the danger zone with buoys all week?",
+            "transcription": "[wил ðэй би: **и**ндикэйтиŋ ðэ д**э**йнджэ зоун wиð бойз о:л wи:к]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been indicated",
+        "examples": [
+          {
+            "ours": "К тому времени опасные скалы отметили на всех картах.",
+            "thought": "К тогда [известные] опасные скалы имели быть указаны на всех картах.",
+            "english": "By then the dangerous rocks had been indicated on all charts.",
+            "transcription": "[бай ðэн ðэ д**э**йнджэрэс рокс хæд би:н **и**ндикэйтид он о:л ча:тс]"
+          },
+          {
+            "ours": "Район гонки обозначили до старта?",
+            "thought": "Имел [известный] гонки район быть указан до [известного] старта?",
+            "english": "Had the race area been indicated before the start?",
+            "transcription": "[хæд ðэ рэйс **э**эриэ би:н **и**ндикэйтид биф**о**: ðэ ста:т]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been indicated",
+        "examples": [
+          {
+            "ours": "Новый фарватер уже обозначен буями.",
+            "thought": "[Известный] новый фарватер имеет уже быть указан посредством буёв.",
+            "english": "The new channel has already been indicated by buoys.",
+            "transcription": "[ðэ нью: ч**æ**нл хæз о:лр**э**ди би:н **и**ндикэйтид бай бойз]"
+          },
+          {
+            "ours": "Опасность ещё не обозначена.",
+            "thought": "[Известная] опасность имеет не быть указана ещё.",
+            "english": "The hazard has not been indicated yet.",
+            "transcription": "[ðэ х**æ**зэд хæз нот би:н **и**ндикэйтид йэт]"
+          },
+          {
+            "ours": "Якорную стоянку уже отметили на карте?",
+            "thought": "Имеет [известная] якорная стоянка быть указана на [известной] карте уже?",
+            "english": "Has the anchorage been indicated on the chart yet?",
+            "transcription": "[хæз ðи **æ**нкэридж би:н **и**ндикэйтид он ðэ ча:т йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been indicated",
+        "examples": [
+          {
+            "ours": "К рассвету район поиска отметят на картах.",
+            "thought": "К рассвету [известный] поиска район будет иметь быть указан на [известных] картах.",
+            "english": "By dawn the search area will have been indicated on the charts.",
+            "transcription": "[бай до:н ðэ сœ:ч **э**эриэ wил хæв би:н **и**ндикэйтид он ðэ ча:тс]"
+          },
+          {
+            "ours": "Гоночные знаки обозначат к полудню?",
+            "thought": "Будут [известные] гоночные знаки иметь быть указаны к полудню?",
+            "english": "Will the race marks have been indicated by noon?",
+            "transcription": "[wил ðэ рэйс ма:кс хæв би:н **и**ндикэйтид бай ну:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being indicated` не употребляется. Вместо этого скажут: The channel has been indicated by buoys. или The barometer has been indicating falling pressure for six hours."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что приборы покажут неисправность.",
+        "thought": "Я знал, [известные] приборы будут указывать [какую-то] неисправность.",
+        "english": "I knew the instruments would indicate a fault.",
+        "transcription": "[ай нью: ðи **и**нстрэмэнтс wуд **и**ндикэйт э фо:лт]"
+      },
+      {
+        "ours": "Мы думали, что такой маленький риф на карте не отмечен.",
+        "thought": "Мы думали, [известная] карта будет не указывать этот маленький риф.",
+        "english": "We thought the chart would not indicate this small reef.",
+        "transcription": "[wи: θо:т ðэ ча:т wуд нот **и**ндикэйт ðис смо:л ри:ф]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "anchorage",
+      "meaning": "якорная стоянка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "anchorage"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "anchorage"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "charts"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "barometer",
+      "meaning": "барометр",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "barometer"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "barometer"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "barometer"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "hazard",
+      "meaning": "опасность",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "hazards"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "hazard"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "hazard"
+        }
+      ]
+    },
+    {
+      "word": "entrance",
+      "meaning": "вход",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "entrance"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "meaning": "буй",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "buoy"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "buoys"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "buoys"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "buoys"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "buoys"
+        }
+      ]
+    },
+    {
+      "word": "wreck",
+      "meaning": "затонувшее судно",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "wreck"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "wreck"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "wreck"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "north",
+      "meaning": "север",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "north"
+        }
+      ]
+    },
+    {
+      "word": "light",
+      "meaning": "огонь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "light"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "lights"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "light"
+        }
+      ]
+    },
+    {
+      "word": "committee",
+      "meaning": "комитет",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "committee"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "committee"
+        }
+      ]
+    },
+    {
+      "word": "start",
+      "meaning": "старт",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "start"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "start"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "breakwater",
+      "meaning": "волнорез",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "breakwater"
+        }
+      ]
+    },
+    {
+      "word": "display",
+      "meaning": "дисплей",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "display"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "display"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "winds"
+        }
+      ]
+    },
+    {
+      "word": "speed",
+      "meaning": "скорость",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "speed"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "fall",
+      "meaning": "падение",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "fall"
+        }
+      ]
+    },
+    {
+      "word": "pressure",
+      "meaning": "давление",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "pressure"
+        }
+      ]
+    },
+    {
+      "word": "gauge",
+      "meaning": "датчик",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "gauge"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "gauge"
+        }
+      ]
+    },
+    {
+      "word": "oil",
+      "meaning": "масло",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "oil"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "fault",
+      "meaning": "неисправность",
+      "sense": "defect",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "fault"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "fault"
+        }
+      ]
+    },
+    {
+      "word": "screen",
+      "meaning": "экран",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "screen"
+        }
+      ]
+    },
+    {
+      "word": "position",
+      "meaning": "местоположение",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "position"
+        }
+      ]
+    },
+    {
+      "word": "cloud",
+      "meaning": "облако",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "clouds"
+        }
+      ]
+    },
+    {
+      "word": "change",
+      "meaning": "перемена",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "change"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "change"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "staff",
+      "meaning": "персонал",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "staff"
+        }
+      ]
+    },
+    {
+      "word": "berth",
+      "meaning": "место у причала",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "berths"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "berth"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "berth"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "channel",
+      "meaning": "фарватер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "channel"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "channel"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "channel"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "forecasts"
+        }
+      ]
+    },
+    {
+      "word": "fog",
+      "meaning": "туман",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "fog"
+        }
+      ]
+    },
+    {
+      "word": "bay",
+      "meaning": "бухта",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "bay"
+        }
+      ]
+    },
+    {
+      "word": "sandbank",
+      "meaning": "мель",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sandbank"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "life jacket",
+      "meaning": "спасательный жилет",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "life jackets"
+        }
+      ]
+    },
+    {
+      "word": "radar",
+      "meaning": "радар",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "radar"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "radar"
+        }
+      ]
+    },
+    {
+      "word": "vessel",
+      "meaning": "судно",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "vessels"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "vessel"
+        }
+      ]
+    },
+    {
+      "word": "finish",
+      "meaning": "финиш",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "finish"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "линия",
+      "sense": "mark",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "coastguard",
+      "meaning": "береговая охрана",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "coastguard"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "midnight",
+      "meaning": "полночь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "midnight"
+        }
+      ]
+    },
+    {
+      "word": "minute",
+      "meaning": "минута",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "minutes"
+        }
+      ]
+    },
+    {
+      "word": "alarm",
+      "meaning": "сигнализация",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "alarm"
+        }
+      ]
+    },
+    {
+      "word": "leak",
+      "meaning": "течь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "leak"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "fuel",
+      "meaning": "топливо",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "fuel"
+        }
+      ]
+    },
+    {
+      "word": "level",
+      "meaning": "уровень",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "level"
+        }
+      ]
+    },
+    {
+      "word": "Sunday",
+      "meaning": "воскресенье",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "Sunday"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "week"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "week"
+        }
+      ]
+    },
+    {
+      "word": "course",
+      "meaning": "курс",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "course"
+        }
+      ]
+    },
+    {
+      "word": "message",
+      "meaning": "сообщение",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "message"
+        }
+      ]
+    },
+    {
+      "word": "area",
+      "meaning": "район",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "area"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "area"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "area"
+        }
+      ]
+    },
+    {
+      "word": "depth",
+      "meaning": "глубина",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "Depths"
+        }
+      ]
+    },
+    {
+      "word": "reef",
+      "meaning": "риф",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "reef"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "reef"
+        }
+      ]
+    },
+    {
+      "word": "speed limit",
+      "meaning": "ограничение скорости",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "speed limit"
+        }
+      ]
+    },
+    {
+      "word": "sign",
+      "meaning": "знак",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "signs"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "danger",
+      "meaning": "опасность",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "danger"
+        }
+      ]
+    },
+    {
+      "word": "zone",
+      "meaning": "зона",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "zone"
+        }
+      ]
+    },
+    {
+      "word": "rock",
+      "meaning": "скала",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "rocks"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "search",
+      "meaning": "поиск",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "search"
+        }
+      ]
+    },
+    {
+      "word": "mark",
+      "meaning": "знак",
+      "sense": "race",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "marks"
+        }
+      ]
+    },
+    {
+      "word": "instrument",
+      "meaning": "прибор",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "instruments"
+        }
+      ]
+    }
+  ]
+}

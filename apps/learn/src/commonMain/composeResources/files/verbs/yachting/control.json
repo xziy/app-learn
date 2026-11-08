@@ -1,0 +1,811 @@
+{
+  "spec": 4,
+  "verb": "control",
+  "forms": {
+    "base": [
+      {
+        "word": "control",
+        "transcription": "[кэнтр**о**ул]"
+      }
+    ],
+    "past": [
+      {
+        "word": "controlled",
+        "transcription": "[кэнтр**о**улд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "controlled",
+        "transcription": "[кэнтр**о**улд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "controlling",
+        "transcription": "[кэнтр**о**улиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "controls",
+        "transcription": "[кэнтр**о**улз]"
+      }
+    ]
+  },
+  "meaning": "управлять, контролировать",
+  "notes": "правильный переходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "controlled",
+        "examples": [
+          {
+            "ours": "Вчера мы управляли яхтой вручную.",
+            "thought": "Вчера мы управляли [известной] яхтой вручную.",
+            "english": "Yesterday we controlled the yacht manually.",
+            "transcription": "[й**э**стэдэй wи: кэнтр**о**улд ðэ йот м**æ**ньюэли]"
+          },
+          {
+            "ours": "Он не управлял скоростью лодки.",
+            "thought": "Он [сделал] не контролировать [известной] лодки скорость.",
+            "english": "He didn't control the boat speed.",
+            "transcription": "[хи: диднт кэнтр**о**ул ðэ боут спи:д]"
+          },
+          {
+            "ours": "Ты управлял лодкой во время гонки?",
+            "thought": "[Сделал] ты управлять [известной] лодкой во время [известной] гонки?",
+            "english": "Did you control the boat during the race?",
+            "transcription": "[дид ю: кэнтр**о**ул ðэ боут дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "control, controls",
+        "examples": [
+          {
+            "ours": "Капитан управляет скоростью яхты.",
+            "thought": "[Известный] капитан контролирует [известной] яхты скорость.",
+            "english": "The captain controls the yacht speed.",
+            "transcription": "[ðэ к**æ**птин кэнтр**о**улз ðэ йот спи:д]"
+          },
+          {
+            "ours": "Он не управляет парусами на борту.",
+            "thought": "Он [делает] не контролировать [известные] паруса на борту.",
+            "english": "He doesn't control the sails on board.",
+            "transcription": "[хи: дазнт кэнтр**о**ул ðэ сэйлз он бо:д]"
+          },
+          {
+            "ours": "Ты управляешь рулём во время гонки?",
+            "thought": "[Делаешь] ты контролировать [известный] руль во время [известной] гонки?",
+            "english": "Do you control the rudder during the race?",
+            "transcription": "[ду: ю: кэнтр**о**ул ðэ р**а**дэ дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will control",
+        "examples": [
+          {
+            "ours": "Завтра мы будем управлять яхтой вручную.",
+            "thought": "Завтра мы будем управлять [известной] яхтой вручную.",
+            "english": "Tomorrow we will control the yacht manually.",
+            "transcription": "[тэм**о**роу wи: wил кэнтр**о**ул ðэ йот м**æ**ньюэли]"
+          },
+          {
+            "ours": "Он не будет управлять скоростью.",
+            "thought": "Он будет не контролировать [известную] скорость.",
+            "english": "He won't control the speed.",
+            "transcription": "[хи: wоунт кэнтр**о**ул ðэ спи:д]"
+          },
+          {
+            "ours": "Ты будешь управлять лодкой во время гонки?",
+            "thought": "Будешь ты управлять [известной] лодкой во время [известной] гонки?",
+            "english": "Will you control the boat during the race?",
+            "transcription": "[wил ю: кэнтр**о**ул ðэ боут дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were controlling",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день управляли яхтой.",
+            "thought": "Вчера мы были управляющими [известной] яхтой весь день.",
+            "english": "Yesterday we were controlling the yacht all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: кэнтр**о**улиŋ ðэ йот о:л дэй]"
+          },
+          {
+            "ours": "Ты управлял скоростью, когда я пришёл?",
+            "thought": "Был ты контролирующим [известную] скорость когда я пришёл?",
+            "english": "Were you controlling the speed when I came?",
+            "transcription": "[wœ: ю: кэнтр**о**улиŋ ðэ спи:д wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are controlling",
+        "examples": [
+          {
+            "ours": "Сейчас мы управляем лодкой вручную.",
+            "thought": "Мы являемся управляющими [известной] лодкой вручную сейчас.",
+            "english": "We are controlling the boat manually now.",
+            "transcription": "[wи: а: кэнтр**о**улиŋ ðэ боут м**æ**ньюэли нау]"
+          },
+          {
+            "ours": "Ты сейчас управляешь парусами?",
+            "thought": "Являешься ты контролирующим [известные] паруса сейчас?",
+            "english": "Are you controlling the sails now?",
+            "transcription": "[а: ю: кэнтр**о**улиŋ ðэ сэйлз нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be controlling",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем управлять яхтой.",
+            "thought": "Завтра мы будем быть управляющими [известной] яхтой весь день.",
+            "english": "Tomorrow we will be controlling the yacht all day.",
+            "transcription": "[тэм**о**роу wи: wил би: кэнтр**о**улиŋ ðэ йот о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь управлять скоростью во время гонки?",
+            "thought": "Будешь ты быть контролирующим [известную] скорость во время [известной] гонки?",
+            "english": "Will you be controlling the speed during the race?",
+            "transcription": "[wил ю: би: кэнтр**о**улиŋ ðэ спи:д дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had controlled",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже контролировали скорость.",
+            "thought": "К пяти вчера мы имели уже контролируемой [известную] скорость.",
+            "english": "By five yesterday we had already controlled the speed.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди кэнтр**о**улд ðэ спи:д]"
+          },
+          {
+            "ours": "Ты управлял лодкой до гонки?",
+            "thought": "Имел ты управляемой [известную] лодку перед [известной] гонкой?",
+            "english": "Had you controlled the boat before the race?",
+            "transcription": "[хæд ю: кэнтр**о**улд ðэ боут биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has controlled",
+        "examples": [
+          {
+            "ours": "Мы уже контролировали скорость во время гонки.",
+            "thought": "Мы имеем уже контролируемой [известную] скорость во время [известной] гонки.",
+            "english": "We have already controlled the speed during the race.",
+            "transcription": "[wи: хæв о:лр**э**ди кэнтр**о**улд ðэ спи:д дь**ю**эриŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Ты уже управлял яхтой?",
+            "thought": "Имеешь ты уже управляемой [известную] яхту?",
+            "english": "Have you already controlled the yacht?",
+            "transcription": "[хæв ю: о:лр**э**ди кэнтр**о**улд ðэ йот]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have controlled",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже будем управлять лодкой.",
+            "thought": "К пяти завтра мы будем иметь уже управляемой [известную] лодку.",
+            "english": "By five tomorrow we will have already controlled the boat.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди кэнтр**о**улд ðэ боут]"
+          },
+          {
+            "ours": "Ты будешь контролировать скорость до гонки?",
+            "thought": "Будешь ты иметь контролируемой [известную] скорость перед [известной] гонкой?",
+            "english": "Will you have controlled the speed before the race?",
+            "transcription": "[wил ю: хæв кэнтр**о**улд ðэ спи:д биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been controlling",
+        "examples": [
+          {
+            "ours": "Мы уже два часа управляли яхтой, когда ты пришёл.",
+            "thought": "Мы имели быть управляющими [известной] яхтой целых два часа когда ты пришёл.",
+            "english": "We had been controlling the yacht for two hours when you came.",
+            "transcription": "[wи: хæд би:н кэнтр**о**улиŋ ðэ йот фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа контролировал скорость, когда он пришёл?",
+            "thought": "Имел ты быть контролирующим [известную] скорость целых два часа когда он пришёл?",
+            "english": "Had you been controlling the speed for two hours when he came?",
+            "transcription": "[хæд ю: би:н кэнтр**о**улиŋ ðэ спи:д фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been controlling",
+        "examples": [
+          {
+            "ours": "Мы уже два часа управляем яхтой.",
+            "thought": "Мы имеем быть управляющими [известной] яхтой целых два часа.",
+            "english": "We have been controlling the yacht for two hours.",
+            "transcription": "[wи: хæв би:н кэнтр**о**улиŋ ðэ йот фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа контролируешь скорость?",
+            "thought": "Имеешь ты быть контролирующим [известную] скорость целых два часа?",
+            "english": "Have you been controlling the speed for two hours?",
+            "transcription": "[хæв ю: би:н кэнтр**о**улиŋ ðэ спи:д фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been controlling",
+        "examples": [
+          {
+            "ours": "К пяти мы будем управлять яхтой уже два часа.",
+            "thought": "К пяти мы будем иметь быть управляющими [известной] яхтой целых два часа.",
+            "english": "By five we will have been controlling the yacht for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н кэнтр**о**улиŋ ðэ йот фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь контролировать скорость уже два часа?",
+            "thought": "Будешь ты иметь быть контролирующим [известную] скорость целых два часа к пяти?",
+            "english": "Will you have been controlling the speed for two hours by five?",
+            "transcription": "[wил ю: хæв би:н кэнтр**о**улиŋ ðэ спи:д фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were controlled",
+        "examples": [
+          {
+            "ours": "Вчера яхтой управляли вручную.",
+            "thought": "[Известная] яхта была управляема вручную вчера.",
+            "english": "The yacht was controlled manually yesterday.",
+            "transcription": "[ðэ йот wоз кэнтр**о**улд м**æ**ньюэли й**э**стэдэй]"
+          },
+          {
+            "ours": "Скорость контролировали во время гонки?",
+            "thought": "Была [известная] скорость контролируема во время [известной] гонки?",
+            "english": "Was the speed controlled during the race?",
+            "transcription": "[wоз ðэ спи:д кэнтр**о**улд дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are controlled",
+        "examples": [
+          {
+            "ours": "Яхта управляется вручную.",
+            "thought": "[Известная] яхта есть управляема вручную.",
+            "english": "The yacht is controlled manually.",
+            "transcription": "[ðэ йот из кэнтр**о**улд м**æ**ньюэли]"
+          },
+          {
+            "ours": "Паруса управляются с палубы?",
+            "thought": "Есть [известные] паруса контролируемы с [известной] палубы?",
+            "english": "Are the sails controlled from the deck?",
+            "transcription": "[а: ðэ сэйлз кэнтр**о**улд фром ðэ дэк]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be controlled",
+        "examples": [
+          {
+            "ours": "Завтра яхтой будут управлять вручную.",
+            "thought": "[Известная] яхта будет быть управляема вручную завтра.",
+            "english": "The yacht will be controlled manually tomorrow.",
+            "transcription": "[ðэ йот wил би: кэнтр**о**улд м**æ**ньюэли тэм**о**роу]"
+          },
+          {
+            "ours": "Скорость будут контролировать во время гонки?",
+            "thought": "Будет [известная] скорость быть контролируема во время [известной] гонки?",
+            "english": "Will the speed be controlled during the race?",
+            "transcription": "[wил ðэ спи:д би: кэнтр**о**улд дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being controlled",
+        "examples": [
+          {
+            "ours": "Вчера яхтой управляли вручную весь день.",
+            "thought": "Вчера [известная] яхта была «долго» управляема вручную весь день.",
+            "english": "Yesterday the yacht was being controlled manually all day.",
+            "transcription": "[й**э**стэдэй ðэ йот wоз б**и**:иŋ кэнтр**о**улд м**æ**ньюэли о:л дэй]"
+          },
+          {
+            "ours": "Скорость контролировали, когда ты пришёл?",
+            "thought": "Была [известная] скорость «долго» контролируема когда ты пришёл?",
+            "english": "Was the speed being controlled when you came?",
+            "transcription": "[wоз ðэ спи:д б**и**:иŋ кэнтр**о**улд wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being controlled",
+        "examples": [
+          {
+            "ours": "Сейчас лодкой управляют вручную.",
+            "thought": "[Известная] лодка есть «долго» управляема вручную сейчас.",
+            "english": "The boat is being controlled manually now.",
+            "transcription": "[ðэ боут из б**и**:иŋ кэнтр**о**улд м**æ**ньюэли нау]"
+          },
+          {
+            "ours": "Сейчас скоростью управляют вручную?",
+            "thought": "Есть [известная] скорость «долго» контролируема вручную сейчас?",
+            "english": "Is the speed being controlled manually now?",
+            "transcription": "[из ðэ спи:д б**и**:иŋ кэнтр**о**улд м**æ**ньюэли нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be controlling",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут управлять яхтой.",
+            "thought": "Завтра они будут быть управляющими [известной] яхтой весь день.",
+            "english": "Tomorrow they will be controlling the yacht all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: кэнтр**о**улиŋ ðэ йот о:л дэй]"
+          },
+          {
+            "ours": "Они будут контролировать скорость во время гонки?",
+            "thought": "Будут они быть контролирующими [известную] скорость во время [известной] гонки?",
+            "english": "Will they be controlling the speed during the race?",
+            "transcription": "[wил ðэй би: кэнтр**о**улиŋ ðэ спи:д дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been controlled",
+        "examples": [
+          {
+            "ours": "Вчера к пяти скорость уже контролировали.",
+            "thought": "К пяти вчера [известная] скорость имела уже быть контролируема.",
+            "english": "By five yesterday the speed had already been controlled.",
+            "transcription": "[бай файв й**э**стэдэй ðэ спи:д хæд о:лр**э**ди би:н кэнтр**о**улд]"
+          },
+          {
+            "ours": "Лодкой управляли вручную до гонки?",
+            "thought": "Имела [известная] лодка быть управляема вручную перед [известной] гонкой?",
+            "english": "Had the boat been controlled manually before the race?",
+            "transcription": "[хæд ðэ боут би:н кэнтр**о**улд м**æ**ньюэли биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been controlled",
+        "examples": [
+          {
+            "ours": "Скорость уже контролировали во время гонки.",
+            "thought": "[Известная] скорость имеет уже быть контролируема во время [известной] гонки.",
+            "english": "The speed has already been controlled during the race.",
+            "transcription": "[ðэ спи:д хæз о:лр**э**ди би:н кэнтр**о**улд дь**ю**эриŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Яхтой уже управляли вручную?",
+            "thought": "Имеет [известная] яхта уже быть управляема вручную?",
+            "english": "Has the yacht already been controlled manually?",
+            "transcription": "[хæз ðэ йот о:лр**э**ди би:н кэнтр**о**улд м**æ**ньюэли]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been controlled",
+        "not_possible": "Для обычного описания управления яхтой пассив future perfect звучит искусственно. Скажут: The yacht will be controlled manually."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The yacht is controlled manually. Или: They have been controlling the yacht."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они будут управлять яхтой.",
+        "thought": "[Известный] капитан сказал что они будут управлять [известной] яхтой.",
+        "english": "The captain said that they would control the yacht.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд кэнтр**о**ул ðэ йот]"
+      },
+      {
+        "ours": "Я знал, что ты не будешь контролировать скорость.",
+        "thought": "Я знал что ты будешь не контролировать [известную] скорость.",
+        "english": "I knew that you wouldn't control the speed.",
+        "transcription": "[ай нью: ðæт ю: wуднт кэнтр**о**ул ðэ спи:д]"
+      },
+      {
+        "ours": "Капитан сказал, что мы будем управлять лодкой.",
+        "thought": "[Известный] капитан сказал что мы будем управлять [известной] лодкой.",
+        "english": "The captain said that we would control the boat.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд кэнтр**о**ул ðэ боут]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "speed",
+      "meaning": "скорость",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "speed"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sails"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "sails"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "sails"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "rudder",
+      "meaning": "руль",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "rudder"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "deck"
+        }
+      ]
+    }
+  ]
+}

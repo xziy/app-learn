@@ -1,0 +1,842 @@
+{
+  "spec": 4,
+  "verb": "compare",
+  "forms": {
+    "base": [
+      {
+        "word": "compare",
+        "transcription": "[кэмп**э**э]"
+      }
+    ],
+    "past": [
+      {
+        "word": "compared",
+        "transcription": "[кэмп**э**эд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "compared",
+        "transcription": "[кэмп**э**эд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "comparing",
+        "transcription": "[кэмп**э**эриŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "compares",
+        "transcription": "[кэмп**э**эз]"
+      }
+    ]
+  },
+  "meaning": "сравнивать",
+  "notes": "правильный переходный глагол; compare A with B — сравнивать A с B; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "compared",
+        "examples": [
+          {
+            "ours": "Вчера мы сравнили маршруты.",
+            "thought": "Вчера мы сравнили [известные] маршруты.",
+            "english": "Yesterday we compared the routes.",
+            "transcription": "[й**э**стэдэй wи: кэмп**э**эд ðэ ру:тс]"
+          },
+          {
+            "ours": "Ты сравнил яхту с лодкой?",
+            "thought": "[Сделал] ты сравнивать [известную] яхту с [известной] лодкой?",
+            "english": "Did you compare the yacht with the boat?",
+            "transcription": "[дид ю: кэмп**э**э ðэ йот wиð ðэ боут]"
+          },
+          {
+            "ours": "Она не сравнила карты.",
+            "thought": "Она [сделала] не сравнивать [известные] карты.",
+            "english": "She did not compare the charts.",
+            "transcription": "[ши: дид нот кэмп**э**э ðэ ча:тс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "compare, compares",
+        "examples": [
+          {
+            "ours": "Шкипер сравнивает прогнозы.",
+            "thought": "[Известный] шкипер сравнивает [известные] прогнозы.",
+            "english": "The skipper compares the forecasts.",
+            "transcription": "[ðэ ск**и**пэ кэмп**э**эз ðэ ф**о**:ка:стс]"
+          },
+          {
+            "ours": "Ты сравниваешь маршруты перед гонкой?",
+            "thought": "[Делаешь] ты сравнивать [известные] маршруты до [известной] гонки?",
+            "english": "Do you compare the routes before the race?",
+            "transcription": "[ду: ю: кэмп**э**э ðэ ру:тс биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Мы не сравниваем яхты.",
+            "thought": "Мы [делаем] не сравнивать яхты.",
+            "english": "We do not compare yachts.",
+            "transcription": "[wи: ду: нот кэмп**э**э йотс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will compare",
+        "examples": [
+          {
+            "ours": "Завтра мы сравним маршруты.",
+            "thought": "Завтра мы будем сравнивать [известные] маршруты.",
+            "english": "Tomorrow we will compare the routes.",
+            "transcription": "[тэм**о**роу wи: wил кэмп**э**э ðэ ру:тс]"
+          },
+          {
+            "ours": "Ты сравнишь яхты?",
+            "thought": "Будешь ты сравнивать [известные] яхты?",
+            "english": "Will you compare the yachts?",
+            "transcription": "[wил ю: кэмп**э**э ðэ йотс]"
+          },
+          {
+            "ours": "Она не сравнит карты сегодня.",
+            "thought": "Она будет не сравнивать [известные] карты сегодня.",
+            "english": "She will not compare the charts today.",
+            "transcription": "[ши: wил нот кэмп**э**э ðэ ча:тс тэд**э**й]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were comparing",
+        "examples": [
+          {
+            "ours": "Вчера утром мы сравнивали маршруты.",
+            "thought": "Вчера утром мы были сравнивающими [известные] маршруты.",
+            "english": "Yesterday morning we were comparing the routes.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: кэмп**э**эриŋ ðэ ру:тс]"
+          },
+          {
+            "ours": "Ты сравнивал яхты, когда я позвонил?",
+            "thought": "Был ты сравнивающим [известные] яхты, когда я позвонил?",
+            "english": "Were you comparing the yachts when I called?",
+            "transcription": "[wœ: ю: кэмп**э**эриŋ ðэ йотс wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are comparing",
+        "examples": [
+          {
+            "ours": "Мы сейчас сравниваем маршруты.",
+            "thought": "Мы являемся сравнивающими [известные] маршруты сейчас.",
+            "english": "We are comparing the routes now.",
+            "transcription": "[wи: а: кэмп**э**эриŋ ðэ ру:тс нау]"
+          },
+          {
+            "ours": "Шкипер сейчас сравнивает прогнозы?",
+            "thought": "Является [известный] шкипер сравнивающим [известные] прогнозы сейчас?",
+            "english": "Is the skipper comparing the forecasts now?",
+            "transcription": "[из ðэ ск**и**пэ кэмп**э**эриŋ ðэ ф**о**:ка:стс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be comparing",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем сравнивать маршруты.",
+            "thought": "Завтра утром мы будем быть сравнивающими [известные] маршруты.",
+            "english": "Tomorrow morning we will be comparing the routes.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: кэмп**э**эриŋ ðэ ру:тс]"
+          },
+          {
+            "ours": "Ты будешь сравнивать яхты вечером?",
+            "thought": "Будешь ты быть сравнивающим [известные] яхты этот вечер?",
+            "english": "Will you be comparing the yachts this evening?",
+            "transcription": "[wил ю: би: кэмп**э**эриŋ ðэ йотс ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had compared",
+        "examples": [
+          {
+            "ours": "К полудню мы уже сравнили маршруты.",
+            "thought": "К полудню мы имели уже сравнёнными [известные] маршруты.",
+            "english": "By noon we had already compared the routes.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди кэмп**э**эд ðэ ру:тс]"
+          },
+          {
+            "ours": "Ты сравнил карты до отхода?",
+            "thought": "Имел ты сравнёнными [известные] карты до отхода?",
+            "english": "Had you compared the charts before departure?",
+            "transcription": "[хæд ю: кэмп**э**эд ðэ ча:тс биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has compared",
+        "examples": [
+          {
+            "ours": "Мы уже сравнили маршруты.",
+            "thought": "Мы имеем уже сравнёнными [известные] маршруты.",
+            "english": "We have already compared the routes.",
+            "transcription": "[wи: хæв о:лр**э**ди кэмп**э**эд ðэ ру:тс]"
+          },
+          {
+            "ours": "Ты уже сравнил яхты?",
+            "thought": "Имеешь ты сравнёнными [известные] яхты уже?",
+            "english": "Have you compared the yachts yet?",
+            "transcription": "[хæв ю: кэмп**э**эд ðэ йотс йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have compared",
+        "examples": [
+          {
+            "ours": "К полудню мы сравним маршруты.",
+            "thought": "К полудню мы будем иметь сравнёнными [известные] маршруты.",
+            "english": "By noon we will have compared the routes.",
+            "transcription": "[бай ну:н wи: wил хæв кэмп**э**эд ðэ ру:тс]"
+          },
+          {
+            "ours": "Ты сравнишь яхты к пяти?",
+            "thought": "Будешь ты иметь сравнёнными [известные] яхты к пяти?",
+            "english": "Will you have compared the yachts by five?",
+            "transcription": "[wил ю: хæв кэмп**э**эд ðэ йотс бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been comparing",
+        "examples": [
+          {
+            "ours": "Мы час сравнивали маршруты, когда зазвонило радио.",
+            "thought": "Мы имели быть сравнивающими [известные] маршруты целый [какой-то] час, когда [известное] радио зазвонило.",
+            "english": "We had been comparing the routes for an hour when the radio rang.",
+            "transcription": "[wи: хæд би:н кэмп**э**эриŋ ðэ ру:тс фо: эн **а**уэ wэн ðэ р**э**йдиоу рэŋ]"
+          },
+          {
+            "ours": "Ты сравнивал яхты два часа до дождя?",
+            "thought": "Имел ты быть сравнивающим [известные] яхты целых два часа до [известного] дождя?",
+            "english": "Had you been comparing the yachts for two hours before the rain?",
+            "transcription": "[хæд ю: би:н кэмп**э**эриŋ ðэ йотс фо: ту: **а**уэз биф**о**: ðэ рэйн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been comparing",
+        "examples": [
+          {
+            "ours": "Мы сравниваем маршруты уже час.",
+            "thought": "Мы имеем быть сравнивающими [известные] маршруты целый [какой-то] час.",
+            "english": "We have been comparing the routes for an hour.",
+            "transcription": "[wи: хæв би:н кэмп**э**эриŋ ðэ ру:тс фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты сравниваешь яхты уже два часа?",
+            "thought": "Имеешь ты быть сравнивающим [известные] яхты целых два часа?",
+            "english": "Have you been comparing the yachts for two hours?",
+            "transcription": "[хæв ю: би:н кэмп**э**эриŋ ðэ йотс фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been comparing",
+        "examples": [
+          {
+            "ours": "К пяти мы будем сравнивать маршруты уже два часа.",
+            "thought": "К пяти мы будем иметь быть сравнивающими [известные] маршруты целых два часа.",
+            "english": "By five we will have been comparing the routes for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н кэмп**э**эриŋ ðэ ру:тс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь сравнивать яхты уже час?",
+            "thought": "Будешь ты иметь быть сравнивающим [известные] яхты целый [какой-то] час к полудню?",
+            "english": "Will you have been comparing the yachts for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н кэмп**э**эриŋ ðэ йотс фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were compared",
+        "examples": [
+          {
+            "ours": "Маршруты сравнили вчера.",
+            "thought": "[Известные] маршруты были сравнены вчера.",
+            "english": "The routes were compared yesterday.",
+            "transcription": "[ðэ ру:тс wœ: кэмп**э**эд й**э**стэдэй]"
+          },
+          {
+            "ours": "Яхты сравнили до гонки?",
+            "thought": "Были [известные] яхты сравнены до [известной] гонки?",
+            "english": "Were the yachts compared before the race?",
+            "transcription": "[wœ: ðэ йотс кэмп**э**эд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are compared",
+        "examples": [
+          {
+            "ours": "Прогнозы сравнивают каждый день.",
+            "thought": "[Известные] прогнозы есть сравнены каждый день.",
+            "english": "The forecasts are compared every day.",
+            "transcription": "[ðэ ф**о**:ка:стс а: кэмп**э**эд **э**ври дэй]"
+          },
+          {
+            "ours": "Маршруты сравнивают до отхода?",
+            "thought": "Есть [известные] маршруты сравнены до отхода?",
+            "english": "Are the routes compared before departure?",
+            "transcription": "[а: ðэ ру:тс кэмп**э**эд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be compared",
+        "examples": [
+          {
+            "ours": "Маршруты сравнят завтра.",
+            "thought": "[Известные] маршруты будут быть сравнены завтра.",
+            "english": "The routes will be compared tomorrow.",
+            "transcription": "[ðэ ру:тс wил би: кэмп**э**эд тэм**о**роу]"
+          },
+          {
+            "ours": "Яхты сравнят до гонки?",
+            "thought": "Будут [известные] яхты быть сравнены до [известной] гонки?",
+            "english": "Will the yachts be compared before the race?",
+            "transcription": "[wил ðэ йотс би: кэмп**э**эд биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being compared",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, маршруты сравнивали.",
+            "thought": "[Известные] маршруты были «долго» сравнены, когда я прибыл.",
+            "english": "The routes were being compared when I arrived.",
+            "transcription": "[ðэ ру:тс wœ: б**и**:иŋ кэмп**э**эд wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, яхты сравнивали?",
+            "thought": "Были [известные] яхты «долго» сравнены, когда ты позвонил?",
+            "english": "Were the yachts being compared when you called?",
+            "transcription": "[wœ: ðэ йотс б**и**:иŋ кэмп**э**эд wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being compared",
+        "examples": [
+          {
+            "ours": "Маршруты сейчас сравнивают.",
+            "thought": "[Известные] маршруты есть «долго» сравнены сейчас.",
+            "english": "The routes are being compared now.",
+            "transcription": "[ðэ ру:тс а: б**и**:иŋ кэмп**э**эд нау]"
+          },
+          {
+            "ours": "Яхты сейчас сравнивают?",
+            "thought": "Есть [известные] яхты «долго» сравнены сейчас?",
+            "english": "Are the yachts being compared now?",
+            "transcription": "[а: ðэ йотс б**и**:иŋ кэмп**э**эд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be comparing",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут сравнивать маршруты.",
+            "thought": "Завтра утром они будут быть сравнивающими [известные] маршруты.",
+            "english": "Tomorrow morning they will be comparing the routes.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: кэмп**э**эриŋ ðэ ру:тс]"
+          },
+          {
+            "ours": "Они будут сравнивать яхты вечером?",
+            "thought": "Будут они быть сравнивающими [известные] яхты этот вечер?",
+            "english": "Will they be comparing the yachts this evening?",
+            "transcription": "[wил ðэй би: кэмп**э**эриŋ ðэ йотс ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been compared",
+        "examples": [
+          {
+            "ours": "К полудню маршруты уже сравнили.",
+            "thought": "К полудню [известные] маршруты имели уже быть сравнены.",
+            "english": "By noon the routes had already been compared.",
+            "transcription": "[бай ну:н ðэ ру:тс хæд о:лр**э**ди би:н кэмп**э**эд]"
+          },
+          {
+            "ours": "Яхты сравнили до гонки?",
+            "thought": "Имели [известные] яхты быть сравнены до [известной] гонки?",
+            "english": "Had the yachts been compared before the race?",
+            "transcription": "[хæд ðэ йотс би:н кэмп**э**эд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been compared",
+        "examples": [
+          {
+            "ours": "Маршруты уже сравнили.",
+            "thought": "[Известные] маршруты имеют уже быть сравнены.",
+            "english": "The routes have already been compared.",
+            "transcription": "[ðэ ру:тс хæв о:лр**э**ди би:н кэмп**э**эд]"
+          },
+          {
+            "ours": "Яхты уже сравнили?",
+            "thought": "Имеют [известные] яхты быть сравнены уже?",
+            "english": "Have the yachts been compared yet?",
+            "transcription": "[хæв ðэ йотс би:н кэмп**э**эд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been compared",
+        "examples": [
+          {
+            "ours": "К полудню маршруты сравнят.",
+            "thought": "К полудню [известные] маршруты будут иметь быть сравнены.",
+            "english": "By noon the routes will have been compared.",
+            "transcription": "[бай ну:н ðэ ру:тс wил хæв би:н кэмп**э**эд]"
+          },
+          {
+            "ours": "Яхты сравнят к пяти?",
+            "thought": "Будут [известные] яхты иметь быть сравнены к пяти?",
+            "english": "Will the yachts have been compared by five?",
+            "transcription": "[wил ðэ йотс хæв би:н кэмп**э**эд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been comparing the routes."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они сравнят маршруты.",
+        "thought": "Я знал, они будут сравнивать [известные] маршруты.",
+        "english": "I knew they would compare the routes.",
+        "transcription": "[ай нью: ðэй wуд кэмп**э**э ðэ ру:тс]"
+      },
+      {
+        "ours": "Она думала, что мы не сравним яхты.",
+        "thought": "Она думала, мы будем не сравнивать [известные] яхты.",
+        "english": "She thought we would not compare the yachts.",
+        "transcription": "[ши: θо:т wи: wуд нот кэмп**э**э ðэ йотс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "routes"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "routes"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "routes"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "routes"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "yachts"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "charts"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "charts"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "charts"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "forecasts"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "forecasts"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "boat"
+        }
+      ]
+    }
+  ]
+}

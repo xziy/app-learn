@@ -1,0 +1,605 @@
+{
+  "spec": 4,
+  "verb": "talk",
+  "forms": {
+    "base": [
+      {
+        "word": "talk",
+        "transcription": "[то:к]"
+      }
+    ],
+    "past": [
+      {
+        "word": "talked",
+        "transcription": "[то:кт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "talked",
+        "transcription": "[то:кт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "talking",
+        "transcription": "[т**о**:киŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "talks",
+        "transcription": "[то:кс]"
+      }
+    ]
+  },
+  "meaning": "разговаривать, беседовать",
+  "notes": "правильный глагол; в значении разговора обычно непереходный, адресат вводится предлогом to или with",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "talked",
+        "examples": [
+          {
+            "ours": "Вчера я поговорил со шкипером.",
+            "thought": "Вчера я поговорил к [известному] шкиперу.",
+            "english": "Yesterday I talked to the skipper.",
+            "transcription": "[й**э**стэдэй ай то:кт ту ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Ты поговорил с командой о погоде?",
+            "thought": "[Сделал] ты говорить к [известной] команде о [известной] погоде?",
+            "english": "Did you talk to the crew about the weather?",
+            "transcription": "[дид ю: то:к ту ðэ кру: эб**а**ут ðэ w**э**ðэ]"
+          },
+          {
+            "ours": "Она не поговорила с механиком.",
+            "thought": "Она [сделала] не говорить к [известному] механику.",
+            "english": "She did not talk to the mechanic.",
+            "transcription": "[ши: дид нот то:к ту ðэ мик**æ**ник]"
+          }
+        ]
+      },
+      "present": {
+        "form": "talk, talks",
+        "examples": [
+          {
+            "ours": "Шкипер каждый день беседует с командой.",
+            "thought": "[Известный] шкипер говорит к [известной] команде каждый день.",
+            "english": "The skipper talks to the crew every day.",
+            "transcription": "[ðэ ск**и**пэ то:кс ту ðэ кру: **э**ври дэй]"
+          },
+          {
+            "ours": "Ты разговариваешь с соседями в марине?",
+            "thought": "[Делаешь] ты говорить к соседям в [известной] марине?",
+            "english": "Do you talk to neighbors at the marina?",
+            "transcription": "[ду: ю: то:к ту н**э**йбэз æт ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Он не говорит о гонке.",
+            "thought": "Он [делает] не говорить о [известной] гонке.",
+            "english": "He does not talk about the race.",
+            "transcription": "[хи: даз нот то:к эб**а**ут ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will talk",
+        "examples": [
+          {
+            "ours": "Завтра мы поговорим о маршруте.",
+            "thought": "Завтра мы будем говорить о [известном] маршруте.",
+            "english": "Tomorrow we will talk about the route.",
+            "transcription": "[тэм**о**роу wи: wил то:к эб**а**ут ðэ ру:т]"
+          },
+          {
+            "ours": "Ты поговоришь с владельцем яхты?",
+            "thought": "Будешь ты говорить к [известному] яхтенному владельцу?",
+            "english": "Will you talk to the yacht owner?",
+            "transcription": "[wил ю: то:к ту ðэ йот **о**унэ]"
+          },
+          {
+            "ours": "Она сегодня не поговорит с командой.",
+            "thought": "Она будет не говорить к [известной] команде сегодня.",
+            "english": "She will not talk to the crew today.",
+            "transcription": "[ши: wил нот то:к ту ðэ кру: тэд**э**й]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were talking",
+        "examples": [
+          {
+            "ours": "Вчера вечером мы говорили о погоде.",
+            "thought": "Вчера вечером мы были говорящими о [известной] погоде.",
+            "english": "Yesterday evening we were talking about the weather.",
+            "transcription": "[й**э**стэдэй **и**:вниŋ wи: wœ: т**о**:киŋ эб**а**ут ðэ w**э**ðэ]"
+          },
+          {
+            "ours": "Ты разговаривал с механиком, когда я пришёл?",
+            "thought": "Был ты говорящим к [известному] механику, когда я прибыл?",
+            "english": "Were you talking to the mechanic when I arrived?",
+            "transcription": "[wœ: ю: т**о**:киŋ ту ðэ мик**æ**ник wэн ай эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are talking",
+        "examples": [
+          {
+            "ours": "Мы сейчас говорим о маршруте.",
+            "thought": "Мы являемся говорящими о [известном] маршруте сейчас.",
+            "english": "We are talking about the route now.",
+            "transcription": "[wи: а: т**о**:киŋ эб**а**ут ðэ ру:т нау]"
+          },
+          {
+            "ours": "Шкипер сейчас говорит с командой?",
+            "thought": "Является [известный] шкипер говорящим к [известной] команде сейчас?",
+            "english": "Is the skipper talking to the crew now?",
+            "transcription": "[из ðэ ск**и**пэ т**о**:киŋ ту ðэ кру: нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be talking",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем говорить о снастях.",
+            "thought": "Завтра утром мы будем быть говорящими о [известном] такелаже.",
+            "english": "Tomorrow morning we will be talking about the rigging.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: т**о**:киŋ эб**а**ут ðэ р**и**гиŋ]"
+          },
+          {
+            "ours": "Ты будешь говорить с владельцем днём?",
+            "thought": "Будешь ты быть говорящим к [известному] владельцу это время после полудня?",
+            "english": "Will you be talking to the owner this afternoon?",
+            "transcription": "[wил ю: би: т**о**:киŋ ту ðи **о**унэ ðис а:фтэн**у**:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had talked",
+        "examples": [
+          {
+            "ours": "К полудню мы уже поговорили со шкипером.",
+            "thought": "К полудню мы имели уже поговоренным к [известному] шкиперу.",
+            "english": "By noon we had already talked to the skipper.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди то:кт ту ðэ ск**и**пэ]"
+          },
+          {
+            "ours": "Ты поговорил с командой до отхода?",
+            "thought": "Имел ты поговоренным к [известной] команде до отхода?",
+            "english": "Had you talked to the crew before departure?",
+            "transcription": "[хæд ю: то:кт ту ðэ кру: биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has talked",
+        "examples": [
+          {
+            "ours": "Мы уже поговорили с механиком.",
+            "thought": "Мы имеем уже поговоренным к [известному] механику.",
+            "english": "We have already talked to the mechanic.",
+            "transcription": "[wи: хæв о:лр**э**ди то:кт ту ðэ мик**æ**ник]"
+          },
+          {
+            "ours": "Ты уже поговорил со шкипером?",
+            "thought": "Имеешь ты поговоренным к [известному] шкиперу уже?",
+            "english": "Have you talked to the skipper yet?",
+            "transcription": "[хæв ю: то:кт ту ðэ ск**и**пэ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have talked",
+        "examples": [
+          {
+            "ours": "К полудню мы поговорим с командой.",
+            "thought": "К полудню мы будем иметь поговоренным к [известной] команде.",
+            "english": "By noon we will have talked to the crew.",
+            "transcription": "[бай ну:н wи: wил хæв то:кт ту ðэ кру:]"
+          },
+          {
+            "ours": "К пяти ты поговоришь с владельцем?",
+            "thought": "Будешь ты иметь поговоренным к [известному] владельцу к пяти?",
+            "english": "Will you have talked to the owner by five?",
+            "transcription": "[wил ю: хæв то:кт ту ðи **о**унэ бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been talking",
+        "examples": [
+          {
+            "ours": "Мы час говорили о погоде, когда зазвонило радио.",
+            "thought": "Мы имели быть говорящими о [известной] погоде целый [какой-то] час, когда [известное] радио зазвонило.",
+            "english": "We had been talking about the weather for an hour when the radio rang.",
+            "transcription": "[wи: хæд би:н т**о**:киŋ эб**а**ут ðэ w**э**ðэ фо: эн **а**уэ wэн ðэ р**э**йдиоу рэŋ]"
+          },
+          {
+            "ours": "Ты говорил со шкипером два часа до отхода?",
+            "thought": "Имел ты быть говорящим к [известному] шкиперу целых два часа до отхода?",
+            "english": "Had you been talking to the skipper for two hours before departure?",
+            "transcription": "[хæд ю: би:н т**о**:киŋ ту ðэ ск**и**пэ фо: ту: **а**уэз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been talking",
+        "examples": [
+          {
+            "ours": "Мы уже час обсуждаем маршрут.",
+            "thought": "Мы имеем быть говорящими о [известном] маршруте целый [какой-то] час.",
+            "english": "We have been talking about the route for an hour.",
+            "transcription": "[wи: хæв би:н т**о**:киŋ эб**а**ут ðэ ру:т фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты разговариваешь со шкипером уже два часа?",
+            "thought": "Имеешь ты быть говорящим к [известному] шкиперу целых два часа?",
+            "english": "Have you been talking to the skipper for two hours?",
+            "transcription": "[хæв ю: би:н т**о**:киŋ ту ðэ ск**и**пэ фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been talking",
+        "examples": [
+          {
+            "ours": "К пяти мы будем говорить о маршруте уже два часа.",
+            "thought": "К пяти мы будем иметь быть говорящими о [известном] маршруте целых два часа.",
+            "english": "By five we will have been talking about the route for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н т**о**:киŋ эб**а**ут ðэ ру:т фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь говорить со шкипером уже час?",
+            "thought": "Будешь ты иметь быть говорящим к [известному] шкиперу целый [какой-то] час к полудню?",
+            "english": "Will you have been talking to the skipper for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н т**о**:киŋ ту ðэ ск**и**пэ фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "В выбранном непереходном значении talk не имеет прямого дополнения. Обычнее сказать: The skipper talked to the crew; пассив с предлогом возможен, но в этом курсе используется актив."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она поговорит со шкипером.",
+        "thought": "Я знал, она будет говорить к [известному] шкиперу.",
+        "english": "I knew she would talk to the skipper.",
+        "transcription": "[ай нью: ши: wуд то:к ту ðэ ск**и**пэ]"
+      },
+      {
+        "ours": "Он думал, что мы не будем говорить о гонке.",
+        "thought": "Он думал, мы будем не говорить о [известной] гонке.",
+        "english": "He thought we would not talk about the race.",
+        "transcription": "[хи: θо:т wи: wуд нот то:к эб**а**ут ðэ рэйс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "mechanic",
+      "meaning": "механик",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "mechanic"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "mechanic"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "mechanic"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "neighbour",
+      "meaning": "сосед",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "neighbors"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "race"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "owner",
+      "meaning": "владелец",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "owner"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "owner"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "rigging",
+      "meaning": "такелаж",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "rigging"
+        }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "meaning": "время после полудня",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "afternoon"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "radio"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,687 @@
+{
+  "spec": 4,
+  "verb": "lie",
+  "forms": {
+    "base": [
+      {
+        "word": "lie",
+        "transcription": "[лай]"
+      }
+    ],
+    "past": [
+      {
+        "word": "lay",
+        "transcription": "[лэй]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "lain",
+        "transcription": "[лэйн]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "lying",
+        "transcription": "[л**а**йиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "lies",
+        "transcription": "[лайз]"
+      }
+    ]
+  },
+  "meaning": "лежать, находиться, стоять на якоре",
+  "notes": "неправильный непереходный lie — lay — lain, пассив не образует. Отдельный глагол lie «лгать» правильный: lied — lied.",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "lay",
+        "examples": [
+          {
+            "ours": "Вчера яхта стояла на якоре.",
+            "thought": "Вчера [известная] яхта лежала на якоре.",
+            "english": "Yesterday the yacht lay at anchor.",
+            "transcription": "[й**э**стэдэй ðэ йот лэй æт **æ**нкэ]"
+          },
+          {
+            "ours": "Он не лежал на палубе.",
+            "thought": "Он [сделал] не лежать на [известной] палубе.",
+            "english": "He didn't lie on the deck.",
+            "transcription": "[хи: диднт лай он ðэ дэк]"
+          },
+          {
+            "ours": "Карта лежала в каюте до гонки?",
+            "thought": "[Сделала] [известная] карта лежать в [известной] каюте перед [известной] гонкой?",
+            "english": "Did the chart lie in the cabin before the race?",
+            "transcription": "[дид ðэ ча:т лай ин ðэ к**æ**бин биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "lie, lies",
+        "examples": [
+          {
+            "ours": "Яхта стоит на якоре возле острова.",
+            "thought": "[Известная] яхта лежит на якоре возле [известного] острова.",
+            "english": "The yacht lies at anchor near the island.",
+            "transcription": "[ðэ йот лайз æт **æ**нкэ ниэ ðэ **а**йлэнд]"
+          },
+          {
+            "ours": "Трос не лежит на палубе.",
+            "thought": "[Известный] трос [делает] не лежать на [известной] палубе.",
+            "english": "The rope doesn't lie on the deck.",
+            "transcription": "[ðэ роуп дазнт лай он ðэ дэк]"
+          },
+          {
+            "ours": "Карта лежит в каюте?",
+            "thought": "[Делает] [известная] карта лежать в [известной] каюте?",
+            "english": "Does the chart lie in the cabin?",
+            "transcription": "[даз ðэ ча:т лай ин ðэ к**æ**бин]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will lie",
+        "examples": [
+          {
+            "ours": "Завтра яхта будет стоять на якоре.",
+            "thought": "Завтра [известная] яхта будет лежать на якоре.",
+            "english": "Tomorrow the yacht will lie at anchor.",
+            "transcription": "[тэм**о**роу ðэ йот wил лай æт **æ**нкэ]"
+          },
+          {
+            "ours": "Трос не будет лежать на палубе.",
+            "thought": "[Известный] трос будет не лежать на [известной] палубе.",
+            "english": "The rope won't lie on the deck.",
+            "transcription": "[ðэ роуп wоунт лай он ðэ дэк]"
+          },
+          {
+            "ours": "Лодка будет стоять в гавани до утра?",
+            "thought": "Будет [известная] лодка лежать в [известной] гавани до утра?",
+            "english": "Will the boat lie in the harbor until morning?",
+            "transcription": "[wил ðэ боут лай ин ðэ х**а**:бэ энт**и**л м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were lying",
+        "examples": [
+          {
+            "ours": "Вчера яхта весь день стояла на якоре.",
+            "thought": "Вчера [известная] яхта была лежащей на якоре весь день.",
+            "english": "Yesterday the yacht was lying at anchor all day.",
+            "transcription": "[й**э**стэдэй ðэ йот wоз л**а**йиŋ æт **æ**нкэ о:л дэй]"
+          },
+          {
+            "ours": "Ты лежал на палубе, когда я пришёл?",
+            "thought": "Был ты лежащим на [известной] палубе когда я пришёл?",
+            "english": "Were you lying on the deck when I came?",
+            "transcription": "[wœ: ю: л**а**йиŋ он ðэ дэк wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are lying",
+        "examples": [
+          {
+            "ours": "Сейчас яхта стоит на якоре.",
+            "thought": "[Известная] яхта является лежащей на якоре сейчас.",
+            "english": "The yacht is lying at anchor now.",
+            "transcription": "[ðэ йот из л**а**йиŋ æт **æ**нкэ нау]"
+          },
+          {
+            "ours": "Ты сейчас лежишь на палубе?",
+            "thought": "Являешься ты лежащим на [известной] палубе сейчас?",
+            "english": "Are you lying on the deck now?",
+            "transcription": "[а: ю: л**а**йиŋ он ðэ дэк нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be lying",
+        "examples": [
+          {
+            "ours": "Завтра яхта весь день будет стоять на якоре.",
+            "thought": "Завтра [известная] яхта будет быть лежащей на якоре весь день.",
+            "english": "Tomorrow the yacht will be lying at anchor all day.",
+            "transcription": "[тэм**о**роу ðэ йот wил би: л**а**йиŋ æт **æ**нкэ о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь лежать на палубе во время гонки?",
+            "thought": "Будешь ты быть лежащим на [известной] палубе во время [известной] гонки?",
+            "english": "Will you be lying on the deck during the race?",
+            "transcription": "[wил ю: би: л**а**йиŋ он ðэ дэк дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had lain",
+        "examples": [
+          {
+            "ours": "Вчера к пяти яхта простояла на якоре уже два часа.",
+            "thought": "К пяти вчера [известная] яхта имела пролежавшим на якоре целых два часа.",
+            "english": "By five yesterday the yacht had lain at anchor for two hours.",
+            "transcription": "[бай файв й**э**стэдэй ðэ йот хæд лэйн æт **æ**нкэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Карта лежала в каюте до гонки?",
+            "thought": "Имела [известная] карта пролежавшим в [известной] каюте перед [известной] гонкой?",
+            "english": "Had the chart lain in the cabin before the race?",
+            "transcription": "[хæд ðэ ча:т лэйн ин ðэ к**æ**бин биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has lain",
+        "examples": [
+          {
+            "ours": "Яхта стоит на якоре уже два дня.",
+            "thought": "[Известная] яхта имеет пролежавшим на якоре целых два дня.",
+            "english": "The yacht has lain at anchor for two days.",
+            "transcription": "[ðэ йот хæз лэйн æт **æ**нкэ фо: ту: дэйз]"
+          },
+          {
+            "ours": "Карта лежала в каюте два дня?",
+            "thought": "Имеет [известная] карта пролежавшим в [известной] каюте целых два дня?",
+            "english": "Has the chart lain in the cabin for two days?",
+            "transcription": "[хæз ðэ ча:т лэйн ин ðэ к**æ**бин фо: ту: дэйз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have lain",
+        "examples": [
+          {
+            "ours": "К июню яхта простоит на якоре два дня.",
+            "thought": "К июню [известная] яхта будет иметь пролежавшим на якоре целых два дня.",
+            "english": "By June the yacht will have lain at anchor for two days.",
+            "transcription": "[бай джу:н ðэ йот wил хæв лэйн æт **æ**нкэ фо: ту: дэйз]"
+          },
+          {
+            "ours": "К утру лодка простоит в гавани два дня?",
+            "thought": "Будет [известная] лодка иметь пролежавшим в [известной] гавани целых два дня к утру?",
+            "english": "Will the boat have lain in the harbor for two days by morning?",
+            "transcription": "[wил ðэ боут хæв лэйн ин ðэ х**а**:бэ фо: ту: дэйз бай м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been lying",
+        "examples": [
+          {
+            "ours": "Яхта стояла на якоре уже два часа, когда ты пришёл.",
+            "thought": "[Известная] яхта имела быть лежащей на якоре целых два часа когда ты пришёл.",
+            "english": "The yacht had been lying at anchor for two hours when you came.",
+            "transcription": "[ðэ йот хæд би:н л**а**йиŋ æт **æ**нкэ фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа лежал на палубе, когда он пришёл?",
+            "thought": "Имел ты быть лежащим на [известной] палубе целых два часа когда он пришёл?",
+            "english": "Had you been lying on the deck for two hours when he came?",
+            "transcription": "[хæд ю: би:н л**а**йиŋ он ðэ дэк фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been lying",
+        "examples": [
+          {
+            "ours": "Яхта стоит на якоре уже два часа.",
+            "thought": "[Известная] яхта имеет быть лежащей на якоре целых два часа.",
+            "english": "The yacht has been lying at anchor for two hours.",
+            "transcription": "[ðэ йот хæз би:н л**а**йиŋ æт **æ**нкэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа лежишь на палубе?",
+            "thought": "Имеешь ты быть лежащим на [известной] палубе целых два часа?",
+            "english": "Have you been lying on the deck for two hours?",
+            "transcription": "[хæв ю: би:н л**а**йиŋ он ðэ дэк фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been lying",
+        "examples": [
+          {
+            "ours": "К пяти яхта будет стоять на якоре уже два часа.",
+            "thought": "К пяти [известная] яхта будет иметь быть лежащей на якоре целых два часа.",
+            "english": "By five the yacht will have been lying at anchor for two hours.",
+            "transcription": "[бай файв ðэ йот wил хæв би:н л**а**йиŋ æт **æ**нкэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь лежать на палубе уже два часа?",
+            "thought": "Будешь ты иметь быть лежащим на [известной] палубе целых два часа к пяти?",
+            "english": "Will you have been lying on the deck for two hours by five?",
+            "transcription": "[wил ю: хæв би:н л**а**йиŋ он ðэ дэк фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "Lie в значении «лежать, находиться» непереходный и не образует пассив. Скажут: The yacht lies at anchor."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что яхта останется на якоре.",
+        "thought": "[Известный] капитан сказал что [известная] яхта будет лежать на якоре.",
+        "english": "The captain said that the yacht would lie at anchor.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ йот wуд лай æт **æ**нкэ]"
+      },
+      {
+        "ours": "Я знал, что трос не будет лежать на палубе.",
+        "thought": "Я знал что [известный] трос будет не лежать на [известной] палубе.",
+        "english": "I knew that the rope wouldn't lie on the deck.",
+        "transcription": "[ай нью: ðæт ðэ роуп wуднт лай он ðэ дэк]"
+      },
+      {
+        "ours": "Капитан сказал, что лодка будет стоять в гавани.",
+        "thought": "[Известный] капитан сказал что [известная] лодка будет лежать в [известной] гавани.",
+        "english": "The captain said that the boat would lie in the harbor.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ боут wуд лай ин ðэ х**а**:бэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "cabin",
+      "meaning": "каюта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "cabin"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "cabin"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "cabin"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "cabin"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "трос",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "rope"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "days"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "days"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "days"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "days"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

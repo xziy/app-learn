@@ -1,0 +1,800 @@
+{
+  "spec": 4,
+  "verb": "reduce",
+  "forms": {
+    "base": [
+      {
+        "word": "reduce",
+        "transcription": "[ридь**ю**:с]"
+      }
+    ],
+    "past": [
+      {
+        "word": "reduced",
+        "transcription": "[ридь**ю**:ст]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "reduced",
+        "transcription": "[ридь**ю**:ст]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "reducing",
+        "transcription": "[ридь**ю**:сиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "reduces",
+        "transcription": "[ридь**ю**:сиз]"
+      }
+    ]
+  },
+  "meaning": "уменьшать, снижать",
+  "notes": "правильный переходный глагол; в яхтинге употребляется для снижения нагрузки, крена и веса",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "reduced",
+        "examples": [
+          {
+            "ours": "Вчера экипаж уменьшил груз.",
+            "thought": "Вчера [известный] экипаж уменьшил [известный] груз.",
+            "english": "Yesterday the crew reduced the load.",
+            "transcription": "[й**э**стэдэй ðэ кру: ридь**ю**:ст ðэ лоуд]"
+          },
+          {
+            "ours": "Моряк уменьшил вес вчера?",
+            "thought": "[Сделал] [известный] моряк уменьшать [известный] вес вчера?",
+            "english": "Did the sailor reduce the weight yesterday?",
+            "transcription": "[дид ðэ с**э**йлэ ридь**ю**:с ðэ wэйт й**э**стэдэй]"
+          },
+          {
+            "ours": "Они не уменьшили крен.",
+            "thought": "Они [сделали] не уменьшать [известный] крен.",
+            "english": "They did not reduce the heel.",
+            "transcription": "[ðэй дид нот ридь**ю**:с ðэ хи:л]"
+          }
+        ]
+      },
+      "present": {
+        "form": "reduce, reduces",
+        "examples": [
+          {
+            "ours": "Капитан уменьшает крен.",
+            "thought": "[Известный] капитан уменьшает [известный] крен.",
+            "english": "The skipper reduces the heel.",
+            "transcription": "[ðэ ск**и**пэ ридь**ю**:сиз ðэ хи:л]"
+          },
+          {
+            "ours": "Экипаж уменьшает дифферент?",
+            "thought": "[Делает] [известный] экипаж уменьшать [известный] дифферент?",
+            "english": "Does the crew reduce the trim?",
+            "transcription": "[даз ðэ кру: ридь**ю**:с ðэ трим]"
+          },
+          {
+            "ours": "Мы не уменьшаем дифферент во время гонок.",
+            "thought": "Мы [делаем] не уменьшать [известный] дифферент во время гонок.",
+            "english": "We do not reduce the trim during races.",
+            "transcription": "[wи: ду: нот ридь**ю**:с ðэ трим дь**ю**эриŋ р**э**йсиз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will reduce",
+        "examples": [
+          {
+            "ours": "Завтра экипаж уменьшит груз.",
+            "thought": "Завтра [известный] экипаж будет уменьшать [известный] груз.",
+            "english": "Tomorrow the crew will reduce the load.",
+            "transcription": "[тэм**о**роу ðэ кру: wил ридь**ю**:с ðэ лоуд]"
+          },
+          {
+            "ours": "Моряк уменьшит вес завтра?",
+            "thought": "Будет [известный] моряк уменьшать [известный] вес завтра?",
+            "english": "Will the sailor reduce the weight tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ ридь**ю**:с ðэ wэйт тэм**о**роу]"
+          },
+          {
+            "ours": "Она не уменьшит вес.",
+            "thought": "Она будет не уменьшать [известный] вес.",
+            "english": "She will not reduce the weight.",
+            "transcription": "[ши: wил нот ридь**ю**:с ðэ wэйт]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were reducing",
+        "examples": [
+          {
+            "ours": "Экипаж уменьшал груз, когда ты прибыл.",
+            "thought": "[Известный] экипаж был уменьшающим [известный] груз, когда ты прибыл.",
+            "english": "The crew was reducing the load when you arrived.",
+            "transcription": "[ðэ кру: wоз ридь**ю**:сиŋ ðэ лоуд wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Моряк уменьшал вес, когда ты прибыл?",
+            "thought": "Был [известный] моряк уменьшающим [известный] вес, когда ты прибыл?",
+            "english": "Was the sailor reducing the weight when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ ридь**ю**:сиŋ ðэ wэйт wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are reducing",
+        "examples": [
+          {
+            "ours": "Капитан сейчас уменьшает крен.",
+            "thought": "[Известный] капитан является уменьшающим [известный] крен сейчас.",
+            "english": "The skipper is reducing the heel now.",
+            "transcription": "[ðэ ск**и**пэ из ридь**ю**:сиŋ ðэ хи:л нау]"
+          },
+          {
+            "ours": "Экипаж сейчас уменьшает дифферент?",
+            "thought": "Является [известный] экипаж уменьшающим [известный] дифферент сейчас?",
+            "english": "Is the crew reducing the trim now?",
+            "transcription": "[из ðэ кру: ридь**ю**:сиŋ ðэ трим нау]"
+          },
+          {
+            "ours": "Мы сейчас не уменьшаем груз.",
+            "thought": "Мы являемся не уменьшающими [известный] груз сейчас.",
+            "english": "We are not reducing the load now.",
+            "transcription": "[wи: а: нот ридь**ю**:сиŋ ðэ лоуд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be reducing",
+        "examples": [
+          {
+            "ours": "Завтра экипаж будет уменьшать груз.",
+            "thought": "Завтра [известный] экипаж будет быть уменьшающим [известный] груз.",
+            "english": "Tomorrow the crew will be reducing the load.",
+            "transcription": "[тэм**о**роу ðэ кру: wил би: ридь**ю**:сиŋ ðэ лоуд]"
+          },
+          {
+            "ours": "Моряк завтра будет уменьшать вес?",
+            "thought": "Будет [известный] моряк быть уменьшающим [известный] вес завтра?",
+            "english": "Will the sailor be reducing the weight tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: ридь**ю**:сиŋ ðэ wэйт тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had reduced",
+        "examples": [
+          {
+            "ours": "К полудню экипаж уменьшил груз.",
+            "thought": "К полудню [известный] экипаж имел уменьшенным [известный] груз.",
+            "english": "By noon the crew had reduced the load.",
+            "transcription": "[бай ну:н ðэ кру: хæд ридь**ю**:ст ðэ лоуд]"
+          },
+          {
+            "ours": "Моряк уменьшил вес к полудню?",
+            "thought": "Имел [известный] моряк уменьшенным [известный] вес к полудню?",
+            "english": "Had the sailor reduced the weight by noon?",
+            "transcription": "[хæд ðэ с**э**йлэ ридь**ю**:ст ðэ wэйт бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has reduced",
+        "examples": [
+          {
+            "ours": "Капитан уже уменьшил крен.",
+            "thought": "[Известный] капитан имеет уже уменьшенным [известный] крен.",
+            "english": "The skipper has already reduced the heel.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди ридь**ю**:ст ðэ хи:л]"
+          },
+          {
+            "ours": "Экипаж уже уменьшил дифферент?",
+            "thought": "Имеет [известный] экипаж уменьшенным [известный] дифферент уже?",
+            "english": "Has the crew reduced the trim yet?",
+            "transcription": "[хæз ðэ кру: ридь**ю**:ст ðэ трим йэт]"
+          },
+          {
+            "ours": "Она ещё не уменьшила вес.",
+            "thought": "Она имеет не уменьшенным [известный] вес ещё.",
+            "english": "She has not reduced the weight yet.",
+            "transcription": "[ши: хæз нот ридь**ю**:ст ðэ wэйт йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have reduced",
+        "examples": [
+          {
+            "ours": "К пяти экипаж уменьшит груз.",
+            "thought": "К пяти [известный] экипаж будет иметь уменьшенным [известный] груз.",
+            "english": "By five the crew will have reduced the load.",
+            "transcription": "[бай файв ðэ кру: wил хæв ридь**ю**:ст ðэ лоуд]"
+          },
+          {
+            "ours": "Моряк уменьшит вес к пяти?",
+            "thought": "Будет [известный] моряк иметь уменьшенным [известный] вес к пяти?",
+            "english": "Will the sailor have reduced the weight by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв ридь**ю**:ст ðэ wэйт бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для завершённого разового уменьшения в этих примерах используют perfect: The crew has reduced the load. Длительная форма возможна, когда уменьшение идёт постепенно."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were reduced",
+        "examples": [
+          {
+            "ours": "Груз был уменьшен вчера.",
+            "thought": "[Известный] груз был уменьшен вчера.",
+            "english": "The load was reduced yesterday.",
+            "transcription": "[ðэ лоуд wоз ридь**ю**:ст й**э**стэдэй]"
+          },
+          {
+            "ours": "Вес был уменьшен вчера?",
+            "thought": "Был [известный] вес уменьшен вчера?",
+            "english": "Was the weight reduced yesterday?",
+            "transcription": "[wоз ðэ wэйт ридь**ю**:ст й**э**стэдэй]"
+          },
+          {
+            "ours": "Крен не уменьшили вчера.",
+            "thought": "[Известный] крен был не уменьшен вчера.",
+            "english": "The heel was not reduced yesterday.",
+            "transcription": "[ðэ хи:л wоз нот ридь**ю**:ст й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are reduced",
+        "examples": [
+          {
+            "ours": "Крен уменьшают здесь.",
+            "thought": "[Известный] крен есть уменьшен здесь.",
+            "english": "The heel is reduced here.",
+            "transcription": "[ðэ хи:л из ридь**ю**:ст хиэ]"
+          },
+          {
+            "ours": "Дифферент уменьшают здесь?",
+            "thought": "Есть [известный] дифферент уменьшен здесь?",
+            "english": "Is the trim reduced here?",
+            "transcription": "[из ðэ трим ридь**ю**:ст хиэ]"
+          },
+          {
+            "ours": "Крен не уменьшают ночью.",
+            "thought": "[Известный] крен есть не уменьшен ночью.",
+            "english": "The heel is not reduced at night.",
+            "transcription": "[ðэ хи:л из нот ридь**ю**:ст æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be reduced",
+        "examples": [
+          {
+            "ours": "Груз уменьшат завтра.",
+            "thought": "[Известный] груз будет быть уменьшен завтра.",
+            "english": "The load will be reduced tomorrow.",
+            "transcription": "[ðэ лоуд wил би: ридь**ю**:ст тэм**о**роу]"
+          },
+          {
+            "ours": "Вес уменьшат завтра?",
+            "thought": "Будет [известный] вес быть уменьшен завтра?",
+            "english": "Will the weight be reduced tomorrow?",
+            "transcription": "[wил ðэ wэйт би: ридь**ю**:ст тэм**о**роу]"
+          },
+          {
+            "ours": "Вес не уменьшат завтра.",
+            "thought": "[Известный] вес будет не быть уменьшен завтра.",
+            "english": "The weight will not be reduced tomorrow.",
+            "transcription": "[ðэ wэйт wил нот би: ридь**ю**:ст тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being reduced",
+        "examples": [
+          {
+            "ours": "Груз уменьшали, когда ты прибыл.",
+            "thought": "[Известный] груз был «долго» уменьшен, когда ты прибыл.",
+            "english": "The load was being reduced when you arrived.",
+            "transcription": "[ðэ лоуд wоз б**и**:иŋ ридь**ю**:ст wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Вес уменьшали, когда ты прибыл?",
+            "thought": "Был [известный] вес «долго» уменьшен, когда ты прибыл?",
+            "english": "Was the weight being reduced when you arrived?",
+            "transcription": "[wоз ðэ wэйт б**и**:иŋ ридь**ю**:ст wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being reduced",
+        "examples": [
+          {
+            "ours": "Крен сейчас уменьшают.",
+            "thought": "[Известный] крен есть «долго» уменьшен сейчас.",
+            "english": "The heel is being reduced now.",
+            "transcription": "[ðэ хи:л из б**и**:иŋ ридь**ю**:ст нау]"
+          },
+          {
+            "ours": "Дифферент сейчас уменьшают?",
+            "thought": "Есть [известный] дифферент «долго» уменьшен сейчас?",
+            "english": "Is the trim being reduced now?",
+            "transcription": "[из ðэ трим б**и**:иŋ ридь**ю**:ст нау]"
+          },
+          {
+            "ours": "Дифферент сейчас не уменьшают.",
+            "thought": "[Известный] дифферент есть не «долго» уменьшен сейчас.",
+            "english": "The trim is not being reduced now.",
+            "transcription": "[ðэ трим из нот б**и**:иŋ ридь**ю**:ст нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be reducing",
+        "examples": [
+          {
+            "ours": "Завтра они будут уменьшать груз.",
+            "thought": "Завтра они будут быть уменьшающими [известный] груз.",
+            "english": "Tomorrow they will be reducing the load.",
+            "transcription": "[тэм**о**роу ðэй wил би: ридь**ю**:сиŋ ðэ лоуд]"
+          },
+          {
+            "ours": "Они будут уменьшать вес завтра?",
+            "thought": "Будут они быть уменьшающими [известный] вес завтра?",
+            "english": "Will they be reducing the weight tomorrow?",
+            "transcription": "[wил ðэй би: ридь**ю**:сиŋ ðэ wэйт тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been reduced",
+        "examples": [
+          {
+            "ours": "К полудню груз уменьшили.",
+            "thought": "К полудню [известный] груз имел быть уменьшен.",
+            "english": "By noon the load had been reduced.",
+            "transcription": "[бай ну:н ðэ лоуд хæд би:н ридь**ю**:ст]"
+          },
+          {
+            "ours": "Вес уменьшили к полудню?",
+            "thought": "Имел [известный] вес быть уменьшен к полудню?",
+            "english": "Had the weight been reduced by noon?",
+            "transcription": "[хæд ðэ wэйт би:н ридь**ю**:ст бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been reduced",
+        "examples": [
+          {
+            "ours": "Крен уже уменьшили.",
+            "thought": "[Известный] крен имеет уже быть уменьшен.",
+            "english": "The heel has already been reduced.",
+            "transcription": "[ðэ хи:л хæз о:лр**э**ди би:н ридь**ю**:ст]"
+          },
+          {
+            "ours": "Дифферент уже уменьшили?",
+            "thought": "Имеет [известный] дифферент быть уменьшен уже?",
+            "english": "Has the trim been reduced yet?",
+            "transcription": "[хæз ðэ трим би:н ридь**ю**:ст йэт]"
+          },
+          {
+            "ours": "Вес ещё не уменьшили.",
+            "thought": "[Известный] вес имеет не быть уменьшен ещё.",
+            "english": "The weight has not been reduced yet.",
+            "transcription": "[ðэ wэйт хæз нот би:н ридь**ю**:ст йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been reduced",
+        "examples": [
+          {
+            "ours": "К пяти груз уменьшат.",
+            "thought": "К пяти [известный] груз будет иметь быть уменьшен.",
+            "english": "By five the load will have been reduced.",
+            "transcription": "[бай файв ðэ лоуд wил хæв би:н ридь**ю**:ст]"
+          },
+          {
+            "ours": "Вес уменьшат к пяти?",
+            "thought": "Будет [известный] вес иметь быть уменьшен к пяти?",
+            "english": "Will the weight have been reduced by five?",
+            "transcription": "[wил ðэ wэйт хæв би:н ридь**ю**:ст бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The crew has reduced the load."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что моряк уменьшит вес.",
+        "thought": "Я знал [известный] моряк будет уменьшать [известный] вес.",
+        "english": "I knew the sailor would reduce the weight.",
+        "transcription": "[ай нью: ðэ с**э**йлэ wуд ридь**ю**:с ðэ wэйт]"
+      },
+      {
+        "ours": "Мы думали, что экипаж не уменьшит груз.",
+        "thought": "Мы думали [известный] экипаж будет не уменьшать [известный] груз.",
+        "english": "We thought the crew would not reduce the load.",
+        "transcription": "[wи: θо:т ðэ кру: wуд нот ридь**ю**:с ðэ лоуд]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "load",
+      "meaning": "нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "load"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "load"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "load"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "load"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "load"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "load"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "load"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "load"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "load"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "load"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "load"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "load"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "load"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "load"
+        }
+      ]
+    },
+    {
+      "word": "weight",
+      "meaning": "вес",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "weight"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "weight"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "weight"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "weight"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "weight"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "weight"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "weight"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "weight"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "weight"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "weight"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "weight"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "weight"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "weight"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "weight"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "weight"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "weight"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "weight"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "heel",
+      "meaning": "крен",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "heel"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "heel"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "heel"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "heel"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "heel"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "heel"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "heel"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "heel"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "heel"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "trim",
+      "meaning": "дифферент",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "trim"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "trim"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "trim"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "trim"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "trim"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "trim"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "trim"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "trim"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "races"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "night"
+        }
+      ]
+    }
+  ]
+}

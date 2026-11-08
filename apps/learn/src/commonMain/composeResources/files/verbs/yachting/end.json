@@ -1,0 +1,848 @@
+{
+  "spec": 4,
+  "verb": "end",
+  "forms": {
+    "base": [
+      {
+        "word": "end",
+        "transcription": "[энд]"
+      }
+    ],
+    "past": [
+      {
+        "word": "ended",
+        "transcription": "[**э**ндид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "ended",
+        "transcription": "[**э**ндид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "ending",
+        "transcription": "[**э**ндиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "ends",
+        "transcription": "[эндз]"
+      }
+    ]
+  },
+  "meaning": "заканчивать, завершать, заканчиваться",
+  "notes": "правильный переходный и непереходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "ended",
+        "examples": [
+          {
+            "ours": "Вчера гонка закончилась к пяти.",
+            "thought": "Вчера [известная] гонка закончилась к пяти.",
+            "english": "Yesterday the race ended by five.",
+            "transcription": "[й**э**стэдэй ðэ рэйс **э**ндид бай файв]"
+          },
+          {
+            "ours": "Капитан не завершил переход.",
+            "thought": "[Известный] капитан [сделал] не завершать [известный] переход.",
+            "english": "The captain didn't end the voyage.",
+            "transcription": "[ðэ к**æ**птин диднт энд ðэ в**о**йидж]"
+          },
+          {
+            "ours": "Регата закончилась до шторма?",
+            "thought": "[Сделала] [известная] регата заканчиваться перед [известным] штормом?",
+            "english": "Did the regatta end before the storm?",
+            "transcription": "[дид ðэ риг**æ**тэ энд биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "end, ends",
+        "examples": [
+          {
+            "ours": "Вахта заканчивается в полдень.",
+            "thought": "[Известная] вахта заканчивается в полдень.",
+            "english": "The watch ends at noon.",
+            "transcription": "[ðэ wоч эндз æт ну:н]"
+          },
+          {
+            "ours": "Регата не заканчивается в пятницу.",
+            "thought": "[Известная] регата [делает] не заканчиваться в пятницу.",
+            "english": "The regatta doesn't end on Friday.",
+            "transcription": "[ðэ риг**æ**тэ дазнт энд он фр**а**йдэй]"
+          },
+          {
+            "ours": "Капитан завершает тренировку до заката?",
+            "thought": "[Делает] [известный] капитан завершать [известную] тренировку перед закатом?",
+            "english": "Does the captain end the practice before sunset?",
+            "transcription": "[даз ðэ к**æ**птин энд ðэ пр**æ**ктис биф**о**: с**а**нсэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will end",
+        "examples": [
+          {
+            "ours": "Завтра мы закончим переход.",
+            "thought": "Завтра мы будем завершать [известный] переход.",
+            "english": "Tomorrow we will end the voyage.",
+            "transcription": "[тэм**о**роу wи: wил энд ðэ в**о**йидж]"
+          },
+          {
+            "ours": "Регата не закончится до утра.",
+            "thought": "[Известная] регата будет не заканчиваться перед утром.",
+            "english": "The regatta won't end before morning.",
+            "transcription": "[ðэ риг**æ**тэ wоунт энд биф**о**: м**о**:ниŋ]"
+          },
+          {
+            "ours": "Гонка закончится к пяти?",
+            "thought": "Будет [известная] гонка заканчиваться к пяти?",
+            "english": "Will the race end by five?",
+            "transcription": "[wил ðэ рэйс энд бай файв]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were ending",
+        "examples": [
+          {
+            "ours": "Гонка заканчивалась, когда я пришёл.",
+            "thought": "[Известная] гонка была заканчивающейся когда я пришёл.",
+            "english": "The race was ending when I came.",
+            "transcription": "[ðэ рэйс wоз **э**ндиŋ wэн ай кэйм]"
+          },
+          {
+            "ours": "Регата заканчивалась, когда ты пришёл?",
+            "thought": "Была [известная] регата заканчивающейся когда ты пришёл?",
+            "english": "Was the regatta ending when you came?",
+            "transcription": "[wоз ðэ риг**æ**тэ **э**ндиŋ wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are ending",
+        "examples": [
+          {
+            "ours": "Сейчас гонка заканчивается.",
+            "thought": "[Известная] гонка является заканчивающейся сейчас.",
+            "english": "The race is ending now.",
+            "transcription": "[ðэ рэйс из **э**ндиŋ нау]"
+          },
+          {
+            "ours": "Регата сейчас заканчивается?",
+            "thought": "Является [известная] регата заканчивающейся сейчас?",
+            "english": "Is the regatta ending now?",
+            "transcription": "[из ðэ риг**æ**тэ **э**ндиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be ending",
+        "examples": [
+          {
+            "ours": "Завтра гонка будет заканчиваться в пять.",
+            "thought": "Завтра [известная] гонка будет быть заканчивающейся в пять.",
+            "english": "Tomorrow the race will be ending at five.",
+            "transcription": "[тэм**о**роу ðэ рэйс wил би: **э**ндиŋ æт файв]"
+          },
+          {
+            "ours": "Регата будет заканчиваться в полдень?",
+            "thought": "Будет [известная] регата быть заканчивающейся в полдень?",
+            "english": "Will the regatta be ending at noon?",
+            "transcription": "[wил ðэ риг**æ**тэ би: **э**ндиŋ æт ну:н]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had ended",
+        "examples": [
+          {
+            "ours": "Вчера к пяти гонка уже закончилась.",
+            "thought": "К пяти вчера [известная] гонка имела уже закончившимся.",
+            "english": "By five yesterday the race had already ended.",
+            "transcription": "[бай файв й**э**стэдэй ðэ рэйс хæд о:лр**э**ди **э**ндид]"
+          },
+          {
+            "ours": "Капитан завершил переход до шторма?",
+            "thought": "Имел [известный] капитан завершённым [известный] переход перед [известным] штормом?",
+            "english": "Had the captain ended the voyage before the storm?",
+            "transcription": "[хæд ðэ к**æ**птин **э**ндид ðэ в**о**йидж биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has ended",
+        "examples": [
+          {
+            "ours": "Регата уже закончилась.",
+            "thought": "[Известная] регата имеет уже закончившимся.",
+            "english": "The regatta has already ended.",
+            "transcription": "[ðэ риг**æ**тэ хæз о:лр**э**ди **э**ндид]"
+          },
+          {
+            "ours": "Гонка уже закончилась?",
+            "thought": "Имеет [известная] гонка уже закончившимся?",
+            "english": "Has the race already ended?",
+            "transcription": "[хæз ðэ рэйс о:лр**э**ди **э**ндид]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have ended",
+        "examples": [
+          {
+            "ours": "Завтра к пяти гонка уже закончится.",
+            "thought": "К пяти завтра [известная] гонка будет иметь уже закончившимся.",
+            "english": "By five tomorrow the race will have already ended.",
+            "transcription": "[бай файв тэм**о**роу ðэ рэйс wил хæв о:лр**э**ди **э**ндид]"
+          },
+          {
+            "ours": "Капитан завершит переход до шторма?",
+            "thought": "Будет [известный] капитан иметь завершённым [известный] переход перед [известным] штормом?",
+            "english": "Will the captain have ended the voyage before the storm?",
+            "transcription": "[wил ðэ к**æ**птин хæв **э**ндид ðэ в**о**йидж биф**о**: ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been ending",
+        "examples": [
+          {
+            "ours": "Гонки уже две недели заканчивались рано, когда ты пришёл.",
+            "thought": "Гонки имели быть заканчивающимися рано целых две недели когда ты пришёл.",
+            "english": "Races had been ending early for two weeks when you came.",
+            "transcription": "[р**э**йсиз хæд би:н **э**ндиŋ **œ**:ли фо: ту: wи:кс wэн ю: кэйм]"
+          },
+          {
+            "ours": "Тренировки уже две недели заканчивались рано, когда он пришёл?",
+            "thought": "Имели тренировки быть заканчивающимися рано целых две недели когда он пришёл?",
+            "english": "Had practices been ending early for two weeks when he came?",
+            "transcription": "[хæд пр**æ**ктисиз би:н **э**ндиŋ **œ**:ли фо: ту: wи:кс wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been ending",
+        "examples": [
+          {
+            "ours": "Гонки уже две недели заканчиваются рано.",
+            "thought": "Гонки имеют быть заканчивающимися рано целых две недели.",
+            "english": "Races have been ending early for two weeks.",
+            "transcription": "[р**э**йсиз хæв би:н **э**ндиŋ **œ**:ли фо: ту: wи:кс]"
+          },
+          {
+            "ours": "Тренировки уже две недели заканчиваются рано?",
+            "thought": "Имеют тренировки быть заканчивающимися рано целых две недели?",
+            "english": "Have practices been ending early for two weeks?",
+            "transcription": "[хæв пр**æ**ктисиз би:н **э**ндиŋ **œ**:ли фо: ту: wи:кс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been ending",
+        "examples": [
+          {
+            "ours": "К июню гонки будут заканчиваться рано уже две недели.",
+            "thought": "К июню гонки будут иметь быть заканчивающимися рано целых две недели.",
+            "english": "By June races will have been ending early for two weeks.",
+            "transcription": "[бай джу:н р**э**йсиз wил хæв би:н **э**ндиŋ **œ**:ли фо: ту: wи:кс]"
+          },
+          {
+            "ours": "К июню тренировки будут заканчиваться рано уже две недели?",
+            "thought": "Будут тренировки иметь быть заканчивающимися рано целых две недели к июню?",
+            "english": "Will practices have been ending early for two weeks by June?",
+            "transcription": "[wил пр**æ**ктисиз хæв би:н **э**ндиŋ **œ**:ли фо: ту: wи:кс бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were ended",
+        "examples": [
+          {
+            "ours": "Вчера гонку завершили досрочно.",
+            "thought": "[Известная] гонка была завершена рано вчера.",
+            "english": "The race was ended early yesterday.",
+            "transcription": "[ðэ рэйс wоз **э**ндид **œ**:ли й**э**стэдэй]"
+          },
+          {
+            "ours": "Переход завершили до шторма?",
+            "thought": "Был [известный] переход завершён перед [известным] штормом?",
+            "english": "Was the voyage ended before the storm?",
+            "transcription": "[wоз ðэ в**о**йидж **э**ндид биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are ended",
+        "examples": [
+          {
+            "ours": "Гонку завершают до заката.",
+            "thought": "[Известная] гонка есть завершена перед закатом.",
+            "english": "The race is ended before sunset.",
+            "transcription": "[ðэ рэйс из **э**ндид биф**о**: с**а**нсэт]"
+          },
+          {
+            "ours": "Тренировку завершают до шторма?",
+            "thought": "Есть [известная] тренировка завершена перед [известным] штормом?",
+            "english": "Is the practice ended before the storm?",
+            "transcription": "[из ðэ пр**æ**ктис **э**ндид биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be ended",
+        "examples": [
+          {
+            "ours": "Завтра гонку завершат досрочно.",
+            "thought": "[Известная] гонка будет быть завершена рано завтра.",
+            "english": "The race will be ended early tomorrow.",
+            "transcription": "[ðэ рэйс wил би: **э**ндид **œ**:ли тэм**о**роу]"
+          },
+          {
+            "ours": "Переход завершат до шторма?",
+            "thought": "Будет [известный] переход быть завершён перед [известным] штормом?",
+            "english": "Will the voyage be ended before the storm?",
+            "transcription": "[wил ðэ в**о**йидж би: **э**ндид биф**о**: ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being ended",
+        "examples": [
+          {
+            "ours": "Вчера гонку досрочно завершали, когда я пришёл.",
+            "thought": "Вчера [известная] гонка была «долго» завершена рано когда я пришёл.",
+            "english": "Yesterday the race was being ended early when I came.",
+            "transcription": "[й**э**стэдэй ðэ рэйс wоз б**и**:иŋ **э**ндид **œ**:ли wэн ай кэйм]"
+          },
+          {
+            "ours": "Регату завершали, когда ты пришёл?",
+            "thought": "Была [известная] регата «долго» завершена когда ты пришёл?",
+            "english": "Was the regatta being ended when you came?",
+            "transcription": "[wоз ðэ риг**æ**тэ б**и**:иŋ **э**ндид wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being ended",
+        "examples": [
+          {
+            "ours": "Сейчас гонку досрочно завершают.",
+            "thought": "[Известная] гонка есть «долго» завершена рано сейчас.",
+            "english": "The race is being ended early now.",
+            "transcription": "[ðэ рэйс из б**и**:иŋ **э**ндид **œ**:ли нау]"
+          },
+          {
+            "ours": "Сейчас регату завершают?",
+            "thought": "Есть [известная] регата «долго» завершена сейчас?",
+            "english": "Is the regatta being ended now?",
+            "transcription": "[из ðэ риг**æ**тэ б**и**:иŋ **э**ндид нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be ending",
+        "examples": [
+          {
+            "ours": "Завтра они досрочно завершат гонку.",
+            "thought": "Завтра они будут быть завершающими [известную] гонку рано.",
+            "english": "Tomorrow they will be ending the race early.",
+            "transcription": "[тэм**о**роу ðэй wил би: **э**ндиŋ ðэ рэйс **œ**:ли]"
+          },
+          {
+            "ours": "Они будут завершать регату до шторма?",
+            "thought": "Будут они быть завершающими [известную] регату перед [известным] штормом?",
+            "english": "Will they be ending the regatta before the storm?",
+            "transcription": "[wил ðэй би: **э**ндиŋ ðэ риг**æ**тэ биф**о**: ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been ended",
+        "examples": [
+          {
+            "ours": "Вчера к пяти гонку уже завершили.",
+            "thought": "К пяти вчера [известная] гонка имела уже быть завершена.",
+            "english": "By five yesterday the race had already been ended.",
+            "transcription": "[бай файв й**э**стэдэй ðэ рэйс хæд о:лр**э**ди би:н **э**ндид]"
+          },
+          {
+            "ours": "Переход завершили до шторма?",
+            "thought": "Имел [известный] переход быть завершён перед [известным] штормом?",
+            "english": "Had the voyage been ended before the storm?",
+            "transcription": "[хæд ðэ в**о**йидж би:н **э**ндид биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been ended",
+        "examples": [
+          {
+            "ours": "Регату уже завершили.",
+            "thought": "[Известная] регата имеет уже быть завершена.",
+            "english": "The regatta has already been ended.",
+            "transcription": "[ðэ риг**æ**тэ хæз о:лр**э**ди би:н **э**ндид]"
+          },
+          {
+            "ours": "Гонку уже завершили?",
+            "thought": "Имеет [известная] гонка уже быть завершена?",
+            "english": "Has the race already been ended?",
+            "transcription": "[хæз ðэ рэйс о:лр**э**ди би:н **э**ндид]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been ended",
+        "examples": [
+          {
+            "ours": "К пяти завтра гонку уже завершат.",
+            "thought": "К пяти завтра [известная] гонка будет уже иметь быть завершена.",
+            "english": "By five tomorrow the race will already have been ended.",
+            "transcription": "[бай файв тэм**о**роу ðэ рэйс wил о:лр**э**ди хæв би:н **э**ндид]"
+          },
+          {
+            "ours": "Переход завершат до шторма?",
+            "thought": "Будет [известный] переход иметь быть завершён перед [известным] штормом?",
+            "english": "Will the voyage have been ended before the storm?",
+            "transcription": "[wил ðэ в**о**йидж хæв би:н **э**ндид биф**о**: ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The race has been ended. Или: They have been ending races early."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они завершат переход.",
+        "thought": "[Известный] капитан сказал что они будут завершать [известный] переход.",
+        "english": "The captain said that they would end the voyage.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд энд ðэ в**о**йидж]"
+      },
+      {
+        "ours": "Я знал, что гонка не закончится до утра.",
+        "thought": "Я знал что [известная] гонка будет не заканчиваться перед утром.",
+        "english": "I knew that the race wouldn't end before morning.",
+        "transcription": "[ай нью: ðæт ðэ рэйс wуднт энд биф**о**: м**о**:ниŋ]"
+      },
+      {
+        "ours": "Капитан сказал, что мы завершим тренировку.",
+        "thought": "[Известный] капитан сказал что мы будем завершать [известную] тренировку.",
+        "english": "The captain said that we would end the practice.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд энд ðэ пр**æ**ктис]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "Races"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "Races"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "races"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "voyage",
+      "meaning": "плавание",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "voyage"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "voyage"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "voyage"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "voyage"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "voyage"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "voyage"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "voyage"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "voyage"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "voyage"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "watch",
+      "meaning": "вахта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "watch"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "practice",
+      "meaning": "тренировка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "practice"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "practices"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "practices"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "practices"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "practice"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "practice"
+        }
+      ]
+    },
+    {
+      "word": "sunset",
+      "meaning": "закат",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sunset"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "sunset"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "morning"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "weeks"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "weeks"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "weeks"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "weeks"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "weeks"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "weeks"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "June"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    }
+  ]
+}

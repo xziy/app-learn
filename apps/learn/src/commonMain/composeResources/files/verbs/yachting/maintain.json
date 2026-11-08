@@ -1,0 +1,910 @@
+{
+  "spec": 4,
+  "verb": "maintain",
+  "forms": {
+    "base": [
+      {
+        "word": "maintain",
+        "transcription": "[мэйнт**э**йн]"
+      }
+    ],
+    "past": [
+      {
+        "word": "maintained",
+        "transcription": "[мэйнт**э**йнд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "maintained",
+        "transcription": "[мэйнт**э**йнд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "maintaining",
+        "transcription": "[мэйнт**э**йниŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "maintains",
+        "transcription": "[мэйнт**э**йнз]"
+      }
+    ]
+  },
+  "meaning": "поддерживать, обслуживать",
+  "notes": "правильный переходный глагол; maintain the course — держать курс; maintain equipment — обслуживать оборудование",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "maintained",
+        "examples": [
+          {
+            "ours": "Вчера экипаж обслужил двигатель.",
+            "thought": "Вчера [известный] экипаж обслужил [известный] двигатель.",
+            "english": "Yesterday the crew maintained the engine.",
+            "transcription": "[й**э**стэдэй ðэ кру: мэйнт**э**йнд ðи **э**нджин]"
+          },
+          {
+            "ours": "Моряк обслужил насос вчера?",
+            "thought": "[Сделал] [известный] моряк обслуживать [известный] насос вчера?",
+            "english": "Did the sailor maintain the pump yesterday?",
+            "transcription": "[дид ðэ с**э**йлэ мэйнт**э**йн ðэ памп й**э**стэдэй]"
+          },
+          {
+            "ours": "Они не сохранили курс.",
+            "thought": "Они [сделали] не поддерживать [известный] курс.",
+            "english": "They did not maintain the course.",
+            "transcription": "[ðэй дид нот мэйнт**э**йн ðэ ко:с]"
+          }
+        ]
+      },
+      "present": {
+        "form": "maintain, maintains",
+        "examples": [
+          {
+            "ours": "Капитан поддерживает курс.",
+            "thought": "[Известный] капитан поддерживает [известный] курс.",
+            "english": "The skipper maintains the course.",
+            "transcription": "[ðэ ск**и**пэ мэйнт**э**йнз ðэ ко:с]"
+          },
+          {
+            "ours": "Экипаж обслуживает генератор?",
+            "thought": "[Делает] [известный] экипаж обслуживать [известный] генератор?",
+            "english": "Does the crew maintain the generator?",
+            "transcription": "[даз ðэ кру: мэйнт**э**йн ðэ дж**э**нэрэйтэ]"
+          },
+          {
+            "ours": "Мы не обслуживаем генератор во время гонок.",
+            "thought": "Мы [делаем] не обслуживать [известный] генератор во время гонок.",
+            "english": "We do not maintain the generator during races.",
+            "transcription": "[wи: ду: нот мэйнт**э**йн ðэ дж**э**нэрэйтэ дь**ю**эриŋ р**э**йсиз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will maintain",
+        "examples": [
+          {
+            "ours": "Завтра экипаж обслужит двигатель.",
+            "thought": "Завтра [известный] экипаж будет обслуживать [известный] двигатель.",
+            "english": "Tomorrow the crew will maintain the engine.",
+            "transcription": "[тэм**о**роу ðэ кру: wил мэйнт**э**йн ðи **э**нджин]"
+          },
+          {
+            "ours": "Моряк обслужит насос завтра?",
+            "thought": "Будет [известный] моряк обслуживать [известный] насос завтра?",
+            "english": "Will the sailor maintain the pump tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ мэйнт**э**йн ðэ памп тэм**о**роу]"
+          },
+          {
+            "ours": "Она не обслужит насос.",
+            "thought": "Она будет не обслуживать [известный] насос.",
+            "english": "She will not maintain the pump.",
+            "transcription": "[ши: wил нот мэйнт**э**йн ðэ памп]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were maintaining",
+        "examples": [
+          {
+            "ours": "Экипаж обслуживал двигатель, когда ты прибыл.",
+            "thought": "[Известный] экипаж был обслуживающим [известный] двигатель, когда ты прибыл.",
+            "english": "The crew was maintaining the engine when you arrived.",
+            "transcription": "[ðэ кру: wоз мэйнт**э**йниŋ ðи **э**нджин wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Моряк обслуживал насос, когда ты прибыл?",
+            "thought": "Был [известный] моряк обслуживающим [известный] насос, когда ты прибыл?",
+            "english": "Was the sailor maintaining the pump when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ мэйнт**э**йниŋ ðэ памп wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are maintaining",
+        "examples": [
+          {
+            "ours": "Капитан сейчас поддерживает курс.",
+            "thought": "[Известный] капитан является поддерживающим [известный] курс сейчас.",
+            "english": "The skipper is maintaining the course now.",
+            "transcription": "[ðэ ск**и**пэ из мэйнт**э**йниŋ ðэ ко:с нау]"
+          },
+          {
+            "ours": "Экипаж сейчас обслуживает генератор?",
+            "thought": "Является [известный] экипаж обслуживающим [известный] генератор сейчас?",
+            "english": "Is the crew maintaining the generator now?",
+            "transcription": "[из ðэ кру: мэйнт**э**йниŋ ðэ дж**э**нэрэйтэ нау]"
+          },
+          {
+            "ours": "Мы сейчас не обслуживаем двигатель.",
+            "thought": "Мы являемся не обслуживающими [известный] двигатель сейчас.",
+            "english": "We are not maintaining the engine now.",
+            "transcription": "[wи: а: нот мэйнт**э**йниŋ ðи **э**нджин нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be maintaining",
+        "examples": [
+          {
+            "ours": "Завтра экипаж будет обслуживать двигатель.",
+            "thought": "Завтра [известный] экипаж будет быть обслуживающим [известный] двигатель.",
+            "english": "Tomorrow the crew will be maintaining the engine.",
+            "transcription": "[тэм**о**роу ðэ кру: wил би: мэйнт**э**йниŋ ðи **э**нджин]"
+          },
+          {
+            "ours": "Моряк завтра будет обслуживать насос?",
+            "thought": "Будет [известный] моряк быть обслуживающим [известный] насос завтра?",
+            "english": "Will the sailor be maintaining the pump tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: мэйнт**э**йниŋ ðэ памп тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had maintained",
+        "examples": [
+          {
+            "ours": "К полудню экипаж обслужил двигатель.",
+            "thought": "К полудню [известный] экипаж имел обслуженным [известный] двигатель.",
+            "english": "By noon the crew had maintained the engine.",
+            "transcription": "[бай ну:н ðэ кру: хæд мэйнт**э**йнд ðи **э**нджин]"
+          },
+          {
+            "ours": "Моряк обслужил насос к полудню?",
+            "thought": "Имел [известный] моряк обслуженным [известный] насос к полудню?",
+            "english": "Had the sailor maintained the pump by noon?",
+            "transcription": "[хæд ðэ с**э**йлэ мэйнт**э**йнд ðэ памп бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has maintained",
+        "examples": [
+          {
+            "ours": "Капитан уже сохранил курс.",
+            "thought": "[Известный] капитан имеет уже сохранённым [известный] курс.",
+            "english": "The skipper has already maintained the course.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди мэйнт**э**йнд ðэ ко:с]"
+          },
+          {
+            "ours": "Экипаж уже обслужил генератор?",
+            "thought": "Имеет [известный] экипаж обслуженным [известный] генератор уже?",
+            "english": "Has the crew maintained the generator yet?",
+            "transcription": "[хæз ðэ кру: мэйнт**э**йнд ðэ дж**э**нэрэйтэ йэт]"
+          },
+          {
+            "ours": "Она ещё не обслужила насос.",
+            "thought": "Она имеет не обслуженным [известный] насос ещё.",
+            "english": "She has not maintained the pump yet.",
+            "transcription": "[ши: хæз нот мэйнт**э**йнд ðэ памп йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have maintained",
+        "examples": [
+          {
+            "ours": "К пяти экипаж обслужит двигатель.",
+            "thought": "К пяти [известный] экипаж будет иметь обслуженным [известный] двигатель.",
+            "english": "By five the crew will have maintained the engine.",
+            "transcription": "[бай файв ðэ кру: wил хæв мэйнт**э**йнд ðи **э**нджин]"
+          },
+          {
+            "ours": "Моряк обслужит насос к пяти?",
+            "thought": "Будет [известный] моряк иметь обслуженным [известный] насос к пяти?",
+            "english": "Will the sailor have maintained the pump by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв мэйнт**э**йнд ðэ памп бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been maintaining",
+        "examples": [
+          {
+            "ours": "Мы держали курс два часа, когда усилился ветер.",
+            "thought": "Мы имели быть поддерживающими [известный] курс целых два часа, когда [известный] ветер усилился.",
+            "english": "We had been maintaining the course for two hours when the wind rose.",
+            "transcription": "[wи: хæд би:н мэйнт**э**йниŋ ðэ ко:с фо: ту: **а**уэз wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты долго обслуживал двигатель, когда я пришёл?",
+            "thought": "Имел ты быть обслуживающим [известный] двигатель долго, когда я прибыл?",
+            "english": "Had you been maintaining the engine long when I arrived?",
+            "transcription": "[хæд ю: би:н мэйнт**э**йниŋ ðи **э**нджин лоŋ wэн ай эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been maintaining",
+        "examples": [
+          {
+            "ours": "Мы держим курс уже два часа.",
+            "thought": "Мы имеем быть поддерживающими [известный] курс целых два часа.",
+            "english": "We have been maintaining the course for two hours.",
+            "transcription": "[wи: хæв би:н мэйнт**э**йниŋ ðэ ко:с фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже час обслуживаешь двигатель?",
+            "thought": "Имеешь ты быть обслуживающим [известный] двигатель целый [какой-то] час?",
+            "english": "Have you been maintaining the engine for an hour?",
+            "transcription": "[хæв ю: би:н мэйнт**э**йниŋ ðи **э**нджин фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been maintaining",
+        "examples": [
+          {
+            "ours": "К пяти мы будем держать курс уже два часа.",
+            "thought": "К пяти мы будем иметь быть поддерживающими [известный] курс целых два часа.",
+            "english": "By five we will have been maintaining the course for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н мэйнт**э**йниŋ ðэ ко:с фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь обслуживать двигатель уже час?",
+            "thought": "Будешь ты иметь быть обслуживающим [известный] двигатель целый [какой-то] час к пяти?",
+            "english": "Will you have been maintaining the engine for an hour by five?",
+            "transcription": "[wил ю: хæв би:н мэйнт**э**йниŋ ðи **э**нджин фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were maintained",
+        "examples": [
+          {
+            "ours": "Двигатель был обслужен вчера.",
+            "thought": "[Известный] двигатель был обслужен вчера.",
+            "english": "The engine was maintained yesterday.",
+            "transcription": "[ðи **э**нджин wоз мэйнт**э**йнд й**э**стэдэй]"
+          },
+          {
+            "ours": "Насос был обслужен вчера?",
+            "thought": "Был [известный] насос обслужен вчера?",
+            "english": "Was the pump maintained yesterday?",
+            "transcription": "[wоз ðэ памп мэйнт**э**йнд й**э**стэдэй]"
+          },
+          {
+            "ours": "Курс не сохранили вчера.",
+            "thought": "[Известный] курс был не сохранён вчера.",
+            "english": "The course was not maintained yesterday.",
+            "transcription": "[ðэ ко:с wоз нот мэйнт**э**йнд й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are maintained",
+        "examples": [
+          {
+            "ours": "Курс поддерживают здесь.",
+            "thought": "[Известный] курс есть сохранён здесь.",
+            "english": "The course is maintained here.",
+            "transcription": "[ðэ ко:с из мэйнт**э**йнд хиэ]"
+          },
+          {
+            "ours": "Генератор обслуживают здесь?",
+            "thought": "Есть [известный] генератор обслужен здесь?",
+            "english": "Is the generator maintained here?",
+            "transcription": "[из ðэ дж**э**нэрэйтэ мэйнт**э**йнд хиэ]"
+          },
+          {
+            "ours": "Курс не поддерживают ночью.",
+            "thought": "[Известный] курс есть не сохранён ночью.",
+            "english": "The course is not maintained at night.",
+            "transcription": "[ðэ ко:с из нот мэйнт**э**йнд æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be maintained",
+        "examples": [
+          {
+            "ours": "Двигатель обслужат завтра.",
+            "thought": "[Известный] двигатель будет быть обслужен завтра.",
+            "english": "The engine will be maintained tomorrow.",
+            "transcription": "[ðи **э**нджин wил би: мэйнт**э**йнд тэм**о**роу]"
+          },
+          {
+            "ours": "Насос обслужат завтра?",
+            "thought": "Будет [известный] насос быть обслужен завтра?",
+            "english": "Will the pump be maintained tomorrow?",
+            "transcription": "[wил ðэ памп би: мэйнт**э**йнд тэм**о**роу]"
+          },
+          {
+            "ours": "Насос не обслужат завтра.",
+            "thought": "[Известный] насос будет не быть обслужен завтра.",
+            "english": "The pump will not be maintained tomorrow.",
+            "transcription": "[ðэ памп wил нот би: мэйнт**э**йнд тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being maintained",
+        "examples": [
+          {
+            "ours": "Двигатель обслуживали, когда ты прибыл.",
+            "thought": "[Известный] двигатель был «долго» обслужен, когда ты прибыл.",
+            "english": "The engine was being maintained when you arrived.",
+            "transcription": "[ðи **э**нджин wоз б**и**:иŋ мэйнт**э**йнд wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Насос обслуживали, когда ты прибыл?",
+            "thought": "Был [известный] насос «долго» обслужен, когда ты прибыл?",
+            "english": "Was the pump being maintained when you arrived?",
+            "transcription": "[wоз ðэ памп б**и**:иŋ мэйнт**э**йнд wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being maintained",
+        "examples": [
+          {
+            "ours": "Курс сейчас поддерживают.",
+            "thought": "[Известный] курс есть «долго» сохранён сейчас.",
+            "english": "The course is being maintained now.",
+            "transcription": "[ðэ ко:с из б**и**:иŋ мэйнт**э**йнд нау]"
+          },
+          {
+            "ours": "Генератор сейчас обслуживают?",
+            "thought": "Есть [известный] генератор «долго» обслужен сейчас?",
+            "english": "Is the generator being maintained now?",
+            "transcription": "[из ðэ дж**э**нэрэйтэ б**и**:иŋ мэйнт**э**йнд нау]"
+          },
+          {
+            "ours": "Генератор сейчас не обслуживают.",
+            "thought": "[Известный] генератор есть не «долго» обслужен сейчас.",
+            "english": "The generator is not being maintained now.",
+            "transcription": "[ðэ дж**э**нэрэйтэ из нот б**и**:иŋ мэйнт**э**йнд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be maintaining",
+        "examples": [
+          {
+            "ours": "Завтра они будут обслуживать двигатель.",
+            "thought": "Завтра они будут быть обслуживающими [известный] двигатель.",
+            "english": "Tomorrow they will be maintaining the engine.",
+            "transcription": "[тэм**о**роу ðэй wил би: мэйнт**э**йниŋ ðи **э**нджин]"
+          },
+          {
+            "ours": "Они будут обслуживать насос завтра?",
+            "thought": "Будут они быть обслуживающими [известный] насос завтра?",
+            "english": "Will they be maintaining the pump tomorrow?",
+            "transcription": "[wил ðэй би: мэйнт**э**йниŋ ðэ памп тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been maintained",
+        "examples": [
+          {
+            "ours": "К полудню двигатель обслужили.",
+            "thought": "К полудню [известный] двигатель имел быть обслужен.",
+            "english": "By noon the engine had been maintained.",
+            "transcription": "[бай ну:н ðи **э**нджин хæд би:н мэйнт**э**йнд]"
+          },
+          {
+            "ours": "Насос обслужили к полудню?",
+            "thought": "Имел [известный] насос быть обслужен к полудню?",
+            "english": "Had the pump been maintained by noon?",
+            "transcription": "[хæд ðэ памп би:н мэйнт**э**йнд бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been maintained",
+        "examples": [
+          {
+            "ours": "Курс уже сохранили.",
+            "thought": "[Известный] курс имеет уже быть сохранён.",
+            "english": "The course has already been maintained.",
+            "transcription": "[ðэ ко:с хæз о:лр**э**ди би:н мэйнт**э**йнд]"
+          },
+          {
+            "ours": "Генератор уже обслужили?",
+            "thought": "Имеет [известный] генератор быть обслужен уже?",
+            "english": "Has the generator been maintained yet?",
+            "transcription": "[хæз ðэ дж**э**нэрэйтэ би:н мэйнт**э**йнд йэт]"
+          },
+          {
+            "ours": "Насос ещё не обслужили.",
+            "thought": "[Известный] насос имеет не быть обслужен ещё.",
+            "english": "The pump has not been maintained yet.",
+            "transcription": "[ðэ памп хæз нот би:н мэйнт**э**йнд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been maintained",
+        "examples": [
+          {
+            "ours": "К пяти двигатель обслужат.",
+            "thought": "К пяти [известный] двигатель будет иметь быть обслужен.",
+            "english": "By five the engine will have been maintained.",
+            "transcription": "[бай файв ðи **э**нджин wил хæв би:н мэйнт**э**йнд]"
+          },
+          {
+            "ours": "Насос обслужат к пяти?",
+            "thought": "Будет [известный] насос иметь быть обслужен к пяти?",
+            "english": "Will the pump have been maintained by five?",
+            "transcription": "[wил ðэ памп хæв би:н мэйнт**э**йнд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него скажут: We have been maintaining the course."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что моряк обслужит насос.",
+        "thought": "Я знал [известный] моряк будет обслуживать [известный] насос.",
+        "english": "I knew the sailor would maintain the pump.",
+        "transcription": "[ай нью: ðэ с**э**йлэ wуд мэйнт**э**йн ðэ памп]"
+      },
+      {
+        "ours": "Мы думали, что экипаж не обслужит двигатель.",
+        "thought": "Мы думали [известный] экипаж будет не обслуживать [известный] двигатель.",
+        "english": "We thought the crew would not maintain the engine.",
+        "transcription": "[wи: θо:т ðэ кру: wуд нот мэйнт**э**йн ðи **э**нджин]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "насос",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "course",
+      "meaning": "курс",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "course"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "course"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "course"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "generator",
+      "meaning": "генератор",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "generator"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "generator"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "generator"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "generator"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "generator"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "races"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "night"
+        }
+      ]
+    }
+  ]
+}

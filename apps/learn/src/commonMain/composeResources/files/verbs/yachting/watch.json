@@ -1,0 +1,870 @@
+{
+  "spec": 4,
+  "verb": "watch",
+  "forms": {
+    "base": [
+      {
+        "word": "watch",
+        "transcription": "[wоч]"
+      }
+    ],
+    "past": [
+      {
+        "word": "watched",
+        "transcription": "[wочт]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "watched",
+        "transcription": "[wочт]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "watching",
+        "transcription": "[w**о**чиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "watches",
+        "transcription": "[w**о**чиз]"
+      }
+    ]
+  },
+  "meaning": "наблюдать, смотреть, следить",
+  "notes": "правильный переходный глагол; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "watched",
+        "examples": [
+          {
+            "ours": "Вчера мы наблюдали за гонкой с берега.",
+            "thought": "Вчера мы наблюдали [известную] гонку с берега.",
+            "english": "Yesterday we watched the race from shore.",
+            "transcription": "[й**э**стэдэй wи: wочт ðэ рэйс фром шо:]"
+          },
+          {
+            "ours": "Он не следил за горизонтом.",
+            "thought": "Он [сделал] не наблюдать [известный] горизонт.",
+            "english": "He didn't watch the horizon.",
+            "transcription": "[хи: диднт wоч ðэ хэр**а**йзн]"
+          },
+          {
+            "ours": "Ты наблюдал за волнами до шторма?",
+            "thought": "[Сделал] ты наблюдать [известные] волны перед [известным] штормом?",
+            "english": "Did you watch the waves before the storm?",
+            "transcription": "[дид ю: wоч ðэ wэйвз биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "watch, watches",
+        "examples": [
+          {
+            "ours": "Капитан следит за погодой каждый день.",
+            "thought": "[Известный] капитан наблюдает [известную] погоду каждый день.",
+            "english": "The captain watches the weather every day.",
+            "transcription": "[ðэ к**æ**птин w**о**чиз ðэ w**э**ðэ **э**ври дэй]"
+          },
+          {
+            "ours": "Он не следит за парусами во время гонки.",
+            "thought": "Он [делает] не наблюдать [известные] паруса во время [известной] гонки.",
+            "english": "He doesn't watch the sails during the race.",
+            "transcription": "[хи: дазнт wоч ðэ сэйлз дь**ю**эриŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Ты следишь за горизонтом с палубы?",
+            "thought": "[Делаешь] ты наблюдать [известный] горизонт с [известной] палубы?",
+            "english": "Do you watch the horizon from the deck?",
+            "transcription": "[ду: ю: wоч ðэ хэр**а**йзн фром ðэ дэк]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will watch",
+        "examples": [
+          {
+            "ours": "Завтра мы будем наблюдать за регатой.",
+            "thought": "Завтра мы будем наблюдать [известную] регату.",
+            "english": "Tomorrow we will watch the regatta.",
+            "transcription": "[тэм**о**роу wи: wил wоч ðэ риг**æ**тэ]"
+          },
+          {
+            "ours": "Он не будет наблюдать за лодками.",
+            "thought": "Он будет не наблюдать [известные] лодки.",
+            "english": "He won't watch the boats.",
+            "transcription": "[хи: wоунт wоч ðэ боутс]"
+          },
+          {
+            "ours": "Ты будешь следить за погодой до гонки?",
+            "thought": "Будешь ты наблюдать [известную] погоду перед [известной] гонкой?",
+            "english": "Will you watch the weather before the race?",
+            "transcription": "[wил ю: wоч ðэ w**э**ðэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were watching",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день следили за горизонтом.",
+            "thought": "Вчера мы были наблюдающими [известный] горизонт весь день.",
+            "english": "Yesterday we were watching the horizon all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: w**о**чиŋ ðэ хэр**а**йзн о:л дэй]"
+          },
+          {
+            "ours": "Ты следил за волнами, когда я пришёл?",
+            "thought": "Был ты наблюдающим [известные] волны когда я пришёл?",
+            "english": "Were you watching the waves when I came?",
+            "transcription": "[wœ: ю: w**о**чиŋ ðэ wэйвз wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are watching",
+        "examples": [
+          {
+            "ours": "Сейчас мы следим за погодой.",
+            "thought": "Мы являемся наблюдающими [известную] погоду сейчас.",
+            "english": "We are watching the weather now.",
+            "transcription": "[wи: а: w**о**чиŋ ðэ w**э**ðэ нау]"
+          },
+          {
+            "ours": "Ты сейчас следишь за горизонтом?",
+            "thought": "Являешься ты наблюдающим [известный] горизонт сейчас?",
+            "english": "Are you watching the horizon now?",
+            "transcription": "[а: ю: w**о**чиŋ ðэ хэр**а**йзн нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be watching",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем следить за горизонтом.",
+            "thought": "Завтра мы будем быть наблюдающими [известный] горизонт весь день.",
+            "english": "Tomorrow we will be watching the horizon all day.",
+            "transcription": "[тэм**о**роу wи: wил би: w**о**чиŋ ðэ хэр**а**йзн о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь следить за погодой во время гонки?",
+            "thought": "Будешь ты быть наблюдающим [известную] погоду во время [известной] гонки?",
+            "english": "Will you be watching the weather during the race?",
+            "transcription": "[wил ю: би: w**о**чиŋ ðэ w**э**ðэ дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had watched",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже посмотрели гонку.",
+            "thought": "К пяти вчера мы имели уже просмотренной [известную] гонку.",
+            "english": "By five yesterday we had already watched the race.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди wочт ðэ рэйс]"
+          },
+          {
+            "ours": "Ты смотрел регату до шторма?",
+            "thought": "Имел ты просмотренной [известную] регату перед [известным] штормом?",
+            "english": "Had you watched the regatta before the storm?",
+            "transcription": "[хæд ю: wочт ðэ риг**æ**тэ биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has watched",
+        "examples": [
+          {
+            "ours": "Мы уже посмотрели регату с берега.",
+            "thought": "Мы имеем уже просмотренной [известную] регату с берега.",
+            "english": "We have already watched the regatta from shore.",
+            "transcription": "[wи: хæв о:лр**э**ди wочт ðэ риг**æ**тэ фром шо:]"
+          },
+          {
+            "ours": "Ты уже посмотрел гонку?",
+            "thought": "Имеешь ты уже просмотренной [известную] гонку?",
+            "english": "Have you already watched the race?",
+            "transcription": "[хæв ю: о:лр**э**ди wочт ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have watched",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже посмотрим регату.",
+            "thought": "К пяти завтра мы будем иметь уже просмотренной [известную] регату.",
+            "english": "By five tomorrow we will have already watched the regatta.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди wочт ðэ риг**æ**тэ]"
+          },
+          {
+            "ours": "Ты посмотришь гонку до шторма?",
+            "thought": "Будешь ты иметь просмотренной [известную] гонку перед [известным] штормом?",
+            "english": "Will you have watched the race before the storm?",
+            "transcription": "[wил ю: хæв wочт ðэ рэйс биф**о**: ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been watching",
+        "examples": [
+          {
+            "ours": "Мы уже два часа следили за горизонтом, когда ты пришёл.",
+            "thought": "Мы имели быть наблюдающими [известный] горизонт целых два часа когда ты пришёл.",
+            "english": "We had been watching the horizon for two hours when you came.",
+            "transcription": "[wи: хæд би:н w**о**чиŋ ðэ хэр**а**йзн фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа следил за погодой, когда он пришёл?",
+            "thought": "Имел ты быть наблюдающим [известную] погоду целых два часа когда он пришёл?",
+            "english": "Had you been watching the weather for two hours when he came?",
+            "transcription": "[хæд ю: би:н w**о**чиŋ ðэ w**э**ðэ фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been watching",
+        "examples": [
+          {
+            "ours": "Мы уже два часа следим за горизонтом.",
+            "thought": "Мы имеем быть наблюдающими [известный] горизонт целых два часа.",
+            "english": "We have been watching the horizon for two hours.",
+            "transcription": "[wи: хæв би:н w**о**чиŋ ðэ хэр**а**йзн фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа следишь за погодой?",
+            "thought": "Имеешь ты быть наблюдающим [известную] погоду целых два часа?",
+            "english": "Have you been watching the weather for two hours?",
+            "transcription": "[хæв ю: би:н w**о**чиŋ ðэ w**э**ðэ фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been watching",
+        "examples": [
+          {
+            "ours": "К пяти мы будем следить за горизонтом уже два часа.",
+            "thought": "К пяти мы будем иметь быть наблюдающими [известный] горизонт целых два часа.",
+            "english": "By five we will have been watching the horizon for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н w**о**чиŋ ðэ хэр**а**йзн фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь следить за погодой уже два часа?",
+            "thought": "Будешь ты иметь быть наблюдающим [известную] погоду целых два часа к пяти?",
+            "english": "Will you have been watching the weather for two hours by five?",
+            "transcription": "[wил ю: хæв би:н w**о**чиŋ ðэ w**э**ðэ фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were watched",
+        "examples": [
+          {
+            "ours": "Вчера за гонкой наблюдали с берега.",
+            "thought": "[Известная] гонка была наблюдаема с берега вчера.",
+            "english": "The race was watched from shore yesterday.",
+            "transcription": "[ðэ рэйс wоз wочт фром шо: й**э**стэдэй]"
+          },
+          {
+            "ours": "За регатой наблюдали до шторма?",
+            "thought": "Была [известная] регата наблюдаема перед [известным] штормом?",
+            "english": "Was the regatta watched before the storm?",
+            "transcription": "[wоз ðэ риг**æ**тэ wочт биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are watched",
+        "examples": [
+          {
+            "ours": "На борту следят за погодой каждый день.",
+            "thought": "[Известная] погода есть наблюдаема на борту каждый день.",
+            "english": "The weather is watched on board every day.",
+            "transcription": "[ðэ w**э**ðэ из wочт он бо:д **э**ври дэй]"
+          },
+          {
+            "ours": "За горизонтом следят с палубы?",
+            "thought": "Есть [известный] горизонт наблюдаем с [известной] палубы?",
+            "english": "Is the horizon watched from the deck?",
+            "transcription": "[из ðэ хэр**а**йзн wочт фром ðэ дэк]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be watched",
+        "examples": [
+          {
+            "ours": "Завтра за регатой будут наблюдать с берега.",
+            "thought": "[Известная] регата будет быть наблюдаема с берега завтра.",
+            "english": "The regatta will be watched from shore tomorrow.",
+            "transcription": "[ðэ риг**æ**тэ wил би: wочт фром шо: тэм**о**роу]"
+          },
+          {
+            "ours": "За гонкой будут наблюдать с палубы?",
+            "thought": "Будет [известная] гонка быть наблюдаема с [известной] палубы?",
+            "english": "Will the race be watched from the deck?",
+            "transcription": "[wил ðэ рэйс би: wочт фром ðэ дэк]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being watched",
+        "examples": [
+          {
+            "ours": "Вчера весь день следили за горизонтом.",
+            "thought": "Вчера [известный] горизонт был «долго» наблюдаем весь день.",
+            "english": "Yesterday the horizon was being watched all day.",
+            "transcription": "[й**э**стэдэй ðэ хэр**а**йзн wоз б**и**:иŋ wочт о:л дэй]"
+          },
+          {
+            "ours": "За волнами следили, когда ты пришёл?",
+            "thought": "Были [известные] волны «долго» наблюдаемы когда ты пришёл?",
+            "english": "Were the waves being watched when you came?",
+            "transcription": "[wœ: ðэ wэйвз б**и**:иŋ wочт wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being watched",
+        "examples": [
+          {
+            "ours": "Сейчас следят за погодой.",
+            "thought": "[Известная] погода есть «долго» наблюдаема сейчас.",
+            "english": "The weather is being watched now.",
+            "transcription": "[ðэ w**э**ðэ из б**и**:иŋ wочт нау]"
+          },
+          {
+            "ours": "Сейчас следят за горизонтом?",
+            "thought": "Есть [известный] горизонт «долго» наблюдаем сейчас?",
+            "english": "Is the horizon being watched now?",
+            "transcription": "[из ðэ хэр**а**йзн б**и**:иŋ wочт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be watching",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут следить за горизонтом.",
+            "thought": "Завтра они будут быть наблюдающими [известный] горизонт весь день.",
+            "english": "Tomorrow they will be watching the horizon all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: w**о**чиŋ ðэ хэр**а**йзн о:л дэй]"
+          },
+          {
+            "ours": "Они будут следить за погодой во время гонки?",
+            "thought": "Будут они быть наблюдающими [известную] погоду во время [известной] гонки?",
+            "english": "Will they be watching the weather during the race?",
+            "transcription": "[wил ðэй би: w**о**чиŋ ðэ w**э**ðэ дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been watched",
+        "examples": [
+          {
+            "ours": "Вчера к пяти гонку уже посмотрели.",
+            "thought": "К пяти вчера [известная] гонка имела уже быть наблюдаема.",
+            "english": "By five yesterday the race had already been watched.",
+            "transcription": "[бай файв й**э**стэдэй ðэ рэйс хæд о:лр**э**ди би:н wочт]"
+          },
+          {
+            "ours": "Регату посмотрели до шторма?",
+            "thought": "Имела [известная] регата быть наблюдаема перед [известным] штормом?",
+            "english": "Had the regatta been watched before the storm?",
+            "transcription": "[хæд ðэ риг**æ**тэ би:н wочт биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been watched",
+        "examples": [
+          {
+            "ours": "Регату уже посмотрели с берега.",
+            "thought": "[Известная] регата имеет уже быть наблюдаема с берега.",
+            "english": "The regatta has already been watched from shore.",
+            "transcription": "[ðэ риг**æ**тэ хæз о:лр**э**ди би:н wочт фром шо:]"
+          },
+          {
+            "ours": "Гонку уже посмотрели?",
+            "thought": "Имеет [известная] гонка уже быть наблюдаема?",
+            "english": "Has the race already been watched?",
+            "transcription": "[хæз ðэ рэйс о:лр**э**ди би:н wочт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been watched",
+        "examples": [
+          {
+            "ours": "К пяти завтра регату уже посмотрят.",
+            "thought": "К пяти завтра [известная] регата будет уже иметь быть наблюдаема.",
+            "english": "By five tomorrow the regatta will already have been watched.",
+            "transcription": "[бай файв тэм**о**роу ðэ риг**æ**тэ wил о:лр**э**ди хæв би:н wочт]"
+          },
+          {
+            "ours": "Гонку посмотрят до шторма?",
+            "thought": "Будет [известная] гонка иметь быть наблюдаема перед [известным] штормом?",
+            "english": "Will the race have been watched before the storm?",
+            "transcription": "[wил ðэ рэйс хæв би:н wочт биф**о**: ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: The race has been watched. Или: They have been watching the race."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они будут следить за погодой.",
+        "thought": "[Известный] капитан сказал что они будут наблюдать [известную] погоду.",
+        "english": "The captain said that they would watch the weather.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд wоч ðэ w**э**ðэ]"
+      },
+      {
+        "ours": "Я знал, что ты не будешь смотреть регату.",
+        "thought": "Я знал что ты будешь не наблюдать [известную] регату.",
+        "english": "I knew that you wouldn't watch the regatta.",
+        "transcription": "[ай нью: ðæт ю: wуднт wоч ðэ риг**æ**тэ]"
+      },
+      {
+        "ours": "Капитан сказал, что мы будем следить за горизонтом.",
+        "thought": "[Известный] капитан сказал что мы будем наблюдать [известный] горизонт.",
+        "english": "The captain said that we would watch the horizon.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд wоч ðэ хэр**а**йзн]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "shore",
+      "meaning": "берег",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "shore"
+        }
+      ]
+    },
+    {
+      "word": "horizon",
+      "meaning": "горизонт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "horizon"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "horizon"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "horizon"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "horizon"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "horizon"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "horizon"
+        }
+      ]
+    },
+    {
+      "word": "wave",
+      "meaning": "волна",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "waves"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "waves"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "waves"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "weather"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "weather"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "weather"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sails"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "regatta"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "regatta"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "regatta"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "boats"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "board"
+        }
+      ]
+    }
+  ]
+}

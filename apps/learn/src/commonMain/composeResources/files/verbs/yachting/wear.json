@@ -1,0 +1,871 @@
+{
+  "spec": 4,
+  "verb": "wear",
+  "forms": {
+    "base": [
+      {
+        "word": "wear",
+        "transcription": "[wээ]"
+      }
+    ],
+    "past": [
+      {
+        "word": "wore",
+        "transcription": "[wо:]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "worn",
+        "transcription": "[wо:н]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "wearing",
+        "transcription": "[w**э**эриŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "wears",
+        "transcription": "[wээз]"
+      }
+    ]
+  },
+  "meaning": "носить, быть одетым в; изнашиваться",
+  "notes": "неправильный переходный и непереходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "wore",
+        "examples": [
+          {
+            "ours": "Вчера мы носили спасательные жилеты.",
+            "thought": "Вчера мы носили спасательные жилеты.",
+            "english": "Yesterday we wore life jackets.",
+            "transcription": "[й**э**стэдэй wи: wо: лайф дж**æ**китс]"
+          },
+          {
+            "ours": "Он не носил перчатки во время гонки.",
+            "thought": "Он [сделал] не носить перчатки во время [известной] гонки.",
+            "english": "He didn't wear gloves during the race.",
+            "transcription": "[хи: диднт wээ главз дь**ю**эриŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Ты был в шлеме во время шторма?",
+            "thought": "[Сделал] ты носить [какой-то] шлем во время [известного] шторма?",
+            "english": "Did you wear a helmet during the storm?",
+            "transcription": "[дид ю: wээ э х**э**лмит дь**ю**эриŋ ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "wear, wears",
+        "examples": [
+          {
+            "ours": "Морская вода изнашивает тросы.",
+            "thought": "Морская вода изнашивает вверх тросы.",
+            "english": "Seawater wears out ropes.",
+            "transcription": "[с**и**:wо:тэ wээз аут роупс]"
+          },
+          {
+            "ours": "Он не носит ботинки на палубе.",
+            "thought": "Он [делает] не носить ботинки на [известной] палубе.",
+            "english": "He doesn't wear boots on the deck.",
+            "transcription": "[хи: дазнт wээ бу:тс он ðэ дэк]"
+          },
+          {
+            "ours": "Ты носишь перчатки во время гонки?",
+            "thought": "[Делаешь] ты носить перчатки во время [известной] гонки?",
+            "english": "Do you wear gloves during the race?",
+            "transcription": "[ду: ю: wээ главз дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will wear",
+        "examples": [
+          {
+            "ours": "Завтра мы будем в спасательных жилетах.",
+            "thought": "Завтра мы будем носить спасательные жилеты.",
+            "english": "Tomorrow we will wear life jackets.",
+            "transcription": "[тэм**о**роу wи: wил wээ лайф дж**æ**китс]"
+          },
+          {
+            "ours": "Он не будет надевать шлем.",
+            "thought": "Он будет не носить [какой-то] шлем.",
+            "english": "He won't wear a helmet.",
+            "transcription": "[хи: wоунт wээ э х**э**лмит]"
+          },
+          {
+            "ours": "Ты будешь носить страховочную привязь во время гонки?",
+            "thought": "Будешь ты носить [какую-то] страховочную привязь во время [известной] гонки?",
+            "english": "Will you wear a safety harness during the race?",
+            "transcription": "[wил ю: wээ э с**э**йфти х**а**:нис дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were wearing",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день носили спасательные жилеты.",
+            "thought": "Вчера мы были носящими спасательные жилеты весь день.",
+            "english": "Yesterday we were wearing life jackets all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: w**э**эриŋ лайф дж**æ**китс о:л дэй]"
+          },
+          {
+            "ours": "Ты был в перчатках, когда я пришёл?",
+            "thought": "Был ты носящим перчатки когда я пришёл?",
+            "english": "Were you wearing gloves when I came?",
+            "transcription": "[wœ: ю: w**э**эриŋ главз wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are wearing",
+        "examples": [
+          {
+            "ours": "Сейчас мы в спасательных жилетах.",
+            "thought": "Мы являемся носящими спасательные жилеты сейчас.",
+            "english": "We are wearing life jackets now.",
+            "transcription": "[wи: а: w**э**эриŋ лайф дж**æ**китс нау]"
+          },
+          {
+            "ours": "Ты сейчас в страховочной привязи?",
+            "thought": "Являешься ты носящим [какую-то] страховочную привязь сейчас?",
+            "english": "Are you wearing a safety harness now?",
+            "transcription": "[а: ю: w**э**эриŋ э с**э**йфти х**а**:нис нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be wearing",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем носить спасательные жилеты.",
+            "thought": "Завтра мы будем быть носящими спасательные жилеты весь день.",
+            "english": "Tomorrow we will be wearing life jackets all day.",
+            "transcription": "[тэм**о**роу wи: wил би: w**э**эриŋ лайф дж**æ**китс о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь в перчатках во время гонки?",
+            "thought": "Будешь ты быть носящим перчатки во время [известной] гонки?",
+            "english": "Will you be wearing gloves during the race?",
+            "transcription": "[wил ю: би: w**э**эриŋ главз дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had worn",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже побывали в жилетах.",
+            "thought": "К пяти вчера мы имели уже ношенными спасательные жилеты.",
+            "english": "By five yesterday we had already worn life jackets.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди wо:н лайф дж**æ**китс]"
+          },
+          {
+            "ours": "Ты носил страховочную привязь до гонки?",
+            "thought": "Имел ты ношенной [какую-то] страховочную привязь перед [известной] гонкой?",
+            "english": "Had you worn a safety harness before the race?",
+            "transcription": "[хæд ю: wо:н э с**э**йфти х**а**:нис биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has worn",
+        "examples": [
+          {
+            "ours": "Мы уже носили спасательные жилеты на борту.",
+            "thought": "Мы имеем уже ношенными спасательные жилеты на борту.",
+            "english": "We have already worn life jackets on board.",
+            "transcription": "[wи: хæв о:лр**э**ди wо:н лайф дж**æ**китс он бо:д]"
+          },
+          {
+            "ours": "Ты уже носил эти перчатки?",
+            "thought": "Имеешь ты уже ношенными эти перчатки?",
+            "english": "Have you already worn these gloves?",
+            "transcription": "[хæв ю: о:лр**э**ди wо:н ðи:з главз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have worn",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже побываем в жилетах.",
+            "thought": "К пяти завтра мы будем иметь уже ношенными спасательные жилеты.",
+            "english": "By five tomorrow we will have already worn life jackets.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди wо:н лайф дж**æ**китс]"
+          },
+          {
+            "ours": "Ты наденешь страховочную привязь до гонки?",
+            "thought": "Будешь ты иметь ношенной [какую-то] страховочную привязь перед [известной] гонкой?",
+            "english": "Will you have worn a safety harness before the race?",
+            "transcription": "[wил ю: хæв wо:н э с**э**йфти х**а**:нис биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been wearing",
+        "examples": [
+          {
+            "ours": "Мы уже два часа носили жилеты, когда ты пришёл.",
+            "thought": "Мы имели быть носящими спасательные жилеты целых два часа когда ты пришёл.",
+            "english": "We had been wearing life jackets for two hours when you came.",
+            "transcription": "[wи: хæд би:н w**э**эриŋ лайф дж**æ**китс фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа был в перчатках, когда он пришёл?",
+            "thought": "Имел ты быть носящим перчатки целых два часа когда он пришёл?",
+            "english": "Had you been wearing gloves for two hours when he came?",
+            "transcription": "[хæд ю: би:н w**э**эриŋ главз фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been wearing",
+        "examples": [
+          {
+            "ours": "Мы уже два часа носим спасательные жилеты.",
+            "thought": "Мы имеем быть носящими спасательные жилеты целых два часа.",
+            "english": "We have been wearing life jackets for two hours.",
+            "transcription": "[wи: хæв би:н w**э**эриŋ лайф дж**æ**китс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа в перчатках?",
+            "thought": "Имеешь ты быть носящим перчатки целых два часа?",
+            "english": "Have you been wearing gloves for two hours?",
+            "transcription": "[хæв ю: би:н w**э**эриŋ главз фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been wearing",
+        "examples": [
+          {
+            "ours": "К пяти мы будем носить жилеты уже два часа.",
+            "thought": "К пяти мы будем иметь быть носящими спасательные жилеты целых два часа.",
+            "english": "By five we will have been wearing life jackets for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н w**э**эриŋ лайф дж**æ**китс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь носить перчатки уже два часа?",
+            "thought": "Будешь ты иметь быть носящим перчатки целых два часа к пяти?",
+            "english": "Will you have been wearing gloves for two hours by five?",
+            "transcription": "[wил ю: хæв би:н w**э**эриŋ главз фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were worn",
+        "examples": [
+          {
+            "ours": "Вчера на борту носили спасательные жилеты.",
+            "thought": "Спасательные жилеты были ношены на борту вчера.",
+            "english": "Life jackets were worn on board yesterday.",
+            "transcription": "[лайф дж**æ**китс wœ: wо:н он бо:д й**э**стэдэй]"
+          },
+          {
+            "ours": "Во время гонки носили перчатки?",
+            "thought": "Были перчатки ношены во время [известной] гонки?",
+            "english": "Were gloves worn during the race?",
+            "transcription": "[wœ: главз wо:н дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are worn",
+        "examples": [
+          {
+            "ours": "На борту носят спасательные жилеты.",
+            "thought": "Спасательные жилеты есть ношены на борту.",
+            "english": "Life jackets are worn on board.",
+            "transcription": "[лайф дж**æ**китс а: wо:н он бо:д]"
+          },
+          {
+            "ours": "Во время гонки носят перчатки?",
+            "thought": "Есть перчатки ношены во время [известной] гонки?",
+            "english": "Are gloves worn during the race?",
+            "transcription": "[а: главз wо:н дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be worn",
+        "examples": [
+          {
+            "ours": "Завтра на борту будут носить спасательные жилеты.",
+            "thought": "Спасательные жилеты будут быть ношены на борту завтра.",
+            "english": "Life jackets will be worn on board tomorrow.",
+            "transcription": "[лайф дж**æ**китс wил би: wо:н он бо:д тэм**о**роу]"
+          },
+          {
+            "ours": "Во время гонки будут носить перчатки?",
+            "thought": "Будут перчатки быть ношены во время [известной] гонки?",
+            "english": "Will gloves be worn during the race?",
+            "transcription": "[wил главз би: wо:н дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being worn",
+        "examples": [
+          {
+            "ours": "Вчера на борту весь день носили спасательные жилеты.",
+            "thought": "Вчера спасательные жилеты были «долго» ношены на борту весь день.",
+            "english": "Yesterday life jackets were being worn on board all day.",
+            "transcription": "[й**э**стэдэй лайф дж**æ**китс wœ: б**и**:иŋ wо:н он бо:д о:л дэй]"
+          },
+          {
+            "ours": "Перчатки носили, когда ты пришёл?",
+            "thought": "Были перчатки «долго» ношены когда ты пришёл?",
+            "english": "Were gloves being worn when you came?",
+            "transcription": "[wœ: главз б**и**:иŋ wо:н wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being worn",
+        "examples": [
+          {
+            "ours": "Сейчас на борту носят спасательные жилеты.",
+            "thought": "Спасательные жилеты есть «долго» ношены на борту сейчас.",
+            "english": "Life jackets are being worn on board now.",
+            "transcription": "[лайф дж**æ**китс а: б**и**:иŋ wо:н он бо:д нау]"
+          },
+          {
+            "ours": "Сейчас носят перчатки?",
+            "thought": "Есть перчатки «долго» ношены сейчас?",
+            "english": "Are gloves being worn now?",
+            "transcription": "[а: главз б**и**:иŋ wо:н нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be wearing",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут носить спасательные жилеты.",
+            "thought": "Завтра они будут быть носящими спасательные жилеты весь день.",
+            "english": "Tomorrow they will be wearing life jackets all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: w**э**эриŋ лайф дж**æ**китс о:л дэй]"
+          },
+          {
+            "ours": "Они будут в перчатках во время гонки?",
+            "thought": "Будут они быть носящими перчатки во время [известной] гонки?",
+            "english": "Will they be wearing gloves during the race?",
+            "transcription": "[wил ðэй би: w**э**эриŋ главз дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been worn",
+        "examples": [
+          {
+            "ours": "Вчера к пяти спасательные жилеты уже носили.",
+            "thought": "К пяти вчера спасательные жилеты имели уже быть ношены.",
+            "english": "By five yesterday life jackets had already been worn.",
+            "transcription": "[бай файв й**э**стэдэй лайф дж**æ**китс хæд о:лр**э**ди би:н wо:н]"
+          },
+          {
+            "ours": "Перчатки носили до гонки?",
+            "thought": "Имели перчатки быть ношены перед [известной] гонкой?",
+            "english": "Had gloves been worn before the race?",
+            "transcription": "[хæд главз би:н wо:н биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been worn",
+        "examples": [
+          {
+            "ours": "Эти перчатки уже носили на борту.",
+            "thought": "Эти перчатки имеют уже быть ношены на борту.",
+            "english": "These gloves have already been worn on board.",
+            "transcription": "[ðи:з главз хæв о:лр**э**ди би:н wо:н он бо:д]"
+          },
+          {
+            "ours": "Эти жилеты уже носили?",
+            "thought": "Имеют эти спасательные жилеты уже быть ношены?",
+            "english": "Have these life jackets already been worn?",
+            "transcription": "[хæв ðи:з лайф дж**æ**китс о:лр**э**ди би:н wо:н]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been worn",
+        "not_possible": "Завершённый пассив для самого факта ношения одежды к будущему сроку звучит неестественно. Обычно скажут: Life jackets will be worn on board."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: Life jackets have been worn. Или: They have been wearing life jackets."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они будут носить жилеты.",
+        "thought": "[Известный] капитан сказал что они будут носить спасательные жилеты.",
+        "english": "The captain said that they would wear life jackets.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд wээ лайф дж**æ**китс]"
+      },
+      {
+        "ours": "Я знал, что ты не будешь носить перчатки.",
+        "thought": "Я знал что ты будешь не носить перчатки.",
+        "english": "I knew that you wouldn't wear gloves.",
+        "transcription": "[ай нью: ðæт ю: wуднт wээ главз]"
+      },
+      {
+        "ours": "Капитан сказал, что мы будем носить привязи.",
+        "thought": "[Известный] капитан сказал что мы будем носить страховочные привязи.",
+        "english": "The captain said that we would wear safety harnesses.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд wээ с**э**йфти х**а**:нисиз]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "life jacket",
+      "meaning": "спасательный жилет",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Life jackets"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Life jackets"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Life jackets"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Life jackets"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "life jackets"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "life jackets"
+        }
+      ]
+    },
+    {
+      "word": "glove",
+      "meaning": "перчатка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "gloves"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "gloves"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "gloves"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "gloves"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "gloves"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "gloves"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "gloves"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "gloves"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "gloves"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "gloves"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "gloves"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "gloves"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "gloves"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "gloves"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "gloves"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "gloves"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "gloves"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "helmet",
+      "meaning": "шлем",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "helmet"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "helmet"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "seawater",
+      "meaning": "морская вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "Seawater"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "трос",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "ropes"
+        }
+      ]
+    },
+    {
+      "word": "boot",
+      "meaning": "ботинок",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "boots"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "safety",
+      "meaning": "безопасность",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "safety"
+        }
+      ]
+    },
+    {
+      "word": "harness",
+      "meaning": "страховочная привязь",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "harness"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "harness"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "harness"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "harness"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "harnesses"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

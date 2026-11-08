@@ -1,0 +1,360 @@
+{
+  "spec": 4,
+  "verb": "relate",
+  "forms": {
+    "base": [
+      {
+        "word": "relate",
+        "transcription": "[рил**э**йт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "related",
+        "transcription": "[рил**э**йтид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "related",
+        "transcription": "[рил**э**йтид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "relating",
+        "transcription": "[рил**э**йтиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "relates",
+        "transcription": "[рил**э**йтс]"
+      }
+    ]
+  },
+  "meaning": "относиться к чему-либо, быть связанным; рассказывать",
+  "notes": "правильный глагол; relate to — относиться к; переходное relate a story означает рассказывать историю",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "related to",
+        "examples": [
+          {
+            "ours": "Предупреждение относилось к шторму.",
+            "thought": "[Известное] предупреждение относилось к [известному] шторму.",
+            "english": "The warning related to the storm.",
+            "transcription": "[ðэ w**о**:ниŋ рил**э**йтид ту ðэ сто:м]"
+          },
+          {
+            "ours": "Сообщение касалось марины?",
+            "thought": "[Сделало] [известное] сообщение относиться к [известной] марине?",
+            "english": "Did the message relate to the marina?",
+            "transcription": "[дид ðэ м**э**сидж рил**э**йт ту ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Отчёт не касался гонки.",
+            "thought": "[Известный] отчёт [сделал] не относиться к [известной] гонке.",
+            "english": "The report did not relate to the race.",
+            "transcription": "[ðэ рип**о**:т дид нот рил**э**йт ту ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "relate to, relates to",
+        "examples": [
+          {
+            "ours": "Предупреждение касается шторма.",
+            "thought": "[Известное] предупреждение относится к [известному] шторму.",
+            "english": "The warning relates to the storm.",
+            "transcription": "[ðэ w**о**:ниŋ рил**э**йтс ту ðэ сто:м]"
+          },
+          {
+            "ours": "Сообщение касается марины?",
+            "thought": "[Делает] [известное] сообщение относиться к [известной] марине?",
+            "english": "Does the message relate to the marina?",
+            "transcription": "[даз ðэ м**э**сидж рил**э**йт ту ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Отчёт не касается гонки.",
+            "thought": "[Известный] отчёт [делает] не относиться к [известной] гонке.",
+            "english": "The report does not relate to the race.",
+            "transcription": "[ðэ рип**о**:т даз нот рил**э**йт ту ðэ рэйс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will relate to",
+        "examples": [
+          {
+            "ours": "Завтра предупреждение будет касаться шторма.",
+            "thought": "Завтра [известное] предупреждение будет относиться к [известному] шторму.",
+            "english": "Tomorrow the warning will relate to the storm.",
+            "transcription": "[тэм**о**роу ðэ w**о**:ниŋ wил рил**э**йт ту ðэ сто:м]"
+          },
+          {
+            "ours": "Сообщение будет касаться марины?",
+            "thought": "Будет [известное] сообщение относиться к [известной] марине?",
+            "english": "Will the message relate to the marina?",
+            "transcription": "[wил ðэ м**э**сидж рил**э**йт ту ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Отчёт не будет касаться гонки.",
+            "thought": "[Известный] отчёт будет не относиться к [известной] гонке.",
+            "english": "The report will not relate to the race.",
+            "transcription": "[ðэ рип**о**:т wил нот рил**э**йт ту ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Relate to в значении «относиться к теме» обозначает состояние и обычно не употребляется в длительной форме. Скажут: The report relates to the race."
+    },
+    "perfect": {
+      "past": {
+        "form": "had related to",
+        "examples": [
+          {
+            "ours": "До обновления отчёт касался шторма.",
+            "thought": "До [известного] обновления [известный] отчёт имел относившимся к [известному] шторму.",
+            "english": "Before the update the report had related to the storm.",
+            "transcription": "[биф**о**: ðи **а**пдэйт ðэ рип**о**:т хæд рил**э**йтид ту ðэ сто:м]"
+          },
+          {
+            "ours": "До собрания отчёты касались марины?",
+            "thought": "Имели [известные] отчёты относившимся к [известной] марине до [известного] собрания?",
+            "english": "Had the reports related to the marina before the meeting?",
+            "transcription": "[хæд ðэ рип**о**:тс рил**э**йтид ту ðэ мэр**и**:нэ биф**о**: ðэ м**и**:тиŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has related to",
+        "examples": [
+          {
+            "ours": "Эти отчёты всегда касались безопасности.",
+            "thought": "Эти отчёты имеют всегда относившимся к безопасности.",
+            "english": "These reports have always related to safety.",
+            "transcription": "[ðи:з рип**о**:тс хæв **о**:лwэйз рил**э**йтид ту с**э**йфти]"
+          },
+          {
+            "ours": "Эти отчёты прежде касались гонки?",
+            "thought": "Имеют эти отчёты относившимся к [известной] гонке раньше?",
+            "english": "Have these reports related to the race before?",
+            "transcription": "[хæв ðи:з рип**о**:тс рил**э**йтид ту ðэ рэйс биф**о**:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have related to",
+        "not_possible": "Будущее совершённое для отношения к теме звучит тяжеловесно; естественнее: By then the warning will relate to the storm."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Для длительности отношения к теме используют простой perfect: The report has related to the race for years."
+    }
+  },
+  "passive": {
+    "not_possible": "В выбранном значении relate to выражает отношение к чему-либо и обычно передаётся активом: The warning relates to the storm. В значении «рассказать» возможен пассив: The story was related later."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что предупреждение будет касаться шторма.",
+        "thought": "Я знал, [известное] предупреждение будет относиться к [известному] шторму.",
+        "english": "I knew the warning would relate to the storm.",
+        "transcription": "[ай нью: ðэ w**о**:ниŋ wуд рил**э**йт ту ðэ сто:м]"
+      },
+      {
+        "ours": "Она думала, что отчёт не будет касаться гонки.",
+        "thought": "Она думала, [известный] отчёт будет не относиться к [известной] гонке.",
+        "english": "She thought the report would not relate to the race.",
+        "transcription": "[ши: θо:т ðэ рип**о**:т wуд нот рил**э**йт ту ðэ рэйс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "warning",
+      "meaning": "предупреждение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "warning"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "warning"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "warning"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "warning"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "message",
+      "meaning": "сообщение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "message"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "message"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "message"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "report",
+      "meaning": "отчёт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "report"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "report"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "report"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "reports"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "reports"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "reports"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "update",
+      "meaning": "обновление",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "update"
+        }
+      ]
+    },
+    {
+      "word": "meeting",
+      "meaning": "собрание",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "meeting"
+        }
+      ]
+    },
+    {
+      "word": "safety",
+      "meaning": "безопасность",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "safety"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "spec": 4,
+  "verb": "expect",
+  "forms": {
+    "base": [
+      {
+        "word": "expect",
+        "transcription": "[иксп**э**кт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "expected",
+        "transcription": "[иксп**э**ктид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "expected",
+        "transcription": "[иксп**э**ктид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "expecting",
+        "transcription": "[иксп**э**ктиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "expects",
+        "transcription": "[иксп**э**ктс]"
+      }
+    ]
+  },
+  "meaning": "ожидать, предполагать",
+  "notes": "правильный переходный глагол; возможны длительные формы и пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "expected",
+        "examples": [
+          {
+            "ours": "Вчера мы ожидали дождь.",
+            "thought": "Вчера мы ожидали дождь.",
+            "english": "Yesterday we expected rain.",
+            "transcription": "[й**э**стэдэй wи: иксп**э**ктид рэйн]"
+          },
+          {
+            "ours": "Ты ожидал туман вчера?",
+            "thought": "[Сделал] ты ожидать туман вчера?",
+            "english": "Did you expect fog yesterday?",
+            "transcription": "[дид ю: иксп**э**кт фог й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "expect, expects",
+        "examples": [
+          {
+            "ours": "Мы ожидаем сильные ветры.",
+            "thought": "Мы ожидаем сильные ветры.",
+            "english": "We expect strong winds.",
+            "transcription": "[wи: иксп**э**кт строŋ wиндз]"
+          },
+          {
+            "ours": "Ты ожидаешь задержки?",
+            "thought": "[Делаешь] ты ожидать задержки?",
+            "english": "Do you expect delays?",
+            "transcription": "[ду: ю: иксп**э**кт дил**э**йз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will expect",
+        "examples": [
+          {
+            "ours": "Завтра мы будем ждать прогноз.",
+            "thought": "Завтра мы будем ожидать [какой-то] прогноз.",
+            "english": "Tomorrow we will expect a forecast.",
+            "transcription": "[тэм**о**роу wи: wил иксп**э**кт э ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Ты будешь ждать прогноз завтра?",
+            "thought": "Будешь ты ожидать [какой-то] прогноз завтра?",
+            "english": "Will you expect a forecast tomorrow?",
+            "transcription": "[wил ю: иксп**э**кт э ф**о**:ка:ст тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were expecting",
+        "examples": [
+          {
+            "ours": "Вчера мы ожидали дождь.",
+            "thought": "Вчера мы были ожидающими дождь.",
+            "english": "Yesterday we were expecting rain.",
+            "transcription": "[й**э**стэдэй wи: wœ: иксп**э**ктиŋ рэйн]"
+          },
+          {
+            "ours": "Ты ожидал туман вчера?",
+            "thought": "Был ты ожидающим туман вчера?",
+            "english": "Were you expecting fog yesterday?",
+            "transcription": "[wœ: ю: иксп**э**ктиŋ фог й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are expecting",
+        "examples": [
+          {
+            "ours": "Мы сейчас ожидаем сильные ветры.",
+            "thought": "Мы являемся ожидающими сильные ветры сейчас.",
+            "english": "We are expecting strong winds now.",
+            "transcription": "[wи: а: иксп**э**ктиŋ строŋ wиндз нау]"
+          },
+          {
+            "ours": "Ты сейчас ожидаешь задержки?",
+            "thought": "Являешься ты ожидающим задержки сейчас?",
+            "english": "Are you expecting delays now?",
+            "transcription": "[а: ю: иксп**э**ктиŋ дил**э**йз нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be expecting",
+        "examples": [
+          {
+            "ours": "Завтра мы будем ожидать бурное море.",
+            "thought": "Завтра мы будем быть ожидающими бурное море.",
+            "english": "Tomorrow we will be expecting rough seas.",
+            "transcription": "[тэм**о**роу wи: wил би: иксп**э**ктиŋ раф си:з]"
+          },
+          {
+            "ours": "Ты завтра будешь ожидать штормы?",
+            "thought": "Будешь ты быть ожидающим штормы завтра?",
+            "english": "Will you be expecting storms tomorrow?",
+            "transcription": "[wил ю: би: иксп**э**ктиŋ сто:мз тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had expected",
+        "examples": [
+          {
+            "ours": "Мы ожидали дождь до отправления.",
+            "thought": "Мы имели ожидаемым дождь перед отправлением.",
+            "english": "We had expected rain before departure.",
+            "transcription": "[wи: хæд иксп**э**ктид рэйн биф**о**: дип**а**:чэ]"
+          },
+          {
+            "ours": "Ты ожидал туман до отправления?",
+            "thought": "Имел ты ожидаемым туман перед отправлением?",
+            "english": "Had you expected fog before departure?",
+            "transcription": "[хæд ю: иксп**э**ктид фог биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has expected",
+        "examples": [
+          {
+            "ours": "Мы ожидаем сильные ветры с понедельника.",
+            "thought": "Мы имеем ожидаемым сильные ветры с понедельника.",
+            "english": "We have expected strong winds since Monday.",
+            "transcription": "[wи: хæв иксп**э**ктид строŋ wиндз синс м**а**ндэй]"
+          },
+          {
+            "ours": "Ты ожидаешь задержки с понедельника?",
+            "thought": "Имеешь ты ожидаемым задержки с понедельника?",
+            "english": "Have you expected delays since Monday?",
+            "transcription": "[хæв ю: иксп**э**ктид дил**э**йз синс м**а**ндэй]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have expected",
+        "not_possible": "В прогнозе будущего срока обычно не подводят итог длительности ожидания этой формой. Для продолжающегося ожидания скажут: By Friday we will have been expecting a forecast for a week."
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been expecting",
+        "examples": [
+          {
+            "ours": "До отправления мы ожидали дождь два часа.",
+            "thought": "Мы имели быть ожидающими дождь целых два часа перед отправлением.",
+            "english": "We had been expecting rain for two hours before departure.",
+            "transcription": "[wи: хæд би:н иксп**э**ктиŋ рэйн фо: ту: **а**уэз биф**о**: дип**а**:чэ]"
+          },
+          {
+            "ours": "До отправления ты ожидал туман час?",
+            "thought": "Имел ты быть ожидающим туман целый [какой-то] час перед отправлением?",
+            "english": "Had you been expecting fog for an hour before departure?",
+            "transcription": "[хæд ю: би:н иксп**э**ктиŋ фог фо: эн **а**уэ биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been expecting",
+        "examples": [
+          {
+            "ours": "Мы ожидаем сильные ветры уже два часа.",
+            "thought": "Мы имеем быть ожидающими сильные ветры целых два часа.",
+            "english": "We have been expecting strong winds for two hours.",
+            "transcription": "[wи: хæв би:н иксп**э**ктиŋ строŋ wиндз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты ожидаешь задержки уже час?",
+            "thought": "Имеешь ты быть ожидающим задержки целый [какой-то] час?",
+            "english": "Have you been expecting delays for an hour?",
+            "transcription": "[хæв ю: би:н иксп**э**ктиŋ дил**э**йз фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been expecting",
+        "examples": [
+          {
+            "ours": "К пяти мы будем ожидать бурное море уже два часа.",
+            "thought": "К пяти мы будем иметь быть ожидающими бурное море целых два часа.",
+            "english": "By five we will have been expecting rough seas for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н иксп**э**ктиŋ раф си:з фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь ожидать штормы уже час?",
+            "thought": "Будешь ты иметь быть ожидающим штормы целый [какой-то] час к пяти?",
+            "english": "Will you have been expecting storms for an hour by five?",
+            "transcription": "[wил ю: хæв би:н иксп**э**ктиŋ сто:мз фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were expected",
+        "examples": [
+          {
+            "ours": "Вчера ожидали дождь.",
+            "thought": "Дождь был ожидаем вчера.",
+            "english": "Rain was expected yesterday.",
+            "transcription": "[рэйн wоз иксп**э**ктид й**э**стэдэй]"
+          },
+          {
+            "ours": "Вчера ожидали туман?",
+            "thought": "Был туман ожидаем вчера?",
+            "english": "Was fog expected yesterday?",
+            "transcription": "[wоз фог иксп**э**ктид й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are expected",
+        "examples": [
+          {
+            "ours": "Сейчас ожидается сильные ветры.",
+            "thought": "Сильные ветры есть ожидаемы сейчас.",
+            "english": "Strong winds are expected now.",
+            "transcription": "[строŋ wиндз а: иксп**э**ктид нау]"
+          },
+          {
+            "ours": "Сейчас ожидается задержки?",
+            "thought": "Есть задержки ожидаемы сейчас?",
+            "english": "Are delays expected now?",
+            "transcription": "[а: дил**э**йз иксп**э**ктид нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be expected",
+        "examples": [
+          {
+            "ours": "Завтра ожидается бурное море.",
+            "thought": "Бурное море будет быть ожидаемо завтра.",
+            "english": "Rough seas will be expected tomorrow.",
+            "transcription": "[раф си:з wил би: иксп**э**ктид тэм**о**роу]"
+          },
+          {
+            "ours": "Завтра ожидается штормы?",
+            "thought": "Будет штормы быть ожидаемы завтра?",
+            "english": "Will storms be expected tomorrow?",
+            "transcription": "[wил сто:мз би: иксп**э**ктид тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Для прогноза естественнее состояние: Rain is expected. Будущий процесс выражают активом: They will be expecting rain."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been expected",
+        "examples": [
+          {
+            "ours": "До отправления ожидали дождь.",
+            "thought": "Дождь имел быть ожидаем перед отправлением.",
+            "english": "Rain had been expected before departure.",
+            "transcription": "[рэйн хæд би:н иксп**э**ктид биф**о**: дип**а**:чэ]"
+          },
+          {
+            "ours": "До отправления ожидали туман?",
+            "thought": "Имел туман быть ожидаем перед отправлением?",
+            "english": "Had fog been expected before departure?",
+            "transcription": "[хæд фог би:н иксп**э**ктид биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been expected",
+        "examples": [
+          {
+            "ours": "С понедельника ожидали сильные ветры.",
+            "thought": "Сильные ветры имеют быть ожидаемы с понедельника.",
+            "english": "Strong winds have been expected since Monday.",
+            "transcription": "[строŋ wиндз хæв би:н иксп**э**ктид синс м**а**ндэй]"
+          },
+          {
+            "ours": "С понедельника ожидали задержки?",
+            "thought": "Имеют задержки быть ожидаемы с понедельника?",
+            "english": "Have delays been expected since Monday?",
+            "transcription": "[хæв дил**э**йз би:н иксп**э**ктид синс м**а**ндэй]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been expected",
+        "not_possible": "Пассивный future perfect с ожиданием прогноза звучит тяжеловесно. Вместо этого скажут: A forecast is expected by Friday."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: They have been expecting rain."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она будет ожидать дождя.",
+        "thought": "Я знал она будет ожидать дождь.",
+        "english": "I knew she would expect rain.",
+        "transcription": "[ай нью: ши: wуд иксп**э**кт рэйн]"
+      },
+      {
+        "ours": "Мы думали, что он не будет ожидать тумана.",
+        "thought": "Мы думали он будет не ожидать туман.",
+        "english": "We thought he would not expect fog.",
+        "transcription": "[wи: θо:т хи: wуд нот иксп**э**кт фог]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "rain"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "rain"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Rain"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "Rain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "fog",
+      "meaning": "туман",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "fog"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "fog"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "winds"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "winds"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "winds"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "winds"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "winds"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "winds"
+        }
+      ]
+    },
+    {
+      "word": "delay",
+      "meaning": "задержка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "delays"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "delays"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "delays"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "delays"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "seas"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "seas"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "seas"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "storms"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "storms"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "storms"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отправление",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "Monday",
+      "meaning": "понедельник",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "Monday"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "Monday"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "Monday"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "Monday"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "forecast"
+        }
+      ]
+    }
+  ]
+}

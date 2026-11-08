@@ -1,0 +1,680 @@
+{
+  "spec": 4,
+  "verb": "consider",
+  "forms": {
+    "base": [{"word": "consider", "transcription": "[кэнс**и**дэ]"}],
+    "past": [{"word": "considered", "transcription": "[кэнс**и**дэд]"}],
+    "participle": [{"word": "considered", "transcription": "[кэнс**и**дэд]"}],
+    "ing": [{"word": "considering", "transcription": "[кэнс**и**дэриŋ]"}],
+    "s": [{"word": "considers", "transcription": "[кэнс**и**дэз]"}]
+  },
+  "meaning": "рассматривать, обдумывать, учитывать, считать (consider this wind too strong — считать этот ветер слишком сильным)",
+  "notes": "правильный переходный глагол; после consider идёт существительное или герундий: consider replacing the rigging — подумать о замене такелажа; consider + объект + прилагательное — считать; в пассиве is considered — считается: this strait is considered dangerous; есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "considered",
+        "examples": [
+          {
+            "ours": "Перед гонкой мы внимательно изучили прогноз ветра.",
+            "thought": "Перед [известной] гонкой мы тщательно рассмотрели [известный] ветровой прогноз.",
+            "english": "Before the race we carefully considered the wind forecast.",
+            "transcription": "[биф**о**: ðэ рэйс wи: к**э**эфэли кэнс**и**дэд ðэ wинд ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Дядя не учёл прилив и сел на мель.",
+            "thought": "Мой дядя [сделал] не рассматривать [известный] прилив и сел на мель.",
+            "english": "My uncle didn't consider the tide and ran aground.",
+            "transcription": "[май **а**нкл диднт кэнс**и**дэ ðэ тайд æнд рæн эгр**а**унд]"
+          },
+          {
+            "ours": "Ты учёл движение паромов в фарватере?",
+            "thought": "[Сделал] ты рассматривать [известное] паромное движение в [известном] фарватере?",
+            "english": "Did you consider the ferry traffic in the channel?",
+            "transcription": "[дид ю: кэнс**и**дэ ðэ ф**э**ри тр**æ**фик ин ðэ ч**æ**нл]"
+          }
+        ]
+      },
+      "present": {
+        "form": "consider, considers",
+        "examples": [
+          {
+            "ours": "Старые моряки считают эту бухточку самой безопасной на побережье.",
+            "thought": "Старые моряки считают эту бухточку [известной] самой безопасной на [известном] побережье.",
+            "english": "Old sailors consider this cove the safest on the coast.",
+            "transcription": "[оулд с**э**йлэз кэнс**и**дэ ðис коув ðэ с**э**йфист он ðэ коуст]"
+          },
+          {
+            "ours": "Он не учитывает погоду, когда планирует поход.",
+            "thought": "Он [делает] не рассматривать [известную] погоду, когда он планирует [какую-то] поездку.",
+            "english": "He doesn't consider the weather when he plans a trip.",
+            "transcription": "[хи: дазнт кэнс**и**дэ ðэ w**э**ðэ wэн хи: плæнз э трип]"
+          },
+          {
+            "ours": "По-твоему, этот ветер слишком сильный для спинакера?",
+            "thought": "[Делаешь] ты считать этот ветер слишком сильным для [известного] спинакера?",
+            "english": "Do you consider this wind too strong for the spinnaker?",
+            "transcription": "[ду: ю: кэнс**и**дэ ðис wинд ту: строŋ фо: ðэ сп**и**нэкэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will consider",
+        "examples": [
+          {
+            "ours": "Завтра клуб рассмотрит твою заявку на членство.",
+            "thought": "Завтра [известный] клуб будет рассматривать твою заявку для членства.",
+            "english": "Tomorrow the club will consider your application for membership.",
+            "transcription": "[тэм**о**роу ðэ клаб wил кэнс**и**дэ йо: æплик**э**йшн фо: м**э**мбэшип]"
+          },
+          {
+            "ours": "Лодку без нормальной экспертизы я даже рассматривать не буду.",
+            "thought": "Я буду не рассматривать [какую-то] лодку без [какой-то] надлежащей экспертизы.",
+            "english": "I won't consider a boat without a proper survey.",
+            "transcription": "[ай wоунт кэнс**и**дэ э боут wиð**а**ут э пр**о**пэ с**œ**:вэй]"
+          },
+          {
+            "ours": "Ты подумаешь о замене старого такелажа?",
+            "thought": "Будешь ты рассматривать замену [известного] старого такелажа?",
+            "english": "Will you consider replacing the old rigging?",
+            "transcription": "[wил ю: кэнс**и**дэ рипл**э**йсиŋ ðи оулд р**и**гиŋ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were considering",
+        "examples": [
+          {
+            "ours": "Мы подумывали о ночном выходе, когда начал падать барометр.",
+            "thought": "Мы были рассматривающими [какой-то] ночной выход, когда [известный] барометр начал падать.",
+            "english": "We were considering a night departure when the barometer started falling.",
+            "transcription": "[wи: wœ: кэнс**и**дэриŋ э найт дип**а**:чэ wэн ðэ бэр**о**митэ ст**а**:тид ф**о**:лиŋ]"
+          },
+          {
+            "ours": "Тогда она ещё не думала о карьере в море.",
+            "thought": "Она была не рассматривающей [какую-то] карьеру в море тогда.",
+            "english": "She wasn't considering a career at sea then.",
+            "transcription": "[ши: wознт кэнс**и**дэриŋ э кэр**и**э æт си: ðэн]"
+          },
+          {
+            "ours": "Ты всерьёз собирался купить лодку без мотора?",
+            "thought": "Был ты серьёзно рассматривающим покупку [какой-то] лодки без [какого-то] двигателя?",
+            "english": "Were you seriously considering buying a boat without an engine?",
+            "transcription": "[wœ: ю: с**и**эриэсли кэнс**и**дэриŋ б**а**йиŋ э боут wиð**а**ут эн **э**нджин]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are considering",
+        "examples": [
+          {
+            "ours": "В этом году марина подумывает поднять плату для гостей.",
+            "thought": "[Известная] марина является рассматривающей более высокие сборы для посетителей этот год.",
+            "english": "The marina is considering higher fees for visitors this year.",
+            "transcription": "[ðэ мэр**и**:нэ из кэнс**и**дэриŋ х**а**йэ фи:з фо: в**и**зитэз ðис йиэ]"
+          },
+          {
+            "ours": "Катер мы не рассматриваем, только парусные яхты.",
+            "thought": "Мы являемся не рассматривающими [какой-то] катер, только парусные яхты.",
+            "english": "We aren't considering a motorboat, only sailing yachts.",
+            "transcription": "[wи: а:нт кэнс**и**дэриŋ э м**о**утэбоут **о**унли с**э**йлиŋ йотс]"
+          },
+          {
+            "ours": "Думаешь взять второй риф до темноты?",
+            "thought": "Являешься ты рассматривающим [какой-то] второй риф перед темнотой?",
+            "english": "Are you considering a second reef before dark?",
+            "transcription": "[а: ю: кэнс**и**дэриŋ э с**э**кэнд ри:ф биф**о**: да:к]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be considering",
+        "examples": [
+          {
+            "ours": "Завтра с девяти до часу жюри будет разбирать протесты.",
+            "thought": "Завтра с девяти до одного [известное] жюри будет быть рассматривающим протесты.",
+            "english": "Tomorrow from nine to one the jury will be considering protests.",
+            "transcription": "[тэм**о**роу фром найн ту wан ðэ дж**у**эри wил би: кэнс**и**дэриŋ пр**о**утэстс]"
+          },
+          {
+            "ours": "До весны мы не будем рассматривать предложения по лодке.",
+            "thought": "Мы будем не быть рассматривающими какие-либо предложения для [известной] лодки до весны.",
+            "english": "We won't be considering any offers for the boat until spring.",
+            "transcription": "[wи: wоунт би: кэнс**и**дэриŋ **э**ни **о**фэз фо: ðэ боут энт**и**л сприŋ]"
+          },
+          {
+            "ours": "Комитет на этой неделе будет обсуждать новые гандикапы?",
+            "thought": "Будет [известный] комитет быть рассматривающим [известные] новые гандикапы эту неделю?",
+            "english": "Will the committee be considering the new handicaps this week?",
+            "transcription": "[wил ðэ кэм**и**ти би: кэнс**и**дэриŋ ðэ нью: х**æ**ндикæпс ðис wи:к]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had considered",
+        "examples": [
+          {
+            "ours": "К рассвету штурман уже перебрал все порты на карте.",
+            "thought": "К рассвету [известный] штурман имел уже рассмотренным каждый порт на [известной] карте.",
+            "english": "By dawn the navigator had already considered every port on the chart.",
+            "transcription": "[бай до:н ðэ н**æ**вигэйтэ хæд о:лр**э**ди кэнс**и**дэд **э**ври по:т он ðэ ча:т]"
+          },
+          {
+            "ours": "Мы не учли течение и промахнулись мимо знака.",
+            "thought": "Мы имели не рассмотренным [известное] течение, так что мы упустили [известный] знак.",
+            "english": "We hadn't considered the current, so we missed the mark.",
+            "transcription": "[wи: хæднт кэнс**и**дэд ðэ к**а**рэнт соу wи: мист ðэ ма:к]"
+          },
+          {
+            "ours": "Ты учёл высоту моста перед переходом?",
+            "thought": "Имел ты рассмотренной [известную] высоту от [известного] моста перед [известным] переходом?",
+            "english": "Had you considered the height of the bridge before the passage?",
+            "transcription": "[хæд ю: кэнс**и**дэд ðэ хайт ов ðэ бридж биф**о**: ðэ п**æ**сидж]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has considered",
+        "examples": [
+          {
+            "ours": "Я обдумал твой совет насчёт якорной цепи.",
+            "thought": "Я имею рассмотренным твой совет о [известной] якорной цепи.",
+            "english": "I have considered your advice about the anchor chain.",
+            "transcription": "[ай хæв кэнс**и**дэд йо: эдв**а**йс эб**а**ут ðи **æ**нкэ чэйн]"
+          },
+          {
+            "ours": "Ты не учёл вес дополнительных баков с водой.",
+            "thought": "Ты имеешь не рассмотренным [известный] вес от [известных] дополнительных водяных баков.",
+            "english": "You haven't considered the weight of the extra water tanks.",
+            "transcription": "[ю: хæвнт кэнс**и**дэд ðэ wэйт ов ðи **э**кстрэ w**о**:тэ тæнкс]"
+          },
+          {
+            "ours": "Ты когда-нибудь думал об одиночном переходе?",
+            "thought": "Имеешь ты когда-либо рассмотренным [какой-то] одиночный переход?",
+            "english": "Have you ever considered a solo crossing?",
+            "transcription": "[хæв ю: **э**вэ кэнс**и**дэд э с**о**улоу кр**о**сиŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have considered",
+        "examples": [
+          {
+            "ours": "К пятнице страховая компания рассмотрит нашу претензию.",
+            "thought": "К пятнице [известная] страховая компания будет иметь рассмотренной нашу претензию.",
+            "english": "By Friday the insurance company will have considered our claim.",
+            "transcription": "[бай фр**а**йдэй ðи инш**у**эрэнс к**а**мпэни wил хæв кэнс**и**дэд ауэ клэйм]"
+          },
+          {
+            "ours": "К субботе офис марины ещё не рассмотрит нашу просьбу.",
+            "thought": "[Известный] марины офис будет не иметь рассмотренной нашу просьбу к субботе.",
+            "english": "The marina office won't have considered our request by Saturday.",
+            "transcription": "[ðэ мэр**и**:нэ **о**фис wоунт хæв кэнс**и**дэд ауэ рикw**э**ст бай с**æ**тэдэй]"
+          },
+          {
+            "ours": "Ты обдумаешь все варианты к вечернему брифингу?",
+            "thought": "Будешь ты иметь рассмотренными все [известные] варианты к [известному] вечернему инструктажу?",
+            "english": "Will you have considered all the options by the evening briefing?",
+            "transcription": "[wил ю: хæв кэнс**и**дэд о:л ðи **о**пшнз бай ðи **и**:вниŋ бр**и**:фиŋ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been considering",
+        "examples": [
+          {
+            "ours": "Мы уже год подумывали о новой мачте, когда ударил шторм.",
+            "thought": "Мы имели быть рассматривающими [какую-то] новую мачту целый [какой-то] год, когда [известный] шторм ударил.",
+            "english": "We had been considering a new mast for a year when the storm hit.",
+            "transcription": "[wи: хæд би:н кэнс**и**дэриŋ э нью: ма:ст фо: э йиэ wэн ðэ сто:м хит]"
+          },
+          {
+            "ours": "Он давно подумывал о продаже лодки?",
+            "thought": "Имел он быть рассматривающим [известную] продажу от [известной] лодки целое долго?",
+            "english": "Had he been considering the sale of the boat for long?",
+            "transcription": "[хæд хи: би:н кэнс**и**дэриŋ ðэ сэйл ов ðэ боут фо: лоŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been considering",
+        "examples": [
+          {
+            "ours": "Клуб уже три года обсуждает новый слип.",
+            "thought": "[Известный] клуб имеет быть рассматривающим [какой-то] новый слип целых три года.",
+            "english": "The club has been considering a new slipway for three years.",
+            "transcription": "[ðэ клаб хæз би:н кэнс**и**дэриŋ э нью: сл**и**пwэй фо: θри: йиэз]"
+          },
+          {
+            "ours": "Ты давно присматриваешься к лодке побольше?",
+            "thought": "Имеешь ты быть рассматривающим [какую-то] более большую лодку целое долго?",
+            "english": "Have you been considering a bigger boat for long?",
+            "transcription": "[хæв ю: би:н кэнс**и**дэриŋ э б**и**гэ боут фо: лоŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been considering",
+        "examples": [
+          {
+            "ours": "К осени совет будет обсуждать новый волнорез уже два года.",
+            "thought": "К осени [известный] совет будет иметь быть рассматривающим [известный] новый волнорез целых два года.",
+            "english": "By autumn the council will have been considering the new breakwater for two years.",
+            "transcription": "[бай **о**:тэм ðэ к**а**унсл wил хæв би:н кэнс**и**дэриŋ ðэ нью: бр**э**йкwо:тэ фо: ту: йиэз]"
+          },
+          {
+            "ours": "К полуночи жюри будет разбирать протест уже три часа?",
+            "thought": "Будет [известное] жюри иметь быть рассматривающим [известный] протест целых три часа к полуночи?",
+            "english": "Will the jury have been considering the protest for three hours by midnight?",
+            "transcription": "[wил ðэ дж**у**эри хæв би:н кэнс**и**дэриŋ ðэ пр**о**утэст фо: θри: **а**уэз бай м**и**днайт]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were considered",
+        "examples": [
+          {
+            "ours": "В прошлом году под новую марину рассматривали несколько мест.",
+            "thought": "Прошлый год несколько мест были рассмотрены для [известной] новой марины.",
+            "english": "Last year several sites were considered for the new marina.",
+            "transcription": "[ла:ст йиэ с**э**врэл сайтс wœ: кэнс**и**дэд фо: ðэ нью: мэр**и**:нэ]"
+          },
+          {
+            "ours": "Когда вставали на якорь, про зыбь не подумали.",
+            "thought": "[Известная] зыбь была не рассмотрена, когда мы встали на якорь.",
+            "english": "The swell wasn't considered when we anchored.",
+            "transcription": "[ðэ сwэл wознт кэнс**и**дэд wэн wи: **æ**нкэд]"
+          },
+          {
+            "ours": "После осмотра лодку признали мореходной?",
+            "thought": "Была [известная] лодка сочтена мореходной после [известного] осмотра?",
+            "english": "Was the boat considered seaworthy after the inspection?",
+            "transcription": "[wоз ðэ боут кэнс**и**дэд с**и**:wœ:ðи **а**:фтэ ðи инсп**э**кшн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are considered",
+        "examples": [
+          {
+            "ours": "В плохую погоду этот пролив считается опасным.",
+            "thought": "В плохой погоде этот пролив есть сочтён опасным.",
+            "english": "In bad weather this strait is considered dangerous.",
+            "transcription": "[ин бæд w**э**ðэ ðис стрэйт из кэнс**и**дэд д**э**йнджэрэс]"
+          },
+          {
+            "ours": "Пятнадцать узлов здесь сильным ветром не считается.",
+            "thought": "Пятнадцать узлов есть не сочтено [каким-то] сильным ветром здесь.",
+            "english": "Fifteen knots isn't considered a strong wind here.",
+            "transcription": "[фифт**и**:н нотс изнт кэнс**и**дэд э строŋ wинд хиэ]"
+          },
+          {
+            "ours": "Владелец считается членом экипажа?",
+            "thought": "Есть [известный] владелец сочтён частью от [известного] экипажа?",
+            "english": "Is the owner considered part of the crew?",
+            "transcription": "[из ðи **о**унэ кэнс**и**дэд па:т ов ðэ кру:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be considered",
+        "examples": [
+          {
+            "ours": "Поздние заявки рассмотрят в понедельник.",
+            "thought": "Поздние заявки будут быть рассмотрены в понедельник.",
+            "english": "Late entries will be considered on Monday.",
+            "transcription": "[лэйт **э**нтриз wил би: кэнс**и**дэд он м**а**ндэй]"
+          },
+          {
+            "ours": "Протесты без красного флага рассматривать не будут.",
+            "thought": "Протесты без [какого-то] красного флага будут не быть рассмотрены.",
+            "english": "Protests without a red flag won't be considered.",
+            "transcription": "[пр**о**утэстс wиð**а**ут э рэд флæг wоунт би: кэнс**и**дэд]"
+          },
+          {
+            "ours": "Мой парусный опыт учтут?",
+            "thought": "Будет мой парусный опыт быть рассмотрен?",
+            "english": "Will my sailing experience be considered?",
+            "transcription": "[wил май с**э**йлиŋ иксп**и**эриэнс би: кэнс**и**дэд]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being considered",
+        "examples": [
+          {
+            "ours": "Пока обсуждали ремонт, лодка стояла на берегу.",
+            "thought": "Пока [известные] ремонты были «долго» рассмотрены, [известная] лодка оставалась на берегу.",
+            "english": "While the repairs were being considered, the boat stayed ashore.",
+            "transcription": "[wайл ðэ рип**э**эз wœ: б**и**:иŋ кэнс**и**дэд ðэ боут стэйд эш**о**:]"
+          },
+          {
+            "ours": "Когда вернулся ветер, уже думали о буксировке в порт?",
+            "thought": "Была [какая-то] буксировка в порт «долго» рассмотрена, когда [известный] ветер вернулся?",
+            "english": "Was a tow into port being considered when the wind returned?",
+            "transcription": "[wоз э тоу **и**нту по:т б**и**:иŋ кэнс**и**дэд wэн ðэ wинд рит**œ**:нд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being considered",
+        "examples": [
+          {
+            "ours": "Сейчас обсуждают новые правила безопасности для ночных гонок.",
+            "thought": "Новые безопасности правила для ночных гонок есть «долго» рассмотрены сейчас.",
+            "english": "New safety rules for night races are being considered now.",
+            "transcription": "[нью: с**э**йфти ру:лз фо: найт р**э**йсиз а: б**и**:иŋ кэнс**и**дэд нау]"
+          },
+          {
+            "ours": "Лодки поменьше на эту гонку не рассматривают.",
+            "thought": "Более маленькие лодки есть не «долго» рассмотрены для этой гонки.",
+            "english": "Smaller boats aren't being considered for this race.",
+            "transcription": "[см**о**:лэ боутс а:нт б**и**:иŋ кэнс**и**дэд фо: ðис рэйс]"
+          },
+          {
+            "ours": "Для бухты обсуждают ограничение скорости?",
+            "thought": "Есть [какое-то] скорости ограничение «долго» рассмотрено для [известной] бухты?",
+            "english": "Is a speed limit being considered for the bay?",
+            "transcription": "[из э спи:д л**и**мит б**и**:иŋ кэнс**и**дэд фо: ðэ бэй]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be considering",
+        "examples": [
+          {
+            "ours": "Завтра весь день будут рассматривать заявки на старую клубную лодку.",
+            "thought": "Завтра они будут быть рассматривающими заявки для [известной] старой клубной лодки весь день.",
+            "english": "Tomorrow they will be considering bids for the old club boat all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: кэнс**и**дэриŋ бидз фо: ðи оулд клаб боут о:л дэй]"
+          },
+          {
+            "ours": "На собрании будут разбирать нашу жалобу на шум?",
+            "thought": "Будут они быть рассматривающими нашу жалобу о [известном] шуме на [известном] собрании?",
+            "english": "Will they be considering our complaint about the noise at the meeting?",
+            "transcription": "[wил ðэй би: кэнс**и**дэриŋ ауэ кэмпл**э**йнт эб**а**ут ðэ нойз æт ðэ м**и**:тиŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been considered",
+        "examples": [
+          {
+            "ours": "К вечеру предложения экипажа уже рассмотрели.",
+            "thought": "К вечеру [известного] экипажа предложения имели уже быть рассмотрены.",
+            "english": "By evening the crew's suggestions had already been considered.",
+            "transcription": "[бай **и**:вниŋ ðэ кру:з сэдж**э**счэнз хæд о:лр**э**ди би:н кэнс**и**дэд]"
+          },
+          {
+            "ours": "Про риск тумана до старта никто не подумал.",
+            "thought": "[Известный] риск от тумана имел не быть рассмотрен перед [известным] стартом.",
+            "english": "The risk of fog hadn't been considered before the start.",
+            "transcription": "[ðэ риск ов фог хæднт би:н кэнс**и**дэд биф**о**: ðэ ста:т]"
+          },
+          {
+            "ours": "Мнение шкипера учли до голосования?",
+            "thought": "Имело [известного] шкипера мнение быть рассмотрено перед [известным] голосованием?",
+            "english": "Had the skipper's opinion been considered before the vote?",
+            "transcription": "[хæд ðэ ск**и**пэз эп**и**ньэн би:н кэнс**и**дэд биф**о**: ðэ воут]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been considered",
+        "examples": [
+          {
+            "ours": "Твоё предложение уже рассмотрел совет клуба.",
+            "thought": "Твоё предложение имеет уже быть рассмотрено от [известного] клубного совета.",
+            "english": "Your proposal has already been considered by the club board.",
+            "transcription": "[йо: прэп**о**узл хæз о:лр**э**ди би:н кэнс**и**дэд бай ðэ клаб бо:д]"
+          },
+          {
+            "ours": "Стоимость новых лебёдок ещё не учли.",
+            "thought": "[Известная] стоимость от [известных] новых лебёдок имеет не быть рассмотрена ещё.",
+            "english": "The cost of the new winches hasn't been considered yet.",
+            "transcription": "[ðэ кост ов ðэ нью: w**и**нчиз хæзнт би:н кэнс**и**дэд йэт]"
+          },
+          {
+            "ours": "Глубину на входе учли?",
+            "thought": "Имеет [известная] глубина у [известного] входа быть рассмотрена?",
+            "english": "Has the depth at the entrance been considered?",
+            "transcription": "[хæз ðэ дэпθ æт ðи **э**нтрэнс би:н кэнс**и**дэд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been considered",
+        "examples": [
+          {
+            "ours": "К Рождеству все заявки на зимнее хранение рассмотрят.",
+            "thought": "К Рождеству все [известные] бронирования для зимнего хранения будут иметь быть рассмотрены.",
+            "english": "By Christmas all the bookings for winter storage will have been considered.",
+            "transcription": "[бай кр**и**смэс о:л ðэ б**у**киŋз фо: w**и**нтэ ст**о**:ридж wил хæв би:н кэнс**и**дэд]"
+          },
+          {
+            "ours": "Новые планы рассмотрят к концу года?",
+            "thought": "Будут [известные] новые планы иметь быть рассмотрены к [известному] концу от [известного] года?",
+            "english": "Will the new plans have been considered by the end of the year?",
+            "transcription": "[wил ðэ нью: плæнз хæв би:н кэнс**и**дэд бай ðи энд ов ðэ йиэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being considered` не употребляется. Вместо этого скажут: `Your application has been considered.` или `The club has been considering your application for a week.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что владелец рассмотрит моё предложение.",
+        "thought": "Я знал, [известный] владелец будет рассматривать моё предложение.",
+        "english": "I knew the owner would consider my offer.",
+        "transcription": "[ай нью: ðи **о**унэ wуд кэнс**и**дэ май **о**фэ]"
+      },
+      {
+        "ours": "Мы думали, что экипаж без опыта даже рассматривать не будут.",
+        "thought": "Мы думали, они будут не рассматривать [какой-то] экипаж без опыта.",
+        "english": "We thought they wouldn't consider a crew without experience.",
+        "transcription": "[wи: θо:т ðэй wуднт кэнс**и**дэ э кру: wиð**а**ут иксп**и**эриэнс]"
+      },
+      {
+        "ours": "Она сказала, что подумает о месте в нашем экипаже на следующий сезон.",
+        "thought": "Она сказала, она будет рассматривать [какое-то] место в нашем экипаже следующий сезон.",
+        "english": "She said she would consider a place in our crew next season.",
+        "transcription": "[ши: сэд ши: wуд кэнс**и**дэ э плэйс ин ауэ кру: нэкст с**и**:зн]"
+      }
+    ]
+  },
+  "nouns": [
+    {"word": "race", "meaning": "гонка", "used_in": [
+      {"phrase": "active.simple.past.0", "form": "race"},
+      {"phrase": "passive.continuous.present.0", "form": "races"},
+      {"phrase": "passive.continuous.present.1", "form": "race"}]},
+    {"word": "wind", "meaning": "ветер", "used_in": [
+      {"phrase": "active.simple.past.0", "form": "wind"},
+      {"phrase": "active.simple.present.2", "form": "wind"},
+      {"phrase": "passive.simple.present.1", "form": "wind"},
+      {"phrase": "passive.continuous.past.1", "form": "wind"}]},
+    {"word": "forecast", "meaning": "прогноз", "used_in": [{"phrase": "active.simple.past.0", "form": "forecast"}]},
+    {"word": "uncle", "meaning": "дядя", "used_in": [{"phrase": "active.simple.past.1", "form": "uncle"}]},
+    {"word": "tide", "meaning": "прилив", "used_in": [{"phrase": "active.simple.past.1", "form": "tide"}]},
+    {"word": "ferry", "meaning": "паром", "used_in": [{"phrase": "active.simple.past.2", "form": "ferry"}]},
+    {"word": "traffic", "meaning": "движение", "used_in": [{"phrase": "active.simple.past.2", "form": "traffic"}]},
+    {"word": "channel", "meaning": "фарватер", "used_in": [{"phrase": "active.simple.past.2", "form": "channel"}]},
+    {"word": "sailor", "meaning": "моряк", "used_in": [{"phrase": "active.simple.present.0", "form": "sailors"}]},
+    {"word": "cove", "meaning": "бухточка", "used_in": [{"phrase": "active.simple.present.0", "form": "cove"}]},
+    {"word": "coast", "meaning": "побережье", "used_in": [{"phrase": "active.simple.present.0", "form": "coast"}]},
+    {"word": "weather", "meaning": "погода", "used_in": [
+      {"phrase": "active.simple.present.1", "form": "weather"},
+      {"phrase": "passive.simple.present.0", "form": "weather"}]},
+    {"word": "trip", "meaning": "поездка", "used_in": [{"phrase": "active.simple.present.1", "form": "trip"}]},
+    {"word": "spinnaker", "meaning": "спинакер", "used_in": [{"phrase": "active.simple.present.2", "form": "spinnaker"}]},
+    {"word": "club", "meaning": "клуб", "used_in": [
+      {"phrase": "active.simple.future.0", "form": "club"},
+      {"phrase": "active.perfect_continuous.present.0", "form": "club"},
+      {"phrase": "passive.continuous.future.0", "form": "club"},
+      {"phrase": "passive.perfect.present.0", "form": "club"}]},
+    {"word": "application", "meaning": "заявка", "used_in": [{"phrase": "active.simple.future.0", "form": "application"}]},
+    {"word": "membership", "meaning": "членство", "used_in": [{"phrase": "active.simple.future.0", "form": "membership"}]},
+    {"word": "boat", "meaning": "лодка", "used_in": [
+      {"phrase": "active.simple.future.1", "form": "boat"},
+      {"phrase": "active.continuous.past.2", "form": "boat"},
+      {"phrase": "active.continuous.future.1", "form": "boat"},
+      {"phrase": "active.perfect_continuous.past.1", "form": "boat"},
+      {"phrase": "active.perfect_continuous.present.1", "form": "boat"},
+      {"phrase": "passive.simple.past.2", "form": "boat"},
+      {"phrase": "passive.continuous.past.0", "form": "boat"},
+      {"phrase": "passive.continuous.present.1", "form": "boats"},
+      {"phrase": "passive.continuous.future.0", "form": "boat"}]},
+    {"word": "survey", "meaning": "экспертиза", "used_in": [{"phrase": "active.simple.future.1", "form": "survey"}]},
+    {"word": "rigging", "meaning": "такелаж", "used_in": [{"phrase": "active.simple.future.2", "form": "rigging"}]},
+    {"word": "night", "meaning": "ночь", "used_in": [
+      {"phrase": "active.continuous.past.0", "form": "night"},
+      {"phrase": "passive.continuous.present.0", "form": "night"}]},
+    {"word": "departure", "meaning": "выход", "used_in": [{"phrase": "active.continuous.past.0", "form": "departure"}]},
+    {"word": "barometer", "meaning": "барометр", "used_in": [{"phrase": "active.continuous.past.0", "form": "barometer"}]},
+    {"word": "career", "meaning": "карьера", "used_in": [{"phrase": "active.continuous.past.1", "form": "career"}]},
+    {"word": "sea", "meaning": "море", "used_in": [{"phrase": "active.continuous.past.1", "form": "sea"}]},
+    {"word": "engine", "meaning": "двигатель", "used_in": [{"phrase": "active.continuous.past.2", "form": "engine"}]},
+    {"word": "marina", "meaning": "марина", "used_in": [
+      {"phrase": "active.continuous.present.0", "form": "marina"},
+      {"phrase": "active.perfect.future.1", "form": "marina"},
+      {"phrase": "passive.simple.past.0", "form": "marina"}]},
+    {"word": "fee", "meaning": "сбор", "used_in": [{"phrase": "active.continuous.present.0", "form": "fees"}]},
+    {"word": "visitor", "meaning": "посетитель", "used_in": [{"phrase": "active.continuous.present.0", "form": "visitors"}]},
+    {"word": "year", "meaning": "год", "used_in": [
+      {"phrase": "active.continuous.present.0", "form": "year"},
+      {"phrase": "active.perfect_continuous.past.0", "form": "year"},
+      {"phrase": "active.perfect_continuous.present.0", "form": "years"},
+      {"phrase": "active.perfect_continuous.future.0", "form": "years"},
+      {"phrase": "passive.simple.past.0", "form": "year"},
+      {"phrase": "passive.perfect.future.1", "form": "year"}]},
+    {"word": "motorboat", "meaning": "катер", "used_in": [{"phrase": "active.continuous.present.1", "form": "motorboat"}]},
+    {"word": "sailing", "meaning": "парусный спорт", "used_in": [
+      {"phrase": "active.continuous.present.1", "form": "sailing"},
+      {"phrase": "passive.simple.future.2", "form": "sailing"}]},
+    {"word": "yacht", "meaning": "яхта", "used_in": [{"phrase": "active.continuous.present.1", "form": "yachts"}]},
+    {"word": "reef", "meaning": "риф", "sense": "sail", "used_in": [{"phrase": "active.continuous.present.2", "form": "reef"}]},
+    {"word": "dark", "meaning": "темнота", "used_in": [{"phrase": "active.continuous.present.2", "form": "dark"}]},
+    {"word": "jury", "meaning": "жюри", "sense": "contest", "used_in": [
+      {"phrase": "active.continuous.future.0", "form": "jury"},
+      {"phrase": "active.perfect_continuous.future.1", "form": "jury"}]},
+    {"word": "protest", "meaning": "протест", "used_in": [
+      {"phrase": "active.continuous.future.0", "form": "protests"},
+      {"phrase": "active.perfect_continuous.future.1", "form": "protest"},
+      {"phrase": "passive.simple.future.1", "form": "Protests"}]},
+    {"word": "offer", "meaning": "предложение", "used_in": [
+      {"phrase": "active.continuous.future.1", "form": "offers"},
+      {"phrase": "future_in_past.0", "form": "offer"}]},
+    {"word": "spring", "meaning": "весна", "used_in": [{"phrase": "active.continuous.future.1", "form": "spring"}]},
+    {"word": "committee", "meaning": "комитет", "used_in": [{"phrase": "active.continuous.future.2", "form": "committee"}]},
+    {"word": "handicap", "meaning": "гандикап", "used_in": [{"phrase": "active.continuous.future.2", "form": "handicaps"}]},
+    {"word": "week", "meaning": "неделя", "used_in": [{"phrase": "active.continuous.future.2", "form": "week"}]},
+    {"word": "dawn", "meaning": "рассвет", "used_in": [{"phrase": "active.perfect.past.0", "form": "dawn"}]},
+    {"word": "navigator", "meaning": "штурман", "used_in": [{"phrase": "active.perfect.past.0", "form": "navigator"}]},
+    {"word": "port", "meaning": "порт", "used_in": [
+      {"phrase": "active.perfect.past.0", "form": "port"},
+      {"phrase": "passive.continuous.past.1", "form": "port"}]},
+    {"word": "chart", "meaning": "карта", "used_in": [{"phrase": "active.perfect.past.0", "form": "chart"}]},
+    {"word": "current", "meaning": "течение", "used_in": [{"phrase": "active.perfect.past.1", "form": "current"}]},
+    {"word": "mark", "meaning": "знак", "sense": "race", "used_in": [{"phrase": "active.perfect.past.1", "form": "mark"}]},
+    {"word": "height", "meaning": "высота", "used_in": [{"phrase": "active.perfect.past.2", "form": "height"}]},
+    {"word": "bridge", "meaning": "мост", "used_in": [{"phrase": "active.perfect.past.2", "form": "bridge"}]},
+    {"word": "passage", "meaning": "морской переход", "used_in": [{"phrase": "active.perfect.past.2", "form": "passage"}]},
+    {"word": "advice", "meaning": "совет", "used_in": [{"phrase": "active.perfect.present.0", "form": "advice"}]},
+    {"word": "anchor", "meaning": "якорь", "used_in": [{"phrase": "active.perfect.present.0", "form": "anchor"}]},
+    {"word": "chain", "meaning": "цепь", "used_in": [{"phrase": "active.perfect.present.0", "form": "chain"}]},
+    {"word": "weight", "meaning": "вес", "used_in": [{"phrase": "active.perfect.present.1", "form": "weight"}]},
+    {"word": "water", "meaning": "вода", "used_in": [{"phrase": "active.perfect.present.1", "form": "water"}]},
+    {"word": "tank", "meaning": "бак", "used_in": [{"phrase": "active.perfect.present.1", "form": "tanks"}]},
+    {"word": "crossing", "meaning": "переход", "used_in": [{"phrase": "active.perfect.present.2", "form": "crossing"}]},
+    {"word": "Friday", "meaning": "пятница", "used_in": [{"phrase": "active.perfect.future.0", "form": "Friday"}]},
+    {"word": "insurance", "meaning": "страхование", "used_in": [{"phrase": "active.perfect.future.0", "form": "insurance"}]},
+    {"word": "company", "meaning": "компания", "used_in": [{"phrase": "active.perfect.future.0", "form": "company"}]},
+    {"word": "claim", "meaning": "претензия", "used_in": [{"phrase": "active.perfect.future.0", "form": "claim"}]},
+    {"word": "office", "meaning": "офис", "used_in": [{"phrase": "active.perfect.future.1", "form": "office"}]},
+    {"word": "request", "meaning": "просьба", "used_in": [{"phrase": "active.perfect.future.1", "form": "request"}]},
+    {"word": "Saturday", "meaning": "суббота", "used_in": [{"phrase": "active.perfect.future.1", "form": "Saturday"}]},
+    {"word": "option", "meaning": "вариант", "used_in": [{"phrase": "active.perfect.future.2", "form": "options"}]},
+    {"word": "evening", "meaning": "вечер", "used_in": [
+      {"phrase": "active.perfect.future.2", "form": "evening"},
+      {"phrase": "passive.perfect.past.0", "form": "evening"}]},
+    {"word": "briefing", "meaning": "инструктаж", "used_in": [{"phrase": "active.perfect.future.2", "form": "briefing"}]},
+    {"word": "mast", "meaning": "мачта", "used_in": [{"phrase": "active.perfect_continuous.past.0", "form": "mast"}]},
+    {"word": "storm", "meaning": "шторм", "used_in": [{"phrase": "active.perfect_continuous.past.0", "form": "storm"}]},
+    {"word": "sale", "meaning": "продажа", "used_in": [{"phrase": "active.perfect_continuous.past.1", "form": "sale"}]},
+    {"word": "slipway", "meaning": "слип", "used_in": [{"phrase": "active.perfect_continuous.present.0", "form": "slipway"}]},
+    {"word": "autumn", "meaning": "осень", "used_in": [{"phrase": "active.perfect_continuous.future.0", "form": "autumn"}]},
+    {"word": "council", "meaning": "совет", "used_in": [{"phrase": "active.perfect_continuous.future.0", "form": "council"}]},
+    {"word": "breakwater", "meaning": "волнорез", "used_in": [{"phrase": "active.perfect_continuous.future.0", "form": "breakwater"}]},
+    {"word": "hour", "meaning": "час", "used_in": [{"phrase": "active.perfect_continuous.future.1", "form": "hours"}]},
+    {"word": "midnight", "meaning": "полночь", "used_in": [{"phrase": "active.perfect_continuous.future.1", "form": "midnight"}]},
+    {"word": "site", "meaning": "место", "used_in": [{"phrase": "passive.simple.past.0", "form": "sites"}]},
+    {"word": "swell", "meaning": "зыбь", "used_in": [{"phrase": "passive.simple.past.1", "form": "swell"}]},
+    {"word": "inspection", "meaning": "осмотр", "used_in": [{"phrase": "passive.simple.past.2", "form": "inspection"}]},
+    {"word": "strait", "meaning": "пролив", "used_in": [{"phrase": "passive.simple.present.0", "form": "strait"}]},
+    {"word": "knot", "meaning": "узел", "sense": "speed", "used_in": [{"phrase": "passive.simple.present.1", "form": "knots"}]},
+    {"word": "owner", "meaning": "владелец", "used_in": [
+      {"phrase": "passive.simple.present.2", "form": "owner"},
+      {"phrase": "future_in_past.0", "form": "owner"}]},
+    {"word": "part", "meaning": "часть", "sense": "section", "used_in": [{"phrase": "passive.simple.present.2", "form": "part"}]},
+    {"word": "crew", "meaning": "экипаж", "used_in": [
+      {"phrase": "passive.simple.present.2", "form": "crew"},
+      {"phrase": "passive.perfect.past.0", "form": "crew"},
+      {"phrase": "future_in_past.1", "form": "crew"},
+      {"phrase": "future_in_past.2", "form": "crew"}]},
+    {"word": "entry", "meaning": "заявка", "sense": "application", "used_in": [{"phrase": "passive.simple.future.0", "form": "entries"}]},
+    {"word": "Monday", "meaning": "понедельник", "used_in": [{"phrase": "passive.simple.future.0", "form": "Monday"}]},
+    {"word": "flag", "meaning": "флаг", "used_in": [{"phrase": "passive.simple.future.1", "form": "flag"}]},
+    {"word": "experience", "meaning": "опыт", "used_in": [
+      {"phrase": "passive.simple.future.2", "form": "experience"},
+      {"phrase": "future_in_past.1", "form": "experience"}]},
+    {"word": "repair", "meaning": "ремонт", "used_in": [{"phrase": "passive.continuous.past.0", "form": "repairs"}]},
+    {"word": "tow", "meaning": "буксировка", "used_in": [{"phrase": "passive.continuous.past.1", "form": "tow"}]},
+    {"word": "safety", "meaning": "безопасность", "used_in": [{"phrase": "passive.continuous.present.0", "form": "safety"}]},
+    {"word": "rule", "meaning": "правило", "used_in": [{"phrase": "passive.continuous.present.0", "form": "rules"}]},
+    {"word": "speed limit", "meaning": "ограничение скорости", "used_in": [{"phrase": "passive.continuous.present.2", "form": "speed limit"}]},
+    {"word": "bay", "meaning": "бухта", "used_in": [{"phrase": "passive.continuous.present.2", "form": "bay"}]},
+    {"word": "bid", "meaning": "заявка", "used_in": [{"phrase": "passive.continuous.future.0", "form": "bids"}]},
+    {"word": "day", "meaning": "день", "used_in": [{"phrase": "passive.continuous.future.0", "form": "day"}]},
+    {"word": "complaint", "meaning": "жалоба", "used_in": [{"phrase": "passive.continuous.future.1", "form": "complaint"}]},
+    {"word": "noise", "meaning": "шум", "used_in": [{"phrase": "passive.continuous.future.1", "form": "noise"}]},
+    {"word": "meeting", "meaning": "собрание", "used_in": [{"phrase": "passive.continuous.future.1", "form": "meeting"}]},
+    {"word": "suggestion", "meaning": "предложение", "used_in": [{"phrase": "passive.perfect.past.0", "form": "suggestions"}]},
+    {"word": "risk", "meaning": "риск", "used_in": [{"phrase": "passive.perfect.past.1", "form": "risk"}]},
+    {"word": "fog", "meaning": "туман", "used_in": [{"phrase": "passive.perfect.past.1", "form": "fog"}]},
+    {"word": "start", "meaning": "старт", "used_in": [{"phrase": "passive.perfect.past.1", "form": "start"}]},
+    {"word": "skipper", "meaning": "шкипер", "used_in": [{"phrase": "passive.perfect.past.2", "form": "skipper"}]},
+    {"word": "opinion", "meaning": "мнение", "used_in": [{"phrase": "passive.perfect.past.2", "form": "opinion"}]},
+    {"word": "vote", "meaning": "голосование", "used_in": [{"phrase": "passive.perfect.past.2", "form": "vote"}]},
+    {"word": "proposal", "meaning": "предложение", "used_in": [{"phrase": "passive.perfect.present.0", "form": "proposal"}]},
+    {"word": "board", "meaning": "совет", "sense": "council", "used_in": [{"phrase": "passive.perfect.present.0", "form": "board"}]},
+    {"word": "cost", "meaning": "стоимость", "used_in": [{"phrase": "passive.perfect.present.1", "form": "cost"}]},
+    {"word": "winch", "meaning": "лебёдка", "used_in": [{"phrase": "passive.perfect.present.1", "form": "winches"}]},
+    {"word": "depth", "meaning": "глубина", "used_in": [{"phrase": "passive.perfect.present.2", "form": "depth"}]},
+    {"word": "entrance", "meaning": "вход", "used_in": [{"phrase": "passive.perfect.present.2", "form": "entrance"}]},
+    {"word": "Christmas", "meaning": "Рождество", "used_in": [{"phrase": "passive.perfect.future.0", "form": "Christmas"}]},
+    {"word": "booking", "meaning": "бронирование", "used_in": [{"phrase": "passive.perfect.future.0", "form": "bookings"}]},
+    {"word": "winter", "meaning": "зима", "used_in": [{"phrase": "passive.perfect.future.0", "form": "winter"}]},
+    {"word": "storage", "meaning": "хранение", "used_in": [{"phrase": "passive.perfect.future.0", "form": "storage"}]},
+    {"word": "plan", "meaning": "план", "used_in": [{"phrase": "passive.perfect.future.1", "form": "plans"}]},
+    {"word": "end", "meaning": "конец", "used_in": [{"phrase": "passive.perfect.future.1", "form": "end"}]},
+    {"word": "place", "meaning": "место", "used_in": [{"phrase": "future_in_past.2", "form": "place"}]},
+    {"word": "season", "meaning": "сезон", "used_in": [{"phrase": "future_in_past.2", "form": "season"}]}
+  ]
+}

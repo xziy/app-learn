@@ -1,0 +1,812 @@
+{
+  "spec": 4,
+  "verb": "catch",
+  "forms": {
+    "base": [
+      {
+        "word": "catch",
+        "transcription": "[кæч]"
+      }
+    ],
+    "past": [
+      {
+        "word": "caught",
+        "transcription": "[ко:т]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "caught",
+        "transcription": "[ко:т]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "catching",
+        "transcription": "[к**æ**чиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "catches",
+        "transcription": "[к**æ**чиз]"
+      }
+    ]
+  },
+  "meaning": "ловить, поймать; подхватывать",
+  "notes": "неправильный переходный глагол; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "caught",
+        "examples": [
+          {
+            "ours": "Вчера я поймал рыбу.",
+            "thought": "Вчера я поймал [какую-то] рыбу.",
+            "english": "Yesterday I caught a fish.",
+            "transcription": "[й**э**стэдэй ай ко:т э фиш]"
+          },
+          {
+            "ours": "Ты поймал конец?",
+            "thought": "[Сделал] ты ловить [известный] конец?",
+            "english": "Did you catch the line?",
+            "transcription": "[дид ю: кæч ðэ лайн]"
+          },
+          {
+            "ours": "Она не поймала конец.",
+            "thought": "Она [сделала] не ловить [известный] конец.",
+            "english": "She did not catch the line.",
+            "transcription": "[ши: дид нот кæч ðэ лайн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "catch, catches",
+        "examples": [
+          {
+            "ours": "Парус ловит ветер.",
+            "thought": "[Известный] парус ловит [известный] ветер.",
+            "english": "The sail catches the wind.",
+            "transcription": "[ðэ сэйл к**æ**чиз ðэ wинд]"
+          },
+          {
+            "ours": "Ты ловишь рыбу в море?",
+            "thought": "[Делаешь] ты ловить рыбу в море?",
+            "english": "Do you catch fish at sea?",
+            "transcription": "[ду: ю: кæч фиш æт си:]"
+          },
+          {
+            "ours": "Мы не ловим рыбу в марине.",
+            "thought": "Мы [делаем] не ловить рыбу в [известной] марине.",
+            "english": "We do not catch fish in the marina.",
+            "transcription": "[wи: ду: нот кæч фиш ин ðэ мэр**и**:нэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will catch",
+        "examples": [
+          {
+            "ours": "Завтра мы поймаем рыбу.",
+            "thought": "Завтра мы будем ловить рыбу.",
+            "english": "Tomorrow we will catch fish.",
+            "transcription": "[тэм**о**роу wи: wил кæч фиш]"
+          },
+          {
+            "ours": "Ты поймаешь конец?",
+            "thought": "Будешь ты ловить [известный] конец?",
+            "english": "Will you catch the line?",
+            "transcription": "[wил ю: кæч ðэ лайн]"
+          },
+          {
+            "ours": "Она не поймает рыбу.",
+            "thought": "Она будет не ловить рыбу.",
+            "english": "She will not catch fish.",
+            "transcription": "[ши: wил нот кæч фиш]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were catching",
+        "examples": [
+          {
+            "ours": "Вчера утром мы ловили рыбу.",
+            "thought": "Вчера утром мы были ловящими рыбу.",
+            "english": "Yesterday morning we were catching fish.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: к**æ**чиŋ фиш]"
+          },
+          {
+            "ours": "Ты ловил конец, когда я позвал?",
+            "thought": "Был ты ловящим [известный] конец, когда я позвал?",
+            "english": "Were you catching the line when I called?",
+            "transcription": "[wœ: ю: к**æ**чиŋ ðэ лайн wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are catching",
+        "examples": [
+          {
+            "ours": "Мы сейчас ловим рыбу.",
+            "thought": "Мы являемся ловящими рыбу сейчас.",
+            "english": "We are catching fish now.",
+            "transcription": "[wи: а: к**æ**чиŋ фиш нау]"
+          },
+          {
+            "ours": "Парус сейчас ловит ветер?",
+            "thought": "Является [известный] парус ловящим [известный] ветер сейчас?",
+            "english": "Is the sail catching the wind now?",
+            "transcription": "[из ðэ сэйл к**æ**чиŋ ðэ wинд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be catching",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем ловить рыбу.",
+            "thought": "Завтра утром мы будем быть ловящими рыбу.",
+            "english": "Tomorrow morning we will be catching fish.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: к**æ**чиŋ фиш]"
+          },
+          {
+            "ours": "Ты будешь ловить конец, когда они подойдут?",
+            "thought": "Будешь ты быть ловящим [известный] конец, когда они прибудут?",
+            "english": "Will you be catching the line when they arrive?",
+            "transcription": "[wил ю: би: к**æ**чиŋ ðэ лайн wэн ðэй эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had caught",
+        "examples": [
+          {
+            "ours": "К полудню я уже поймал рыбу.",
+            "thought": "К полудню я имел уже пойманной [какую-то] рыбу.",
+            "english": "By noon I had already caught a fish.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди ко:т э фиш]"
+          },
+          {
+            "ours": "Ты поймал конец до отхода?",
+            "thought": "Имел ты пойманным [известный] конец до отхода?",
+            "english": "Had you caught the line before departure?",
+            "transcription": "[хæд ю: ко:т ðэ лайн биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has caught",
+        "examples": [
+          {
+            "ours": "Я уже поймал рыбу.",
+            "thought": "Я имею уже пойманной [какую-то] рыбу.",
+            "english": "I have already caught a fish.",
+            "transcription": "[ай хæв о:лр**э**ди ко:т э фиш]"
+          },
+          {
+            "ours": "Ты уже поймал конец?",
+            "thought": "Имеешь ты пойманным [известный] конец уже?",
+            "english": "Have you caught the line yet?",
+            "transcription": "[хæв ю: ко:т ðэ лайн йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have caught",
+        "examples": [
+          {
+            "ours": "К полудню я поймаю рыбу.",
+            "thought": "К полудню я буду иметь пойманной [какую-то] рыбу.",
+            "english": "By noon I will have caught a fish.",
+            "transcription": "[бай ну:н ай wил хæв ко:т э фиш]"
+          },
+          {
+            "ours": "Ты поймаешь конец к пяти?",
+            "thought": "Будешь ты иметь пойманным [известный] конец к пяти?",
+            "english": "Will you have caught the line by five?",
+            "transcription": "[wил ю: хæв ко:т ðэ лайн бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been catching",
+        "examples": [
+          {
+            "ours": "Мы час ловили рыбу, когда пошёл дождь.",
+            "thought": "Мы имели быть ловящими рыбу целый [какой-то] час, когда он начал идти дождём.",
+            "english": "We had been catching fish for an hour when it started raining.",
+            "transcription": "[wи: хæд би:н к**æ**чиŋ фиш фо: эн **а**уэ wэн ит ст**а**:тид р**э**йниŋ]"
+          },
+          {
+            "ours": "Ты ловил рыбу два часа до рассвета?",
+            "thought": "Имел ты быть ловящим рыбу целых два часа до рассвета?",
+            "english": "Had you been catching fish for two hours before dawn?",
+            "transcription": "[хæд ю: би:н к**æ**чиŋ фиш фо: ту: **а**уэз биф**о**: до:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been catching",
+        "examples": [
+          {
+            "ours": "Мы ловим рыбу уже час.",
+            "thought": "Мы имеем быть ловящими рыбу целый [какой-то] час.",
+            "english": "We have been catching fish for an hour.",
+            "transcription": "[wи: хæв би:н к**æ**чиŋ фиш фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты ловишь рыбу уже два часа?",
+            "thought": "Имеешь ты быть ловящим рыбу целых два часа?",
+            "english": "Have you been catching fish for two hours?",
+            "transcription": "[хæв ю: би:н к**æ**чиŋ фиш фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been catching",
+        "examples": [
+          {
+            "ours": "К пяти мы будем ловить рыбу уже два часа.",
+            "thought": "К пяти мы будем иметь быть ловящими рыбу целых два часа.",
+            "english": "By five we will have been catching fish for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н к**æ**чиŋ фиш фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь ловить рыбу уже час?",
+            "thought": "Будешь ты иметь быть ловящим рыбу целый [какой-то] час к полудню?",
+            "english": "Will you have been catching fish for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н к**æ**чиŋ фиш фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were caught",
+        "examples": [
+          {
+            "ours": "Эту рыбу поймали вчера.",
+            "thought": "Эта рыба была поймана вчера.",
+            "english": "This fish was caught yesterday.",
+            "transcription": "[ðис фиш wоз ко:т й**э**стэдэй]"
+          },
+          {
+            "ours": "Концы поймали на палубе?",
+            "thought": "Были [известные] концы пойманы на палубе?",
+            "english": "Were the lines caught on deck?",
+            "transcription": "[wœ: ðэ лайнз ко:т он дэк]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are caught",
+        "examples": [
+          {
+            "ours": "Рыбу ловят в море.",
+            "thought": "Рыба есть поймана в море.",
+            "english": "Fish are caught at sea.",
+            "transcription": "[фиш а: ко:т æт си:]"
+          },
+          {
+            "ours": "Концы ловят на палубе?",
+            "thought": "Есть [известные] концы пойманы на палубе?",
+            "english": "Are the lines caught on deck?",
+            "transcription": "[а: ðэ лайнз ко:т он дэк]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be caught",
+        "examples": [
+          {
+            "ours": "Рыбу поймают завтра.",
+            "thought": "[Известная] рыба будет быть поймана завтра.",
+            "english": "The fish will be caught tomorrow.",
+            "transcription": "[ðэ фиш wил би: ко:т тэм**о**роу]"
+          },
+          {
+            "ours": "Конец поймают на палубе?",
+            "thought": "Будет [известный] конец быть пойман на палубе?",
+            "english": "Will the line be caught on deck?",
+            "transcription": "[wил ðэ лайн би: ко:т он дэк]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being caught",
+        "examples": [
+          {
+            "ours": "Когда я прибыл, рыбу ловили.",
+            "thought": "Рыба была «долго» поймана, когда я прибыл.",
+            "english": "Fish were being caught when I arrived.",
+            "transcription": "[фиш wœ: б**и**:иŋ ко:т wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, концы ловили?",
+            "thought": "Были [известные] концы «долго» пойманы, когда ты позвонил?",
+            "english": "Were the lines being caught when you called?",
+            "transcription": "[wœ: ðэ лайнз б**и**:иŋ ко:т wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being caught",
+        "examples": [
+          {
+            "ours": "Рыбу сейчас ловят.",
+            "thought": "Рыба есть «долго» поймана сейчас.",
+            "english": "Fish are being caught now.",
+            "transcription": "[фиш а: б**и**:иŋ ко:т нау]"
+          },
+          {
+            "ours": "Концы сейчас ловят?",
+            "thought": "Есть [известные] концы «долго» пойманы сейчас?",
+            "english": "Are the lines being caught now?",
+            "transcription": "[а: ðэ лайнз б**и**:иŋ ко:т нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be catching",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут ловить рыбу.",
+            "thought": "Завтра утром они будут быть ловящими рыбу.",
+            "english": "Tomorrow morning they will be catching fish.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: к**æ**чиŋ фиш]"
+          },
+          {
+            "ours": "Они будут ловить конец, когда мы подойдём?",
+            "thought": "Будут они быть ловящими [известный] конец, когда мы прибудем?",
+            "english": "Will they be catching the line when we arrive?",
+            "transcription": "[wил ðэй би: к**æ**чиŋ ðэ лайн wэн wи: эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been caught",
+        "examples": [
+          {
+            "ours": "К полудню рыбу уже поймали.",
+            "thought": "К полудню [известная] рыба имела уже быть поймана.",
+            "english": "By noon the fish had already been caught.",
+            "transcription": "[бай ну:н ðэ фиш хæд о:лр**э**ди би:н ко:т]"
+          },
+          {
+            "ours": "Конец поймали до отхода?",
+            "thought": "Имел [известный] конец быть пойман до отхода?",
+            "english": "Had the line been caught before departure?",
+            "transcription": "[хæд ðэ лайн би:н ко:т биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been caught",
+        "examples": [
+          {
+            "ours": "Рыбу уже поймали.",
+            "thought": "[Известная] рыба имеет уже быть поймана.",
+            "english": "The fish has already been caught.",
+            "transcription": "[ðэ фиш хæз о:лр**э**ди би:н ко:т]"
+          },
+          {
+            "ours": "Конец уже поймали?",
+            "thought": "Имеет [известный] конец быть пойман уже?",
+            "english": "Has the line been caught yet?",
+            "transcription": "[хæз ðэ лайн би:н ко:т йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been caught",
+        "examples": [
+          {
+            "ours": "К полудню рыбу поймают.",
+            "thought": "К полудню [известная] рыба будет иметь быть поймана.",
+            "english": "By noon the fish will have been caught.",
+            "transcription": "[бай ну:н ðэ фиш wил хæв би:н ко:т]"
+          },
+          {
+            "ours": "Конец поймают к пяти?",
+            "thought": "Будет [известный] конец иметь быть пойман к пяти?",
+            "english": "Will the line have been caught by five?",
+            "transcription": "[wил ðэ лайн хæв би:н ко:т бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been catching fish."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они поймают рыбу.",
+        "thought": "Я знал, они будут ловить рыбу.",
+        "english": "I knew they would catch fish.",
+        "transcription": "[ай нью: ðэй wуд кæч фиш]"
+      },
+      {
+        "ours": "Она думала, что мы не поймаем конец.",
+        "thought": "Она думала, мы будем не ловить [известный] конец.",
+        "english": "She thought we would not catch the line.",
+        "transcription": "[ши: θо:т wи: wуд нот кæч ðэ лайн]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "fish",
+      "meaning": "рыба",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "fish"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Fish"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Fish"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Fish"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "fish"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "fish"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "line"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "line"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "line"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "line"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "line"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "line"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "line"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "line"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "line"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "lines"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "line"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "line"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "line"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "line"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sea"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "deck"
+        }
+      ]
+    }
+  ]
+}

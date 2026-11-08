@@ -1,0 +1,935 @@
+{
+  "spec": 4,
+  "verb": "present",
+  "forms": {
+    "base": [
+      {
+        "word": "present",
+        "transcription": "[приз**э**нт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "presented",
+        "transcription": "[приз**э**нтид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "presented",
+        "transcription": "[приз**э**нтид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "presenting",
+        "transcription": "[приз**э**нтиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "presents",
+        "transcription": "[приз**э**нтс]"
+      }
+    ]
+  },
+  "meaning": "представлять, вручать",
+  "notes": "правильный переходный глагол; ударение в глаголе на втором слоге",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "presented",
+        "examples": [
+          {
+            "ours": "Вчера капитан представлял доклад.",
+            "thought": "Вчера [известный] капитан представлял [известный] доклад.",
+            "english": "Yesterday the skipper presented the report.",
+            "transcription": "[й**э**стэдэй ðэ ск**и**пэ приз**э**нтид ðэ рип**о**:т]"
+          },
+          {
+            "ours": "Моряк представлял план вчера?",
+            "thought": "[Сделал] [известный] моряк представлять [известный] план вчера?",
+            "english": "Did the sailor present the plan yesterday?",
+            "transcription": "[дид ðэ с**э**йлэ приз**э**нт ðэ плæн й**э**стэдэй]"
+          },
+          {
+            "ours": "Она не представляла доклад.",
+            "thought": "Она [сделала] не представлять [известный] доклад.",
+            "english": "She did not present the report.",
+            "transcription": "[ши: дид нот приз**э**нт ðэ рип**о**:т]"
+          }
+        ]
+      },
+      "present": {
+        "form": "present, presents",
+        "examples": [
+          {
+            "ours": "Офицер представляет прогноз.",
+            "thought": "[Известный] офицер представляет [известный] прогноз.",
+            "english": "The officer presents the forecast.",
+            "transcription": "[ðэ **о**фисэ приз**э**нтс ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Капитан представляет маршрут?",
+            "thought": "[Делает] [известный] капитан представлять [известный] маршрут?",
+            "english": "Does the captain present the route?",
+            "transcription": "[даз ðэ к**æ**птин приз**э**нт ðэ ру:т]"
+          },
+          {
+            "ours": "Он не представляет план.",
+            "thought": "Он [делает] не представлять [известный] план.",
+            "english": "He does not present the plan.",
+            "transcription": "[хи: даз нот приз**э**нт ðэ плæн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will present",
+        "examples": [
+          {
+            "ours": "Завтра капитан вручит кубок.",
+            "thought": "Завтра [известный] капитан будет вручать [известный] кубок.",
+            "english": "Tomorrow the skipper will present the trophy.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил приз**э**нт ðэ тр**о**уфи]"
+          },
+          {
+            "ours": "Моряк представит план завтра?",
+            "thought": "Будет [известный] моряк представлять [известный] план завтра?",
+            "english": "Will the sailor present the plan tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ приз**э**нт ðэ плæн тэм**о**роу]"
+          },
+          {
+            "ours": "Она не будет представлять доклад.",
+            "thought": "Она будет не представлять [известный] доклад.",
+            "english": "She will not present the report.",
+            "transcription": "[ши: wил нот приз**э**нт ðэ рип**о**:т]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were presenting",
+        "examples": [
+          {
+            "ours": "Капитан представлял доклад, когда ты прибыл.",
+            "thought": "[Известный] капитан был представляющим [известный] доклад, когда ты прибыл.",
+            "english": "The skipper was presenting the report when you arrived.",
+            "transcription": "[ðэ ск**и**пэ wоз приз**э**нтиŋ ðэ рип**о**:т wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Моряк представлял план, когда ты прибыл?",
+            "thought": "Был [известный] моряк представляющим [известный] план, когда ты прибыл?",
+            "english": "Was the sailor presenting the plan when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ приз**э**нтиŋ ðэ плæн wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are presenting",
+        "examples": [
+          {
+            "ours": "Офицер сейчас представляет прогноз.",
+            "thought": "[Известный] офицер является представляющим [известный] прогноз сейчас.",
+            "english": "The officer is presenting the forecast now.",
+            "transcription": "[ðэ **о**фисэ из приз**э**нтиŋ ðэ ф**о**:ка:ст нау]"
+          },
+          {
+            "ours": "Капитан сейчас представляет маршрут?",
+            "thought": "Является [известный] капитан представляющим [известный] маршрут сейчас?",
+            "english": "Is the captain presenting the route now?",
+            "transcription": "[из ðэ к**æ**птин приз**э**нтиŋ ðэ ру:т нау]"
+          },
+          {
+            "ours": "Она сейчас не представляет доклад.",
+            "thought": "Она является не представляющей [известный] доклад сейчас.",
+            "english": "She is not presenting the report now.",
+            "transcription": "[ши: из нот приз**э**нтиŋ ðэ рип**о**:т нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be presenting",
+        "examples": [
+          {
+            "ours": "Завтра капитан будет представлять доклад.",
+            "thought": "Завтра [известный] капитан будет быть представляющим [известный] доклад.",
+            "english": "Tomorrow the skipper will be presenting the report.",
+            "transcription": "[тэм**о**роу ðэ ск**и**пэ wил би: приз**э**нтиŋ ðэ рип**о**:т]"
+          },
+          {
+            "ours": "Моряк завтра будет представлять план?",
+            "thought": "Будет [известный] моряк быть представляющим [известный] план завтра?",
+            "english": "Will the sailor be presenting the plan tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: приз**э**нтиŋ ðэ плæн тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had presented",
+        "examples": [
+          {
+            "ours": "К полудню капитан представлял доклад.",
+            "thought": "К полудню [известный] капитан имел представленным [известный] доклад.",
+            "english": "By noon the skipper had presented the report.",
+            "transcription": "[бай ну:н ðэ ск**и**пэ хæд приз**э**нтид ðэ рип**о**:т]"
+          },
+          {
+            "ours": "Моряк представлял план к полудню?",
+            "thought": "Имел [известный] моряк представленным [известный] план к полудню?",
+            "english": "Had the sailor presented the plan by noon?",
+            "transcription": "[хæд ðэ с**э**йлэ приз**э**нтид ðэ плæн бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has presented",
+        "examples": [
+          {
+            "ours": "Офицер уже представлял прогноз.",
+            "thought": "[Известный] офицер имеет уже представленным [известный] прогноз.",
+            "english": "The officer has already presented the forecast.",
+            "transcription": "[ðэ **о**фисэ хæз о:лр**э**ди приз**э**нтид ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Капитан уже представлял маршрут?",
+            "thought": "Имеет [известный] капитан представленным [известный] маршрут уже?",
+            "english": "Has the captain presented the route yet?",
+            "transcription": "[хæз ðэ к**æ**птин приз**э**нтид ðэ ру:т йэт]"
+          },
+          {
+            "ours": "Она ещё не представляла доклад.",
+            "thought": "Она имеет не представленным [известный] доклад ещё.",
+            "english": "She has not presented the report yet.",
+            "transcription": "[ши: хæз нот приз**э**нтид ðэ рип**о**:т йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have presented",
+        "examples": [
+          {
+            "ours": "К пяти капитан представит доклад.",
+            "thought": "К пяти [известный] капитан будет иметь представленным [известный] доклад.",
+            "english": "By five the skipper will have presented the report.",
+            "transcription": "[бай файв ðэ ск**и**пэ wил хæв приз**э**нтид ðэ рип**о**:т]"
+          },
+          {
+            "ours": "Моряк представит план к пяти?",
+            "thought": "Будет [известный] моряк иметь представленным [известный] план к пяти?",
+            "english": "Will the sailor have presented the plan by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв приз**э**нтид ðэ плæн бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been presenting",
+        "examples": [
+          {
+            "ours": "Капитан представлял доклад два часа до обеда.",
+            "thought": "[Известный] капитан имел быть представляющим [известный] доклад целых два часа перед обедом.",
+            "english": "The skipper had been presenting the report for two hours before lunch.",
+            "transcription": "[ðэ ск**и**пэ хæд би:н приз**э**нтиŋ ðэ рип**о**:т фо: ту: **а**уэз биф**о**: ланч]"
+          },
+          {
+            "ours": "Моряк представлял план час до обеда?",
+            "thought": "Имел [известный] моряк быть представляющим [известный] план целый [какой-то] час перед обедом?",
+            "english": "Had the sailor been presenting the plan for an hour before lunch?",
+            "transcription": "[хæд ðэ с**э**йлэ би:н приз**э**нтиŋ ðэ плæн фо: эн **а**уэ биф**о**: ланч]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been presenting",
+        "examples": [
+          {
+            "ours": "Офицер представляет прогноз уже два часа.",
+            "thought": "[Известный] офицер имеет быть представляющим [известный] прогноз целых два часа.",
+            "english": "The officer has been presenting the forecast for two hours.",
+            "transcription": "[ðэ **о**фисэ хæз би:н приз**э**нтиŋ ðэ ф**о**:ка:ст фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Капитан представляет маршрут уже час?",
+            "thought": "Имеет [известный] капитан быть представляющим [известный] маршрут целый [какой-то] час?",
+            "english": "Has the captain been presenting the route for an hour?",
+            "transcription": "[хæз ðэ к**æ**птин би:н приз**э**нтиŋ ðэ ру:т фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been presenting",
+        "examples": [
+          {
+            "ours": "К пяти капитан будет представлять доклад уже два часа.",
+            "thought": "К пяти [известный] капитан будет иметь быть представляющим [известный] доклад целых два часа.",
+            "english": "By five the skipper will have been presenting the report for two hours.",
+            "transcription": "[бай файв ðэ ск**и**пэ wил хæв би:н приз**э**нтиŋ ðэ рип**о**:т фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Моряк к пяти будет представлять план уже час?",
+            "thought": "Будет [известный] моряк иметь быть представляющим [известный] план целый [какой-то] час к пяти?",
+            "english": "Will the sailor have been presenting the plan for an hour by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв би:н приз**э**нтиŋ ðэ плæн фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were presented",
+        "examples": [
+          {
+            "ours": "Доклад представляли вчера.",
+            "thought": "[Известный] доклад был представлен вчера.",
+            "english": "The report was presented yesterday.",
+            "transcription": "[ðэ рип**о**:т wоз приз**э**нтид й**э**стэдэй]"
+          },
+          {
+            "ours": "План представляли вчера?",
+            "thought": "Был [известный] план представлен вчера?",
+            "english": "Was the plan presented yesterday?",
+            "transcription": "[wоз ðэ плæн приз**э**нтид й**э**стэдэй]"
+          },
+          {
+            "ours": "Доклад не был представлен вчера.",
+            "thought": "[Известный] доклад был не представлен вчера.",
+            "english": "The report was not presented yesterday.",
+            "transcription": "[ðэ рип**о**:т wоз нот приз**э**нтид й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are presented",
+        "examples": [
+          {
+            "ours": "Прогноз представляют здесь.",
+            "thought": "[Известный] прогноз есть представлен здесь.",
+            "english": "The forecast is presented here.",
+            "transcription": "[ðэ ф**о**:ка:ст из приз**э**нтид хиэ]"
+          },
+          {
+            "ours": "Маршрут представляют здесь?",
+            "thought": "Есть [известный] маршрут представлен здесь?",
+            "english": "Is the route presented here?",
+            "transcription": "[из ðэ ру:т приз**э**нтид хиэ]"
+          },
+          {
+            "ours": "План здесь не представлен.",
+            "thought": "[Известный] план есть не представлен здесь.",
+            "english": "The plan is not presented here.",
+            "transcription": "[ðэ плæн из нот приз**э**нтид хиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be presented",
+        "examples": [
+          {
+            "ours": "Доклад представят завтра.",
+            "thought": "[Известный] доклад будет быть представлен завтра.",
+            "english": "The report will be presented tomorrow.",
+            "transcription": "[ðэ рип**о**:т wил би: приз**э**нтид тэм**о**роу]"
+          },
+          {
+            "ours": "План представят завтра?",
+            "thought": "Будет [известный] план быть представлен завтра?",
+            "english": "Will the plan be presented tomorrow?",
+            "transcription": "[wил ðэ плæн би: приз**э**нтид тэм**о**роу]"
+          },
+          {
+            "ours": "Доклад не будет представлен завтра.",
+            "thought": "[Известный] доклад будет не быть представлен завтра.",
+            "english": "The report will not be presented tomorrow.",
+            "transcription": "[ðэ рип**о**:т wил нот би: приз**э**нтид тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being presented",
+        "examples": [
+          {
+            "ours": "Доклад представляли, когда ты прибыл.",
+            "thought": "[Известный] доклад был «долго» представлен, когда ты прибыл.",
+            "english": "The report was being presented when you arrived.",
+            "transcription": "[ðэ рип**о**:т wоз б**и**:иŋ приз**э**нтид wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "План представляли, когда ты прибыл?",
+            "thought": "Был [известный] план «долго» представлен, когда ты прибыл?",
+            "english": "Was the plan being presented when you arrived?",
+            "transcription": "[wоз ðэ плæн б**и**:иŋ приз**э**нтид wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being presented",
+        "examples": [
+          {
+            "ours": "Прогноз сейчас представляют.",
+            "thought": "[Известный] прогноз есть «долго» представлен сейчас.",
+            "english": "The forecast is being presented now.",
+            "transcription": "[ðэ ф**о**:ка:ст из б**и**:иŋ приз**э**нтид нау]"
+          },
+          {
+            "ours": "Маршрут сейчас представляют?",
+            "thought": "Есть [известный] маршрут «долго» представлен сейчас?",
+            "english": "Is the route being presented now?",
+            "transcription": "[из ðэ ру:т б**и**:иŋ приз**э**нтид нау]"
+          },
+          {
+            "ours": "Доклад сейчас не представляют.",
+            "thought": "[Известный] доклад есть не «долго» представлен сейчас.",
+            "english": "The report is not being presented now.",
+            "transcription": "[ðэ рип**о**:т из нот б**и**:иŋ приз**э**нтид нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be presenting",
+        "examples": [
+          {
+            "ours": "Завтра они будут представлять доклад.",
+            "thought": "Завтра они будут быть представляющими [известный] доклад.",
+            "english": "Tomorrow they will be presenting the report.",
+            "transcription": "[тэм**о**роу ðэй wил би: приз**э**нтиŋ ðэ рип**о**:т]"
+          },
+          {
+            "ours": "Они будут представлять план завтра?",
+            "thought": "Будут они быть представляющими [известный] план завтра?",
+            "english": "Will they be presenting the plan tomorrow?",
+            "transcription": "[wил ðэй би: приз**э**нтиŋ ðэ плæн тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been presented",
+        "examples": [
+          {
+            "ours": "К полудню доклад представляли.",
+            "thought": "К полудню [известный] доклад имел быть представлен.",
+            "english": "By noon the report had been presented.",
+            "transcription": "[бай ну:н ðэ рип**о**:т хæд би:н приз**э**нтид]"
+          },
+          {
+            "ours": "План представляли к полудню?",
+            "thought": "Имел [известный] план быть представлен к полудню?",
+            "english": "Had the plan been presented by noon?",
+            "transcription": "[хæд ðэ плæн би:н приз**э**нтид бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been presented",
+        "examples": [
+          {
+            "ours": "Прогноз уже представляли.",
+            "thought": "[Известный] прогноз имеет уже быть представлен.",
+            "english": "The forecast has already been presented.",
+            "transcription": "[ðэ ф**о**:ка:ст хæз о:лр**э**ди би:н приз**э**нтид]"
+          },
+          {
+            "ours": "Маршрут уже представляли?",
+            "thought": "Имеет [известный] маршрут быть представлен уже?",
+            "english": "Has the route been presented yet?",
+            "transcription": "[хæз ðэ ру:т би:н приз**э**нтид йэт]"
+          },
+          {
+            "ours": "План ещё не был представлен.",
+            "thought": "[Известный] план имеет не быть представлен ещё.",
+            "english": "The plan has not been presented yet.",
+            "transcription": "[ðэ плæн хæз нот би:н приз**э**нтид йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been presented",
+        "examples": [
+          {
+            "ours": "К пяти доклад представят.",
+            "thought": "К пяти [известный] доклад будет иметь быть представлен.",
+            "english": "By five the report will have been presented.",
+            "transcription": "[бай файв ðэ рип**о**:т wил хæв би:н приз**э**нтид]"
+          },
+          {
+            "ours": "План представят к пяти?",
+            "thought": "Будет [известный] план иметь быть представлен к пяти?",
+            "english": "Will the plan have been presented by five?",
+            "transcription": "[wил ðэ плæн хæв би:н приз**э**нтид бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The officer has been presenting the forecast."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что моряк представит план.",
+        "thought": "Я знал [известный] моряк будет представлять [известный] план.",
+        "english": "I knew the sailor would present the plan.",
+        "transcription": "[ай нью: ðэ с**э**йлэ wуд приз**э**нт ðэ плæн]"
+      },
+      {
+        "ours": "Мы думали, что шкипер не представит доклад.",
+        "thought": "Мы думали, [известный] шкипер будет не представлять [известный] доклад.",
+        "english": "We thought the skipper would not present the report.",
+        "transcription": "[wи: θо:т ðэ ск**и**пэ wуд нот приз**э**нт ðэ рип**о**:т]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "report",
+      "meaning": "доклад",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "report"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "report"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "report"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "report"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "report"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "report"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "report"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "report"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "report"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "plan",
+      "meaning": "план",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "plan"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "plan"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "plan"
+        }
+      ]
+    },
+    {
+      "word": "officer",
+      "meaning": "офицер",
+      "sense": "military",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "officer"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "officer"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "officer"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "officer"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "trophy",
+      "meaning": "кубок",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "trophy"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "meaning": "обед",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "lunch"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "lunch"
+        }
+      ]
+    }
+  ]
+}

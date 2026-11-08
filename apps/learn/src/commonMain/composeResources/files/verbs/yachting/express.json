@@ -1,0 +1,846 @@
+{
+  "spec": 4,
+  "verb": "express",
+  "forms": {
+    "base": [
+      {
+        "word": "express",
+        "transcription": "[икспр**э**с]"
+      }
+    ],
+    "past": [
+      {
+        "word": "expressed",
+        "transcription": "[икспр**э**ст]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "expressed",
+        "transcription": "[икспр**э**ст]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "expressing",
+        "transcription": "[икспр**э**сиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "expresses",
+        "transcription": "[икспр**э**сиз]"
+      }
+    ]
+  },
+  "meaning": "выражать",
+  "notes": "правильный переходный глагол; express an opinion — выразить мнение; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "expressed",
+        "examples": [
+          {
+            "ours": "Вчера мы выразили свои мнения о плавании.",
+            "thought": "Вчера мы выразили наши мнения о [известном] плавании.",
+            "english": "Yesterday we expressed our opinions about the voyage.",
+            "transcription": "[й**э**стэдэй wи: икспр**э**ст ауэ эп**и**ньэнз эб**а**ут ðэ в**о**йидж]"
+          },
+          {
+            "ours": "Ты высказал своё мнение о маршруте?",
+            "thought": "[Сделал] ты выражать твоё мнение о [известном] маршруте?",
+            "english": "Did you express your opinion about the route?",
+            "transcription": "[дид ю: икспр**э**с йо: эп**и**ньэн эб**а**ут ðэ ру:т]"
+          },
+          {
+            "ours": "Она не выразила свои пожелания.",
+            "thought": "Она [сделала] не выражать её пожелания.",
+            "english": "She did not express her wishes.",
+            "transcription": "[ши: дид нот икспр**э**с хœ: w**и**шиз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "express, expresses",
+        "examples": [
+          {
+            "ours": "Шкипер выражает идеи.",
+            "thought": "[Известный] шкипер выражает [известные] идеи.",
+            "english": "The skipper expresses the ideas.",
+            "transcription": "[ðэ ск**и**пэ икспр**э**сиз ðэ айд**и**эз]"
+          },
+          {
+            "ours": "Ты выражаешь мнения перед гонкой?",
+            "thought": "[Делаешь] ты выражать [известные] мнения до [известной] гонки?",
+            "english": "Do you express the opinions before the race?",
+            "transcription": "[ду: ю: икспр**э**с ðэ эп**и**ньэнз биф**о**: ðэ рэйс]"
+          },
+          {
+            "ours": "Мы не выражаем пожелания.",
+            "thought": "Мы [делаем] не выражать пожелания.",
+            "english": "We do not express wishes.",
+            "transcription": "[wи: ду: нот икспр**э**с w**и**шиз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will express",
+        "examples": [
+          {
+            "ours": "Завтра мы выразим свои мнения.",
+            "thought": "Завтра мы будем выражать наши мнения.",
+            "english": "Tomorrow we will express our opinions.",
+            "transcription": "[тэм**о**роу wи: wил икспр**э**с ауэ эп**и**ньэнз]"
+          },
+          {
+            "ours": "Ты выразишь свои пожелания?",
+            "thought": "Будешь ты выражать твои пожелания?",
+            "english": "Will you express your wishes?",
+            "transcription": "[wил ю: икспр**э**с йо: w**и**шиз]"
+          },
+          {
+            "ours": "Она не выразит свои пожелания сегодня.",
+            "thought": "Она будет не выражать её пожелания сегодня.",
+            "english": "She will not express her wishes today.",
+            "transcription": "[ши: wил нот икспр**э**с хœ: w**и**шиз тэд**э**й]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were expressing",
+        "examples": [
+          {
+            "ours": "Вчера утром мы выражали свои мнения.",
+            "thought": "Вчера утром мы были выражающими наши мнения.",
+            "english": "Yesterday morning we were expressing our opinions.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: икспр**э**сиŋ ауэ эп**и**ньэнз]"
+          },
+          {
+            "ours": "Ты выражал свои пожелания, когда я позвонил?",
+            "thought": "Был ты выражающим твои пожелания, когда я позвонил?",
+            "english": "Were you expressing your wishes when I called?",
+            "transcription": "[wœ: ю: икспр**э**сиŋ йо: w**и**шиз wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are expressing",
+        "examples": [
+          {
+            "ours": "Мы сейчас выражаем свои мнения.",
+            "thought": "Мы являемся выражающими наши мнения сейчас.",
+            "english": "We are expressing our opinions now.",
+            "transcription": "[wи: а: икспр**э**сиŋ ауэ эп**и**ньэнз нау]"
+          },
+          {
+            "ours": "Шкипер сейчас выражает идеи?",
+            "thought": "Является [известный] шкипер выражающим [известные] идеи сейчас?",
+            "english": "Is the skipper expressing the ideas now?",
+            "transcription": "[из ðэ ск**и**пэ икспр**э**сиŋ ðэ айд**и**эз нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be expressing",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем выражать свои мнения.",
+            "thought": "Завтра утром мы будем быть выражающими наши мнения.",
+            "english": "Tomorrow morning we will be expressing our opinions.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: икспр**э**сиŋ ауэ эп**и**ньэнз]"
+          },
+          {
+            "ours": "Ты будешь выражать свои пожелания вечером?",
+            "thought": "Будешь ты быть выражающим твои пожелания этот вечер?",
+            "english": "Will you be expressing your wishes this evening?",
+            "transcription": "[wил ю: би: икспр**э**сиŋ йо: w**и**шиз ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had expressed",
+        "examples": [
+          {
+            "ours": "К полудню мы уже выразили свои мнения.",
+            "thought": "К полудню мы имели уже выраженными наши мнения.",
+            "english": "By noon we had already expressed our opinions.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди икспр**э**ст ауэ эп**и**ньэнз]"
+          },
+          {
+            "ours": "Ты выразил свои пожелания до отхода?",
+            "thought": "Имел ты выраженными твои пожелания до отхода?",
+            "english": "Had you expressed your wishes before departure?",
+            "transcription": "[хæд ю: икспр**э**ст йо: w**и**шиз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has expressed",
+        "examples": [
+          {
+            "ours": "Мы уже выразили свои мнения.",
+            "thought": "Мы имеем уже выраженными наши мнения.",
+            "english": "We have already expressed our opinions.",
+            "transcription": "[wи: хæв о:лр**э**ди икспр**э**ст ауэ эп**и**ньэнз]"
+          },
+          {
+            "ours": "Ты уже выразил свои пожелания?",
+            "thought": "Имеешь ты выраженными твои пожелания уже?",
+            "english": "Have you expressed your wishes yet?",
+            "transcription": "[хæв ю: икспр**э**ст йо: w**и**шиз йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have expressed",
+        "examples": [
+          {
+            "ours": "К полудню мы выразим свои мнения.",
+            "thought": "К полудню мы будем иметь выраженными наши мнения.",
+            "english": "By noon we will have expressed our opinions.",
+            "transcription": "[бай ну:н wи: wил хæв икспр**э**ст ауэ эп**и**ньэнз]"
+          },
+          {
+            "ours": "Ты выразишь свои пожелания к пяти?",
+            "thought": "Будешь ты иметь выраженными твои пожелания к пяти?",
+            "english": "Will you have expressed your wishes by five?",
+            "transcription": "[wил ю: хæв икспр**э**ст йо: w**и**шиз бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been expressing",
+        "examples": [
+          {
+            "ours": "Мы час выражали свои мнения, когда зазвонило радио.",
+            "thought": "Мы имели быть выражающими наши мнения целый [какой-то] час, когда [известное] радио зазвонило.",
+            "english": "We had been expressing our opinions for an hour when the radio rang.",
+            "transcription": "[wи: хæд би:н икспр**э**сиŋ ауэ эп**и**ньэнз фо: эн **а**уэ wэн ðэ р**э**йдиоу рэŋ]"
+          },
+          {
+            "ours": "Ты выражал свои пожелания два часа до дождя?",
+            "thought": "Имел ты быть выражающим твои пожелания целых два часа до [известного] дождя?",
+            "english": "Had you been expressing your wishes for two hours before the rain?",
+            "transcription": "[хæд ю: би:н икспр**э**сиŋ йо: w**и**шиз фо: ту: **а**уэз биф**о**: ðэ рэйн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been expressing",
+        "examples": [
+          {
+            "ours": "Мы выражаем свои мнения уже час.",
+            "thought": "Мы имеем быть выражающими наши мнения целый [какой-то] час.",
+            "english": "We have been expressing our opinions for an hour.",
+            "transcription": "[wи: хæв би:н икспр**э**сиŋ ауэ эп**и**ньэнз фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты выражаешь свои пожелания уже два часа?",
+            "thought": "Имеешь ты быть выражающим твои пожелания целых два часа?",
+            "english": "Have you been expressing your wishes for two hours?",
+            "transcription": "[хæв ю: би:н икспр**э**сиŋ йо: w**и**шиз фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been expressing",
+        "examples": [
+          {
+            "ours": "К пяти мы будем выражать свои мнения уже два часа.",
+            "thought": "К пяти мы будем иметь быть выражающими наши мнения целых два часа.",
+            "english": "By five we will have been expressing our opinions for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н икспр**э**сиŋ ауэ эп**и**ньэнз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь выражать свои пожелания уже час?",
+            "thought": "Будешь ты иметь быть выражающим твои пожелания целый [какой-то] час к полудню?",
+            "english": "Will you have been expressing your wishes for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н икспр**э**сиŋ йо: w**и**шиз фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were expressed",
+        "examples": [
+          {
+            "ours": "Мнения выразили вчера.",
+            "thought": "[Известные] мнения были выражены вчера.",
+            "english": "The opinions were expressed yesterday.",
+            "transcription": "[ðэ эп**и**ньэнз wœ: икспр**э**ст й**э**стэдэй]"
+          },
+          {
+            "ours": "Пожелания выразили до гонки?",
+            "thought": "Были [известные] пожелания выражены до [известной] гонки?",
+            "english": "Were the wishes expressed before the race?",
+            "transcription": "[wœ: ðэ w**и**шиз икспр**э**ст биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are expressed",
+        "examples": [
+          {
+            "ours": "Идеи выражают каждый день.",
+            "thought": "[Известные] идеи есть выражены каждый день.",
+            "english": "The ideas are expressed every day.",
+            "transcription": "[ðэ айд**и**эз а: икспр**э**ст **э**ври дэй]"
+          },
+          {
+            "ours": "Мнения выражают до отхода?",
+            "thought": "Есть [известные] мнения выражены до отхода?",
+            "english": "Are the opinions expressed before departure?",
+            "transcription": "[а: ðэ эп**и**ньэнз икспр**э**ст биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be expressed",
+        "examples": [
+          {
+            "ours": "Мнения выразят завтра.",
+            "thought": "[Известные] мнения будут быть выражены завтра.",
+            "english": "The opinions will be expressed tomorrow.",
+            "transcription": "[ðэ эп**и**ньэнз wил би: икспр**э**ст тэм**о**роу]"
+          },
+          {
+            "ours": "Пожелания выразят до гонки?",
+            "thought": "Будут [известные] пожелания быть выражены до [известной] гонки?",
+            "english": "Will the wishes be expressed before the race?",
+            "transcription": "[wил ðэ w**и**шиз би: икспр**э**ст биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being expressed",
+        "examples": [
+          {
+            "ours": "Когда я пришёл, мнения выражали.",
+            "thought": "[Известные] мнения были «долго» выражены, когда я прибыл.",
+            "english": "The opinions were being expressed when I arrived.",
+            "transcription": "[ðэ эп**и**ньэнз wœ: б**и**:иŋ икспр**э**ст wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, пожелания выражали?",
+            "thought": "Были [известные] пожелания «долго» выражены, когда ты позвонил?",
+            "english": "Were the wishes being expressed when you called?",
+            "transcription": "[wœ: ðэ w**и**шиз б**и**:иŋ икспр**э**ст wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being expressed",
+        "examples": [
+          {
+            "ours": "Мнения сейчас выражают.",
+            "thought": "[Известные] мнения есть «долго» выражены сейчас.",
+            "english": "The opinions are being expressed now.",
+            "transcription": "[ðэ эп**и**ньэнз а: б**и**:иŋ икспр**э**ст нау]"
+          },
+          {
+            "ours": "Пожелания сейчас выражают?",
+            "thought": "Есть [известные] пожелания «долго» выражены сейчас?",
+            "english": "Are the wishes being expressed now?",
+            "transcription": "[а: ðэ w**и**шиз б**и**:иŋ икспр**э**ст нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be expressing",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут выражать мнения.",
+            "thought": "Завтра утром они будут быть выражающими [известные] мнения.",
+            "english": "Tomorrow morning they will be expressing the opinions.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: икспр**э**сиŋ ðэ эп**и**ньэнз]"
+          },
+          {
+            "ours": "Они будут выражать пожелания вечером?",
+            "thought": "Будут они быть выражающими [известные] пожелания этот вечер?",
+            "english": "Will they be expressing the wishes this evening?",
+            "transcription": "[wил ðэй би: икспр**э**сиŋ ðэ w**и**шиз ðис **и**:вниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been expressed",
+        "examples": [
+          {
+            "ours": "К полудню мнения уже выразили.",
+            "thought": "К полудню [известные] мнения имели уже быть выражены.",
+            "english": "By noon the opinions had already been expressed.",
+            "transcription": "[бай ну:н ðэ эп**и**ньэнз хæд о:лр**э**ди би:н икспр**э**ст]"
+          },
+          {
+            "ours": "Пожелания выразили до гонки?",
+            "thought": "Имели [известные] пожелания быть выражены до [известной] гонки?",
+            "english": "Had the wishes been expressed before the race?",
+            "transcription": "[хæд ðэ w**и**шиз би:н икспр**э**ст биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been expressed",
+        "examples": [
+          {
+            "ours": "Мнения уже выразили.",
+            "thought": "[Известные] мнения имеют уже быть выражены.",
+            "english": "The opinions have already been expressed.",
+            "transcription": "[ðэ эп**и**ньэнз хæв о:лр**э**ди би:н икспр**э**ст]"
+          },
+          {
+            "ours": "Пожелания уже выразили?",
+            "thought": "Имеют [известные] пожелания быть выражены уже?",
+            "english": "Have the wishes been expressed yet?",
+            "transcription": "[хæв ðэ w**и**шиз би:н икспр**э**ст йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been expressed",
+        "examples": [
+          {
+            "ours": "К полудню мнения выразят.",
+            "thought": "К полудню [известные] мнения будут иметь быть выражены.",
+            "english": "By noon the opinions will have been expressed.",
+            "transcription": "[бай ну:н ðэ эп**и**ньэнз wил хæв би:н икспр**э**ст]"
+          },
+          {
+            "ours": "Пожелания выразят к пяти?",
+            "thought": "Будут [известные] пожелания иметь быть выражены к пяти?",
+            "english": "Will the wishes have been expressed by five?",
+            "transcription": "[wил ðэ w**и**шиз хæв би:н икспр**э**ст бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: They have been expressing their opinions."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они выразят мнения.",
+        "thought": "Я знал, они будут выражать [известные] мнения.",
+        "english": "I knew they would express the opinions.",
+        "transcription": "[ай нью: ðэй wуд икспр**э**с ðэ эп**и**ньэнз]"
+      },
+      {
+        "ours": "Она думала, что мы не выразим пожелания.",
+        "thought": "Она думала, мы будем не выражать [известные] пожелания.",
+        "english": "She thought we would not express the wishes.",
+        "transcription": "[ши: θо:т wи: wуд нот икспр**э**с ðэ w**и**шиз]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "opinion",
+      "meaning": "мнение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "active.simple.past.1",
+          "form": "opinion"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "opinions"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "opinions"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "opinions"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "opinions"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "wish",
+      "meaning": "пожелание",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "wishes"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "wishes"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "wishes"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "wishes"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "wishes"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "idea",
+      "meaning": "идея",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "ideas"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "ideas"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "ideas"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "voyage",
+      "meaning": "плавание",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "voyage"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,923 @@
+{
+  "spec": 4,
+  "verb": "refer",
+  "forms": {
+    "base": [
+      {
+        "word": "refer",
+        "transcription": "[риф**œ**:]"
+      }
+    ],
+    "past": [
+      {
+        "word": "referred",
+        "transcription": "[риф**œ**:д]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "referred",
+        "transcription": "[риф**œ**:д]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "referring",
+        "transcription": "[риф**œ**:риŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "refers",
+        "transcription": "[риф**œ**:з]"
+      }
+    ]
+  },
+  "meaning": "ссылаться на, обращаться к",
+  "notes": "правильный глагол; refer to требует предлога to и может образовывать пассив с предлогом в конце",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "referred to",
+        "examples": [
+          {
+            "ours": "Вчера экипаж сверялся с журналом.",
+            "thought": "Вчера [известный] экипаж ссылался на [известный] журнал.",
+            "english": "Yesterday the crew referred to the log.",
+            "transcription": "[й**э**стэдэй ðэ кру: риф**œ**:д ту ðэ лог]"
+          },
+          {
+            "ours": "Моряк ссылался на прогноз вчера?",
+            "thought": "[Сделал] [известный] моряк ссылаться на [известный] прогноз вчера?",
+            "english": "Did the sailor refer to the forecast yesterday?",
+            "transcription": "[дид ðэ с**э**йлэ риф**œ**: ту ðэ ф**о**:ка:ст й**э**стэдэй]"
+          },
+          {
+            "ours": "Они не ссылались на лоцмана.",
+            "thought": "Они [сделали] не ссылаться на [известного] лоцмана.",
+            "english": "They did not refer to the pilot.",
+            "transcription": "[ðэй дид нот риф**œ**: ту ðэ п**а**йлэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "refer to, refers to",
+        "examples": [
+          {
+            "ours": "Капитан ссылается на лоцмана.",
+            "thought": "[Известный] капитан ссылается на [известного] лоцмана.",
+            "english": "The skipper refers to the pilot.",
+            "transcription": "[ðэ ск**и**пэ риф**œ**:з ту ðэ п**а**йлэт]"
+          },
+          {
+            "ours": "Экипаж ссылается на альманах?",
+            "thought": "[Делает] [известный] экипаж ссылаться на [известный] альманах?",
+            "english": "Does the crew refer to the almanac?",
+            "transcription": "[даз ðэ кру: риф**œ**: ту ðи **о**:лмэнæк]"
+          },
+          {
+            "ours": "Мы не ссылаемся на альманах во время гонок.",
+            "thought": "Мы [делаем] не ссылаться на [известный] альманах во время гонок.",
+            "english": "We do not refer to the almanac during races.",
+            "transcription": "[wи: ду: нот риф**œ**: ту ðи **о**:лмэнæк дь**ю**эриŋ р**э**йсиз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will refer to",
+        "examples": [
+          {
+            "ours": "Завтра экипаж будет сверяться с журналом.",
+            "thought": "Завтра [известный] экипаж будет ссылаться на [известный] журнал.",
+            "english": "Tomorrow the crew will refer to the log.",
+            "transcription": "[тэм**о**роу ðэ кру: wил риф**œ**: ту ðэ лог]"
+          },
+          {
+            "ours": "Моряк будет ссылаться на прогноз завтра?",
+            "thought": "Будет [известный] моряк ссылаться на [известный] прогноз завтра?",
+            "english": "Will the sailor refer to the forecast tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ риф**œ**: ту ðэ ф**о**:ка:ст тэм**о**роу]"
+          },
+          {
+            "ours": "Она не будет ссылаться на прогноз.",
+            "thought": "Она будет не ссылаться на [известный] прогноз.",
+            "english": "She will not refer to the forecast.",
+            "transcription": "[ши: wил нот риф**œ**: ту ðэ ф**о**:ка:ст]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were referring to",
+        "examples": [
+          {
+            "ours": "Экипаж сверялся с журналом, когда ты прибыл.",
+            "thought": "[Известный] экипаж был ссылающимся на [известный] журнал, когда ты прибыл.",
+            "english": "The crew was referring to the log when you arrived.",
+            "transcription": "[ðэ кру: wоз риф**œ**:риŋ ту ðэ лог wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Моряк ссылался на прогноз, когда ты прибыл?",
+            "thought": "Был [известный] моряк ссылающимся на [известный] прогноз, когда ты прибыл?",
+            "english": "Was the sailor referring to the forecast when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ риф**œ**:риŋ ту ðэ ф**о**:ка:ст wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are referring to",
+        "examples": [
+          {
+            "ours": "Капитан сейчас ссылается на лоцмана.",
+            "thought": "[Известный] капитан является ссылающимся на [известного] лоцмана сейчас.",
+            "english": "The skipper is referring to the pilot now.",
+            "transcription": "[ðэ ск**и**пэ из риф**œ**:риŋ ту ðэ п**а**йлэт нау]"
+          },
+          {
+            "ours": "Экипаж сейчас ссылается на альманах?",
+            "thought": "Является [известный] экипаж ссылающимся на [известный] альманах сейчас?",
+            "english": "Is the crew referring to the almanac now?",
+            "transcription": "[из ðэ кру: риф**œ**:риŋ ту ðи **о**:лмэнæк нау]"
+          },
+          {
+            "ours": "Мы сейчас не сверяемся с журналом.",
+            "thought": "Мы являемся не ссылающимися на [известный] журнал сейчас.",
+            "english": "We are not referring to the log now.",
+            "transcription": "[wи: а: нот риф**œ**:риŋ ту ðэ лог нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be referring to",
+        "examples": [
+          {
+            "ours": "Завтра экипаж будет сверяться с журналом.",
+            "thought": "Завтра [известный] экипаж будет быть ссылающимся на [известный] журнал.",
+            "english": "Tomorrow the crew will be referring to the log.",
+            "transcription": "[тэм**о**роу ðэ кру: wил би: риф**œ**:риŋ ту ðэ лог]"
+          },
+          {
+            "ours": "Моряк завтра будет ссылаться на прогноз?",
+            "thought": "Будет [известный] моряк быть ссылающимся на [известный] прогноз завтра?",
+            "english": "Will the sailor be referring to the forecast tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: риф**œ**:риŋ ту ðэ ф**о**:ка:ст тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had referred to",
+        "examples": [
+          {
+            "ours": "К полудню экипаж сверялся с журналом.",
+            "thought": "К полудню [известный] экипаж имел сосланным на [известный] журнал.",
+            "english": "By noon the crew had referred to the log.",
+            "transcription": "[бай ну:н ðэ кру: хæд риф**œ**:д ту ðэ лог]"
+          },
+          {
+            "ours": "Моряк ссылался на прогноз к полудню?",
+            "thought": "Имел [известный] моряк сосланным на [известный] прогноз к полудню?",
+            "english": "Had the sailor referred to the forecast by noon?",
+            "transcription": "[хæд ðэ с**э**йлэ риф**œ**:д ту ðэ ф**о**:ка:ст бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has referred to",
+        "examples": [
+          {
+            "ours": "Капитан уже ссылался на лоцмана.",
+            "thought": "[Известный] капитан имеет уже сосланным на [известного] лоцмана.",
+            "english": "The skipper has already referred to the pilot.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди риф**œ**:д ту ðэ п**а**йлэт]"
+          },
+          {
+            "ours": "Экипаж уже ссылался на альманах?",
+            "thought": "Имеет [известный] экипаж сосланным на [известный] альманах уже?",
+            "english": "Has the crew referred to the almanac yet?",
+            "transcription": "[хæз ðэ кру: риф**œ**:д ту ðи **о**:лмэнæк йэт]"
+          },
+          {
+            "ours": "Она ещё не ссылалась на прогноз.",
+            "thought": "Она имеет не сосланным на [известный] прогноз ещё.",
+            "english": "She has not referred to the forecast yet.",
+            "transcription": "[ши: хæз нот риф**œ**:д ту ðэ ф**о**:ка:ст йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have referred to",
+        "examples": [
+          {
+            "ours": "К пяти экипаж будет сверяться с журналом.",
+            "thought": "К пяти [известный] экипаж будет иметь сосланным на [известный] журнал.",
+            "english": "By five the crew will have referred to the log.",
+            "transcription": "[бай файв ðэ кру: wил хæв риф**œ**:д ту ðэ лог]"
+          },
+          {
+            "ours": "Моряк будет ссылаться на прогноз к пяти?",
+            "thought": "Будет [известный] моряк иметь сосланным на [известный] прогноз к пяти?",
+            "english": "Will the sailor have referred to the forecast by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв риф**œ**:д ту ðэ ф**о**:ка:ст бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been referring to",
+        "examples": [
+          {
+            "ours": "Экипаж сверялся с журналом два часа, когда мы прибыли.",
+            "thought": "[Известный] экипаж имел быть ссылающимся на [известный] журнал целых два часа, когда мы прибыли.",
+            "english": "The crew had been referring to the log for two hours when we arrived.",
+            "transcription": "[ðэ кру: хæд би:н риф**œ**:риŋ ту ðэ лог фо: ту: **а**уэз wэн wи: эр**а**йвд]"
+          },
+          {
+            "ours": "Ты долго ссылался на прогноз, когда начался шторм?",
+            "thought": "Имел ты быть ссылающимся на [известный] прогноз долго, когда [известный] шторм начался?",
+            "english": "Had you been referring to the forecast long when the storm started?",
+            "transcription": "[хæд ю: би:н риф**œ**:риŋ ту ðэ ф**о**:ка:ст лоŋ wэн ðэ сто:м ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been referring to",
+        "examples": [
+          {
+            "ours": "Экипаж сверяется с журналом уже два часа.",
+            "thought": "[Известный] экипаж имеет быть ссылающимся на [известный] журнал целых два часа.",
+            "english": "The crew has been referring to the log for two hours.",
+            "transcription": "[ðэ кру: хæз би:н риф**œ**:риŋ ту ðэ лог фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже час сверяешься с прогнозом?",
+            "thought": "Имеешь ты быть ссылающимся на [известный] прогноз целый [какой-то] час?",
+            "english": "Have you been referring to the forecast for an hour?",
+            "transcription": "[хæв ю: би:н риф**œ**:риŋ ту ðэ ф**о**:ка:ст фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been referring to",
+        "examples": [
+          {
+            "ours": "К пяти экипаж будет сверяться с журналом уже два часа.",
+            "thought": "К пяти [известный] экипаж будет иметь быть ссылающимся на [известный] журнал целых два часа.",
+            "english": "By five the crew will have been referring to the log for two hours.",
+            "transcription": "[бай файв ðэ кру: wил хæв би:н риф**œ**:риŋ ту ðэ лог фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь ссылаться на прогноз уже час?",
+            "thought": "Будешь ты иметь быть ссылающимся на [известный] прогноз целый [какой-то] час к пяти?",
+            "english": "Will you have been referring to the forecast for an hour by five?",
+            "transcription": "[wил ю: хæв би:н риф**œ**:риŋ ту ðэ ф**о**:ка:ст фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were referred to",
+        "examples": [
+          {
+            "ours": "Вчера сверились с журналом.",
+            "thought": "[Известный] журнал был сослан на вчера.",
+            "english": "The log was referred to yesterday.",
+            "transcription": "[ðэ лог wоз риф**œ**:д ту й**э**стэдэй]"
+          },
+          {
+            "ours": "Вчера ссылались на прогноз?",
+            "thought": "Был [известный] прогноз сослан на вчера?",
+            "english": "Was the forecast referred to yesterday?",
+            "transcription": "[wоз ðэ ф**о**:ка:ст риф**œ**:д ту й**э**стэдэй]"
+          },
+          {
+            "ours": "Вчера лоцмана не упоминали.",
+            "thought": "[Известный] лоцман был не сослан на вчера.",
+            "english": "The pilot was not referred to yesterday.",
+            "transcription": "[ðэ п**а**йлэт wоз нот риф**œ**:д ту й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are referred to",
+        "examples": [
+          {
+            "ours": "Здесь упоминают лоцмана.",
+            "thought": "[Известный] лоцман есть сослан на здесь.",
+            "english": "The pilot is referred to here.",
+            "transcription": "[ðэ п**а**йлэт из риф**œ**:д ту хиэ]"
+          },
+          {
+            "ours": "Здесь обращаются к альманаху?",
+            "thought": "Есть [известный] альманах сослан на здесь?",
+            "english": "Is the almanac referred to here?",
+            "transcription": "[из ðи **о**:лмэнæк риф**œ**:д ту хиэ]"
+          },
+          {
+            "ours": "Лоцмана не упоминают ночью.",
+            "thought": "[Известный] лоцман есть не сослан на ночью.",
+            "english": "The pilot is not referred to at night.",
+            "transcription": "[ðэ п**а**йлэт из нот риф**œ**:д ту æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be referred to",
+        "examples": [
+          {
+            "ours": "Завтра сверятся с журналом.",
+            "thought": "[Известный] журнал будет быть сослан на завтра.",
+            "english": "The log will be referred to tomorrow.",
+            "transcription": "[ðэ лог wил би: риф**œ**:д ту тэм**о**роу]"
+          },
+          {
+            "ours": "Завтра сошлются на прогноз?",
+            "thought": "Будет [известный] прогноз быть сослан на завтра?",
+            "english": "Will the forecast be referred to tomorrow?",
+            "transcription": "[wил ðэ ф**о**:ка:ст би: риф**œ**:д ту тэм**о**роу]"
+          },
+          {
+            "ours": "Завтра на прогноз ссылаться не будут.",
+            "thought": "[Известный] прогноз будет не быть сослан на завтра.",
+            "english": "The forecast will not be referred to tomorrow.",
+            "transcription": "[ðэ ф**о**:ка:ст wил нот би: риф**œ**:д ту тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being referred to",
+        "examples": [
+          {
+            "ours": "Когда ты прибыл, сверялись с журналом.",
+            "thought": "[Известный] журнал был «долго» сослан на, когда ты прибыл.",
+            "english": "The log was being referred to when you arrived.",
+            "transcription": "[ðэ лог wоз б**и**:иŋ риф**œ**:д ту wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты прибыл, ссылались на прогноз?",
+            "thought": "Был [известный] прогноз «долго» сослан на, когда ты прибыл?",
+            "english": "Was the forecast being referred to when you arrived?",
+            "transcription": "[wоз ðэ ф**о**:ка:ст б**и**:иŋ риф**œ**:д ту wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being referred to",
+        "examples": [
+          {
+            "ours": "Сейчас упоминают лоцмана.",
+            "thought": "[Известный] лоцман есть «долго» сослан на сейчас.",
+            "english": "The pilot is being referred to now.",
+            "transcription": "[ðэ п**а**йлэт из б**и**:иŋ риф**œ**:д ту нау]"
+          },
+          {
+            "ours": "Сейчас обращаются к альманаху?",
+            "thought": "Есть [известный] альманах «долго» сослан на сейчас?",
+            "english": "Is the almanac being referred to now?",
+            "transcription": "[из ðи **о**:лмэнæк б**и**:иŋ риф**œ**:д ту нау]"
+          },
+          {
+            "ours": "Сейчас к альманаху не обращаются.",
+            "thought": "[Известный] альманах есть не «долго» сослан на сейчас.",
+            "english": "The almanac is not being referred to now.",
+            "transcription": "[ðи **о**:лмэнæк из нот б**и**:иŋ риф**œ**:д ту нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be referring to",
+        "examples": [
+          {
+            "ours": "Завтра они будут ссылаться на [известный] журнал.",
+            "thought": "Завтра они будут быть ссылающимися на [известный] журнал.",
+            "english": "Tomorrow they will be referring to the log.",
+            "transcription": "[тэм**о**роу ðэй wил би: риф**œ**:риŋ ту ðэ лог]"
+          },
+          {
+            "ours": "Они будут ссылаться на прогноз завтра?",
+            "thought": "Будут они быть ссылающимися на [известный] прогноз завтра?",
+            "english": "Will they be referring to the forecast tomorrow?",
+            "transcription": "[wил ðэй би: риф**œ**:риŋ ту ðэ ф**о**:ка:ст тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been referred to",
+        "examples": [
+          {
+            "ours": "К полудню с журналом сверились.",
+            "thought": "К полудню [известный] журнал имел быть сослан на.",
+            "english": "By noon the log had been referred to.",
+            "transcription": "[бай ну:н ðэ лог хæд би:н риф**œ**:д ту]"
+          },
+          {
+            "ours": "К полудню на прогноз сослались?",
+            "thought": "Имел [известный] прогноз быть сослан на к полудню?",
+            "english": "Had the forecast been referred to by noon?",
+            "transcription": "[хæд ðэ ф**о**:ка:ст би:н риф**œ**:д ту бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been referred to",
+        "examples": [
+          {
+            "ours": "Лоцмана уже упомянули.",
+            "thought": "[Известный] лоцман имеет уже быть сослан на.",
+            "english": "The pilot has already been referred to.",
+            "transcription": "[ðэ п**а**йлэт хæз о:лр**э**ди би:н риф**œ**:д ту]"
+          },
+          {
+            "ours": "К альманаху уже обращались?",
+            "thought": "Имеет [известный] альманах быть сослан на уже?",
+            "english": "Has the almanac been referred to yet?",
+            "transcription": "[хæз ðи **о**:лмэнæк би:н риф**œ**:д ту йэт]"
+          },
+          {
+            "ours": "На прогноз ещё не ссылались.",
+            "thought": "[Известный] прогноз имеет не быть сослан на ещё.",
+            "english": "The forecast has not been referred to yet.",
+            "transcription": "[ðэ ф**о**:ка:ст хæз нот би:н риф**œ**:д ту йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been referred to",
+        "examples": [
+          {
+            "ours": "К пяти с журналом сверятся.",
+            "thought": "К пяти [известный] журнал будет иметь быть сослан на.",
+            "english": "By five the log will have been referred to.",
+            "transcription": "[бай файв ðэ лог wил хæв би:н риф**œ**:д ту]"
+          },
+          {
+            "ours": "К пяти на прогноз сошлются?",
+            "thought": "Будет [известный] прогноз иметь быть сослан на к пяти?",
+            "english": "Will the forecast have been referred to by five?",
+            "transcription": "[wил ðэ ф**о**:ка:ст хæв би:н риф**œ**:д ту бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The crew has been referring to the log."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что моряк будет ссылаться на прогноз.",
+        "thought": "Я знал [известный] моряк будет ссылаться на [известный] прогноз.",
+        "english": "I knew the sailor would refer to the forecast.",
+        "transcription": "[ай нью: ðэ с**э**йлэ wуд риф**œ**: ту ðэ ф**о**:ка:ст]"
+      },
+      {
+        "ours": "Мы думали, что экипаж не будет ссылаться на [известный] журнал.",
+        "thought": "Мы думали [известный] экипаж будет не ссылаться на [известный] журнал.",
+        "english": "We thought the crew would not refer to the log.",
+        "transcription": "[wи: θо:т ðэ кру: wуд нот риф**œ**: ту ðэ лог]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "log",
+      "meaning": "журнал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "log"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "log"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "log"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "log"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "log"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "log"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "log"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "log"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "log"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "log"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "log"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "pilot",
+      "meaning": "лоцман",
+      "sense": "harbour",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "pilot"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "pilot"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "pilot"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "pilot"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "pilot"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "pilot"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "pilot"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "pilot"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "pilot"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "almanac",
+      "meaning": "альманах",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "almanac"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "almanac"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "almanac"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "almanac"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "almanac"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "almanac"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "almanac"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "almanac"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "races"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "night"
+        }
+      ]
+    }
+  ]
+}

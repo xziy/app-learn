@@ -1,0 +1,603 @@
+{
+  "spec": 4,
+  "verb": "fall",
+  "forms": {
+    "base": [
+      {
+        "word": "fall",
+        "transcription": "[фо:л]"
+      }
+    ],
+    "past": [
+      {
+        "word": "fell",
+        "transcription": "[фэл]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "fallen",
+        "transcription": "[ф**о**:лэн]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "falling",
+        "transcription": "[ф**о**:лиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "falls",
+        "transcription": "[фо:лз]"
+      }
+    ]
+  },
+  "meaning": "падать, снижаться, стихать",
+  "notes": "неправильный непереходный глагол в выбранных значениях; пассив не образуется",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "fell",
+        "examples": [
+          {
+            "ours": "Вчера ветер стих.",
+            "thought": "Вчера [известный] ветер упал.",
+            "english": "Yesterday the wind fell.",
+            "transcription": "[й**э**стэдэй ðэ wинд фэл]"
+          },
+          {
+            "ours": "Моряк не упал за борт.",
+            "thought": "[Известный] моряк [сделал] не падать за борт.",
+            "english": "The sailor didn't fall overboard.",
+            "transcription": "[ðэ с**э**йлэ диднт фо:л **о**увэбо:д]"
+          },
+          {
+            "ours": "Давление упало до гонки?",
+            "thought": "[Сделало] [известное] давление падать перед [известной] гонкой?",
+            "english": "Did the pressure fall before the race?",
+            "transcription": "[дид ðэ пр**э**шэ фо:л биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "fall, falls",
+        "examples": [
+          {
+            "ours": "Во время отлива уровень воды падает.",
+            "thought": "[Известный] воды уровень падает во время отлива.",
+            "english": "The water level falls during low tide.",
+            "transcription": "[ðэ w**о**:тэ л**э**вл фо:лз дь**ю**эриŋ лоу тайд]"
+          },
+          {
+            "ours": "Давление не падает быстро.",
+            "thought": "[Известное] давление [делает] не падать быстро.",
+            "english": "The pressure doesn't fall quickly.",
+            "transcription": "[ðэ пр**э**шэ дазнт фо:л кw**и**кли]"
+          },
+          {
+            "ours": "Ветер обычно стихает ночью?",
+            "thought": "[Делает] [известный] ветер часто падать в ночь?",
+            "english": "Does the wind often fall at night?",
+            "transcription": "[даз ðэ wинд **о**фэн фо:л æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will fall",
+        "examples": [
+          {
+            "ours": "Завтра ветер ослабеет.",
+            "thought": "Завтра [известный] ветер будет падать.",
+            "english": "Tomorrow the wind will fall.",
+            "transcription": "[тэм**о**роу ðэ wинд wил фо:л]"
+          },
+          {
+            "ours": "Уровень воды не упадёт до утра.",
+            "thought": "[Известный] воды уровень будет не падать перед утром.",
+            "english": "The water level won't fall before morning.",
+            "transcription": "[ðэ w**о**:тэ л**э**вл wоунт фо:л биф**о**: м**о**:ниŋ]"
+          },
+          {
+            "ours": "Давление упадёт до шторма?",
+            "thought": "Будет [известное] давление падать перед [известным] штормом?",
+            "english": "Will the pressure fall before the storm?",
+            "transcription": "[wил ðэ пр**э**шэ фо:л биф**о**: ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were falling",
+        "examples": [
+          {
+            "ours": "Вчера давление падало весь день.",
+            "thought": "Вчера [известное] давление было падающим весь день.",
+            "english": "Yesterday the pressure was falling all day.",
+            "transcription": "[й**э**стэдэй ðэ пр**э**шэ wоз ф**о**:лиŋ о:л дэй]"
+          },
+          {
+            "ours": "Ветер стихал, когда я пришёл?",
+            "thought": "Был [известный] ветер падающим когда я пришёл?",
+            "english": "Was the wind falling when I came?",
+            "transcription": "[wоз ðэ wинд ф**о**:лиŋ wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are falling",
+        "examples": [
+          {
+            "ours": "Сейчас уровень воды падает.",
+            "thought": "[Известный] воды уровень является падающим сейчас.",
+            "english": "The water level is falling now.",
+            "transcription": "[ðэ w**о**:тэ л**э**вл из ф**о**:лиŋ нау]"
+          },
+          {
+            "ours": "Давление сейчас падает?",
+            "thought": "Является [известное] давление падающим сейчас?",
+            "english": "Is the pressure falling now?",
+            "transcription": "[из ðэ пр**э**шэ ф**о**:лиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be falling",
+        "examples": [
+          {
+            "ours": "Завтра уровень воды будет падать весь день.",
+            "thought": "Завтра [известный] воды уровень будет быть падающим весь день.",
+            "english": "Tomorrow the water level will be falling all day.",
+            "transcription": "[тэм**о**роу ðэ w**о**:тэ л**э**вл wил би: ф**о**:лиŋ о:л дэй]"
+          },
+          {
+            "ours": "Давление будет падать во время гонки?",
+            "thought": "Будет [известное] давление быть падающим во время [известной] гонки?",
+            "english": "Will the pressure be falling during the race?",
+            "transcription": "[wил ðэ пр**э**шэ би: ф**о**:лиŋ дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had fallen",
+        "examples": [
+          {
+            "ours": "Вчера к пяти давление уже упало.",
+            "thought": "К пяти вчера [известное] давление имело уже упавшим.",
+            "english": "By five yesterday the pressure had already fallen.",
+            "transcription": "[бай файв й**э**стэдэй ðэ пр**э**шэ хæд о:лр**э**ди ф**о**:лэн]"
+          },
+          {
+            "ours": "Ветер стих до гонки?",
+            "thought": "Имел [известный] ветер упавшим перед [известной] гонкой?",
+            "english": "Had the wind fallen before the race?",
+            "transcription": "[хæд ðэ wинд ф**о**:лэн биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has fallen",
+        "examples": [
+          {
+            "ours": "Давление уже упало.",
+            "thought": "[Известное] давление имеет уже упавшим.",
+            "english": "The pressure has already fallen.",
+            "transcription": "[ðэ пр**э**шэ хæз о:лр**э**ди ф**о**:лэн]"
+          },
+          {
+            "ours": "Уровень воды уже упал?",
+            "thought": "Имеет [известный] воды уровень уже упавшим?",
+            "english": "Has the water level already fallen?",
+            "transcription": "[хæз ðэ w**о**:тэ л**э**вл о:лр**э**ди ф**о**:лэн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have fallen",
+        "examples": [
+          {
+            "ours": "Завтра к пяти давление уже упадёт.",
+            "thought": "К пяти завтра [известное] давление будет иметь уже упавшим.",
+            "english": "By five tomorrow the pressure will have already fallen.",
+            "transcription": "[бай файв тэм**о**роу ðэ пр**э**шэ wил хæв о:лр**э**ди ф**о**:лэн]"
+          },
+          {
+            "ours": "Уровень воды упадёт до утра?",
+            "thought": "Будет [известный] воды уровень иметь упавшим перед утром?",
+            "english": "Will the water level have fallen before morning?",
+            "transcription": "[wил ðэ w**о**:тэ л**э**вл хæв ф**о**:лэн биф**о**: м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been falling",
+        "examples": [
+          {
+            "ours": "Давление падало уже два часа, когда ты пришёл.",
+            "thought": "[Известное] давление имело быть падающим целых два часа когда ты пришёл.",
+            "english": "The pressure had been falling for two hours when you came.",
+            "transcription": "[ðэ пр**э**шэ хæд би:н ф**о**:лиŋ фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ветер стихал уже два часа, когда он пришёл?",
+            "thought": "Имел [известный] ветер быть падающим целых два часа когда он пришёл?",
+            "english": "Had the wind been falling for two hours when he came?",
+            "transcription": "[хæд ðэ wинд би:н ф**о**:лиŋ фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been falling",
+        "examples": [
+          {
+            "ours": "Давление падает уже два часа.",
+            "thought": "[Известное] давление имеет быть падающим целых два часа.",
+            "english": "The pressure has been falling for two hours.",
+            "transcription": "[ðэ пр**э**шэ хæз би:н ф**о**:лиŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Уровень воды падает уже два часа?",
+            "thought": "Имеет [известный] воды уровень быть падающим целых два часа?",
+            "english": "Has the water level been falling for two hours?",
+            "transcription": "[хæз ðэ w**о**:тэ л**э**вл би:н ф**о**:лиŋ фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been falling",
+        "examples": [
+          {
+            "ours": "К пяти давление будет падать уже два часа.",
+            "thought": "К пяти [известное] давление будет иметь быть падающим целых два часа.",
+            "english": "By five the pressure will have been falling for two hours.",
+            "transcription": "[бай файв ðэ пр**э**шэ wил хæв би:н ф**о**:лиŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти уровень воды будет падать уже два часа?",
+            "thought": "Будет [известный] воды уровень иметь быть падающим целых два часа к пяти?",
+            "english": "Will the water level have been falling for two hours by five?",
+            "transcription": "[wил ðэ w**о**:тэ л**э**вл хæв би:н ф**о**:лиŋ фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "not_possible": "В значении «падать, снижаться» fall — непереходный глагол без прямого дополнения, пассив не образуется. Скажут: The pressure has fallen."
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что ветер ослабеет.",
+        "thought": "[Известный] капитан сказал что [известный] ветер будет падать.",
+        "english": "The captain said that the wind would fall.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ wинд wуд фо:л]"
+      },
+      {
+        "ours": "Я знал, что давление не упадёт.",
+        "thought": "Я знал что [известное] давление будет не падать.",
+        "english": "I knew that the pressure wouldn't fall.",
+        "transcription": "[ай нью: ðæт ðэ пр**э**шэ wуднт фо:л]"
+      },
+      {
+        "ours": "Капитан сказал, что уровень воды упадёт.",
+        "thought": "[Известный] капитан сказал что [известный] воды уровень будет падать.",
+        "english": "The captain said that the water level would fall.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ w**о**:тэ л**э**вл wуд фо:л]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "pressure",
+      "meaning": "давление",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "pressure"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "water"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "level",
+      "meaning": "уровень",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "level"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "level"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "level"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "level"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "level"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "level"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "level"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "level"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "level"
+        }
+      ]
+    },
+    {
+      "word": "tide",
+      "meaning": "прилив, отлив",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "tide"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

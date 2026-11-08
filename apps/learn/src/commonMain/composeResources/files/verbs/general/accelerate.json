@@ -1,5 +1,5 @@
 {
-  "spec": 3,
+  "spec": 4,
   "verb": "accelerate",
   "forms": {
     "base": [
@@ -442,7 +442,7 @@
             "ours": "К тому времени спасательную операцию уже ускорили.",
             "thought": "К тому времени [известная] спасательная операция имела быть ускорена.",
             "english": "By that time the rescue operation had been accelerated.",
-            "transcription": "[бай ðæт тайм ðэ р**э**скю: опэр**э**йшн хæд би:н экс**э**лэрэйтид]"
+            "transcription": "[бай ðæт тайм ðэ р**э**скью: опэр**э**йшн хæд би:н экс**э**лэрэйтид]"
           },
           {
             "ours": "К маю разбирательство ещё не ускорили.",
@@ -1259,6 +1259,7 @@
     {
       "word": "demand",
       "meaning": "спрос",
+      "sense": "market",
       "used_in": [
         {
           "phrase": "active.perfect_continuous.present.0",
@@ -1413,6 +1414,7 @@
     {
       "word": "trial",
       "meaning": "испытание",
+      "sense": "test",
       "used_in": [
         {
           "phrase": "passive.simple.present.1",

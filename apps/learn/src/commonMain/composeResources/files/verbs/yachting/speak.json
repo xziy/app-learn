@@ -1,0 +1,765 @@
+{
+  "spec": 4,
+  "verb": "speak",
+  "forms": {
+    "base": [
+      {
+        "word": "speak",
+        "transcription": "[спи:к]"
+      }
+    ],
+    "past": [
+      {
+        "word": "spoke",
+        "transcription": "[споук]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "spoken",
+        "transcription": "[сп**о**укэн]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "speaking",
+        "transcription": "[сп**и**:киŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "speaks",
+        "transcription": "[спи:кс]"
+      }
+    ]
+  },
+  "meaning": "говорить, разговаривать",
+  "notes": "неправильный глагол; speak to — говорить с кем-то; название языка может быть прямым дополнением и допускает пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "spoke",
+        "examples": [
+          {
+            "ours": "Вчера мы говорили с капитаном по радио.",
+            "thought": "Вчера мы говорили к [известному] капитану по [известному] радио.",
+            "english": "Yesterday we spoke to the captain on the radio.",
+            "transcription": "[й**э**стэдэй wи: споук ту ðэ к**æ**птин он ðэ р**э**йдиоу]"
+          },
+          {
+            "ours": "Он не говорил с командой.",
+            "thought": "Он [сделал] не говорить к [известному] экипажу.",
+            "english": "He didn't speak to the crew.",
+            "transcription": "[хи: диднт спи:к ту ðэ кру:]"
+          },
+          {
+            "ours": "Ты говорил с шкипером до гонки?",
+            "thought": "[Сделал] ты говорить к [известному] шкиперу перед [известной] гонкой?",
+            "english": "Did you speak to the skipper before the race?",
+            "transcription": "[дид ю: спи:к ту ðэ ск**и**пэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "speak, speaks",
+        "examples": [
+          {
+            "ours": "Капитан говорит по-английски.",
+            "thought": "[Известный] капитан говорит на английском.",
+            "english": "The captain speaks English.",
+            "transcription": "[ðэ к**æ**птин спи:кс **и**ŋглиш]"
+          },
+          {
+            "ours": "Он не говорит по-французски.",
+            "thought": "Он [делает] не говорить на французском.",
+            "english": "He doesn't speak French.",
+            "transcription": "[хи: дазнт спи:к фрэнч]"
+          },
+          {
+            "ours": "Ты говоришь по-английски на борту?",
+            "thought": "[Делаешь] ты говорить на английском на борту?",
+            "english": "Do you speak English on board?",
+            "transcription": "[ду: ю: спи:к **и**ŋглиш он бо:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will speak",
+        "examples": [
+          {
+            "ours": "Завтра мы поговорим с капитаном.",
+            "thought": "Завтра мы будем говорить к [известному] капитану.",
+            "english": "Tomorrow we will speak to the captain.",
+            "transcription": "[тэм**о**роу wи: wил спи:к ту ðэ к**æ**птин]"
+          },
+          {
+            "ours": "Он не будет говорить с экипажем.",
+            "thought": "Он будет не говорить к [известному] экипажу.",
+            "english": "He won't speak to the crew.",
+            "transcription": "[хи: wоунт спи:к ту ðэ кру:]"
+          },
+          {
+            "ours": "Ты поговоришь со шкипером до гонки?",
+            "thought": "Будешь ты говорить к [известному] шкиперу перед [известной] гонкой?",
+            "english": "Will you speak to the skipper before the race?",
+            "transcription": "[wил ю: спи:к ту ðэ ск**и**пэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were speaking",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день разговаривали по-английски на борту.",
+            "thought": "Вчера мы были говорящими на английском на борту весь день.",
+            "english": "Yesterday we were speaking English on board all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: сп**и**:киŋ **и**ŋглиш он бо:д о:л дэй]"
+          },
+          {
+            "ours": "Ты говорил с капитаном, когда я пришёл?",
+            "thought": "Был ты говорящим к [известному] капитану когда я пришёл?",
+            "english": "Were you speaking to the captain when I came?",
+            "transcription": "[wœ: ю: сп**и**:киŋ ту ðэ к**æ**птин wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are speaking",
+        "examples": [
+          {
+            "ours": "Сейчас мы говорим с береговой охраной по радио.",
+            "thought": "Мы являемся говорящими к [известной] береговой охране по [известному] радио сейчас.",
+            "english": "We are speaking to the coastguard on the radio now.",
+            "transcription": "[wи: а: сп**и**:киŋ ту ðэ к**о**устга:д он ðэ р**э**йдиоу нау]"
+          },
+          {
+            "ours": "Ты сейчас говоришь с капитаном?",
+            "thought": "Являешься ты говорящим к [известному] капитану сейчас?",
+            "english": "Are you speaking to the captain now?",
+            "transcription": "[а: ю: сп**и**:киŋ ту ðэ к**æ**птин нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be speaking",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем говорить по-английски на борту.",
+            "thought": "Завтра мы будем быть говорящими на английском на борту весь день.",
+            "english": "Tomorrow we will be speaking English on board all day.",
+            "transcription": "[тэм**о**роу wи: wил би: сп**и**:киŋ **и**ŋглиш он бо:д о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь говорить с капитаном до гонки?",
+            "thought": "Будешь ты быть говорящим к [известному] капитану перед [известной] гонкой?",
+            "english": "Will you be speaking to the captain before the race?",
+            "transcription": "[wил ю: би: сп**и**:киŋ ту ðэ к**æ**птин биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had spoken",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже поговорили с капитаном.",
+            "thought": "К пяти вчера мы имели уже поговорившим к [известному] капитану.",
+            "english": "By five yesterday we had already spoken to the captain.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди сп**о**укэн ту ðэ к**æ**птин]"
+          },
+          {
+            "ours": "Ты поговорил со шкипером до гонки?",
+            "thought": "Имел ты поговорившим к [известному] шкиперу перед [известной] гонкой?",
+            "english": "Had you spoken to the skipper before the race?",
+            "transcription": "[хæд ю: сп**о**укэн ту ðэ ск**и**пэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has spoken",
+        "examples": [
+          {
+            "ours": "Мы уже поговорили с капитаном.",
+            "thought": "Мы имеем уже поговорившим к [известному] капитану.",
+            "english": "We have already spoken to the captain.",
+            "transcription": "[wи: хæв о:лр**э**ди сп**о**укэн ту ðэ к**æ**птин]"
+          },
+          {
+            "ours": "Ты уже говорил с береговой охраной?",
+            "thought": "Имеешь ты уже поговорившим к [известной] береговой охране?",
+            "english": "Have you already spoken to the coastguard?",
+            "transcription": "[хæв ю: о:лр**э**ди сп**о**укэн ту ðэ к**о**устга:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have spoken",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже поговорим с капитаном.",
+            "thought": "К пяти завтра мы будем иметь уже поговорившим к [известному] капитану.",
+            "english": "By five tomorrow we will have already spoken to the captain.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди сп**о**укэн ту ðэ к**æ**птин]"
+          },
+          {
+            "ours": "Ты поговоришь со шкипером до гонки?",
+            "thought": "Будешь ты иметь поговорившим к [известному] шкиперу перед [известной] гонкой?",
+            "english": "Will you have spoken to the skipper before the race?",
+            "transcription": "[wил ю: хæв сп**о**укэн ту ðэ ск**и**пэ биф**о**: ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been speaking",
+        "examples": [
+          {
+            "ours": "Мы уже два часа говорили по-английски, когда ты пришёл.",
+            "thought": "Мы имели быть говорящими на английском целых два часа когда ты пришёл.",
+            "english": "We had been speaking English for two hours when you came.",
+            "transcription": "[wи: хæд би:н сп**и**:киŋ **и**ŋглиш фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа говорил с капитаном, когда он пришёл?",
+            "thought": "Имел ты быть говорящим к [известному] капитану целых два часа когда он пришёл?",
+            "english": "Had you been speaking to the captain for two hours when he came?",
+            "transcription": "[хæд ю: би:н сп**и**:киŋ ту ðэ к**æ**птин фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been speaking",
+        "examples": [
+          {
+            "ours": "Мы уже два часа говорим по-английски.",
+            "thought": "Мы имеем быть говорящими на английском целых два часа.",
+            "english": "We have been speaking English for two hours.",
+            "transcription": "[wи: хæв би:н сп**и**:киŋ **и**ŋглиш фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа говоришь с капитаном?",
+            "thought": "Имеешь ты быть говорящим к [известному] капитану целых два часа?",
+            "english": "Have you been speaking to the captain for two hours?",
+            "transcription": "[хæв ю: би:н сп**и**:киŋ ту ðэ к**æ**птин фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been speaking",
+        "examples": [
+          {
+            "ours": "К пяти мы будем говорить по-английски уже два часа.",
+            "thought": "К пяти мы будем иметь быть говорящими на английском целых два часа.",
+            "english": "By five we will have been speaking English for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н сп**и**:киŋ **и**ŋглиш фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь говорить с капитаном уже два часа?",
+            "thought": "Будешь ты иметь быть говорящим к [известному] капитану целых два часа к пяти?",
+            "english": "Will you have been speaking to the captain for two hours by five?",
+            "transcription": "[wил ю: хæв би:н сп**и**:киŋ ту ðэ к**æ**птин фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were spoken",
+        "examples": [
+          {
+            "ours": "Вчера на борту говорили по-английски.",
+            "thought": "Английский был говорён на борту вчера.",
+            "english": "English was spoken on board yesterday.",
+            "transcription": "[**и**ŋглиш wоз сп**о**укэн он бо:д й**э**стэдэй]"
+          },
+          {
+            "ours": "На инструктаже говорили по-французски?",
+            "thought": "Был французский говорён во время [известного] инструктажа?",
+            "english": "Was French spoken during the briefing?",
+            "transcription": "[wоз фрэнч сп**о**укэн дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are spoken",
+        "examples": [
+          {
+            "ours": "На борту говорят по-английски.",
+            "thought": "Английский есть говорён на борту.",
+            "english": "English is spoken on board.",
+            "transcription": "[**и**ŋглиш из сп**о**укэн он бо:д]"
+          },
+          {
+            "ours": "Во время регаты говорят по-французски?",
+            "thought": "Есть французский говорён во время [известной] регаты?",
+            "english": "Is French spoken during the regatta?",
+            "transcription": "[из фрэнч сп**о**укэн дь**ю**эриŋ ðэ риг**æ**тэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be spoken",
+        "examples": [
+          {
+            "ours": "Завтра на борту будут говорить по-английски.",
+            "thought": "Английский будет быть говорён на борту завтра.",
+            "english": "English will be spoken on board tomorrow.",
+            "transcription": "[**и**ŋглиш wил би: сп**о**укэн он бо:д тэм**о**роу]"
+          },
+          {
+            "ours": "На инструктаже будут говорить по-французски?",
+            "thought": "Будет французский быть говорён во время [известного] инструктажа?",
+            "english": "Will French be spoken during the briefing?",
+            "transcription": "[wил фрэнч би: сп**о**укэн дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being spoken",
+        "examples": [
+          {
+            "ours": "Вчера весь день на борту говорили по-английски.",
+            "thought": "Вчера английский был «долго» говорён на борту весь день.",
+            "english": "Yesterday English was being spoken on board all day.",
+            "transcription": "[й**э**стэдэй **и**ŋглиш wоз б**и**:иŋ сп**о**укэн он бо:д о:л дэй]"
+          },
+          {
+            "ours": "На инструктаже говорили по-французски, когда ты пришёл?",
+            "thought": "Был французский «долго» говорён во время [известного] инструктажа когда ты пришёл?",
+            "english": "Was French being spoken during the briefing when you came?",
+            "transcription": "[wоз фрэнч б**и**:иŋ сп**о**укэн дь**ю**эриŋ ðэ бр**и**:фиŋ wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being spoken",
+        "examples": [
+          {
+            "ours": "Сейчас на борту говорят по-английски.",
+            "thought": "Английский есть «долго» говорён на борту сейчас.",
+            "english": "English is being spoken on board now.",
+            "transcription": "[**и**ŋглиш из б**и**:иŋ сп**о**укэн он бо:д нау]"
+          },
+          {
+            "ours": "Сейчас на инструктаже говорят по-французски?",
+            "thought": "Есть французский «долго» говорён во время [известного] инструктажа сейчас?",
+            "english": "Is French being spoken during the briefing now?",
+            "transcription": "[из фрэнч б**и**:иŋ сп**о**укэн дь**ю**эриŋ ðэ бр**и**:фиŋ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be speaking",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут говорить по-английски на борту.",
+            "thought": "Завтра они будут быть говорящими на английском на борту весь день.",
+            "english": "Tomorrow they will be speaking English on board all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: сп**и**:киŋ **и**ŋглиш он бо:д о:л дэй]"
+          },
+          {
+            "ours": "Они будут говорить по-французски на инструктаже?",
+            "thought": "Будут они быть говорящими на французском во время [известного] инструктажа?",
+            "english": "Will they be speaking French during the briefing?",
+            "transcription": "[wил ðэй би: сп**и**:киŋ фрэнч дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been spoken",
+        "examples": [
+          {
+            "ours": "Вчера к пяти на борту уже говорили по-английски.",
+            "thought": "К пяти вчера английский имел уже быть говорён на борту.",
+            "english": "By five yesterday English had already been spoken on board.",
+            "transcription": "[бай файв й**э**стэдэй **и**ŋглиш хæд о:лр**э**ди би:н сп**о**укэн он бо:д]"
+          },
+          {
+            "ours": "На инструктаже уже говорили по-французски?",
+            "thought": "Имел французский уже быть говорён во время [известного] инструктажа?",
+            "english": "Had French already been spoken during the briefing?",
+            "transcription": "[хæд фрэнч о:лр**э**ди би:н сп**о**укэн дь**ю**эриŋ ðэ бр**и**:фиŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been spoken",
+        "examples": [
+          {
+            "ours": "С момента выхода на борту говорят по-английски.",
+            "thought": "Английский имеет быть говорён на борту с выхода.",
+            "english": "English has been spoken on board since departure.",
+            "transcription": "[**и**ŋглиш хæз би:н сп**о**укэн он бо:д синс дип**а**:чэ]"
+          },
+          {
+            "ours": "С момента выхода на инструктажах говорили по-французски?",
+            "thought": "Имеет французский быть говорён во время [известного] инструктажа с выхода?",
+            "english": "Has French been spoken during the briefing since departure?",
+            "transcription": "[хæз фрэнч би:н сп**о**укэн дь**ю**эриŋ ðэ бр**и**:фиŋ синс дип**а**:чэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been spoken",
+        "not_possible": "Для прогноза языка общения такая завершённая пассивная форма звучит неестественно. Лучше сказать: English will be spoken on board."
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: English has been spoken on board. Или: They have been speaking English."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они поговорят с экипажем.",
+        "thought": "[Известный] капитан сказал что они будут говорить к [известному] экипажу.",
+        "english": "The captain said that they would speak to the crew.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд спи:к ту ðэ кру:]"
+      },
+      {
+        "ours": "Я знал, что ты не будешь говорить по-французски.",
+        "thought": "Я знал что ты будешь не говорить на французском.",
+        "english": "I knew that you wouldn't speak French.",
+        "transcription": "[ай нью: ðæт ю: wуднт спи:к фрэнч]"
+      },
+      {
+        "ours": "Капитан сказал, что мы поговорим со шкипером.",
+        "thought": "[Известный] капитан сказал что мы будем говорить к [известному] шкиперу.",
+        "english": "The captain said that we would speak to the skipper.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд спи:к ту ðэ ск**и**пэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "рация",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "board"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "board"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "board"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "coastguard",
+      "meaning": "береговая охрана",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "coastguard"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "coastguard"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "briefing",
+      "meaning": "инструктаж",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "briefing"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "выход",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "departure"
+        }
+      ]
+    }
+  ]
+}

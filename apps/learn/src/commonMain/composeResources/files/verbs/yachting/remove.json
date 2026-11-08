@@ -1,0 +1,898 @@
+{
+  "spec": 4,
+  "verb": "remove",
+  "forms": {
+    "base": [
+      {
+        "word": "remove",
+        "transcription": "[рим**у**:в]"
+      }
+    ],
+    "past": [
+      {
+        "word": "removed",
+        "transcription": "[рим**у**:вд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "removed",
+        "transcription": "[рим**у**:вд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "removing",
+        "transcription": "[рим**у**:виŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "removes",
+        "transcription": "[рим**у**:вз]"
+      }
+    ]
+  },
+  "meaning": "удалять, убирать, снимать",
+  "notes": "правильный переходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "removed",
+        "examples": [
+          {
+            "ours": "Вчера мы убрали тросы с палубы.",
+            "thought": "Вчера мы удалили [известные] тросы с [известной] палубы.",
+            "english": "Yesterday we removed the ropes from the deck.",
+            "transcription": "[й**э**стэдэй wи: рим**у**:вд ðэ роупс фром ðэ дэк]"
+          },
+          {
+            "ours": "Он не снял парус.",
+            "thought": "Он [сделал] не удалять [известный] парус.",
+            "english": "He didn't remove the sail.",
+            "transcription": "[хи: диднт рим**у**:в ðэ сэйл]"
+          },
+          {
+            "ours": "Ты убрал инструменты до выхода?",
+            "thought": "[Сделал] ты удалять [известные] инструменты перед отправлением?",
+            "english": "Did you remove the tools before departure?",
+            "transcription": "[дид ю: рим**у**:в ðэ ту:лз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "remove, removes",
+        "examples": [
+          {
+            "ours": "Экипаж убирает воду с палубы.",
+            "thought": "[Известный] экипаж удаляет воду с [известной] палубы.",
+            "english": "The crew removes water from the deck.",
+            "transcription": "[ðэ кру: рим**у**:вз w**о**:тэ фром ðэ дэк]"
+          },
+          {
+            "ours": "Он не снимает парус во время гонки.",
+            "thought": "Он [делает] не удалять [известный] парус во время [известной] гонки.",
+            "english": "He doesn't remove the sail during the race.",
+            "transcription": "[хи: дазнт рим**у**:в ðэ сэйл дь**ю**эриŋ ðэ рэйс]"
+          },
+          {
+            "ours": "Ты убираешь инструменты с палубы?",
+            "thought": "[Делаешь] ты удалять [известные] инструменты с [известной] палубы?",
+            "english": "Do you remove the tools from the deck?",
+            "transcription": "[ду: ю: рим**у**:в ðэ ту:лз фром ðэ дэк]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will remove",
+        "examples": [
+          {
+            "ours": "Завтра мы уберём тросы с палубы.",
+            "thought": "Завтра мы будем удалять [известные] тросы с [известной] палубы.",
+            "english": "Tomorrow we will remove the ropes from the deck.",
+            "transcription": "[тэм**о**роу wи: wил рим**у**:в ðэ роупс фром ðэ дэк]"
+          },
+          {
+            "ours": "Он не снимет парус.",
+            "thought": "Он будет не удалять [известный] парус.",
+            "english": "He won't remove the sail.",
+            "transcription": "[хи: wоунт рим**у**:в ðэ сэйл]"
+          },
+          {
+            "ours": "Ты уберёшь инструменты до выхода?",
+            "thought": "Будешь ты удалять [известные] инструменты перед отправлением?",
+            "english": "Will you remove the tools before departure?",
+            "transcription": "[wил ю: рим**у**:в ðэ ту:лз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were removing",
+        "examples": [
+          {
+            "ours": "Вчера мы весь день убирали воду с палубы.",
+            "thought": "Вчера мы были удаляющими воду с [известной] палубы весь день.",
+            "english": "Yesterday we were removing water from the deck all day.",
+            "transcription": "[й**э**стэдэй wи: wœ: рим**у**:виŋ w**о**:тэ фром ðэ дэк о:л дэй]"
+          },
+          {
+            "ours": "Ты убирал инструменты, когда я пришёл?",
+            "thought": "Был ты удаляющим [известные] инструменты когда я пришёл?",
+            "english": "Were you removing the tools when I came?",
+            "transcription": "[wœ: ю: рим**у**:виŋ ðэ ту:лз wэн ай кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are removing",
+        "examples": [
+          {
+            "ours": "Сейчас мы убираем воду с палубы.",
+            "thought": "Мы являемся удаляющими воду с [известной] палубы сейчас.",
+            "english": "We are removing water from the deck now.",
+            "transcription": "[wи: а: рим**у**:виŋ w**о**:тэ фром ðэ дэк нау]"
+          },
+          {
+            "ours": "Ты сейчас снимаешь парус?",
+            "thought": "Являешься ты удаляющим [известный] парус сейчас?",
+            "english": "Are you removing the sail now?",
+            "transcription": "[а: ю: рим**у**:виŋ ðэ сэйл нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be removing",
+        "examples": [
+          {
+            "ours": "Завтра мы весь день будем убирать воду с палубы.",
+            "thought": "Завтра мы будем быть удаляющими воду с [известной] палубы весь день.",
+            "english": "Tomorrow we will be removing water from the deck all day.",
+            "transcription": "[тэм**о**роу wи: wил би: рим**у**:виŋ w**о**:тэ фром ðэ дэк о:л дэй]"
+          },
+          {
+            "ours": "Ты будешь убирать инструменты до выхода?",
+            "thought": "Будешь ты быть удаляющим [известные] инструменты перед отправлением?",
+            "english": "Will you be removing the tools before departure?",
+            "transcription": "[wил ю: би: рим**у**:виŋ ðэ ту:лз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had removed",
+        "examples": [
+          {
+            "ours": "Вчера к пяти мы уже убрали тросы.",
+            "thought": "К пяти вчера мы имели уже удалёнными [известные] тросы.",
+            "english": "By five yesterday we had already removed the ropes.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди рим**у**:вд ðэ роупс]"
+          },
+          {
+            "ours": "Ты снял парус до шторма?",
+            "thought": "Имел ты удалённым [известный] парус перед [известным] штормом?",
+            "english": "Had you removed the sail before the storm?",
+            "transcription": "[хæд ю: рим**у**:вд ðэ сэйл биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has removed",
+        "examples": [
+          {
+            "ours": "Мы уже убрали воду с палубы.",
+            "thought": "Мы имеем уже удалённой воду с [известной] палубы.",
+            "english": "We have already removed water from the deck.",
+            "transcription": "[wи: хæв о:лр**э**ди рим**у**:вд w**о**:тэ фром ðэ дэк]"
+          },
+          {
+            "ours": "Ты уже снял парус?",
+            "thought": "Имеешь ты уже удалённым [известный] парус?",
+            "english": "Have you already removed the sail?",
+            "transcription": "[хæв ю: о:лр**э**ди рим**у**:вд ðэ сэйл]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have removed",
+        "examples": [
+          {
+            "ours": "Завтра к пяти мы уже уберём тросы.",
+            "thought": "К пяти завтра мы будем иметь уже удалёнными [известные] тросы.",
+            "english": "By five tomorrow we will have already removed the ropes.",
+            "transcription": "[бай файв тэм**о**роу wи: wил хæв о:лр**э**ди рим**у**:вд ðэ роупс]"
+          },
+          {
+            "ours": "Ты снимешь парус до шторма?",
+            "thought": "Будешь ты иметь удалённым [известный] парус перед [известным] штормом?",
+            "english": "Will you have removed the sail before the storm?",
+            "transcription": "[wил ю: хæв рим**у**:вд ðэ сэйл биф**о**: ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been removing",
+        "examples": [
+          {
+            "ours": "Мы уже два часа убирали воду с палубы, когда ты пришёл.",
+            "thought": "Мы имели быть удаляющими воду с [известной] палубы целых два часа когда ты пришёл.",
+            "english": "We had been removing water from the deck for two hours when you came.",
+            "transcription": "[wи: хæд би:н рим**у**:виŋ w**о**:тэ фром ðэ дэк фо: ту: **а**уэз wэн ю: кэйм]"
+          },
+          {
+            "ours": "Ты уже два часа убирал инструменты, когда он пришёл?",
+            "thought": "Имел ты быть удаляющим инструменты целых два часа когда он пришёл?",
+            "english": "Had you been removing tools for two hours when he came?",
+            "transcription": "[хæд ю: би:н рим**у**:виŋ ту:лз фо: ту: **а**уэз wэн хи: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been removing",
+        "examples": [
+          {
+            "ours": "Мы уже два часа убираем воду с палубы.",
+            "thought": "Мы имеем быть удаляющими воду с [известной] палубы целых два часа.",
+            "english": "We have been removing water from the deck for two hours.",
+            "transcription": "[wи: хæв би:н рим**у**:виŋ w**о**:тэ фром ðэ дэк фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже два часа убираешь инструменты?",
+            "thought": "Имеешь ты быть удаляющим инструменты целых два часа?",
+            "english": "Have you been removing tools for two hours?",
+            "transcription": "[хæв ю: би:н рим**у**:виŋ ту:лз фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been removing",
+        "examples": [
+          {
+            "ours": "К пяти мы будем убирать воду с палубы уже два часа.",
+            "thought": "К пяти мы будем иметь быть удаляющими воду с [известной] палубы целых два часа.",
+            "english": "By five we will have been removing water from the deck for two hours.",
+            "transcription": "[бай файв wи: wил хæв би:н рим**у**:виŋ w**о**:тэ фром ðэ дэк фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь убирать инструменты уже два часа?",
+            "thought": "Будешь ты иметь быть удаляющим инструменты целых два часа к пяти?",
+            "english": "Will you have been removing tools for two hours by five?",
+            "transcription": "[wил ю: хæв би:н рим**у**:виŋ ту:лз фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were removed",
+        "examples": [
+          {
+            "ours": "Вчера тросы убрали с палубы.",
+            "thought": "[Известные] тросы были удалены с [известной] палубы вчера.",
+            "english": "The ropes were removed from the deck yesterday.",
+            "transcription": "[ðэ роупс wœ: рим**у**:вд фром ðэ дэк й**э**стэдэй]"
+          },
+          {
+            "ours": "Парус сняли до шторма?",
+            "thought": "Был [известный] парус удалён перед [известным] штормом?",
+            "english": "Was the sail removed before the storm?",
+            "transcription": "[wоз ðэ сэйл рим**у**:вд биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are removed",
+        "examples": [
+          {
+            "ours": "Воду убирают с палубы.",
+            "thought": "Вода есть удалена с [известной] палубы.",
+            "english": "Water is removed from the deck.",
+            "transcription": "[w**о**:тэ из рим**у**:вд фром ðэ дэк]"
+          },
+          {
+            "ours": "Инструменты убирают до выхода?",
+            "thought": "Есть [известные] инструменты удалены перед отправлением?",
+            "english": "Are the tools removed before departure?",
+            "transcription": "[а: ðэ ту:лз рим**у**:вд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be removed",
+        "examples": [
+          {
+            "ours": "Завтра тросы уберут с палубы.",
+            "thought": "[Известные] тросы будут быть удалены с [известной] палубы завтра.",
+            "english": "The ropes will be removed from the deck tomorrow.",
+            "transcription": "[ðэ роупс wил би: рим**у**:вд фром ðэ дэк тэм**о**роу]"
+          },
+          {
+            "ours": "Парус снимут до шторма?",
+            "thought": "Будет [известный] парус быть удалён перед [известным] штормом?",
+            "english": "Will the sail be removed before the storm?",
+            "transcription": "[wил ðэ сэйл би: рим**у**:вд биф**о**: ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being removed",
+        "examples": [
+          {
+            "ours": "Вчера воду весь день убирали с палубы.",
+            "thought": "Вчера вода была «долго» удалена с [известной] палубы весь день.",
+            "english": "Yesterday water was being removed from the deck all day.",
+            "transcription": "[й**э**стэдэй w**о**:тэ wоз б**и**:иŋ рим**у**:вд фром ðэ дэк о:л дэй]"
+          },
+          {
+            "ours": "Инструменты убирали, когда ты пришёл?",
+            "thought": "Были [известные] инструменты «долго» удалены когда ты пришёл?",
+            "english": "Were the tools being removed when you came?",
+            "transcription": "[wœ: ðэ ту:лз б**и**:иŋ рим**у**:вд wэн ю: кэйм]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being removed",
+        "examples": [
+          {
+            "ours": "Сейчас воду убирают с палубы.",
+            "thought": "Вода есть «долго» удалена с [известной] палубы сейчас.",
+            "english": "Water is being removed from the deck now.",
+            "transcription": "[w**о**:тэ из б**и**:иŋ рим**у**:вд фром ðэ дэк нау]"
+          },
+          {
+            "ours": "Сейчас снимают парус?",
+            "thought": "Есть [известный] парус «долго» удалён сейчас?",
+            "english": "Is the sail being removed now?",
+            "transcription": "[из ðэ сэйл б**и**:иŋ рим**у**:вд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be removing",
+        "examples": [
+          {
+            "ours": "Завтра они весь день будут убирать воду с палубы.",
+            "thought": "Завтра они будут быть удаляющими воду с [известной] палубы весь день.",
+            "english": "Tomorrow they will be removing water from the deck all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: рим**у**:виŋ w**о**:тэ фром ðэ дэк о:л дэй]"
+          },
+          {
+            "ours": "Они будут убирать инструменты до выхода?",
+            "thought": "Будут они быть удаляющими [известные] инструменты перед отправлением?",
+            "english": "Will they be removing the tools before departure?",
+            "transcription": "[wил ðэй би: рим**у**:виŋ ðэ ту:лз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been removed",
+        "examples": [
+          {
+            "ours": "Вчера к пяти тросы уже убрали.",
+            "thought": "К пяти вчера [известные] тросы имели уже быть удалены.",
+            "english": "By five yesterday the ropes had already been removed.",
+            "transcription": "[бай файв й**э**стэдэй ðэ роупс хæд о:лр**э**ди би:н рим**у**:вд]"
+          },
+          {
+            "ours": "Парус сняли до шторма?",
+            "thought": "Имел [известный] парус быть удалён перед [известным] штормом?",
+            "english": "Had the sail been removed before the storm?",
+            "transcription": "[хæд ðэ сэйл би:н рим**у**:вд биф**о**: ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been removed",
+        "examples": [
+          {
+            "ours": "Воду уже убрали с палубы.",
+            "thought": "Вода имеет уже быть удалена с [известной] палубы.",
+            "english": "Water has already been removed from the deck.",
+            "transcription": "[w**о**:тэ хæз о:лр**э**ди би:н рим**у**:вд фром ðэ дэк]"
+          },
+          {
+            "ours": "Парус уже сняли?",
+            "thought": "Имеет [известный] парус уже быть удалён?",
+            "english": "Has the sail already been removed?",
+            "transcription": "[хæз ðэ сэйл о:лр**э**ди би:н рим**у**:вд]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been removed",
+        "examples": [
+          {
+            "ours": "К пяти завтра тросы уже уберут.",
+            "thought": "К пяти завтра [известные] тросы будут уже иметь быть удалены.",
+            "english": "By five tomorrow the ropes will already have been removed.",
+            "transcription": "[бай файв тэм**о**роу ðэ роупс wил о:лр**э**ди хæв би:н рим**у**:вд]"
+          },
+          {
+            "ours": "Парус снимут до шторма?",
+            "thought": "Будет [известный] парус иметь быть удалён перед [известным] штормом?",
+            "english": "Will the sail have been removed before the storm?",
+            "transcription": "[wил ðэ сэйл хæв би:н рим**у**:вд биф**о**: ðэ сто:м]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого говорят: Water has been removed from the deck. Или: They have been removing water."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Капитан сказал, что они уберут тросы.",
+        "thought": "[Известный] капитан сказал что они будут удалять [известные] тросы.",
+        "english": "The captain said that they would remove the ropes.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд рим**у**:в ðэ роупс]"
+      },
+      {
+        "ours": "Я знал, что ты не снимешь парус.",
+        "thought": "Я знал что ты будешь не удалять [известный] парус.",
+        "english": "I knew that you wouldn't remove the sail.",
+        "transcription": "[ай нью: ðæт ю: wуднт рим**у**:в ðэ сэйл]"
+      },
+      {
+        "ours": "Капитан сказал, что мы уберём воду с палубы.",
+        "thought": "[Известный] капитан сказал что мы будем удалять воду с [известной] палубы.",
+        "english": "The captain said that we would remove water from the deck.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд рим**у**:в w**о**:тэ фром ðэ дэк]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "rope",
+      "meaning": "трос",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "ropes"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "tool",
+      "meaning": "инструмент",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "tools"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "tools"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "tools"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "tools"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "tools"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "tools"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "tools"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "tools"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "tools"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "tools"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "tools"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отправление",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Water"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Water"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "Water"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
+        }
+      ]
+    }
+  ]
+}

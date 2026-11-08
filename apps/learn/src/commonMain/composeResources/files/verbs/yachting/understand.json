@@ -1,0 +1,578 @@
+{
+  "spec": 4,
+  "verb": "understand",
+  "forms": {
+    "base": [
+      {
+        "word": "understand",
+        "transcription": "[андэст**æ**нд]"
+      }
+    ],
+    "past": [
+      {
+        "word": "understood",
+        "transcription": "[андэст**у**д]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "understood",
+        "transcription": "[андэст**у**д]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "understanding",
+        "transcription": "[андэст**æ**ндиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "understands",
+        "transcription": "[андэст**æ**ндз]"
+      }
+    ]
+  },
+  "meaning": "понимать",
+  "notes": "неправильный переходный глагол; обычно обозначает состояние",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "understood",
+        "examples": [
+          {
+            "ours": "Вчера я понял прогноз.",
+            "thought": "Вчера я понял [известный] прогноз.",
+            "english": "Yesterday I understood the forecast.",
+            "transcription": "[й**э**стэдэй ай андэст**у**д ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Она не поняла маршрут.",
+            "thought": "Она [сделала] не понимать [известный] маршрут.",
+            "english": "She did not understand the route.",
+            "transcription": "[ши: дид нот андэст**æ**нд ðэ ру:т]"
+          },
+          {
+            "ours": "Ты понял указания?",
+            "thought": "[Сделал] ты понимать [известные] указания?",
+            "english": "Did you understand the instructions?",
+            "transcription": "[дид ю: андэст**æ**нд ðи инстр**а**кшнз]"
+          }
+        ]
+      },
+      "present": {
+        "form": "understand, understands",
+        "examples": [
+          {
+            "ours": "Я понимаю прогноз.",
+            "thought": "Я понимаю [известный] прогноз.",
+            "english": "I understand the forecast.",
+            "transcription": "[ай андэст**æ**нд ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Он не понимает маршрут.",
+            "thought": "Он [делает] не понимать [известный] маршрут.",
+            "english": "He does not understand the route.",
+            "transcription": "[хи: даз нот андэст**æ**нд ðэ ру:т]"
+          },
+          {
+            "ours": "Ты понимаешь указания?",
+            "thought": "[Делаешь] ты понимать [известные] указания?",
+            "english": "Do you understand the instructions?",
+            "transcription": "[ду: ю: андэст**æ**нд ðи инстр**а**кшнз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will understand",
+        "examples": [
+          {
+            "ours": "Завтра мы поймём прогноз.",
+            "thought": "Завтра мы будем понимать [известный] прогноз.",
+            "english": "Tomorrow we will understand the forecast.",
+            "transcription": "[тэм**о**роу wи: wил андэст**æ**нд ðэ ф**о**:ка:ст]"
+          },
+          {
+            "ours": "Она не поймёт маршрут без карты.",
+            "thought": "Она будет не понимать [известный] маршрут без [какой-то] карты.",
+            "english": "She will not understand the route without a chart.",
+            "transcription": "[ши: wил нот андэст**æ**нд ðэ ру:т wиð**а**ут э ча:т]"
+          },
+          {
+            "ours": "Ты поймёшь указания?",
+            "thought": "Будешь ты понимать [известные] указания?",
+            "english": "Will you understand the instructions?",
+            "transcription": "[wил ю: андэст**æ**нд ðи инстр**а**кшнз]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Understand обычно обозначает состояние понимания и не употребляется в длительной форме. Скажут: I understand the forecast."
+    },
+    "perfect": {
+      "past": {
+        "form": "had understood",
+        "examples": [
+          {
+            "ours": "К началу гонки я уже понял правила.",
+            "thought": "К [известному] началу [известной] гонки я имел уже понятыми [известные] правила.",
+            "english": "By the start of the race I had already understood the rules.",
+            "transcription": "[бай ðэ ста:т ов ðэ рэйс ай хæд о:лр**э**ди андэст**у**д ðэ ру:лз]"
+          },
+          {
+            "ours": "До инструктажа ты не понял указания?",
+            "thought": "Имел ты не понятыми [известные] указания до [известного] инструктажа?",
+            "english": "Had you not understood the instructions before the briefing?",
+            "transcription": "[хæд ю: нот андэст**у**д ðи инстр**а**кшнз биф**о**: ðэ бр**и**:фиŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has understood",
+        "examples": [
+          {
+            "ours": "Я наконец понял правила.",
+            "thought": "Я имею наконец понятыми [известные] правила.",
+            "english": "I have finally understood the rules.",
+            "transcription": "[ай хæв ф**а**йнэли андэст**у**д ðэ ру:лз]"
+          },
+          {
+            "ours": "Команда ещё не поняла прогноз.",
+            "thought": "[Известная] команда имеет не понятым [известный] прогноз ещё.",
+            "english": "The crew has not understood the forecast yet.",
+            "transcription": "[ðэ кру: хæз нот андэст**у**д ðэ ф**о**:ка:ст йэт]"
+          },
+          {
+            "ours": "Ты уже понял указания?",
+            "thought": "Имеешь ты понятыми [известные] указания уже?",
+            "english": "Have you understood the instructions yet?",
+            "transcription": "[хæв ю: андэст**у**д ðи инстр**а**кшнз йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have understood",
+        "examples": [
+          {
+            "ours": "К старту мы поймём правила.",
+            "thought": "К [известному] старту мы будем иметь понятыми [известные] правила.",
+            "english": "By the start we will have understood the rules.",
+            "transcription": "[бай ðэ ста:т wи: wил хæв андэст**у**д ðэ ру:лз]"
+          },
+          {
+            "ours": "К пяти ты поймёшь прогноз?",
+            "thought": "Будешь ты иметь понятым [известный] прогноз к пяти?",
+            "english": "Will you have understood the forecast by five?",
+            "transcription": "[wил ю: хæв андэст**у**д ðэ ф**о**:ка:ст бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Understand как состояние обычно не употребляется в длительном perfect. Скажут: I have understood the rules."
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were understood",
+        "examples": [
+          {
+            "ours": "Вчера указания поняла вся команда.",
+            "thought": "Вчера [известные] указания были поняты всей [известной] командой.",
+            "english": "Yesterday the instructions were understood by all the crew.",
+            "transcription": "[й**э**стэдэй ðи инстр**а**кшнз wœ: андэст**у**д бай о:л ðэ кру:]"
+          },
+          {
+            "ours": "Прогноз не поняли.",
+            "thought": "[Известный] прогноз был не понят.",
+            "english": "The forecast was not understood.",
+            "transcription": "[ðэ ф**о**:ка:ст wоз нот андэст**у**д]"
+          },
+          {
+            "ours": "Правила поняли?",
+            "thought": "Были [известные] правила поняты?",
+            "english": "Were the rules understood?",
+            "transcription": "[wœ: ðэ ру:лз андэст**у**д]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are understood",
+        "examples": [
+          {
+            "ours": "Правила понятны экипажу.",
+            "thought": "[Известные] правила есть поняты [известной] командой.",
+            "english": "The rules are understood by the crew.",
+            "transcription": "[ðэ ру:лз а: андэст**у**д бай ðэ кру:]"
+          },
+          {
+            "ours": "Прогноз не понятен.",
+            "thought": "[Известный] прогноз есть не понят.",
+            "english": "The forecast is not understood.",
+            "transcription": "[ðэ ф**о**:ка:ст из нот андэст**у**д]"
+          },
+          {
+            "ours": "Указания понятны?",
+            "thought": "Есть [известные] указания поняты?",
+            "english": "Are the instructions understood?",
+            "transcription": "[а: ðи инстр**а**кшнз андэст**у**д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be understood",
+        "examples": [
+          {
+            "ours": "Правила поймёт вся команда.",
+            "thought": "[Известные] правила будут быть поняты всей [известной] командой.",
+            "english": "The rules will be understood by all the crew.",
+            "transcription": "[ðэ ру:лз wил би: андэст**у**д бай о:л ðэ кру:]"
+          },
+          {
+            "ours": "Без карты маршрут не будет понятен.",
+            "thought": "Без [какой-то] карты [известный] маршрут будет не быть понят.",
+            "english": "Without a chart the route will not be understood.",
+            "transcription": "[wиð**а**ут э ча:т ðэ ру:т wил нот би: андэст**у**д]"
+          },
+          {
+            "ours": "Указания поймут завтра?",
+            "thought": "Будут [известные] указания быть поняты завтра?",
+            "english": "Will the instructions be understood tomorrow?",
+            "transcription": "[wил ðи инстр**а**кшнз би: андэст**у**д тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "not_possible": "Understand обозначает состояние; длительный пассив для него неестественен. Вместо него скажут: The rules are understood by the crew."
+    },
+    "perfect": {
+      "past": {
+        "form": "had been understood",
+        "examples": [
+          {
+            "ours": "К началу гонки правила уже поняли.",
+            "thought": "К [известному] началу [известной] гонки [известные] правила имели уже быть поняты.",
+            "english": "By the start of the race the rules had already been understood.",
+            "transcription": "[бай ðэ ста:т ов ðэ рэйс ðэ ру:лз хæд о:лр**э**ди би:н андэст**у**д]"
+          },
+          {
+            "ours": "К пяти указания ещё не поняли.",
+            "thought": "К пяти [известные] указания имели не быть поняты ещё.",
+            "english": "By five the instructions had not been understood yet.",
+            "transcription": "[бай файв ðи инстр**а**кшнз хæд нот би:н андэст**у**д йэт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been understood",
+        "examples": [
+          {
+            "ours": "Правила уже поняли.",
+            "thought": "[Известные] правила имеют уже быть поняты.",
+            "english": "The rules have already been understood.",
+            "transcription": "[ðэ ру:лз хæв о:лр**э**ди би:н андэст**у**д]"
+          },
+          {
+            "ours": "Указания ещё не поняли.",
+            "thought": "[Известные] указания имеют не быть поняты ещё.",
+            "english": "The instructions have not been understood yet.",
+            "transcription": "[ðи инстр**а**кшнз хæв нот би:н андэст**у**д йэт]"
+          },
+          {
+            "ours": "Прогноз уже поняли?",
+            "thought": "Имеет [известный] прогноз быть понят уже?",
+            "english": "Has the forecast been understood yet?",
+            "transcription": "[хæз ðэ ф**о**:ка:ст би:н андэст**у**д йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been understood",
+        "examples": [
+          {
+            "ours": "К началу гонки правила поймут.",
+            "thought": "К [известному] началу [известной] гонки [известные] правила будут иметь быть поняты.",
+            "english": "By the start of the race the rules will have been understood.",
+            "transcription": "[бай ðэ ста:т ов ðэ рэйс ðэ ру:лз wил хæв би:н андэст**у**д]"
+          },
+          {
+            "ours": "К пяти указания ещё не поймут.",
+            "thought": "К пяти [известные] указания будут не иметь быть поняты ещё.",
+            "english": "By five the instructions will not have been understood yet.",
+            "transcription": "[бай файв ðи инстр**а**кшнз wил нот хæв би:н андэст**у**д йэт]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него скажут: The rules have been understood."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что она поймёт прогноз.",
+        "thought": "Я знал она будет понимать [известный] прогноз.",
+        "english": "I knew she would understand the forecast.",
+        "transcription": "[ай нью: ши: wуд андэст**æ**нд ðэ ф**о**:ка:ст]"
+      },
+      {
+        "ours": "Мы думали, что он не поймёт маршрут.",
+        "thought": "Мы думали он будет не понимать [известный] маршрут.",
+        "english": "We thought he would not understand the route.",
+        "transcription": "[wи: θо:т хи: wуд нот андэст**æ**нд ðэ ру:т]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "forecast",
+      "meaning": "прогноз",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "forecast"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "forecast"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "forecast"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "instruction",
+      "meaning": "указание",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "instructions"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "instructions"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "instructions"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "instructions"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "instructions"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "instructions"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "start",
+      "meaning": "старт",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "start"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "start"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "start"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "start"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "rule",
+      "meaning": "правило",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "rules"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "rules"
+        }
+      ]
+    },
+    {
+      "word": "briefing",
+      "meaning": "инструктаж",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "briefing"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        }
+      ]
+    }
+  ]
+}

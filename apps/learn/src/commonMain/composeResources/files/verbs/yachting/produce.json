@@ -1,0 +1,844 @@
+{
+  "spec": 4,
+  "verb": "produce",
+  "forms": {
+    "base": [
+      {
+        "word": "produce",
+        "transcription": "[прэдь**ю**:с]"
+      }
+    ],
+    "past": [
+      {
+        "word": "produced",
+        "transcription": "[прэдь**ю**:ст]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "produced",
+        "transcription": "[прэдь**ю**:ст]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "producing",
+        "transcription": "[прэдь**ю**:сиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "produces",
+        "transcription": "[прэдь**ю**:сиз]"
+      }
+    ]
+  },
+  "meaning": "производить, вырабатывать",
+  "notes": "правильный переходный глагол, имеет пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "produced",
+        "examples": [
+          {
+            "ours": "Вчера двигатель не дымил.",
+            "thought": "Вчера [известный] двигатель [сделал] не производить дым.",
+            "english": "Yesterday the engine did not produce smoke.",
+            "transcription": "[й**э**стэдэй ðи **э**нджин дид нот прэдь**ю**:с смоук]"
+          },
+          {
+            "ours": "Генератор вчера выработал энергию?",
+            "thought": "[Сделал] [известный] генератор производить энергию вчера?",
+            "english": "Did the generator produce power yesterday?",
+            "transcription": "[дид ðэ дж**э**нэрэйтэ прэдь**ю**:с п**а**уэ й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "produce, produces",
+        "examples": [
+          {
+            "ours": "Насос производит шум.",
+            "thought": "[Известный] насос производит шум.",
+            "english": "The pump produces noise.",
+            "transcription": "[ðэ памп прэдь**ю**:сиз нойз]"
+          },
+          {
+            "ours": "Панель производит электричество?",
+            "thought": "[Делает] [известная] панель производить электричество?",
+            "english": "Does the panel produce electricity?",
+            "transcription": "[даз ðэ п**æ**нл прэдь**ю**:с илэктр**и**сити]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will produce",
+        "examples": [
+          {
+            "ours": "Завтра двигатель будет производить дым.",
+            "thought": "Завтра [Известный] двигатель будет производить дым.",
+            "english": "Tomorrow the engine will produce smoke.",
+            "transcription": "[тэм**о**роу ðи **э**нджин wил прэдь**ю**:с смоук]"
+          },
+          {
+            "ours": "Завтра генератор будет вырабатывать энергию?",
+            "thought": "Будет [известный] генератор производить энергию завтра?",
+            "english": "Will the generator produce power tomorrow?",
+            "transcription": "[wил ðэ дж**э**нэрэйтэ прэдь**ю**:с п**а**уэ тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were producing",
+        "examples": [
+          {
+            "ours": "Двигатель производил дым весь день.",
+            "thought": "[Известный] двигатель был производящим дым весь день.",
+            "english": "The engine was producing smoke all day.",
+            "transcription": "[ðи **э**нджин wоз прэдь**ю**:сиŋ смоук о:л дэй]"
+          },
+          {
+            "ours": "Генератор вырабатывал энергию весь день?",
+            "thought": "Был [известный] генератор производящим энергию весь день?",
+            "english": "Was the generator producing power all day?",
+            "transcription": "[wоз ðэ дж**э**нэрэйтэ прэдь**ю**:сиŋ п**а**уэ о:л дэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are producing",
+        "examples": [
+          {
+            "ours": "Насос сейчас не шумит.",
+            "thought": "[Известный] насос является не производящим шум сейчас.",
+            "english": "The pump is not producing noise now.",
+            "transcription": "[ðэ памп из нот прэдь**ю**:сиŋ нойз нау]"
+          },
+          {
+            "ours": "Панель сейчас вырабатывает электричество?",
+            "thought": "Является [известная] панель производящей электричество сейчас?",
+            "english": "Is the panel producing electricity now?",
+            "transcription": "[из ðэ п**æ**нл прэдь**ю**:сиŋ илэктр**и**сити нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be producing",
+        "examples": [
+          {
+            "ours": "Двигатель будет производить дым весь день завтра.",
+            "thought": "[Известный] двигатель будет быть производящим дым весь день завтра.",
+            "english": "The engine will be producing smoke all day tomorrow.",
+            "transcription": "[ðи **э**нджин wил би: прэдь**ю**:сиŋ смоук о:л дэй тэм**о**роу]"
+          },
+          {
+            "ours": "Завтра генератор будет вырабатывать энергию весь день?",
+            "thought": "Будет [известный] генератор быть производящим энергию весь день завтра?",
+            "english": "Will the generator be producing power all day tomorrow?",
+            "transcription": "[wил ðэ дж**э**нэрэйтэ би: прэдь**ю**:сиŋ п**а**уэ о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had produced",
+        "examples": [
+          {
+            "ours": "К пяти генератор выработал достаточно энергии.",
+            "thought": "К пяти [известный] генератор имел произведённой достаточно энергии.",
+            "english": "By five the generator had produced enough power.",
+            "transcription": "[бай файв ðэ дж**э**нэрэйтэ хæд прэдь**ю**:ст ин**а**ф п**а**уэ]"
+          },
+          {
+            "ours": "К пяти генератор выработал энергию?",
+            "thought": "Имел [известный] генератор произведённой энергию к пяти?",
+            "english": "Had the generator produced power by five?",
+            "transcription": "[хæд ðэ дж**э**нэрэйтэ прэдь**ю**:ст п**а**уэ бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has produced",
+        "examples": [
+          {
+            "ours": "Генератор уже выработал достаточно энергии.",
+            "thought": "[Известный] генератор имеет уже произведённой достаточно энергии.",
+            "english": "The generator has already produced enough power.",
+            "transcription": "[ðэ дж**э**нэрэйтэ хæз о:лр**э**ди прэдь**ю**:ст ин**а**ф п**а**уэ]"
+          },
+          {
+            "ours": "Панель уже выработала электричество?",
+            "thought": "Имеет [известная] панель произведённым электричество уже?",
+            "english": "Has the panel produced electricity yet?",
+            "transcription": "[хæз ðэ п**æ**нл прэдь**ю**:ст илэктр**и**сити йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have produced",
+        "examples": [
+          {
+            "ours": "К пяти завтра генератор выработает достаточно энергии.",
+            "thought": "К пяти завтра [известный] генератор будет иметь произведённой достаточно энергии.",
+            "english": "By five tomorrow the generator will have produced enough power.",
+            "transcription": "[бай файв тэм**о**роу ðэ дж**э**нэрэйтэ wил хæв прэдь**ю**:ст ин**а**ф п**а**уэ]"
+          },
+          {
+            "ours": "К пяти завтра генератор выработает энергию?",
+            "thought": "Будет [известный] генератор иметь произведённой энергию к пяти завтра?",
+            "english": "Will the generator have produced power by five tomorrow?",
+            "transcription": "[wил ðэ дж**э**нэрэйтэ хæв прэдь**ю**:ст п**а**уэ бай файв тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been producing",
+        "examples": [
+          {
+            "ours": "До полудня двигатель производил дым два часа.",
+            "thought": "До полудня [Известный] двигатель имел быть производящим дым целых два часа.",
+            "english": "Before noon the engine had been producing smoke for two hours.",
+            "transcription": "[биф**о**: ну:н ðи **э**нджин хæд би:н прэдь**ю**:сиŋ смоук фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "До полудня генератор вырабатывал энергию два часа?",
+            "thought": "Имел [известный] генератор быть производящим энергию целых два часа до полудня?",
+            "english": "Had the generator been producing power for two hours before noon?",
+            "transcription": "[хæд ðэ дж**э**нэрэйтэ би:н прэдь**ю**:сиŋ п**а**уэ фо: ту: **а**уэз биф**о**: ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been producing",
+        "examples": [
+          {
+            "ours": "Насос производит шум два часа.",
+            "thought": "[Известный] насос имеет быть производящим шум целых два часа.",
+            "english": "The pump has been producing noise for two hours.",
+            "transcription": "[ðэ памп хæз би:н прэдь**ю**:сиŋ нойз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Панель вырабатывает электричество уже два часа?",
+            "thought": "Имеет [известная] панель быть производящей электричество целых два часа?",
+            "english": "Has the panel been producing electricity for two hours?",
+            "transcription": "[хæз ðэ п**æ**нл би:н прэдь**ю**:сиŋ илэктр**и**сити фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been producing",
+        "examples": [
+          {
+            "ours": "К пяти двигатель будет производить дым два часа.",
+            "thought": "К пяти [Известный] двигатель будет иметь быть производящим дым целых два часа.",
+            "english": "By five the engine will have been producing smoke for two hours.",
+            "transcription": "[бай файв ðи **э**нджин wил хæв би:н прэдь**ю**:сиŋ смоук фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти генератор будет вырабатывать энергию уже два часа?",
+            "thought": "Будет [известный] генератор иметь быть производящим энергию целых два часа к пяти?",
+            "english": "Will the generator have been producing power for two hours by five?",
+            "transcription": "[wил ðэ дж**э**нэрэйтэ хæв би:н прэдь**ю**:сиŋ п**а**уэ фо: ту: **а**уэз бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were produced",
+        "examples": [
+          {
+            "ours": "Вчера дым производился.",
+            "thought": "Вчера Дым был произведён.",
+            "english": "Yesterday smoke was produced.",
+            "transcription": "[й**э**стэдэй смоук wоз прэдь**ю**:ст]"
+          },
+          {
+            "ours": "Шум появился вчера?",
+            "thought": "Был шум произведён вчера?",
+            "english": "Was noise produced yesterday?",
+            "transcription": "[wоз нойз прэдь**ю**:ст й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are produced",
+        "examples": [
+          {
+            "ours": "Энергия не вырабатывается.",
+            "thought": "Энергия есть не произведена.",
+            "english": "Power is not produced.",
+            "transcription": "[п**а**уэ из нот прэдь**ю**:ст]"
+          },
+          {
+            "ours": "Электричество вырабатывается?",
+            "thought": "Есть электричество произведено?",
+            "english": "Is electricity produced?",
+            "transcription": "[из илэктр**и**сити прэдь**ю**:ст]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be produced",
+        "examples": [
+          {
+            "ours": "Завтра дым будет произведён.",
+            "thought": "Завтра Дым будет быть произведён.",
+            "english": "Tomorrow smoke will be produced.",
+            "transcription": "[тэм**о**роу смоук wил би: прэдь**ю**:ст]"
+          },
+          {
+            "ours": "Завтра появится шум?",
+            "thought": "Будет шум быть произведён завтра?",
+            "english": "Will noise be produced tomorrow?",
+            "transcription": "[wил нойз би: прэдь**ю**:ст тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being produced",
+        "examples": [
+          {
+            "ours": "Дым производился весь день.",
+            "thought": "Дым был «долго» произведён весь день.",
+            "english": "Smoke was being produced all day.",
+            "transcription": "[смоук wоз б**и**:иŋ прэдь**ю**:ст о:л дэй]"
+          },
+          {
+            "ours": "Шум производился весь день?",
+            "thought": "Был шум «долго» произведён весь день?",
+            "english": "Was noise being produced all day?",
+            "transcription": "[wоз нойз б**и**:иŋ прэдь**ю**:ст о:л дэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being produced",
+        "examples": [
+          {
+            "ours": "Энергия производится сейчас.",
+            "thought": "Энергия есть «долго» произведена сейчас.",
+            "english": "Power is being produced now.",
+            "transcription": "[п**а**уэ из б**и**:иŋ прэдь**ю**:ст нау]"
+          },
+          {
+            "ours": "Сейчас вырабатывается электричество?",
+            "thought": "Есть электричество «долго» произведено сейчас?",
+            "english": "Is electricity being produced now?",
+            "transcription": "[из илэктр**и**сити б**и**:иŋ прэдь**ю**:ст нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be producing",
+        "examples": [
+          {
+            "ours": "Завтра они будут вырабатывать энергию весь день.",
+            "thought": "Завтра они будут быть производящими энергию весь день.",
+            "english": "Tomorrow they will be producing power all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: прэдь**ю**:сиŋ п**а**уэ о:л дэй]"
+          },
+          {
+            "ours": "Они будут вырабатывать электричество весь день завтра?",
+            "thought": "Будут они быть производящими электричество весь день завтра?",
+            "english": "Will they be producing electricity all day tomorrow?",
+            "transcription": "[wил ðэй би: прэдь**ю**:сиŋ илэктр**и**сити о:л дэй тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been produced",
+        "examples": [
+          {
+            "ours": "К пяти было выработано достаточно энергии.",
+            "thought": "К пяти достаточно энергии имело быть произведено.",
+            "english": "By five enough power had been produced.",
+            "transcription": "[бай файв ин**а**ф п**а**уэ хæд би:н прэдь**ю**:ст]"
+          },
+          {
+            "ours": "К пяти было выработано достаточно энергии?",
+            "thought": "Имело достаточно энергии быть произведено к пяти?",
+            "english": "Had enough power been produced by five?",
+            "transcription": "[хæд ин**а**ф п**а**уэ би:н прэдь**ю**:ст бай файв]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been produced",
+        "examples": [
+          {
+            "ours": "Достаточно энергии ещё не выработано.",
+            "thought": "Достаточно энергии имеет не быть произведено ещё.",
+            "english": "Enough power has not been produced yet.",
+            "transcription": "[ин**а**ф п**а**уэ хæз нот би:н прэдь**ю**:ст йэт]"
+          },
+          {
+            "ours": "Уже выработано достаточно электричества?",
+            "thought": "Имеет достаточно электричества быть произведено уже?",
+            "english": "Has enough electricity been produced yet?",
+            "transcription": "[хæз ин**а**ф илэктр**и**сити би:н прэдь**ю**:ст йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been produced",
+        "examples": [
+          {
+            "ours": "К пяти завтра выработают достаточно энергии.",
+            "thought": "К пяти завтра достаточно энергии будет иметь быть произведено.",
+            "english": "By five tomorrow enough power will have been produced.",
+            "transcription": "[бай файв тэм**о**роу ин**а**ф п**а**уэ wил хæв би:н прэдь**ю**:ст]"
+          },
+          {
+            "ours": "К пяти завтра выработают достаточно электричества?",
+            "thought": "Будет достаточно электричества иметь быть произведено к пяти завтра?",
+            "english": "Will enough electricity have been produced by five tomorrow?",
+            "transcription": "[wил ин**а**ф илэктр**и**сити хæв би:н прэдь**ю**:ст бай файв тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The generator has been producing power."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что двигатель произведёт дым.",
+        "thought": "Я знал [известный] двигатель будет производить дым.",
+        "english": "I knew the engine would produce smoke.",
+        "transcription": "[ай нью: ðи **э**нджин wуд прэдь**ю**:с смоук]"
+      },
+      {
+        "ours": "Мы думали, что генератор не будет вырабатывать энергию.",
+        "thought": "Мы думали [известный] генератор будет не производить энергию.",
+        "english": "We thought the generator would not produce power.",
+        "transcription": "[wи: θо:т ðэ дж**э**нэрэйтэ wуд нот прэдь**ю**:с п**а**уэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "smoke",
+      "meaning": "дым",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "smoke"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "smoke"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "smoke"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "smoke"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "smoke"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "smoke"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "smoke"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "smoke"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Smoke"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "smoke"
+        }
+      ]
+    },
+    {
+      "word": "generator",
+      "meaning": "генератор",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "generator"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "generator"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "generator"
+        }
+      ]
+    },
+    {
+      "word": "power",
+      "meaning": "энергия",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "power"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "power"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "power"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "power"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "power"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "power"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "power"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "power"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "power"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "power"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "power"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Power"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Power"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "power"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "power"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "power"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "power"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "power"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "power"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "насос",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "noise",
+      "meaning": "шум",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "noise"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "noise"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "noise"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "noise"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "noise"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "noise"
+        }
+      ]
+    },
+    {
+      "word": "panel",
+      "meaning": "панель",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "panel"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "panel"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "panel"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "panel"
+        }
+      ]
+    },
+    {
+      "word": "electricity",
+      "meaning": "электричество",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "electricity"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "electricity"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "electricity"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "electricity"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "electricity"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "electricity"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "electricity"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "electricity"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "electricity"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "noon"
+        }
+      ]
+    }
+  ]
+}

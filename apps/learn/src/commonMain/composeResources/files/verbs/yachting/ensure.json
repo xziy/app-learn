@@ -1,0 +1,841 @@
+{
+  "spec": 4,
+  "verb": "ensure",
+  "forms": {
+    "base": [
+      {
+        "word": "ensure",
+        "transcription": "[инш**у**э]"
+      }
+    ],
+    "past": [
+      {
+        "word": "ensured",
+        "transcription": "[инш**у**эд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "ensured",
+        "transcription": "[инш**у**эд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "ensuring",
+        "transcription": "[инш**у**эриŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "ensures",
+        "transcription": "[инш**у**эз]"
+      }
+    ]
+  },
+  "meaning": "обеспечивать, гарантировать",
+  "notes": "правильный переходный глагол; ensure something — обеспечивать что-либо, ensure that — следить за тем, чтобы; образует пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "ensured",
+        "examples": [
+          {
+            "ours": "Вчера мы обеспечили вентиляцию.",
+            "thought": "Вчера мы обеспечили вентиляцию.",
+            "english": "Yesterday we ensured ventilation.",
+            "transcription": "[й**э**стэдэй wи: инш**у**эд вэнтил**э**йшн]"
+          },
+          {
+            "ours": "Ты обеспечил безопасность?",
+            "thought": "[Сделал] ты обеспечивать безопасность?",
+            "english": "Did you ensure safety?",
+            "transcription": "[дид ю: инш**у**э с**э**йфти]"
+          },
+          {
+            "ours": "Она не обеспечила вентиляцию.",
+            "thought": "Она [сделала] не обеспечивать вентиляцию.",
+            "english": "She did not ensure ventilation.",
+            "transcription": "[ши: дид нот инш**у**э вэнтил**э**йшн]"
+          }
+        ]
+      },
+      "present": {
+        "form": "ensure, ensures",
+        "examples": [
+          {
+            "ours": "Шкипер обеспечивает безопасность.",
+            "thought": "[Известный] шкипер обеспечивает безопасность.",
+            "english": "The skipper ensures safety.",
+            "transcription": "[ðэ ск**и**пэ инш**у**эз с**э**йфти]"
+          },
+          {
+            "ours": "Ты обеспечиваешь вентиляцию на борту?",
+            "thought": "[Делаешь] ты обеспечивать вентиляцию на борту?",
+            "english": "Do you ensure ventilation on board?",
+            "transcription": "[ду: ю: инш**у**э вэнтил**э**йшн он бо:д]"
+          },
+          {
+            "ours": "Мы не обеспечиваем питание на борту.",
+            "thought": "Мы [делаем] не обеспечивать питание на борту.",
+            "english": "We do not ensure power on board.",
+            "transcription": "[wи: ду: нот инш**у**э п**а**уэ он бо:д]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will ensure",
+        "examples": [
+          {
+            "ours": "Завтра мы обеспечим безопасность.",
+            "thought": "Завтра мы будем обеспечивать безопасность.",
+            "english": "Tomorrow we will ensure safety.",
+            "transcription": "[тэм**о**роу wи: wил инш**у**э с**э**йфти]"
+          },
+          {
+            "ours": "Ты обеспечишь вентиляцию?",
+            "thought": "Будешь ты обеспечивать вентиляцию?",
+            "english": "Will you ensure ventilation?",
+            "transcription": "[wил ю: инш**у**э вэнтил**э**йшн]"
+          },
+          {
+            "ours": "Она не обеспечит питание.",
+            "thought": "Она будет не обеспечивать питание.",
+            "english": "She will not ensure power.",
+            "transcription": "[ши: wил нот инш**у**э п**а**уэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were ensuring",
+        "examples": [
+          {
+            "ours": "Вчера утром мы обеспечивали безопасность.",
+            "thought": "Вчера утром мы были обеспечивающими безопасность.",
+            "english": "Yesterday morning we were ensuring safety.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: инш**у**эриŋ с**э**йфти]"
+          },
+          {
+            "ours": "Ты обеспечивал вентиляцию, когда я позвонил?",
+            "thought": "Был ты обеспечивающим вентиляцию, когда я позвонил?",
+            "english": "Were you ensuring ventilation when I called?",
+            "transcription": "[wœ: ю: инш**у**эриŋ вэнтил**э**йшн wэн ай ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are ensuring",
+        "examples": [
+          {
+            "ours": "Мы сейчас обеспечиваем безопасность.",
+            "thought": "Мы являемся обеспечивающими безопасность сейчас.",
+            "english": "We are ensuring safety now.",
+            "transcription": "[wи: а: инш**у**эриŋ с**э**йфти нау]"
+          },
+          {
+            "ours": "Шкипер сейчас обеспечивает вентиляцию?",
+            "thought": "Является [известный] шкипер обеспечивающим вентиляцию сейчас?",
+            "english": "Is the skipper ensuring ventilation now?",
+            "transcription": "[из ðэ ск**и**пэ инш**у**эриŋ вэнтил**э**йшн нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be ensuring",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем обеспечивать безопасность.",
+            "thought": "Завтра утром мы будем быть обеспечивающими безопасность.",
+            "english": "Tomorrow morning we will be ensuring safety.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: инш**у**эриŋ с**э**йфти]"
+          },
+          {
+            "ours": "Ты будешь обеспечивать вентиляцию во время ремонта?",
+            "thought": "Будешь ты быть обеспечивающим вентиляцию во время [известного] ремонта?",
+            "english": "Will you be ensuring ventilation during the repairs?",
+            "transcription": "[wил ю: би: инш**у**эриŋ вэнтил**э**йшн дь**ю**эриŋ ðэ рип**э**эз]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had ensured",
+        "examples": [
+          {
+            "ours": "К полудню мы уже обеспечили вентиляцию.",
+            "thought": "К полудню мы имели уже обеспеченной вентиляцию.",
+            "english": "By noon we had already ensured ventilation.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди инш**у**эд вэнтил**э**йшн]"
+          },
+          {
+            "ours": "Ты обеспечил безопасность до отхода?",
+            "thought": "Имел ты обеспеченной безопасность до отхода?",
+            "english": "Had you ensured safety before departure?",
+            "transcription": "[хæд ю: инш**у**эд с**э**йфти биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has ensured",
+        "examples": [
+          {
+            "ours": "Мы уже обеспечили вентиляцию.",
+            "thought": "Мы имеем уже обеспеченной вентиляцию.",
+            "english": "We have already ensured ventilation.",
+            "transcription": "[wи: хæв о:лр**э**ди инш**у**эд вэнтил**э**йшн]"
+          },
+          {
+            "ours": "Ты уже обеспечил безопасность?",
+            "thought": "Имеешь ты обеспеченной безопасность уже?",
+            "english": "Have you ensured safety yet?",
+            "transcription": "[хæв ю: инш**у**эд с**э**йфти йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have ensured",
+        "examples": [
+          {
+            "ours": "К полудню мы обеспечим вентиляцию.",
+            "thought": "К полудню мы будем иметь обеспеченной вентиляцию.",
+            "english": "By noon we will have ensured ventilation.",
+            "transcription": "[бай ну:н wи: wил хæв инш**у**эд вэнтил**э**йшн]"
+          },
+          {
+            "ours": "Ты обеспечишь безопасность к пяти?",
+            "thought": "Будешь ты иметь обеспеченной безопасность к пяти?",
+            "english": "Will you have ensured safety by five?",
+            "transcription": "[wил ю: хæв инш**у**эд с**э**йфти бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been ensuring",
+        "examples": [
+          {
+            "ours": "Команда час обеспечивала безопасность, когда начался дождь.",
+            "thought": "[Известная] команда имела быть обеспечивающей безопасность целый [какой-то] час, когда он начал идти дождём.",
+            "english": "The crew had been ensuring safety for an hour when it started raining.",
+            "transcription": "[ðэ кру: хæд би:н инш**у**эриŋ с**э**йфти фо: эн **а**уэ wэн ит ст**а**:тид р**э**йниŋ]"
+          },
+          {
+            "ours": "Ты обеспечивал вентиляцию два часа до отхода?",
+            "thought": "Имел ты быть обеспечивающим вентиляцию целых два часа до отхода?",
+            "english": "Had you been ensuring ventilation for two hours before departure?",
+            "transcription": "[хæд ю: би:н инш**у**эриŋ вэнтил**э**йшн фо: ту: **а**уэз биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been ensuring",
+        "examples": [
+          {
+            "ours": "Команда обеспечивает безопасность уже час.",
+            "thought": "[Известная] команда имеет быть обеспечивающей безопасность целый [какой-то] час.",
+            "english": "The crew has been ensuring safety for an hour.",
+            "transcription": "[ðэ кру: хæз би:н инш**у**эриŋ с**э**йфти фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты обеспечиваешь вентиляцию уже два часа?",
+            "thought": "Имеешь ты быть обеспечивающим вентиляцию целых два часа?",
+            "english": "Have you been ensuring ventilation for two hours?",
+            "transcription": "[хæв ю: би:н инш**у**эриŋ вэнтил**э**йшн фо: ту: **а**уэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been ensuring",
+        "examples": [
+          {
+            "ours": "К пяти команда будет обеспечивать безопасность уже два часа.",
+            "thought": "К пяти [известная] команда будет иметь быть обеспечивающей безопасность целых два часа.",
+            "english": "By five the crew will have been ensuring safety for two hours.",
+            "transcription": "[бай файв ðэ кру: wил хæв би:н инш**у**эриŋ с**э**йфти фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К полудню ты будешь обеспечивать вентиляцию уже час?",
+            "thought": "Будешь ты иметь быть обеспечивающим вентиляцию целый [какой-то] час к полудню?",
+            "english": "Will you have been ensuring ventilation for an hour by noon?",
+            "transcription": "[wил ю: хæв би:н инш**у**эриŋ вэнтил**э**йшн фо: эн **а**уэ бай ну:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were ensured",
+        "examples": [
+          {
+            "ours": "Вентиляцию обеспечили вчера.",
+            "thought": "Вентиляция была обеспечена вчера.",
+            "english": "Ventilation was ensured yesterday.",
+            "transcription": "[вэнтил**э**йшн wоз инш**у**эд й**э**стэдэй]"
+          },
+          {
+            "ours": "Безопасность обеспечили до отхода?",
+            "thought": "Была безопасность обеспечена до отхода?",
+            "english": "Was safety ensured before departure?",
+            "transcription": "[wоз с**э**йфти инш**у**эд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are ensured",
+        "examples": [
+          {
+            "ours": "Вентиляция обеспечивается вентиляторами.",
+            "thought": "Вентиляция есть обеспечена от вентиляторов.",
+            "english": "Ventilation is ensured by fans.",
+            "transcription": "[вэнтил**э**йшн из инш**у**эд бай фæнз]"
+          },
+          {
+            "ours": "Безопасность обеспечивается экипажем?",
+            "thought": "Есть безопасность обеспечена от [известной] команды?",
+            "english": "Is safety ensured by the crew?",
+            "transcription": "[из с**э**йфти инш**у**эд бай ðэ кру:]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be ensured",
+        "examples": [
+          {
+            "ours": "Безопасность обеспечат завтра.",
+            "thought": "Безопасность будет быть обеспечена завтра.",
+            "english": "Safety will be ensured tomorrow.",
+            "transcription": "[с**э**йфти wил би: инш**у**эд тэм**о**роу]"
+          },
+          {
+            "ours": "Вентиляцию обеспечат до отхода?",
+            "thought": "Будет вентиляция быть обеспечена до отхода?",
+            "english": "Will ventilation be ensured before departure?",
+            "transcription": "[wил вэнтил**э**йшн би: инш**у**эд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being ensured",
+        "examples": [
+          {
+            "ours": "Когда я прибыл, безопасность обеспечивал экипаж.",
+            "thought": "Безопасность была «долго» обеспечена от [известной] команды, когда я прибыл.",
+            "english": "Safety was being ensured by the crew when I arrived.",
+            "transcription": "[с**э**йфти wоз б**и**:иŋ инш**у**эд бай ðэ кру: wэн ай эр**а**йвд]"
+          },
+          {
+            "ours": "Когда ты позвонил, вентиляцию обеспечивали?",
+            "thought": "Была вентиляция «долго» обеспечена, когда ты позвонил?",
+            "english": "Was ventilation being ensured when you called?",
+            "transcription": "[wоз вэнтил**э**йшн б**и**:иŋ инш**у**эд wэн ю: ко:лд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being ensured",
+        "examples": [
+          {
+            "ours": "Сейчас безопасность обеспечивает экипаж.",
+            "thought": "Безопасность есть «долго» обеспечена от [известной] команды сейчас.",
+            "english": "Safety is being ensured by the crew now.",
+            "transcription": "[с**э**йфти из б**и**:иŋ инш**у**эд бай ðэ кру: нау]"
+          },
+          {
+            "ours": "Сейчас вентиляцию обеспечивают?",
+            "thought": "Есть вентиляция «долго» обеспечена сейчас?",
+            "english": "Is ventilation being ensured now?",
+            "transcription": "[из вэнтил**э**йшн б**и**:иŋ инш**у**эд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be ensuring",
+        "examples": [
+          {
+            "ours": "Завтра утром они будут обеспечивать безопасность.",
+            "thought": "Завтра утром они будут быть обеспечивающими безопасность.",
+            "english": "Tomorrow morning they will be ensuring safety.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ ðэй wил би: инш**у**эриŋ с**э**йфти]"
+          },
+          {
+            "ours": "Они будут обеспечивать вентиляцию во время ремонта?",
+            "thought": "Будут они быть обеспечивающими вентиляцию во время [известного] ремонта?",
+            "english": "Will they be ensuring ventilation during the repairs?",
+            "transcription": "[wил ðэй би: инш**у**эриŋ вэнтил**э**йшн дь**ю**эриŋ ðэ рип**э**эз]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been ensured",
+        "examples": [
+          {
+            "ours": "К полудню вентиляцию уже обеспечили.",
+            "thought": "К полудню вентиляция имела уже быть обеспечена.",
+            "english": "By noon ventilation had already been ensured.",
+            "transcription": "[бай ну:н вэнтил**э**йшн хæд о:лр**э**ди би:н инш**у**эд]"
+          },
+          {
+            "ours": "Безопасность обеспечили до отхода?",
+            "thought": "Имела безопасность быть обеспечена до отхода?",
+            "english": "Had safety been ensured before departure?",
+            "transcription": "[хæд с**э**йфти би:н инш**у**эд биф**о**: дип**а**:чэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been ensured",
+        "examples": [
+          {
+            "ours": "Вентиляцию уже обеспечили.",
+            "thought": "Вентиляция имеет уже быть обеспечена.",
+            "english": "Ventilation has already been ensured.",
+            "transcription": "[вэнтил**э**йшн хæз о:лр**э**ди би:н инш**у**эд]"
+          },
+          {
+            "ours": "Безопасность уже обеспечили?",
+            "thought": "Имеет безопасность быть обеспечена уже?",
+            "english": "Has safety been ensured yet?",
+            "transcription": "[хæз с**э**йфти би:н инш**у**эд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been ensured",
+        "examples": [
+          {
+            "ours": "К полудню вентиляцию обеспечат.",
+            "thought": "К полудню вентиляция будет иметь быть обеспечена.",
+            "english": "By noon ventilation will have been ensured.",
+            "transcription": "[бай ну:н вэнтил**э**йшн wил хæв би:н инш**у**эд]"
+          },
+          {
+            "ours": "Безопасность обеспечат к пяти?",
+            "thought": "Будет безопасность иметь быть обеспечена к пяти?",
+            "english": "Will safety have been ensured by five?",
+            "transcription": "[wил с**э**йфти хæв би:н инш**у**эд бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него: The crew has been ensuring safety."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что они обеспечат безопасность.",
+        "thought": "Я знал, они будут обеспечивать безопасность.",
+        "english": "I knew they would ensure safety.",
+        "transcription": "[ай нью: ðэй wуд инш**у**э с**э**йфти]"
+      },
+      {
+        "ours": "Она думала, что мы не обеспечим вентиляцию.",
+        "thought": "Она думала, мы будем не обеспечивать вентиляцию.",
+        "english": "She thought we would not ensure ventilation.",
+        "transcription": "[ши: θо:т wи: wуд нот инш**у**э вэнтил**э**йшн]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "ventilation",
+      "meaning": "вентиляция",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Ventilation"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "ventilation"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "ventilation"
+        }
+      ]
+    },
+    {
+      "word": "safety",
+      "meaning": "безопасность",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Safety"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Safety"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Safety"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "safety"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "safety"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "board"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "power",
+      "meaning": "питание",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "power"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "power"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "repairs"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "repairs"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "fan",
+      "meaning": "вентилятор",
+      "sense": "device",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "fans"
+        }
+      ]
+    }
+  ]
+}

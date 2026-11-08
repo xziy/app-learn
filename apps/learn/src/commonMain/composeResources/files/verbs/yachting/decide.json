@@ -1,0 +1,863 @@
+{
+  "spec": 4,
+  "verb": "decide",
+  "forms": {
+    "base": [
+      {
+        "word": "decide",
+        "transcription": "[дис**а**йд]"
+      }
+    ],
+    "past": [
+      {
+        "word": "decided",
+        "transcription": "[дис**а**йдид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "decided",
+        "transcription": "[дис**а**йдид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "deciding",
+        "transcription": "[дис**а**йдиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "decides",
+        "transcription": "[дис**а**йдз]"
+      }
+    ]
+  },
+  "meaning": "решать, определять",
+  "notes": "правильный переходный глагол; возможен пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "decided",
+        "examples": [
+          {
+            "ours": "Вчера жюри решило победителя.",
+            "thought": "Вчера [известное] жюри решило [известного] победителя.",
+            "english": "Yesterday the jury decided the winner.",
+            "transcription": "[й**э**стэдэй ðэ дж**у**эри дис**а**йдид ðэ w**и**нэ]"
+          },
+          {
+            "ours": "Капитан решил маршрут вчера?",
+            "thought": "[Сделал] [известный] капитан решать [известный] маршрут вчера?",
+            "english": "Did the skipper decide the route yesterday?",
+            "transcription": "[дид ðэ ск**и**пэ дис**а**йд ðэ ру:т й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "decide, decides",
+        "examples": [
+          {
+            "ours": "Комитет решает время старта.",
+            "thought": "[известный] комитет решает [известное] время старта.",
+            "english": "The committee decides the start time.",
+            "transcription": "[ðэ кэм**и**ти дис**а**йдз ðэ ста:т тайм]"
+          },
+          {
+            "ours": "Судья решает штраф?",
+            "thought": "[Делает] [известный] судья решать [известный] штраф?",
+            "english": "Does the referee decide the penalty?",
+            "transcription": "[даз ðэ рэфэр**и**: дис**а**йд ðэ п**э**нэлти]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will decide",
+        "examples": [
+          {
+            "ours": "Завтра жюри решит победителя.",
+            "thought": "Завтра [известное] жюри будет решать [известного] победителя.",
+            "english": "Tomorrow the jury will decide the winner.",
+            "transcription": "[тэм**о**роу ðэ дж**у**эри wил дис**а**йд ðэ w**и**нэ]"
+          },
+          {
+            "ours": "Капитан решит маршрут завтра?",
+            "thought": "Будет [известный] капитан решать [известный] маршрут завтра?",
+            "english": "Will the skipper decide the route tomorrow?",
+            "transcription": "[wил ðэ ск**и**пэ дис**а**йд ðэ ру:т тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were deciding",
+        "examples": [
+          {
+            "ours": "Жюри решало победителя, когда ты прибыл.",
+            "thought": "[известное] жюри было решающим [известного] победителя, когда ты прибыл.",
+            "english": "The jury was deciding the winner when you arrived.",
+            "transcription": "[ðэ дж**у**эри wоз дис**а**йдиŋ ðэ w**и**нэ wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Капитан решал маршрут, когда ты прибыл?",
+            "thought": "Был [известный] капитан решающим [известный] маршрут, когда ты прибыл?",
+            "english": "Was the skipper deciding the route when you arrived?",
+            "transcription": "[wоз ðэ ск**и**пэ дис**а**йдиŋ ðэ ру:т wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are deciding",
+        "examples": [
+          {
+            "ours": "Комитет сейчас решает время старта.",
+            "thought": "[известный] комитет является решающим [известное] время старта сейчас.",
+            "english": "The committee is deciding the start time now.",
+            "transcription": "[ðэ кэм**и**ти из дис**а**йдиŋ ðэ ста:т тайм нау]"
+          },
+          {
+            "ours": "Судья сейчас решает штраф?",
+            "thought": "Является [известный] судья решающим [известный] штраф сейчас?",
+            "english": "Is the referee deciding the penalty now?",
+            "transcription": "[из ðэ рэфэр**и**: дис**а**йдиŋ ðэ п**э**нэлти нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be deciding",
+        "examples": [
+          {
+            "ours": "Завтра жюри будет решать победителя.",
+            "thought": "Завтра [известное] жюри будет быть решающим [известного] победителя.",
+            "english": "Tomorrow the jury will be deciding the winner.",
+            "transcription": "[тэм**о**роу ðэ дж**у**эри wил би: дис**а**йдиŋ ðэ w**и**нэ]"
+          },
+          {
+            "ours": "Капитан завтра будет решать маршрут?",
+            "thought": "Будет [известный] капитан быть решающим [известный] маршрут завтра?",
+            "english": "Will the skipper be deciding the route tomorrow?",
+            "transcription": "[wил ðэ ск**и**пэ би: дис**а**йдиŋ ðэ ру:т тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had decided",
+        "examples": [
+          {
+            "ours": "К полудню жюри решило победителя.",
+            "thought": "К полудню [известное] жюри имело решённым [известного] победителя.",
+            "english": "By noon the jury had decided the winner.",
+            "transcription": "[бай ну:н ðэ дж**у**эри хæд дис**а**йдид ðэ w**и**нэ]"
+          },
+          {
+            "ours": "Капитан решил маршрут к полудню?",
+            "thought": "Имел [известный] капитан решённым [известный] маршрут к полудню?",
+            "english": "Had the skipper decided the route by noon?",
+            "transcription": "[хæд ðэ ск**и**пэ дис**а**йдид ðэ ру:т бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has decided",
+        "examples": [
+          {
+            "ours": "Комитет уже решил время старта.",
+            "thought": "[известный] комитет имеет уже решённым [известное] время старта.",
+            "english": "The committee has already decided the start time.",
+            "transcription": "[ðэ кэм**и**ти хæз о:лр**э**ди дис**а**йдид ðэ ста:т тайм]"
+          },
+          {
+            "ours": "Судья уже решил штраф?",
+            "thought": "Имеет [известный] судья решённым [известный] штраф уже?",
+            "english": "Has the referee decided the penalty yet?",
+            "transcription": "[хæз ðэ рэфэр**и**: дис**а**йдид ðэ п**э**нэлти йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have decided",
+        "examples": [
+          {
+            "ours": "К пяти жюри решит победителя.",
+            "thought": "К пяти [известное] жюри будет иметь решённым [известного] победителя.",
+            "english": "By five the jury will have decided the winner.",
+            "transcription": "[бай файв ðэ дж**у**эри wил хæв дис**а**йдид ðэ w**и**нэ]"
+          },
+          {
+            "ours": "Капитан решит маршрут к пяти?",
+            "thought": "Будет [известный] капитан иметь решённым [известный] маршрут к пяти?",
+            "english": "Will the skipper have decided the route by five?",
+            "transcription": "[wил ðэ ск**и**пэ хæв дис**а**йдид ðэ ру:т бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been deciding",
+        "examples": [
+          {
+            "ours": "Жюри решало победителя два часа до обеда.",
+            "thought": "[известное] жюри имело быть решающим [известного] победителя целых два часа перед обедом.",
+            "english": "The jury had been deciding the winner for two hours before lunch.",
+            "transcription": "[ðэ дж**у**эри хæд би:н дис**а**йдиŋ ðэ w**и**нэ фо: ту: **а**уэз биф**о**: ланч]"
+          },
+          {
+            "ours": "Капитан решал маршрут час до обеда?",
+            "thought": "Имел [известный] капитан быть решающим [известный] маршрут целый [какой-то] час перед обедом?",
+            "english": "Had the skipper been deciding the route for an hour before lunch?",
+            "transcription": "[хæд ðэ ск**и**пэ би:н дис**а**йдиŋ ðэ ру:т фо: эн **а**уэ биф**о**: ланч]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been deciding",
+        "examples": [
+          {
+            "ours": "Комитет решает время старта уже два часа.",
+            "thought": "[известный] комитет имеет быть решающим [известное] время старта целых два часа.",
+            "english": "The committee has been deciding the start time for two hours.",
+            "transcription": "[ðэ кэм**и**ти хæз би:н дис**а**йдиŋ ðэ ста:т тайм фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Судья решает штраф уже час?",
+            "thought": "Имеет [известный] судья быть решающим [известный] штраф целый [какой-то] час?",
+            "english": "Has the referee been deciding the penalty for an hour?",
+            "transcription": "[хæз ðэ рэфэр**и**: би:н дис**а**йдиŋ ðэ п**э**нэлти фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been deciding",
+        "examples": [
+          {
+            "ours": "К пяти жюри будет решать победителя уже два часа.",
+            "thought": "К пяти [известное] жюри будет иметь быть решающим [известного] победителя целых два часа.",
+            "english": "By five the jury will have been deciding the winner for two hours.",
+            "transcription": "[бай файв ðэ дж**у**эри wил хæв би:н дис**а**йдиŋ ðэ w**и**нэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Капитан к пяти будет решать маршрут уже час?",
+            "thought": "Будет [известный] капитан иметь быть решающим [известный] маршрут целый [какой-то] час к пяти?",
+            "english": "Will the skipper have been deciding the route for an hour by five?",
+            "transcription": "[wил ðэ ск**и**пэ хæв би:н дис**а**йдиŋ ðэ ру:т фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were decided",
+        "examples": [
+          {
+            "ours": "Победитель был решён вчера.",
+            "thought": "[известный] победитель был решён вчера.",
+            "english": "The winner was decided yesterday.",
+            "transcription": "[ðэ w**и**нэ wоз дис**а**йдид й**э**стэдэй]"
+          },
+          {
+            "ours": "Маршрут был решён вчера?",
+            "thought": "Был [известный] маршрут решён вчера?",
+            "english": "Was the route decided yesterday?",
+            "transcription": "[wоз ðэ ру:т дис**а**йдид й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are decided",
+        "examples": [
+          {
+            "ours": "Время старта решают здесь.",
+            "thought": "[известное] время старта есть решено здесь.",
+            "english": "The start time is decided here.",
+            "transcription": "[ðэ ста:т тайм из дис**а**йдид хиэ]"
+          },
+          {
+            "ours": "Штраф решают здесь?",
+            "thought": "Есть [известный] штраф решён здесь?",
+            "english": "Is the penalty decided here?",
+            "transcription": "[из ðэ п**э**нэлти дис**а**йдид хиэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be decided",
+        "examples": [
+          {
+            "ours": "Победитель решат завтра.",
+            "thought": "[известный] победитель будет быть решён завтра.",
+            "english": "The winner will be decided tomorrow.",
+            "transcription": "[ðэ w**и**нэ wил би: дис**а**йдид тэм**о**роу]"
+          },
+          {
+            "ours": "Маршрут решат завтра?",
+            "thought": "Будет [известный] маршрут быть решён завтра?",
+            "english": "Will the route be decided tomorrow?",
+            "transcription": "[wил ðэ ру:т би: дис**а**йдид тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being decided",
+        "examples": [
+          {
+            "ours": "Победитель решали, когда ты прибыл.",
+            "thought": "[известный] победитель был «долго» решён, когда ты прибыл.",
+            "english": "The winner was being decided when you arrived.",
+            "transcription": "[ðэ w**и**нэ wоз б**и**:иŋ дис**а**йдид wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Маршрут решали, когда ты прибыл?",
+            "thought": "Был [известный] маршрут «долго» решён, когда ты прибыл?",
+            "english": "Was the route being decided when you arrived?",
+            "transcription": "[wоз ðэ ру:т б**и**:иŋ дис**а**йдид wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being decided",
+        "examples": [
+          {
+            "ours": "Время старта сейчас решают.",
+            "thought": "[известное] время старта есть «долго» решено сейчас.",
+            "english": "The start time is being decided now.",
+            "transcription": "[ðэ ста:т тайм из б**и**:иŋ дис**а**йдид нау]"
+          },
+          {
+            "ours": "Штраф сейчас решают?",
+            "thought": "Есть [известный] штраф «долго» решён сейчас?",
+            "english": "Is the penalty being decided now?",
+            "transcription": "[из ðэ п**э**нэлти б**и**:иŋ дис**а**йдид нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be deciding",
+        "examples": [
+          {
+            "ours": "Завтра они будут решать победителя.",
+            "thought": "Завтра они будут быть решающими [известный] победителя.",
+            "english": "Tomorrow they will be deciding the winner.",
+            "transcription": "[тэм**о**роу ðэй wил би: дис**а**йдиŋ ðэ w**и**нэ]"
+          },
+          {
+            "ours": "Они будут решать маршрут завтра?",
+            "thought": "Будут они быть решающими [известный] маршрут завтра?",
+            "english": "Will they be deciding the route tomorrow?",
+            "transcription": "[wил ðэй би: дис**а**йдиŋ ðэ ру:т тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been decided",
+        "examples": [
+          {
+            "ours": "К полудню победитель решили.",
+            "thought": "К полудню [известный] победитель имел быть решён.",
+            "english": "By noon the winner had been decided.",
+            "transcription": "[бай ну:н ðэ w**и**нэ хæд би:н дис**а**йдид]"
+          },
+          {
+            "ours": "Маршрут решили к полудню?",
+            "thought": "Имел [известный] маршрут быть решён к полудню?",
+            "english": "Had the route been decided by noon?",
+            "transcription": "[хæд ðэ ру:т би:н дис**а**йдид бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been decided",
+        "examples": [
+          {
+            "ours": "Время старта уже решили.",
+            "thought": "[известное] время старта имеет уже быть решено.",
+            "english": "The start time has already been decided.",
+            "transcription": "[ðэ ста:т тайм хæз о:лр**э**ди би:н дис**а**йдид]"
+          },
+          {
+            "ours": "Штраф уже решили?",
+            "thought": "Имеет [известный] штраф быть решён уже?",
+            "english": "Has the penalty been decided yet?",
+            "transcription": "[хæз ðэ п**э**нэлти би:н дис**а**йдид йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been decided",
+        "examples": [
+          {
+            "ours": "К пяти победитель решат.",
+            "thought": "К пяти [известный] победитель будет иметь быть решён.",
+            "english": "By five the winner will have been decided.",
+            "transcription": "[бай файв ðэ w**и**нэ wил хæв би:н дис**а**йдид]"
+          },
+          {
+            "ours": "Маршрут решат к пяти?",
+            "thought": "Будет [известный] маршрут иметь быть решён к пяти?",
+            "english": "Will the route have been decided by five?",
+            "transcription": "[wил ðэ ру:т хæв би:н дис**а**йдид бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо него скажут: The committee has been deciding the start time."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что капитан решит маршрут.",
+        "thought": "Я знал [известный] капитан будет решать [известный] маршрут.",
+        "english": "I knew the skipper would decide the route.",
+        "transcription": "[ай нью: ðэ ск**и**пэ wуд дис**а**йд ðэ ру:т]"
+      },
+      {
+        "ours": "Мы думали, что жюри не определит победителя.",
+        "thought": "Мы думали [известное] жюри будет не решать [известного] победителя.",
+        "english": "We thought the jury would not decide the winner.",
+        "transcription": "[wи: θо:т ðэ дж**у**эри wуд нот дис**а**йд ðэ w**и**нэ]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "jury",
+      "meaning": "жюри",
+      "sense": "contest",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "jury"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "jury"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "jury"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "jury"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "jury"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "jury"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "jury"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "jury"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "jury"
+        }
+      ]
+    },
+    {
+      "word": "winner",
+      "meaning": "победитель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "winner"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "committee",
+      "meaning": "комитет",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "committee"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "committee"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "committee"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "committee"
+        }
+      ]
+    },
+    {
+      "word": "start",
+      "meaning": "старт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "start"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "start"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "start"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "start"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "start"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "start"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "start"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "time"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "time"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "time"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "time"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "time"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "time"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "referee",
+      "meaning": "судья",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "referee"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "referee"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "referee"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "referee"
+        }
+      ]
+    },
+    {
+      "word": "penalty",
+      "meaning": "штраф",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "penalty"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "penalty"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "penalty"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "penalty"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "penalty"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "penalty"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "penalty"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "meaning": "обед",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "lunch"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "lunch"
+        }
+      ]
+    }
+  ]
+}

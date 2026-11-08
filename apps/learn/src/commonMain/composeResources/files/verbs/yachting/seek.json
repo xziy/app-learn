@@ -1,0 +1,922 @@
+{
+  "spec": 4,
+  "verb": "seek",
+  "forms": {
+    "base": [
+      {
+        "word": "seek",
+        "transcription": "[си:к]"
+      }
+    ],
+    "past": [
+      {
+        "word": "sought",
+        "transcription": "[со:т]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "sought",
+        "transcription": "[со:т]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "seeking",
+        "transcription": "[с**и**:киŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "seeks",
+        "transcription": "[си:кс]"
+      }
+    ]
+  },
+  "meaning": "искать, добиваться",
+  "notes": "неправильный переходный глагол, в английском не требует предлога перед прямым дополнением",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "sought",
+        "examples": [
+          {
+            "ours": "Вчера экипаж искал совет.",
+            "thought": "Вчера [известный] экипаж искал совет.",
+            "english": "Yesterday the crew sought advice.",
+            "transcription": "[й**э**стэдэй ðэ кру: со:т эдв**а**йс]"
+          },
+          {
+            "ours": "Моряк искал порт вчера?",
+            "thought": "[Сделал] [известный] моряк искать [известный] порт вчера?",
+            "english": "Did the sailor seek the harbor yesterday?",
+            "transcription": "[дид ðэ с**э**йлэ си:к ðэ х**а**:бэ й**э**стэдэй]"
+          },
+          {
+            "ours": "Они не искали проводника.",
+            "thought": "Они [сделали] не искать [известного] проводника.",
+            "english": "They did not seek the guide.",
+            "transcription": "[ðэй дид нот си:к ðэ гайд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "seek, seeks",
+        "examples": [
+          {
+            "ours": "Капитан ищет проводника.",
+            "thought": "[Известный] капитан ищет [известного] проводника.",
+            "english": "The skipper seeks the guide.",
+            "transcription": "[ðэ ск**и**пэ си:кс ðэ гайд]"
+          },
+          {
+            "ours": "Экипаж ищет пункт стоянки?",
+            "thought": "[Делает] [известный] экипаж искать [известный] пункт стоянки?",
+            "english": "Does the crew seek the anchorage?",
+            "transcription": "[даз ðэ кру: си:к ðи **æ**нкэридж]"
+          },
+          {
+            "ours": "Мы не ищем пункт стоянки во время гонок.",
+            "thought": "Мы [делаем] не искать [известный] пункт стоянки во время гонок.",
+            "english": "We do not seek the anchorage during races.",
+            "transcription": "[wи: ду: нот си:к ðи **æ**нкэридж дь**ю**эриŋ р**э**йсиз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will seek",
+        "examples": [
+          {
+            "ours": "Завтра экипаж будет искать совет.",
+            "thought": "Завтра [известный] экипаж будет искать совет.",
+            "english": "Tomorrow the crew will seek advice.",
+            "transcription": "[тэм**о**роу ðэ кру: wил си:к эдв**а**йс]"
+          },
+          {
+            "ours": "Моряк будет искать порт завтра?",
+            "thought": "Будет [известный] моряк искать [известный] порт завтра?",
+            "english": "Will the sailor seek the harbor tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ си:к ðэ х**а**:бэ тэм**о**роу]"
+          },
+          {
+            "ours": "Она не будет искать порт.",
+            "thought": "Она будет не искать [известный] порт.",
+            "english": "She will not seek the harbor.",
+            "transcription": "[ши: wил нот си:к ðэ х**а**:бэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were seeking",
+        "examples": [
+          {
+            "ours": "Экипаж искал совет, когда ты прибыл.",
+            "thought": "[Известный] экипаж был ищущим совет, когда ты прибыл.",
+            "english": "The crew was seeking advice when you arrived.",
+            "transcription": "[ðэ кру: wоз с**и**:киŋ эдв**а**йс wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Моряк искал порт, когда ты прибыл?",
+            "thought": "Был [известный] моряк ищущим [известный] порт, когда ты прибыл?",
+            "english": "Was the sailor seeking the harbor when you arrived?",
+            "transcription": "[wоз ðэ с**э**йлэ с**и**:киŋ ðэ х**а**:бэ wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are seeking",
+        "examples": [
+          {
+            "ours": "Капитан сейчас ищет проводника.",
+            "thought": "[Известный] капитан является ищущим [известного] проводника сейчас.",
+            "english": "The skipper is seeking the guide now.",
+            "transcription": "[ðэ ск**и**пэ из с**и**:киŋ ðэ гайд нау]"
+          },
+          {
+            "ours": "Экипаж сейчас ищет пункт стоянки?",
+            "thought": "Является [известный] экипаж ищущим [известный] пункт стоянки сейчас?",
+            "english": "Is the crew seeking the anchorage now?",
+            "transcription": "[из ðэ кру: с**и**:киŋ ðи **æ**нкэридж нау]"
+          },
+          {
+            "ours": "Мы сейчас не ищем совет.",
+            "thought": "Мы являемся не ищущими совет сейчас.",
+            "english": "We are not seeking advice now.",
+            "transcription": "[wи: а: нот с**и**:киŋ эдв**а**йс нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be seeking",
+        "examples": [
+          {
+            "ours": "Завтра экипаж будет искать совет.",
+            "thought": "Завтра [известный] экипаж будет быть ищущим совет.",
+            "english": "Tomorrow the crew will be seeking advice.",
+            "transcription": "[тэм**о**роу ðэ кру: wил би: с**и**:киŋ эдв**а**йс]"
+          },
+          {
+            "ours": "Моряк завтра будет искать порт?",
+            "thought": "Будет [известный] моряк быть ищущим [известный] порт завтра?",
+            "english": "Will the sailor be seeking the harbor tomorrow?",
+            "transcription": "[wил ðэ с**э**йлэ би: с**и**:киŋ ðэ х**а**:бэ тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had sought",
+        "examples": [
+          {
+            "ours": "К полудню экипаж искал совет.",
+            "thought": "К полудню [известный] экипаж имел искомым совет.",
+            "english": "By noon the crew had sought advice.",
+            "transcription": "[бай ну:н ðэ кру: хæд со:т эдв**а**йс]"
+          },
+          {
+            "ours": "Моряк искал порт к полудню?",
+            "thought": "Имел [известный] моряк искомым [известный] порт к полудню?",
+            "english": "Had the sailor sought the harbor by noon?",
+            "transcription": "[хæд ðэ с**э**йлэ со:т ðэ х**а**:бэ бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has sought",
+        "examples": [
+          {
+            "ours": "Капитан уже искал проводника.",
+            "thought": "[Известный] капитан имеет уже искомым [известного] проводника.",
+            "english": "The skipper has already sought the guide.",
+            "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди со:т ðэ гайд]"
+          },
+          {
+            "ours": "Экипаж уже искал пункт стоянки?",
+            "thought": "Имеет [известный] экипаж искомым [известный] пункт стоянки уже?",
+            "english": "Has the crew sought the anchorage yet?",
+            "transcription": "[хæз ðэ кру: со:т ðи **æ**нкэридж йэт]"
+          },
+          {
+            "ours": "Она ещё не искала порт.",
+            "thought": "Она имеет не искомым [известный] порт ещё.",
+            "english": "She has not sought the harbor yet.",
+            "transcription": "[ши: хæз нот со:т ðэ х**а**:бэ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have sought",
+        "examples": [
+          {
+            "ours": "К пяти экипаж будет искать совет.",
+            "thought": "К пяти [известный] экипаж будет иметь искомым совет.",
+            "english": "By five the crew will have sought advice.",
+            "transcription": "[бай файв ðэ кру: wил хæв со:т эдв**а**йс]"
+          },
+          {
+            "ours": "Моряк будет искать порт к пяти?",
+            "thought": "Будет [известный] моряк иметь искомым [известный] порт к пяти?",
+            "english": "Will the sailor have sought the harbor by five?",
+            "transcription": "[wил ðэ с**э**йлэ хæв со:т ðэ х**а**:бэ бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been seeking",
+        "examples": [
+          {
+            "ours": "Экипаж искал совет два часа, когда мы прибыли.",
+            "thought": "[Известный] экипаж имел быть ищущим совет целых два часа, когда мы прибыли.",
+            "english": "The crew had been seeking advice for two hours when we arrived.",
+            "transcription": "[ðэ кру: хæд би:н с**и**:киŋ эдв**а**йс фо: ту: **а**уэз wэн wи: эр**а**йвд]"
+          },
+          {
+            "ours": "Ты долго искал порт, когда начался шторм?",
+            "thought": "Имел ты быть ищущим [известный] порт долго, когда [известный] шторм начался?",
+            "english": "Had you been seeking the harbor long when the storm started?",
+            "transcription": "[хæд ю: би:н с**и**:киŋ ðэ х**а**:бэ лоŋ wэн ðэ сто:м ст**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been seeking",
+        "examples": [
+          {
+            "ours": "Экипаж ищет совет уже два часа.",
+            "thought": "[Известный] экипаж имеет быть ищущим совет целых два часа.",
+            "english": "The crew has been seeking advice for two hours.",
+            "transcription": "[ðэ кру: хæз би:н с**и**:киŋ эдв**а**йс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Ты уже час ищешь порт?",
+            "thought": "Имеешь ты быть ищущим [известный] порт целый [какой-то] час?",
+            "english": "Have you been seeking the harbor for an hour?",
+            "transcription": "[хæв ю: би:н с**и**:киŋ ðэ х**а**:бэ фо: эн **а**уэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been seeking",
+        "examples": [
+          {
+            "ours": "К пяти экипаж будет искать совет уже два часа.",
+            "thought": "К пяти [известный] экипаж будет иметь быть ищущим совет целых два часа.",
+            "english": "By five the crew will have been seeking advice for two hours.",
+            "transcription": "[бай файв ðэ кру: wил хæв би:н с**и**:киŋ эдв**а**йс фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К пяти ты будешь искать порт уже час?",
+            "thought": "Будешь ты иметь быть ищущим [известный] порт целый [какой-то] час к пяти?",
+            "english": "Will you have been seeking the harbor for an hour by five?",
+            "transcription": "[wил ю: хæв би:н с**и**:киŋ ðэ х**а**:бэ фо: эн **а**уэ бай файв]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were sought",
+        "examples": [
+          {
+            "ours": "Вчера обращались за советом.",
+            "thought": "Совет был иском вчера.",
+            "english": "Advice was sought yesterday.",
+            "transcription": "[эдв**а**йс wоз со:т й**э**стэдэй]"
+          },
+          {
+            "ours": "Вчера искали порт?",
+            "thought": "Был [известный] порт иском вчера?",
+            "english": "Was the harbor sought yesterday?",
+            "transcription": "[wоз ðэ х**а**:бэ со:т й**э**стэдэй]"
+          },
+          {
+            "ours": "Проводника не искали вчера.",
+            "thought": "[Известный] проводник был не иском вчера.",
+            "english": "The guide was not sought yesterday.",
+            "transcription": "[ðэ гайд wоз нот со:т й**э**стэдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are sought",
+        "examples": [
+          {
+            "ours": "Проводника ищут здесь.",
+            "thought": "[Известный] проводник есть иском здесь.",
+            "english": "The guide is sought here.",
+            "transcription": "[ðэ гайд из со:т хиэ]"
+          },
+          {
+            "ours": "Пункт стоянки ищут здесь?",
+            "thought": "Есть [известный] пункт стоянки иском здесь?",
+            "english": "Is the anchorage sought here?",
+            "transcription": "[из ðи **æ**нкэридж со:т хиэ]"
+          },
+          {
+            "ours": "Проводник не ищут ночью.",
+            "thought": "[Известный] проводник есть не иском ночью.",
+            "english": "The guide is not sought at night.",
+            "transcription": "[ðэ гайд из нот со:т æт найт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be sought",
+        "examples": [
+          {
+            "ours": "Совет будут искать завтра.",
+            "thought": "Совет будет быть иском завтра.",
+            "english": "Advice will be sought tomorrow.",
+            "transcription": "[эдв**а**йс wил би: со:т тэм**о**роу]"
+          },
+          {
+            "ours": "Порт будут искать завтра?",
+            "thought": "Будет [известный] порт быть иском завтра?",
+            "english": "Will the harbor be sought tomorrow?",
+            "transcription": "[wил ðэ х**а**:бэ би: со:т тэм**о**роу]"
+          },
+          {
+            "ours": "Порт не будут искать завтра.",
+            "thought": "[Известный] порт будет не быть иском завтра.",
+            "english": "The harbor will not be sought tomorrow.",
+            "transcription": "[ðэ х**а**:бэ wил нот би: со:т тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being sought",
+        "examples": [
+          {
+            "ours": "Совет искали, когда ты прибыл.",
+            "thought": "Совет был «долго» иском, когда ты прибыл.",
+            "english": "Advice was being sought when you arrived.",
+            "transcription": "[эдв**а**йс wоз б**и**:иŋ со:т wэн ю: эр**а**йвд]"
+          },
+          {
+            "ours": "Порт искали, когда ты прибыл?",
+            "thought": "Был [известный] порт «долго» иском, когда ты прибыл?",
+            "english": "Was the harbor being sought when you arrived?",
+            "transcription": "[wоз ðэ х**а**:бэ б**и**:иŋ со:т wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being sought",
+        "examples": [
+          {
+            "ours": "Проводника сейчас ищут.",
+            "thought": "[Известный] проводник есть «долго» иском сейчас.",
+            "english": "The guide is being sought now.",
+            "transcription": "[ðэ гайд из б**и**:иŋ со:т нау]"
+          },
+          {
+            "ours": "Пункт стоянки сейчас ищут?",
+            "thought": "Есть [известный] пункт стоянки «долго» иском сейчас?",
+            "english": "Is the anchorage being sought now?",
+            "transcription": "[из ðи **æ**нкэридж б**и**:иŋ со:т нау]"
+          },
+          {
+            "ours": "Пункт стоянки сейчас не ищут.",
+            "thought": "[Известный] пункт стоянки есть не «долго» иском сейчас.",
+            "english": "The anchorage is not being sought now.",
+            "transcription": "[ðи **æ**нкэридж из нот б**и**:иŋ со:т нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be seeking",
+        "examples": [
+          {
+            "ours": "Завтра они будут искать совет.",
+            "thought": "Завтра они будут быть ищущими совет.",
+            "english": "Tomorrow they will be seeking advice.",
+            "transcription": "[тэм**о**роу ðэй wил би: с**и**:киŋ эдв**а**йс]"
+          },
+          {
+            "ours": "Они будут искать порт завтра?",
+            "thought": "Будут они быть ищущими [известный] порт завтра?",
+            "english": "Will they be seeking the harbor tomorrow?",
+            "transcription": "[wил ðэй би: с**и**:киŋ ðэ х**а**:бэ тэм**о**роу]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been sought",
+        "examples": [
+          {
+            "ours": "К полудню совет искали.",
+            "thought": "К полудню совет имел быть иском.",
+            "english": "By noon advice had been sought.",
+            "transcription": "[бай ну:н эдв**а**йс хæд би:н со:т]"
+          },
+          {
+            "ours": "Порт искали к полудню?",
+            "thought": "Имел [известный] порт быть иском к полудню?",
+            "english": "Had the harbor been sought by noon?",
+            "transcription": "[хæд ðэ х**а**:бэ би:н со:т бай ну:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been sought",
+        "examples": [
+          {
+            "ours": "Проводника уже искали.",
+            "thought": "[Известный] проводник имеет уже быть иском.",
+            "english": "The guide has already been sought.",
+            "transcription": "[ðэ гайд хæз о:лр**э**ди би:н со:т]"
+          },
+          {
+            "ours": "Пункт стоянки уже искали?",
+            "thought": "Имеет [известный] пункт стоянки быть иском уже?",
+            "english": "Has the anchorage been sought yet?",
+            "transcription": "[хæз ðи **æ**нкэридж би:н со:т йэт]"
+          },
+          {
+            "ours": "Порт ещё не искали.",
+            "thought": "[Известный] порт имеет не быть иском ещё.",
+            "english": "The harbor has not been sought yet.",
+            "transcription": "[ðэ х**а**:бэ хæз нот би:н со:т йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been sought",
+        "examples": [
+          {
+            "ours": "К пяти совет будут искать.",
+            "thought": "К пяти совет будет иметь быть иском.",
+            "english": "By five advice will have been sought.",
+            "transcription": "[бай файв эдв**а**йс wил хæв би:н со:т]"
+          },
+          {
+            "ours": "Порт будут искать к пяти?",
+            "thought": "Будет [известный] порт иметь быть иском к пяти?",
+            "english": "Will the harbor have been sought by five?",
+            "transcription": "[wил ðэ х**а**:бэ хæв би:н со:т бай файв]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "Пассив типа 4 практически не употребляется. Вместо этого скажут: The crew has been seeking advice."
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что моряк будет искать порт.",
+        "thought": "Я знал [известный] моряк будет искать [известный] порт.",
+        "english": "I knew the sailor would seek the harbor.",
+        "transcription": "[ай нью: ðэ с**э**йлэ wуд си:к ðэ х**а**:бэ]"
+      },
+      {
+        "ours": "Мы думали, что экипаж не будет искать совет.",
+        "thought": "Мы думали [известный] экипаж будет не искать совет.",
+        "english": "We thought the crew would not seek advice.",
+        "transcription": "[wи: θо:т ðэ кру: wуд нот си:к эдв**а**йс]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "advice",
+      "meaning": "совет",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "advice"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "advice"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "advice"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "advice"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "advice"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "advice"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "advice"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "advice"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "advice"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "advice"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "advice"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "advice"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "advice"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "advice"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Advice"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Advice"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Advice"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sailor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sailor"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань, порт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "guide",
+      "meaning": "проводник",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "guide"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "guide"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "guide"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "guide"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "guide"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "guide"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "guide"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "guide"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "guide"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "anchorage",
+      "meaning": "якорная стоянка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "anchorage"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "anchorage"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "anchorage"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "anchorage"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "anchorage"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "anchorage"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "anchorage"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "anchorage"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "races"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "night"
+        }
+      ]
+    }
+  ]
+}

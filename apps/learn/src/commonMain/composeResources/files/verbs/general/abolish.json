@@ -1,5 +1,5 @@
 {
-  "spec": 3,
+  "spec": 4,
   "verb": "abolish",
   "forms": {
     "base": [
@@ -643,6 +643,7 @@
     {
       "word": "duty",
       "meaning": "пошлина",
+      "sense": "tax",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
@@ -811,6 +812,7 @@
     {
       "word": "benefit",
       "meaning": "льгота",
+      "sense": "payment",
       "used_in": [
         {
           "phrase": "active.continuous.past.1",
@@ -879,6 +881,7 @@
     {
       "word": "position",
       "meaning": "должность",
+      "sense": "job",
       "used_in": [
         {
           "phrase": "active.continuous.present.1",
@@ -1463,6 +1466,7 @@
     {
       "word": "class",
       "meaning": "занятие",
+      "sense": "lesson",
       "used_in": [
         {
           "phrase": "passive.simple.future.2",
@@ -1473,6 +1477,7 @@
     {
       "word": "term",
       "meaning": "семестр",
+      "sense": "semester",
       "used_in": [
         {
           "phrase": "passive.simple.future.2",

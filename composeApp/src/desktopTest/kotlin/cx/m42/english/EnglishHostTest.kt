@@ -2,6 +2,7 @@ package cx.m42.english
 
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.toAwtImage
+import androidx.compose.ui.semantics.SemanticsActions
 import androidx.compose.ui.test.ComposeUiTest
 import androidx.compose.ui.test.ExperimentalTestApi
 import androidx.compose.ui.test.assertIsDisplayed
@@ -21,6 +22,7 @@ import androidx.compose.ui.test.swipeDown
 import androidx.compose.ui.test.swipeLeft
 import androidx.compose.ui.test.swipeUp
 import androidx.compose.ui.test.v2.runDesktopComposeUiTest
+import androidx.compose.ui.text.TextLayoutResult
 import androidx.compose.ui.unit.height
 import androidx.compose.ui.unit.width
 import cx.m42.superizer.Superizer
@@ -66,6 +68,19 @@ class EnglishHostTest {
     private fun ComposeUiTest.waitFor(tag: String) {
         waitUntil(timeoutMillis = 10_000L) { runCatching { onNodeWithTag(tag).assertExists() }.isSuccess }
         waitForIdle()
+    }
+
+    /** A tap on the first noun of a text, if it has one: where its link is, from the text's own layout. */
+    private fun ComposeUiTest.tapFirstWord(tag: String): Boolean {
+        val node = onNodeWithTag(tag)
+        val layouts = mutableListOf<TextLayoutResult>()
+        node.fetchSemanticsNode().config[SemanticsActions.GetTextLayoutResult].action?.invoke(layouts)
+        val layout = layouts.firstOrNull() ?: return false
+        val text = layout.layoutInput.text
+        val link = text.getLinkAnnotations(0, text.length).firstOrNull() ?: return false
+        val at = layout.getBoundingBox((link.start + link.end) / 2).center
+        node.performTouchInput { click(at) }
+        return true
     }
 
     private fun ComposeUiTest.swipeStep() = onNodeWithTag("learn:feed").performTouchInput { swipeLeft() }
@@ -119,6 +134,20 @@ class EnglishHostTest {
         onNodeWithTag("learn:about-back").performClick()
         waitFor("learn:card-2")
 
+        onNodeWithTag("learn:form").performClick()
+        waitFor("learn:rule-page")
+        shot("08b-the-rule")
+        onNodeWithTag("learn:rule-back").performClick()
+        waitFor("learn:card-2")
+
+        // A noun of the phrase opens its page over the feed, and the feed is where it was on the way back.
+        if (tapFirstWord("learn:english")) {
+            waitFor("learn:word-page")
+            shot("08c-the-word")
+            onNodeWithTag("learn:word-back").performClick()
+            waitFor("learn:card-2")
+        }
+
         swipeCard()
         waitFor("learn:card-3")
         shot("09-next-phrase")
@@ -129,6 +158,15 @@ class EnglishHostTest {
 
         onNodeWithTag("learn:to-list").performClick()
         waitFor("learn:list")
+
+        // The words of the English seen so far, in the dictionary.
+        onNodeWithTag("learn:list").performScrollToNode(hasTestTag("learn:dict-open"))
+        onNodeWithTag("learn:dict-open").performClick()
+        waitFor("learn:dictionary")
+        shot("10-dictionary")
+        onNodeWithTag("learn:dict-back").performClick()
+        waitFor("learn:list")
+        onNodeWithTag("learn:list").performScrollToNode(hasTestTag("learn:theme-yachting"))
 
         // Another theme: its own round of its own verbs, and its own feed from the top.
         onNodeWithTag("learn:theme-yachting").performClick()

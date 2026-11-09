@@ -8,6 +8,7 @@ import androidx.compose.ui.test.SemanticsNodeInteraction
 import androidx.compose.ui.test.assertTextEquals
 import androidx.compose.ui.test.click
 import androidx.compose.ui.test.getUnclippedBoundsInRoot
+import androidx.compose.ui.test.hasAnyAncestor
 import androidx.compose.ui.test.hasTestTag
 import androidx.compose.ui.test.onNodeWithText
 import androidx.compose.ui.test.performKeyInput
@@ -655,9 +656,10 @@ class LearnScreenTest {
         settled("learn:verb-card")
         node("learn:about-word").assertTextEquals("verb1")
 
-        // The feed does not jump under the person: its pages are the same while it is open.
+        // The feed does not jump under the person: its pages are the same while it is open. The phrase it comes back to
+        // starts again from its first step.
         feed().performKeyInput { pressKey(Key.DirectionUp) }
-        settled("learn:english")
+        settled("learn:ours")
         node("learn:word").assertTextEquals("verb0")
         feed().performKeyInput { pressKey(Key.DirectionDown) }
         settled("learn:verb-card")
@@ -1564,7 +1566,7 @@ class LearnScreenTest {
     }
 
     @Test
-    fun upIsTheNextCardAndTheSoundStopsAndTheStepIsKept() {
+    fun upIsTheNextCardAndTheSoundStopsAndThePhraseComesBackAtItsFirstStep() {
         val speech = RecordingSpeech(speakMillis = 60_000)
         runAppTest(app(speech), prepare = at("verb0:2:0")) {
             openFeed()
@@ -1578,11 +1580,25 @@ class LearnScreenTest {
             settled("learn:tense-card")
             assertTrue(speech.stops > stops, "the sound of the last card ends with it")
 
-            // Back down, the phrase is where it was left.
+            // Back down, the phrase starts again from how we say it.
             feed().performTouchInput { swipeDown() }
             settled("learn:card-2")
-            settled("learn:english")
+            settled("learn:ours")
+            assertEquals("verb0:2:0", runtime.storage.entries["place"])
         }
+    }
+
+    @Test
+    fun theStoredStepIsOnlyForOpeningTheFeed() = runAppTest(app(), prepare = at("verb0:2:2")) {
+        openFeed()
+        settled("learn:english")
+
+        // Back to the cover and down again: the phrase is at its first step, not at the stored one.
+        feed().performTouchInput { swipeDown() }
+        settled("learn:tense-card")
+        feed().performTouchInput { swipeUp() }
+        settled("learn:card-2")
+        settled("learn:ours")
     }
 
     @Test
@@ -1760,6 +1776,185 @@ class LearnScreenTest {
         feed().performMouseInput { scroll(1f) }
         settled("learn:ours")
         node("learn:ours").assertTextEquals("ours verb0 t1")
+    }
+
+    // The cap
+
+    /** The real `abandon` alone, from the base the app carries, at [place]: page 4 is its first question. */
+    private fun realAbandon(place: String) = Pair(
+        LearnApp(
+            object : VerbSource {
+                override suspend fun themes() = listOf(Theme(DefaultTheme, "Общая тема: всё подряд"))
+
+                override suspend fun index(theme: String) = listOf("abandon")
+
+                override suspend fun read(theme: String, word: String) =
+                    File("src/commonMain/composeResources/files/verbs/general/$word.json").readText()
+            },
+            RecordingSpeech(),
+            shuffle = { it },
+        ),
+        { runtime: cx.m42.superizer.testing.FakeAppRuntime ->
+            runtime.storage.entries["place"] = place
+            runtime.storage.entries["chosen"] = "abandon"
+        },
+    )
+
+    @Test
+    fun aPhraseSaysWhichFormItIsIn() = runAppTest(app(), prepare = at("verb2:2:0")) {
+        openFeed()
+        settled("learn:ours")
+        // One button, so its two parts are one text to a screen reader.
+        node("learn:form").assertTextEquals("Тип 1 · Прошедшее · Утверждение", "Актив · Past Simple")
+
+        // At the top, between the arrow back and play, level with them.
+        val form = node("learn:form").getUnclippedBoundsInRoot()
+        val back = node("learn:to-list").getUnclippedBoundsInRoot()
+        val play = node("learn:play").getUnclippedBoundsInRoot()
+        assertTrue(form.left >= back.right && form.right <= play.left, "$form between $back and $play")
+        val middle = (form.top + form.bottom) / 2
+        assertTrue(middle > back.top && middle < back.bottom, "$form level with $back")
+
+        // On every step of the phrase, and the next tense has its own.
+        next()
+        settled("learn:thought")
+        node("learn:form").assertTextEquals("Тип 1 · Прошедшее · Утверждение", "Актив · Past Simple")
+        feed().performKeyInput { pressKey(Key.DirectionDown) }
+        settled("learn:tense-card")
+        feed().performKeyInput { pressKey(Key.DirectionDown) }
+        settled("learn:ours")
+        // The phrase before may still be there, above the screen: the one asked about is that of the phrase on it, the 31st
+        // page of the feed, after two verbs of 13 and the card and the first tense of this one.
+        ui.onNode(hasTestTag("learn:form") and hasAnyAncestor(hasTestTag("learn:card-30")))
+            .assertTextEquals("Тип 1 · Настоящее · Утверждение", "Актив · Present Simple")
+    }
+
+    @Test
+    fun theCapOpensTheFormulaOfAQuestionAndBackIsWhereItWas() {
+        val (app, prepare) = realAbandon("abandon:4:1")
+        runAppTest(app, prepare = prepare) {
+            openFeed()
+            settled("learn:thought")
+            node("learn:form").assertTextEquals("Тип 1 · Прошедшее · Вопрос", "Актив · Past Simple")
+            click("learn:form")
+            settled("learn:rule-page")
+
+            node("learn:rule-title").assertTextEquals("Тип 1 · Прошедшее · Вопрос")
+            node("learn:rule-voice").assertTextEquals("Актив · Past Simple")
+            // What it all means, in plain words, before anything else.
+            node("learn:rule-about").assertTextEquals(
+                "Простое прошедшее время. Так говорят о том, что случилось в прошлом и закончилось: вчера, в прошлом " +
+                    "году, однажды. Это вопрос. «Актив» значит, что действие делает сам тот, о ком говорим. «Тип 1» — " +
+                    "номер в курсе Драгункина: просто факт. В учебниках это время называют Past Simple.",
+            )
+
+            // The phrase, in Russian too, and each of its parts with what it is.
+            node("learn:rule-sentence").assertTextEquals("Did you abandon your plan?")
+            node("learn:rule-phrase-ours").assertTextEquals("Ты отказался от своего плана?")
+            node("learn:rule-phrase-thought").assertTextEquals("[Сделал] ты бросать твой план?")
+            node("learn:rule-part-0").assertTextEquals(
+                "Did — служебное слово прошедшего времени. По-русски его не говорят, поэтому в мысли оно в квадратных " +
+                    "скобках: «[сделал]».",
+            )
+            node("learn:rule-part-1").assertTextEquals("you — кто делает: «ты».")
+            node("learn:rule-part-2").assertTextEquals(
+                "abandon — глагол «покидать, бросать» в 1-й форме, как в словаре. После did глагол всегда в 1-й форме.",
+            )
+            node("learn:rule-part-3").assertTextEquals("your plan — всё остальное: кого, что, где, когда.")
+            assertAbsent("learn:rule-part-4")
+
+            // The formula, and every sign of it.
+            node("learn:rule-english").assertTextEquals("Did + кто + V + …?")
+            node("learn:rule-thought").assertTextEquals("[Сделал] + кто + мыть + …?")
+            node("learn:rule-subject").assertTextEquals("кто — тот, кто делает: I, you, she, my brother")
+            node("learn:rule-form-base").assertTextEquals("V — 1-я форма, как в словаре: abandon")
+            node("learn:rule-rest").assertTextEquals("… — всё остальное: кого, что, где, когда")
+            node("learn:rule-brackets").assertExists()
+            node("learn:rule-0").assertExists()
+
+            // The other kinds, each with a phrase of this verb in this tense.
+            node("learn:rule-others").assertTextEquals("Утверждение и отрицание")
+            node("learn:rule-other-statement-english").assertTextEquals("кто + V2 + …")
+            node("learn:rule-other-statement-example")
+                .assertTextEquals("Yesterday the sailors abandoned the ship. — Вчера моряки покинули судно.")
+            node("learn:rule-other-negative-english").assertTextEquals("кто + didn't + V + …")
+            node("learn:rule-other-negative-example").assertTextEquals("He didn't abandon his family. — Он не бросил свою семью.")
+            assertAbsent("learn:rule-other-question-english")
+
+            click("learn:rule-back")
+            assertAbsent("learn:rule-page")
+            settled("learn:thought")
+            assertEquals("abandon:4:1", stored("place"), "the cap is not a step forward")
+            assertEquals(0, runtime.navigation.closed, "back from the page does not close the app")
+        }
+    }
+
+    @Test
+    fun aNegativeHasItsNotLaidOut() {
+        val (app, prepare) = realAbandon("abandon:3:0")
+        runAppTest(app, prepare = prepare) {
+            openFeed()
+            settled("learn:ours")
+            node("learn:form").assertTextEquals("Тип 1 · Прошедшее · Отрицание", "Актив · Past Simple")
+            click("learn:form")
+            settled("learn:rule-page")
+            node("learn:rule-english").assertTextEquals("кто + didn't + V + …")
+            node("learn:rule-part-0").assertTextEquals("He — кто делает: «он».")
+            node("learn:rule-part-1").assertTextEquals(
+                "didn't — это did not: служебное слово прошедшего времени и not — «не». В мысли — «[сделал] не».",
+            )
+            node("learn:rule-part-2").assertTextEquals(
+                "abandon — глагол «покидать, бросать» в 1-й форме, как в словаре. После did глагол всегда в 1-й форме.",
+            )
+        }
+    }
+
+    @Test
+    fun theCapSPageIsInTheAppSLanguage() {
+        val (app, prepare) = realAbandon("abandon:4:1")
+        runAppTest(
+            app,
+            prepare = {
+                it.locale.langTag.value = "en"
+                prepare(it)
+            },
+        ) {
+            openFeed()
+            settled("learn:thought")
+            node("learn:form").assertTextEquals("Type 1 · Past · Question", "Active · Past Simple")
+            click("learn:form")
+            settled("learn:rule-page")
+            node("learn:rule-title").assertTextEquals("Type 1 · Past · Question")
+            node("learn:rule-part-0").assertTextEquals(
+                "Did — the helper word of the past. Russian does not say it, so in the thought it is in square brackets: " +
+                    "«[сделал]».",
+            )
+            node("learn:rule-part-1").assertTextEquals("you — who does it: «ты».")
+            node("learn:rule-english").assertTextEquals("Did + who + V + …?")
+            // The thought is Russian in any language.
+            node("learn:rule-thought").assertTextEquals("[Сделал] + кто + мыть + …?")
+            node("learn:rule-others").assertTextEquals("Statement and negative")
+        }
+    }
+
+    @Test
+    fun theCapSPageHoldsPlayAndGoingBackGoesOn() = runAppTest(app(), prepare = at("verb0:2:0")) {
+        openFeed()
+        settled("learn:ours")
+        click("learn:play")
+        click("learn:form")
+        settled("learn:rule-page")
+        ui.mainClock.autoAdvance = false
+        advance(stepMillis * 3)
+        ui.mainClock.autoAdvance = true
+
+        click("learn:rule-back")
+        settled("learn:ours")
+        node("learn:word").assertTextEquals("verb0")
+
+        ui.mainClock.autoAdvance = false
+        advance(stepMillis + slideMillis)
+        node("learn:thought").assertExists()
     }
 
     // The letter

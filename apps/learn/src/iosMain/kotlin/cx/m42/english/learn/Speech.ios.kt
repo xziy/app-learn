@@ -11,6 +11,7 @@ import platform.AVFAudio.AVSpeechSynthesisVoice
 import platform.AVFAudio.AVSpeechSynthesizer
 import platform.AVFAudio.AVSpeechSynthesizerDelegateProtocol
 import platform.AVFAudio.AVSpeechUtterance
+import platform.AVFAudio.AVSpeechUtteranceDefaultSpeechRate
 import platform.AVFAudio.setActive
 import platform.darwin.NSObject
 
@@ -31,12 +32,25 @@ private class IosSpeech : Speech {
         AVSpeechSynthesizer().also { it.delegate = ended }
     }
 
+    /**
+     * The phone's American voices, to take turns. Only Apple's own: the novelty ones, bells and whispers, and the
+     * Eloquence ones are under other identifiers. Their traits would say it too, but only from iOS 17.
+     */
+    private val voices: List<AVSpeechSynthesisVoice> by lazy {
+        AVSpeechSynthesisVoice.speechVoices().filterIsInstance<AVSpeechSynthesisVoice>()
+            .filter { it.language == "en-US" && (it.identifier.startsWith("com.apple.voice.") || it.identifier.startsWith("com.apple.ttsbundle.")) }
+            .sortedBy { it.identifier }
+    }
+
     override val available: Boolean = true
 
     override suspend fun speak(text: String) {
         stop()
         val utterance = AVSpeechUtterance.speechUtteranceWithString(text)
-        utterance.voice = AVSpeechSynthesisVoice.voiceWithLanguage("en-US")
+        val timbre = timbreFor(text, voices.size)
+        utterance.voice = voices.getOrNull(timbre.voice) ?: AVSpeechSynthesisVoice.voiceWithLanguage("en-US")
+        utterance.rate = AVSpeechUtteranceDefaultSpeechRate * SpeechPace
+        utterance.pitchMultiplier = timbre.pitch
         suspendCancellableCoroutine { sentence ->
             ended.await(utterance) { if (sentence.isActive) sentence.resume(Unit) }
             synthesizer.speakUtterance(utterance)

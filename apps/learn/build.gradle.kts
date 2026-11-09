@@ -117,3 +117,62 @@ val syncVerbs by tasks.registering {
         target.resolve("themes.json").writeText(JsonOutput.prettyPrint(json, true) + "\n")
     }
 }
+
+/**
+ * The dictionary is `../lexicon/nouns/<word>.json`, written by the lexicon skill. This puts all of it in one file of
+ * this module's resources, since they cannot be listed, and adds to each word what the phrases of `../verbs` say
+ * about it: the verbs of each theme it stands in (`in`), the forms it has there (`forms`) and how many phrases each
+ * of its senses has (`count`, "" being the main sense). Run it with `syncVerbs`, so that both copies are of one
+ * moment.
+ *
+ *     ./gradlew :apps:learn:syncVerbs :apps:learn:syncLexicon
+ */
+val syncLexicon by tasks.registering {
+    group = "learn"
+    description = "Copies ../lexicon into this module's resources, with where each word stands in ../verbs."
+
+    val lexicon = rootDir.resolve("../lexicon/nouns")
+    val verbs = rootDir.resolve("../verbs")
+    val target = layout.projectDirectory.file("src/commonMain/composeResources/files/lexicon/nouns.json").asFile
+    val logger = logger
+
+    doLast {
+        check(lexicon.isDirectory) { "No dictionary at ${lexicon.canonicalPath}" }
+        val themes = JsonSlurper().parse(verbs.resolve("themes.json")) as Map<*, *>
+        val places = mutableMapOf<String, MutableMap<String, MutableList<String>>>()
+        val forms = mutableMapOf<String, MutableSet<String>>()
+        val counts = mutableMapOf<String, MutableMap<String, Int>>()
+        for (name in themes.keys) {
+            val theme = verbs.resolve(name as String)
+            for (dir in theme.listFiles().orEmpty().filter { it.isDirectory }.sortedBy { it.name }) {
+                val file = dir.resolve("${dir.name}.json")
+                if (!file.isFile) continue
+                val nouns = (JsonSlurper().parse(file) as Map<*, *>)["nouns"] as? List<*> ?: continue
+                for (item in nouns) {
+                    val noun = item as Map<*, *>
+                    val word = noun["word"] as String
+                    val links = noun["used_in"] as List<*>
+                    val ofTheme = places.getOrPut(word) { linkedMapOf() }.getOrPut(name) { mutableListOf() }
+                    if (dir.name !in ofTheme) ofTheme += dir.name
+                    links.forEach { forms.getOrPut(word) { linkedSetOf() } += (it as Map<*, *>)["form"] as String }
+                    val sense = noun["sense"] as String? ?: ""
+                    counts.getOrPut(word) { linkedMapOf() }.merge(sense, links.size, Int::plus)
+                }
+            }
+        }
+        val words = lexicon.listFiles().orEmpty().filter { it.extension == "json" }.sortedBy { it.name }.map { file ->
+            val entry = LinkedHashMap(JsonSlurper().parse(file) as Map<*, *>)
+            val word = entry["word"] as String
+            entry.remove("spec")
+            entry.remove("class")
+            entry["in"] = places[word].orEmpty()
+            entry["forms"] = forms[word].orEmpty().toList()
+            entry["count"] = counts[word].orEmpty()
+            entry
+        }
+        target.parentFile.mkdirs()
+        val json = JsonGenerator.Options().disableUnicodeEscaping().build().toJson(mapOf("spec" to 1, "words" to words))
+        target.writeText(json + "\n")
+        logger.lifecycle("${words.size} words, ${target.length() / 1024} KB")
+    }
+}

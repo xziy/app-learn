@@ -57,7 +57,8 @@ Each verb goes through all its tenses, and everything of one verb has that verb'
 - **A phrase** goes left and right: how we think, how the English think, the English with its transcription.
   That last step is said aloud as it comes up, and the speaker on it says it again. With nothing to say it
   with, the step says so.
-- **Up and down** is the next or the previous card.
+- **Up and down** is the next or the previous card. A phrase the feed comes back to starts again from its first step,
+  how we say it; only the stored place opens on the step it was left on.
 - **A tap or a click** goes forward: along the phrase, and from its last step to the next card.
 - **Play** goes through all of it by itself: four seconds a step (`StepSeconds` in `Feed.kt`), the last step
   has the time of its sound on top, and a card to read has eight (`IntroSeconds`). It stops at the end.
@@ -67,6 +68,32 @@ Each verb goes through all its tenses, and everything of one verb has that verb'
   leaves it. A tap still goes forward at once.
 - **The word at the bottom** of a phrase has its transcription, and the letter **i** next to it opens what
   is on the verb's card again, with what the transcription signs mean.
+- **The form** is a quiet line at the top of a phrase, between the arrows: which tense and which kind of sentence the
+  phrase is, `Тип 1 · Прошедшее · Вопрос`, and `Актив · Past Simple` dimmer after it. The kinds are a statement, a negative, a question and, in the future in the past, a
+  reported question (`He asked whether…`). The **cap** before it, the whole line in fact, opens a page about that form:
+  its formula in English and in the thought (`Did + кто + V + …?`, `[Сделал] + кто + мыть + …?`), what `V`, `V2` and the
+  rest are for this verb, the phrase itself in the colours of the formula with each part named, how the form is built,
+  and the formulas of the other kinds of the tense. The base says none of this: `Grammar.kt` reads it off the English.
+  The verb is the last word that is one of its forms, its auxiliaries, `not` and adverbs are the words straight before it,
+  a question has the first auxiliary in front, and a statement has its subject before the group, back to its determiner.
+  Over the whole base every phrase has its verb found (`GrammarTest`).
+- **Speech** is a little slower than the platform's own pace (`SpeechPace` in `Speech.kt`), and the phrases take turns
+  among the voices there are, with three pitches on top (`timbreFor`): one phrase always has the same voice, most of its
+  neighbours another, so that they sound like different people. espeak takes turns among its own variants (`en-us+m3`,
+  `+f2`…), spd-say among its kinds of voice, `say` among the macOS voices installed; Android among the engine's voices of
+  the chosen English that need no network, iOS among Apple's own American voices.
+
+## The words
+
+**A tap or a click on a noun** of the English phrase, or on its word in the transcription, opens **the word's page** over the
+feed, which stays where it was: how the word is said, its plural, its senses with the one of the phrase first, synonyms, what
+it goes with, words of its root, notes, and every phrase it stands in. A phrase there opens its verb's feed on it. A tap
+anywhere else still goes forward. The nouns not marked as known are underlined.
+
+A noun is **seen** once the English of a phrase with it is on screen. **The dictionary**, next to the seen verbs in the list,
+has the words seen, the latest on top, to search by the word, a form or a translation, and to mark **I know it**, a sense at a
+time: `sheet` as a rope is another mark than `sheet` as paper. The marks are in `runtime.storage`, `lex.seen` and `lex.known`,
+under `n:<word>` or `n:<word>#<sense>`, and are the same in every theme.
 
 ## Where the verbs come from
 
@@ -86,11 +113,14 @@ The source is `../verbs`, that is `/prj/english/verbs`. It holds `<theme>/<verb>
 dragunkin-verbs skill, the themes in `themes.json` and each theme's journal in `<theme>/progress.json`. The name of a
 theme is what stands before the colon of its description there.
 
-The copy is made by hand: `syncVerbs` is not part of the build, and `run` or `createDistributable` do not call it.
-After new verbs or themes appear in `../verbs`:
+The dictionary comes the same way, from `../lexicon/nouns/<word>.json` of the lexicon skill: `syncLexicon` puts it in one file,
+`files/lexicon/nouns.json`, with the verbs each word stands in, its forms there and how many phrases each sense has.
+
+The copy is made by hand: `syncVerbs` and `syncLexicon` are not part of the build, and `run` or `createDistributable` do not
+call them. After new verbs, themes or words appear in `../verbs` or `../lexicon`:
 
 ```bash
-./gradlew :apps:learn:syncVerbs     # refresh the copy
+./gradlew :apps:learn:syncVerbs :apps:learn:syncLexicon     # refresh the copies
 ./gradlew :composeApp:run           # or createDistributable: only a new build has the new words
 ```
 
@@ -127,13 +157,19 @@ composeApp/src/
 apps/learn/src/
   commonMain/kotlin/…/learn/
     LearnApp.kt                  the only public class: the manifest
-    LearnInstance.kt             the state: loads a session, draws a round, keeps the place and the seen verbs
+    LearnInstance.kt             the state: loads a session, draws a round, keeps the place, the seen verbs and the words
     LearnScreen.kt               the feed: pagers, cards, gestures, play
     VerbList.kt                  the theme and the list of chosen verbs
     SeenList.kt                  the page of the seen verbs: going back to one, swiping the mark off
     Feed.kt, Verbs.kt            pure logic: which pages, a verb's colour, reading a verb's JSON
-    Speech.kt                    speech; Speech.desktop.kt, Speech.ios.kt and Speech.android.kt do the talking
+    Grammar.kt                   pure logic: the kind of a phrase, the formulas of each tense, a phrase laid along them
+    GrammarPage.kt, GrammarStrings.kt   the form above the word, the cap's page and its words
+    Lexicon.kt, PhraseLinks.kt   pure logic: the dictionary, its search, where a noun stands in a phrase, its links
+    WordPage.kt, Dictionary.kt, WordStrings.kt   a word's page, the dictionary and their words
+    Speech.kt                    speech, its pace and whose voice says a phrase; Speech.desktop.kt, Speech.ios.kt and
+                                 Speech.android.kt do the talking
   commonMain/composeResources/files/verbs/   the copy of the base: themes.json, <theme>/index.json, <theme>/<verb>.json
+  commonMain/composeResources/files/lexicon/nouns.json   the copy of the dictionary, with where its words stand
 iosApp/                          the Xcode project
 ```
 

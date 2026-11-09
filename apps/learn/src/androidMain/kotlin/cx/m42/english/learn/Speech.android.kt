@@ -7,6 +7,7 @@ import android.database.Cursor
 import android.net.Uri
 import android.speech.tts.TextToSpeech
 import android.speech.tts.UtteranceProgressListener
+import android.speech.tts.Voice as EngineVoice
 import java.util.Locale
 import java.util.concurrent.ConcurrentHashMap
 import java.util.concurrent.atomic.AtomicInteger
@@ -111,9 +112,25 @@ private class Engine(context: Context) : UtteranceProgressListener() {
         answered.complete(status)
     }.also { it.setOnUtteranceProgressListener(this) }
 
-    /** Asked once, after a successful answer: it chooses the voice too. */
+    /** Asked once, after a successful answer: it chooses the language too. */
     private val english: Boolean by lazy {
         Englishes.any { tts.isLanguageAvailable(it) >= TextToSpeech.LANG_AVAILABLE && tts.setLanguage(it) >= TextToSpeech.LANG_AVAILABLE }
+    }
+
+    /**
+     * The engine's voices of the English it chose, to take turns: Google's has several men and women for each. Only
+     * those on the phone, so that a phrase is said without a network, and in the order of their names, so that a phrase
+     * has the same voice every time.
+     */
+    private val voices: List<EngineVoice> by lazy {
+        val chosen = tts.voice?.locale
+        runCatching { tts.voices }.getOrNull().orEmpty()
+            .filter { voice ->
+                chosen != null && voice.locale.language == chosen.language && voice.locale.country == chosen.country &&
+                    !voice.isNetworkConnectionRequired &&
+                    voice.features?.contains(TextToSpeech.Engine.KEY_FEATURE_NOT_INSTALLED) != true
+            }
+            .sortedBy { it.name }
     }
 
     /** Null while the engine has not answered yet. */
@@ -127,6 +144,10 @@ private class Engine(context: Context) : UtteranceProgressListener() {
     suspend fun say(text: String) {
         if (answered.await() != TextToSpeech.SUCCESS || !english) return
         val id = "learn-${next.incrementAndGet()}"
+        val timbre = timbreFor(text, voices.size)
+        voices.getOrNull(timbre.voice)?.let { tts.setVoice(it) }
+        tts.setSpeechRate(SpeechPace)
+        tts.setPitch(timbre.pitch)
         suspendCancellableCoroutine { sentence ->
             sentences[id] = sentence
             sentence.invokeOnCancellation { sentences.remove(id) }

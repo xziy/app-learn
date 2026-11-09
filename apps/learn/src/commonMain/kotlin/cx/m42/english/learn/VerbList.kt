@@ -90,6 +90,9 @@ internal fun VerbList(
     onChoose: (String) -> Unit,
     onUnchoose: (String) -> Unit,
     onSeen: () -> Unit,
+    /** How many words the dictionary has as seen. */
+    wordsSeen: Int,
+    onDictionary: () -> Unit,
     list: LazyListState,
 ) {
     LazyColumn(
@@ -147,7 +150,8 @@ internal fun VerbList(
                 ) { tint -> AppIconGlyph(AppIcon.Path(CROSS), tint) }
             }
         }
-        item { SeenEntry(session.seen.size, strings, onSeen) }
+        item { ListEntry(strings.seenTitle, session.seen.size, "learn:seen-open", onSeen) }
+        item { ListEntry(strings.words.entry, wordsSeen, "learn:dict-open", onDictionary) }
         if (session.others.isNotEmpty()) {
             item {
                 Text(
@@ -192,22 +196,22 @@ private fun ThemeChoice(session: Session, strings: LearnStrings, onTheme: (Strin
     }
 }
 
-/** The way to the verbs already gone through. Shown with none too: that is where they will be. */
+/** The way to the verbs already gone through, or to the words seen. Shown with none too: that is where they will be. */
 @Composable
-private fun SeenEntry(count: Int, strings: LearnStrings, onSeen: () -> Unit) {
+private fun ListEntry(title: String, count: Int, tag: String, onOpen: () -> Unit) {
     Row(
         modifier = Modifier
             .fillMaxWidth()
             .padding(top = 8.dp)
             .clip(RoundedCornerShape(14.dp))
             .background(AppTheme.foreground.copy(alpha = 0.08f))
-            .clickable(role = Role.Button, onClick = onSeen)
-            .testTag("learn:seen-open")
+            .clickable(role = Role.Button, onClick = onOpen)
+            .testTag(tag)
             .padding(horizontal = 16.dp, vertical = 14.dp),
         verticalAlignment = Alignment.CenterVertically,
     ) {
         Text(
-            text = strings.seenTitle,
+            text = title,
             style = AppTheme.body,
             color = AppTheme.foreground,
             modifier = Modifier.weight(1f),

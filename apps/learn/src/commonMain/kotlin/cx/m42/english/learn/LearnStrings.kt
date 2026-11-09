@@ -60,6 +60,10 @@ internal data class LearnStrings(
      * a theme is just its name, and a closed tense says no more than that it is closed.
      */
     val readsRussian: Boolean,
+    /** The cap's page: which form a phrase is in and how it is built. */
+    val grammar: GrammarStrings,
+    /** The dictionary and a word's page. */
+    val words: WordStrings,
 ) {
     fun themeTitle(theme: Theme): String = if (readsRussian) theme.russianTitle else theme.englishTitle
 
@@ -189,6 +193,8 @@ internal data class LearnStrings(
             portion = { "Порция ${it.number} из ${it.total} · ${it.cards} ${russianCards(it.cards)}" },
             themesTitle = "Тематика",
             readsRussian = true,
+            grammar = GrammarStrings.Ru,
+            words = WordStrings.Ru,
         )
 
         val En = LearnStrings(
@@ -269,6 +275,8 @@ internal data class LearnStrings(
             portion = { "Portion ${it.number} of ${it.total} · ${it.cards} ${if (it.cards == 1) "card" else "cards"}" },
             themesTitle = "Theme",
             readsRussian = false,
+            grammar = GrammarStrings.En,
+            words = WordStrings.En,
         )
 
         fun of(locale: LocaleService): LearnStrings = locale.pick(mapOf("ru" to Ru, "en" to En), fallback = Ru)

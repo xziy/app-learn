@@ -18,6 +18,14 @@ import kotlinx.coroutines.withTimeoutOrNull
 /** Where the feed opens: a page and, on a phrase, its step. */
 internal data class Start(val page: Int, val step: Int = 0)
 
+/**
+ * What the person has done with the words, by the key of a word's sense: seen in an English phrase, in the order that
+ * happened, and known, as they said. Neither is a theme's own: a word is the same word in all of them.
+ */
+internal data class WordMarks(val seen: List<String> = emptyList(), val known: Set<String> = emptySet()) {
+    val seenSet: Set<String> by lazy { seen.toSet() }
+}
+
 /** The chosen verbs and the feed through them. */
 internal data class Session(
     /** Every theme there is, to choose from. */
@@ -74,6 +82,14 @@ internal class LearnInstance(
 
     val canSpeak: Boolean get() = speech.available
 
+    private val _lexicon = MutableStateFlow<Lexicon?>(null)
+
+    /** Null until it is read, empty if the build has none. */
+    val lexicon: StateFlow<Lexicon?> get() = _lexicon.asStateFlow()
+
+    private val _marks = MutableStateFlow(WordMarks())
+    val marks: StateFlow<WordMarks> get() = _marks.asStateFlow()
+
     /** `verb:page in the verb:step`: by the verb, so choosing other verbs does not move it. */
     private var place: String? = null
 
@@ -84,7 +100,53 @@ internal class LearnInstance(
         runtime.analytics.screen("learn")
         // After the first frame: reading the base is not for `onLaunch`.
         reload {}
+        runtime.scope.launch {
+            _marks.value = WordMarks(
+                seen = runtime.storage.get(WORDS_SEEN)?.split(',')?.filter { it.isNotEmpty() }.orEmpty(),
+                known = runtime.storage.get(WORDS_KNOWN)?.split(',')?.filter { it.isNotEmpty() }.orEmpty().toSet(),
+            )
+            _lexicon.value = try {
+                source.lexicon()?.let(::parseLexicon) ?: Lexicon.Empty
+            } catch (e: CancellationException) {
+                throw e
+            } catch (e: Exception) {
+                runtime.logger.error("Cannot read the dictionary: ${e.message}")
+                Lexicon.Empty
+            }
+        }
     }
+
+    /** The English of a phrase has been on screen: its nouns are seen, those seen before move to the end. */
+    fun saw(nouns: List<NounUse>) {
+        val keys = nouns.map { it.key }.distinct()
+        if (keys.isEmpty()) return
+        val marks = _marks.value
+        if (marks.seen.takeLast(keys.size) == keys) return
+        val seen = marks.seen.filterNot { it in keys } + keys
+        _marks.value = marks.copy(seen = seen)
+        runtime.scope.launch { runtime.storage.set(WORDS_SEEN, seen.joinToString(",")) }
+    }
+
+    fun know(key: String, known: Boolean) {
+        val marks = _marks.value
+        val now = if (known) marks.known + key else marks.known - key
+        if (now == marks.known) return
+        _marks.value = marks.copy(known = now)
+        runtime.scope.launch {
+            if (now.isEmpty()) runtime.storage.remove(WORDS_KNOWN) else runtime.storage.set(WORDS_KNOWN, now.joinToString(","))
+        }
+    }
+
+    /** The words seen so far are forgotten; what is known stays known. */
+    fun forgetSeen() {
+        _marks.value = _marks.value.copy(seen = emptyList())
+        runtime.scope.launch { runtime.storage.remove(WORDS_SEEN) }
+    }
+
+    /** A verb of any theme, for the phrases a word stands in. */
+    suspend fun readIn(theme: String, word: String): Verb? =
+        _state.value.let { (it as? LearnState.Ready)?.session?.themes?.find { t -> t.name == theme } }
+            ?.let { readVerb(it, word) }
 
     private fun reload(change: suspend () -> Unit) {
         loading?.cancel()
@@ -243,6 +305,8 @@ internal class LearnInstance(
         const val CHOSEN = "chosen"
         const val PLACE = "place"
         const val SEEN = "seen"
+        const val WORDS_SEEN = "lex.seen"
+        const val WORDS_KNOWN = "lex.known"
 
         /** Before there were themes these keys had no theme in them, and what they hold is the default theme's. */
         fun String.of(theme: Theme): String = if (theme.name == DefaultTheme) this else "$this.${theme.name}"

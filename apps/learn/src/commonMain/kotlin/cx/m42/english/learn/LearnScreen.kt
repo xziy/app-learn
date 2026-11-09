@@ -34,6 +34,7 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
+import androidx.compose.foundation.text.BasicText
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.DisposableEffect
@@ -48,6 +49,7 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
+import androidx.compose.runtime.snapshotFlow
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -111,9 +113,20 @@ internal fun LearnScreen(instance: LearnInstance, strings: LearnStrings) {
     var again by remember { mutableStateOf<Verb?>(null) }
     var seenList by remember { mutableStateOf(false) }
     var about by remember { mutableStateOf<Verb?>(null) }
+    // The phrase whose form the cap's page is showing.
+    var rule by remember { mutableStateOf<FeedPage.Phrase?>(null) }
+    var dictionary by remember { mutableStateOf(false) }
+    // The word whose page is open, over the feed or the dictionary.
+    var word by remember { mutableStateOf<WordOpen?>(null) }
+    var query by remember { mutableStateOf("") }
+    var filter by remember { mutableStateOf(WordFilter.Seen) }
+    val lexicon by instance.lexicon.collectAsState()
+    val marks by instance.marks.collectAsState()
+    val scope = rememberCoroutineScope()
     // Here rather than in the lists, which are gone while the feed is open: coming back finds them where they were.
     val listScroll = rememberLazyListState()
     val seenScroll = rememberLazyListState()
+    val dictionaryScroll = rememberLazyListState()
 
     fun leaveFeed() {
         if (again == null) instance.refresh()
@@ -121,11 +134,23 @@ internal fun LearnScreen(instance: LearnInstance, strings: LearnStrings) {
         opened = null
     }
 
-    SystemBackHandler(enabled = about != null || opened != null || seenList) {
+    /** A phrase of a word's page: the feed of its verb alone, on that phrase's English. */
+    fun openPhrase(verb: Verb, sentence: Sentence) {
+        val page = buildPages(listOf(verb)).indexOfFirst { it is FeedPage.Phrase && it.sentence.address == sentence.address }
+        if (opened != null && again == null) instance.refresh()
+        word = null
+        again = verb
+        opened = Start(page.coerceAtLeast(0), if (page >= 0) Step.English.ordinal else 0)
+    }
+
+    SystemBackHandler(enabled = word != null || about != null || rule != null || opened != null || seenList || dictionary) {
         when {
+            word != null -> word = null
             about != null -> about = null
+            rule != null -> rule = null
             opened != null -> leaveFeed()
-            else -> seenList = false
+            seenList -> seenList = false
+            else -> dictionary = false
         }
     }
     CompositionLocalProvider(LocalTokens provides reel) {
@@ -138,6 +163,19 @@ internal fun LearnScreen(instance: LearnInstance, strings: LearnStrings) {
                     val start = opened
                     val watching = again
                     when {
+                        start == null && dictionary -> Dictionary(
+                            lexicon = lexicon,
+                            marks = marks,
+                            strings = strings,
+                            query = query,
+                            onQuery = { query = it },
+                            filter = filter,
+                            onFilter = { filter = it },
+                            onOpen = { word = WordOpen(it) },
+                            onKnow = instance::know,
+                            onForgetSeen = instance::forgetSeen,
+                            list = dictionaryScroll,
+                        )
                         start == null && seenList -> SeenList(
                             session = session,
                             strings = strings,
@@ -163,19 +201,25 @@ internal fun LearnScreen(instance: LearnInstance, strings: LearnStrings) {
                                 onChoose = instance::choose,
                                 onUnchoose = instance::unchoose,
                                 onSeen = { seenList = true },
+                                wordsSeen = marks.seen.size,
+                                onDictionary = { dictionary = true },
                                 list = listScroll,
                             )
                         }
-                        watching != null -> key(watching.word) {
+                        watching != null -> key(watching.word, start) {
                             Feed(
                                 instance = instance,
                                 session = remember { session.only(watching) },
                                 start = start,
                                 strings = strings,
                                 done = strings.againDone,
-                                paused = about != null,
+                                paused = about != null || rule != null || word != null,
                                 onSettled = { _, _, _ -> },
                                 onAbout = { about = it },
+                                onRule = { rule = it },
+                                lexicon = lexicon,
+                                known = marks.known,
+                                onWord = { word = WordOpen(it) },
                                 onList = ::leaveFeed,
                             )
                         }
@@ -186,9 +230,13 @@ internal fun LearnScreen(instance: LearnInstance, strings: LearnStrings) {
                                 start = start,
                                 strings = strings,
                                 done = strings.done,
-                                paused = about != null,
+                                paused = about != null || rule != null || word != null,
                                 onSettled = instance::settled,
                                 onAbout = { about = it },
+                                onRule = { rule = it },
+                                lexicon = lexicon,
+                                known = marks.known,
+                                onWord = { word = WordOpen(it) },
                                 onList = ::leaveFeed,
                             )
                         }
@@ -197,10 +245,27 @@ internal fun LearnScreen(instance: LearnInstance, strings: LearnStrings) {
             }
             // Over the feed rather than in its place, so the feed is where it was on the way back.
             val reading = about
+            val ruling = rule
+            val looking = word
             when {
+                looking != null -> WordPage(
+                    open = looking,
+                    lexicon = lexicon,
+                    marks = marks,
+                    themes = (state as? LearnState.Ready)?.session?.themes.orEmpty(),
+                    strings = strings,
+                    canSpeak = instance.canSpeak,
+                    onSay = { text -> scope.launch { instance.speak(text) } },
+                    onKnow = instance::know,
+                    read = instance::readIn,
+                    onPhrase = ::openPhrase,
+                    onBack = { word = null },
+                )
                 reading != null -> AboutVerb(reading, strings, onBack = { about = null })
+                ruling != null -> RulePage(ruling, strings, onBack = { rule = null })
                 opened != null -> TopArrow(strings.back, "learn:to-list", ::leaveFeed)
                 seenList -> TopArrow(strings.back, "learn:seen-back") { seenList = false }
+                dictionary -> TopArrow(strings.back, "learn:dict-back") { dictionary = false }
                 else -> TopArrow(strings.close, "learn:close", instance::close)
             }
         }
@@ -208,7 +273,7 @@ internal fun LearnScreen(instance: LearnInstance, strings: LearnStrings) {
 }
 
 @Composable
-private fun TopArrow(label: String, tag: String, onClick: () -> Unit) {
+internal fun TopArrow(label: String, tag: String, onClick: () -> Unit) {
     IconButton(
         onClick = onClick,
         label = label,
@@ -238,6 +303,10 @@ private fun Feed(
     paused: Boolean,
     onSettled: (from: Int?, page: Int, step: Int) -> Unit,
     onAbout: (Verb) -> Unit,
+    onRule: (FeedPage.Phrase) -> Unit,
+    lexicon: Lexicon?,
+    known: Set<String>,
+    onWord: (NounUse) -> Unit,
     onList: () -> Unit,
 ) {
     val pages = session.pages
@@ -297,6 +366,24 @@ private fun Feed(
                 }
             }
         }
+    }
+
+    // A phrase the feed has gone away from starts from its first step when it comes back, the stored one included:
+    // the stored step is only for the first time the feed opens on it. Those still composed off screen are put back here,
+    // and the others have nothing kept, see `phraseSteps`.
+    var leftStart by remember { mutableStateOf(false) }
+    LaunchedEffect(feed) {
+        snapshotFlow { feed.settledPage }.collect { here ->
+            if (here != start.page) leftStart = true
+            steps.filterKeys { it != here }.values.forEach { it.requestScrollToPage(0) }
+        }
+    }
+
+    // The English of a phrase on screen is its nouns seen.
+    LaunchedEffect(place) {
+        val (page, step) = place ?: return@LaunchedEffect
+        val entry = pages.getOrNull(page) as? FeedPage.Phrase ?: return@LaunchedEffect
+        if (Step.entries[step] == Step.English) instance.saw(entry.sentence.nouns)
     }
 
     // The page it last rested on, to tell a move forward from a move back.
@@ -366,7 +453,7 @@ private fun Feed(
                 is FeedPage.VerbCard -> VerbCardPage(entry.verb, strings, withHint = page == 0, cardScroll(cards, page))
                 is FeedPage.TenseCard -> TenseCardPage(entry, cardScroll(cards, page))
                 is FeedPage.Phrase -> {
-                    val own = rememberPagerState(initialPage = if (page == start.page) start.step else 0) { Step.entries.size }
+                    val own = phraseSteps(if (page == start.page && !leftStart) start.step else 0)
                     DisposableEffect(page, own) {
                         steps[page] = own
                         onDispose { steps.remove(page) }
@@ -382,6 +469,10 @@ private fun Feed(
                         canSpeak = instance.canSpeak,
                         onSay = { sayAgain++ },
                         onAbout = { onAbout(entry.verb) },
+                        onRule = { onRule(entry) },
+                        lexicon = lexicon,
+                        known = known,
+                        onWord = onWord,
                     )
                 }
             }
@@ -403,7 +494,7 @@ private fun Feed(
 /** SVG paths over a 24×24 viewBox. */
 private const val PLAY = "M8 5V19L19 12Z"
 private const val PAUSE = "M6 5H10V19H6ZM14 5H18V19H14Z"
-private const val SPEAKER =
+internal const val SPEAKER =
     "M3 9V15H7L12 20V4L7 9H3Z" +
         "M16.5 12C16.5 10.23 15.48 8.71 14 7.97V16.03C15.48 15.29 16.5 13.77 16.5 12Z" +
         "M14 3.23V5.29C16.89 6.15 19 8.83 19 12C19 15.17 16.89 17.85 14 18.71V20.77C18.01 19.86 21 16.28 21 12C21 7.72 18.01 4.14 14 3.23Z"
@@ -438,6 +529,13 @@ private suspend fun readOn(card: ScrollState?, forward: Boolean): Boolean {
     card.animateScrollBy(card.viewportSize * KeyScrollShare * if (forward) 1 else -1)
     return true
 }
+
+/**
+ * The steps of one phrase. `remember`, not `rememberPagerState`: the feed saves what its pages keep with `rememberSaveable`
+ * and gives it back when a page comes back, and a phrase that comes back is to start from its first step.
+ */
+@Composable
+private fun phraseSteps(initial: Int): PagerState = remember { PagerState(currentPage = initial) { Step.entries.size } }
 
 /** The scroll of one card, told to the feed for as long as the card is there. */
 @Composable
@@ -578,8 +676,15 @@ private fun PhrasePage(
     canSpeak: Boolean,
     onSay: () -> Unit,
     onAbout: () -> Unit,
+    onRule: () -> Unit,
+    lexicon: Lexicon?,
+    known: Set<String>,
+    onWord: (NounUse) -> Unit,
 ) {
     val sentence = entry.sentence
+    val nouns = remember(sentence, lexicon) {
+        nounMarks(sentence.english, sentence.nouns) { lexicon?.spellings(it) ?: setOf(it.lowercase()) }
+    }
     Box(Modifier.fillMaxSize().background(verbColor(entry.verb.word)).testTag("learn:card-$position")) {
         HorizontalPager(state = pager, userScrollEnabled = draggable, modifier = Modifier.fillMaxSize()) { index ->
             val step = Step.entries[index]
@@ -590,13 +695,20 @@ private fun PhrasePage(
                     Step.Ours -> Line(sentence.ours, SentenceStyle, "learn:ours")
                     Step.Thought -> Line(sentence.thought, SentenceStyle, "learn:thought")
                     Step.English -> {
-                        Line(sentence.english, SentenceStyle, "learn:english")
+                        val linked = linkedPhrase(sentence.english, nouns, known, onWord)
+                        BasicText(
+                            text = linked,
+                            style = SentenceStyle.copy(color = AppTheme.foreground, textAlign = TextAlign.Center),
+                            modifier = Modifier.testTag("learn:english"),
+                        )
                         Spacer(Modifier.height(20.dp))
-                        Text(
-                            text = stressed(sentence.transcription, AppTheme.foreground),
-                            style = AppTheme.subtitle.copy(fontWeight = AppTheme.body.fontWeight),
-                            color = AppTheme.muted,
-                            textAlign = TextAlign.Center,
+                        BasicText(
+                            text = linkedSound(sentence, nouns, known, AppTheme.foreground, onWord),
+                            style = AppTheme.subtitle.copy(
+                                fontWeight = AppTheme.body.fontWeight,
+                                color = AppTheme.muted,
+                                textAlign = TextAlign.Center,
+                            ),
                             modifier = Modifier.testTag("learn:transcription"),
                         )
                         Spacer(Modifier.height(20.dp))
@@ -612,6 +724,16 @@ private fun PhrasePage(
             }
         }
         Segments(pager, Modifier.align(Alignment.TopCenter))
+        FormLine(
+            entry,
+            strings,
+            onRule,
+            Modifier
+                .align(Alignment.TopStart)
+                .windowInsetsPadding(WindowInsets.safeDrawing)
+                // Between the arrow back and play, level with them.
+                .padding(start = 50.dp, end = 50.dp, top = 23.dp),
+        )
         Footer(entry.verb, session.inVerb(position), strings, onAbout, Modifier.align(Alignment.BottomStart))
     }
 }
@@ -911,7 +1033,7 @@ private fun VerbDetails(verb: Verb, strings: LearnStrings) {
 }
 
 @Composable
-private fun AboutSection(title: String, tag: String, content: @Composable () -> Unit) {
+internal fun AboutSection(title: String, tag: String, content: @Composable () -> Unit) {
     Spacer(Modifier.height(24.dp))
     Text(
         text = title,

@@ -1,8 +1,12 @@
 package cx.m42.english.learn
 
 import cx.m42.english.learn.resources.Res
+import kotlin.coroutines.cancellation.CancellationException
 import kotlinx.serialization.json.Json
+import kotlinx.serialization.json.JsonArray
 import kotlinx.serialization.json.JsonObject
+import kotlinx.serialization.json.JsonPrimitive
+import kotlinx.serialization.json.contentOrNull
 import kotlinx.serialization.json.jsonArray
 import kotlinx.serialization.json.jsonObject
 import kotlinx.serialization.json.jsonPrimitive
@@ -17,7 +21,20 @@ internal data class Sentence(
     val english: String,
     /** In Russian letters, with `**` around the stressed vowel. */
     val transcription: String,
+    /** Where it is in its verb's file, as the nouns point to it: `active.simple.past.0`. */
+    val address: String = "",
+    /** The nouns of the English phrase, as the base lists them. */
+    val nouns: List<NounUse> = emptyList(),
 )
+
+/**
+ * A noun as it stands in a phrase: the word in its dictionary form, its sense in the dictionary (null for the main
+ * one), what it means here and how it is written in this phrase: `child`, null, `ребёнок`, `children`.
+ */
+internal data class NounUse(val word: String, val sense: String?, val meaning: String, val form: String) {
+    /** What its marks are kept under. */
+    val key: String get() = wordKey(word, sense)
+}
 
 /** One way to write and say a form: `abode`, `[эб**о**уд]`. */
 internal data class WordForm(val word: String, val transcription: String)
@@ -97,6 +114,9 @@ internal interface VerbSource {
 
     /** The JSON of a verb in a theme: the same verb has other phrases in another one. */
     suspend fun read(theme: String, word: String): String
+
+    /** The dictionary, as `:apps:learn:syncLexicon` writes it. None at all is no reason for the cards not to work. */
+    suspend fun lexicon(): String? = null
 }
 
 /** The base as the app carries it: `composeResources/files/verbs`, filled by `:apps:learn:syncVerbs`. */
@@ -113,6 +133,16 @@ internal object ResourceVerbSource : VerbSource {
     @OptIn(ExperimentalResourceApi::class)
     override suspend fun read(theme: String, word: String): String =
         Res.readBytes("files/verbs/$theme/$word.json").decodeToString()
+
+    @OptIn(ExperimentalResourceApi::class)
+    override suspend fun lexicon(): String? =
+        try {
+            Res.readBytes("files/lexicon/nouns.json").decodeToString()
+        } catch (e: CancellationException) {
+            throw e
+        } catch (e: Exception) {
+            null
+        }
 }
 
 internal fun parseThemes(text: String): List<Theme> =
@@ -124,6 +154,14 @@ internal fun parseThemes(text: String): List<Theme> =
  */
 internal fun parseVerb(text: String): Verb {
     val root = Json.parseToJsonElement(text).jsonObject
+    val nouns = root.nouns()
+    fun JsonObject.tense(voice: Voice?, aspect: Aspect?, time: Time?): Tense? {
+        val at = listOfNotNull(voice?.key, aspect?.key, time?.key).ifEmpty { listOf("future_in_past") }.joinToString(".")
+        val sentences = examples(at, nouns)
+        val closed = notPossible()
+        if (sentences.isEmpty() && closed == null) return null
+        return Tense(voice, aspect, time, this["form"]?.jsonPrimitive?.content, sentences, closed)
+    }
     val tenses = buildList {
         for (voice in Voice.entries) {
             val ofVoice = root.child(voice.key) ?: continue
@@ -159,11 +197,22 @@ private fun JsonObject.child(key: String): JsonObject? = this[key] as? JsonObjec
 
 private fun JsonObject.notPossible(): String? = this["not_possible"]?.jsonPrimitive?.content
 
-private fun JsonObject.tense(voice: Voice?, aspect: Aspect?, time: Time?): Tense? {
-    val sentences = examples()
-    val closed = notPossible()
-    if (sentences.isEmpty() && closed == null) return null
-    return Tense(voice, aspect, time, this["form"]?.jsonPrimitive?.content, sentences, closed)
+/** The nouns of a verb by the phrase they stand in. A file without them, or with one that cannot be read, has none. */
+private fun JsonObject.nouns(): Map<String, List<NounUse>> {
+    val found = mutableMapOf<String, MutableList<NounUse>>()
+    for (element in (this["nouns"] as? JsonArray).orEmpty()) {
+        val noun = element as? JsonObject ?: continue
+        val word = (noun["word"] as? JsonPrimitive)?.contentOrNull ?: continue
+        val sense = (noun["sense"] as? JsonPrimitive)?.contentOrNull
+        val meaning = (noun["meaning"] as? JsonPrimitive)?.contentOrNull.orEmpty()
+        for (link in (noun["used_in"] as? JsonArray).orEmpty()) {
+            val at = link as? JsonObject ?: continue
+            val phrase = (at["phrase"] as? JsonPrimitive)?.contentOrNull ?: continue
+            val form = (at["form"] as? JsonPrimitive)?.contentOrNull ?: word
+            found.getOrPut(phrase) { mutableListOf() } += NounUse(word, sense, meaning, form)
+        }
+    }
+    return found
 }
 
 private fun JsonObject.forms(): Map<FormKind, List<WordForm>> =
@@ -174,9 +223,10 @@ private fun JsonObject.forms(): Map<FormKind, List<WordForm>> =
         }
     }.filterValues { it.isNotEmpty() }
 
-private fun JsonObject.examples(): List<Sentence> =
-    this["examples"]?.jsonArray.orEmpty().map { element ->
+private fun JsonObject.examples(at: String, nouns: Map<String, List<NounUse>>): List<Sentence> =
+    this["examples"]?.jsonArray.orEmpty().mapIndexed { index, element ->
         val example = element.jsonObject
         fun text(key: String) = example.getValue(key).jsonPrimitive.content
-        Sentence(text("ours"), text("thought"), text("english"), text("transcription"))
+        val address = "$at.$index"
+        Sentence(text("ours"), text("thought"), text("english"), text("transcription"), address, nouns[address].orEmpty())
     }

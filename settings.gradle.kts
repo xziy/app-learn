@@ -50,3 +50,6 @@ include(":composeApp")
 
 // Learning English.
 include(":apps:learn")
+
+// Reading books the English way.
+include(":apps:books")

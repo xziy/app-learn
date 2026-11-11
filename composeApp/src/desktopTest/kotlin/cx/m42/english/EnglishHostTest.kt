@@ -256,4 +256,61 @@ class EnglishHostTest {
         tap()
         waitFor("learn:ours")
     }
+
+    /**
+     * The books, on the books the app really carries: Home opens the shelf, the shelf a book full screen, and the reader
+     * has its lines, its sheet of settings, one line running on, and a noun's card. Shots for a look at each.
+     */
+    @Test
+    fun theBooksOpenOnTheShelfAndABookHasTheWholeWindow() = runDesktopComposeUiTest(width = 420, height = 820) {
+        val superizer = host()
+        setContent { English(superizer) }
+
+        waitFor("home:tile-books")
+        onNodeWithTag("home:tile-books").performClick()
+        waitUntil(timeoutMillis = 10_000L) {
+            listOf("books:shelf", "books:empty").any { runCatching { onNodeWithTag(it).assertExists() }.isSuccess }
+        }
+        waitForIdle()
+        shot("20-the-shelf")
+        if (runCatching { onNodeWithTag("books:empty").assertExists() }.isSuccess) return@runDesktopComposeUiTest
+
+        onNodeWithTag("books:book-phosphorus").performClick()
+        waitFor("books:reader")
+        val reader = onNodeWithTag("books:reader").getUnclippedBoundsInRoot()
+        assertEquals(420f, reader.width.value, 1f)
+        assertEquals(820f, reader.height.value, 1f)
+        shot("21-a-book-in-three-lines")
+
+        onNodeWithTag("books:settings-open").performClick()
+        waitFor("books:settings")
+        shot("22-how-to-read")
+        onNodeWithTag("books:line-ours").performClick()
+        onNodeWithTag("books:line-thought").performClick()
+        onNodeWithTag("books:settings-done").performClick()
+        waitFor("books:flow-0")
+        shot("23-one-line-runs-on")
+
+        onNodeWithTag("books:settings-open").performClick()
+        waitFor("books:settings")
+        onNodeWithTag("books:paper-dark").performClick()
+        onNodeWithTag("books:line-ours").performClick()
+        onNodeWithTag("books:line-thought").performClick()
+        onNodeWithTag("books:settings-done").performClick()
+        waitFor("books:s-0-1-english")
+        shot("24-a-dark-page")
+
+        // A tap on the first noun of the first sentence that has one, by the text's own layout.
+        val noun = onNodeWithTag("books:s-0-1-english")
+        val layouts = mutableListOf<TextLayoutResult>()
+        noun.fetchSemanticsNode().config[SemanticsActions.GetTextLayoutResult].action?.invoke(layouts)
+        val text = layouts.first().layoutInput.text
+        val styled = text.spanStyles.firstOrNull()
+        if (styled != null) {
+            val at = layouts.first().getBoundingBox((styled.start + styled.end) / 2).center
+            noun.performTouchInput { click(at) }
+            waitFor("books:word")
+            shot("25-a-nouns-card")
+        }
+    }
 }

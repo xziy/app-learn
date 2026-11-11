@@ -95,6 +95,31 @@ has the words seen, the latest on top, to search by the word, a form or a transl
 time: `sheet` as a rope is another mark than `sheet` as paper. The marks are in `runtime.storage`, `lex.seen` and `lex.known`,
 under `n:<word>` or `n:<word>#<sense>`, and are the same in every theme.
 
+## The books
+
+`apps/books` is a reader of books put the English way by the dragunkin-text skill. It opens on **the shelf**, the books read
+lately on top, each with how much of it is translated and how much is read. A book opens **full screen** as one long page.
+
+- **The lines** are chosen in the sheet behind **Aa**: how we think, how the English think, how it is said, the transcription.
+  With several lines each sentence has them one under another; with one the paragraph runs on as in any book.
+- **A tap on a sentence** opens its lines that are off under it, a second tap closes them.
+- **The nouns** of a sentence have a colour each, the same in every line: `name` in the English, «имя» in the thought, «имени» in
+  the Russian. A tap on one opens its card: how it is said, what it means here, how it stands in each line, its other senses,
+  its plural and how often the book has it.
+- **The page** is light, warm or dark, the type larger or smaller, with serifs or without. The bars go away while reading down
+  and come back going up. The place in each book is kept, and the settings are the same for all books.
+- On a desktop: the arrows, Page Up and Down, Space, Home and End scroll, `+` and `-` change the size, Esc goes back.
+
+A book is `../texts/<name>/book.json`, written by the skill's `render_text.py` next to its md; the format is in the skill's SKILL.md,
+«Книга для читалки». The app carries copies, as with the verbs:
+
+```bash
+./gradlew :apps:books:syncBooks     # ../texts/*/book.json into files/books, with files/books/index.json
+```
+
+The copies stay out of git (`.gitignore`): the repository is public and some texts are under copyright. A build from a
+clean checkout has an empty shelf; run `syncBooks` on the machine that builds to carry books.
+
 ## Where the verbs come from
 
 The app reads only its own copy of the base. It never reads `../verbs` while it runs.
@@ -168,6 +193,16 @@ apps/learn/src/
     WordPage.kt, Dictionary.kt, WordStrings.kt   a word's page, the dictionary and their words
     Speech.kt                    speech, its pace and whose voice says a phrase; Speech.desktop.kt, Speech.ios.kt and
                                  Speech.android.kt do the talking
+apps/books/src/commonMain/kotlin/…/books/
+    BooksApp.kt                  the only public class: the manifest
+    BooksInstance.kt             the state: the shelf, the open book, the place in each book, the settings
+    Books.kt                     pure logic: a book, its sentences and nouns, reading book.json and the shelf's index
+    Marks.kt                     pure logic: where each noun stands in each line, and in the transcription
+    BooksScreen.kt, Reader.kt    the shelf and the reader
+    Lines.kt                     a line or a paragraph drawn with its nouns, and where a tap lands
+    Sheets.kt                    the sheets over the page: how to read, the contents, a noun's card
+    Paper.kt, BooksStrings.kt    the pages' colours and the app's words
+  commonMain/composeResources/files/books/   the copy of the books: index.json, <name>.json
   commonMain/composeResources/files/verbs/   the copy of the base: themes.json, <theme>/index.json, <theme>/<verb>.json
   commonMain/composeResources/files/lexicon/nouns.json   the copy of the dictionary, with where its words stand
 iosApp/                          the Xcode project

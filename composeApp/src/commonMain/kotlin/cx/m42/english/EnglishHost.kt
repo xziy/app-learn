@@ -1,6 +1,7 @@
 package cx.m42.english
 
 import androidx.compose.runtime.Composable
+import cx.m42.english.books.BooksApp
 import cx.m42.english.learn.LearnApp
 import cx.m42.superizer.LanguageOption
 import cx.m42.superizer.Superizer
@@ -41,8 +42,9 @@ public fun buildEnglishHost(
         fallback = "ru",
     )
     register(LearnApp())
-    // What a fresh install shows; after that Home is the person's.
-    home("learn")
+    register(BooksApp())
+    // What a fresh install shows; after that Home is the person's, and a new app is added to it from All Apps.
+    home("learn", "books")
     extra()
 }
 

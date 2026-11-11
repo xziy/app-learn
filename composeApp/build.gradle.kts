@@ -96,6 +96,7 @@ kotlin {
             implementation(libs.kotlinx.coroutines.core)
 
             implementation(project(":apps:learn"))
+            implementation(project(":apps:books"))
         }
         desktopMain.dependencies {
             implementation(compose.desktop.currentOs)

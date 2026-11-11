@@ -99,10 +99,10 @@
             "transcription": "[хи: wоунт файнд ðэ бой биф**о**: ðэ рэйс]"
           },
           {
-            "ours": "Ты найдёшь гавань до гонки?",
-            "thought": "Будешь ты находить [известную] гавань перед [известной] гонкой?",
-            "english": "Will you find the harbor before the race?",
-            "transcription": "[wил ю: файнд ðэ х**а**:бэ биф**о**: ðэ рэйс]"
+            "ours": "Ты найдёшь трещины в киле?",
+            "thought": "Будешь ты находить какие-нибудь трещины в [известном] киле?",
+            "english": "Will you find any cracks in the keel?",
+            "transcription": "[wил ю: файнд **э**ни крæкс ин ðэ ки:л]"
           }
         ]
       }
@@ -279,10 +279,10 @@
             "transcription": "[ðэ ли:к wоз фаунд й**э**стэдэй]"
           },
           {
-            "ours": "Буй нашли до гонки?",
-            "thought": "Был [известный] буй найден перед [известной] гонкой?",
-            "english": "Was the buoy found before the race?",
-            "transcription": "[wоз ðэ бой фаунд биф**о**: ðэ рэйс]"
+            "ours": "Течь нашли вокруг баллера руля?",
+            "thought": "Была [известная] течь найдена вокруг [известного] рулевого баллера?",
+            "english": "Was the leak found around the rudder stock?",
+            "transcription": "[wоз ðэ ли:к фаунд эр**а**унд ðэ р**а**дэ сток]"
           }
         ]
       },
@@ -533,6 +533,10 @@
           "form": "leak"
         },
         {
+          "phrase": "passive.simple.past.1",
+          "form": "leak"
+        },
+        {
           "phrase": "passive.simple.present.1",
           "form": "leaks"
         },
@@ -611,10 +615,6 @@
           "form": "buoy"
         },
         {
-          "phrase": "passive.simple.past.1",
-          "form": "buoy"
-        },
-        {
           "phrase": "passive.simple.future.1",
           "form": "buoy"
         },
@@ -649,19 +649,11 @@
           "form": "race"
         },
         {
-          "phrase": "active.simple.future.2",
-          "form": "race"
-        },
-        {
           "phrase": "active.perfect.past.1",
           "form": "race"
         },
         {
           "phrase": "active.perfect.future.1",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.simple.past.1",
           "form": "race"
         },
         {
@@ -732,12 +724,22 @@
       ]
     },
     {
-      "word": "harbor",
-      "meaning": "гавань",
+      "word": "crack",
+      "meaning": "трещина",
       "used_in": [
         {
           "phrase": "active.simple.future.2",
-          "form": "harbor"
+          "form": "cracks"
+        }
+      ]
+    },
+    {
+      "word": "keel",
+      "meaning": "киль",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "keel"
         }
       ]
     },
@@ -836,6 +838,16 @@
         {
           "phrase": "active.perfect_continuous.future.1",
           "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "rudder stock",
+      "meaning": "баллер руля",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "rudder stock"
         }
       ]
     },

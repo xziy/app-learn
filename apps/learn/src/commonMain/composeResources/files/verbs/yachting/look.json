@@ -47,10 +47,10 @@
             "transcription": "[й**э**стэдэй wи: лукт æт ðэ ча:т]"
           },
           {
-            "ours": "Ты посмотрел на парус до гонки?",
-            "thought": "[Сделал] ты смотреть на [известный] парус перед [известной] гонкой?",
-            "english": "Did you look at the sail before the race?",
-            "transcription": "[дид ю: лук æт ðэ сэйл биф**о**: ðэ рэйс]"
+            "ours": "Ты посмотрел барабан закрутки перед стартом?",
+            "thought": "[Сделал] ты смотреть на [известный] закрутки барабан перед [известным] стартом?",
+            "english": "Did you look at the furling drum before the start?",
+            "transcription": "[дид ю: лук æт ðэ ф**œ**:лиŋ драм биф**о**: ðэ ста:т]"
           },
           {
             "ours": "Он не посмотрел на компас.",
@@ -64,10 +64,10 @@
         "form": "look at, looks at",
         "examples": [
           {
-            "ours": "Экипаж часто смотрит на горизонт.",
-            "thought": "[Известный] экипаж часто смотрит на [известный] горизонт.",
-            "english": "The crew often looks at the horizon.",
-            "transcription": "[ðэ кру: **о**фэн лукс æт ðэ хэр**а**йзн]"
+            "ours": "Перед каждым поворотом она смотрит вправо.",
+            "thought": "Перед каждым поворотом оверштаг она смотрит к правому борту.",
+            "english": "Before every tack she looks to starboard.",
+            "transcription": "[биф**о**: **э**ври тæк ши: лукс ту ст**а**:бэд]"
           },
           {
             "ours": "Он не смотрит на карту.",
@@ -543,13 +543,82 @@
       ]
     },
     {
-      "word": "sail",
-      "meaning": "парус",
+      "word": "furling drum",
+      "meaning": "барабан закрутки",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "sail"
+          "form": "furling drum"
+        }
+      ]
+    },
+    {
+      "word": "start",
+      "meaning": "старт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "start"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "compass"
         },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "tack",
+      "meaning": "поворот оверштаг",
+      "sense": "turn",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "tack"
+        }
+      ]
+    },
+    {
+      "word": "starboard",
+      "meaning": "правый борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "starboard"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
         {
           "phrase": "active.simple.future.2",
           "form": "sail"
@@ -613,10 +682,6 @@
       "meaning": "гонка",
       "used_in": [
         {
-          "phrase": "active.simple.past.1",
-          "form": "race"
-        },
-        {
           "phrase": "active.simple.future.2",
           "form": "race"
         },
@@ -647,78 +712,6 @@
         {
           "phrase": "passive.perfect.future.1",
           "form": "race"
-        }
-      ]
-    },
-    {
-      "word": "compass",
-      "meaning": "компас",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.2",
-          "form": "compass"
-        },
-        {
-          "phrase": "active.simple.present.2",
-          "form": "compass"
-        },
-        {
-          "phrase": "active.simple.future.1",
-          "form": "compass"
-        },
-        {
-          "phrase": "active.continuous.present.1",
-          "form": "compass"
-        }
-      ]
-    },
-    {
-      "word": "crew",
-      "meaning": "экипаж",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.0",
-          "form": "crew"
-        }
-      ]
-    },
-    {
-      "word": "horizon",
-      "meaning": "горизонт",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.0",
-          "form": "horizon"
-        },
-        {
-          "phrase": "active.continuous.past.1",
-          "form": "horizon"
-        },
-        {
-          "phrase": "active.continuous.future.1",
-          "form": "horizon"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.1",
-          "form": "horizon"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.1",
-          "form": "horizon"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.1",
-          "form": "horizon"
-        }
-      ]
-    },
-    {
-      "word": "sea",
-      "meaning": "море",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.2",
-          "form": "sea"
         }
       ]
     },
@@ -761,6 +754,32 @@
         {
           "phrase": "passive.continuous.future.1",
           "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "horizon",
+      "meaning": "горизонт",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "horizon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "horizon"
         }
       ]
     },

@@ -64,10 +64,10 @@
         "form": "remove, removes",
         "examples": [
           {
-            "ours": "Экипаж убирает воду с палубы.",
-            "thought": "[Известный] экипаж удаляет воду с [известной] палубы.",
-            "english": "The crew removes water from the deck.",
-            "transcription": "[ðэ кру: рим**у**:вз w**о**:тэ фром ðэ дэк]"
+            "ours": "Экипаж снимает пайолы, чтобы проверить трюм.",
+            "thought": "[Известный] экипаж удаляет [известные] пайольные доски проверить [известный] трюм.",
+            "english": "The crew removes the sole boards to check the bilge.",
+            "transcription": "[ðэ кру: рим**у**:вз ðэ соул бо:дз ту чэк ðэ билдж]"
           },
           {
             "ours": "Он не снимает парус во время гонки.",
@@ -402,10 +402,10 @@
             "transcription": "[w**о**:тэ хæз о:лр**э**ди би:н рим**у**:вд фром ðэ дэк]"
           },
           {
-            "ours": "Парус уже сняли?",
-            "thought": "Имеет [известный] парус уже быть удалён?",
-            "english": "Has the sail already been removed?",
-            "transcription": "[хæз ðэ сэйл о:лр**э**ди би:н рим**у**:вд]"
+            "ours": "Сломанную леерную стойку уже сняли?",
+            "thought": "Имеет [известная] сломанная леерная стойка уже быть удалена?",
+            "english": "Has the broken stanchion already been removed?",
+            "transcription": "[хæз ðэ бр**о**укэн ст**æ**ншн о:лр**э**ди би:н рим**у**:вд]"
           }
         ]
       },
@@ -502,10 +502,6 @@
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "deck"
-        },
-        {
-          "phrase": "active.simple.present.0",
           "form": "deck"
         },
         {
@@ -627,10 +623,6 @@
           "form": "sail"
         },
         {
-          "phrase": "passive.perfect.present.1",
-          "form": "sail"
-        },
-        {
           "phrase": "passive.perfect.future.1",
           "form": "sail"
         },
@@ -727,13 +719,39 @@
       ]
     },
     {
-      "word": "water",
-      "meaning": "вода",
+      "word": "sole board",
+      "meaning": "пайол",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "water"
-        },
+          "form": "sole boards"
+        }
+      ]
+    },
+    {
+      "word": "bilge",
+      "meaning": "трюм",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "bilge"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
         {
           "phrase": "active.continuous.past.0",
           "form": "water"
@@ -785,16 +803,6 @@
         {
           "phrase": "future_in_past.2",
           "form": "water"
-        }
-      ]
-    },
-    {
-      "word": "race",
-      "meaning": "гонка",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.1",
-          "form": "race"
         }
       ]
     },
@@ -877,6 +885,16 @@
         {
           "phrase": "active.perfect_continuous.future.1",
           "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "stanchion",
+      "meaning": "леерная стойка",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "stanchion"
         }
       ]
     },

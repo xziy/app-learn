@@ -47,10 +47,10 @@
             "transcription": "[ла:ст йиэ ðэй диз**а**йнд э боут]"
           },
           {
-            "ours": "Ты спроектировал эту яхту?",
-            "thought": "[Сделал] ты проектировать эту яхту?",
-            "english": "Did you design this yacht?",
-            "transcription": "[дид ю: диз**а**йн ðис йот]"
+            "ours": "Ты спроектировал этот киль?",
+            "thought": "[Сделал] ты проектировать этот киль?",
+            "english": "Did you design this keel?",
+            "transcription": "[дид ю: диз**а**йн ðис ки:л]"
           },
           {
             "ours": "Они не спроектировали причал.",
@@ -573,13 +573,49 @@
       ]
     },
     {
-      "word": "yacht",
-      "meaning": "яхта",
+      "word": "keel",
+      "meaning": "киль",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "yacht"
+          "form": "keel"
+        }
+      ]
+    },
+    {
+      "word": "dock",
+      "meaning": "причал",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "dock"
         },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "dock"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "dock"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
         {
           "phrase": "active.simple.present.0",
           "form": "yachts"
@@ -635,36 +671,6 @@
         {
           "phrase": "future_in_past.0",
           "form": "yacht"
-        }
-      ]
-    },
-    {
-      "word": "dock",
-      "meaning": "причал",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.2",
-          "form": "dock"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "dock"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "dock"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "dock"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "dock"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "dock"
         }
       ]
     },

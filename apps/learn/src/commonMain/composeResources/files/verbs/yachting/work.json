@@ -47,10 +47,10 @@
             "transcription": "[й**э**стэдэй ай wœ:кт он ðэ йот]"
           },
           {
-            "ours": "Радио работало во время гонки?",
-            "thought": "[Сделало] [известное] радио работать во время [известной] гонки?",
-            "english": "Did the radio work during the race?",
-            "transcription": "[дид ðэ р**э**йдиоу wœ:к дь**ю**эриŋ ðэ рэйс]"
+            "ours": "Барабан закрутки работал после ремонта?",
+            "thought": "[Сделал] [известный] закрутки барабан работать после [известного] ремонта?",
+            "english": "Did the furling drum work after the repair?",
+            "transcription": "[дид ðэ ф**œ**:лиŋ драм wœ:к **а**:фтэ ðэ рип**э**э]"
           },
           {
             "ours": "Насос вчера не работал.",
@@ -129,10 +129,10 @@
         "form": "am/is/are working",
         "examples": [
           {
-            "ours": "Мы сейчас работаем на яхте.",
-            "thought": "Мы являемся работающими на [известной] яхте сейчас.",
-            "english": "We are working on the yacht now.",
-            "transcription": "[wи: а: w**œ**:киŋ он ðэ йот нау]"
+            "ours": "Штурман сейчас работает за штурманским столом.",
+            "thought": "[Известный] штурман является работающим у [известного] штурманского стола сейчас.",
+            "english": "The navigator is working at the chart table now.",
+            "transcription": "[ðэ н**æ**вигэйтэ из w**œ**:киŋ æт ðэ ча:т т**э**йбл нау]"
           },
           {
             "ours": "Ты сейчас работаешь на палубе?",
@@ -304,10 +304,6 @@
           "form": "yacht"
         },
         {
-          "phrase": "active.continuous.present.0",
-          "form": "yacht"
-        },
-        {
           "phrase": "active.continuous.future.0",
           "form": "yacht"
         },
@@ -354,13 +350,73 @@
       ]
     },
     {
-      "word": "radio",
-      "meaning": "радио",
+      "word": "furling drum",
+      "meaning": "барабан закрутки",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "radio"
+          "form": "furling drum"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "meaning": "ремонт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "repair"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "насос",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "pump"
         },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радио",
+      "used_in": [
         {
           "phrase": "active.simple.present.1",
           "form": "radio"
@@ -376,10 +432,6 @@
       "meaning": "гонка",
       "used_in": [
         {
-          "phrase": "active.simple.past.1",
-          "form": "race"
-        },
-        {
           "phrase": "active.simple.present.1",
           "form": "race"
         },
@@ -390,50 +442,6 @@
         {
           "phrase": "active.perfect.past.0",
           "form": "race"
-        }
-      ]
-    },
-    {
-      "word": "pump",
-      "meaning": "насос",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.2",
-          "form": "pump"
-        },
-        {
-          "phrase": "active.simple.present.2",
-          "form": "pump"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "pump"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "pump"
-        },
-        {
-          "phrase": "active.simple.present.0",
-          "form": "pump"
-        }
-      ]
-    },
-    {
-      "word": "day",
-      "meaning": "день",
-      "used_in": [
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "day"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "day"
-        },
-        {
-          "phrase": "active.simple.present.0",
-          "form": "day"
         }
       ]
     },
@@ -474,6 +482,26 @@
         {
           "phrase": "active.perfect_continuous.future.1",
           "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "navigator",
+      "meaning": "штурман",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "navigator"
+        }
+      ]
+    },
+    {
+      "word": "chart table",
+      "meaning": "штурманский стол",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "chart table"
         }
       ]
     },

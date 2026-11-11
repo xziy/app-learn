@@ -64,10 +64,10 @@
         "form": "contain, contains",
         "examples": [
           {
-            "ours": "В баке есть топливо.",
-            "thought": "[Известный] бак содержит топливо.",
-            "english": "The tank contains fuel.",
-            "transcription": "[ðэ тæнк кэнт**э**йнз фь**ю**:эл]"
+            "ours": "В якорном ящике сорок метров цепи.",
+            "thought": "[Известный] якорный ящик содержит сорок метров от цепи.",
+            "english": "The anchor locker contains forty metres of chain.",
+            "transcription": "[ðи **æ**нкэ л**о**кэ кэнт**э**йнз ф**о**:ти м**и**:тэз ов чэйн]"
           },
           {
             "ours": "В аптечке есть бинты?",
@@ -244,10 +244,6 @@
           "form": "tank"
         },
         {
-          "phrase": "active.simple.present.0",
-          "form": "tank"
-        },
-        {
           "phrase": "active.simple.future.0",
           "form": "tank"
         },
@@ -283,10 +279,6 @@
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "fuel"
-        },
-        {
-          "phrase": "active.simple.present.0",
           "form": "fuel"
         },
         {
@@ -436,6 +428,36 @@
         {
           "phrase": "future_in_past.1",
           "form": "life jackets"
+        }
+      ]
+    },
+    {
+      "word": "anchor locker",
+      "meaning": "якорный ящик",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "anchor locker"
+        }
+      ]
+    },
+    {
+      "word": "metre",
+      "meaning": "метр",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "metres"
+        }
+      ]
+    },
+    {
+      "word": "chain",
+      "meaning": "цепь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "chain"
         }
       ]
     },

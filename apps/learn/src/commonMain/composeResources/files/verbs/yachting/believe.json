@@ -41,10 +41,10 @@
         "form": "believed",
         "examples": [
           {
-            "ours": "Вчера я поверил шкиперу.",
-            "thought": "Вчера я поверил [известному] шкиперу.",
-            "english": "Yesterday I believed the skipper.",
-            "transcription": "[й**э**стэдэй ай бил**и**:вд ðэ ск**и**пэ]"
+            "ours": "Вчера я поверил картплоттеру, а не компасу.",
+            "thought": "Вчера я поверил [известному] картплоттеру, не [известному] компасу.",
+            "english": "Yesterday I believed the chart plotter, not the compass.",
+            "transcription": "[й**э**стэдэй ай бил**и**:вд ðэ ча:т пл**о**тэ нот ðэ к**а**мпэс]"
           },
           {
             "ours": "Ты поверил прогнозу?",
@@ -236,40 +236,22 @@
   },
   "nouns": [
     {
-      "word": "skipper",
-      "meaning": "шкипер",
+      "word": "chart plotter",
+      "meaning": "картплоттер",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "skipper"
-        },
+          "form": "chart plotter"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
         {
-          "phrase": "active.simple.present.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.simple.future.1",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "passive.simple.future.1",
-          "form": "skipper"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "skipper"
+          "phrase": "active.simple.past.0",
+          "form": "compass"
         }
       ]
     },
@@ -310,6 +292,50 @@
         {
           "phrase": "active.simple.past.2",
           "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sailor"
         }
       ]
     },
@@ -398,16 +424,6 @@
         {
           "phrase": "passive.simple.present.0",
           "form": "yacht"
-        }
-      ]
-    },
-    {
-      "word": "sailor",
-      "meaning": "моряк",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.1",
-          "form": "sailor"
         }
       ]
     }

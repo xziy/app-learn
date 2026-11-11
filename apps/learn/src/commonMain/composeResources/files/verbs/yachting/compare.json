@@ -47,10 +47,10 @@
             "transcription": "[й**э**стэдэй wи: кэмп**э**эд ðэ ру:тс]"
           },
           {
-            "ours": "Ты сравнил яхту с лодкой?",
-            "thought": "[Сделал] ты сравнивать [известную] яхту с [известной] лодкой?",
-            "english": "Did you compare the yacht with the boat?",
-            "transcription": "[дид ю: кэмп**э**э ðэ йот wиð ðэ боут]"
+            "ours": "Ты сравнил ширину двух катамаранов?",
+            "thought": "[Сделал] ты сравнивать [известную] ширину от [известных] двух катамаранов?",
+            "english": "Did you compare the beam of the two catamarans?",
+            "transcription": "[дид ю: кэмп**э**э ðэ би:м ов ðэ ту: кæтэмэр**æ**нз]"
           },
           {
             "ours": "Она не сравнила карты.",
@@ -188,10 +188,10 @@
             "transcription": "[wи: хæв о:лр**э**ди кэмп**э**эд ðэ ру:тс]"
           },
           {
-            "ours": "Ты уже сравнил яхты?",
-            "thought": "Имеешь ты сравнёнными [известные] яхты уже?",
-            "english": "Have you compared the yachts yet?",
-            "transcription": "[хæв ю: кэмп**э**эд ðэ йотс йэт]"
+            "ours": "Ты уже сравнил их длину по ватерлинии?",
+            "thought": "Имеешь ты сравнёнными их ватерлинии длины уже?",
+            "english": "Have you compared their waterline lengths yet?",
+            "transcription": "[хæв ю: кэмп**э**эд ðээ w**о**:тэлайн лэŋθс йэт]"
           }
         ]
       },
@@ -543,84 +543,23 @@
       ]
     },
     {
-      "word": "yacht",
-      "meaning": "яхта",
+      "word": "beam",
+      "meaning": "ширина судна",
+      "sense": "width",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "yacht"
-        },
+          "form": "beam"
+        }
+      ]
+    },
+    {
+      "word": "catamaran",
+      "meaning": "катамаран",
+      "used_in": [
         {
-          "phrase": "active.simple.present.2",
-          "form": "yachts"
-        },
-        {
-          "phrase": "active.simple.future.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "active.continuous.past.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "active.continuous.future.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "passive.simple.future.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "passive.continuous.past.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "passive.continuous.present.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "passive.continuous.future.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "passive.perfect.present.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "yachts"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "yachts"
+          "phrase": "active.simple.past.1",
+          "form": "catamarans"
         }
       ]
     },
@@ -697,6 +636,80 @@
       ]
     },
     {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "yachts"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "yachts"
+        }
+      ]
+    },
+    {
       "word": "morning",
       "meaning": "утро",
       "used_in": [
@@ -769,6 +782,16 @@
       ]
     },
     {
+      "word": "waterline length",
+      "meaning": "длина по ватерлинии",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "waterline lengths"
+        }
+      ]
+    },
+    {
       "word": "hour",
       "meaning": "час",
       "used_in": [
@@ -825,16 +848,6 @@
         {
           "phrase": "passive.simple.present.0",
           "form": "day"
-        }
-      ]
-    },
-    {
-      "word": "boat",
-      "meaning": "лодка",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.1",
-          "form": "boat"
         }
       ]
     }

@@ -93,10 +93,10 @@
             "transcription": "[тэм**о**роу wи: wил дроп ðи **æ**нкэ ниэ ðи **а**йлэнд]"
           },
           {
-            "ours": "Ты спустишь парус?",
-            "thought": "Будешь ты спускать [известный] парус?",
-            "english": "Will you drop the sail?",
-            "transcription": "[wил ю: дроп ðэ сэйл]"
+            "ours": "Ты сначала спустишь стаксель?",
+            "thought": "Будешь ты спускать [известный] стаксель сначала?",
+            "english": "Will you drop the jib first?",
+            "transcription": "[wил ю: дроп ðэ джиб фœ:ст]"
           },
           {
             "ours": "Она не бросит конец за борт.",
@@ -567,10 +567,6 @@
           "form": "sail"
         },
         {
-          "phrase": "active.simple.future.1",
-          "form": "sail"
-        },
-        {
           "phrase": "active.continuous.past.1",
           "form": "sail"
         },
@@ -697,6 +693,16 @@
         {
           "phrase": "future_in_past.0",
           "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "jib",
+      "meaning": "стаксель",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "jib"
         }
       ]
     },

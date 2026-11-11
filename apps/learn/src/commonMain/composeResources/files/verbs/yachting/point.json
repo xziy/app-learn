@@ -41,10 +41,10 @@
         "form": "pointed",
         "examples": [
           {
-            "ours": "Вчера капитан указал на маяк.",
-            "thought": "Вчера [известный] капитан указал на [известный] маяк.",
-            "english": "Yesterday the captain pointed at the lighthouse.",
-            "transcription": "[й**э**стэдэй ðэ к**æ**птин п**о**йнтид æт ðэ л**а**йтхаус]"
+            "ours": "Вчера я показал на маяк справа по носу.",
+            "thought": "Вчера я указал на [известный] маяк на [известной] правой скуле.",
+            "english": "Yesterday I pointed at the lighthouse on the starboard bow.",
+            "transcription": "[й**э**стэдэй ай п**о**йнтид æт ðэ л**а**йтхаус он ðэ ст**а**:бэд бау]"
           },
           {
             "ours": "Он не указал на риф.",
@@ -53,10 +53,10 @@
             "transcription": "[хи: диднт пойнт æт ðэ ри:ф]"
           },
           {
-            "ours": "Ты указал на опасность до гонки?",
-            "thought": "[Сделал] ты указывать вне [известную] опасность перед [известной] гонкой?",
-            "english": "Did you point out the hazard before the race?",
-            "transcription": "[дид ю: пойнт аут ðэ х**æ**зэд биф**о**: ðэ рэйс]"
+            "ours": "Ты поставил нос против ветра?",
+            "thought": "[Сделал] ты направлять [известный] нос в [известный] ветер?",
+            "english": "Did you point the bow into the wind?",
+            "transcription": "[дид ю: пойнт ðэ бау **и**нту ðэ wинд]"
           }
         ]
       },
@@ -455,24 +455,6 @@
   },
   "nouns": [
     {
-      "word": "captain",
-      "meaning": "капитан",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.0",
-          "form": "captain"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "captain"
-        },
-        {
-          "phrase": "future_in_past.2",
-          "form": "captain"
-        }
-      ]
-    },
-    {
       "word": "lighthouse",
       "meaning": "маяк",
       "used_in": [
@@ -491,6 +473,16 @@
         {
           "phrase": "active.continuous.future.1",
           "form": "lighthouse"
+        }
+      ]
+    },
+    {
+      "word": "starboard bow",
+      "meaning": "правая скула",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "starboard bow"
         }
       ]
     },
@@ -533,13 +525,107 @@
       ]
     },
     {
-      "word": "hazard",
-      "meaning": "опасность",
+      "word": "bow",
+      "meaning": "нос судна",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "hazard"
+          "form": "bow"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "needle",
+      "meaning": "стрелка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "needle"
+        }
+      ]
+    },
+    {
+      "word": "rock",
+      "meaning": "скала",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "rocks"
         },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "rocks"
+        }
+      ]
+    },
+    {
+      "word": "hazard",
+      "meaning": "опасность",
+      "used_in": [
         {
           "phrase": "active.simple.present.2",
           "form": "hazards"
@@ -627,13 +713,27 @@
       ]
     },
     {
+      "word": "briefing",
+      "meaning": "инструктаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "briefing"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "briefing"
+        }
+      ]
+    },
+    {
       "word": "race",
       "meaning": "гонка",
       "used_in": [
-        {
-          "phrase": "active.simple.past.2",
-          "form": "race"
-        },
         {
           "phrase": "active.simple.future.2",
           "form": "race"
@@ -669,102 +769,6 @@
         {
           "phrase": "passive.perfect.future.1",
           "form": "race"
-        }
-      ]
-    },
-    {
-      "word": "compass",
-      "meaning": "компас",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.0",
-          "form": "compass"
-        }
-      ]
-    },
-    {
-      "word": "needle",
-      "meaning": "стрелка",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.0",
-          "form": "needle"
-        }
-      ]
-    },
-    {
-      "word": "rock",
-      "meaning": "скала",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.1",
-          "form": "rocks"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "rocks"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "rocks"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.1",
-          "form": "rocks"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.1",
-          "form": "rocks"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.1",
-          "form": "rocks"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "rocks"
-        },
-        {
-          "phrase": "passive.simple.future.1",
-          "form": "rocks"
-        },
-        {
-          "phrase": "passive.continuous.past.1",
-          "form": "rocks"
-        },
-        {
-          "phrase": "passive.continuous.future.1",
-          "form": "rocks"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "rocks"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "rocks"
-        },
-        {
-          "phrase": "future_in_past.2",
-          "form": "rocks"
-        }
-      ]
-    },
-    {
-      "word": "briefing",
-      "meaning": "инструктаж",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.2",
-          "form": "briefing"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "briefing"
-        },
-        {
-          "phrase": "passive.continuous.future.1",
-          "form": "briefing"
         }
       ]
     },
@@ -817,6 +821,20 @@
         {
           "phrase": "active.perfect_continuous.future.1",
           "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
         }
       ]
     }

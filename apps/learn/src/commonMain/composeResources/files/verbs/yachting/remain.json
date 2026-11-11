@@ -41,10 +41,10 @@
         "form": "remained",
         "examples": [
           {
-            "ours": "Вчера яхта осталась в гавани.",
-            "thought": "Вчера [известная] яхта осталась в [известной] гавани.",
-            "english": "Yesterday the yacht remained in the harbor.",
-            "transcription": "[й**э**стэдэй ðэ йот рим**э**йнд ин ðэ х**а**:бэ]"
+            "ours": "Вчера паром целый час шёл у нас на левом траверзе.",
+            "thought": "Вчера [известный] паром оставался на нашем левом траверзе целый [какой-то] час.",
+            "english": "Yesterday the ferry remained on our port beam for an hour.",
+            "transcription": "[й**э**стэдэй ðэ ф**э**ри рим**э**йнд он ауэ по:т би:м фо: эн **а**уэ]"
           },
           {
             "ours": "Экипаж не остался на борту.",
@@ -231,58 +231,32 @@
   },
   "nouns": [
     {
-      "word": "yacht",
-      "meaning": "яхта",
+      "word": "ferry",
+      "meaning": "паром",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.simple.present.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "yacht"
+          "form": "ferry"
         }
       ]
     },
     {
-      "word": "harbor",
-      "meaning": "гавань",
+      "word": "port beam",
+      "meaning": "левый траверз",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "harbor"
-        },
+          "form": "port beam"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
         {
-          "phrase": "active.simple.future.0",
-          "form": "harbor"
-        },
-        {
-          "phrase": "active.continuous.present.1",
-          "form": "harbor"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "harbor"
+          "phrase": "active.simple.past.0",
+          "form": "hour"
         }
       ]
     },
@@ -375,6 +349,36 @@
       ]
     },
     {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
       "word": "anchor",
       "meaning": "якорь",
       "used_in": [
@@ -425,6 +429,24 @@
         {
           "phrase": "active.simple.present.2",
           "form": "winter"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "harbor"
         }
       ]
     },

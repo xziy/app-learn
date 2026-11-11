@@ -33,7 +33,7 @@
       }
     ]
   },
-  "meaning": "поворачивать, поворачиваться",
+  "meaning": "поворачивать, поворачиваться, включать, выключать",
   "notes": "правильный глагол, переходный и непереходный; есть пассив",
   "active": {
     "simple": {
@@ -53,10 +53,10 @@
             "transcription": "[хи: диднт тœ:н ðэ wи:л]"
           },
           {
-            "ours": "Ты повернул лодку до буя?",
-            "thought": "[Сделал] ты поворачивать [известную] лодку перед [известным] буем?",
-            "english": "Did you turn the boat before the buoy?",
-            "transcription": "[дид ю: тœ:н ðэ боут биф**о**: ðэ бой]"
+            "ours": "Ты повернул вправо до буя?",
+            "thought": "[Сделал] ты поворачивать к правому борту перед [известным] буем?",
+            "english": "Did you turn to starboard before the buoy?",
+            "transcription": "[дид ю: тœ:н ту ст**а**:бэд биф**о**: ðэ бой]"
           }
         ]
       },
@@ -129,10 +129,10 @@
         "form": "am/is/are turning",
         "examples": [
           {
-            "ours": "Сейчас мы поворачиваем лодку к ветру.",
-            "thought": "Мы являемся поворачивающими [известную] лодку в [известный] ветер сейчас.",
-            "english": "We are turning the boat into the wind now.",
-            "transcription": "[wи: а: т**œ**:ниŋ ðэ боут **и**нту ðэ wинд нау]"
+            "ours": "Сейчас мы поворачиваем влево.",
+            "thought": "Мы являемся поворачивающими к левому борту сейчас.",
+            "english": "We are turning to port now.",
+            "transcription": "[wи: а: т**œ**:ниŋ ту по:т нау]"
           },
           {
             "ours": "Ты сейчас поворачиваешь штурвал?",
@@ -171,10 +171,10 @@
             "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди тœ:нд тэв**о**:д ðэ коуст]"
           },
           {
-            "ours": "Ты повернул лодку до шторма?",
-            "thought": "Имел ты повёрнутой [известную] лодку перед [известным] штормом?",
-            "english": "Had you turned the boat before the storm?",
-            "transcription": "[хæд ю: тœ:нд ðэ боут биф**о**: ðэ сто:м]"
+            "ours": "Ты успел включить картплоттер до шторма?",
+            "thought": "Имел ты включённым [известный] картплоттер перед [известным] штормом?",
+            "english": "Had you turned on the chart plotter before the storm?",
+            "transcription": "[хæд ю: тœ:нд он ðэ ча:т пл**о**тэ биф**о**: ðэ сто:м]"
           }
         ]
       },
@@ -182,10 +182,10 @@
         "form": "have/has turned",
         "examples": [
           {
-            "ours": "Мы уже повернули лодку к ветру.",
-            "thought": "Мы имеем уже повёрнутой [известную] лодку в [известный] ветер.",
-            "english": "We have already turned the boat into the wind.",
-            "transcription": "[wи: хæв о:лр**э**ди тœ:нд ðэ боут **и**нту ðэ wинд]"
+            "ours": "Мы уже выключили плиту.",
+            "thought": "Мы имеем уже выключенной [известную] плиту.",
+            "english": "We have already turned off the stove.",
+            "transcription": "[wи: хæв о:лр**э**ди тœ:нд оф ðэ стоув]"
           },
           {
             "ours": "Ты уже повернул штурвал?",
@@ -555,31 +555,35 @@
       ]
     },
     {
-      "word": "boat",
-      "meaning": "лодка",
+      "word": "buoy",
+      "meaning": "буй",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "boat"
-        },
+          "form": "buoy"
+        }
+      ]
+    },
+    {
+      "word": "starboard",
+      "meaning": "правый борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "starboard"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
         {
           "phrase": "active.simple.present.0",
           "form": "boat"
         },
         {
-          "phrase": "active.continuous.present.0",
-          "form": "boat"
-        },
-        {
           "phrase": "active.continuous.future.1",
-          "form": "boat"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "boat"
-        },
-        {
-          "phrase": "active.perfect.present.0",
           "form": "boat"
         },
         {
@@ -633,16 +637,6 @@
       ]
     },
     {
-      "word": "buoy",
-      "meaning": "буй",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.2",
-          "form": "buoy"
-        }
-      ]
-    },
-    {
       "word": "captain",
       "meaning": "капитан",
       "used_in": [
@@ -673,19 +667,11 @@
           "form": "wind"
         },
         {
-          "phrase": "active.continuous.present.0",
-          "form": "wind"
-        },
-        {
           "phrase": "active.continuous.future.0",
           "form": "wind"
         },
         {
           "phrase": "active.continuous.future.1",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect.present.0",
           "form": "wind"
         },
         {
@@ -797,6 +783,17 @@
       ]
     },
     {
+      "word": "port",
+      "meaning": "левый борт",
+      "sense": "left",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "port"
+        }
+      ]
+    },
+    {
       "word": "storm",
       "meaning": "шторм",
       "used_in": [
@@ -815,6 +812,26 @@
         {
           "phrase": "passive.perfect.past.1",
           "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "chart plotter",
+      "meaning": "картплоттер",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chart plotter"
+        }
+      ]
+    },
+    {
+      "word": "stove",
+      "meaning": "плита",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "stove"
         }
       ]
     },

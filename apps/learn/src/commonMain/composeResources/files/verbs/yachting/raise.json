@@ -41,10 +41,10 @@
         "form": "raised",
         "examples": [
           {
-            "ours": "Вчера экипаж поднял парус.",
-            "thought": "Вчера [известный] экипаж поднял [известный] парус.",
-            "english": "Yesterday the crew raised the sail.",
-            "transcription": "[й**э**стэдэй ðэ кру: рэйзд ðэ сэйл]"
+            "ours": "Вчера я поднял пайолы, чтобы проверить трюм.",
+            "thought": "Вчера я поднял [известные] пайольные доски проверить [известный] трюм.",
+            "english": "Yesterday I raised the sole boards to check the bilge.",
+            "transcription": "[й**э**стэдэй ай рэйзд ðэ соул бо:дз ту чэк ðэ билдж]"
           },
           {
             "ours": "Моряк поднял якорь вчера?",
@@ -87,10 +87,10 @@
         "form": "will raise",
         "examples": [
           {
-            "ours": "Завтра экипаж поднимет парус.",
-            "thought": "Завтра [известный] экипаж будет поднимать [известный] парус.",
-            "english": "Tomorrow the crew will raise the sail.",
-            "transcription": "[тэм**о**роу ðэ кру: wил рэйз ðэ сэйл]"
+            "ours": "Завтра мы поднимем грот.",
+            "thought": "Завтра мы будем поднимать [известный] грот.",
+            "english": "Tomorrow we will raise the mainsail.",
+            "transcription": "[тэм**о**роу wи: wил рэйз ðэ м**э**йнсэйл]"
           },
           {
             "ours": "Моряк поднимет якорь завтра?",
@@ -441,110 +441,22 @@
   },
   "nouns": [
     {
-      "word": "crew",
-      "meaning": "экипаж",
+      "word": "sole board",
+      "meaning": "пайол",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.simple.present.1",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.present.1",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "crew"
+          "form": "sole boards"
         }
       ]
     },
     {
-      "word": "sail",
-      "meaning": "парус",
+      "word": "bilge",
+      "meaning": "трюм",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "active.continuous.present.2",
-          "form": "sail"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "sail"
+          "form": "bilge"
         }
       ]
     },
@@ -717,6 +629,44 @@
       ]
     },
     {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
       "word": "spinnaker",
       "meaning": "спинакер",
       "used_in": [
@@ -761,6 +711,70 @@
         {
           "phrase": "active.simple.present.2",
           "form": "storms"
+        }
+      ]
+    },
+    {
+      "word": "mainsail",
+      "meaning": "грот",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "mainsail"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "sail"
         }
       ]
     },

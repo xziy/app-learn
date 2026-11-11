@@ -41,10 +41,10 @@
         "form": "set",
         "examples": [
           {
-            "ours": "Вчера мы подняли парус.",
-            "thought": "Вчера мы установили [известный] парус.",
-            "english": "Yesterday we set the sail.",
-            "transcription": "[й**э**стэдэй wи: сэт ðэ сэйл]"
+            "ours": "Вчера мы поставили передний парус поменьше.",
+            "thought": "Вчера мы установили [какой-то] меньший передний парус.",
+            "english": "Yesterday we set a smaller headsail.",
+            "transcription": "[й**э**стэдэй wи: сэт э см**о**:лэ х**э**дсэйл]"
           },
           {
             "ours": "Она не установила будильник.",
@@ -112,10 +112,10 @@
         "form": "was/were setting",
         "examples": [
           {
-            "ours": "Мы поднимали парус, когда усилился ветер.",
-            "thought": "Мы были устанавливающими [известный] парус, когда [известный] ветер усилился.",
-            "english": "We were setting the sail when the wind rose.",
-            "transcription": "[wи: wœ: с**э**тиŋ ðэ сэйл wэн ðэ wинд роуз]"
+            "ours": "Мы выставляли оттяжку гика, когда усилился ветер.",
+            "thought": "Мы были устанавливающими [известную] оттяжку гика, когда [известный] ветер усилился.",
+            "english": "We were setting the vang when the wind rose.",
+            "transcription": "[wи: wœ: с**э**тиŋ ðэ вæŋ wэн ðэ wинд роуз]"
           },
           {
             "ours": "Ты ставил якорь, когда я позвонил?",
@@ -503,76 +503,12 @@
   },
   "nouns": [
     {
-      "word": "sail",
-      "meaning": "парус",
+      "word": "headsail",
+      "meaning": "передний парус",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.continuous.present.1",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.continuous.future.1",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "sail"
+          "form": "headsail"
         }
       ]
     },
@@ -740,6 +676,72 @@
       ]
     },
     {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sail"
+        }
+      ]
+    },
+    {
       "word": "wind",
       "meaning": "ветер",
       "used_in": [
@@ -754,6 +756,16 @@
         {
           "phrase": "passive.continuous.past.0",
           "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "vang",
+      "meaning": "оттяжка гика",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "vang"
         }
       ]
     },

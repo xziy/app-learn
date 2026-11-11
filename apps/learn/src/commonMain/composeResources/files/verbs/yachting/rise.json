@@ -41,10 +41,10 @@
         "form": "rose",
         "examples": [
           {
-            "ours": "Вчера ветер усилился.",
-            "thought": "Вчера [известный] ветер поднялся.",
-            "english": "Yesterday the wind rose.",
-            "transcription": "[й**э**стэдэй ðэ wинд роуз]"
+            "ours": "Вчера луна взошла у нас слева по корме.",
+            "thought": "Вчера [известная] луна поднялась на нашей левой раковине.",
+            "english": "Yesterday the moon rose on our port quarter.",
+            "transcription": "[й**э**стэдэй ðэ му:н роуз он ауэ по:т кw**о**:тэ]"
           },
           {
             "ours": "Волны не поднялись во время гонки.",
@@ -118,10 +118,10 @@
             "transcription": "[й**э**стэдэй ðэ пр**э**шэ wоз р**а**йзиŋ о:л дэй]"
           },
           {
-            "ours": "Ветер усиливался, когда я пришёл?",
-            "thought": "Был [известный] ветер поднимающимся когда я пришёл?",
-            "english": "Was the wind rising when I came?",
-            "transcription": "[wоз ðэ wинд р**а**йзиŋ wэн ай кэйм]"
+            "ours": "Фаловый угол грота уже шёл вверх по мачте, когда я пришёл?",
+            "thought": "Был [известный] фаловый угол от [известного] грота поднимающимся вверх по [известной] мачте, когда я пришёл?",
+            "english": "Was the head of the mainsail rising up the mast when I came?",
+            "transcription": "[wоз ðэ хэд ов ðэ м**э**йнсэйл р**а**йзиŋ ап ðэ ма:ст wэн ай кэйм]"
           }
         ]
       },
@@ -294,36 +294,22 @@
   },
   "nouns": [
     {
-      "word": "wind",
-      "meaning": "ветер",
+      "word": "moon",
+      "meaning": "луна",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "wind"
-        },
+          "form": "moon"
+        }
+      ]
+    },
+    {
+      "word": "port quarter",
+      "meaning": "левая раковина",
+      "used_in": [
         {
-          "phrase": "active.simple.present.2",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.continuous.past.1",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.1",
-          "form": "wind"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "wind"
+          "phrase": "active.simple.past.0",
+          "form": "port quarter"
         }
       ]
     },
@@ -512,6 +498,32 @@
       ]
     },
     {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
       "word": "night",
       "meaning": "ночь",
       "used_in": [
@@ -556,6 +568,37 @@
         {
           "phrase": "active.continuous.future.0",
           "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "head",
+      "meaning": "фаловый угол",
+      "sense": "sail",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "head"
+        }
+      ]
+    },
+    {
+      "word": "mainsail",
+      "meaning": "грот",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "mainsail"
+        }
+      ]
+    },
+    {
+      "word": "mast",
+      "meaning": "мачта",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "mast"
         }
       ]
     },

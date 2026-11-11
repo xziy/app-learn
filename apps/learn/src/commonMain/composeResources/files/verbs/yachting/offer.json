@@ -47,10 +47,10 @@
             "transcription": "[й**э**стэдэй ðэ мэр**и**:нэ **о**фэд ас э бœ:θ]"
           },
           {
-            "ours": "Ты предложил шкиперу помощь?",
-            "thought": "[Сделал] ты предлагать [известному] шкиперу помощь?",
-            "english": "Did you offer the skipper help?",
-            "transcription": "[дид ю: **о**фэ ðэ ск**и**пэ хэлп]"
+            "ours": "Ты предложил гостям койку в кормовой каюте?",
+            "thought": "[Сделал] ты предлагать [известным] гостям [известную] кормовой каюты койку?",
+            "english": "Did you offer the guests the aft cabin berth?",
+            "transcription": "[дид ю: **о**фэ ðэ гэстс ðи а:фт к**æ**бин бœ:θ]"
           },
           {
             "ours": "Она не предложила нам воду.",
@@ -541,78 +541,49 @@
       ]
     },
     {
-      "word": "skipper",
-      "meaning": "шкипер",
+      "word": "guest",
+      "meaning": "гость",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "skipper"
+          "form": "guests"
         },
         {
-          "phrase": "active.continuous.present.1",
-          "form": "skipper"
+          "phrase": "active.simple.present.1",
+          "form": "guests"
         },
         {
-          "phrase": "active.perfect.present.1",
-          "form": "skipper"
+          "phrase": "passive.simple.present.0",
+          "form": "Guests"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Guests"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Guests"
         }
       ]
     },
     {
-      "word": "help",
-      "meaning": "помощь",
+      "word": "cabin",
+      "meaning": "каюта",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "help"
-        },
+          "form": "cabin"
+        }
+      ]
+    },
+    {
+      "word": "berth",
+      "meaning": "койка",
+      "sense": "bed",
+      "used_in": [
         {
-          "phrase": "active.simple.future.1",
-          "form": "help"
-        },
-        {
-          "phrase": "active.continuous.past.1",
-          "form": "help"
-        },
-        {
-          "phrase": "active.continuous.present.1",
-          "form": "help"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "help"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "help"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "help"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "help"
-        },
-        {
-          "phrase": "passive.simple.future.1",
-          "form": "help"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "help"
-        },
-        {
-          "phrase": "passive.perfect.present.1",
-          "form": "help"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "help"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "help"
+          "phrase": "active.simple.past.1",
+          "form": "berth"
         }
       ]
     },
@@ -633,28 +604,6 @@
         {
           "phrase": "active.simple.present.0",
           "form": "showers"
-        }
-      ]
-    },
-    {
-      "word": "guest",
-      "meaning": "гость",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.1",
-          "form": "guests"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "Guests"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "Guests"
-        },
-        {
-          "phrase": "passive.continuous.present.0",
-          "form": "Guests"
         }
       ]
     },
@@ -734,6 +683,60 @@
       ]
     },
     {
+      "word": "help",
+      "meaning": "помощь",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "help"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "help"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "help"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "help"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "help"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "help"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "help"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "help"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "help"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "help"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "help"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "help"
+        }
+      ]
+    },
+    {
       "word": "crew",
       "meaning": "экипаж",
       "used_in": [
@@ -800,6 +803,20 @@
         {
           "phrase": "passive.continuous.present.1",
           "form": "discounts"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "skipper"
         }
       ]
     },

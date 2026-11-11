@@ -47,10 +47,10 @@
             "transcription": "[й**э**стэдэй ай кэпт ауэ ко:с]"
           },
           {
-            "ours": "Она не сохранила карту.",
-            "thought": "Она [сделала] не сохранять [известную] карту.",
-            "english": "She did not keep the chart.",
-            "transcription": "[ши: дид нот ки:п ðэ ча:т]"
+            "ours": "Она не держала стопор закрытым, и фал проскользнул.",
+            "thought": "Она [сделала] не держать [известный] стопор закрытым, и [известный] фал проскользнул.",
+            "english": "She did not keep the clutch closed, and the halyard slipped.",
+            "transcription": "[ши: дид нот ки:п ðэ клач клоузд æнд ðэ х**æ**льэд слипт]"
           },
           {
             "ours": "Ты держал лодку ровно?",
@@ -76,10 +76,10 @@
             "transcription": "[wи: ду: нот ки:п фь**ю**:эл хиэ]"
           },
           {
-            "ours": "Ты хранишь карту на борту?",
-            "thought": "[Делаешь] ты хранить [известную] карту на борту?",
-            "english": "Do you keep the chart aboard?",
-            "transcription": "[ду: ю: ки:п ðэ ча:т эб**о**:д]"
+            "ours": "В фарватере ты держишься правой стороны?",
+            "thought": "[Делаешь] ты держать к правому борту в [известном] фарватере?",
+            "english": "Do you keep to starboard in the channel?",
+            "transcription": "[ду: ю: ки:п ту ст**а**:бэд ин ðэ ч**æ**нл]"
           }
         ]
       },
@@ -99,10 +99,10 @@
             "transcription": "[ши: wил нот ки:п ðэ к**а**мпэс]"
           },
           {
-            "ours": "Ты сохранишь карту?",
-            "thought": "Будешь ты сохранять [известную] карту?",
-            "english": "Will you keep the chart?",
-            "transcription": "[wил ю: ки:п ðэ ча:т]"
+            "ours": "Ты будешь держать голову ниже гика?",
+            "thought": "Будешь ты держать твою голову ниже [известного] гика?",
+            "english": "Will you keep your head below the boom?",
+            "transcription": "[wил ю: ки:п йо: хэд бил**о**у ðэ бу:м]"
           }
         ]
       }
@@ -129,10 +129,10 @@
         "form": "am/is/are keeping",
         "examples": [
           {
-            "ours": "Я сейчас держу лодку ровно.",
-            "thought": "Я являюсь держащим [известную] лодку ровной сейчас.",
-            "english": "I am keeping the boat steady now.",
-            "transcription": "[ай æм к**и**:пиŋ ðэ боут ст**э**ди нау]"
+            "ours": "Я сейчас держу маяк на правом траверзе.",
+            "thought": "Я являюсь держащим [известный] маяк на [известном] правом траверзе сейчас.",
+            "english": "I am keeping the lighthouse on the starboard beam now.",
+            "transcription": "[ай æм к**и**:пиŋ ðэ л**а**йтхаус он ðэ ст**а**:бэд би:м нау]"
           },
           {
             "ours": "Она сейчас не держит курс.",
@@ -314,10 +314,10 @@
         "form": "am/is/are kept",
         "examples": [
           {
-            "ours": "Карты хранят на борту.",
-            "thought": "Карты есть сохранены на борту.",
-            "english": "Charts are kept aboard.",
-            "transcription": "[ча:тс а: кэпт эб**о**:д]"
+            "ours": "Цепь хранят в якорном ящике.",
+            "thought": "[Известная] цепь есть сохранена в [известном] якорном ящике.",
+            "english": "The chain is kept in the anchor locker.",
+            "transcription": "[ðэ чэйн из кэпт ин ðи **æ**нкэ л**о**кэ]"
           },
           {
             "ours": "Топливо здесь не хранят.",
@@ -337,10 +337,10 @@
         "form": "will be kept",
         "examples": [
           {
-            "ours": "Карту будут хранить на борту.",
-            "thought": "[Известная] карта будет быть сохранена на борту.",
-            "english": "The chart will be kept aboard.",
-            "transcription": "[ðэ ча:т wил би: кэпт эб**о**:д]"
+            "ours": "Запасные паруса будут хранить в форпике.",
+            "thought": "[Известные] запасные паруса будут быть сохранены в [известном] форпике.",
+            "english": "The spare sails will be kept in the forepeak.",
+            "transcription": "[ðэ спээ сэйлз wил би: кэпт ин ðэ ф**о**:пи:к]"
           },
           {
             "ours": "Топливо не будут хранить здесь.",
@@ -563,44 +563,23 @@
       ]
     },
     {
-      "word": "chart",
-      "meaning": "карта",
+      "word": "clutch",
+      "meaning": "стопор",
+      "sense": "rope",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "chart"
-        },
+          "form": "clutch"
+        }
+      ]
+    },
+    {
+      "word": "halyard",
+      "meaning": "фал",
+      "used_in": [
         {
-          "phrase": "active.simple.present.2",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.past.2",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.present.2",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "charts"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "chart"
+          "phrase": "active.simple.past.1",
+          "form": "halyard"
         }
       ]
     },
@@ -610,10 +589,6 @@
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "boat"
-        },
-        {
-          "phrase": "active.continuous.present.0",
           "form": "boat"
         },
         {
@@ -729,12 +704,52 @@
       ]
     },
     {
+      "word": "starboard",
+      "meaning": "правый борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "starboard"
+        }
+      ]
+    },
+    {
+      "word": "channel",
+      "meaning": "фарватер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "channel"
+        }
+      ]
+    },
+    {
       "word": "compass",
       "meaning": "компас",
       "used_in": [
         {
           "phrase": "active.simple.future.1",
           "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "head",
+      "meaning": "голова",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "head"
+        }
+      ]
+    },
+    {
+      "word": "boom",
+      "meaning": "гик",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "boom"
         }
       ]
     },
@@ -821,6 +836,26 @@
       ]
     },
     {
+      "word": "lighthouse",
+      "meaning": "маяк",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "lighthouse"
+        }
+      ]
+    },
+    {
+      "word": "starboard beam",
+      "meaning": "правый траверз",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "starboard beam"
+        }
+      ]
+    },
+    {
       "word": "noon",
       "meaning": "полдень",
       "used_in": [
@@ -845,6 +880,28 @@
         {
           "phrase": "passive.perfect.present.1",
           "form": "record"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "карта",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "chart"
         }
       ]
     },
@@ -945,6 +1002,46 @@
         {
           "phrase": "passive.simple.future.2",
           "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "chain",
+      "meaning": "цепь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "chain"
+        }
+      ]
+    },
+    {
+      "word": "anchor locker",
+      "meaning": "якорный ящик",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "anchor locker"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "sails"
+        }
+      ]
+    },
+    {
+      "word": "forepeak",
+      "meaning": "форпик",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "forepeak"
         }
       ]
     }

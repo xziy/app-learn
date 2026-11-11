@@ -70,10 +70,10 @@
             "transcription": "[ðэ к**æ**птин wо:кс эл**о**ŋ ðэ док **э**ври дэй]"
           },
           {
-            "ours": "Он не ходит по палубе во время гонки.",
-            "thought": "Он [делает] не ходить по [известной] палубе во время [известной] гонки.",
-            "english": "He doesn't walk on the deck during the race.",
-            "transcription": "[хи: дазнт wо:к он ðэ дэк дь**ю**эриŋ ðэ рэйс]"
+            "ours": "Он не ходит на нос без спасательного жилета.",
+            "thought": "Он [делает] не ходить к [известному] носу без [какого-то] спасательного жилета.",
+            "english": "He doesn't walk to the bow without a life jacket.",
+            "transcription": "[хи: дазнт wо:к ту ðэ бау wиð**а**ут э лайф дж**æ**кит]"
           },
           {
             "ours": "Ты ходишь в марину каждое утро?",
@@ -396,10 +396,6 @@
           "form": "race"
         },
         {
-          "phrase": "active.simple.present.1",
-          "form": "race"
-        },
-        {
           "phrase": "active.simple.future.2",
           "form": "race"
         },
@@ -454,16 +450,22 @@
       ]
     },
     {
-      "word": "deck",
-      "meaning": "палуба",
+      "word": "bow",
+      "meaning": "нос судна",
       "used_in": [
         {
           "phrase": "active.simple.present.1",
-          "form": "deck"
-        },
+          "form": "bow"
+        }
+      ]
+    },
+    {
+      "word": "life jacket",
+      "meaning": "спасательный жилет",
+      "used_in": [
         {
-          "phrase": "active.simple.future.1",
-          "form": "deck"
+          "phrase": "active.simple.present.1",
+          "form": "life jacket"
         }
       ]
     },
@@ -512,6 +514,16 @@
         {
           "phrase": "active.perfect_continuous.future.0",
           "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "deck"
         }
       ]
     },

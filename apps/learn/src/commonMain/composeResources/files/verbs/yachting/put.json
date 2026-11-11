@@ -41,10 +41,10 @@
         "form": "put",
         "examples": [
           {
-            "ours": "Вчера я положил карту на борт.",
-            "thought": "Вчера я положил [известную] карту на борт.",
-            "english": "Yesterday I put the chart aboard.",
-            "transcription": "[й**э**стэдэй ай пут ðэ ча:т эб**о**:д]"
+            "ours": "Вчера я завёл конец на утку.",
+            "thought": "Вчера я положил [известный] конец на [известную] утку.",
+            "english": "Yesterday I put the line on the cleat.",
+            "transcription": "[й**э**стэдэй ай пут ðэ лайн он ðэ кли:т]"
           },
           {
             "ours": "Ты положил компас на борт?",
@@ -165,10 +165,10 @@
         "form": "had put",
         "examples": [
           {
-            "ours": "К полудню я уже положил карту на борт.",
-            "thought": "К полудню я имел уже положенной [известную] карту на борт.",
-            "english": "By noon I had already put the chart aboard.",
-            "transcription": "[бай ну:н ай хæд о:лр**э**ди пут ðэ ча:т эб**о**:д]"
+            "ours": "К полудню я уже уложил пайолы на место.",
+            "thought": "К полудню я имел уже положенными [известные] пайольные доски назад.",
+            "english": "By noon I had already put the sole boards back.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди пут ðэ соул бо:дз бæк]"
           },
           {
             "ours": "К пяти она положила рацию на борт?",
@@ -290,10 +290,10 @@
         "form": "am/is/are put",
         "examples": [
           {
-            "ours": "Карту всегда кладут на борт.",
-            "thought": "[Известная] карта есть всегда положена на борт.",
-            "english": "The chart is always put aboard.",
-            "transcription": "[ðэ ча:т из **о**:лwэйз пут эб**о**:д]"
+            "ours": "Кранцы всегда убирают в кормовой рундук.",
+            "thought": "[Известные] кранцы есть всегда положены в [известный] кормовой рундук.",
+            "english": "The fenders are always put in the lazarette.",
+            "transcription": "[ðэ ф**э**ндэз а: **о**:лwэйз пут ин ðэ лæзэр**э**т]"
           },
           {
             "ours": "Рацию кладут на палубу каждый день?",
@@ -434,10 +434,10 @@
   "future_in_past": {
     "examples": [
       {
-        "ours": "Я знал, что она положит карту на борт.",
-        "thought": "Я знал, она будет класть [известную] карту на борт.",
-        "english": "I knew she would put the chart aboard.",
-        "transcription": "[ай нью: ши: wуд пут ðэ ча:т эб**о**:д]"
+        "ours": "Я знал, что она даст задний ход.",
+        "thought": "Я знал, она будет класть [известный] двигатель назад.",
+        "english": "I knew she would put the engine astern.",
+        "transcription": "[ай нью: ши: wуд пут ðи **э**нджин эст**œ**:н]"
       },
       {
         "ours": "Он думал, что мы не положим рацию на борт.",
@@ -449,60 +449,22 @@
   },
   "nouns": [
     {
-      "word": "chart",
-      "meaning": "морская карта",
+      "word": "line",
+      "meaning": "конец",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "chart"
-        },
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "cleat",
+      "meaning": "утка",
+      "used_in": [
         {
-          "phrase": "active.simple.present.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "chart"
+          "phrase": "active.simple.past.0",
+          "form": "cleat"
         }
       ]
     },
@@ -579,6 +541,48 @@
         {
           "phrase": "future_in_past.1",
           "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "chart"
         }
       ]
     },
@@ -742,6 +746,36 @@
       ]
     },
     {
+      "word": "container",
+      "meaning": "канистра, ёмкость",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "containers"
+        }
+      ]
+    },
+    {
       "word": "morning",
       "meaning": "утро",
       "used_in": [
@@ -778,6 +812,16 @@
         {
           "phrase": "passive.perfect.future.0",
           "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "sole board",
+      "meaning": "пайол",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "sole boards"
         }
       ]
     },
@@ -826,32 +870,32 @@
       ]
     },
     {
-      "word": "container",
-      "meaning": "канистра, ёмкость",
+      "word": "fender",
+      "meaning": "кранец",
       "used_in": [
         {
-          "phrase": "active.continuous.past.1",
-          "form": "containers"
-        },
+          "phrase": "passive.simple.present.0",
+          "form": "fenders"
+        }
+      ]
+    },
+    {
+      "word": "lazarette",
+      "meaning": "кормовой рундук",
+      "used_in": [
         {
-          "phrase": "active.continuous.present.1",
-          "form": "containers"
-        },
+          "phrase": "passive.simple.present.0",
+          "form": "lazarette"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
         {
-          "phrase": "active.continuous.future.1",
-          "form": "containers"
-        },
-        {
-          "phrase": "passive.continuous.past.1",
-          "form": "containers"
-        },
-        {
-          "phrase": "passive.continuous.present.1",
-          "form": "containers"
-        },
-        {
-          "phrase": "passive.continuous.future.1",
-          "form": "containers"
+          "phrase": "future_in_past.0",
+          "form": "engine"
         }
       ]
     }

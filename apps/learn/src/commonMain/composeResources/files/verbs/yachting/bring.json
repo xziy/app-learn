@@ -53,10 +53,10 @@
             "transcription": "[хи: диднт бриŋ э спээ роуп]"
           },
           {
-            "ours": "Ты принёс карту до гонки?",
-            "thought": "[Сделал] ты приносить [известную] карту перед [известной] гонкой?",
-            "english": "Did you bring the chart before the race?",
-            "transcription": "[дид ю: бриŋ ðэ ча:т биф**о**: ðэ рэйс]"
+            "ours": "Ты подвёл корму к причалу?",
+            "thought": "[Сделал] ты приводить [известную] корму к [известному] причалу?",
+            "english": "Did you bring the stern to the quay?",
+            "transcription": "[дид ю: бриŋ ðэ стœ:н ту ðэ ки:]"
           }
         ]
       },
@@ -609,78 +609,22 @@
       ]
     },
     {
-      "word": "chart",
-      "meaning": "морская карта",
+      "word": "stern",
+      "meaning": "корма",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "chart"
+          "form": "stern"
         }
       ]
     },
     {
-      "word": "race",
-      "meaning": "гонка",
+      "word": "quay",
+      "meaning": "причал",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "race"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "race"
-        },
-        {
-          "phrase": "active.continuous.future.1",
-          "form": "race"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "race"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.simple.future.1",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.continuous.future.1",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "race"
+          "form": "quay"
         }
       ]
     },
@@ -793,6 +737,48 @@
       ]
     },
     {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
       "word": "fuel",
       "meaning": "топливо",
       "used_in": [
@@ -866,6 +852,32 @@
         {
           "phrase": "passive.perfect.future.0",
           "form": "supplies"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "chart"
         }
       ]
     },

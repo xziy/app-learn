@@ -41,10 +41,10 @@
         "form": "lay",
         "examples": [
           {
-            "ours": "Вчера яхта стояла на якоре.",
-            "thought": "Вчера [известная] яхта лежала на якоре.",
-            "english": "Yesterday the yacht lay at anchor.",
-            "transcription": "[й**э**стэдэй ðэ йот лэй æт **æ**нкэ]"
+            "ours": "Вчера в полдень остров был у нас на правом траверзе.",
+            "thought": "Вчера в полдень [известный] остров лежал на нашем правом траверзе.",
+            "english": "Yesterday at noon the island lay on our starboard beam.",
+            "transcription": "[й**э**стэдэй æт ну:н ðи **а**йлэнд лэй он ауэ ст**а**:бэд би:м]"
           },
           {
             "ours": "Он не лежал на палубе.",
@@ -64,10 +64,10 @@
         "form": "lie, lies",
         "examples": [
           {
-            "ours": "Яхта стоит на якоре возле острова.",
-            "thought": "[Известная] яхта лежит на якоре возле [известного] острова.",
-            "english": "The yacht lies at anchor near the island.",
-            "transcription": "[ðэ йот лайз æт **æ**нкэ ниэ ðэ **а**йлэнд]"
+            "ours": "Нижняя шкаторина грота лежит вдоль гика.",
+            "thought": "[Известная] нижняя шкаторина от [известного] грота лежит вдоль [известного] гика.",
+            "english": "The foot of the mainsail lies along the boom.",
+            "transcription": "[ðэ фут ов ðэ м**э**йнсэйл лайз эл**о**ŋ ðэ бу:м]"
           },
           {
             "ours": "Трос не лежит на палубе.",
@@ -273,10 +273,10 @@
   "future_in_past": {
     "examples": [
       {
-        "ours": "Капитан сказал, что яхта останется на якоре.",
-        "thought": "[Известный] капитан сказал что [известная] яхта будет лежать на якоре.",
-        "english": "The captain said that the yacht would lie at anchor.",
-        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ йот wуд лай æт **æ**нкэ]"
+        "ours": "Капитан сказал, что на рассвете риф будет впереди.",
+        "thought": "[Известный] капитан сказал, что [известный] риф будет лежать впереди на рассвете.",
+        "english": "The captain said that the reef would lie ahead at dawn.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ ри:ф wуд лай эх**э**д æт до:н]"
       },
       {
         "ours": "Я знал, что трос не будет лежать на палубе.",
@@ -294,118 +294,32 @@
   },
   "nouns": [
     {
-      "word": "yacht",
-      "meaning": "яхта",
+      "word": "island",
+      "meaning": "остров",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.simple.present.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "yacht"
+          "form": "island"
         }
       ]
     },
     {
-      "word": "anchor",
-      "meaning": "якорь",
+      "word": "noon",
+      "meaning": "полдень",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "anchor"
-        },
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "starboard beam",
+      "meaning": "правый траверз",
+      "used_in": [
         {
-          "phrase": "active.simple.present.0",
-          "form": "anchor"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "anchor"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "anchor"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "anchor"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "anchor"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "anchor"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "anchor"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "anchor"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "anchor"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.0",
-          "form": "anchor"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "anchor"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "anchor"
+          "phrase": "active.simple.past.0",
+          "form": "starboard beam"
         }
       ]
     },
@@ -518,12 +432,33 @@
       ]
     },
     {
-      "word": "island",
-      "meaning": "остров",
+      "word": "foot",
+      "meaning": "нижняя шкаторина",
+      "sense": "sail",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "island"
+          "form": "foot"
+        }
+      ]
+    },
+    {
+      "word": "mainsail",
+      "meaning": "грот",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "mainsail"
+        }
+      ]
+    },
+    {
+      "word": "boom",
+      "meaning": "гик",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "boom"
         }
       ]
     },
@@ -542,6 +477,98 @@
         {
           "phrase": "future_in_past.1",
           "form": "rope"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "anchor"
         }
       ]
     },
@@ -680,6 +707,26 @@
         {
           "phrase": "future_in_past.2",
           "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "reef",
+      "meaning": "риф",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "reef"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "dawn"
         }
       ]
     }

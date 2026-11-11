@@ -76,10 +76,10 @@
             "transcription": "[иксп**и**эриэнст с**э**йлэз доунт чу:з эн **æ**нкэридж ниэ рокс]"
           },
           {
-            "ours": "Ты сам набираешь себе экипаж?",
-            "thought": "[Делаешь] ты выбирать твой экипаж сам?",
-            "english": "Do you choose your crew yourself?",
-            "transcription": "[ду: ю: чу:з йо: кру: йос**э**лф]"
+            "ours": "Ты сам выбираешь передний парус?",
+            "thought": "[Делаешь] ты выбирать [известный] передний парус сам?",
+            "english": "Do you choose the headsail yourself?",
+            "transcription": "[ду: ю: чу:з ðэ х**э**дсэйл йос**э**лф]"
           }
         ]
       },
@@ -675,24 +675,12 @@
       ]
     },
     {
-      "word": "crew",
-      "meaning": "экипаж",
+      "word": "headsail",
+      "meaning": "передний парус",
       "used_in": [
         {
           "phrase": "active.simple.present.2",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "crews"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "crews"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "crews"
+          "form": "headsail"
         }
       ]
     },
@@ -915,6 +903,24 @@
         {
           "phrase": "active.continuous.present.2",
           "form": "mainsail"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crews"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "crews"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "crews"
         }
       ]
     },

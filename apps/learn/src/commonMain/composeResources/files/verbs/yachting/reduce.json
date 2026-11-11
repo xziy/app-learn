@@ -135,10 +135,10 @@
             "transcription": "[ðэ ск**и**пэ из ридь**ю**:сиŋ ðэ хи:л нау]"
           },
           {
-            "ours": "Экипаж сейчас уменьшает дифферент?",
-            "thought": "Является [известный] экипаж уменьшающим [известный] дифферент сейчас?",
-            "english": "Is the crew reducing the trim now?",
-            "transcription": "[из ðэ кру: ридь**ю**:сиŋ ðэ трим нау]"
+            "ours": "Ты сейчас уменьшаешь геную?",
+            "thought": "Являешься ты уменьшающим [известную] геную сейчас?",
+            "english": "Are you reducing the genoa now?",
+            "transcription": "[а: ю: ридь**ю**:сиŋ ðэ дж**э**ноуэ нау]"
           },
           {
             "ours": "Мы сейчас не уменьшаем груз.",
@@ -194,10 +194,10 @@
             "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди ридь**ю**:ст ðэ хи:л]"
           },
           {
-            "ours": "Экипаж уже уменьшил дифферент?",
-            "thought": "Имеет [известный] экипаж уменьшенным [известный] дифферент уже?",
-            "english": "Has the crew reduced the trim yet?",
-            "transcription": "[хæз ðэ кру: ридь**ю**:ст ðэ трим йэт]"
+            "ours": "Ты уже ослабил ахтерштаг?",
+            "thought": "Имеешь ты уменьшенным [известное] натяжение на [известном] ахтерштаге уже?",
+            "english": "Have you reduced the tension on the backstay yet?",
+            "transcription": "[хæв ю: ридь**ю**:ст ðэ т**э**ншн он ðэ б**æ**кстэй йэт]"
           },
           {
             "ours": "Она ещё не уменьшила вес.",
@@ -461,19 +461,11 @@
           "form": "crew"
         },
         {
-          "phrase": "active.continuous.present.1",
-          "form": "crew"
-        },
-        {
           "phrase": "active.continuous.future.0",
           "form": "crew"
         },
         {
           "phrase": "active.perfect.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect.present.1",
           "form": "crew"
         },
         {
@@ -729,14 +721,6 @@
           "form": "trim"
         },
         {
-          "phrase": "active.continuous.present.1",
-          "form": "trim"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "trim"
-        },
-        {
           "phrase": "passive.simple.present.1",
           "form": "trim"
         },
@@ -765,6 +749,16 @@
       ]
     },
     {
+      "word": "genoa",
+      "meaning": "генуя",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "genoa"
+        }
+      ]
+    },
+    {
       "word": "noon",
       "meaning": "полдень",
       "used_in": [
@@ -783,6 +777,27 @@
         {
           "phrase": "passive.perfect.past.1",
           "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "tension",
+      "meaning": "натяжение",
+      "sense": "physical",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "tension"
+        }
+      ]
+    },
+    {
+      "word": "backstay",
+      "meaning": "ахтерштаг",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "backstay"
         }
       ]
     },

@@ -41,10 +41,10 @@
         "form": "watched",
         "examples": [
           {
-            "ours": "Вчера мы наблюдали за гонкой с берега.",
-            "thought": "Вчера мы наблюдали [известную] гонку с берега.",
-            "english": "Yesterday we watched the race from shore.",
-            "transcription": "[й**э**стэдэй wи: wочт ðэ рэйс фром шо:]"
+            "ours": "Вчера мы следили за судном справа по носу.",
+            "thought": "Вчера мы наблюдали [какое-то] судно на [известной] правой скуле.",
+            "english": "Yesterday we watched a ship on the starboard bow.",
+            "transcription": "[й**э**стэдэй wи: wочт э шип он ðэ ст**а**:бэд бау]"
           },
           {
             "ours": "Он не следил за горизонтом.",
@@ -70,10 +70,10 @@
             "transcription": "[ðэ к**æ**птин w**о**чиз ðэ w**э**ðэ **э**ври дэй]"
           },
           {
-            "ours": "Он не следит за парусами во время гонки.",
-            "thought": "Он [делает] не наблюдать [известные] паруса во время [известной] гонки.",
-            "english": "He doesn't watch the sails during the race.",
-            "transcription": "[хи: дазнт wоч ðэ сэйлз дь**ю**эриŋ ðэ рэйс]"
+            "ours": "Он не следит за передней шкаториной стакселя.",
+            "thought": "Он [делает] не наблюдать [известную] переднюю шкаторину от [известного] стакселя.",
+            "english": "He doesn't watch the luff of the jib.",
+            "transcription": "[хи: дазнт wоч ðэ лаф ов ðэ джиб]"
           },
           {
             "ours": "Ты следишь за горизонтом с палубы?",
@@ -99,10 +99,10 @@
             "transcription": "[хи: wоунт wоч ðэ боутс]"
           },
           {
-            "ours": "Ты будешь следить за погодой до гонки?",
-            "thought": "Будешь ты наблюдать [известную] погоду перед [известной] гонкой?",
-            "english": "Will you watch the weather before the race?",
-            "transcription": "[wил ю: wоч ðэ w**э**ðэ биф**о**: ðэ рэйс]"
+            "ours": "Присмотришь за плитой вместо меня?",
+            "thought": "Будешь ты наблюдать [известную] плиту для меня?",
+            "english": "Will you watch the stove for me?",
+            "transcription": "[wил ю: wоч ðэ стоув фо: ми:]"
           }
         ]
       }
@@ -152,10 +152,10 @@
             "transcription": "[тэм**о**роу wи: wил би: w**о**чиŋ ðэ хэр**а**йзн о:л дэй]"
           },
           {
-            "ours": "Ты будешь следить за погодой во время гонки?",
-            "thought": "Будешь ты быть наблюдающим [известную] погоду во время [известной] гонки?",
-            "english": "Will you be watching the weather during the race?",
-            "transcription": "[wил ю: би: w**о**чиŋ ðэ w**э**ðэ дь**ю**эриŋ ðэ рэйс]"
+            "ours": "Ты будешь следить за картплоттером во время гонки?",
+            "thought": "Будешь ты быть наблюдающим [известный] картплоттер во время [известной] гонки?",
+            "english": "Will you be watching the chart plotter during the race?",
+            "transcription": "[wил ю: би: w**о**чиŋ ðэ ча:т пл**о**тэ дь**ю**эриŋ ðэ рэйс]"
           }
         ]
       }
@@ -455,86 +455,22 @@
   },
   "nouns": [
     {
-      "word": "race",
-      "meaning": "гонка",
+      "word": "ship",
+      "meaning": "судно",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "race"
-        },
-        {
-          "phrase": "active.simple.present.1",
-          "form": "race"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "race"
-        },
-        {
-          "phrase": "active.continuous.future.1",
-          "form": "race"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "race"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "race"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.simple.future.1",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.continuous.future.1",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.perfect.present.1",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "race"
+          "form": "ship"
         }
       ]
     },
     {
-      "word": "shore",
-      "meaning": "берег",
+      "word": "starboard bow",
+      "meaning": "правая скула",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "shore"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "shore"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "shore"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "shore"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "shore"
+          "form": "starboard bow"
         }
       ]
     },
@@ -671,15 +607,7 @@
           "form": "weather"
         },
         {
-          "phrase": "active.simple.future.2",
-          "form": "weather"
-        },
-        {
           "phrase": "active.continuous.present.0",
-          "form": "weather"
-        },
-        {
-          "phrase": "active.continuous.future.1",
           "form": "weather"
         },
         {
@@ -743,12 +671,22 @@
       ]
     },
     {
-      "word": "sail",
-      "meaning": "парус",
+      "word": "luff",
+      "meaning": "передняя шкаторина",
       "used_in": [
         {
           "phrase": "active.simple.present.1",
-          "form": "sails"
+          "form": "luff"
+        }
+      ]
+    },
+    {
+      "word": "jib",
+      "meaning": "стаксель",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "jib"
         }
       ]
     },
@@ -823,6 +761,94 @@
         {
           "phrase": "active.simple.future.1",
           "form": "boats"
+        }
+      ]
+    },
+    {
+      "word": "stove",
+      "meaning": "плита",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "stove"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "chart plotter",
+      "meaning": "картплоттер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "chart plotter"
+        }
+      ]
+    },
+    {
+      "word": "shore",
+      "meaning": "берег",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "shore"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "shore"
         }
       ]
     },

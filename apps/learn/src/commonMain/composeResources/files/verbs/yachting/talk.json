@@ -47,10 +47,10 @@
             "transcription": "[й**э**стэдэй ай то:кт ту ðэ ск**и**пэ]"
           },
           {
-            "ours": "Ты поговорил с командой о погоде?",
-            "thought": "[Сделал] ты говорить к [известной] команде о [известной] погоде?",
-            "english": "Did you talk to the crew about the weather?",
-            "transcription": "[дид ю: то:к ту ðэ кру: эб**а**ут ðэ w**э**ðэ]"
+            "ours": "Ты поговорил со штурманом в кают-компании?",
+            "thought": "[Сделал] ты говорить к [известному] штурману в [известной] кают-компании?",
+            "english": "Did you talk to the navigator in the saloon?",
+            "transcription": "[дид ю: то:к ту ðэ н**æ**вигэйтэ ин ðэ сэл**у**:н]"
           },
           {
             "ours": "Она не поговорила с механиком.",
@@ -330,13 +330,47 @@
       ]
     },
     {
-      "word": "crew",
-      "meaning": "экипаж",
+      "word": "navigator",
+      "meaning": "штурман",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "crew"
+          "form": "navigator"
+        }
+      ]
+    },
+    {
+      "word": "saloon",
+      "meaning": "кают-компания",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "saloon"
+        }
+      ]
+    },
+    {
+      "word": "mechanic",
+      "meaning": "механик",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "mechanic"
         },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "mechanic"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "mechanic"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
         {
           "phrase": "active.simple.present.0",
           "form": "crew"
@@ -356,42 +390,6 @@
         {
           "phrase": "active.perfect.future.0",
           "form": "crew"
-        }
-      ]
-    },
-    {
-      "word": "weather",
-      "meaning": "погода",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.1",
-          "form": "weather"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "weather"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "weather"
-        }
-      ]
-    },
-    {
-      "word": "mechanic",
-      "meaning": "механик",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.2",
-          "form": "mechanic"
-        },
-        {
-          "phrase": "active.continuous.past.1",
-          "form": "mechanic"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "mechanic"
         }
       ]
     },
@@ -486,6 +484,20 @@
         {
           "phrase": "active.perfect.future.1",
           "form": "owner"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "weather"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "weather"
         }
       ]
     },

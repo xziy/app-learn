@@ -53,10 +53,10 @@
             "transcription": "[хи: диднт ни:д э спээ роуп]"
           },
           {
-            "ours": "Вам нужна была карта до гонки?",
-            "thought": "[Сделали] вы нуждаться [известную] карту перед [известной] гонкой?",
-            "english": "Did you need the chart before the race?",
-            "transcription": "[дид ю: ни:д ðэ ча:т биф**о**: ðэ рэйс]"
+            "ours": "Тебе ночью нужен был гальюн?",
+            "thought": "[Сделал] ты нуждаться [известный] гальюн во время [известной] ночи?",
+            "english": "Did you need the heads during the night?",
+            "transcription": "[дид ю: ни:д ðэ хэдз дь**ю**эриŋ ðэ найт]"
           }
         ]
       },
@@ -70,10 +70,10 @@
             "transcription": "[wи: ни:д ðэ р**э**йдиоу нау]"
           },
           {
-            "ours": "Ему не нужна новая карта.",
-            "thought": "Он [делает] не нуждаться [какую-то] новую карту.",
-            "english": "He doesn't need a new chart.",
-            "transcription": "[хи: дазнт ни:д э нью: ча:т]"
+            "ours": "Новый руль ему не нужен.",
+            "thought": "Он [делает] не нуждаться [какой-то] новый руль.",
+            "english": "He doesn't need a new rudder.",
+            "transcription": "[хи: дазнт ни:д э нью: р**а**дэ]"
           },
           {
             "ours": "Тебе нужен спасательный жилет на борту?",
@@ -377,90 +377,23 @@
       ]
     },
     {
-      "word": "chart",
-      "meaning": "морская карта",
+      "word": "head",
+      "meaning": "гальюн",
+      "sense": "toilet",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.simple.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.future.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "future_in_past.2",
-          "form": "chart"
+          "form": "heads"
         }
       ]
     },
     {
-      "word": "race",
-      "meaning": "гонка",
+      "word": "night",
+      "meaning": "ночь",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "race"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "race"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "race"
-        },
-        {
-          "phrase": "active.perfect.past.2",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.simple.present.2",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.simple.future.2",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "race"
+          "form": "night"
         }
       ]
     },
@@ -503,6 +436,16 @@
       ]
     },
     {
+      "word": "rudder",
+      "meaning": "руль",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "rudder"
+        }
+      ]
+    },
+    {
       "word": "life jacket",
       "meaning": "спасательный жилет",
       "used_in": [
@@ -527,6 +470,48 @@
       ]
     },
     {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "chart"
+        }
+      ]
+    },
+    {
       "word": "compass",
       "meaning": "компас",
       "used_in": [
@@ -537,6 +522,40 @@
         {
           "phrase": "future_in_past.1",
           "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
         }
       ]
     },

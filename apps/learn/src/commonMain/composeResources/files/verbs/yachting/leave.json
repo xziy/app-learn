@@ -47,10 +47,10 @@
             "transcription": "[й**э**стэдэй wи: лэфт ðэ х**а**:бэ]"
           },
           {
-            "ours": "Капитан не оставил карту на борту.",
-            "thought": "[Известный] шкипер [сделал] не оставлять [известную] карту на борту.",
-            "english": "The skipper did not leave the chart aboard.",
-            "transcription": "[ðэ ск**и**пэ дид нот ли:в ðэ ча:т эб**о**:д]"
+            "ours": "Шкипер не оставил судовой журнал на штурманском столе.",
+            "thought": "[Известный] шкипер [сделал] не оставлять [известный] судовой журнал на [известном] штурманском столе.",
+            "english": "The skipper did not leave the log on the chart table.",
+            "transcription": "[ðэ ск**и**пэ дид нот ли:в ðэ лог он ðэ ча:т т**э**йбл]"
           },
           {
             "ours": "Ты оставил компас здесь?",
@@ -309,10 +309,10 @@
             "transcription": "[ðэ к**а**мпэс wоз нот лэфт он дэк]"
           },
           {
-            "ours": "Карту оставили здесь?",
-            "thought": "Была [известная] карта оставлена здесь?",
-            "english": "Was the chart left here?",
-            "transcription": "[wоз ðэ ча:т лэфт хиэ]"
+            "ours": "Плиту ночью оставили включённой?",
+            "thought": "Была [известная] плита оставлена включённой прошлой ночью?",
+            "english": "Was the stove left on last night?",
+            "transcription": "[wоз ðэ стоув лэфт он ла:ст найт]"
           }
         ]
       },
@@ -571,72 +571,22 @@
       ]
     },
     {
-      "word": "chart",
-      "meaning": "карта",
+      "word": "log",
+      "meaning": "судовой журнал",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "chart"
-        },
+          "form": "log"
+        }
+      ]
+    },
+    {
+      "word": "chart table",
+      "meaning": "штурманский стол",
+      "used_in": [
         {
-          "phrase": "active.simple.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.past.2",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.future.2",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.continuous.present.1",
-          "form": "charts"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "chart"
+          "phrase": "active.simple.past.1",
+          "form": "chart table"
         }
       ]
     },
@@ -685,6 +635,68 @@
         {
           "phrase": "active.simple.present.0",
           "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "chart"
         }
       ]
     },
@@ -901,6 +913,26 @@
         {
           "phrase": "passive.continuous.future.1",
           "form": "dock"
+        }
+      ]
+    },
+    {
+      "word": "stove",
+      "meaning": "плита",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "stove"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "night"
         }
       ]
     },

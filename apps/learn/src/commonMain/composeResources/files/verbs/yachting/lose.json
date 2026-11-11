@@ -47,10 +47,10 @@
             "transcription": "[й**э**стэдэй wи: лост ðи **æ**нкэ]"
           },
           {
-            "ours": "Ты потерял карту?",
-            "thought": "[Сделал] ты терять [известную] карту?",
-            "english": "Did you lose the chart?",
-            "transcription": "[дид ю: лу:з ðэ ча:т]"
+            "ours": "Они потеряли руль в Атлантике?",
+            "thought": "[Сделали] они терять их руль в [известной] Атлантике?",
+            "english": "Did they lose their rudder in the Atlantic?",
+            "transcription": "[дид ðэй лу:з ðээ р**а**дэ ин ðи этл**æ**нтик]"
           },
           {
             "ours": "Она не проиграла гонку.",
@@ -479,32 +479,12 @@
       ]
     },
     {
-      "word": "chart",
-      "meaning": "морская карта",
+      "word": "rudder",
+      "meaning": "руль",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "charts"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "chart"
+          "form": "rudder"
         }
       ]
     },
@@ -721,6 +701,32 @@
         {
           "phrase": "passive.simple.future.0",
           "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "chart"
         }
       ]
     },

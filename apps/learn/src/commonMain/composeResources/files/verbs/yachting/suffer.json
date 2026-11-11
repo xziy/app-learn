@@ -41,10 +41,10 @@
         "form": "suffered",
         "examples": [
           {
-            "ours": "Вчера яхта получила серьёзные повреждения в шторм.",
-            "thought": "Вчера [известная] яхта понесла серьёзный ущерб в [известном] шторме.",
-            "english": "Yesterday the yacht suffered serious damage in the storm.",
-            "transcription": "[й**э**стэдэй ðэ йот с**а**фэд с**и**эриэс д**æ**мидж ин ðэ сто:м]"
+            "ours": "Вчера киль получил серьёзные повреждения на камнях.",
+            "thought": "Вчера [известный] киль понёс серьёзный ущерб на [известных] камнях.",
+            "english": "Yesterday the keel suffered serious damage on the rocks.",
+            "transcription": "[й**э**стэдэй ðэ ки:л с**а**фэд с**и**эриэс д**æ**мидж он ðэ рокс]"
           },
           {
             "ours": "Её не укачивало на переходе.",
@@ -415,28 +415,6 @@
   },
   "nouns": [
     {
-      "word": "yacht",
-      "meaning": "яхта",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "yachts"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "yacht"
-        }
-      ]
-    },
-    {
       "word": "damage",
       "meaning": "ущерб",
       "used_in": [
@@ -479,24 +457,26 @@
       ]
     },
     {
-      "word": "storm",
-      "meaning": "шторм",
+      "word": "rock",
+      "meaning": "скала",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "storm"
+          "form": "rocks"
         },
         {
-          "phrase": "active.perfect.past.2",
-          "form": "storm"
-        },
+          "phrase": "active.perfect.present.0",
+          "form": "rocks"
+        }
+      ]
+    },
+    {
+      "word": "keel",
+      "meaning": "киль",
+      "used_in": [
         {
-          "phrase": "passive.perfect.past.1",
-          "form": "storm"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "storm"
+          "phrase": "active.simple.past.0",
+          "form": "keel"
         }
       ]
     },
@@ -932,6 +912,24 @@
       ]
     },
     {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "storm"
+        }
+      ]
+    },
+    {
       "word": "boat",
       "meaning": "лодка",
       "used_in": [
@@ -952,16 +950,6 @@
         {
           "phrase": "active.perfect.present.0",
           "form": "hull"
-        }
-      ]
-    },
-    {
-      "word": "rock",
-      "meaning": "скала",
-      "used_in": [
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "rocks"
         }
       ]
     },
@@ -1096,6 +1084,24 @@
         {
           "phrase": "passive.simple.past.0",
           "form": "collision"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "yacht"
         }
       ]
     },

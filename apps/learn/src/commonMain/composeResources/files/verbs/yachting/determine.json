@@ -64,10 +64,10 @@
         "form": "determine, determines",
         "examples": [
           {
-            "ours": "Шкипер определяет курс.",
-            "thought": "[Известный] шкипер определяет [известный] курс.",
-            "english": "The skipper determines the course.",
-            "transcription": "[ðэ ск**и**пэ дит**œ**:минз ðэ ко:с]"
+            "ours": "Длина по ватерлинии определяет предельную скорость.",
+            "thought": "[Известная] ватерлинии длина определяет [известную] высшую скорость.",
+            "english": "The waterline length determines the top speed.",
+            "transcription": "[ðэ w**о**:тэлайн лэŋθ дит**œ**:минз ðэ топ спи:д]"
           },
           {
             "ours": "Ты определяешь местоположение по карте?",
@@ -601,74 +601,22 @@
       ]
     },
     {
-      "word": "skipper",
-      "meaning": "шкипер",
+      "word": "waterline length",
+      "meaning": "длина по ватерлинии",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.continuous.present.1",
-          "form": "skipper"
+          "form": "waterline length"
         }
       ]
     },
     {
-      "word": "course",
-      "meaning": "курс",
+      "word": "speed",
+      "meaning": "скорость",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "course"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "course"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "course"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "course"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "course"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "course"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "course"
-        },
-        {
-          "phrase": "passive.continuous.present.0",
-          "form": "course"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "course"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "course"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "course"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "course"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "course"
+          "form": "speed"
         }
       ]
     },
@@ -725,6 +673,70 @@
         {
           "phrase": "passive.continuous.future.0",
           "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "course",
+      "meaning": "курс",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "course"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "course"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "course"
         }
       ]
     },

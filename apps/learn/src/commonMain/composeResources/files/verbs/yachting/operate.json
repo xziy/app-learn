@@ -129,10 +129,10 @@
         "form": "am/is/are operating",
         "examples": [
           {
-            "ours": "Сейчас двигатель работает нормально.",
-            "thought": "[Известный] двигатель является работающим нормально сейчас.",
-            "english": "The engine is operating normally now.",
-            "transcription": "[ðэ **э**нджин из **о**пэрэйтиŋ н**о**:мэли нау]"
+            "ours": "Сейчас сейлдрайв работает нормально.",
+            "thought": "[Известный] сейлдрайв является работающим нормально сейчас.",
+            "english": "The saildrive is operating normally now.",
+            "transcription": "[ðэ с**э**йлдрайв из **о**пэрэйтиŋ н**о**:мэли нау]"
           },
           {
             "ours": "Ты сейчас управляешь насосом?",
@@ -670,10 +670,6 @@
           "form": "engine"
         },
         {
-          "phrase": "active.continuous.present.0",
-          "form": "engine"
-        },
-        {
           "phrase": "active.perfect_continuous.past.1",
           "form": "engine"
         },
@@ -716,6 +712,16 @@
         {
           "phrase": "passive.continuous.future.0",
           "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "saildrive",
+      "meaning": "сейлдрайв",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "saildrive"
         }
       ]
     },

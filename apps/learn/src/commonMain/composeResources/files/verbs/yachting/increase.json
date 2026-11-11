@@ -41,10 +41,10 @@
         "form": "increased",
         "examples": [
           {
-            "ours": "Вчера ветер усилился.",
-            "thought": "Вчера [известная] скорость ветра увеличилась.",
-            "english": "Yesterday the wind speed increased.",
-            "transcription": "[й**э**стэдэй ðэ wинд спи:д инкр**и**:ст]"
+            "ours": "Вчера натяжение ахтерштага выросло.",
+            "thought": "Вчера [известное] натяжение на [известном] ахтерштаге увеличилось.",
+            "english": "Yesterday the tension on the backstay increased.",
+            "transcription": "[й**э**стэдэй ðэ т**э**ншн он ðэ б**æ**кстэй инкр**и**:ст]"
           },
           {
             "ours": "Высота волн не увеличилась.",
@@ -300,146 +300,23 @@
   },
   "nouns": [
     {
-      "word": "wind",
-      "meaning": "ветер",
+      "word": "tension",
+      "meaning": "натяжение",
+      "sense": "physical",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.simple.past.2",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.simple.present.0",
-          "form": "winds"
-        },
-        {
-          "phrase": "active.simple.present.1",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "wind"
+          "form": "tension"
         }
       ]
     },
     {
-      "word": "speed",
-      "meaning": "скорость",
+      "word": "backstay",
+      "meaning": "ахтерштаг",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.simple.past.2",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.simple.present.1",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.simple.present.2",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.continuous.present.2",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.perfect.present.2",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.0",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "speed"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "speed"
+          "form": "backstay"
         }
       ]
     },
@@ -556,6 +433,142 @@
         {
           "phrase": "future_in_past.1",
           "form": "height"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "winds"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "speed",
+      "meaning": "скорость",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "speed"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "speed"
         }
       ]
     },

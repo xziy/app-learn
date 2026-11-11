@@ -41,10 +41,10 @@
         "form": "failed",
         "examples": [
           {
-            "ours": "Вчера трюмная помпа отказала.",
-            "thought": "Вчера [известная] трюмная помпа отказала.",
-            "english": "Yesterday the bilge pump failed.",
-            "transcription": "[й**э**стэдэй ðэ билдж памп фэйлд]"
+            "ours": "Вчера под нагрузкой отказал стопор фала.",
+            "thought": "Вчера [известный] фала стопор отказал под нагрузкой.",
+            "english": "Yesterday the halyard clutch failed under load.",
+            "transcription": "[й**э**стэдэй ðэ х**æ**льэд клач фэйлд **а**ндэ лоуд]"
           },
           {
             "ours": "Навигационная система не отказала.",
@@ -200,10 +200,10 @@
             "transcription": "[ðэ нæвиг**э**йшн с**и**стэм хæз нот фэйлд йэт]"
           },
           {
-            "ours": "Силовая установка уже отказала?",
-            "thought": "Имеет [известная] силовая установка отказавшей уже?",
-            "english": "Has the engine failed yet?",
-            "transcription": "[хæз ðи **э**нджин фэйлд йэт]"
+            "ours": "Барабан закрутки уже отказывал раньше?",
+            "thought": "Имеет [известный] закрутки барабан отказавшим раньше?",
+            "english": "Has the furling drum failed before?",
+            "transcription": "[хæз ðэ ф**œ**:лиŋ драм фэйлд биф**о**:]"
           }
         ]
       },
@@ -300,126 +300,33 @@
   },
   "nouns": [
     {
-      "word": "bilge",
-      "meaning": "трюм",
+      "word": "halyard",
+      "meaning": "фал",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "bilge"
-        },
-        {
-          "phrase": "active.simple.past.2",
-          "form": "bilge"
-        },
-        {
-          "phrase": "active.simple.present.1",
-          "form": "bilge"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "bilge"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "bilge"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "bilge"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "bilge"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "bilge"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "bilge"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "bilge"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "bilge"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.0",
-          "form": "bilge"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "bilge"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "bilge"
+          "form": "halyard"
         }
       ]
     },
     {
-      "word": "pump",
-      "meaning": "помпа",
+      "word": "clutch",
+      "meaning": "стопор",
+      "sense": "rope",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "pump"
-        },
+          "form": "clutch"
+        }
+      ]
+    },
+    {
+      "word": "load",
+      "meaning": "нагрузка",
+      "used_in": [
         {
-          "phrase": "active.simple.past.2",
-          "form": "pump"
-        },
-        {
-          "phrase": "active.simple.present.1",
-          "form": "pump"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "pump"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "pump"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "pump"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "pump"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "pump"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "pump"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "pump"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "pump"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.0",
-          "form": "pump"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "pump"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "pump"
+          "phrase": "active.simple.past.0",
+          "form": "load"
         }
       ]
     },
@@ -540,6 +447,122 @@
       ]
     },
     {
+      "word": "bilge",
+      "meaning": "трюм",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "bilge"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "bilge"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "помпа",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "pump"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "pump"
+        }
+      ]
+    },
+    {
       "word": "wind",
       "meaning": "ветер",
       "used_in": [
@@ -574,10 +597,16 @@
         {
           "phrase": "active.continuous.present.2",
           "form": "engine"
-        },
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "meaning": "погода",
+      "used_in": [
         {
-          "phrase": "active.perfect.present.2",
-          "form": "engine"
+          "phrase": "active.simple.present.2",
+          "form": "weather"
         }
       ]
     },
@@ -626,6 +655,16 @@
       ]
     },
     {
+      "word": "furling drum",
+      "meaning": "барабан закрутки",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "furling drum"
+        }
+      ]
+    },
+    {
       "word": "hour",
       "meaning": "час",
       "used_in": [
@@ -648,16 +687,6 @@
         {
           "phrase": "active.perfect_continuous.future.1",
           "form": "hour"
-        }
-      ]
-    },
-    {
-      "word": "weather",
-      "meaning": "погода",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.2",
-          "form": "weather"
         }
       ]
     }

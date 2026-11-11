@@ -33,7 +33,7 @@
       }
     ]
   },
-  "meaning": "ловить, поймать; подхватывать",
+  "meaning": "ловить, поймать; подхватывать; зацепляться, зацеплять",
   "notes": "неправильный переходный глагол; образует пассив",
   "active": {
     "simple": {
@@ -64,10 +64,10 @@
         "form": "catch, catches",
         "examples": [
           {
-            "ours": "Парус ловит ветер.",
-            "thought": "[Известный] парус ловит [известный] ветер.",
-            "english": "The sail catches the wind.",
-            "transcription": "[ðэ сэйл к**æ**чиз ðэ wинд]"
+            "ours": "Шкотовый угол генуи часто цепляется за ванту.",
+            "thought": "[Известный] шкотовый угол от [известной] генуи часто зацепляется на [известной] ванте.",
+            "english": "The clew of the genoa often catches on the shroud.",
+            "transcription": "[ðэ клу: ов ðэ дж**э**ноуэ **о**фэн к**æ**чиз он ðэ шрауд]"
           },
           {
             "ours": "Ты ловишь рыбу в море?",
@@ -279,10 +279,10 @@
             "transcription": "[ðис фиш wоз ко:т й**э**стэдэй]"
           },
           {
-            "ours": "Концы поймали на палубе?",
-            "thought": "Были [известные] концы пойманы на палубе?",
-            "english": "Were the lines caught on deck?",
-            "transcription": "[wœ: ðэ лайнз ко:т он дэк]"
+            "ours": "Шкот зацепился за леер?",
+            "thought": "Был [известный] шкот зацеплен на [известном] леере?",
+            "english": "Was the sheet caught on the guardrail?",
+            "transcription": "[wоз ðэ ши:т ко:т он ðэ г**а**:дрэйл]"
           }
         ]
       },
@@ -599,10 +599,6 @@
           "form": "line"
         },
         {
-          "phrase": "passive.simple.past.1",
-          "form": "lines"
-        },
-        {
           "phrase": "passive.simple.present.1",
           "form": "lines"
         },
@@ -641,30 +637,32 @@
       ]
     },
     {
-      "word": "sail",
-      "meaning": "парус",
+      "word": "clew",
+      "meaning": "шкотовый угол",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "active.continuous.present.1",
-          "form": "sail"
+          "form": "clew"
         }
       ]
     },
     {
-      "word": "wind",
-      "meaning": "ветер",
+      "word": "genoa",
+      "meaning": "генуя",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "wind"
-        },
+          "form": "genoa"
+        }
+      ]
+    },
+    {
+      "word": "shroud",
+      "meaning": "ванта",
+      "used_in": [
         {
-          "phrase": "active.continuous.present.1",
-          "form": "wind"
+          "phrase": "active.simple.present.0",
+          "form": "shroud"
         }
       ]
     },
@@ -707,6 +705,26 @@
         {
           "phrase": "passive.continuous.future.0",
           "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "wind"
         }
       ]
     },
@@ -791,13 +809,29 @@
       ]
     },
     {
-      "word": "deck",
-      "meaning": "палуба",
+      "word": "sheet",
+      "meaning": "шкот",
       "used_in": [
         {
           "phrase": "passive.simple.past.1",
-          "form": "deck"
-        },
+          "form": "sheet"
+        }
+      ]
+    },
+    {
+      "word": "guardrail",
+      "meaning": "леер",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "guardrail"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
         {
           "phrase": "passive.simple.present.1",
           "form": "deck"

@@ -64,10 +64,10 @@
         "form": "move, moves",
         "examples": [
           {
-            "ours": "Экипаж каждый день переносит оборудование.",
-            "thought": "[Известный] экипаж перемещает оборудование каждый день.",
-            "english": "The crew moves equipment every day.",
-            "transcription": "[ðэ кру: му:вз икw**и**пмэнт **э**ври дэй]"
+            "ours": "При повороте фордевинд гик всегда проходит над кокпитом.",
+            "thought": "В [каком-то] повороте фордевинд [известный] гик всегда движется поперёк [известного] кокпита.",
+            "english": "In a gybe the boom always moves across the cockpit.",
+            "transcription": "[ин э джайб ðэ бу:м **о**:лwэйз му:вз экр**о**с ðэ к**о**кпит]"
           },
           {
             "ours": "Лодка не движется без ветра.",
@@ -87,10 +87,10 @@
         "form": "will move",
         "examples": [
           {
-            "ours": "Завтра мы переставим яхту к причалу.",
-            "thought": "Завтра мы будем перемещать [известную] яхту к [известному] причалу.",
-            "english": "Tomorrow we will move the yacht to the dock.",
-            "transcription": "[тэм**о**роу wи: wил му:в ðэ йот ту ðэ док]"
+            "ours": "Завтра мы переложим запасные паруса в форпик.",
+            "thought": "Завтра мы будем перемещать [известные] запасные паруса в [известный] форпик.",
+            "english": "Tomorrow we will move the spare sails into the forepeak.",
+            "transcription": "[тэм**о**роу wи: wил му:в ðэ спээ сэйлз **и**нту ðэ ф**о**:пи:к]"
           },
           {
             "ours": "Он не перенесёт топливо в каюту.",
@@ -135,10 +135,10 @@
             "transcription": "[wи: а: м**у**:виŋ икw**и**пмэнт **о**нту ðэ дэк нау]"
           },
           {
-            "ours": "Лодка сейчас движется к причалу?",
-            "thought": "Является [известная] лодка движущейся к [известному] причалу сейчас?",
-            "english": "Is the boat moving toward the dock now?",
-            "transcription": "[из ðэ боут м**у**:виŋ тэв**о**:д ðэ док нау]"
+            "ours": "Корма сейчас идёт к причалу?",
+            "thought": "Является [известная] корма движущейся к [известному] причалу сейчас?",
+            "english": "Is the stern moving toward the dock now?",
+            "transcription": "[из ðэ стœ:н м**у**:виŋ тэв**о**:д ðэ док нау]"
           }
         ]
       },
@@ -182,10 +182,10 @@
         "form": "have/has moved",
         "examples": [
           {
-            "ours": "Мы уже переставили лодку к причалу.",
-            "thought": "Мы имеем уже перемещённой [известную] лодку к [известному] причалу.",
-            "english": "We have already moved the boat to the dock.",
-            "transcription": "[wи: хæв о:лр**э**ди му:вд ðэ боут ту ðэ док]"
+            "ours": "Ветер уже зашёл справа с кормы.",
+            "thought": "[Известный] ветер имеет уже переместившимся к [известной] правой раковине.",
+            "english": "The wind has already moved to the starboard quarter.",
+            "transcription": "[ðэ wинд хæз о:лр**э**ди му:вд ту ðэ ст**а**:бэд кw**о**:тэ]"
           },
           {
             "ours": "Ты уже перенёс инструменты?",
@@ -555,15 +555,7 @@
           "form": "boat"
         },
         {
-          "phrase": "active.continuous.present.1",
-          "form": "boat"
-        },
-        {
           "phrase": "active.continuous.future.0",
-          "form": "boat"
-        },
-        {
-          "phrase": "active.perfect.present.0",
           "form": "boat"
         },
         {
@@ -593,15 +585,7 @@
           "form": "dock"
         },
         {
-          "phrase": "active.simple.future.0",
-          "form": "dock"
-        },
-        {
           "phrase": "active.continuous.present.1",
-          "form": "dock"
-        },
-        {
-          "phrase": "active.perfect.present.0",
           "form": "dock"
         },
         {
@@ -687,100 +671,32 @@
       ]
     },
     {
-      "word": "crew",
-      "meaning": "экипаж",
+      "word": "gybe",
+      "meaning": "поворот фордевинд",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "crew"
+          "form": "gybe"
         }
       ]
     },
     {
-      "word": "equipment",
-      "meaning": "оборудование",
+      "word": "boom",
+      "meaning": "гик",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "equipment"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "equipment"
-        },
-        {
-          "phrase": "active.continuous.future.1",
-          "form": "equipment"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "equipment"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "equipment"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "Equipment"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "Equipment"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "equipment"
-        },
-        {
-          "phrase": "passive.continuous.present.0",
-          "form": "Equipment"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "equipment"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "equipment"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "equipment"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "equipment"
+          "form": "boom"
         }
       ]
     },
     {
-      "word": "day",
-      "meaning": "день",
+      "word": "cockpit",
+      "meaning": "кокпит",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "day"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "day"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "day"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "day"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "day"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "day"
+          "form": "cockpit"
         }
       ]
     },
@@ -790,6 +706,10 @@
       "used_in": [
         {
           "phrase": "active.simple.present.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.present.0",
           "form": "wind"
         }
       ]
@@ -847,20 +767,22 @@
       ]
     },
     {
-      "word": "yacht",
-      "meaning": "яхта",
+      "word": "sail",
+      "meaning": "парус",
       "used_in": [
         {
           "phrase": "active.simple.future.0",
-          "form": "yacht"
-        },
+          "form": "sails"
+        }
+      ]
+    },
+    {
+      "word": "forepeak",
+      "meaning": "форпик",
+      "used_in": [
         {
-          "phrase": "passive.simple.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.perfect.present.1",
-          "form": "yacht"
+          "phrase": "active.simple.future.0",
+          "form": "forepeak"
         }
       ]
     },
@@ -875,6 +797,32 @@
       ]
     },
     {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
       "word": "harbor",
       "meaning": "гавань",
       "used_in": [
@@ -885,6 +833,80 @@
         {
           "phrase": "active.continuous.future.0",
           "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "equipment",
+      "meaning": "оборудование",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Equipment"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Equipment"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Equipment"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "equipment"
+        }
+      ]
+    },
+    {
+      "word": "stern",
+      "meaning": "корма",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "stern"
+        }
+      ]
+    },
+    {
+      "word": "starboard quarter",
+      "meaning": "правая раковина",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "starboard quarter"
         }
       ]
     },
@@ -915,6 +937,20 @@
         {
           "phrase": "active.perfect_continuous.future.1",
           "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "yacht"
         }
       ]
     },

@@ -41,10 +41,10 @@
         "form": "prepared",
         "examples": [
           {
-            "ours": "Вчера мы подготовили яхту к гонке.",
-            "thought": "Вчера мы подготовили [известную] яхту для [известной] гонки.",
-            "english": "Yesterday we prepared the yacht for the race.",
-            "transcription": "[й**э**стэдэй wи: прип**э**эд ðэ йот фо: ðэ рэйс]"
+            "ours": "Вчера мы приготовили для гостей койку в кормовой каюте.",
+            "thought": "Вчера мы подготовили [известную] кормовой каюты койку для наших гостей.",
+            "english": "Yesterday we prepared the aft cabin berth for our guests.",
+            "transcription": "[й**э**стэдэй wи: прип**э**эд ðи а:фт к**æ**бин бœ:θ фо: ауэ гэстс]"
           },
           {
             "ours": "Он не подготовил рацию.",
@@ -146,10 +146,10 @@
         "form": "will be preparing",
         "examples": [
           {
-            "ours": "Завтра мы весь день будем готовить яхту к гонке.",
-            "thought": "Завтра мы будем быть подготавливающими [известную] яхту для [известной] гонки весь день.",
-            "english": "Tomorrow we will be preparing the yacht for the race all day.",
-            "transcription": "[тэм**о**роу wи: wил би: прип**э**эриŋ ðэ йот фо: ðэ рэйс о:л дэй]"
+            "ours": "Завтра мы весь день будем готовить еду на камбузе.",
+            "thought": "Завтра мы будем быть подготавливающими еду в [известном] камбузе весь день.",
+            "english": "Tomorrow we will be preparing food in the galley all day.",
+            "transcription": "[тэм**о**роу wи: wил би: прип**э**эриŋ фу:д ин ðэ г**æ**ли о:л дэй]"
           },
           {
             "ours": "Ты будешь готовить оборудование до выхода?",
@@ -188,10 +188,10 @@
             "transcription": "[wи: хæв о:лр**э**ди прип**э**эд ðэ сэйлз]"
           },
           {
-            "ours": "Ты уже подготовил лодку к гонке?",
-            "thought": "Имеешь ты уже подготовленной [известную] лодку для [известной] гонки?",
-            "english": "Have you already prepared the boat for the race?",
-            "transcription": "[хæв ю: о:лр**э**ди прип**э**эд ðэ боут фо: ðэ рэйс]"
+            "ours": "Ты уже подготовил риф-шкентели?",
+            "thought": "Имеешь ты уже подготовленными [известные] рифовые концы?",
+            "english": "Have you already prepared the reefing lines?",
+            "transcription": "[хæв ю: о:лр**э**ди прип**э**эд ðэ р**и**:фиŋ лайнз]"
           }
         ]
       },
@@ -455,126 +455,33 @@
   },
   "nouns": [
     {
-      "word": "yacht",
-      "meaning": "яхта",
+      "word": "cabin",
+      "meaning": "каюта",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "yacht"
+          "form": "cabin"
         }
       ]
     },
     {
-      "word": "race",
-      "meaning": "гонка",
+      "word": "berth",
+      "meaning": "койка",
+      "sense": "bed",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "race"
-        },
+          "form": "berth"
+        }
+      ]
+    },
+    {
+      "word": "guest",
+      "meaning": "гость",
+      "used_in": [
         {
-          "phrase": "active.simple.present.1",
-          "form": "race"
-        },
-        {
-          "phrase": "active.simple.future.1",
-          "form": "race"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "race"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "race"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "race"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "race"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.simple.present.1",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.perfect.present.1",
-          "form": "race"
+          "phrase": "active.simple.past.0",
+          "form": "guests"
         }
       ]
     },
@@ -727,10 +634,6 @@
           "form": "boat"
         },
         {
-          "phrase": "active.perfect.present.1",
-          "form": "boat"
-        },
-        {
           "phrase": "active.perfect_continuous.present.0",
           "form": "boat"
         },
@@ -775,6 +678,56 @@
         {
           "phrase": "passive.continuous.future.0",
           "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "race"
         }
       ]
     },
@@ -857,6 +810,90 @@
         {
           "phrase": "future_in_past.2",
           "form": "sails"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "food",
+      "meaning": "еда",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "food"
+        }
+      ]
+    },
+    {
+      "word": "galley",
+      "meaning": "камбуз",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "galley"
+        }
+      ]
+    },
+    {
+      "word": "reefing line",
+      "meaning": "риф-шкентель",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "reefing lines"
         }
       ]
     },

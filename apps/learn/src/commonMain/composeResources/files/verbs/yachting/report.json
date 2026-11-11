@@ -41,10 +41,10 @@
         "form": "reported",
         "examples": [
           {
-            "ours": "Вчера капитан сообщил о ветре.",
-            "thought": "Вчера [известный] капитан сообщил [известный] ветер.",
-            "english": "Yesterday the skipper reported the wind.",
-            "transcription": "[й**э**стэдэй ðэ ск**и**пэ рип**о**:тид ðэ wинд]"
+            "ours": "Вчера впередсмотрящий доложил о судне слева по носу.",
+            "thought": "Вчера [известный] впередсмотрящий сообщил [какое-то] судно на [известной] левой скуле.",
+            "english": "Yesterday the lookout reported a ship on the port bow.",
+            "transcription": "[й**э**стэдэй ðэ л**у**каут рип**о**:тид э шип он ðэ по:т бау]"
           },
           {
             "ours": "Моряк сообщил об ущербе вчера?",
@@ -431,110 +431,32 @@
   },
   "nouns": [
     {
-      "word": "skipper",
-      "meaning": "капитан",
+      "word": "lookout",
+      "meaning": "впередсмотрящий",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "skipper"
+          "form": "lookout"
         }
       ]
     },
     {
-      "word": "wind",
-      "meaning": "ветер",
+      "word": "ship",
+      "meaning": "судно",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "wind"
-        },
+          "form": "ship"
+        }
+      ]
+    },
+    {
+      "word": "port bow",
+      "meaning": "левая скула",
+      "used_in": [
         {
-          "phrase": "active.simple.future.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "wind"
+          "phrase": "active.simple.past.0",
+          "form": "port bow"
         }
       ]
     },
@@ -791,6 +713,106 @@
         {
           "phrase": "passive.perfect.present.1",
           "form": "incident"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "wind"
         }
       ]
     },

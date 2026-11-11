@@ -64,10 +64,10 @@
         "form": "feel, feels",
         "examples": [
           {
-            "ours": "Сейчас я чувствую ветер.",
-            "thought": "Я чувствую [известный] ветер сейчас.",
-            "english": "I feel the wind now.",
-            "transcription": "[ай фи:л ðэ wинд нау]"
+            "ours": "Теперь я чувствую руль через штурвал.",
+            "thought": "Я чувствую [известный] руль через [известный] штурвал сейчас.",
+            "english": "I feel the rudder through the wheel now.",
+            "transcription": "[ай фи:л ðэ р**а**дэ θру: ðэ wи:л нау]"
           },
           {
             "ours": "Он не чувствует качку на палубе.",
@@ -463,10 +463,6 @@
           "form": "wind"
         },
         {
-          "phrase": "active.simple.present.0",
-          "form": "wind"
-        },
-        {
           "phrase": "active.simple.present.2",
           "form": "wind"
         },
@@ -605,6 +601,26 @@
         {
           "phrase": "future_in_past.2",
           "form": "wave"
+        }
+      ]
+    },
+    {
+      "word": "rudder",
+      "meaning": "руль",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "rudder"
+        }
+      ]
+    },
+    {
+      "word": "wheel",
+      "meaning": "штурвал",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "wheel"
         }
       ]
     },

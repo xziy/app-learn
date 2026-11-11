@@ -41,16 +41,16 @@
         "form": "fell",
         "examples": [
           {
-            "ours": "Вчера ветер стих.",
-            "thought": "Вчера [известный] ветер упал.",
-            "english": "Yesterday the wind fell.",
-            "transcription": "[й**э**стэдэй ðэ wинд фэл]"
+            "ours": "Вчера кок упал с трапа.",
+            "thought": "Вчера [известный] кок упал вниз по [известным] сходного люка ступенькам.",
+            "english": "Yesterday the cook fell down the companionway steps.",
+            "transcription": "[й**э**стэдэй ðэ кук фэл даун ðэ кэмп**æ**ньэнwэй стэпс]"
           },
           {
-            "ours": "Моряк не упал за борт.",
-            "thought": "[Известный] моряк [сделал] не падать за борт.",
-            "english": "The sailor didn't fall overboard.",
-            "transcription": "[ðэ с**э**йлэ диднт фо:л **о**увэбо:д]"
+            "ours": "Мальчик не вывалился через леер.",
+            "thought": "[Известный] мальчик [сделал] не падать через [известный] леер.",
+            "english": "The boy didn't fall over the guardrail.",
+            "transcription": "[ðэ бой диднт фо:л **о**увэ ðэ г**а**:дрэйл]"
           },
           {
             "ours": "Давление упало до гонки?",
@@ -171,10 +171,10 @@
             "transcription": "[бай файв й**э**стэдэй ðэ пр**э**шэ хæд о:лр**э**ди ф**о**:лэн]"
           },
           {
-            "ours": "Ветер стих до гонки?",
-            "thought": "Имел [известный] ветер упавшим перед [известной] гонкой?",
-            "english": "Had the wind fallen before the race?",
-            "transcription": "[хæд ðэ wинд ф**о**:лэн биф**о**: ðэ рэйс]"
+            "ours": "Соперник отстал ещё до последнего знака?",
+            "thought": "Имел наш соперник упавшим назад перед [известным] последним знаком?",
+            "english": "Had our rival fallen astern before the last mark?",
+            "transcription": "[хæд ауэ р**а**йвл ф**о**:лэн эст**œ**:н биф**о**: ðэ ла:ст ма:к]"
           }
         ]
       },
@@ -294,46 +294,53 @@
   },
   "nouns": [
     {
-      "word": "wind",
-      "meaning": "ветер",
+      "word": "cook",
+      "meaning": "кок",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.simple.present.2",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.continuous.past.1",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.1",
-          "form": "wind"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "wind"
+          "form": "cook"
         }
       ]
     },
     {
-      "word": "sailor",
-      "meaning": "моряк",
+      "word": "companionway",
+      "meaning": "сходной люк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "companionway"
+        }
+      ]
+    },
+    {
+      "word": "step",
+      "meaning": "ступенька",
+      "sense": "stair",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "steps"
+        }
+      ]
+    },
+    {
+      "word": "boy",
+      "meaning": "мальчик",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "sailor"
+          "form": "boy"
+        }
+      ]
+    },
+    {
+      "word": "guardrail",
+      "meaning": "леер",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "guardrail"
         }
       ]
     },
@@ -405,10 +412,6 @@
         },
         {
           "phrase": "active.continuous.future.1",
-          "form": "race"
-        },
-        {
-          "phrase": "active.perfect.past.1",
           "form": "race"
         }
       ]
@@ -508,6 +511,32 @@
       ]
     },
     {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
       "word": "night",
       "meaning": "ночь",
       "used_in": [
@@ -552,6 +581,27 @@
         {
           "phrase": "active.continuous.future.0",
           "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "rival",
+      "meaning": "соперник",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "rival"
+        }
+      ]
+    },
+    {
+      "word": "mark",
+      "meaning": "знак",
+      "sense": "race",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "mark"
         }
       ]
     },

@@ -212,10 +212,10 @@
             "transcription": "[wи: хæв о:лр**э**ди рипл**э**йст ðэ сэйл]"
           },
           {
-            "ours": "Она ещё не заменила карту.",
-            "thought": "Она имеет не заменённой [известную] карту ещё.",
-            "english": "She has not replaced the chart yet.",
-            "transcription": "[ши: хæз нот рипл**э**йст ðэ ча:т йэт]"
+            "ours": "Она ещё не поменяла треснувшую утку.",
+            "thought": "Она имеет не заменённой [известную] треснувшую утку ещё.",
+            "english": "She has not replaced the cracked cleat yet.",
+            "transcription": "[ши: хæз нот рипл**э**йст ðэ крæкт кли:т йэт]"
           },
           {
             "ours": "Ты уже заменил аккумулятор?",
@@ -309,10 +309,10 @@
         "form": "was/were replaced",
         "examples": [
           {
-            "ours": "Парус заменили вчера.",
-            "thought": "[Известный] парус был заменён вчера.",
-            "english": "The sail was replaced yesterday.",
-            "transcription": "[ðэ сэйл wоз рипл**э**йст й**э**стэдэй]"
+            "ours": "Форштаг заменили вчера.",
+            "thought": "[Известный] форштаг был заменён вчера.",
+            "english": "The forestay was replaced yesterday.",
+            "transcription": "[ðэ ф**о**:стэй wоз рипл**э**йст й**э**стэдэй]"
           },
           {
             "ours": "Трос не заменили.",
@@ -643,6 +643,16 @@
       ]
     },
     {
+      "word": "chain",
+      "meaning": "цепь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "chain"
+        }
+      ]
+    },
+    {
       "word": "pump",
       "meaning": "насос",
       "used_in": [
@@ -731,10 +741,6 @@
           "form": "sail"
         },
         {
-          "phrase": "passive.simple.past.0",
-          "form": "sail"
-        },
-        {
           "phrase": "passive.simple.future.2",
           "form": "sail"
         },
@@ -762,10 +768,6 @@
       "used_in": [
         {
           "phrase": "active.simple.present.2",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.present.1",
           "form": "chart"
         },
         {
@@ -921,6 +923,16 @@
       ]
     },
     {
+      "word": "cleat",
+      "meaning": "утка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "cleat"
+        }
+      ]
+    },
+    {
       "word": "evening",
       "meaning": "вечер",
       "used_in": [
@@ -971,12 +983,12 @@
       ]
     },
     {
-      "word": "chain",
-      "meaning": "цепь",
+      "word": "forestay",
+      "meaning": "форштаг",
       "used_in": [
         {
-          "phrase": "active.simple.past.1",
-          "form": "chain"
+          "phrase": "passive.simple.past.0",
+          "form": "forestay"
         }
       ]
     }

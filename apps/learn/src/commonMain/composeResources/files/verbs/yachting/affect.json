@@ -99,10 +99,10 @@
             "transcription": "[ðэ фог wоунт эф**э**кт дип**а**:чэ]"
           },
           {
-            "ours": "Ветер повлияет на скорость?",
-            "thought": "Будет [известный] ветер затрагивать [известную] скорость?",
-            "english": "Will the wind affect the speed?",
-            "transcription": "[wил ðэ wинд эф**э**кт ðэ спи:д]"
+            "ours": "Лишний груз изменит длину по ватерлинии?",
+            "thought": "Будет [известный] лишний вес затрагивать [известную] ватерлинии длину?",
+            "english": "Will the extra weight affect the waterline length?",
+            "transcription": "[wил ðи **э**кстрэ wэйт эф**э**кт ðэ w**о**:тэлайн лэŋθ]"
           }
         ]
       }
@@ -467,10 +467,6 @@
           "form": "wind"
         },
         {
-          "phrase": "active.simple.future.2",
-          "form": "wind"
-        },
-        {
           "phrase": "active.continuous.past.0",
           "form": "wind"
         },
@@ -564,10 +560,6 @@
         },
         {
           "phrase": "active.simple.present.0",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.simple.future.2",
           "form": "speed"
         },
         {
@@ -939,6 +931,26 @@
         {
           "phrase": "passive.continuous.future.0",
           "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "weight",
+      "meaning": "вес",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "weight"
+        }
+      ]
+    },
+    {
+      "word": "waterline length",
+      "meaning": "длина по ватерлинии",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "waterline length"
         }
       ]
     },

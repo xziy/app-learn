@@ -118,10 +118,10 @@
             "transcription": "[й**э**стэдэй м**о**:ниŋ ðэ шрауд wоз б**э**эриŋ ðэ лоуд]"
           },
           {
-            "ours": "Ты нёс расходы на ремонт во время гонки?",
-            "thought": "Был ты несущим [известные] ремонта расходы во время [известной] гонки?",
-            "english": "Were you bearing the repair costs during the race?",
-            "transcription": "[wœ: ю: б**э**эриŋ ðэ рип**э**э костс дь**ю**эриŋ ðэ рэйс]"
+            "ours": "Во время гонки киль нёс большие нагрузки?",
+            "thought": "Был [известный] киль несущим тяжёлые нагрузки во время [известной] гонки?",
+            "english": "Was the keel bearing heavy loads during the race?",
+            "transcription": "[wоз ðэ ки:л б**э**эриŋ х**э**ви лоудз дь**ю**эриŋ ðэ рэйс]"
           }
         ]
       },
@@ -481,10 +481,6 @@
           "form": "costs"
         },
         {
-          "phrase": "active.continuous.past.1",
-          "form": "costs"
-        },
-        {
           "phrase": "active.continuous.present.1",
           "form": "costs"
         },
@@ -665,6 +661,10 @@
           "form": "load"
         },
         {
+          "phrase": "active.continuous.past.1",
+          "form": "loads"
+        },
+        {
           "phrase": "active.continuous.present.0",
           "form": "load"
         },
@@ -704,10 +704,6 @@
         },
         {
           "phrase": "active.simple.future.1",
-          "form": "repair"
-        },
-        {
-          "phrase": "active.continuous.past.1",
           "form": "repair"
         },
         {
@@ -791,6 +787,16 @@
         {
           "phrase": "passive.perfect.past.1",
           "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "keel",
+      "meaning": "киль",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "keel"
         }
       ]
     },

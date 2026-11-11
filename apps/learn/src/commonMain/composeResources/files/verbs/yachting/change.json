@@ -93,10 +93,10 @@
             "transcription": "[тэм**о**роу wи: wил чэйндж ðэ ру:т]"
           },
           {
-            "ours": "Ты поменяешь парус?",
-            "thought": "Будешь ты менять [известный] парус?",
-            "english": "Will you change the sail?",
-            "transcription": "[wил ю: чэйндж ðэ сэйл]"
+            "ours": "Ты поставишь передний парус поменьше?",
+            "thought": "Будешь ты менять на [какой-то] меньший передний парус?",
+            "english": "Will you change to a smaller headsail?",
+            "transcription": "[wил ю: чэйндж ту э см**о**:лэ х**э**дсэйл]"
           },
           {
             "ours": "Ветер сегодня не изменится.",
@@ -152,10 +152,10 @@
             "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: ч**э**йнджиŋ ðэ сэйлз]"
           },
           {
-            "ours": "Ты будешь менять курс во время гонки?",
-            "thought": "Будешь ты быть меняющим курс во время [известной] гонки?",
-            "english": "Will you be changing course during the race?",
-            "transcription": "[wил ю: би: ч**э**йнджиŋ ко:с дь**ю**эриŋ ðэ рэйс]"
+            "ours": "Ты будешь менять курс влево у следующего буя?",
+            "thought": "Будешь ты быть меняющим курс к левому борту у [известного] следующего буя?",
+            "english": "Will you be changing course to port at the next buoy?",
+            "transcription": "[wил ю: би: ч**э**йнджиŋ ко:с ту по:т æт ðэ нэкст бой]"
           }
         ]
       }
@@ -495,10 +495,6 @@
           "form": "sails"
         },
         {
-          "phrase": "active.simple.future.1",
-          "form": "sail"
-        },
-        {
           "phrase": "active.continuous.past.0",
           "form": "sails"
         },
@@ -625,10 +621,6 @@
           "form": "race"
         },
         {
-          "phrase": "active.continuous.future.1",
-          "form": "race"
-        },
-        {
           "phrase": "passive.simple.present.0",
           "form": "race"
         }
@@ -695,6 +687,16 @@
       ]
     },
     {
+      "word": "headsail",
+      "meaning": "передний парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "headsail"
+        }
+      ]
+    },
+    {
       "word": "morning",
       "meaning": "утро",
       "used_in": [
@@ -709,6 +711,27 @@
         {
           "phrase": "passive.continuous.future.0",
           "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "port",
+      "meaning": "левый борт",
+      "sense": "left",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "port"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "meaning": "буй",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "buoy"
         }
       ]
     },

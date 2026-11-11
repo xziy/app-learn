@@ -64,10 +64,10 @@
         "form": "pull, pulls",
         "examples": [
           {
-            "ours": "Шкипер тянет верёвку.",
-            "thought": "[Известный] шкипер тянет [известную] верёвку.",
-            "english": "The skipper pulls the rope.",
-            "transcription": "[ðэ ск**и**пэ пулз ðэ роуп]"
+            "ours": "В шквал она стягивает стаксель вниз.",
+            "thought": "В [каком-то] шквале она тянет вниз [известный] стаксель.",
+            "english": "In a squall she pulls down the jib.",
+            "transcription": "[ин э скwо:л ши: пулз даун ðэ джиб]"
           },
           {
             "ours": "Ты тянешь верёвки на палубе?",
@@ -129,10 +129,10 @@
         "form": "am/is/are pulling",
         "examples": [
           {
-            "ours": "Мы сейчас тянем верёвку.",
-            "thought": "Мы являемся тянущими [известную] верёвку сейчас.",
-            "english": "We are pulling the rope now.",
-            "transcription": "[wи: а: п**у**лиŋ ðэ роуп нау]"
+            "ours": "Мы сейчас вытягиваем геную.",
+            "thought": "Мы являемся тянущими наружу [известную] геную сейчас.",
+            "english": "We are pulling out the genoa now.",
+            "transcription": "[wи: а: п**у**лиŋ аут ðэ дж**э**ноуэ нау]"
           },
           {
             "ours": "Шкипер сейчас тянет шкот?",
@@ -165,10 +165,10 @@
         "form": "had pulled",
         "examples": [
           {
-            "ours": "К полудню мы уже вытянули верёвку.",
-            "thought": "К полудню мы имели уже вытянутой [известную] верёвку.",
-            "english": "By noon we had already pulled the rope.",
-            "transcription": "[бай ну:н wи: хæд о:лр**э**ди пулд ðэ роуп]"
+            "ours": "К полудню мы уже выбрали первый риф-шкентель.",
+            "thought": "К полудню мы имели уже вытянутым внутрь [известный] первый рифовый конец.",
+            "english": "By noon we had already pulled in the first reefing line.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди пулд ин ðэ фœ:ст р**и**:фиŋ лайн]"
           },
           {
             "ours": "Ты вытянул шкот до отхода?",
@@ -182,10 +182,10 @@
         "form": "have/has pulled",
         "examples": [
           {
-            "ours": "Мы уже вытянули верёвку.",
-            "thought": "Мы имеем уже вытянутой [известную] верёвку.",
-            "english": "We have already pulled the rope.",
-            "transcription": "[wи: хæв о:лр**э**ди пулд ðэ роуп]"
+            "ours": "Мы уже стянули галсовый угол грота вниз.",
+            "thought": "Мы имеем уже вытянутым [известный] галсовый угол от [известного] грота вниз.",
+            "english": "We have already pulled the tack of the mainsail down.",
+            "transcription": "[wи: хæв о:лр**э**ди пулд ðэ тæк ов ðэ м**э**йнсэйл даун]"
           },
           {
             "ours": "Ты уже вытянул шкот?",
@@ -457,10 +457,6 @@
           "form": "rope"
         },
         {
-          "phrase": "active.simple.present.0",
-          "form": "rope"
-        },
-        {
           "phrase": "active.simple.present.1",
           "form": "ropes"
         },
@@ -473,20 +469,8 @@
           "form": "ropes"
         },
         {
-          "phrase": "active.continuous.present.0",
-          "form": "rope"
-        },
-        {
           "phrase": "active.continuous.future.0",
           "form": "ropes"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "rope"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "rope"
         },
         {
           "phrase": "active.perfect.future.0",
@@ -639,16 +623,22 @@
       ]
     },
     {
-      "word": "skipper",
-      "meaning": "шкипер",
+      "word": "squall",
+      "meaning": "шквал",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "skipper"
-        },
+          "form": "squall"
+        }
+      ]
+    },
+    {
+      "word": "jib",
+      "meaning": "стаксель",
+      "used_in": [
         {
-          "phrase": "active.continuous.present.1",
-          "form": "skipper"
+          "phrase": "active.simple.present.0",
+          "form": "jib"
         }
       ]
     },
@@ -677,6 +667,26 @@
         {
           "phrase": "passive.continuous.future.0",
           "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "genoa",
+      "meaning": "генуя",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "genoa"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
         }
       ]
     },
@@ -721,6 +731,16 @@
       ]
     },
     {
+      "word": "reefing line",
+      "meaning": "риф-шкентель",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "reefing line"
+        }
+      ]
+    },
+    {
       "word": "departure",
       "meaning": "отход",
       "used_in": [
@@ -743,6 +763,27 @@
         {
           "phrase": "passive.perfect.past.1",
           "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "tack",
+      "meaning": "галсовый угол",
+      "sense": "corner",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "tack"
+        }
+      ]
+    },
+    {
+      "word": "mainsail",
+      "meaning": "грот",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "mainsail"
         }
       ]
     },

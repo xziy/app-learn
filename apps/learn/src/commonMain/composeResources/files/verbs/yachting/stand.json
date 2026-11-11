@@ -53,10 +53,10 @@
             "transcription": "[ðэ ск**и**пэ дид нот стæнд æт ðэ бау]"
           },
           {
-            "ours": "Ты стоял на палубе?",
-            "thought": "[Сделал] ты стоять на палубе?",
-            "english": "Did you stand on deck?",
-            "transcription": "[дид ю: стæнд он дэк]"
+            "ours": "Ты стоял в сходном люке?",
+            "thought": "[Сделал] ты стоять в [известном] сходном люке?",
+            "english": "Did you stand in the companionway?",
+            "transcription": "[дид ю: стæнд ин ðэ кэмп**æ**ньэнwэй]"
           }
         ]
       },
@@ -141,10 +141,10 @@
             "transcription": "[ши: из нот ст**æ**ндиŋ æт ðэ бау нау]"
           },
           {
-            "ours": "Ты сейчас стоишь на палубе?",
-            "thought": "Являешься ты стоящим на палубе сейчас?",
-            "english": "Are you standing on deck now?",
-            "transcription": "[а: ю: ст**æ**ндиŋ он дэк нау]"
+            "ours": "Ты сейчас стоишь у носового релинга?",
+            "thought": "Являешься ты стоящим в [известном] носовом релинге сейчас?",
+            "english": "Are you standing in the pulpit now?",
+            "transcription": "[а: ю: ст**æ**ндиŋ ин ðэ п**у**лпит нау]"
           }
         ]
       },
@@ -408,23 +408,35 @@
       ]
     },
     {
-      "word": "deck",
-      "meaning": "палуба",
+      "word": "companionway",
+      "meaning": "сходной люк",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "deck"
-        },
+          "form": "companionway"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "storms"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
         {
           "phrase": "active.simple.present.2",
           "form": "deck"
         },
         {
           "phrase": "active.simple.future.2",
-          "form": "deck"
-        },
-        {
-          "phrase": "active.continuous.present.2",
           "form": "deck"
         },
         {
@@ -442,16 +454,6 @@
         {
           "phrase": "active.perfect_continuous.future.1",
           "form": "deck"
-        }
-      ]
-    },
-    {
-      "word": "storm",
-      "meaning": "шторм",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.1",
-          "form": "storms"
         }
       ]
     },
@@ -494,6 +496,17 @@
         {
           "phrase": "active.perfect_continuous.past.1",
           "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "pulpit",
+      "meaning": "носовой релинг",
+      "sense": "rail",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "pulpit"
         }
       ]
     },

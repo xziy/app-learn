@@ -47,10 +47,10 @@
             "transcription": "[й**э**стэдэй ай хœ:д э с**и**гнл]"
           },
           {
-            "ours": "Ты слышал шкипера?",
-            "thought": "[Сделал] ты слышать [известного] шкипера?",
-            "english": "Did you hear the skipper?",
-            "transcription": "[дид ю: хиэ ðэ ск**и**пэ]"
+            "ours": "Ты слышал гудок справа по носу?",
+            "thought": "[Сделал] ты слышать [какой-то] гудок на [известной] правой скуле?",
+            "english": "Did you hear a horn on the starboard bow?",
+            "transcription": "[дид ю: хиэ э хо:н он ðэ ст**а**:бэд бау]"
           },
           {
             "ours": "Она не услышала гудок.",
@@ -415,19 +415,13 @@
       ]
     },
     {
-      "word": "skipper",
-      "meaning": "шкипер",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.1",
-          "form": "skipper"
-        }
-      ]
-    },
-    {
       "word": "horn",
       "meaning": "гудок",
       "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "horn"
+        },
         {
           "phrase": "active.simple.past.2",
           "form": "horn"
@@ -447,6 +441,16 @@
         {
           "phrase": "future_in_past.1",
           "form": "horn"
+        }
+      ]
+    },
+    {
+      "word": "starboard bow",
+      "meaning": "правая скула",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "starboard bow"
         }
       ]
     },

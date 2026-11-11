@@ -41,10 +41,10 @@
         "form": "came",
         "examples": [
           {
-            "ours": "Вчера яхта пришла в гавань.",
-            "thought": "Вчера [известная] яхта пришла в [известную] гавань.",
-            "english": "Yesterday the yacht came into the harbor.",
-            "transcription": "[й**э**стэдэй ðэ йот кэйм **и**нту ðэ х**а**:бэ]"
+            "ours": "Вчера течь шла от баллера руля.",
+            "thought": "Вчера [известная] течь пришла от [известного] рулевого баллера.",
+            "english": "Yesterday the leak came from the rudder stock.",
+            "transcription": "[й**э**стэдэй ðэ ли:к кэйм фром ðэ р**а**дэ сток]"
           },
           {
             "ours": "Капитан вчера не пришёл на борт.",
@@ -129,10 +129,10 @@
         "form": "am/is/are coming",
         "examples": [
           {
-            "ours": "Яхта сейчас входит в гавань.",
-            "thought": "[Известная] яхта является приходящей в [известную] гавань сейчас.",
-            "english": "The yacht is coming into the harbor now.",
-            "transcription": "[ðэ йот из к**а**миŋ **и**нту ðэ х**а**:бэ нау]"
+            "ours": "Волна сейчас идёт слева по корме.",
+            "thought": "[Известные] волны являются приходящими от [известной] левой раковины сейчас.",
+            "english": "The waves are coming from the port quarter now.",
+            "transcription": "[ðэ wэйвз а: к**а**миŋ фром ðэ по:т кw**о**:тэ нау]"
           },
           {
             "ours": "Капитан сейчас не идёт на борт.",
@@ -200,10 +200,10 @@
             "transcription": "[ðэ йот хæз о:лр**э**ди кам **и**нту ðэ х**а**:бэ]"
           },
           {
-            "ours": "Капитан ещё не пришёл на борт.",
-            "thought": "[Известный] шкипер имеет не прибытым на борт ещё.",
-            "english": "The skipper has not come aboard yet.",
-            "transcription": "[ðэ ск**и**пэ хæз нот кам эб**о**:д йэт]"
+            "ours": "Штурман ещё не поднялся из каюты.",
+            "thought": "[Известный] штурман имеет не пришедшим вверх по [известному] сходному люку ещё.",
+            "english": "The navigator has not come up the companionway yet.",
+            "transcription": "[ðэ н**æ**вигэйтэ хæз нот кам ап ðэ кэмп**æ**ньэнwэй йэт]"
           },
           {
             "ours": "Ты уже пришёл на причал?",
@@ -312,44 +312,52 @@
   },
   "nouns": [
     {
-      "word": "yacht",
-      "meaning": "яхта",
+      "word": "leak",
+      "meaning": "течь",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "yacht"
+          "form": "leak"
+        }
+      ]
+    },
+    {
+      "word": "rudder stock",
+      "meaning": "баллер руля",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "rudder stock"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "skipper"
         },
         {
-          "phrase": "active.continuous.past.0",
-          "form": "yacht"
+          "phrase": "active.simple.future.1",
+          "form": "skipper"
         },
         {
-          "phrase": "active.continuous.present.0",
-          "form": "yacht"
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
         },
         {
-          "phrase": "active.continuous.future.0",
-          "form": "yachts"
+          "phrase": "active.perfect.past.1",
+          "form": "skipper"
         },
         {
-          "phrase": "active.perfect.past.0",
-          "form": "yacht"
+          "phrase": "active.perfect.future.1",
+          "form": "skipper"
         },
         {
-          "phrase": "active.perfect.present.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.1",
-          "form": "yacht"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "yacht"
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "skipper"
         }
       ]
     },
@@ -358,19 +366,11 @@
       "meaning": "гавань",
       "used_in": [
         {
-          "phrase": "active.simple.past.0",
-          "form": "harbor"
-        },
-        {
           "phrase": "active.simple.present.0",
           "form": "harbor"
         },
         {
           "phrase": "active.continuous.past.0",
-          "form": "harbor"
-        },
-        {
-          "phrase": "active.continuous.present.0",
           "form": "harbor"
         },
         {
@@ -396,40 +396,6 @@
         {
           "phrase": "future_in_past.1",
           "form": "harbor"
-        }
-      ]
-    },
-    {
-      "word": "skipper",
-      "meaning": "капитан",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.1",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.simple.future.1",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.continuous.present.1",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "skipper"
         }
       ]
     },
@@ -484,6 +450,40 @@
       ]
     },
     {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
       "word": "wind",
       "meaning": "ветер",
       "used_in": [
@@ -516,6 +516,46 @@
         {
           "phrase": "active.perfect.future.2",
           "form": "dock"
+        }
+      ]
+    },
+    {
+      "word": "wave",
+      "meaning": "волна",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "waves"
+        }
+      ]
+    },
+    {
+      "word": "port quarter",
+      "meaning": "левая раковина",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "port quarter"
+        }
+      ]
+    },
+    {
+      "word": "navigator",
+      "meaning": "штурман",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "navigator"
+        }
+      ]
+    },
+    {
+      "word": "companionway",
+      "meaning": "сходной люк",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "companionway"
         }
       ]
     },

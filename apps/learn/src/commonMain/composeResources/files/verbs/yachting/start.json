@@ -112,10 +112,10 @@
         "form": "was/were starting",
         "examples": [
           {
-            "ours": "Гонка начиналась, когда мы прибыли в марину.",
-            "thought": "[Известная] гонка была начинающейся, когда мы достигли [известной] марины.",
-            "english": "The race was starting when we reached the marina.",
-            "transcription": "[ðэ рэйс wоз ст**а**:тиŋ wэн wи: ри:чт ðэ мэр**и**:нэ]"
+            "ours": "Передняя шкаторина начала заполаскивать, когда я потравил шкот.",
+            "thought": "[Известная] передняя шкаторина была начинающей трястись, когда я ослабил [известный] шкот.",
+            "english": "The luff was starting to shake when I eased the sheet.",
+            "transcription": "[ðэ лаф wоз ст**а**:тиŋ ту шэйк wэн ай и:зд ðэ ши:т]"
           },
           {
             "ours": "Ты запускал двигатель, когда я вошёл?",
@@ -523,10 +523,6 @@
           "form": "race"
         },
         {
-          "phrase": "active.continuous.past.0",
-          "form": "race"
-        },
-        {
           "phrase": "active.continuous.present.1",
           "form": "race"
         },
@@ -655,12 +651,22 @@
       ]
     },
     {
-      "word": "marina",
-      "meaning": "марина",
+      "word": "luff",
+      "meaning": "передняя шкаторина",
       "used_in": [
         {
           "phrase": "active.continuous.past.0",
-          "form": "marina"
+          "form": "luff"
+        }
+      ]
+    },
+    {
+      "word": "sheet",
+      "meaning": "шкот",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sheet"
         }
       ]
     },

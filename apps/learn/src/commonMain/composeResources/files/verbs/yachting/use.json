@@ -70,10 +70,10 @@
             "transcription": "[ðэ кру: **о**фэн й**у**:зиз ðэ р**э**йдиоу]"
           },
           {
-            "ours": "Он не пользуется картой.",
-            "thought": "Он [делает] не использовать [известную] карту.",
-            "english": "He doesn't use the chart.",
-            "transcription": "[хи: дазнт ю:з ðэ ча:т]"
+            "ours": "В слабый ветер он не трогает оттяжку гика.",
+            "thought": "Он [делает] не использовать [известную] оттяжку гика в лёгких ветрах.",
+            "english": "He doesn't use the vang in light winds.",
+            "transcription": "[хи: дазнт ю:з ðэ вæŋ ин лайт wиндз]"
           },
           {
             "ours": "Ты используешь компас в море?",
@@ -93,10 +93,10 @@
             "transcription": "[тэм**о**роу wи: wил ю:з ðэ р**э**йдиоу]"
           },
           {
-            "ours": "Он не будет пользоваться картой.",
-            "thought": "Он будет не использовать [известную] карту.",
-            "english": "He won't use the chart.",
-            "transcription": "[хи: wоунт ю:з ðэ ча:т]"
+            "ours": "В марине он не будет пользоваться гальюном.",
+            "thought": "Он будет не использовать [известный] гальюн в [известной] марине.",
+            "english": "He won't use the heads in the marina.",
+            "transcription": "[хи: wоунт ю:з ðэ хэдз ин ðэ мэр**и**:нэ]"
           },
           {
             "ours": "Ты воспользуешься компасом в море?",
@@ -551,14 +551,6 @@
           "form": "chart"
         },
         {
-          "phrase": "active.simple.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.simple.future.1",
-          "form": "chart"
-        },
-        {
           "phrase": "active.continuous.past.1",
           "form": "chart"
         },
@@ -699,6 +691,26 @@
       ]
     },
     {
+      "word": "vang",
+      "meaning": "оттяжка гика",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "vang"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "winds"
+        }
+      ]
+    },
+    {
       "word": "sea",
       "meaning": "море",
       "used_in": [
@@ -709,6 +721,27 @@
         {
           "phrase": "active.simple.future.2",
           "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "head",
+      "meaning": "гальюн",
+      "sense": "toilet",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "heads"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "marina"
         }
       ]
     },

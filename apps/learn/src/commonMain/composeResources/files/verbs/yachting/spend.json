@@ -53,10 +53,10 @@
             "transcription": "[дид ю: спэнд м**а**ни он ðэ сэйл]"
           },
           {
-            "ours": "Она не провела ночь на яхте.",
-            "thought": "Она [сделала] не проводить [известную] ночь на [известной] яхте.",
-            "english": "She did not spend the night on the yacht.",
-            "transcription": "[ши: дид нот спэнд ðэ найт он ðэ йот]"
+            "ours": "Она не провела ночь за штурманским столом.",
+            "thought": "Она [сделала] не проводить [известную] ночь у [известного] штурманского стола.",
+            "english": "She did not spend the night at the chart table.",
+            "transcription": "[ши: дид нот спэнд ðэ найт æт ðэ ча:т т**э**йбл]"
           }
         ]
       },
@@ -152,10 +152,10 @@
             "transcription": "[тэм**о**роу wи: wил би: сп**э**ндиŋ ðэ дэй он ðэ w**о**:тэ]"
           },
           {
-            "ours": "Ты будешь проводить лето на яхте?",
-            "thought": "Будешь ты быть проводящим [известное] лето на [известной] яхте?",
-            "english": "Will you be spending the summer on the yacht?",
-            "transcription": "[wил ю: би: сп**э**ндиŋ ðэ с**а**мэ он ðэ йот]"
+            "ours": "Ты будешь проводить вечер в кают-компании?",
+            "thought": "Будешь ты быть проводящим [известный] вечер в [известной] кают-компании?",
+            "english": "Will you be spending the evening in the saloon?",
+            "transcription": "[wил ю: би: сп**э**ндиŋ ðи **и**:вниŋ ин ðэ сэл**у**:н]"
           }
         ]
       }
@@ -655,13 +655,19 @@
       ]
     },
     {
-      "word": "yacht",
-      "meaning": "яхта",
+      "word": "chart table",
+      "meaning": "штурманский стол",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "yacht"
-        },
+          "form": "chart table"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
         {
           "phrase": "active.simple.present.0",
           "form": "yacht"
@@ -676,10 +682,6 @@
         },
         {
           "phrase": "active.continuous.present.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.continuous.future.1",
           "form": "yacht"
         },
         {
@@ -716,10 +718,6 @@
         },
         {
           "phrase": "active.continuous.past.1",
-          "form": "summer"
-        },
-        {
-          "phrase": "active.continuous.future.1",
           "form": "summer"
         },
         {
@@ -833,6 +831,10 @@
         {
           "phrase": "active.continuous.past.0",
           "form": "evening"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "evening"
         }
       ]
     },
@@ -865,6 +867,16 @@
         {
           "phrase": "active.continuous.present.0",
           "form": "holiday"
+        }
+      ]
+    },
+    {
+      "word": "saloon",
+      "meaning": "кают-компания",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "saloon"
         }
       ]
     },

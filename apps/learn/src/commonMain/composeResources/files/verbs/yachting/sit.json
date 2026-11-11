@@ -47,10 +47,10 @@
             "transcription": "[й**э**стэдэй ай сæт ин ðэ к**о**кпит]"
           },
           {
-            "ours": "Ты сидел на палубе?",
-            "thought": "[Сделал] ты сидеть на палубе?",
-            "english": "Did you sit on deck?",
-            "transcription": "[дид ю: сит он дэк]"
+            "ours": "Ты сидел на корме?",
+            "thought": "[Сделал] ты сидеть на [известной] корме?",
+            "english": "Did you sit at the stern?",
+            "transcription": "[дид ю: сит æт ðэ стœ:н]"
           },
           {
             "ours": "Она не сидела у штурвала.",
@@ -70,10 +70,10 @@
             "transcription": "[ðэ ск**и**пэ **ю**:жуэли ситс æт ðэ хэлм]"
           },
           {
-            "ours": "Ты сидишь на палубе?",
-            "thought": "[Делаешь] ты сидеть на палубе?",
-            "english": "Do you sit on deck?",
-            "transcription": "[ду: ю: сит он дэк]"
+            "ours": "Ты сидишь на кормовом релинге?",
+            "thought": "[Делаешь] ты сидеть на [известном] кормовом релинге?",
+            "english": "Do you sit on the pushpit?",
+            "transcription": "[ду: ю: сит он ðэ п**у**шпит]"
           },
           {
             "ours": "Мы не сидим на мокрых подушках.",
@@ -152,10 +152,10 @@
             "transcription": "[тэм**о**роу м**о**:ниŋ ай wил би: с**и**тиŋ ин ðэ к**о**кпит]"
           },
           {
-            "ours": "Ты будешь сидеть у штурвала во время гонки?",
-            "thought": "Будешь ты быть сидящим у [известного] штурвала во время [известной] гонки?",
-            "english": "Will you be sitting at the helm during the race?",
-            "transcription": "[wил ю: би: с**и**тиŋ æт ðэ хэлм дь**ю**эриŋ ðэ рэйс]"
+            "ours": "Ты будешь сидеть за штурманским столом во время гонки?",
+            "thought": "Будешь ты быть сидящим у [известного] штурманского стола во время [известной] гонки?",
+            "english": "Will you be sitting at the chart table during the race?",
+            "transcription": "[wил ю: би: с**и**тиŋ æт ðэ ча:т т**э**йбл дь**ю**эриŋ ðэ рэйс]"
           }
         ]
       }
@@ -342,28 +342,12 @@
       ]
     },
     {
-      "word": "deck",
-      "meaning": "палуба",
+      "word": "stern",
+      "meaning": "корма",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "deck"
-        },
-        {
-          "phrase": "active.simple.present.1",
-          "form": "deck"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "deck"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "deck"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "deck"
+          "form": "stern"
         }
       ]
     },
@@ -389,10 +373,6 @@
         },
         {
           "phrase": "active.continuous.present.1",
-          "form": "helm"
-        },
-        {
-          "phrase": "active.continuous.future.1",
           "form": "helm"
         },
         {
@@ -432,12 +412,40 @@
       ]
     },
     {
+      "word": "pushpit",
+      "meaning": "кормовой релинг",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "pushpit"
+        }
+      ]
+    },
+    {
       "word": "cushion",
       "meaning": "подушка",
       "used_in": [
         {
           "phrase": "active.simple.present.2",
           "form": "cushions"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "deck"
         }
       ]
     },
@@ -468,6 +476,16 @@
         {
           "phrase": "active.continuous.future.1",
           "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "chart table",
+      "meaning": "штурманский стол",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "chart table"
         }
       ]
     },

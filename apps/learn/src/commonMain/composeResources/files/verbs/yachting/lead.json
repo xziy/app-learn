@@ -33,7 +33,7 @@
       }
     ]
   },
-  "meaning": "вести, возглавлять, лидировать",
+  "meaning": "вести, возглавлять, лидировать, проводить",
   "notes": "неправильный переходный глагол; есть пассив",
   "active": {
     "simple": {
@@ -41,10 +41,10 @@
         "form": "led",
         "examples": [
           {
-            "ours": "Вчера капитан вёл экипаж.",
-            "thought": "Вчера [известный] капитан вёл [известный] экипаж.",
-            "english": "Yesterday the skipper led the crew.",
-            "transcription": "[й**э**стэдэй ðэ ск**и**пэ лэд ðэ кру:]"
+            "ours": "Вчера я вывел риф-шкентели в кокпит.",
+            "thought": "Вчера я провёл [известные] рифовые концы назад к [известному] кокпиту.",
+            "english": "Yesterday I led the reefing lines back to the cockpit.",
+            "transcription": "[й**э**стэдэй ай лэд ðэ р**и**:фиŋ лайнз бæк ту ðэ к**о**кпит]"
           },
           {
             "ours": "Яхта не возглавляла флот.",
@@ -76,10 +76,10 @@
             "transcription": "[ðэ йот даз нот ли:д ðэ фли:т]"
           },
           {
-            "ours": "Ты возглавляешь гонку?",
-            "thought": "[Делаешь] ты возглавлять [известную] гонку?",
-            "english": "Do you lead the race?",
-            "transcription": "[ду: ю: ли:д ðэ рэйс]"
+            "ours": "Ты проводишь фал через стопор?",
+            "thought": "[Делаешь] ты проводить [известный] фал через [известный] стопор?",
+            "english": "Do you lead the halyard through the jammer?",
+            "transcription": "[ду: ю: ли:д ðэ х**æ**льэд θру: ðэ дж**æ**мэ]"
           }
         ]
       },
@@ -99,10 +99,10 @@
             "transcription": "[ðэ йот wил нот ли:д ðэ фли:т]"
           },
           {
-            "ours": "Ты возглавишь гонку?",
-            "thought": "Будешь ты возглавлять [известную] гонку?",
-            "english": "Will you lead the race?",
-            "transcription": "[wил ю: ли:д ðэ рэйс]"
+            "ours": "Ты проведёшь шкот от шкотового угла на лебёдку?",
+            "thought": "Будешь ты проводить [известный] шкот от [известного] шкотового угла к [известной] лебёдке?",
+            "english": "Will you lead the sheet from the clew to the winch?",
+            "transcription": "[wил ю: ли:д ðэ ши:т фром ðэ клу: ту ðэ wинч]"
           }
         ]
       }
@@ -479,138 +479,22 @@
   },
   "nouns": [
     {
-      "word": "skipper",
-      "meaning": "капитан",
+      "word": "reefing line",
+      "meaning": "риф-шкентель",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.simple.present.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "passive.simple.past.2",
-          "form": "skipper"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "passive.simple.present.2",
-          "form": "skipper"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "passive.simple.future.2",
-          "form": "skipper"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "skipper"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "passive.perfect.present.1",
-          "form": "skipper"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "skipper"
+          "form": "reefing lines"
         }
       ]
     },
     {
-      "word": "crew",
-      "meaning": "экипаж",
+      "word": "cockpit",
+      "meaning": "кокпит",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.simple.present.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.present.2",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.simple.past.2",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.simple.present.2",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.simple.future.2",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.perfect.present.1",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "crew"
+          "form": "cockpit"
         }
       ]
     },
@@ -791,14 +675,6 @@
           "form": "race"
         },
         {
-          "phrase": "active.simple.present.2",
-          "form": "race"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "race"
-        },
-        {
           "phrase": "active.continuous.past.0",
           "form": "race"
         },
@@ -861,6 +737,184 @@
         {
           "phrase": "future_in_past.0",
           "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "halyard",
+      "meaning": "фал",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "halyard"
+        }
+      ]
+    },
+    {
+      "word": "jammer",
+      "meaning": "стопор",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "jammer"
+        }
+      ]
+    },
+    {
+      "word": "sheet",
+      "meaning": "шкот",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "sheet"
+        }
+      ]
+    },
+    {
+      "word": "clew",
+      "meaning": "шкотовый угол",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "clew"
+        }
+      ]
+    },
+    {
+      "word": "winch",
+      "meaning": "лебёдка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "winch"
         }
       ]
     },

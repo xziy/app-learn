@@ -41,10 +41,10 @@
         "form": "broke",
         "examples": [
           {
-            "ours": "Вчера порвался трос.",
-            "thought": "Вчера [известный] трос сломался.",
-            "english": "Yesterday the rope broke.",
-            "transcription": "[й**э**стэдэй ðэ роуп броук]"
+            "ours": "Вчера лопнул ахтерштаг.",
+            "thought": "Вчера [известный] ахтерштаг сломался.",
+            "english": "Yesterday the backstay broke.",
+            "transcription": "[й**э**стэдэй ðэ б**æ**кстэй броук]"
           },
           {
             "ours": "Он не сломал лебёдку.",
@@ -434,10 +434,10 @@
   "future_in_past": {
     "examples": [
       {
-        "ours": "Капитан сказал, что трос порвётся.",
-        "thought": "[Известный] капитан сказал что [известный] трос будет ломаться.",
-        "english": "The captain said that the rope would break.",
-        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ роуп wуд брэйк]"
+        "ours": "Капитан сказал, что шаткая леерная стойка сломается.",
+        "thought": "[Известный] капитан сказал, что [известная] шаткая леерная стойка будет ломаться.",
+        "english": "The captain said that the loose stanchion would break.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэ лу:с ст**æ**ншн wуд брэйк]"
       },
       {
         "ours": "Я знал, что шторм не сломает мачту.",
@@ -455,40 +455,12 @@
   },
   "nouns": [
     {
-      "word": "rope",
-      "meaning": "трос",
+      "word": "backstay",
+      "meaning": "ахтерштаг",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "rope"
-        },
-        {
-          "phrase": "active.simple.present.0",
-          "form": "ropes"
-        },
-        {
-          "phrase": "active.simple.present.1",
-          "form": "rope"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "rope"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "rope"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "rope"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "ropes"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "rope"
+          "form": "backstay"
         }
       ]
     },
@@ -627,6 +599,36 @@
         {
           "phrase": "future_in_past.1",
           "form": "mast"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "трос",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "ropes"
         }
       ]
     },
@@ -933,6 +935,16 @@
         {
           "phrase": "future_in_past.2",
           "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "stanchion",
+      "meaning": "леерная стойка",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "stanchion"
         }
       ]
     }

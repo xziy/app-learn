@@ -64,10 +64,10 @@
         "form": "throw, throws",
         "examples": [
           {
-            "ours": "Шкипер бросает конец команде.",
-            "thought": "[Известный] шкипер бросает [известный] конец к [известной] команде.",
-            "english": "The skipper throws the line to the crew.",
-            "transcription": "[ðэ ск**и**пэ θроуз ðэ лайн ту ðэ кру:]"
+            "ours": "Шкипер бросает конец с кормы.",
+            "thought": "[Известный] шкипер бросает [известный] конец с [известной] кормы.",
+            "english": "The skipper throws the line from the stern.",
+            "transcription": "[ðэ ск**и**пэ θроуз ðэ лайн фром ðэ стœ:н]"
           },
           {
             "ours": "На тренировках ты бросаешь конец на берег?",
@@ -655,16 +655,12 @@
       ]
     },
     {
-      "word": "crew",
-      "meaning": "экипаж",
+      "word": "stern",
+      "meaning": "корма",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.present.1",
-          "form": "crew"
+          "form": "stern"
         }
       ]
     },
@@ -745,6 +741,16 @@
         {
           "phrase": "passive.continuous.future.0",
           "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
         }
       ]
     },

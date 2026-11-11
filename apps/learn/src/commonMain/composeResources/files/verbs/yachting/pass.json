@@ -41,10 +41,10 @@
         "form": "passed",
         "examples": [
           {
-            "ours": "Вчера мы прошли мимо гавани.",
-            "thought": "Вчера мы прошли [известную] гавань.",
-            "english": "Yesterday we passed the harbor.",
-            "transcription": "[й**э**стэдэй wи: па:ст ðэ х**а**:бэ]"
+            "ours": "Вчера мы прошли буй правым бортом.",
+            "thought": "Вчера мы прошли [известный] буй к правому борту.",
+            "english": "Yesterday we passed the buoy to starboard.",
+            "transcription": "[й**э**стэдэй wи: па:ст ðэ бой ту ст**а**:бэд]"
           },
           {
             "ours": "Яхта не прошла мимо острова.",
@@ -112,10 +112,10 @@
         "form": "was/were passing",
         "examples": [
           {
-            "ours": "Яхта проходила мимо причала, когда поднялся ветер.",
-            "thought": "[Известная] яхта была проходящей [известный] причал, когда [известный] ветер поднялся.",
-            "english": "The yacht was passing the dock when the wind rose.",
-            "transcription": "[ðэ йот wоз п**а**:сиŋ ðэ док wэн ðэ wинд роуз]"
+            "ours": "У нас на левом траверзе проходил паром, когда поднялся ветер.",
+            "thought": "[Какой-то] паром был проходящим на нашем левом траверзе, когда [известный] ветер поднялся.",
+            "english": "A ferry was passing on our port beam when the wind rose.",
+            "transcription": "[э ф**э**ри wоз п**а**:сиŋ он ауэ по:т би:м wэн ðэ wинд роуз]"
           },
           {
             "ours": "Ты проходил мимо острова, когда я позвонил?",
@@ -385,52 +385,46 @@
   },
   "nouns": [
     {
-      "word": "harbor",
-      "meaning": "гавань",
+      "word": "buoy",
+      "meaning": "буй",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "harbor"
+          "form": "buoy"
         },
         {
-          "phrase": "active.simple.future.0",
-          "form": "harbor"
+          "phrase": "active.simple.past.2",
+          "form": "buoy"
         },
         {
-          "phrase": "active.perfect.past.0",
-          "form": "harbor"
+          "phrase": "active.simple.future.2",
+          "form": "buoy"
         },
         {
-          "phrase": "active.perfect.present.0",
-          "form": "harbor"
+          "phrase": "active.perfect.present.2",
+          "form": "buoy"
         },
         {
-          "phrase": "active.perfect.future.0",
-          "form": "harbor"
+          "phrase": "passive.simple.past.2",
+          "form": "buoy"
         },
         {
-          "phrase": "passive.simple.past.0",
-          "form": "harbor"
+          "phrase": "passive.simple.future.2",
+          "form": "buoy"
         },
         {
-          "phrase": "passive.simple.future.0",
-          "form": "harbor"
-        },
+          "phrase": "passive.perfect.present.2",
+          "form": "buoy"
+        }
+      ]
+    },
+    {
+      "word": "starboard",
+      "meaning": "правый борт",
+      "used_in": [
         {
-          "phrase": "passive.perfect.past.0",
-          "form": "harbor"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "harbor"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "harbor"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "harbor"
+          "phrase": "active.simple.past.0",
+          "form": "starboard"
         }
       ]
     },
@@ -448,10 +442,6 @@
         },
         {
           "phrase": "active.simple.future.1",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.continuous.past.0",
           "form": "yacht"
         },
         {
@@ -535,36 +525,6 @@
       ]
     },
     {
-      "word": "buoy",
-      "meaning": "буй",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.2",
-          "form": "buoy"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "buoy"
-        },
-        {
-          "phrase": "active.perfect.present.2",
-          "form": "buoy"
-        },
-        {
-          "phrase": "passive.simple.past.2",
-          "form": "buoy"
-        },
-        {
-          "phrase": "passive.simple.future.2",
-          "form": "buoy"
-        },
-        {
-          "phrase": "passive.perfect.present.2",
-          "form": "buoy"
-        }
-      ]
-    },
-    {
       "word": "bay",
       "meaning": "бухта",
       "used_in": [
@@ -608,10 +568,6 @@
       "used_in": [
         {
           "phrase": "active.simple.present.2",
-          "form": "dock"
-        },
-        {
-          "phrase": "active.continuous.past.0",
           "form": "dock"
         },
         {
@@ -659,12 +615,78 @@
       ]
     },
     {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "harbor"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
       "word": "wind",
       "meaning": "ветер",
       "used_in": [
         {
           "phrase": "active.continuous.past.0",
           "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "ferry",
+      "meaning": "паром",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "ferry"
+        }
+      ]
+    },
+    {
+      "word": "port beam",
+      "meaning": "левый траверз",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "port beam"
         }
       ]
     },

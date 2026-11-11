@@ -93,10 +93,10 @@
             "transcription": "[тэм**о**роу ай wил ми:т ðэ ск**и**пэ æт ðэ мэр**и**:нэ]"
           },
           {
-            "ours": "Ты встретишь команду у яхты?",
-            "thought": "Будешь ты встречать [известную] команду у [известной] яхты?",
-            "english": "Will you meet the crew at the yacht?",
-            "transcription": "[wил ю: ми:т ðэ кру: æт ðэ йот]"
+            "ours": "Ты встретишь гостей в кают-компании?",
+            "thought": "Будешь ты встречать [известных] гостей в [известной] кают-компании?",
+            "english": "Will you meet the guests in the saloon?",
+            "transcription": "[wил ю: ми:т ðэ гэстс ин ðэ сэл**у**:н]"
           },
           {
             "ours": "Она не встретит владельца сегодня.",
@@ -465,10 +465,6 @@
           "form": "crew"
         },
         {
-          "phrase": "active.simple.future.1",
-          "form": "crew"
-        },
-        {
           "phrase": "active.continuous.present.1",
           "form": "crew"
         },
@@ -523,10 +519,6 @@
           "form": "yacht"
         },
         {
-          "phrase": "active.simple.future.1",
-          "form": "yacht"
-        },
-        {
           "phrase": "active.continuous.past.0",
           "form": "yacht"
         },
@@ -576,6 +568,10 @@
       "used_in": [
         {
           "phrase": "active.simple.present.0",
+          "form": "guests"
+        },
+        {
+          "phrase": "active.simple.future.1",
           "form": "guests"
         },
         {
@@ -709,6 +705,16 @@
         {
           "phrase": "active.simple.present.2",
           "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "saloon",
+      "meaning": "кают-компания",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "saloon"
         }
       ]
     },

@@ -41,10 +41,10 @@
         "form": "closed",
         "examples": [
           {
-            "ours": "Вчера экипаж закрыл люк.",
-            "thought": "Вчера [известный] экипаж закрыл [известный] люк.",
-            "english": "Yesterday the crew closed the hatch.",
-            "transcription": "[й**э**стэдэй ðэ кру: клоузд ðэ хæч]"
+            "ours": "Вчера помощник закрыл сходной люк.",
+            "thought": "Вчера [известный] помощник закрыл [известный] сходной люк.",
+            "english": "Yesterday the mate closed the companionway.",
+            "transcription": "[й**э**стэдэй ðэ мэйт клоузд ðэ кэмп**æ**ньэнwэй]"
           },
           {
             "ours": "Моряк закрыл кингстон вчера?",
@@ -441,110 +441,22 @@
   },
   "nouns": [
     {
-      "word": "crew",
-      "meaning": "экипаж",
+      "word": "mate",
+      "meaning": "помощник капитана",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.present.1",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "crew"
+          "form": "mate"
         }
       ]
     },
     {
-      "word": "hatch",
-      "meaning": "люк",
+      "word": "companionway",
+      "meaning": "сходной люк",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "hatch"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "hatch"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "hatch"
-        },
-        {
-          "phrase": "active.continuous.present.2",
-          "form": "hatch"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "hatch"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "hatch"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "hatch"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "hatch"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "hatch"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "hatch"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "hatch"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "hatch"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "hatch"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "hatch"
-        },
-        {
-          "phrase": "active.simple.present.1",
-          "form": "hatch"
+          "form": "companionway"
         }
       ]
     },
@@ -717,6 +629,68 @@
       ]
     },
     {
+      "word": "hatch",
+      "meaning": "люк",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "hatch"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "hatch"
+        }
+      ]
+    },
+    {
       "word": "porthole",
       "meaning": "иллюминатор",
       "used_in": [
@@ -757,6 +731,44 @@
         {
           "phrase": "active.simple.present.2",
           "form": "races"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
         }
       ]
     },

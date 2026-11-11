@@ -87,10 +87,10 @@
         "form": "will buy",
         "examples": [
           {
-            "ours": "Завтра мы купим новый парус.",
-            "thought": "Завтра мы будем покупать [какой-то] новый парус.",
-            "english": "Tomorrow we will buy a new sail.",
-            "transcription": "[тэм**о**роу wи: wил бай э нью: сэйл]"
+            "ours": "Завтра мы купим новую геную.",
+            "thought": "Завтра мы будем покупать [какую-то] новую геную.",
+            "english": "Tomorrow we will buy a new genoa.",
+            "transcription": "[тэм**о**роу wи: wил бай э нью: дж**э**ноуэ]"
           },
           {
             "ours": "Ты купишь карту?",
@@ -663,20 +663,12 @@
       ]
     },
     {
-      "word": "sail",
-      "meaning": "парус",
+      "word": "genoa",
+      "meaning": "генуя",
       "used_in": [
         {
           "phrase": "active.simple.future.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "sail"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "sail"
+          "form": "genoa"
         }
       ]
     },
@@ -872,6 +864,20 @@
         {
           "phrase": "active.perfect_continuous.future.1",
           "form": "May"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "sail"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sail"
         }
       ]
     }

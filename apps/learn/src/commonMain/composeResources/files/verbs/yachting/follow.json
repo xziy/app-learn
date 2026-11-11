@@ -135,10 +135,10 @@
             "transcription": "[wи: а: ф**о**лоуиŋ ðэ ф**э**эwэй нау]"
           },
           {
-            "ours": "Ты сейчас идёшь за лодкой?",
-            "thought": "Являешься ты следующим [известной] лодке сейчас?",
-            "english": "Are you following the boat now?",
-            "transcription": "[а: ю: ф**о**лоуиŋ ðэ боут нау]"
+            "ours": "Этот паром сейчас идёт за нами слева по корме?",
+            "thought": "Является тот паром следующим нам на нашей левой раковине сейчас?",
+            "english": "Is that ferry following us on our port quarter now?",
+            "transcription": "[из ðæт ф**э**ри ф**о**лоуиŋ ас он ауэ по:т кw**о**:тэ нау]"
           }
         ]
       },
@@ -615,10 +615,6 @@
           "form": "boat"
         },
         {
-          "phrase": "active.continuous.present.1",
-          "form": "boat"
-        },
-        {
           "phrase": "active.perfect_continuous.past.1",
           "form": "boat"
         },
@@ -749,6 +745,26 @@
         {
           "phrase": "active.perfect.future.0",
           "form": "fairway"
+        }
+      ]
+    },
+    {
+      "word": "ferry",
+      "meaning": "паром",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "ferry"
+        }
+      ]
+    },
+    {
+      "word": "port quarter",
+      "meaning": "левая раковина",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "port quarter"
         }
       ]
     },

@@ -47,10 +47,10 @@
             "transcription": "[й**э**стэдэй ай стэйд ин ðэ к**о**кпит]"
           },
           {
-            "ours": "Ты оставался на палубе?",
-            "thought": "[Сделал] ты оставаться на палубе?",
-            "english": "Did you stay on deck?",
-            "transcription": "[дид ю: стэй он дэк]"
+            "ours": "Это судно всю ночь держалось у нас справа по корме?",
+            "thought": "[Сделало] то судно оставаться на нашей правой раковине всю ночь?",
+            "english": "Did that ship stay on our starboard quarter all night?",
+            "transcription": "[дид ðæт шип стэй он ауэ ст**а**:бэд кw**о**:тэ о:л найт]"
           },
           {
             "ours": "Она не оставалась у штурвала.",
@@ -99,10 +99,10 @@
             "transcription": "[wил ю: стэй æт ðэ хэлм]"
           },
           {
-            "ours": "Она не будет оставаться на палубе.",
-            "thought": "Она будет не оставаться на палубе.",
-            "english": "She will not stay on deck.",
-            "transcription": "[ши: wил нот стэй он дэк]"
+            "ours": "В качку она в форпике не останется.",
+            "thought": "Она будет не оставаться в [известном] форпике в [каком-то] бурном море.",
+            "english": "She will not stay in the forepeak in a rough sea.",
+            "transcription": "[ши: wил нот стэй ин ðэ ф**о**:пи:к ин э раф си:]"
           }
         ]
       }
@@ -342,28 +342,32 @@
       ]
     },
     {
-      "word": "deck",
-      "meaning": "палуба",
+      "word": "ship",
+      "meaning": "судно",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "deck"
-        },
+          "form": "ship"
+        }
+      ]
+    },
+    {
+      "word": "starboard quarter",
+      "meaning": "правая раковина",
+      "used_in": [
         {
-          "phrase": "active.simple.present.1",
-          "form": "deck"
-        },
+          "phrase": "active.simple.past.1",
+          "form": "starboard quarter"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
         {
-          "phrase": "active.simple.future.2",
-          "form": "deck"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "deck"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "deck"
+          "phrase": "active.simple.past.1",
+          "form": "night"
         }
       ]
     },
@@ -432,12 +436,50 @@
       ]
     },
     {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
       "word": "cushion",
       "meaning": "подушка",
       "used_in": [
         {
           "phrase": "active.simple.present.2",
           "form": "cushions"
+        }
+      ]
+    },
+    {
+      "word": "forepeak",
+      "meaning": "форпик",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "forepeak"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "sea"
         }
       ]
     },

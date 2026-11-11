@@ -141,10 +141,10 @@
             "transcription": "[ðэ w**о**:тэ из нот р**и**:чиŋ ðэ к**о**кпит нау]"
           },
           {
-            "ours": "Вода сейчас доходит до палубы?",
-            "thought": "Является [известная] вода достигающей [известную] палубу сейчас?",
-            "english": "Is the water reaching the deck now?",
-            "transcription": "[из ðэ w**о**:тэ р**и**:чиŋ ðэ дэк нау]"
+            "ours": "Волны сейчас достают до носового релинга?",
+            "thought": "Являются [известные] волны достигающими [известный] носовой релинг сейчас?",
+            "english": "Are the waves reaching the pulpit now?",
+            "transcription": "[а: ðэ wэйвз р**и**:чиŋ ðэ п**у**лпит нау]"
           }
         ]
       },
@@ -188,10 +188,10 @@
         "form": "have/has reached",
         "examples": [
           {
-            "ours": "Мы уже достигли гавани.",
-            "thought": "Мы имеем уже достигнутой [известную] гавань.",
-            "english": "We have already reached the harbor.",
-            "transcription": "[wи: хæв о:лр**э**ди ри:чт ðэ х**а**:бэ]"
+            "ours": "Фаловый угол грота уже дошёл до гика.",
+            "thought": "[Известный] фаловый угол от [известного] грота имеет уже достигнутым [известный] гик.",
+            "english": "The head of the mainsail has already reached the boom.",
+            "transcription": "[ðэ хэд ов ðэ м**э**йнсэйл хæз о:лр**э**ди ри:чт ðэ бу:м]"
           },
           {
             "ours": "Яхта ещё не достигла острова.",
@@ -398,10 +398,6 @@
         },
         {
           "phrase": "active.perfect.past.0",
-          "form": "harbor"
-        },
-        {
-          "phrase": "active.perfect.present.0",
           "form": "harbor"
         },
         {
@@ -669,25 +665,11 @@
       ]
     },
     {
-      "word": "day",
-      "meaning": "день",
-      "used_in": [
-        {
-          "phrase": "passive.simple.present.1",
-          "form": "day"
-        }
-      ]
-    },
-    {
       "word": "water",
       "meaning": "вода",
       "used_in": [
         {
           "phrase": "active.continuous.present.1",
-          "form": "water"
-        },
-        {
-          "phrase": "active.continuous.present.2",
           "form": "water"
         }
       ]
@@ -703,12 +685,64 @@
       ]
     },
     {
-      "word": "deck",
-      "meaning": "палуба",
+      "word": "wave",
+      "meaning": "волна",
       "used_in": [
         {
           "phrase": "active.continuous.present.2",
-          "form": "deck"
+          "form": "waves"
+        }
+      ]
+    },
+    {
+      "word": "pulpit",
+      "meaning": "носовой релинг",
+      "sense": "rail",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "pulpit"
+        }
+      ]
+    },
+    {
+      "word": "head",
+      "meaning": "фаловый угол",
+      "sense": "sail",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "head"
+        }
+      ]
+    },
+    {
+      "word": "mainsail",
+      "meaning": "грот",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "mainsail"
+        }
+      ]
+    },
+    {
+      "word": "boom",
+      "meaning": "гик",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "boom"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "day"
         }
       ]
     }

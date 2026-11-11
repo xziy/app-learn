@@ -70,10 +70,10 @@
             "transcription": "[ðи **и**нстрэмэнт шоуз ðэ дэпθ]"
           },
           {
-            "ours": "Ты показываешь гостям яхту?",
-            "thought": "[Делаешь] ты показывать гостям [известную] яхту?",
-            "english": "Do you show guests the yacht?",
-            "transcription": "[ду: ю: шоу гэстс ðэ йот]"
+            "ours": "Ты показываешь гостям, как работает гальюн?",
+            "thought": "[Делаешь] ты показывать гостям, как [известный] гальюн работает?",
+            "english": "Do you show guests how the heads work?",
+            "transcription": "[ду: ю: шоу гэстс хау ðэ хэдз wœ:к]"
           },
           {
             "ours": "Этот экран не показывает скорость.",
@@ -135,10 +135,10 @@
             "transcription": "[ай æм ш**о**уиŋ ðэ нь**ю**:камэз ðэ дэк нау]"
           },
           {
-            "ours": "Шкипер сейчас показывает тебе карту?",
-            "thought": "Является [известный] шкипер показывающим тебе [известную] карту сейчас?",
-            "english": "Is the skipper showing you the chart now?",
-            "transcription": "[из ðэ ск**и**пэ ш**о**уиŋ ю: ðэ ча:т нау]"
+            "ours": "Картплоттер сейчас показывает нашу позицию?",
+            "thought": "Является [известный] картплоттер показывающим нашу позицию сейчас?",
+            "english": "Is the chart plotter showing our position now?",
+            "transcription": "[из ðэ ча:т пл**о**тэ ш**о**уиŋ ауэ пэз**и**шн нау]"
           }
         ]
       },
@@ -182,10 +182,10 @@
         "form": "have/has shown",
         "examples": [
           {
-            "ours": "Я уже показал команде прогноз.",
-            "thought": "Я имею уже показанным [известной] команде [известный] прогноз.",
-            "english": "I have already shown the crew the forecast.",
-            "transcription": "[ай хæв о:лр**э**ди шоун ðэ кру: ðэ ф**о**:ка:ст]"
+            "ours": "Я уже показал новому экипажу утки.",
+            "thought": "Я имею уже показанными [известному] новому экипажу [известные] утки.",
+            "english": "I have already shown the new crew the cleats.",
+            "transcription": "[ай хæв о:лр**э**ди шоун ðэ нью: кру: ðэ кли:тс]"
           },
           {
             "ours": "Он уже показал тебе страховочный леер?",
@@ -455,10 +455,6 @@
         {
           "phrase": "active.simple.past.0",
           "form": "skipper"
-        },
-        {
-          "phrase": "active.continuous.present.1",
-          "form": "skipper"
         }
       ]
     },
@@ -468,10 +464,6 @@
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.continuous.present.1",
           "form": "chart"
         },
         {
@@ -609,40 +601,13 @@
       ]
     },
     {
-      "word": "yacht",
-      "meaning": "яхта",
+      "word": "head",
+      "meaning": "гальюн",
+      "sense": "toilet",
       "used_in": [
         {
           "phrase": "active.simple.present.1",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "yachts"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "yachts"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "yachts"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "yacht"
+          "form": "heads"
         }
       ]
     },
@@ -805,6 +770,60 @@
       ]
     },
     {
+      "word": "chart plotter",
+      "meaning": "картплоттер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "chart plotter"
+        }
+      ]
+    },
+    {
+      "word": "position",
+      "meaning": "позиция",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "position"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
       "word": "morning",
       "meaning": "утро",
       "used_in": [
@@ -907,12 +926,12 @@
       ]
     },
     {
-      "word": "forecast",
-      "meaning": "прогноз",
+      "word": "cleat",
+      "meaning": "утка",
       "used_in": [
         {
           "phrase": "active.perfect.present.0",
-          "form": "forecast"
+          "form": "cleats"
         }
       ]
     },

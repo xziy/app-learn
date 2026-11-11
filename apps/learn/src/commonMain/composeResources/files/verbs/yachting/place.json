@@ -41,10 +41,10 @@
         "form": "placed",
         "examples": [
           {
-            "ours": "Вчера я разместил карту на палубе.",
-            "thought": "Вчера я разместил [известную] карту на палубе.",
-            "english": "Yesterday I placed the chart on deck.",
-            "transcription": "[й**э**стэдэй ай плэйст ðэ ча:т он дэк]"
+            "ours": "Вчера я поставил флаг на кормовой релинг.",
+            "thought": "Вчера я разместил [известный] флаг на [известном] кормовом релинге.",
+            "english": "Yesterday I placed the flag on the pushpit.",
+            "transcription": "[й**э**стэдэй ай плэйст ðэ флæг он ðэ п**у**шпит]"
           },
           {
             "ours": "Ты разместил компас на палубе?",
@@ -273,10 +273,10 @@
         "form": "was/were placed",
         "examples": [
           {
-            "ours": "Карту вчера разместили на палубе.",
-            "thought": "[Известная] карта была размещена на палубе вчера.",
-            "english": "The chart was placed on deck yesterday.",
-            "transcription": "[ðэ ча:т wоз плэйст он дэк й**э**стэдэй]"
+            "ours": "Новые огни вчера установили на носовой релинг.",
+            "thought": "[Известные] новые огни были размещены на [известном] носовом релинге вчера.",
+            "english": "The new lights were placed on the pulpit yesterday.",
+            "transcription": "[ðэ нью: лайтс wœ: плэйст он ðэ п**у**лпит й**э**стэдэй]"
           },
           {
             "ours": "Рацию разместили на палубе?",
@@ -449,60 +449,22 @@
   },
   "nouns": [
     {
-      "word": "chart",
-      "meaning": "морская карта",
+      "word": "flag",
+      "meaning": "флаг",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "chart"
-        },
+          "form": "flag"
+        }
+      ]
+    },
+    {
+      "word": "pushpit",
+      "meaning": "кормовой релинг",
+      "used_in": [
         {
-          "phrase": "active.simple.present.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "chart"
+          "phrase": "active.simple.past.0",
+          "form": "pushpit"
         }
       ]
     },
@@ -525,139 +487,9 @@
       ]
     },
     {
-      "word": "radio",
-      "meaning": "радиостанция",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.2",
-          "form": "radio"
-        },
-        {
-          "phrase": "active.simple.present.2",
-          "form": "radio"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "radio"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "radio"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "radio"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "radio"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "radio"
-        },
-        {
-          "phrase": "passive.simple.present.1",
-          "form": "radio"
-        },
-        {
-          "phrase": "passive.simple.future.1",
-          "form": "radio"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "radio"
-        },
-        {
-          "phrase": "passive.perfect.present.1",
-          "form": "radio"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "radio"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "radio"
-        }
-      ]
-    },
-    {
-      "word": "day",
-      "meaning": "день",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.0",
-          "form": "day"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "day"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "day"
-        },
-        {
-          "phrase": "passive.simple.present.1",
-          "form": "day"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "day"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "day"
-        }
-      ]
-    },
-    {
-      "word": "table",
-      "meaning": "стол",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.0",
-          "form": "table"
-        }
-      ]
-    },
-    {
       "word": "deck",
       "meaning": "палуба",
       "used_in": [
-        {
-          "phrase": "active.simple.present.2",
-          "form": "deck"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "deck"
-        },
-        {
-          "phrase": "passive.simple.present.1",
-          "form": "deck"
-        },
-        {
-          "phrase": "passive.simple.future.1",
-          "form": "deck"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "deck"
-        },
-        {
-          "phrase": "passive.perfect.present.1",
-          "form": "deck"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "deck"
-        },
-        {
-          "phrase": "active.simple.past.0",
-          "form": "deck"
-        },
         {
           "phrase": "active.simple.past.1",
           "form": "deck"
@@ -668,6 +500,10 @@
         },
         {
           "phrase": "active.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "active.simple.present.2",
           "form": "deck"
         },
         {
@@ -755,7 +591,7 @@
           "form": "deck"
         },
         {
-          "phrase": "passive.simple.past.0",
+          "phrase": "passive.simple.past.1",
           "form": "deck"
         },
         {
@@ -763,7 +599,15 @@
           "form": "deck"
         },
         {
+          "phrase": "passive.simple.present.1",
+          "form": "deck"
+        },
+        {
           "phrase": "passive.simple.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.simple.future.1",
           "form": "deck"
         },
         {
@@ -795,11 +639,23 @@
           "form": "deck"
         },
         {
+          "phrase": "passive.perfect.past.1",
+          "form": "deck"
+        },
+        {
           "phrase": "passive.perfect.present.0",
           "form": "deck"
         },
         {
+          "phrase": "passive.perfect.present.1",
+          "form": "deck"
+        },
+        {
           "phrase": "passive.perfect.future.0",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
           "form": "deck"
         },
         {
@@ -809,6 +665,154 @@
         {
           "phrase": "future_in_past.1",
           "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "радиостанция",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "radio"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "radio"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "table",
+      "meaning": "стол",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "table"
         }
       ]
     },
@@ -898,6 +902,36 @@
       ]
     },
     {
+      "word": "container",
+      "meaning": "канистра, ёмкость",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "containers"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "containers"
+        }
+      ]
+    },
+    {
       "word": "morning",
       "meaning": "утро",
       "used_in": [
@@ -982,32 +1016,23 @@
       ]
     },
     {
-      "word": "container",
-      "meaning": "канистра, ёмкость",
+      "word": "light",
+      "meaning": "огонь",
       "used_in": [
         {
-          "phrase": "active.continuous.past.1",
-          "form": "containers"
-        },
+          "phrase": "passive.simple.past.0",
+          "form": "lights"
+        }
+      ]
+    },
+    {
+      "word": "pulpit",
+      "meaning": "носовой релинг",
+      "sense": "rail",
+      "used_in": [
         {
-          "phrase": "active.continuous.present.1",
-          "form": "containers"
-        },
-        {
-          "phrase": "active.continuous.future.1",
-          "form": "containers"
-        },
-        {
-          "phrase": "passive.continuous.past.1",
-          "form": "containers"
-        },
-        {
-          "phrase": "passive.continuous.present.1",
-          "form": "containers"
-        },
-        {
-          "phrase": "passive.continuous.future.1",
-          "form": "containers"
+          "phrase": "passive.simple.past.0",
+          "form": "pulpit"
         }
       ]
     }

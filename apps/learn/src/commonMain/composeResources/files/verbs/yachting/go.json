@@ -41,16 +41,16 @@
         "form": "went",
         "examples": [
           {
-            "ours": "Вчера мы вышли в море.",
-            "thought": "Вчера мы направились в море.",
-            "english": "Yesterday we went to sea.",
-            "transcription": "[й**э**стэдэй wи: wэнт ту си:]"
+            "ours": "Вчера мы зашли на место задним ходом.",
+            "thought": "Вчера мы пошли назад в [известное] причальное место.",
+            "english": "Yesterday we went astern into the berth.",
+            "transcription": "[й**э**стэдэй wи: wэнт эст**œ**:н **и**нту ðэ бœ:θ]"
           },
           {
-            "ours": "Ты ходил в марину вчера?",
-            "thought": "[Сделал] ты направляться в [известную] марину вчера?",
-            "english": "Did you go to the marina yesterday?",
-            "transcription": "[дид ю: гоу ту ðэ мэр**и**:нэ й**э**стэдэй]"
+            "ours": "Ты спускался по трапу лицом к ступенькам?",
+            "thought": "[Сделал] ты идти вниз по [известным] сходного люка ступенькам задом?",
+            "english": "Did you go down the companionway steps backwards?",
+            "transcription": "[дид ю: гоу даун ðэ кэмп**æ**ньэнwэй стэпс б**æ**кwэдз]"
           },
           {
             "ours": "Она не пошла на палубу вчера.",
@@ -254,10 +254,10 @@
         "form": "had been going",
         "examples": [
           {
-            "ours": "Мы шли на север два часа, когда ветер стих.",
-            "thought": "Мы имели быть идущими на север целых два часа, когда [известный] ветер стих.",
-            "english": "We had been going north for two hours when the wind dropped.",
-            "transcription": "[wи: хæд би:н г**о**уиŋ но:θ фо: ту: **а**уэз wэн ðэ wинд дропт]"
+            "ours": "Мы два часа шли левым галсом, когда ветер стих.",
+            "thought": "Мы имели быть идущими на левом галсе целых два часа, когда [известный] ветер стих.",
+            "english": "We had been going on port tack for two hours when the wind dropped.",
+            "transcription": "[wи: хæд би:н г**о**уиŋ он по:т тæк фо: ту: **а**уэз wэн ðэ wинд дропт]"
           },
           {
             "ours": "Вы шли на юг два часа до шторма?",
@@ -330,13 +330,54 @@
   },
   "nouns": [
     {
-      "word": "sea",
-      "meaning": "море",
+      "word": "berth",
+      "meaning": "причальное место",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "sea"
+          "form": "berth"
+        }
+      ]
+    },
+    {
+      "word": "companionway",
+      "meaning": "сходной люк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "companionway"
+        }
+      ]
+    },
+    {
+      "word": "step",
+      "meaning": "ступенька",
+      "sense": "stair",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "steps"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "deck"
         },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
         {
           "phrase": "active.simple.present.0",
           "form": "sea"
@@ -364,42 +405,6 @@
       ]
     },
     {
-      "word": "marina",
-      "meaning": "марина",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.1",
-          "form": "marina"
-        },
-        {
-          "phrase": "active.simple.present.2",
-          "form": "marina"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "marina"
-        },
-        {
-          "phrase": "future_in_past.2",
-          "form": "marina"
-        }
-      ]
-    },
-    {
-      "word": "deck",
-      "meaning": "палуба",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.2",
-          "form": "deck"
-        },
-        {
-          "phrase": "active.simple.future.1",
-          "form": "deck"
-        }
-      ]
-    },
-    {
       "word": "summer",
       "meaning": "лето",
       "used_in": [
@@ -416,6 +421,24 @@
         {
           "phrase": "active.simple.present.1",
           "form": "bow"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "marina"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "marina"
         }
       ]
     },
@@ -600,6 +623,27 @@
         {
           "phrase": "active.perfect_continuous.past.0",
           "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "port",
+      "meaning": "левый борт",
+      "sense": "left",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "port"
+        }
+      ]
+    },
+    {
+      "word": "tack",
+      "meaning": "галс",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "tack"
         }
       ]
     },

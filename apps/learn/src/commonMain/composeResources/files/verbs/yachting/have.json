@@ -47,10 +47,10 @@
             "transcription": "[й**э**стэдэй wи: хæд э ча:т]"
           },
           {
-            "ours": "У яхты не было двигателя.",
-            "thought": "[Известная] яхта [сделала] не иметь [какой-то] двигатель.",
-            "english": "The yacht did not have an engine.",
-            "transcription": "[ðэ йот дид нот хæв эн **э**нджин]"
+            "ours": "Старая лодка была неширокой.",
+            "thought": "[Известная] старая лодка [сделала] не иметь [какую-то] широкую ширину.",
+            "english": "The old boat did not have a wide beam.",
+            "transcription": "[ðи оулд боут дид нот хæв э wайд би:м]"
           },
           {
             "ours": "У тебя был спасательный жилет?",
@@ -206,42 +206,31 @@
       ]
     },
     {
-      "word": "yacht",
-      "meaning": "яхта",
+      "word": "boat",
+      "meaning": "лодка",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "yacht"
+          "form": "boat"
         },
         {
-          "phrase": "active.perfect.past.1",
-          "form": "yacht"
+          "phrase": "active.simple.present.1",
+          "form": "boat"
         },
         {
-          "phrase": "active.perfect.present.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "yacht"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "yacht"
+          "phrase": "active.perfect.future.0",
+          "form": "boat"
         }
       ]
     },
     {
-      "word": "engine",
-      "meaning": "двигатель",
+      "word": "beam",
+      "meaning": "ширина судна",
+      "sense": "width",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "engine"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "engine"
+          "form": "beam"
         }
       ]
     },
@@ -280,20 +269,6 @@
         {
           "phrase": "active.perfect.present.1",
           "form": "compass"
-        }
-      ]
-    },
-    {
-      "word": "boat",
-      "meaning": "лодка",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.1",
-          "form": "boat"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "boat"
         }
       ]
     },
@@ -354,6 +329,28 @@
       ]
     },
     {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
       "word": "June",
       "meaning": "июнь",
       "used_in": [
@@ -364,6 +361,16 @@
         {
           "phrase": "active.perfect.future.1",
           "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "engine"
         }
       ]
     }

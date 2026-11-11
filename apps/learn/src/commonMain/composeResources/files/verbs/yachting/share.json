@@ -41,10 +41,10 @@
         "form": "shared",
         "examples": [
           {
-            "ours": "Вчера мы поделились картой с экипажем.",
-            "thought": "Вчера мы поделились [известной] картой с [известным] экипажем.",
-            "english": "Yesterday we shared the chart with the crew.",
-            "transcription": "[й**э**стэдэй wи: шээд ðэ ча:т wиð ðэ кру:]"
+            "ours": "Вчера мы с братом делили койку в кормовой каюте.",
+            "thought": "Вчера мой брат и я делили [известную] кормовой каюты койку.",
+            "english": "Yesterday my brother and I shared the aft cabin berth.",
+            "transcription": "[й**э**стэдэй май бр**а**ðэ æнд ай шээд ðи а:фт к**æ**бин бœ:θ]"
           },
           {
             "ours": "Он не поделился прогнозом.",
@@ -455,130 +455,33 @@
   },
   "nouns": [
     {
-      "word": "chart",
-      "meaning": "морская карта",
+      "word": "brother",
+      "meaning": "брат",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.simple.future.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.continuous.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.continuous.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.future.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.continuous.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.continuous.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.continuous.future.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "chart"
+          "form": "brother"
         }
       ]
     },
     {
-      "word": "crew",
-      "meaning": "экипаж",
+      "word": "cabin",
+      "meaning": "каюта",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "crew"
-        },
+          "form": "cabin"
+        }
+      ]
+    },
+    {
+      "word": "berth",
+      "meaning": "койка",
+      "sense": "bed",
+      "used_in": [
         {
-          "phrase": "active.simple.present.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.continuous.present.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "future_in_past.2",
-          "form": "crew"
+          "phrase": "active.simple.past.0",
+          "form": "berth"
         }
       ]
     },
@@ -717,6 +620,56 @@
       ]
     },
     {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "crew"
+        }
+      ]
+    },
+    {
       "word": "information",
       "meaning": "информация",
       "used_in": [
@@ -761,6 +714,76 @@
         {
           "phrase": "future_in_past.2",
           "form": "food"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "chart"
         }
       ]
     },

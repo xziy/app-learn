@@ -33,7 +33,7 @@
       }
     ]
   },
-  "meaning": "работать (о двигателе), ходить",
+  "meaning": "работать (о двигателе), ходить, тянуться (о тросе)",
   "notes": "неправильный глагол; в значении работы механизма непереходный",
   "active": {
     "simple": {
@@ -64,10 +64,10 @@
         "form": "run, runs",
         "examples": [
           {
-            "ours": "Двигатель работает тихо.",
-            "thought": "[Известный] двигатель работает тихо.",
-            "english": "The engine runs quietly.",
-            "transcription": "[ðи **э**нджин ранз кв**а**йэтли]"
+            "ours": "Форштаг идёт от мачты к носу.",
+            "thought": "[Известный] форштаг тянется от [известной] мачты к [известному] носу.",
+            "english": "The forestay runs from the mast to the bow.",
+            "transcription": "[ðэ ф**о**:стэй ранз фром ðэ ма:ст ту ðэ бау]"
           },
           {
             "ours": "Генератор не работает на дизельном топливе.",
@@ -306,10 +306,6 @@
           "form": "engine"
         },
         {
-          "phrase": "active.simple.present.0",
-          "form": "engine"
-        },
-        {
           "phrase": "active.simple.future.0",
           "form": "engine"
         },
@@ -374,6 +370,36 @@
         {
           "phrase": "active.continuous.present.1",
           "form": "generator"
+        }
+      ]
+    },
+    {
+      "word": "forestay",
+      "meaning": "форштаг",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "forestay"
+        }
+      ]
+    },
+    {
+      "word": "mast",
+      "meaning": "мачта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "mast"
+        }
+      ]
+    },
+    {
+      "word": "bow",
+      "meaning": "нос судна",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "bow"
         }
       ]
     },

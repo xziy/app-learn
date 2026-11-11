@@ -64,10 +64,10 @@
         "form": "fill, fills",
         "examples": [
           {
-            "ours": "Парус наполняется ветром.",
-            "thought": "[Известный] парус наполняется с ветром.",
-            "english": "The sail fills with wind.",
-            "transcription": "[ðэ сэйл филз wиð wинд]"
+            "ours": "На большой волне якорный ящик заливает водой.",
+            "thought": "В тяжёлых морях [известный] якорный ящик наполняется с водой.",
+            "english": "In heavy seas the anchor locker fills with water.",
+            "transcription": "[ин х**э**ви си:з ðи **æ**нкэ л**о**кэ филз wиð w**о**:тэ]"
           },
           {
             "ours": "Ты наполняешь бак перед отходом?",
@@ -551,6 +551,10 @@
           "form": "water"
         },
         {
+          "phrase": "active.simple.present.0",
+          "form": "water"
+        },
+        {
           "phrase": "active.simple.present.2",
           "form": "water"
         },
@@ -685,10 +689,6 @@
           "form": "sail"
         },
         {
-          "phrase": "active.simple.present.0",
-          "form": "sail"
-        },
-        {
           "phrase": "active.simple.future.2",
           "form": "sail"
         }
@@ -703,12 +703,28 @@
           "form": "wind"
         },
         {
-          "phrase": "active.simple.present.0",
-          "form": "wind"
-        },
-        {
           "phrase": "active.simple.future.2",
           "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "seas"
+        }
+      ]
+    },
+    {
+      "word": "anchor locker",
+      "meaning": "якорный ящик",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "anchor locker"
         }
       ]
     },

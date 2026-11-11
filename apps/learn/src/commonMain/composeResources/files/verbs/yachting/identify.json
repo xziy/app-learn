@@ -2,11 +2,36 @@
   "spec": 4,
   "verb": "identify",
   "forms": {
-    "base": [{"word": "identify", "transcription": "[айд**э**нтифай]"}],
-    "past": [{"word": "identified", "transcription": "[айд**э**нтифайд]"}],
-    "participle": [{"word": "identified", "transcription": "[айд**э**нтифайд]"}],
-    "ing": [{"word": "identifying", "transcription": "[айд**э**нтифайиŋ]"}],
-    "s": [{"word": "identifies", "transcription": "[айд**э**нтифайз]"}]
+    "base": [
+      {
+        "word": "identify",
+        "transcription": "[айд**э**нтифай]"
+      }
+    ],
+    "past": [
+      {
+        "word": "identified",
+        "transcription": "[айд**э**нтифайд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "identified",
+        "transcription": "[айд**э**нтифайд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "identifying",
+        "transcription": "[айд**э**нтифайиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "identifies",
+        "transcription": "[айд**э**нтифайз]"
+      }
+    ]
   },
   "meaning": "опознавать, определять, выявлять, устанавливать",
   "notes": "правильный переходный глагол, y после согласной меняется на i: identified, identifies; identify a lighthouse — опознать маяк, identify a fault — выявить неисправность, identify the owner — установить владельца; образует пассив",
@@ -28,10 +53,10 @@
             "transcription": "[ðэ б**о**утйа:д диднт айд**э**нтифай ðэ ко:з ов ðэ вайбр**э**йшн]"
           },
           {
-            "ours": "Ты опознал лодку, которая ночью в нас врезалась?",
-            "thought": "[Сделал] ты опознавать [известную] лодку, которая ударила нас прошлой ночью?",
-            "english": "Did you identify the boat that hit us last night?",
-            "transcription": "[дид ю: айд**э**нтифай ðэ боут ðæт хит ас ла:ст найт]"
+            "ours": "Ты ночью нашёл, откуда течёт у баллера руля?",
+            "thought": "[Сделал] ты определять [известную] течь у [известного] рулевого баллера прошлой ночью?",
+            "english": "Did you identify the leak at the rudder stock last night?",
+            "transcription": "[дид ю: айд**э**нтифай ðэ ли:к æт ðэ р**а**дэ сток ла:ст найт]"
           }
         ]
       },
@@ -483,127 +508,1358 @@
     ]
   },
   "nouns": [
-    {"word": "dawn", "meaning": "рассвет", "used_in": [{"phrase": "active.simple.past.0", "form": "dawn"}]},
-    {"word": "lighthouse", "meaning": "маяк", "used_in": [{"phrase": "active.simple.past.0", "form": "lighthouse"}]},
-    {"word": "flash", "meaning": "вспышка", "used_in": [{"phrase": "active.simple.past.0", "form": "flashes"}]},
-    {"word": "boatyard", "meaning": "верфь", "used_in": [{"phrase": "active.simple.past.1", "form": "boatyard"}]},
-    {"word": "cause", "meaning": "причина", "used_in": [{"phrase": "active.simple.past.1", "form": "cause"}]},
-    {"word": "vibration", "meaning": "вибрация", "used_in": [{"phrase": "active.simple.past.1", "form": "vibration"}]},
-    {"word": "boat", "meaning": "лодка", "used_in": [{"phrase": "active.simple.past.2", "form": "boat"}, {"phrase": "active.perfect.future.0", "form": "boats"}, {"phrase": "passive.simple.present.2", "form": "boat"}, {"phrase": "passive.simple.future.0", "form": "boats"}, {"phrase": "passive.continuous.past.0", "form": "Boats"}, {"phrase": "future_in_past.1", "form": "boat"}]},
-    {"word": "night", "meaning": "ночь", "used_in": [{"phrase": "active.simple.past.2", "form": "night"}, {"phrase": "active.simple.present.2", "form": "night"}, {"phrase": "active.continuous.future.1", "form": "night"}]},
-    {"word": "sailor", "meaning": "моряк", "used_in": [{"phrase": "active.simple.present.0", "form": "sailor"}, {"phrase": "passive.simple.past.2", "form": "sailors"}]},
-    {"word": "squall", "meaning": "шквал", "used_in": [{"phrase": "active.simple.present.0", "form": "squall"}]},
-    {"word": "cloud", "meaning": "облако", "used_in": [{"phrase": "active.simple.present.0", "form": "clouds"}]},
-    {"word": "beginner", "meaning": "новичок", "used_in": [{"phrase": "active.simple.present.1", "form": "Beginners"}]},
-    {"word": "gust", "meaning": "порыв", "used_in": [{"phrase": "active.simple.present.1", "form": "gusts"}]},
-    {"word": "water", "meaning": "вода", "used_in": [{"phrase": "active.simple.present.1", "form": "water"}]},
-    {"word": "ship", "meaning": "судно", "used_in": [{"phrase": "active.simple.present.2", "form": "ships"}, {"phrase": "passive.simple.present.0", "form": "ships"}, {"phrase": "passive.perfect.past.2", "form": "ship"}, {"phrase": "passive.perfect.present.2", "form": "ship"}]},
-    {"word": "light", "meaning": "огонь", "used_in": [{"phrase": "active.simple.present.2", "form": "lights"}, {"phrase": "active.continuous.future.1", "form": "lights"}]},
-    {"word": "surveyor", "meaning": "сюрвейер", "used_in": [{"phrase": "active.simple.future.0", "form": "surveyor"}]},
-    {"word": "crack", "meaning": "трещина", "used_in": [{"phrase": "active.simple.future.0", "form": "crack"}]},
-    {"word": "hull", "meaning": "корпус", "used_in": [{"phrase": "active.simple.future.0", "form": "hull"}]},
-    {"word": "leak", "meaning": "течь", "used_in": [{"phrase": "active.simple.future.1", "form": "leak"}]},
-    {"word": "dark", "meaning": "темнота", "used_in": [{"phrase": "active.simple.future.1", "form": "dark"}]},
-    {"word": "camera", "meaning": "камера", "used_in": [{"phrase": "active.simple.future.2", "form": "camera"}]},
-    {"word": "winner", "meaning": "победитель", "used_in": [{"phrase": "active.simple.future.2", "form": "winner"}]},
-    {"word": "finish", "meaning": "финиш", "used_in": [{"phrase": "active.simple.future.2", "form": "finish"}]},
-    {"word": "navigator", "meaning": "штурман", "used_in": [{"phrase": "active.continuous.past.0", "form": "navigator"}]},
-    {"word": "headland", "meaning": "мыс", "used_in": [{"phrase": "active.continuous.past.0", "form": "headlands"}]},
-    {"word": "binoculars", "meaning": "бинокль", "used_in": [{"phrase": "active.continuous.past.0", "form": "binoculars"}]},
-    {"word": "fog", "meaning": "туман", "used_in": [{"phrase": "active.continuous.past.0", "form": "fog"}, {"phrase": "passive.simple.present.0", "form": "fog"}]},
-    {"word": "island", "meaning": "остров", "used_in": [{"phrase": "active.continuous.past.1", "form": "islands"}]},
-    {"word": "engine", "meaning": "двигатель", "used_in": [{"phrase": "active.continuous.past.1", "form": "engine"}, {"phrase": "passive.simple.future.1", "form": "engine"}]},
-    {"word": "coastguard", "meaning": "береговая охрана", "used_in": [{"phrase": "active.continuous.present.0", "form": "coastguard"}, {"phrase": "future_in_past.2", "form": "coastguard"}]},
-    {"word": "vessel", "meaning": "судно", "used_in": [{"phrase": "active.continuous.present.0", "form": "vessel"}]},
-    {"word": "radar", "meaning": "радар", "used_in": [{"phrase": "active.continuous.present.0", "form": "radar"}, {"phrase": "future_in_past.1", "form": "radar"}]},
-    {"word": "mechanic", "meaning": "механик", "used_in": [{"phrase": "active.continuous.present.1", "form": "mechanic"}]},
-    {"word": "problem", "meaning": "проблема", "used_in": [{"phrase": "active.continuous.present.1", "form": "problem"}, {"phrase": "passive.simple.future.2", "form": "problems"}]},
-    {"word": "part", "meaning": "деталь", "used_in": [{"phrase": "active.continuous.present.1", "form": "parts"}]},
-    {"word": "rock", "meaning": "скала", "used_in": [{"phrase": "active.continuous.present.2", "form": "rocks"}, {"phrase": "future_in_past.0", "form": "rocks"}]},
-    {"word": "chart", "meaning": "карта", "used_in": [{"phrase": "active.continuous.present.2", "form": "chart"}]},
-    {"word": "midnight", "meaning": "полночь", "used_in": [{"phrase": "active.continuous.future.0", "form": "midnight"}]},
-    {"word": "cadet", "meaning": "курсант", "used_in": [{"phrase": "active.continuous.future.0", "form": "cadets"}]},
-    {"word": "star", "meaning": "звезда", "used_in": [{"phrase": "active.continuous.future.0", "form": "stars"}]},
-    {"word": "lookout", "meaning": "впередсмотрящий", "used_in": [{"phrase": "active.continuous.future.1", "form": "lookout"}]},
-    {"word": "morning", "meaning": "утро", "used_in": [{"phrase": "active.perfect.past.0", "form": "morning"}, {"phrase": "passive.continuous.future.0", "form": "morning"}]},
-    {"word": "rescuer", "meaning": "спасатель", "used_in": [{"phrase": "active.perfect.past.0", "form": "rescuers"}]},
-    {"word": "yacht", "meaning": "яхта", "used_in": [{"phrase": "active.perfect.past.0", "form": "yacht"}, {"phrase": "passive.continuous.past.1", "form": "yacht"}, {"phrase": "passive.perfect.future.1", "form": "yacht"}]},
-    {"word": "smell", "meaning": "запах", "used_in": [{"phrase": "active.perfect.past.1", "form": "smell"}]},
-    {"word": "gas", "meaning": "газ", "used_in": [{"phrase": "active.perfect.past.1", "form": "gas"}]},
-    {"word": "channel", "meaning": "фарватер", "used_in": [{"phrase": "active.perfect.past.2", "form": "channel"}]},
-    {"word": "tide", "meaning": "прилив", "used_in": [{"phrase": "active.perfect.past.2", "form": "tide"}]},
-    {"word": "rigger", "meaning": "такелажник", "used_in": [{"phrase": "active.perfect.present.0", "form": "rigger"}]},
-    {"word": "corrosion", "meaning": "коррозия", "used_in": [{"phrase": "active.perfect.present.0", "form": "corrosion"}]},
-    {"word": "mast", "meaning": "мачта", "used_in": [{"phrase": "active.perfect.present.0", "form": "mast"}]},
-    {"word": "police", "meaning": "полиция", "used_in": [{"phrase": "active.perfect.present.1", "form": "police"}]},
-    {"word": "thief", "meaning": "вор", "used_in": [{"phrase": "active.perfect.present.1", "form": "thieves"}]},
-    {"word": "marina", "meaning": "марина", "used_in": [{"phrase": "active.perfect.present.1", "form": "marina"}]},
-    {"word": "entrance", "meaning": "вход", "used_in": [{"phrase": "active.perfect.present.2", "form": "entrance"}]},
-    {"word": "harbor", "meaning": "гавань", "used_in": [{"phrase": "active.perfect.present.2", "form": "harbor"}, {"phrase": "passive.simple.future.0", "form": "harbor"}]},
-    {"word": "evening", "meaning": "вечер", "used_in": [{"phrase": "active.perfect.future.0", "form": "evening"}]},
-    {"word": "race", "meaning": "гонка", "used_in": [{"phrase": "active.perfect.future.0", "form": "race"}, {"phrase": "active.perfect_continuous.past.1", "form": "race"}, {"phrase": "passive.perfect.future.0", "form": "race"}]},
-    {"word": "committee", "meaning": "комитет", "used_in": [{"phrase": "active.perfect.future.0", "form": "committee"}]},
-    {"word": "line", "meaning": "линия", "sense": "mark", "used_in": [{"phrase": "active.perfect.future.0", "form": "line"}]},
-    {"word": "wreck", "meaning": "затонувшее судно", "used_in": [{"phrase": "active.perfect.future.1", "form": "wreck"}]},
-    {"word": "end", "meaning": "конец", "used_in": [{"phrase": "active.perfect.future.1", "form": "end"}]},
-    {"word": "dive", "meaning": "погружение", "used_in": [{"phrase": "active.perfect.future.1", "form": "dive"}]},
-    {"word": "anchorage", "meaning": "якорная стоянка", "used_in": [{"phrase": "active.perfect.future.2", "form": "anchorage"}]},
-    {"word": "sunset", "meaning": "закат", "used_in": [{"phrase": "active.perfect.future.2", "form": "sunset"}]},
-    {"word": "bird", "meaning": "птица", "used_in": [{"phrase": "active.perfect_continuous.past.0", "form": "birds"}]},
-    {"word": "hour", "meaning": "час", "used_in": [{"phrase": "active.perfect_continuous.past.0", "form": "hour"}, {"phrase": "active.perfect_continuous.present.1", "form": "hour"}, {"phrase": "active.perfect_continuous.future.0", "form": "hours"}]},
-    {"word": "whale", "meaning": "кит", "used_in": [{"phrase": "active.perfect_continuous.past.0", "form": "whale"}]},
-    {"word": "electrician", "meaning": "электрик", "used_in": [{"phrase": "active.perfect_continuous.past.1", "form": "electrician"}]},
-    {"word": "fault", "meaning": "неисправность", "sense": "defect", "used_in": [{"phrase": "active.perfect_continuous.past.1", "form": "faults"}, {"phrase": "passive.perfect.past.1", "form": "fault"}]},
-    {"word": "wiring", "meaning": "проводка", "used_in": [{"phrase": "active.perfect_continuous.past.1", "form": "wiring"}]},
-    {"word": "day", "meaning": "день", "used_in": [{"phrase": "active.perfect_continuous.past.1", "form": "days"}]},
-    {"word": "volunteer", "meaning": "волонтёр", "used_in": [{"phrase": "active.perfect_continuous.present.0", "form": "volunteers"}]},
-    {"word": "mooring", "meaning": "место швартовки", "used_in": [{"phrase": "active.perfect_continuous.present.0", "form": "moorings"}]},
-    {"word": "bay", "meaning": "бухта", "used_in": [{"phrase": "active.perfect_continuous.present.0", "form": "bay"}, {"phrase": "passive.continuous.past.0", "form": "bay"}]},
-    {"word": "week", "meaning": "неделя", "used_in": [{"phrase": "active.perfect_continuous.present.0", "form": "week"}]},
-    {"word": "buoy", "meaning": "буй", "used_in": [{"phrase": "active.perfect_continuous.present.1", "form": "buoys"}, {"phrase": "passive.continuous.future.0", "form": "buoys"}]},
-    {"word": "noon", "meaning": "полдень", "used_in": [{"phrase": "active.perfect_continuous.future.0", "form": "noon"}]},
-    {"word": "diver", "meaning": "водолаз", "used_in": [{"phrase": "active.perfect_continuous.future.0", "form": "divers"}]},
-    {"word": "debris", "meaning": "обломки", "used_in": [{"phrase": "active.perfect_continuous.future.0", "form": "debris"}]},
-    {"word": "scientist", "meaning": "учёный", "used_in": [{"phrase": "active.perfect_continuous.future.1", "form": "scientists"}]},
-    {"word": "jellyfish", "meaning": "медуза", "used_in": [{"phrase": "active.perfect_continuous.future.1", "form": "jellyfish"}]},
-    {"word": "year", "meaning": "год", "used_in": [{"phrase": "active.perfect_continuous.future.1", "form": "years"}]},
-    {"word": "June", "meaning": "июнь", "used_in": [{"phrase": "active.perfect_continuous.future.1", "form": "June"}]},
-    {"word": "kayak", "meaning": "каяк", "used_in": [{"phrase": "passive.simple.past.0", "form": "kayak"}]},
-    {"word": "colour", "meaning": "цвет", "used_in": [{"phrase": "passive.simple.past.0", "form": "colour"}]},
-    {"word": "source", "meaning": "источник", "used_in": [{"phrase": "passive.simple.past.1", "form": "source"}]},
-    {"word": "noise", "meaning": "шум", "used_in": [{"phrase": "passive.simple.past.1", "form": "noise"}]},
-    {"word": "helicopter", "meaning": "вертолёт", "used_in": [{"phrase": "passive.simple.past.2", "form": "helicopter"}]},
-    {"word": "horn", "meaning": "гудок", "used_in": [{"phrase": "passive.simple.present.0", "form": "horns"}]},
-    {"word": "rot", "meaning": "гниль", "used_in": [{"phrase": "passive.simple.present.1", "form": "Rot"}]},
-    {"word": "deck", "meaning": "палуба", "used_in": [{"phrase": "passive.simple.present.1", "form": "deck"}]},
-    {"word": "sail", "meaning": "парус", "used_in": [{"phrase": "passive.simple.present.2", "form": "sail"}]},
-    {"word": "number", "meaning": "номер", "sense": "label", "used_in": [{"phrase": "passive.simple.present.2", "form": "number"}, {"phrase": "passive.simple.future.1", "form": "number"}]},
-    {"word": "patrol", "meaning": "патруль", "used_in": [{"phrase": "passive.simple.future.0", "form": "patrol"}]},
-    {"word": "safety", "meaning": "безопасность", "used_in": [{"phrase": "passive.simple.future.2", "form": "safety"}]},
-    {"word": "inspection", "meaning": "проверка", "used_in": [{"phrase": "passive.simple.future.2", "form": "inspection"}]},
-    {"word": "drone", "meaning": "дрон", "used_in": [{"phrase": "passive.continuous.past.0", "form": "drone"}]},
-    {"word": "rain", "meaning": "дождь", "used_in": [{"phrase": "passive.continuous.past.0", "form": "rain"}]},
-    {"word": "storm", "meaning": "шторм", "used_in": [{"phrase": "passive.continuous.present.0", "form": "Storm"}]},
-    {"word": "damage", "meaning": "ущерб", "used_in": [{"phrase": "passive.continuous.present.0", "form": "damage"}]},
-    {"word": "air", "meaning": "воздух", "used_in": [{"phrase": "passive.continuous.present.0", "form": "air"}]},
-    {"word": "oil", "meaning": "масло", "used_in": [{"phrase": "passive.continuous.present.1", "form": "oil"}]},
-    {"word": "bilge", "meaning": "трюм", "used_in": [{"phrase": "passive.continuous.present.1", "form": "bilge"}]},
-    {"word": "place", "meaning": "место", "used_in": [{"phrase": "passive.continuous.future.0", "form": "places"}]},
-    {"word": "dolphin", "meaning": "дельфин", "used_in": [{"phrase": "passive.continuous.future.1", "form": "dolphins"}]},
-    {"word": "photo", "meaning": "фото", "used_in": [{"phrase": "passive.continuous.future.1", "form": "photos"}]},
-    {"word": "container", "meaning": "контейнер", "used_in": [{"phrase": "passive.perfect.past.0", "form": "container"}]},
-    {"word": "autopilot", "meaning": "автопилот", "used_in": [{"phrase": "passive.perfect.past.1", "form": "autopilot"}]},
-    {"word": "flag", "meaning": "флаг", "used_in": [{"phrase": "passive.perfect.past.2", "form": "flag"}]},
-    {"word": "route", "meaning": "маршрут", "used_in": [{"phrase": "passive.perfect.present.0", "form": "route"}]},
-    {"word": "reef", "meaning": "риф", "used_in": [{"phrase": "passive.perfect.present.0", "form": "reef"}]},
-    {"word": "owner", "meaning": "владелец", "used_in": [{"phrase": "passive.perfect.present.1", "form": "owner"}]},
-    {"word": "dinghy", "meaning": "шлюпка", "used_in": [{"phrase": "passive.perfect.present.1", "form": "dinghy"}]},
-    {"word": "horizon", "meaning": "горизонт", "used_in": [{"phrase": "passive.perfect.present.2", "form": "horizon"}]},
-    {"word": "weekend", "meaning": "выходные", "used_in": [{"phrase": "passive.perfect.future.0", "form": "weekend"}]},
-    {"word": "area", "meaning": "район", "used_in": [{"phrase": "passive.perfect.future.0", "form": "area"}]},
-    {"word": "Friday", "meaning": "пятница", "used_in": [{"phrase": "passive.perfect.future.1", "form": "Friday"}]},
-    {"word": "fisherman", "meaning": "рыбак", "used_in": [{"phrase": "future_in_past.0", "form": "fisherman"}]},
-    {"word": "shape", "meaning": "форма", "used_in": [{"phrase": "future_in_past.0", "form": "shape"}]},
-    {"word": "caller", "meaning": "звонящий", "used_in": [{"phrase": "future_in_past.2", "form": "caller"}]}
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "lighthouse",
+      "meaning": "маяк",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "lighthouse"
+        }
+      ]
+    },
+    {
+      "word": "flash",
+      "meaning": "вспышка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "flashes"
+        }
+      ]
+    },
+    {
+      "word": "boatyard",
+      "meaning": "верфь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "boatyard"
+        }
+      ]
+    },
+    {
+      "word": "cause",
+      "meaning": "причина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "cause"
+        }
+      ]
+    },
+    {
+      "word": "vibration",
+      "meaning": "вибрация",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "vibration"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "night"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "night"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "leak",
+      "meaning": "течь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "leak"
+        }
+      ]
+    },
+    {
+      "word": "rudder stock",
+      "meaning": "баллер руля",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "rudder stock"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "meaning": "моряк",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "sailor"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "sailors"
+        }
+      ]
+    },
+    {
+      "word": "squall",
+      "meaning": "шквал",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "squall"
+        }
+      ]
+    },
+    {
+      "word": "cloud",
+      "meaning": "облако",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "clouds"
+        }
+      ]
+    },
+    {
+      "word": "beginner",
+      "meaning": "новичок",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "Beginners"
+        }
+      ]
+    },
+    {
+      "word": "gust",
+      "meaning": "порыв",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "gusts"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "ship",
+      "meaning": "судно",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "ships"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "ships"
+        },
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "ship"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "ship"
+        }
+      ]
+    },
+    {
+      "word": "light",
+      "meaning": "огонь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "lights"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "lights"
+        }
+      ]
+    },
+    {
+      "word": "surveyor",
+      "meaning": "сюрвейер",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "surveyor"
+        }
+      ]
+    },
+    {
+      "word": "crack",
+      "meaning": "трещина",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crack"
+        }
+      ]
+    },
+    {
+      "word": "hull",
+      "meaning": "корпус",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "hull"
+        }
+      ]
+    },
+    {
+      "word": "dark",
+      "meaning": "темнота",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "dark"
+        }
+      ]
+    },
+    {
+      "word": "camera",
+      "meaning": "камера",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "camera"
+        }
+      ]
+    },
+    {
+      "word": "winner",
+      "meaning": "победитель",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "winner"
+        }
+      ]
+    },
+    {
+      "word": "finish",
+      "meaning": "финиш",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "finish"
+        }
+      ]
+    },
+    {
+      "word": "navigator",
+      "meaning": "штурман",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "navigator"
+        }
+      ]
+    },
+    {
+      "word": "headland",
+      "meaning": "мыс",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "headlands"
+        }
+      ]
+    },
+    {
+      "word": "binoculars",
+      "meaning": "бинокль",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "binoculars"
+        }
+      ]
+    },
+    {
+      "word": "fog",
+      "meaning": "туман",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "fog"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "fog"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "islands"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "coastguard",
+      "meaning": "береговая охрана",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "coastguard"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "coastguard"
+        }
+      ]
+    },
+    {
+      "word": "vessel",
+      "meaning": "судно",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "vessel"
+        }
+      ]
+    },
+    {
+      "word": "radar",
+      "meaning": "радар",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "radar"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "radar"
+        }
+      ]
+    },
+    {
+      "word": "mechanic",
+      "meaning": "механик",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "mechanic"
+        }
+      ]
+    },
+    {
+      "word": "problem",
+      "meaning": "проблема",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "problem"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "problems"
+        }
+      ]
+    },
+    {
+      "word": "part",
+      "meaning": "деталь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "parts"
+        }
+      ]
+    },
+    {
+      "word": "rock",
+      "meaning": "скала",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "rocks"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "rocks"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "карта",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "midnight",
+      "meaning": "полночь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "midnight"
+        }
+      ]
+    },
+    {
+      "word": "cadet",
+      "meaning": "курсант",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "cadets"
+        }
+      ]
+    },
+    {
+      "word": "star",
+      "meaning": "звезда",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "stars"
+        }
+      ]
+    },
+    {
+      "word": "lookout",
+      "meaning": "впередсмотрящий",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "lookout"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "rescuer",
+      "meaning": "спасатель",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "rescuers"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "smell",
+      "meaning": "запах",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "smell"
+        }
+      ]
+    },
+    {
+      "word": "gas",
+      "meaning": "газ",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "gas"
+        }
+      ]
+    },
+    {
+      "word": "channel",
+      "meaning": "фарватер",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "channel"
+        }
+      ]
+    },
+    {
+      "word": "tide",
+      "meaning": "прилив",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "tide"
+        }
+      ]
+    },
+    {
+      "word": "rigger",
+      "meaning": "такелажник",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "rigger"
+        }
+      ]
+    },
+    {
+      "word": "corrosion",
+      "meaning": "коррозия",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "corrosion"
+        }
+      ]
+    },
+    {
+      "word": "mast",
+      "meaning": "мачта",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "mast"
+        }
+      ]
+    },
+    {
+      "word": "police",
+      "meaning": "полиция",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "police"
+        }
+      ]
+    },
+    {
+      "word": "thief",
+      "meaning": "вор",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "thieves"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "entrance",
+      "meaning": "вход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "entrance"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "harbor"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "harbor"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "boats"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Boats"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "race"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "committee",
+      "meaning": "комитет",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "committee"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "линия",
+      "sense": "mark",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "wreck",
+      "meaning": "затонувшее судно",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "wreck"
+        }
+      ]
+    },
+    {
+      "word": "end",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "end"
+        }
+      ]
+    },
+    {
+      "word": "dive",
+      "meaning": "погружение",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "dive"
+        }
+      ]
+    },
+    {
+      "word": "anchorage",
+      "meaning": "якорная стоянка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "anchorage"
+        }
+      ]
+    },
+    {
+      "word": "sunset",
+      "meaning": "закат",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "sunset"
+        }
+      ]
+    },
+    {
+      "word": "bird",
+      "meaning": "птица",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "birds"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "whale",
+      "meaning": "кит",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "whale"
+        }
+      ]
+    },
+    {
+      "word": "electrician",
+      "meaning": "электрик",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "electrician"
+        }
+      ]
+    },
+    {
+      "word": "fault",
+      "meaning": "неисправность",
+      "sense": "defect",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "faults"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "fault"
+        }
+      ]
+    },
+    {
+      "word": "wiring",
+      "meaning": "проводка",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "wiring"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "days"
+        }
+      ]
+    },
+    {
+      "word": "volunteer",
+      "meaning": "волонтёр",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "volunteers"
+        }
+      ]
+    },
+    {
+      "word": "mooring",
+      "meaning": "место швартовки",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "moorings"
+        }
+      ]
+    },
+    {
+      "word": "bay",
+      "meaning": "бухта",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "bay"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "bay"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "week"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "meaning": "буй",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "buoys"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "buoys"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "diver",
+      "meaning": "водолаз",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "divers"
+        }
+      ]
+    },
+    {
+      "word": "debris",
+      "meaning": "обломки",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "debris"
+        }
+      ]
+    },
+    {
+      "word": "scientist",
+      "meaning": "учёный",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "scientists"
+        }
+      ]
+    },
+    {
+      "word": "jellyfish",
+      "meaning": "медуза",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "jellyfish"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "years"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "kayak",
+      "meaning": "каяк",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "kayak"
+        }
+      ]
+    },
+    {
+      "word": "colour",
+      "meaning": "цвет",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "colour"
+        }
+      ]
+    },
+    {
+      "word": "source",
+      "meaning": "источник",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "source"
+        }
+      ]
+    },
+    {
+      "word": "noise",
+      "meaning": "шум",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "noise"
+        }
+      ]
+    },
+    {
+      "word": "helicopter",
+      "meaning": "вертолёт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "helicopter"
+        }
+      ]
+    },
+    {
+      "word": "horn",
+      "meaning": "гудок",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "horns"
+        }
+      ]
+    },
+    {
+      "word": "rot",
+      "meaning": "гниль",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "Rot"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "number",
+      "meaning": "номер",
+      "sense": "label",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "number"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "number"
+        }
+      ]
+    },
+    {
+      "word": "patrol",
+      "meaning": "патруль",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "patrol"
+        }
+      ]
+    },
+    {
+      "word": "safety",
+      "meaning": "безопасность",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "safety"
+        }
+      ]
+    },
+    {
+      "word": "inspection",
+      "meaning": "проверка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "inspection"
+        }
+      ]
+    },
+    {
+      "word": "drone",
+      "meaning": "дрон",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "drone"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Storm"
+        }
+      ]
+    },
+    {
+      "word": "damage",
+      "meaning": "ущерб",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "damage"
+        }
+      ]
+    },
+    {
+      "word": "air",
+      "meaning": "воздух",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "air"
+        }
+      ]
+    },
+    {
+      "word": "oil",
+      "meaning": "масло",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "oil"
+        }
+      ]
+    },
+    {
+      "word": "bilge",
+      "meaning": "трюм",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "bilge"
+        }
+      ]
+    },
+    {
+      "word": "place",
+      "meaning": "место",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "places"
+        }
+      ]
+    },
+    {
+      "word": "dolphin",
+      "meaning": "дельфин",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "dolphins"
+        }
+      ]
+    },
+    {
+      "word": "photo",
+      "meaning": "фото",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "photos"
+        }
+      ]
+    },
+    {
+      "word": "container",
+      "meaning": "контейнер",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "container"
+        }
+      ]
+    },
+    {
+      "word": "autopilot",
+      "meaning": "автопилот",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "autopilot"
+        }
+      ]
+    },
+    {
+      "word": "flag",
+      "meaning": "флаг",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "flag"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "reef",
+      "meaning": "риф",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "reef"
+        }
+      ]
+    },
+    {
+      "word": "owner",
+      "meaning": "владелец",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "owner"
+        }
+      ]
+    },
+    {
+      "word": "dinghy",
+      "meaning": "шлюпка",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "dinghy"
+        }
+      ]
+    },
+    {
+      "word": "horizon",
+      "meaning": "горизонт",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "horizon"
+        }
+      ]
+    },
+    {
+      "word": "weekend",
+      "meaning": "выходные",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "weekend"
+        }
+      ]
+    },
+    {
+      "word": "area",
+      "meaning": "район",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "area"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "fisherman",
+      "meaning": "рыбак",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "fisherman"
+        }
+      ]
+    },
+    {
+      "word": "shape",
+      "meaning": "форма",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "shape"
+        }
+      ]
+    },
+    {
+      "word": "caller",
+      "meaning": "звонящий",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "caller"
+        }
+      ]
+    }
   ]
 }

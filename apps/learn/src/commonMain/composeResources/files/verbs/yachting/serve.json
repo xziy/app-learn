@@ -41,10 +41,10 @@
         "form": "served",
         "examples": [
           {
-            "ours": "Вчера экипаж подал ужин.",
-            "thought": "Вчера [известный] экипаж подал ужин.",
-            "english": "Yesterday the crew served dinner.",
-            "transcription": "[й**э**стэдэй ðэ кру: сœ:вд д**и**нэ]"
+            "ours": "Вчера кок подал ужин прямо с камбуза.",
+            "thought": "Вчера [известный] кок подал ужин прямо из [известного] камбуза.",
+            "english": "Yesterday the cook served dinner straight from the galley.",
+            "transcription": "[й**э**стэдэй ðэ кук сœ:вд д**и**нэ стрэйт фром ðэ г**æ**ли]"
           },
           {
             "ours": "Моряк подал обед вчера?",
@@ -491,60 +491,6 @@
   },
   "nouns": [
     {
-      "word": "crew",
-      "meaning": "экипаж",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.present.1",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "crew"
-        }
-      ]
-    },
-    {
       "word": "dinner",
       "meaning": "ужин",
       "used_in": [
@@ -589,6 +535,18 @@
           "form": "dinner"
         },
         {
+          "phrase": "passive.simple.past.0",
+          "form": "Dinner"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Dinner"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "Dinner"
+        },
+        {
           "phrase": "passive.continuous.future.0",
           "form": "dinner"
         },
@@ -603,18 +561,26 @@
         {
           "phrase": "future_in_past.1",
           "form": "dinner"
-        },
+        }
+      ]
+    },
+    {
+      "word": "cook",
+      "meaning": "кок",
+      "used_in": [
         {
-          "phrase": "passive.simple.past.0",
-          "form": "Dinner"
-        },
+          "phrase": "active.simple.past.0",
+          "form": "cook"
+        }
+      ]
+    },
+    {
+      "word": "galley",
+      "meaning": "камбуз",
+      "used_in": [
         {
-          "phrase": "passive.simple.future.0",
-          "form": "Dinner"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "Dinner"
+          "phrase": "active.simple.past.0",
+          "form": "galley"
         }
       ]
     },
@@ -787,6 +753,16 @@
       ]
     },
     {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
       "word": "tea",
       "meaning": "чай",
       "used_in": [
@@ -839,6 +815,56 @@
         {
           "phrase": "active.simple.present.2",
           "form": "races"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
         }
       ]
     },
@@ -907,16 +933,6 @@
         {
           "phrase": "passive.simple.present.2",
           "form": "night"
-        }
-      ]
-    },
-    {
-      "word": "yacht",
-      "meaning": "яхта",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.1",
-          "form": "yacht"
         }
       ]
     }

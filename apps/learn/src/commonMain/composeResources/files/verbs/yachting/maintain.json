@@ -41,10 +41,10 @@
         "form": "maintained",
         "examples": [
           {
-            "ours": "Вчера экипаж обслужил двигатель.",
-            "thought": "Вчера [известный] экипаж обслужил [известный] двигатель.",
-            "english": "Yesterday the crew maintained the engine.",
-            "transcription": "[й**э**стэдэй ðэ кру: мэйнт**э**йнд ðи **э**нджин]"
+            "ours": "Вчера механик обслужил сейлдрайв.",
+            "thought": "Вчера [известный] механик обслужил [известный] сейлдрайв.",
+            "english": "Yesterday the mechanic maintained the saildrive.",
+            "transcription": "[й**э**стэдэй ðэ мик**æ**ник мэйнт**э**йнд ðэ с**э**йлдрайв]"
           },
           {
             "ours": "Моряк обслужил насос вчера?",
@@ -491,122 +491,22 @@
   },
   "nouns": [
     {
-      "word": "crew",
-      "meaning": "экипаж",
+      "word": "mechanic",
+      "meaning": "механик",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.simple.present.1",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.present.1",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "crew"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "crew"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "crew"
+          "form": "mechanic"
         }
       ]
     },
     {
-      "word": "engine",
-      "meaning": "двигатель",
+      "word": "saildrive",
+      "meaning": "сейлдрайв",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "engine"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "engine"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "engine"
-        },
-        {
-          "phrase": "active.continuous.present.2",
-          "form": "engine"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "engine"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "engine"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "engine"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.1",
-          "form": "engine"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.1",
-          "form": "engine"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.1",
-          "form": "engine"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "engine"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "engine"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "engine"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "engine"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "engine"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "engine"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "engine"
+          "form": "saildrive"
         }
       ]
     },
@@ -791,6 +691,48 @@
       ]
     },
     {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "crew"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "crew"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "crew"
+        }
+      ]
+    },
+    {
       "word": "generator",
       "meaning": "генератор",
       "used_in": [
@@ -835,6 +777,76 @@
         {
           "phrase": "active.simple.present.2",
           "form": "races"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "engine"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "engine"
         }
       ]
     },

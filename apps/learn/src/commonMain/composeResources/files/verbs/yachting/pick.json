@@ -87,10 +87,10 @@
         "form": "will pick",
         "examples": [
           {
-            "ours": "Завтра экипаж выберет якорный пункт.",
-            "thought": "Завтра [известный] экипаж будет выбирать [известный] якорный пункт.",
-            "english": "Tomorrow the crew will pick the mooring.",
-            "transcription": "[тэм**о**роу ðэ кру: wил пик ðэ м**у**эриŋ]"
+            "ours": "Завтра мы выберем в кормовом рундуке самые большие кранцы.",
+            "thought": "Завтра мы будем выбирать [известные] самые большие кранцы из [известного] кормового рундука.",
+            "english": "Tomorrow we will pick the largest fenders from the lazarette.",
+            "transcription": "[тэм**о**роу wи: wил пик ðэ л**а**:джист ф**э**ндэз фром ðэ лæзэр**э**т]"
           },
           {
             "ours": "Моряк выберет трос завтра?",
@@ -449,10 +449,6 @@
           "form": "crew"
         },
         {
-          "phrase": "active.simple.future.0",
-          "form": "crew"
-        },
-        {
           "phrase": "active.continuous.past.0",
           "form": "crew"
         },
@@ -488,10 +484,6 @@
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "mooring"
-        },
-        {
-          "phrase": "active.simple.future.0",
           "form": "mooring"
         },
         {
@@ -757,6 +749,26 @@
         {
           "phrase": "active.simple.present.2",
           "form": "storms"
+        }
+      ]
+    },
+    {
+      "word": "fender",
+      "meaning": "кранец",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "fenders"
+        }
+      ]
+    },
+    {
+      "word": "lazarette",
+      "meaning": "кормовой рундук",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "lazarette"
         }
       ]
     },

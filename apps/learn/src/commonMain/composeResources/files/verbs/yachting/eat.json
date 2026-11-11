@@ -87,10 +87,10 @@
         "form": "will eat",
         "examples": [
           {
-            "ours": "Завтра мы будем есть на палубе.",
-            "thought": "Завтра мы будем есть на палубе.",
-            "english": "Tomorrow we will eat on deck.",
-            "transcription": "[тэм**о**роу wи: wил и:т он дэк]"
+            "ours": "Завтра мы поедим в кают-компании.",
+            "thought": "Завтра мы будем есть в [известной] кают-компании.",
+            "english": "Tomorrow we will eat in the saloon.",
+            "transcription": "[тэм**о**роу wи: wил и:т ин ðэ сэл**у**:н]"
           },
           {
             "ours": "Ты съешь обед?",
@@ -461,10 +461,6 @@
           "form": "deck"
         },
         {
-          "phrase": "active.simple.future.0",
-          "form": "deck"
-        },
-        {
           "phrase": "active.continuous.past.0",
           "form": "deck"
         },
@@ -675,6 +671,16 @@
         {
           "phrase": "passive.simple.present.0",
           "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "saloon",
+      "meaning": "кают-компания",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "saloon"
         }
       ]
     },

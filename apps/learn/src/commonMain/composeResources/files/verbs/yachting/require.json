@@ -138,10 +138,10 @@
             "transcription": "[ðэ **э**нджин хæз рикw**а**йэд м**э**йнтэнэнс синс дип**а**:чэ]"
           },
           {
-            "ours": "С момента выхода яхте требовался ремонт?",
-            "thought": "Имеет [известная] яхта потребованным ремонт с выхода?",
-            "english": "Has the yacht required repairs since departure?",
-            "transcription": "[хæз ðэ йот рикw**а**йэд рип**э**эз синс дип**а**:чэ]"
+            "ours": "С момента выхода сейлдрайву требовался ремонт?",
+            "thought": "Имеет [известный] сейлдрайв потребованным ремонт с выхода?",
+            "english": "Has the saildrive required repairs since departure?",
+            "transcription": "[хæз ðэ с**э**йлдрайв рикw**а**йэд рип**э**эз синс дип**а**:чэ]"
           }
         ]
       },
@@ -503,10 +503,6 @@
           "form": "yacht"
         },
         {
-          "phrase": "active.perfect.present.1",
-          "form": "yacht"
-        },
-        {
           "phrase": "future_in_past.0",
           "form": "yacht"
         }
@@ -639,6 +635,16 @@
         {
           "phrase": "passive.simple.future.2",
           "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "saildrive",
+      "meaning": "сейлдрайв",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "saildrive"
         }
       ]
     },

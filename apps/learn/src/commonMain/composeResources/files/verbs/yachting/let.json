@@ -41,10 +41,10 @@
         "form": "let",
         "examples": [
           {
-            "ours": "Вчера капитан разрешил мне управлять яхтой.",
-            "thought": "Вчера [известный] капитан позволил мне управлять [известной] яхтой.",
-            "english": "Yesterday the skipper let me steer the yacht.",
-            "transcription": "[й**э**стэдэй ðэ ск**и**пэ лэт ми: стиэ ðэ йот]"
+            "ours": "Вчера инструктор разрешил мне потравить оттяжку гика.",
+            "thought": "Вчера [известный] инструктор позволил мне ослабить [известную] оттяжку гика.",
+            "english": "Yesterday the instructor let me ease the kicker.",
+            "transcription": "[й**э**стэдэй ðи инстр**а**ктэ лэт ми: и:з ðэ к**и**кэ]"
           },
           {
             "ours": "Она не разрешила нам бросить якорь.",
@@ -300,102 +300,22 @@
   },
   "nouns": [
     {
-      "word": "skipper",
-      "meaning": "капитан",
+      "word": "instructor",
+      "meaning": "инструктор",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.simple.present.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "skipper"
+          "form": "instructor"
         }
       ]
     },
     {
-      "word": "yacht",
-      "meaning": "яхта",
+      "word": "kicker",
+      "meaning": "оттяжка гика",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.simple.present.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.continuous.future.1",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.1",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.1",
-          "form": "yacht"
+          "form": "kicker"
         }
       ]
     },
@@ -464,6 +384,98 @@
         {
           "phrase": "future_in_past.0",
           "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "skipper"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "yacht"
         }
       ]
     },

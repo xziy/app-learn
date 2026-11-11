@@ -41,10 +41,10 @@
         "form": "took",
         "examples": [
           {
-            "ours": "Вчера я взял карту.",
-            "thought": "Вчера я взял [известную] карту.",
-            "english": "Yesterday I took the chart.",
-            "transcription": "[й**э**стэдэй ай тук ðэ ча:т]"
+            "ours": "Вчера я достал кранцы из кормового рундука.",
+            "thought": "Вчера я взял [известные] кранцы наружу из [известного] кормового рундука.",
+            "english": "Yesterday I took the fenders out of the lazarette.",
+            "transcription": "[й**э**стэдэй ай тук ðэ ф**э**ндэз аут ов ðэ лæзэр**э**т]"
           },
           {
             "ours": "Ты взял компас?",
@@ -449,56 +449,22 @@
   },
   "nouns": [
     {
-      "word": "chart",
-      "meaning": "морская карта",
+      "word": "fender",
+      "meaning": "кранец",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "chart"
-        },
+          "form": "fenders"
+        }
+      ]
+    },
+    {
+      "word": "lazarette",
+      "meaning": "кормовой рундук",
+      "used_in": [
         {
-          "phrase": "active.simple.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "chart"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "chart"
+          "phrase": "active.simple.past.0",
+          "form": "lazarette"
         }
       ]
     },
@@ -615,6 +581,56 @@
         {
           "phrase": "active.simple.present.0",
           "form": "watch"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "chart"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "chart"
         }
       ]
     },

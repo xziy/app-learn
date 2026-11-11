@@ -64,10 +64,10 @@
         "form": "control, controls",
         "examples": [
           {
-            "ours": "Капитан управляет скоростью яхты.",
-            "thought": "[Известный] капитан контролирует [известной] яхты скорость.",
-            "english": "The captain controls the yacht speed.",
-            "transcription": "[ðэ к**æ**птин кэнтр**о**улз ðэ йот спи:д]"
+            "ours": "Оттяжка гика управляет задней шкаториной.",
+            "thought": "[Известная] оттяжка гика контролирует [известную] заднюю шкаторину.",
+            "english": "The kicker controls the leech.",
+            "transcription": "[ðэ к**и**кэ кэнтр**о**улз ðэ ли:ч]"
           },
           {
             "ours": "Он не управляет парусами на борту.",
@@ -296,10 +296,10 @@
             "transcription": "[ðэ йот из кэнтр**о**улд м**æ**ньюэли]"
           },
           {
-            "ours": "Паруса управляются с палубы?",
-            "thought": "Есть [известные] паруса контролируемы с [известной] палубы?",
-            "english": "Are the sails controlled from the deck?",
-            "transcription": "[а: ðэ сэйлз кэнтр**о**улд фром ðэ дэк]"
+            "ours": "Нижней шкаториной грота управляют из кокпита?",
+            "thought": "Есть [известная] нижняя шкаторина от [известного] грота контролируема из [известного] кокпита?",
+            "english": "Is the foot of the mainsail controlled from the cockpit?",
+            "transcription": "[из ðэ фут ов ðэ м**э**йнсэйл кэнтр**о**улд фром ðэ к**о**кпит]"
           }
         ]
       },
@@ -450,10 +450,6 @@
           "form": "yacht"
         },
         {
-          "phrase": "active.simple.present.0",
-          "form": "yacht"
-        },
-        {
           "phrase": "active.simple.future.0",
           "form": "yacht"
         },
@@ -559,10 +555,6 @@
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.simple.present.0",
           "form": "speed"
         },
         {
@@ -690,20 +682,23 @@
       ]
     },
     {
-      "word": "captain",
-      "meaning": "капитан",
+      "word": "kicker",
+      "meaning": "оттяжка гика",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "captain"
-        },
+          "form": "kicker"
+        }
+      ]
+    },
+    {
+      "word": "leech",
+      "meaning": "задняя шкаторина",
+      "sense": "sail",
+      "used_in": [
         {
-          "phrase": "future_in_past.0",
-          "form": "captain"
-        },
-        {
-          "phrase": "future_in_past.2",
-          "form": "captain"
+          "phrase": "active.simple.present.0",
+          "form": "leech"
         }
       ]
     },
@@ -717,10 +712,6 @@
         },
         {
           "phrase": "active.continuous.present.1",
-          "form": "sails"
-        },
-        {
-          "phrase": "passive.simple.present.1",
           "form": "sails"
         }
       ]
@@ -798,12 +789,47 @@
       ]
     },
     {
-      "word": "deck",
-      "meaning": "палуба",
+      "word": "foot",
+      "meaning": "нижняя шкаторина",
+      "sense": "sail",
       "used_in": [
         {
           "phrase": "passive.simple.present.1",
-          "form": "deck"
+          "form": "foot"
+        }
+      ]
+    },
+    {
+      "word": "mainsail",
+      "meaning": "грот",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "mainsail"
+        }
+      ]
+    },
+    {
+      "word": "cockpit",
+      "meaning": "кокпит",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "cockpit"
+        }
+      ]
+    },
+    {
+      "word": "captain",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "captain"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "captain"
         }
       ]
     }

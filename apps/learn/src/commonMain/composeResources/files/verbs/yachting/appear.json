@@ -47,10 +47,10 @@
             "transcription": "[й**э**стэдэй эн **а**йлэнд эп**и**эд эх**э**д]"
           },
           {
-            "ours": "Маяк появился в тумане?",
-            "thought": "[Сделал] [известный] маяк появиться в [известном] тумане?",
-            "english": "Did the lighthouse appear in the fog?",
-            "transcription": "[дид ðэ л**а**йтхаус эп**и**э ин ðэ фог]"
+            "ours": "Маяк показался на правом траверзе?",
+            "thought": "[Сделал] [известный] маяк появляться на [известном] правом траверзе?",
+            "english": "Did the lighthouse appear on the starboard beam?",
+            "transcription": "[дид ðэ л**а**йтхаус эп**и**э он ðэ ст**а**:бэд би:м]"
           },
           {
             "ours": "Катер не появился до рассвета.",
@@ -182,10 +182,10 @@
         "form": "have/has appeared",
         "examples": [
           {
-            "ours": "Остров уже появился впереди.",
-            "thought": "[Известный] остров имеет уже появившимся впереди.",
-            "english": "The island has already appeared ahead.",
-            "transcription": "[ðи **а**йлэнд хæз о:лр**э**ди эп**и**эд эх**э**д]"
+            "ours": "Остров уже показался слева по носу.",
+            "thought": "[Известный] остров имеет уже появившимся на [известной] левой скуле.",
+            "english": "The island has already appeared on the port bow.",
+            "transcription": "[ðи **а**йлэнд хæз о:лр**э**ди эп**и**эд он ðэ по:т бау]"
           },
           {
             "ours": "Маяк уже появился?",
@@ -306,24 +306,12 @@
       ]
     },
     {
-      "word": "fog",
-      "meaning": "туман",
+      "word": "starboard beam",
+      "meaning": "правый траверз",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "fog"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "fog"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "fog"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "fog"
+          "form": "starboard beam"
         }
       ]
     },
@@ -444,6 +432,24 @@
       ]
     },
     {
+      "word": "fog",
+      "meaning": "туман",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "fog"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "fog"
+        }
+      ]
+    },
+    {
       "word": "boat",
       "meaning": "лодка",
       "used_in": [
@@ -508,6 +514,16 @@
         {
           "phrase": "active.perfect.future.0",
           "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "port bow",
+      "meaning": "левая скула",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "port bow"
         }
       ]
     }

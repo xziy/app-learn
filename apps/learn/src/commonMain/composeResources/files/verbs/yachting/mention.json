@@ -41,10 +41,10 @@
         "form": "mentioned",
         "examples": [
           {
-            "ours": "Вчера шкипер упомянул течь.",
-            "thought": "Вчера [известный] шкипер упомянул [какую-то] течь.",
-            "english": "Yesterday the skipper mentioned a leak.",
-            "transcription": "[й**э**стэдэй ðэ ск**и**пэ м**э**ншнд э ли:к]"
+            "ours": "Вчера шкипер упомянул огонь у нас справа по корме.",
+            "thought": "Вчера [известный] шкипер упомянул [какой-то] огонь на нашей правой раковине.",
+            "english": "Yesterday the skipper mentioned a light on our starboard quarter.",
+            "transcription": "[й**э**стэдэй ðэ ск**и**пэ м**э**ншнд э лайт он ауэ ст**а**:бэд кw**о**:тэ]"
           },
           {
             "ours": "Он не упомянул прогноз.",
@@ -469,12 +469,22 @@
       ]
     },
     {
-      "word": "leak",
-      "meaning": "течь",
+      "word": "light",
+      "meaning": "огонь",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "leak"
+          "form": "light"
+        }
+      ]
+    },
+    {
+      "word": "starboard quarter",
+      "meaning": "правая раковина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "starboard quarter"
         }
       ]
     },

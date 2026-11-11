@@ -64,10 +64,10 @@
         "form": "open, opens",
         "examples": [
           {
-            "ours": "Марина открывается в восемь.",
-            "thought": "[Известная] марина открывается в восемь.",
-            "english": "The marina opens at eight.",
-            "transcription": "[ðэ мэр**и**:нэ **о**упэнз æт эйт]"
+            "ours": "Если потравить оттяжку гика, задняя шкаторина открывается.",
+            "thought": "Потравливание [известной] оттяжки гика открывает [известную] заднюю шкаторину.",
+            "english": "Easing the kicker opens the leech.",
+            "transcription": "[**и**:зиŋ ðэ к**и**кэ **о**упэнз ðэ ли:ч]"
           },
           {
             "ours": "Ты открываешь люк каждый день?",
@@ -76,10 +76,10 @@
             "transcription": "[ду: ю: **о**упэн ðэ хæч **э**ври дэй]"
           },
           {
-            "ours": "Мы не открываем рундуки в море.",
-            "thought": "Мы [делаем] не открывать рундуки в море.",
-            "english": "We do not open lockers at sea.",
-            "transcription": "[wи: ду: нот **о**упэн л**о**кэз æт си:]"
+            "ours": "Мы не открываем стопор под нагрузкой.",
+            "thought": "Мы [делаем] не открывать [известный] стопор под нагрузкой.",
+            "english": "We do not open the jammer under load.",
+            "transcription": "[wи: ду: нот **о**упэн ðэ дж**æ**мэ **а**ндэ лоуд]"
           }
         ]
       },
@@ -135,10 +135,10 @@
             "transcription": "[wи: а: **о**упэниŋ ðэ хæч нау]"
           },
           {
-            "ours": "Шкипер сейчас открывает кингстон?",
-            "thought": "Является [известный] шкипер открывающим [известный] кингстон сейчас?",
-            "english": "Is the skipper opening the seacock now?",
-            "transcription": "[из ðэ ск**и**пэ **о**упэниŋ ðэ с**и**:кок нау]"
+            "ours": "Ты сейчас открываешь сходной люк?",
+            "thought": "Являешься ты открывающим [известный] сходной люк сейчас?",
+            "english": "Are you opening the companionway now?",
+            "transcription": "[а: ю: **о**упэниŋ ðэ кэмп**æ**ньэнwэй нау]"
           }
         ]
       },
@@ -543,10 +543,6 @@
           "form": "seacock"
         },
         {
-          "phrase": "active.continuous.present.1",
-          "form": "seacock"
-        },
-        {
           "phrase": "active.perfect.past.1",
           "form": "seacock"
         },
@@ -575,10 +571,6 @@
         {
           "phrase": "active.simple.past.2",
           "form": "locker"
-        },
-        {
-          "phrase": "active.simple.present.2",
-          "form": "lockers"
         },
         {
           "phrase": "active.continuous.past.0",
@@ -635,16 +627,23 @@
       ]
     },
     {
-      "word": "marina",
-      "meaning": "марина",
+      "word": "kicker",
+      "meaning": "оттяжка гика",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "marina"
-        },
+          "form": "kicker"
+        }
+      ]
+    },
+    {
+      "word": "leech",
+      "meaning": "задняя шкаторина",
+      "sense": "sail",
+      "used_in": [
         {
-          "phrase": "active.simple.future.2",
-          "form": "marina"
+          "phrase": "active.simple.present.0",
+          "form": "leech"
         }
       ]
     },
@@ -659,12 +658,32 @@
       ]
     },
     {
-      "word": "sea",
-      "meaning": "море",
+      "word": "jammer",
+      "meaning": "стопор",
       "used_in": [
         {
           "phrase": "active.simple.present.2",
-          "form": "sea"
+          "form": "jammer"
+        }
+      ]
+    },
+    {
+      "word": "load",
+      "meaning": "нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "load"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "marina"
         }
       ]
     },
@@ -701,12 +720,12 @@
       ]
     },
     {
-      "word": "skipper",
-      "meaning": "шкипер",
+      "word": "companionway",
+      "meaning": "сходной люк",
       "used_in": [
         {
           "phrase": "active.continuous.present.1",
-          "form": "skipper"
+          "form": "companionway"
         }
       ]
     },

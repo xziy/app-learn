@@ -47,16 +47,16 @@
             "transcription": "[й**э**стэдэй wи: со: ðэ л**а**йтхаус]"
           },
           {
-            "ours": "Капитан не увидел буй.",
-            "thought": "[Известный] шкипер [сделал] не видеть [известный] буй.",
-            "english": "The skipper did not see the buoy.",
-            "transcription": "[ðэ ск**и**пэ дид нот си: ðэ бой]"
+            "ours": "Я не увидел буй впереди.",
+            "thought": "Я [сделал] не видеть [известный] буй впереди.",
+            "english": "I did not see the buoy ahead.",
+            "transcription": "[ай дид нот си: ðэ бой эх**э**д]"
           },
           {
-            "ours": "Ты видел яхту?",
-            "thought": "[Сделал] ты видеть [известную] яхту?",
-            "english": "Did you see the yacht?",
-            "transcription": "[дид ю: си: ðэ йот]"
+            "ours": "Ты видел судно слева по носу?",
+            "thought": "[Сделал] ты видеть [известное] судно на [известной] левой скуле?",
+            "english": "Did you see the ship on the port bow?",
+            "transcription": "[дид ю: си: ðэ шип он ðэ по:т бау]"
           }
         ]
       },
@@ -76,10 +76,10 @@
             "transcription": "[ши: даз нот си: ðэ х**а**:бэ фром хиэ]"
           },
           {
-            "ours": "Ты видишь парус?",
-            "thought": "[Делаешь] ты видеть [известный] парус?",
-            "english": "Do you see the sail?",
-            "transcription": "[ду: ю: си: ðэ сэйл]"
+            "ours": "Видишь, передняя шкаторина заполаскивает?",
+            "thought": "[Делаешь] ты видеть [известную] переднюю шкаторину трясущейся?",
+            "english": "Do you see the luff shaking?",
+            "transcription": "[ду: ю: си: ðэ лаф ш**э**йкиŋ]"
           }
         ]
       },
@@ -371,24 +371,6 @@
       ]
     },
     {
-      "word": "skipper",
-      "meaning": "капитан",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.1",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.simple.future.1",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "skipper"
-        }
-      ]
-    },
-    {
       "word": "buoy",
       "meaning": "буй",
       "used_in": [
@@ -419,36 +401,22 @@
       ]
     },
     {
-      "word": "yacht",
-      "meaning": "яхта",
+      "word": "ship",
+      "meaning": "судно",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "yacht"
-        },
+          "form": "ship"
+        }
+      ]
+    },
+    {
+      "word": "port bow",
+      "meaning": "левая скула",
+      "used_in": [
         {
-          "phrase": "active.perfect.present.1",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "yacht"
+          "phrase": "active.simple.past.2",
+          "form": "port bow"
         }
       ]
     },
@@ -493,28 +461,12 @@
       ]
     },
     {
-      "word": "sail",
-      "meaning": "парус",
+      "word": "luff",
+      "meaning": "передняя шкаторина",
       "used_in": [
         {
           "phrase": "active.simple.present.2",
-          "form": "sail"
-        },
-        {
-          "phrase": "active.perfect.past.2",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.simple.future.2",
-          "form": "sail"
-        },
-        {
-          "phrase": "passive.perfect.present.2",
-          "form": "sail"
+          "form": "luff"
         }
       ]
     },
@@ -541,6 +493,72 @@
         {
           "phrase": "future_in_past.0",
           "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "skipper"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "sail"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "yacht"
         }
       ]
     },

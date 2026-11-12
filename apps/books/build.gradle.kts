@@ -67,8 +67,10 @@ compose.resources {
  * A book is `../texts/<name>/book.json`, which the dragunkin-text skill's `render_text.py` writes next to the md (its
  * SKILL.md, «Книга для читалки»). This copies every book into the app as `files/books/<name>.json` and lists them in
  * `files/books/index.json`, with what the shelf shows of each, because resources cannot be listed at run time and the
- * shelf should not have to read whole books. The copy is part of the repository, so a checkout without `../texts`
- * — CI — still builds with the books. A text without `book.json` (one that does not pass the skill's check) is left out.
+ * shelf should not have to read whole books. The copy stays out of git (`.gitignore`): the repository is public and
+ * some texts are under copyright, so a build from a clean checkout — CI — carries no books, and its shelf has only
+ * what the person downloads (an archive the skill's `pack_book.py` makes). A text without `book.json` (one that does
+ * not pass the skill's check) is left out.
  *
  *     ./gradlew :apps:books:syncBooks
  */

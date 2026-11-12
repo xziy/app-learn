@@ -34,6 +34,14 @@
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<!--
+	  The apps' folders (Superizer's AppFolder) are in Documents: these two let Files show them under the host,
+	  so a book the reader downloaded can be found there, and a .book.tgz copied in shows on its shelf.
+	-->
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<true/>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>

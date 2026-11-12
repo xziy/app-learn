@@ -39,6 +39,23 @@ internal data class BooksStrings(
     val notInDictionary: String,
     val notes: String,
     val done: String,
+    val addBook: String,
+    val fetchTitle: String,
+    val fetchHint: String,
+    val linkPlaceholder: String,
+    val linkLabel: String,
+    val scan: String,
+    val download: String,
+    val downloading: String,
+    val outcome: (Outcome, title: String) -> String,
+    val readNow: String,
+    val problem: (FetchProblem, status: Int?) -> String,
+    /** Where the downloaded books are: [location] is a path, or on iOS the folder in Files. */
+    val folder: (location: String, inFiles: Boolean) -> String,
+    val downloaded: String,
+    val remove: String,
+    val removeConfirm: String,
+    val keep: String,
 ) {
     companion object {
         val Ru = BooksStrings(
@@ -115,6 +132,43 @@ internal data class BooksStrings(
             notInDictionary = "В словаре этого слова пока нет",
             notes = "Заметки",
             done = "Готово",
+            addBook = "Загрузить книгу",
+            fetchTitle = "Загрузка книги",
+            fetchHint = "Вставьте ссылку на книгу — файл .book.tgz — или прочитайте её QR-код.",
+            linkPlaceholder = "https://…/книга.book.tgz",
+            linkLabel = "Ссылка на книгу",
+            scan = "Прочитать QR-код",
+            download = "Скачать",
+            downloading = "Скачиваю…",
+            outcome = { outcome, title ->
+                when (outcome) {
+                    Outcome.Added -> "«$title» на полке"
+                    Outcome.Updated -> "«$title» обновлена"
+                    Outcome.Same -> "«$title» уже на полке, эта же версия"
+                }
+            },
+            readNow = "Читать",
+            problem = { problem, status ->
+                when (problem) {
+                    FetchProblem.NotALink -> "Это не ссылка на книгу. Ссылка начинается с https://"
+                    FetchProblem.NoAnswer -> "Не удалось скачать: нет ответа. Проверьте интернет и ссылку."
+                    FetchProblem.Status -> "Не удалось скачать: сервер ответил $status."
+                    FetchProblem.NotABook -> "По этой ссылке не книга. Нужен файл .book.tgz."
+                    FetchProblem.Damaged -> "Файл книги повреждён. Скачайте его ещё раз."
+                    FetchProblem.Newer -> "Эта книга для новой версии приложения. Обновите приложение."
+                    FetchProblem.TooLarge -> "Файл слишком большой для книги."
+                    FetchProblem.CannotSave -> "Не удалось сохранить книгу на устройстве."
+                    FetchProblem.Unavailable -> "Здесь книги не скачиваются."
+                }
+            },
+            folder = { location, inFiles ->
+                val where = if (inFiles) "Файлы › На iPhone › " + location.replace("/", " › ") else location
+                "Скачанные книги лежат в папке: $where. Туда можно положить файл .book.tgz и самому."
+            },
+            downloaded = "Скачана",
+            remove = "Удалить",
+            removeConfirm = "Удалить книгу",
+            keep = "Оставить",
         )
 
         val En = BooksStrings(
@@ -191,6 +245,43 @@ internal data class BooksStrings(
             notInDictionary = "The dictionary does not have this word yet",
             notes = "Notes",
             done = "Done",
+            addBook = "Add a book",
+            fetchTitle = "Add a book",
+            fetchHint = "Paste a link to a book — a .book.tgz file — or read its QR code.",
+            linkPlaceholder = "https://…/book.book.tgz",
+            linkLabel = "Link to the book",
+            scan = "Read a QR code",
+            download = "Download",
+            downloading = "Downloading…",
+            outcome = { outcome, title ->
+                when (outcome) {
+                    Outcome.Added -> "“$title” is on the shelf"
+                    Outcome.Updated -> "“$title” is updated"
+                    Outcome.Same -> "“$title” is on the shelf already, the same version"
+                }
+            },
+            readNow = "Read",
+            problem = { problem, status ->
+                when (problem) {
+                    FetchProblem.NotALink -> "This is not a link to a book. A link starts with https://"
+                    FetchProblem.NoAnswer -> "Could not download: no answer. Check the connection and the link."
+                    FetchProblem.Status -> "Could not download: the server answered $status."
+                    FetchProblem.NotABook -> "This link is not a book. It has to be a .book.tgz file."
+                    FetchProblem.Damaged -> "The book's file is damaged. Download it again."
+                    FetchProblem.Newer -> "This book is for a newer version of the app. Update the app."
+                    FetchProblem.TooLarge -> "The file is too large for a book."
+                    FetchProblem.CannotSave -> "Could not save the book on this device."
+                    FetchProblem.Unavailable -> "Books cannot be downloaded here."
+                }
+            },
+            folder = { location, inFiles ->
+                val where = if (inFiles) "Files › On My iPhone › " + location.replace("/", " › ") else location
+                "Downloaded books are in the folder $where. A .book.tgz file put there by hand shows too."
+            },
+            downloaded = "Downloaded",
+            remove = "Delete",
+            removeConfirm = "Delete the book",
+            keep = "Keep",
         )
 
         fun of(locale: LocaleService): BooksStrings = locale.pick(mapOf("ru" to Ru, "en" to En), fallback = Ru)

@@ -9,7 +9,7 @@ kotlinxCoroutines = "1.10.2"
 kotlinxSerializationJson = "1.9.0"
 
 # The library. Bumped by an explicit commit.
-superizer = "0.8.1"
+superizer = "0.8.2"
 
 [libraries]
 compose-runtime = { module = "org.jetbrains.compose.runtime:runtime", version.ref = "composeMultiplatform" }

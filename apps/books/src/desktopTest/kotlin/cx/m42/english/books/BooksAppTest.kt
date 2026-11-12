@@ -60,15 +60,15 @@ class BooksAppTest {
 
     private fun app(shelf: TwoBooks = TwoBooks()) = BooksApp(shelf)
 
-    private fun AppTestScope<Unit>.stored(key: String): String? = runtime.storage.entries[key]
+    private fun AppTestScope<BooksConfig>.stored(key: String): String? = runtime.storage.entries[key]
 
-    private fun AppTestScope<Unit>.openDogs() {
+    private fun AppTestScope<BooksConfig>.openDogs() {
         click("books:book-dogs")
         assertShown("books:reader")
     }
 
     /** A tap on the first noun of a text, where its layout puts it. */
-    private fun AppTestScope<Unit>.tapNoun(tag: String, word: String) {
+    private fun AppTestScope<BooksConfig>.tapNoun(tag: String, word: String) {
         val layouts = mutableListOf<TextLayoutResult>()
         node(tag).fetchSemanticsNode().config[SemanticsActions.GetTextLayoutResult].action?.invoke(layouts)
         val layout = layouts.first()
@@ -80,7 +80,7 @@ class BooksAppTest {
     }
 
     /** A tap on a text away from its nouns: at its last letter. */
-    private fun AppTestScope<Unit>.tapText(tag: String) {
+    private fun AppTestScope<BooksConfig>.tapText(tag: String) {
         val layouts = mutableListOf<TextLayoutResult>()
         node(tag).fetchSemanticsNode().config[SemanticsActions.GetTextLayoutResult].action?.invoke(layouts)
         val layout = layouts.first()

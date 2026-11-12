@@ -56,9 +56,11 @@ class EnglishHostTest {
         PrefsStorage.useDirectory(storage)
     }
 
+    // The apps' folders too: the reader lists its folder for downloaded books, and it is not the developer's own.
     private fun host(): Superizer =
-        buildEnglishHost(CoroutineScope(SupervisorJob() + Dispatchers.Unconfined), debug = true)
-            .also { it.settings.chooseLanguage("ru") }
+        buildEnglishHost(CoroutineScope(SupervisorJob() + Dispatchers.Unconfined), debug = true) {
+            appFolders(File(storage, "folders").path)
+        }.also { it.settings.chooseLanguage("ru") }
 
     private fun ComposeUiTest.shot(name: String) {
         waitForIdle()

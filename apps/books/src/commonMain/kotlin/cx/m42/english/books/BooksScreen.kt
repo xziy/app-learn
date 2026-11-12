@@ -6,6 +6,7 @@ import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.fillMaxHeight
@@ -26,7 +27,9 @@ import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.key
+import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -39,8 +42,12 @@ import androidx.compose.ui.unit.dp
 import com.composeunstyled.Text
 import cx.m42.superizer.theme.AppTheme
 import cx.m42.superizer.theme.LocalTokens
+import cx.m42.superizer.ui.components.AppButton
 import cx.m42.superizer.ui.components.BackIcon
+import cx.m42.superizer.ui.components.ButtonSize
+import cx.m42.superizer.ui.components.ButtonVariant
 import cx.m42.superizer.ui.components.IconButton
+import cx.m42.superizer.ui.components.PlusIcon
 
 /** What the arrow at the top takes up: the shelf starts below it. */
 internal val ArrowRoom = 64.dp
@@ -58,6 +65,7 @@ internal fun BooksScreen(instance: BooksInstance, strings: BooksStrings) {
     val shelf by instance.shelf.collectAsState()
     val opened by instance.opened.collectAsState()
     val places by instance.places.collectAsState()
+    val fetch by instance.fetch.collectAsState()
     val colors = remember(settings.paper) { settings.paper.colors() }
     val host = AppTheme
     val tokens = remember(host, colors) { host.on(colors) }
@@ -67,7 +75,17 @@ internal fun BooksScreen(instance: BooksInstance, strings: BooksStrings) {
     CompositionLocalProvider(LocalTokens provides tokens) {
         Box(Modifier.fillMaxSize().background(colors.background)) {
             when (val current = opened) {
-                null -> ShelfScreen(shelf, places, strings, colors, instance::open, instance::close, shelfScroll)
+                null -> fetch?.let { FetchScreen(instance, it, strings, colors) } ?: ShelfScreen(
+                    shelf = shelf,
+                    places = places,
+                    strings = strings,
+                    colors = colors,
+                    onOpen = instance::open,
+                    onClose = instance::close,
+                    list = shelfScroll,
+                    onAdd = if (instance.canFetch) instance::openFetch else null,
+                    onRemove = instance::remove,
+                )
                 is Opened.Loading -> TopArrow(strings.back, "books:back", instance::closeBook)
                 is Opened.Failed -> {
                     Text(
@@ -105,17 +123,34 @@ private fun ShelfScreen(
     onOpen: (String) -> Unit,
     onClose: () -> Unit,
     list: LazyListState,
+    /** Null where the host cannot download or keep books for this app: no button to promise it. */
+    onAdd: (() -> Unit)?,
+    onRemove: (String) -> Unit,
 ) {
     Box(Modifier.fillMaxSize()) {
         when (shelf) {
             Shelf.Loading -> Unit
             is Shelf.Ready -> if (shelf.books.isEmpty()) {
-                Text(
-                    text = strings.empty,
-                    style = AppTheme.body,
-                    color = colors.muted,
-                    modifier = Modifier.align(Alignment.Center).testTag("books:empty"),
-                )
+                Column(
+                    modifier = Modifier.align(Alignment.Center).padding(24.dp),
+                    horizontalAlignment = Alignment.CenterHorizontally,
+                    verticalArrangement = Arrangement.spacedBy(16.dp),
+                ) {
+                    Text(
+                        text = strings.empty,
+                        style = AppTheme.body,
+                        color = colors.muted,
+                        modifier = Modifier.testTag("books:empty"),
+                    )
+                    if (onAdd != null) {
+                        AppButton(
+                            text = strings.addBook,
+                            onClick = onAdd,
+                            size = ButtonSize.Default,
+                            modifier = Modifier.testTag("books:add"),
+                        )
+                    }
+                }
             } else {
                 LazyColumn(
                     state = list,
@@ -130,15 +165,25 @@ private fun ShelfScreen(
                     horizontalAlignment = Alignment.CenterHorizontally,
                 ) {
                     item {
-                        Text(
-                            text = strings.shelfTitle,
-                            style = AppTheme.title,
-                            color = colors.text,
+                        Row(
                             modifier = Modifier.widthIn(max = PageWidth).fillMaxWidth().padding(bottom = 6.dp),
-                        )
+                            verticalAlignment = Alignment.CenterVertically,
+                        ) {
+                            Text(
+                                text = strings.shelfTitle,
+                                style = AppTheme.title,
+                                color = colors.text,
+                                modifier = Modifier.weight(1f),
+                            )
+                            if (onAdd != null) {
+                                IconButton(onClick = onAdd, label = strings.addBook, modifier = Modifier.testTag("books:add")) { tint ->
+                                    PlusIcon(tint)
+                                }
+                            }
+                        }
                     }
                     items(shelf.books, key = { it.slug }) { book ->
-                        BookRow(book, places[book.slug], strings, colors) { onOpen(book.slug) }
+                        BookRow(book, places[book.slug], strings, colors, onOpen = { onOpen(book.slug) }, onRemove = { onRemove(book.slug) })
                     }
                 }
             }
@@ -148,8 +193,16 @@ private fun ShelfScreen(
 }
 
 @Composable
-private fun BookRow(book: BookInfo, place: Place?, strings: BooksStrings, colors: PaperColors, onOpen: () -> Unit) {
+private fun BookRow(
+    book: BookInfo,
+    place: Place?,
+    strings: BooksStrings,
+    colors: PaperColors,
+    onOpen: () -> Unit,
+    onRemove: () -> Unit,
+) {
     val percent = percentRead(place, book.paragraphs)
+    var confirming by remember(book.slug, book.file) { mutableStateOf(false) }
     Column(
         modifier = Modifier
             .widthIn(max = PageWidth)
@@ -180,6 +233,40 @@ private fun BookRow(book: BookInfo, place: Place?, strings: BooksStrings, colors
             color = colors.muted,
             modifier = Modifier.testTag("books:read-${book.slug}"),
         )
+        // A downloaded book can go again, from the shelf as from the folder; one the build carries cannot.
+        if (book.file != null) {
+            Row(
+                modifier = Modifier.fillMaxWidth().padding(top = 4.dp),
+                verticalAlignment = Alignment.CenterVertically,
+                horizontalArrangement = Arrangement.spacedBy(8.dp),
+            ) {
+                Text(text = strings.downloaded, style = AppTheme.footnote, color = colors.muted, modifier = Modifier.weight(1f))
+                if (confirming) {
+                    AppButton(
+                        text = strings.removeConfirm,
+                        onClick = onRemove,
+                        variant = ButtonVariant.Destructive,
+                        size = ButtonSize.Sm,
+                        modifier = Modifier.testTag("books:remove-confirm-${book.slug}"),
+                    )
+                    AppButton(
+                        text = strings.keep,
+                        onClick = { confirming = false },
+                        variant = ButtonVariant.Ghost,
+                        size = ButtonSize.Sm,
+                        modifier = Modifier.testTag("books:remove-keep-${book.slug}"),
+                    )
+                } else {
+                    AppButton(
+                        text = strings.remove,
+                        onClick = { confirming = true },
+                        variant = ButtonVariant.Ghost,
+                        size = ButtonSize.Sm,
+                        modifier = Modifier.testTag("books:remove-${book.slug}"),
+                    )
+                }
+            }
+        }
     }
 }
 

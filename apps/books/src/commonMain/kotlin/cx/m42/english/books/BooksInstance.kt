@@ -6,7 +6,13 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import cx.m42.superizer.app.AppChrome
 import cx.m42.superizer.app.AppInstance
+import cx.m42.superizer.runtime.AppFolder
+import cx.m42.superizer.runtime.DownloadTooLarge
+import cx.m42.superizer.runtime.FileDownloader
 import cx.m42.superizer.runtime.InstanceRuntime
+import cx.m42.superizer.runtime.NetworkException
+import cx.m42.superizer.runtime.Platform
+import cx.m42.superizer.runtime.QrScanner
 import kotlinx.coroutines.CancellationException
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -86,8 +92,34 @@ internal sealed interface Opened {
  */
 internal class BooksInstance(
     private val runtime: InstanceRuntime,
-    private val source: BookSource,
+    source: BookSource,
+    /** A book's address the app was opened with, from a QR code or a link: the download screen opens with it. */
+    private val initialLink: String? = null,
 ) : AppInstance() {
+
+    private val folder: AppFolder? = runtime.service(AppFolder.Key)
+    private val downloader: FileDownloader? = runtime.service(FileDownloader.Key)
+    private val scanner: QrScanner? = runtime.service(QrScanner.Key)
+    private val library = Library(source, folder, runtime.logger)
+
+    /** Books can be added here: the host downloads and keeps files for this app. */
+    val canFetch: Boolean get() = folder != null && downloader != null
+
+    /** The host has a camera to read a book's QR code with. */
+    val canScan: Boolean get() = scanner != null
+
+    /** Where the downloaded books are, as the person finds them; null where there is no folder. */
+    val folderLocation: String? get() = folder?.location?.ifEmpty { null }
+
+    /** On iOS the folder is found in Files, under the host; elsewhere its path says where it is. */
+    val folderInFiles: Boolean get() = runtime.host.platform == Platform.Ios
+
+    private val _fetch = MutableStateFlow<Fetch?>(null)
+
+    /** The download screen, or null when it is closed. */
+    val fetch: StateFlow<Fetch?> get() = _fetch.asStateFlow()
+
+    private var fetching: Job? = null
 
     override val chrome: StateFlow<AppChrome> = MutableStateFlow(AppChrome(fullscreen = true))
 
@@ -110,6 +142,7 @@ internal class BooksInstance(
 
     override suspend fun onLaunch() {
         runtime.analytics.screen("books")
+        if (initialLink != null) _fetch.value = Fetch(link = initialLink)
         // After the first frame: reading the shelf is not for `onLaunch`.
         runtime.scope.launch { load() }
     }
@@ -125,16 +158,15 @@ internal class BooksInstance(
             nouns = storage.get(NOUNS) != "no",
         )
         recent = storage.get(RECENT)?.split(',')?.filter { it.isNotEmpty() }.orEmpty()
-        val books = try {
-            source.index()
-        } catch (e: CancellationException) {
-            throw e
-        } catch (e: Exception) {
-            runtime.logger.error("Cannot read the shelf: ${e.message}")
-            emptyList()
-        }
-        _places.value = books.mapNotNull { book -> Place.decode(storage.get(PLACE + book.slug))?.let { book.slug to it } }.toMap()
+        loadShelf()
+    }
+
+    /** The shelf as it is now: after a download or a deletion, and whatever the person did in the folder meanwhile. */
+    private suspend fun loadShelf(): List<BookInfo> {
+        val books = library.index()
+        _places.value = books.mapNotNull { book -> Place.decode(runtime.storage.get(PLACE + book.slug))?.let { book.slug to it } }.toMap()
         _shelf.value = Shelf.Ready(ordered(books))
+        return books
     }
 
     /** The ones read lately on top, the latest first; the others after them as the shelf lists them. */
@@ -149,7 +181,7 @@ internal class BooksInstance(
         opening = runtime.scope.launch {
             runtime.storage.set(RECENT, recent.joinToString(","))
             _opened.value = try {
-                Opened.Ready(parseBook(slug, source.read(slug)), _places.value[slug])
+                Opened.Ready(parseBook(slug, library.read(slug)), _places.value[slug])
             } catch (e: CancellationException) {
                 throw e
             } catch (e: Exception) {
@@ -190,6 +222,135 @@ internal class BooksInstance(
 
     fun close() {
         runtime.scope.launch { runtime.navigation.close() }
+    }
+
+    // ------------------------------------------------------------ adding a book
+
+    fun openFetch() {
+        if (_fetch.value == null) _fetch.value = Fetch()
+    }
+
+    /** Back to the shelf; a download under way is dropped. */
+    fun closeFetch() {
+        fetching?.cancel()
+        fetching = null
+        _fetch.value = null
+    }
+
+    /** A new link says nothing yet about how its download will go. */
+    fun editLink(text: String) {
+        val current = _fetch.value ?: return
+        if (current.state == Fetching.Working) return
+        _fetch.value = Fetch(link = text)
+    }
+
+    /** Reads a QR code and downloads what it names straight away: pointing the camera at it was the asking. */
+    fun scan() {
+        val scanner = scanner ?: return
+        if (_fetch.value?.state == Fetching.Working) return
+        runtime.scope.launch {
+            val text = try {
+                scanner.scan()
+            } catch (e: CancellationException) {
+                throw e
+            } catch (e: Exception) {
+                runtime.logger.warn("The camera failed: ${e.message}")
+                null
+            } ?: return@launch
+            editLink(text)
+            download()
+        }
+    }
+
+    fun download() {
+        val current = _fetch.value ?: return
+        if (current.state == Fetching.Working) return
+        val url = bookLink(current.link)
+        if (url == null) {
+            _fetch.value = current.copy(state = Fetching.Failed(FetchProblem.NotALink))
+            return
+        }
+        _fetch.value = current.copy(state = Fetching.Working)
+        fetching = runtime.scope.launch {
+            val result = fetchBook(url)
+            _fetch.value = _fetch.value?.copy(state = result)
+            runtime.analytics.event("book_fetch", mapOf("result" to resultName(result)))
+        }
+    }
+
+    private suspend fun fetchBook(url: String): Fetching {
+        val downloader = downloader ?: return Fetching.Failed(FetchProblem.Unavailable)
+        val folder = folder ?: return Fetching.Failed(FetchProblem.Unavailable)
+        val bytes = try {
+            downloader.download(url, MAX_ARCHIVE_BYTES)
+        } catch (e: CancellationException) {
+            throw e
+        } catch (e: DownloadTooLarge) {
+            return Fetching.Failed(FetchProblem.TooLarge)
+        } catch (e: NetworkException) {
+            return if (e.status == null) Fetching.Failed(FetchProblem.NoAnswer) else Fetching.Failed(FetchProblem.Status, e.status)
+        } catch (e: Exception) {
+            runtime.logger.warn("Download failed: $url: ${e.message}")
+            return Fetching.Failed(FetchProblem.NoAnswer)
+        }
+        val meta = try {
+            val (meta, text) = readArchive(bytes)
+            // What the reader will do on opening it, done now: a book that cannot be read is not put on the shelf.
+            if (parseBook(meta.id, text).paragraphs.isEmpty()) return Fetching.Failed(FetchProblem.NotABook)
+            meta
+        } catch (e: BadArchive) {
+            runtime.logger.warn("Not a book: $url: ${e.message}")
+            return Fetching.Failed(e.problem.asFetchProblem())
+        } catch (e: Exception) {
+            runtime.logger.warn("Not a book: $url: ${e.message}")
+            return Fetching.Failed(FetchProblem.NotABook)
+        }
+        val name = meta.id + ARCHIVE_SUFFIX
+        val before = library.inFolder().filter { it.slug == meta.id }
+        val same = before.firstOrNull()
+        if (same != null && meta.sha256.isNotEmpty() && same.sha256 == meta.sha256) {
+            return Fetching.Done(same, Outcome.Same)
+        }
+        try {
+            folder.write(name, bytes)
+            // The person may have kept it under another name: one book, one file, the one just written.
+            before.mapNotNull { it.file }.filter { it != name }.forEach { folder.delete(it) }
+        } catch (e: CancellationException) {
+            throw e
+        } catch (e: Exception) {
+            runtime.logger.error("Cannot save $name in ${folder.location}: ${e.message}")
+            return Fetching.Failed(FetchProblem.CannotSave)
+        }
+        val book = loadShelf().find { it.slug == meta.id } ?: meta.toInfo(name)
+        return Fetching.Done(book, if (same != null) Outcome.Updated else Outcome.Added)
+    }
+
+    private fun resultName(result: Fetching): String = when (result) {
+        is Fetching.Done -> result.outcome.name.lowercase()
+        is Fetching.Failed -> result.problem.name.lowercase()
+        else -> "none"
+    }
+
+    /** From the download screen straight into the book it brought. */
+    fun readFetched(slug: String) {
+        closeFetch()
+        open(slug)
+    }
+
+    /** Takes a downloaded book off the shelf and out of the folder; its place stays, should it come back. */
+    fun remove(slug: String) {
+        val book = (_shelf.value as? Shelf.Ready)?.books?.find { it.slug == slug } ?: return
+        val file = book.file ?: return
+        runtime.scope.launch {
+            try {
+                folder?.delete(file)
+            } catch (e: CancellationException) {
+                throw e
+            } catch (e: Exception) {
+                runtime.logger.error("Cannot delete $file: ${e.message}")
+            }
+            loadShelf()
+        }
     }
 
     @Composable

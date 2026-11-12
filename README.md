@@ -120,6 +120,22 @@ A book is `../texts/<name>/book.json`, written by the skill's `render_text.py` n
 The copies stay out of git (`.gitignore`): the repository is public and some texts are under copyright. A build from a
 clean checkout has an empty shelf; run `syncBooks` on the machine that builds to carry books.
 
+### Adding a book to an installed app
+
+A book also travels on its own, as `<name>.book.tgz` — a tar in gzip with `meta.json` and `book.json` — which the skill's
+`pack_book.py` writes (its SKILL.md, «Архив для загрузки»):
+
+```bash
+cd ../.claude/skills/dragunkin-text
+python3 scripts/pack_book.py phosphorus --url https://example.org/phosphorus.book.tgz --scheme english --qr
+```
+
+Put the archive at that address, then on the shelf tap **+**: paste the link, or read its QR code where the host has a
+camera, and **Download**. The book lands in the app's folder and on the shelf, and reads without the network from then on.
+The folder is Superizer's `AppFolder` (0.8.2), one the person sees: `~/Documents/English/books` on a desktop, Files › On My
+iPhone › the host › `books` on iOS. An archive copied in by hand shows on the shelf as well. A downloaded book stands in for
+a carried one with the same name, and can be deleted from the shelf.
+
 ## Where the verbs come from
 
 The app reads only its own copy of the base. It never reads `../verbs` while it runs.

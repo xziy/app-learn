@@ -1,6 +1,9 @@
 package cx.m42.english.books
 
 import cx.m42.english.books.resources.Res
+import cx.m42.superizer.runtime.AppFolder
+import cx.m42.superizer.runtime.Logger
+import kotlinx.coroutines.CancellationException
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.JsonArray
 import kotlinx.serialization.json.JsonElement
@@ -113,7 +116,7 @@ internal data class Book(
     val headings: List<Int> by lazy { paragraphs.indices.filter { paragraphs[it].heading } }
 }
 
-/** What the shelf shows of a book without reading it: `files/books/index.json`. */
+/** What the shelf shows of a book without reading it: a row of `files/books/index.json`, or an archive's `meta.json`. */
 internal data class BookInfo(
     val slug: String,
     val title: String,
@@ -121,7 +124,14 @@ internal data class BookInfo(
     val paragraphs: Int = 0,
     val sentences: Int = 0,
     val translated: Int = 0,
+    /** The archive in the app's folder this book is read from; null for one the build carries. */
+    val file: String? = null,
+    /** Of the archive's `book.json`: tells a new version from the one on the shelf. */
+    val sha256: String = "",
 )
+
+internal fun ArchiveMeta.toInfo(file: String): BookInfo =
+    BookInfo(id, title, author, paragraphs, sentences, translated, file = file, sha256 = sha256)
 
 /** Where the books come from. */
 internal interface BookSource {
@@ -130,6 +140,64 @@ internal interface BookSource {
 
     /** The JSON of a book. */
     suspend fun read(slug: String): String
+}
+
+/**
+ * The shelf: the books the build carries and the archives in the app's folder — downloaded, or put there by the
+ * person. One in the folder stands in for a carried one with the same id: it is the one they chose, and most likely
+ * newer. A file that is not a book is passed over, and the rest of the folder still shows.
+ */
+internal class Library(
+    private val carried: BookSource,
+    private val folder: AppFolder?,
+    private val logger: Logger,
+) : BookSource {
+    /** Which archive each book of the folder is in, as the last [index] found them. */
+    private var files: Map<String, String> = emptyMap()
+
+    override suspend fun index(): List<BookInfo> {
+        val built = try {
+            carried.index()
+        } catch (e: CancellationException) {
+            throw e
+        } catch (e: Exception) {
+            // A build from a clean checkout carries no books (they stay out of git): its shelf is the folder alone.
+            logger.error("Cannot read the shelf: ${e.message}")
+            emptyList()
+        }
+        val found = inFolder()
+        files = found.associate { it.slug to it.file!! }
+        return built.filter { it.slug !in files } + found
+    }
+
+    /** The books in the folder, by file name; the first file wins when two hold the same book. */
+    suspend fun inFolder(): List<BookInfo> {
+        val folder = folder ?: return emptyList()
+        val names = try {
+            folder.list().map { it.name }.filter { it.endsWith(ARCHIVE_SUFFIX) }
+        } catch (e: CancellationException) {
+            throw e
+        } catch (e: Exception) {
+            logger.error("Cannot read the folder ${folder.location}: ${e.message}")
+            return emptyList()
+        }
+        return names.mapNotNull { name ->
+            try {
+                folder.read(name)?.let { readArchiveMeta(it).toInfo(name) }
+            } catch (e: CancellationException) {
+                throw e
+            } catch (e: Exception) {
+                logger.warn("Not a book, left off the shelf: $name: ${e.message}")
+                null
+            }
+        }.distinctBy { it.slug }
+    }
+
+    override suspend fun read(slug: String): String {
+        val name = files[slug] ?: return carried.read(slug)
+        val bytes = folder?.read(name) ?: error("$name is no longer in the folder")
+        return readArchive(bytes).second
+    }
 }
 
 /** The books as the app carries them: `composeResources/files/books`, filled by `:apps:books:syncBooks`. */

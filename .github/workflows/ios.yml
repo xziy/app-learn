@@ -28,17 +28,32 @@ jobs:
   ipa:
     runs-on: macos-26
     timeout-minutes: 60
+    # Superizer comes built, out of its registry on GitHub Packages, at the version in
+    # gradle/libs.versions.toml (settings.gradle.kts), so this run compiles none of it. Reading there
+    # takes a classic PAT with read:packages in the repository secret SUPERIZER_PACKAGES_TOKEN: the
+    # run's own GITHUB_TOKEN reads packages of its own owner only, and Superizer is adminization's.
+    # The Gradle that Xcode starts inherits these. Without the secret the run compiles Superizer
+    # from its sources, as it did before, and says so.
+    env:
+      SUPERIZER_FROM_MAVEN: ${{ secrets.SUPERIZER_PACKAGES_TOKEN != '' && '1' || '0' }}
+      ORG_GRADLE_PROJECT_SuperizerPackagesUsername: ${{ github.actor }}
+      ORG_GRADLE_PROJECT_SuperizerPackagesPassword: ${{ secrets.SUPERIZER_PACKAGES_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
+      # Only without the token: the commit of Superizer 0.8.2.
       - uses: actions/checkout@v4
+        if: env.SUPERIZER_FROM_MAVEN != '1'
         with:
           repository: adminization/superizer
           ref: 81f35efcc7ea456ea0b0b77ed82193590291c8e3
           path: superizer-checkout
 
       - name: Put the library where settings.gradle.kts looks for it
-        run: mv superizer-checkout ../superizer
+        if: env.SUPERIZER_FROM_MAVEN != '1'
+        run: |
+          echo "::warning::No SUPERIZER_PACKAGES_TOKEN secret, so Superizer is compiled from its sources"
+          mv superizer-checkout ../superizer
 
       - name: Xcode
         run: xcodebuild -version && xcrun --sdk iphoneos --show-sdk-version

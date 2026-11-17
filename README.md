@@ -11,7 +11,7 @@ context, and the apps in `apps/<name>`. The decisions are in [`.ai-notes`](.ai-n
 |---|---|
 | JDK | 17 |
 | Gradle | none — use the bundled `./gradlew` |
-| Superizer | its sources at `../superizer` (`git clone git@github.com:adminization/superizer.git ../superizer`); `SUPERIZER_FROM_MAVEN=1` builds against mavenLocal instead |
+| Superizer | its sources at `../superizer` (`git clone git@github.com:adminization/superizer.git ../superizer`); `SUPERIZER_FROM_MAVEN=1` takes it built instead, out of mavenLocal or, with a token, out of its registry on GitHub Packages (`settings.gradle.kts`) |
 | Speech on a desktop | `say` on macOS; `espeak-ng`, `espeak` or `spd-say` on Linux (`sudo dnf install espeak-ng`). Without one the card says so. iOS and Android have their own. |
 | Android SDK | compileSdk 36, minSdk 24, in `ANDROID_HOME` or `local.properties`. Superizer's modules ask for it too. |
 
@@ -176,6 +176,8 @@ repository so that CI, which has no `../verbs`, still builds with the words.
 Xcode; only the klibs compile without it (`./gradlew :composeApp:compileKotlinIosArm64`).
 `.github/workflows/ios.yml` builds on `main` and by hand, and leaves an **unsigned**
 `English-<run>.ipa` in the run's artifacts. A phone installs it only after it is signed.
+It takes Superizer built, out of its registry, when the repository has the secret `SUPERIZER_PACKAGES_TOKEN` (a
+classic PAT with `read:packages`); without it, it compiles Superizer from its sources and leaves a warning on the run.
 
 ## Android
 

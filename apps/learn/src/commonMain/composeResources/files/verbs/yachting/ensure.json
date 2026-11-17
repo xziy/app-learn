@@ -64,10 +64,10 @@
         "form": "ensure, ensures",
         "examples": [
           {
-            "ours": "Шкипер обеспечивает безопасность.",
-            "thought": "[Известный] шкипер обеспечивает безопасность.",
-            "english": "The skipper ensures safety.",
-            "transcription": "[ðэ ск**и**пэ инш**у**эз с**э**йфти]"
+            "ours": "Штурман обеспечивает безопасный запас под килем в малую воду.",
+            "thought": "[Известный] штурман обеспечивает безопасный запас при малой воде.",
+            "english": "The navigator ensures safe clearance at low water.",
+            "transcription": "[ðэ н**æ**вигэйтэ инш**у**эз сэйф кл**и**эрэнс æт лоу w**о**:тэ]"
           },
           {
             "ours": "Ты обеспечиваешь вентиляцию на борту?",
@@ -87,16 +87,16 @@
         "form": "will ensure",
         "examples": [
           {
-            "ours": "Завтра мы обеспечим безопасность.",
-            "thought": "Завтра мы будем обеспечивать безопасность.",
-            "english": "Tomorrow we will ensure safety.",
-            "transcription": "[тэм**о**роу wи: wил инш**у**э с**э**йфти]"
+            "ours": "Завтра мы проследим, чтобы длины цепи хватило на полную воду.",
+            "thought": "Завтра мы будем обеспечивать, что [известная] длина от цепи есть правильна для полной воды.",
+            "english": "Tomorrow we will ensure that the length of chain is right for high water.",
+            "transcription": "[тэм**о**роу wи: wил инш**у**э ðæт ðэ лэŋθ ов чэйн из райт фо: хай w**о**:тэ]"
           },
           {
-            "ours": "Ты обеспечишь вентиляцию?",
-            "thought": "Будешь ты обеспечивать вентиляцию?",
-            "english": "Will you ensure ventilation?",
-            "transcription": "[wил ю: инш**у**э вэнтил**э**йшн]"
+            "ours": "Ты проследишь, чтобы эхолот работал?",
+            "thought": "Будешь ты обеспечивать, что [известный] эхолот является работающим?",
+            "english": "Will you ensure that the depth sounder is working?",
+            "transcription": "[wил ю: инш**у**э ðæт ðэ дэпθ с**а**ундэ из w**œ**:киŋ]"
           },
           {
             "ours": "Она не обеспечит питание.",
@@ -129,10 +129,10 @@
         "form": "am/is/are ensuring",
         "examples": [
           {
-            "ours": "Мы сейчас обеспечиваем безопасность.",
-            "thought": "Мы являемся обеспечивающими безопасность сейчас.",
-            "english": "We are ensuring safety now.",
-            "transcription": "[wи: а: инш**у**эриŋ с**э**йфти нау]"
+            "ours": "Сейчас мы следим, чтобы у винта на воде не плавали концы.",
+            "thought": "Сейчас мы являемся обеспечивающими, что никакие концы плавают на [известной] поверхности около [известного] винта.",
+            "english": "Now we are ensuring that no lines float on the surface near the propeller.",
+            "transcription": "[нау wи: а: инш**у**эриŋ ðæт ноу лайнз флоут он ðэ с**œ**:фис ниэ ðэ прэп**э**лэ]"
           },
           {
             "ours": "Шкипер сейчас обеспечивает вентиляцию?",
@@ -171,10 +171,10 @@
             "transcription": "[бай ну:н wи: хæд о:лр**э**ди инш**у**эд вэнтил**э**йшн]"
           },
           {
-            "ours": "Ты обеспечил безопасность до отхода?",
-            "thought": "Имел ты обеспеченной безопасность до отхода?",
-            "english": "Had you ensured safety before departure?",
-            "transcription": "[хæд ю: инш**у**эд с**э**йфти биф**о**: дип**а**:чэ]"
+            "ours": "Ты обеспечил достаточную глубину для нашей осадки до малой воды?",
+            "thought": "Имел ты обеспеченной достаточно глубины для нашей осадки до малой воды?",
+            "english": "Had you ensured enough depth for our draught before low water?",
+            "transcription": "[хæд ю: инш**у**эд ин**а**ф дэпθ фо: ауэ дра:фт биф**о**: лоу w**о**:тэ]"
           }
         ]
       },
@@ -290,10 +290,10 @@
         "form": "am/is/are ensured",
         "examples": [
           {
-            "ours": "Вентиляция обеспечивается вентиляторами.",
-            "thought": "Вентиляция есть обеспечена от вентиляторов.",
-            "english": "Ventilation is ensured by fans.",
-            "transcription": "[вэнтил**э**йшн из инш**у**эд бай фæнз]"
+            "ours": "Плавучесть обеспечивается низкой плотностью полипропилена.",
+            "thought": "Плавучесть есть обеспечена от [известной] низкой плотности от полипропилена.",
+            "english": "Buoyancy is ensured by the low density of polypropylene.",
+            "transcription": "[б**о**йэнси из инш**у**эд бай ðэ лоу д**э**нсити ов полипр**о**упэли:н]"
           },
           {
             "ours": "Безопасность обеспечивается экипажем?",
@@ -465,10 +465,6 @@
           "form": "ventilation"
         },
         {
-          "phrase": "active.simple.future.1",
-          "form": "ventilation"
-        },
-        {
           "phrase": "active.continuous.past.1",
           "form": "ventilation"
         },
@@ -507,10 +503,6 @@
         {
           "phrase": "passive.simple.past.0",
           "form": "ventilation"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "Ventilation"
         },
         {
           "phrase": "passive.simple.future.1",
@@ -555,27 +547,11 @@
           "form": "safety"
         },
         {
-          "phrase": "active.simple.present.0",
-          "form": "safety"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "safety"
-        },
-        {
           "phrase": "active.continuous.past.0",
           "form": "safety"
         },
         {
-          "phrase": "active.continuous.present.0",
-          "form": "safety"
-        },
-        {
           "phrase": "active.continuous.future.0",
-          "form": "safety"
-        },
-        {
-          "phrase": "active.perfect.past.1",
           "form": "safety"
         },
         {
@@ -641,16 +617,37 @@
       ]
     },
     {
-      "word": "skipper",
-      "meaning": "шкипер",
+      "word": "navigator",
+      "meaning": "штурман",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "skipper"
+          "form": "navigator"
+        }
+      ]
+    },
+    {
+      "word": "clearance",
+      "meaning": "запас",
+      "sense": "space",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "clearance"
+        }
+      ]
+    },
+    {
+      "word": "low water",
+      "meaning": "малая вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "low water"
         },
         {
-          "phrase": "active.continuous.present.1",
-          "form": "skipper"
+          "phrase": "active.perfect.past.1",
+          "form": "low water"
         }
       ]
     },
@@ -683,6 +680,46 @@
       ]
     },
     {
+      "word": "length",
+      "meaning": "длина",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "length"
+        }
+      ]
+    },
+    {
+      "word": "chain",
+      "meaning": "цепь",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "chain"
+        }
+      ]
+    },
+    {
+      "word": "high water",
+      "meaning": "полная вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "high water"
+        }
+      ]
+    },
+    {
+      "word": "depth sounder",
+      "meaning": "эхолот",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "depth sounder"
+        }
+      ]
+    },
+    {
       "word": "morning",
       "meaning": "утро",
       "used_in": [
@@ -697,6 +734,46 @@
         {
           "phrase": "passive.continuous.future.0",
           "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "lines"
+        }
+      ]
+    },
+    {
+      "word": "surface",
+      "meaning": "поверхность",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "surface"
+        }
+      ]
+    },
+    {
+      "word": "propeller",
+      "meaning": "винт",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "propeller"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "skipper"
         }
       ]
     },
@@ -741,28 +818,22 @@
       ]
     },
     {
-      "word": "departure",
-      "meaning": "отход",
+      "word": "depth",
+      "meaning": "глубина",
       "used_in": [
         {
           "phrase": "active.perfect.past.1",
-          "form": "departure"
-        },
+          "form": "depth"
+        }
+      ]
+    },
+    {
+      "word": "draught",
+      "meaning": "осадка",
+      "used_in": [
         {
-          "phrase": "active.perfect_continuous.past.1",
-          "form": "departure"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "departure"
-        },
-        {
-          "phrase": "passive.simple.future.1",
-          "form": "departure"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "departure"
+          "phrase": "active.perfect.past.1",
+          "form": "draught"
         }
       ]
     },
@@ -827,13 +898,54 @@
       ]
     },
     {
-      "word": "fan",
-      "meaning": "вентилятор",
-      "sense": "device",
+      "word": "departure",
+      "meaning": "отход",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "departure"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "buoyancy",
+      "meaning": "плавучесть",
       "used_in": [
         {
           "phrase": "passive.simple.present.0",
-          "form": "fans"
+          "form": "Buoyancy"
+        }
+      ]
+    },
+    {
+      "word": "density",
+      "meaning": "плотность",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "density"
+        }
+      ]
+    },
+    {
+      "word": "polypropylene",
+      "meaning": "полипропилен",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "polypropylene"
         }
       ]
     }

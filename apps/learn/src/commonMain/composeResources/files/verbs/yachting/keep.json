@@ -53,10 +53,10 @@
             "transcription": "[ши: дид нот ки:п ðэ клач клоузд æнд ðэ х**æ**льэд слипт]"
           },
           {
-            "ours": "Ты держал лодку ровно?",
-            "thought": "[Сделал] ты держать [известную] лодку ровной?",
-            "english": "Did you keep the boat steady?",
-            "transcription": "[дид ю: ки:п ðэ боут ст**э**ди]"
+            "ours": "Ты следил, чтобы буксирный конец не попал под винт?",
+            "thought": "[Сделал] ты держать [известный] буксирный конец свободным от [известного] винта?",
+            "english": "Did you keep the towline clear of the propeller?",
+            "transcription": "[дид ю: ки:п ðэ т**о**улайн клиэ ов ðэ прэп**э**лэ]"
           }
         ]
       },
@@ -64,10 +64,10 @@
         "form": "keep, keeps",
         "examples": [
           {
-            "ours": "Капитан хранит журнал на борту.",
-            "thought": "[Известный] шкипер хранит [известный] журнал на борту.",
-            "english": "The skipper keeps the log aboard.",
-            "transcription": "[ðэ ск**и**пэ ки:пс ðэ лог эб**о**:д]"
+            "ours": "Вес цепи удерживает угол пологим.",
+            "thought": "[Известный] вес от [известной] цепи держит [известный] угол низким.",
+            "english": "The weight of the chain keeps the angle low.",
+            "transcription": "[ðэ wэйт ов ðэ чэйн ки:пс ðи **æ**ŋгл лоу]"
           },
           {
             "ours": "Мы не храним топливо здесь.",
@@ -87,10 +87,10 @@
         "form": "will keep",
         "examples": [
           {
-            "ours": "Завтра я буду держать курс.",
-            "thought": "Завтра я буду держать наш курс.",
-            "english": "Tomorrow I will keep our course.",
-            "transcription": "[тэм**о**роу ай wил ки:п ауэ ко:с]"
+            "ours": "Завтра я буду держать длину цепи пять к одному.",
+            "thought": "Завтра я буду держать [какую-то] длину вытравленной цепи от пяти к одному.",
+            "english": "Tomorrow I will keep a scope of five to one.",
+            "transcription": "[тэм**о**роу ай wил ки:п э скоуп ов файв ту wан]"
           },
           {
             "ours": "Она не оставит компас себе.",
@@ -135,10 +135,10 @@
             "transcription": "[ай æм к**и**:пиŋ ðэ л**а**йтхаус он ðэ ст**а**:бэд би:м нау]"
           },
           {
-            "ours": "Она сейчас не держит курс.",
-            "thought": "Она является не держащей наш курс сейчас.",
-            "english": "She is not keeping our course now.",
-            "transcription": "[ши: из нот к**и**:пиŋ ауэ ко:с нау]"
+            "ours": "Она сейчас не держит швартовы натянутыми.",
+            "thought": "Она является не держащей [известные] швартовы тугими сейчас.",
+            "english": "She is not keeping the mooring lines tight now.",
+            "transcription": "[ши: из нот к**и**:пиŋ ðэ м**у**эриŋ лайнз тайт нау]"
           },
           {
             "ours": "Ты сейчас дежуришь?",
@@ -488,10 +488,10 @@
         "transcription": "[ай нью: wи: wуд ки:п ауэ ко:с]"
       },
       {
-        "ours": "Она думала, что капитан не сохранит карту.",
-        "thought": "Она думала, [известный] шкипер будет не сохранять [известную] карту.",
-        "english": "She thought the skipper would not keep the chart.",
-        "transcription": "[ши: θо:т ðэ ск**и**пэ wуд нот ки:п ðэ ча:т]"
+        "ours": "Она думала, что старый конец не сохранит плавучесть.",
+        "thought": "Она думала, [известный] старый конец будет не сохранять его плавучесть.",
+        "english": "She thought the old line would not keep its buoyancy.",
+        "transcription": "[ши: θо:т ðи оулд лайн wуд нот ки:п итс б**о**йэнси]"
       }
     ]
   },
@@ -505,15 +505,7 @@
           "form": "course"
         },
         {
-          "phrase": "active.simple.future.0",
-          "form": "course"
-        },
-        {
           "phrase": "active.continuous.past.0",
-          "form": "course"
-        },
-        {
-          "phrase": "active.continuous.present.1",
           "form": "course"
         },
         {
@@ -584,100 +576,56 @@
       ]
     },
     {
-      "word": "boat",
-      "meaning": "лодка",
+      "word": "towline",
+      "meaning": "буксирный конец",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "boat"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "boat"
-        },
-        {
-          "phrase": "passive.continuous.past.1",
-          "form": "boat"
-        },
-        {
-          "phrase": "passive.continuous.present.0",
-          "form": "boat"
-        },
-        {
-          "phrase": "passive.continuous.present.2",
-          "form": "boat"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "boat"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "boat"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "boat"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "boat"
+          "form": "towline"
         }
       ]
     },
     {
-      "word": "skipper",
-      "meaning": "капитан",
+      "word": "propeller",
+      "meaning": "винт",
       "used_in": [
         {
-          "phrase": "active.simple.present.0",
-          "form": "skipper"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "skipper"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "skipper"
+          "phrase": "active.simple.past.2",
+          "form": "propeller"
         }
       ]
     },
     {
-      "word": "log",
-      "meaning": "судовой журнал",
+      "word": "weight",
+      "meaning": "вес",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "log"
+          "form": "weight"
+        }
+      ]
+    },
+    {
+      "word": "chain",
+      "meaning": "цепь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "chain"
         },
         {
-          "phrase": "active.perfect.present.1",
-          "form": "log"
-        },
+          "phrase": "passive.simple.present.0",
+          "form": "chain"
+        }
+      ]
+    },
+    {
+      "word": "angle",
+      "meaning": "угол",
+      "used_in": [
         {
-          "phrase": "active.perfect.future.1",
-          "form": "log"
-        },
-        {
-          "phrase": "passive.simple.past.2",
-          "form": "log"
-        },
-        {
-          "phrase": "passive.simple.present.2",
-          "form": "log"
-        },
-        {
-          "phrase": "passive.simple.future.2",
-          "form": "log"
-        },
-        {
-          "phrase": "passive.perfect.present.2",
-          "form": "log"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "log"
+          "phrase": "active.simple.present.0",
+          "form": "angle"
         }
       ]
     },
@@ -720,6 +668,16 @@
         {
           "phrase": "active.simple.present.2",
           "form": "channel"
+        }
+      ]
+    },
+    {
+      "word": "scope",
+      "meaning": "длина вытравленной цепи",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "scope"
         }
       ]
     },
@@ -856,6 +814,16 @@
       ]
     },
     {
+      "word": "mooring line",
+      "meaning": "швартов",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "mooring lines"
+        }
+      ]
+    },
+    {
       "word": "noon",
       "meaning": "полдень",
       "used_in": [
@@ -898,10 +866,40 @@
         {
           "phrase": "passive.simple.past.0",
           "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "log",
+      "meaning": "судовой журнал",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "log"
         },
         {
-          "phrase": "future_in_past.1",
-          "form": "chart"
+          "phrase": "active.perfect.future.1",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "log"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "log"
         }
       ]
     },
@@ -916,6 +914,16 @@
         {
           "phrase": "passive.perfect.future.0",
           "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "капитан",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "skipper"
         }
       ]
     },
@@ -1006,16 +1014,6 @@
       ]
     },
     {
-      "word": "chain",
-      "meaning": "цепь",
-      "used_in": [
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "chain"
-        }
-      ]
-    },
-    {
       "word": "anchor locker",
       "meaning": "якорный ящик",
       "used_in": [
@@ -1042,6 +1040,64 @@
         {
           "phrase": "passive.simple.future.0",
           "form": "forepeak"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "buoyancy",
+      "meaning": "плавучесть",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "buoyancy"
         }
       ]
     }

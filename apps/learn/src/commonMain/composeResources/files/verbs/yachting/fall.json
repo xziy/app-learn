@@ -53,10 +53,10 @@
             "transcription": "[ðэ бой диднт фо:л **о**увэ ðэ г**а**:дрэйл]"
           },
           {
-            "ours": "Давление упало до гонки?",
-            "thought": "[Сделало] [известное] давление падать перед [известной] гонкой?",
-            "english": "Did the pressure fall before the race?",
-            "transcription": "[дид ðэ пр**э**шэ фо:л биф**о**: ðэ рэйс]"
+            "ours": "Запас под килем в малую воду упал ниже метра?",
+            "thought": "[Сделал] [известный] запас под [известным] килем падать ниже [какого-то] метра при малой воде?",
+            "english": "Did the clearance under the keel fall below a metre at low water?",
+            "transcription": "[дид ðэ кл**и**эрэнс **а**ндэ ðэ ки:л фо:л бил**о**у э м**и**:тэ æт лоу w**о**:тэ]"
           }
         ]
       },
@@ -64,16 +64,16 @@
         "form": "fall, falls",
         "examples": [
           {
-            "ours": "Во время отлива уровень воды падает.",
-            "thought": "[Известный] воды уровень падает во время отлива.",
-            "english": "The water level falls during low tide.",
-            "transcription": "[ðэ w**о**:тэ л**э**вл фо:лз дь**ю**эриŋ лоу тайд]"
+            "ours": "Быстрее всего вода убывает в третий и четвёртый час после полной воды.",
+            "thought": "[Известный] прилив падает быстрее всего в [известные] третий и четвёртый часы после полной воды.",
+            "english": "The tide falls fastest in the third and fourth hours after high water.",
+            "transcription": "[ðэ тайд фо:лз ф**а**:стист ин ðэ θœ:д æнд фо:θ **а**уэз **а**:фтэ хай w**о**:тэ]"
           },
           {
-            "ours": "Давление не падает быстро.",
-            "thought": "[Известное] давление [делает] не падать быстро.",
-            "english": "The pressure doesn't fall quickly.",
-            "transcription": "[ðэ пр**э**шэ дазнт фо:л кw**и**кли]"
+            "ours": "Вода нечасто опускается ниже нуля глубин.",
+            "thought": "[Известный] прилив [делает] не часто падать ниже нуля глубин.",
+            "english": "The tide doesn't often fall below chart datum.",
+            "transcription": "[ðэ тайд дазнт **о**фэн фо:л бил**о**у ча:т д**э**йтэм]"
           },
           {
             "ours": "Ветер обычно стихает ночью?",
@@ -93,16 +93,16 @@
             "transcription": "[тэм**о**роу ðэ wинд wил фо:л]"
           },
           {
-            "ours": "Уровень воды не упадёт до утра.",
-            "thought": "[Известный] воды уровень будет не падать перед утром.",
-            "english": "The water level won't fall before morning.",
-            "transcription": "[ðэ w**о**:тэ л**э**вл wоунт фо:л биф**о**: м**о**:ниŋ]"
+            "ours": "До утра глубина не станет меньше нашей осадки.",
+            "thought": "[Известная] глубина будет не падать ниже нашей осадки перед утром.",
+            "english": "The depth won't fall below our draught before morning.",
+            "transcription": "[ðэ дэпθ wоунт фо:л бил**о**у ауэ дра:фт биф**о**: м**о**:ниŋ]"
           },
           {
-            "ours": "Давление упадёт до шторма?",
-            "thought": "Будет [известное] давление падать перед [известным] штормом?",
-            "english": "Will the pressure fall before the storm?",
-            "transcription": "[wил ðэ пр**э**шэ фо:л биф**о**: ðэ сто:м]"
+            "ours": "Риск сесть на мель уменьшится, когда вода пойдёт на прибыль?",
+            "thought": "Будет [известный] риск от посадки на мель падать, когда [известный] прилив поворачивает?",
+            "english": "Will the risk of grounding fall when the tide turns?",
+            "transcription": "[wил ðэ риск ов гр**а**ундиŋ фо:л wэн ðэ тайд тœ:нз]"
           }
         ]
       }
@@ -129,10 +129,10 @@
         "form": "am/is/are falling",
         "examples": [
           {
-            "ours": "Сейчас уровень воды падает.",
-            "thought": "[Известный] воды уровень является падающим сейчас.",
-            "english": "The water level is falling now.",
-            "transcription": "[ðэ w**о**:тэ л**э**вл из ф**о**:лиŋ нау]"
+            "ours": "Глубина сейчас уменьшается, так что следи за эхолотом.",
+            "thought": "[Известная] глубина является падающей сейчас, так что проверяй [известный] эхолот.",
+            "english": "The depth is falling now, so check the depth sounder.",
+            "transcription": "[ðэ дэпθ из ф**о**:лиŋ нау соу чэк ðэ дэпθ с**а**ундэ]"
           },
           {
             "ours": "Давление сейчас падает?",
@@ -345,158 +345,43 @@
       ]
     },
     {
-      "word": "pressure",
-      "meaning": "давление",
+      "word": "clearance",
+      "meaning": "запас",
+      "sense": "space",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "pressure"
-        },
-        {
-          "phrase": "active.simple.present.1",
-          "form": "pressure"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "pressure"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "pressure"
-        },
-        {
-          "phrase": "active.continuous.present.1",
-          "form": "pressure"
-        },
-        {
-          "phrase": "active.continuous.future.1",
-          "form": "pressure"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "pressure"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "pressure"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "pressure"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "pressure"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.0",
-          "form": "pressure"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "pressure"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "pressure"
+          "form": "clearance"
         }
       ]
     },
     {
-      "word": "race",
-      "meaning": "гонка",
+      "word": "keel",
+      "meaning": "киль",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "race"
-        },
-        {
-          "phrase": "active.continuous.future.1",
-          "form": "race"
+          "form": "keel"
         }
       ]
     },
     {
-      "word": "water",
-      "meaning": "вода",
+      "word": "metre",
+      "meaning": "метр",
       "used_in": [
         {
-          "phrase": "active.simple.present.0",
-          "form": "water"
-        },
-        {
-          "phrase": "active.simple.future.1",
-          "form": "water"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "water"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "water"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "water"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "water"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.1",
-          "form": "water"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.1",
-          "form": "water"
-        },
-        {
-          "phrase": "future_in_past.2",
-          "form": "water"
+          "phrase": "active.simple.past.2",
+          "form": "metre"
         }
       ]
     },
     {
-      "word": "level",
-      "meaning": "уровень",
+      "word": "low water",
+      "meaning": "малая вода",
       "used_in": [
         {
-          "phrase": "active.simple.present.0",
-          "form": "level"
-        },
-        {
-          "phrase": "active.simple.future.1",
-          "form": "level"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "level"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "level"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "level"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "level"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.1",
-          "form": "level"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.1",
-          "form": "level"
-        },
-        {
-          "phrase": "future_in_past.2",
-          "form": "level"
+          "phrase": "active.simple.past.2",
+          "form": "low water"
         }
       ]
     },
@@ -507,6 +392,68 @@
         {
           "phrase": "active.simple.present.0",
           "form": "tide"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "tide"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "high water",
+      "meaning": "полная вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "high water"
+        }
+      ]
+    },
+    {
+      "word": "chart datum",
+      "meaning": "нуль глубин",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "chart datum"
         }
       ]
     },
@@ -561,12 +508,92 @@
       ]
     },
     {
-      "word": "storm",
-      "meaning": "шторм",
+      "word": "depth",
+      "meaning": "глубина",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "depth"
+        }
+      ]
+    },
+    {
+      "word": "draught",
+      "meaning": "осадка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "draught"
+        }
+      ]
+    },
+    {
+      "word": "risk",
+      "meaning": "риск",
       "used_in": [
         {
           "phrase": "active.simple.future.2",
-          "form": "storm"
+          "form": "risk"
+        }
+      ]
+    },
+    {
+      "word": "grounding",
+      "meaning": "посадка на мель",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "grounding"
+        }
+      ]
+    },
+    {
+      "word": "pressure",
+      "meaning": "давление",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "pressure"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "pressure"
         }
       ]
     },
@@ -581,6 +608,86 @@
         {
           "phrase": "active.continuous.future.0",
           "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "depth sounder",
+      "meaning": "эхолот",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "depth sounder"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "water"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "water"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "level",
+      "meaning": "уровень",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "level"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "level"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "level"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "level"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "level"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "level"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
         }
       ]
     },
@@ -602,36 +709,6 @@
         {
           "phrase": "active.perfect.past.1",
           "form": "mark"
-        }
-      ]
-    },
-    {
-      "word": "hour",
-      "meaning": "час",
-      "used_in": [
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "hours"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.1",
-          "form": "hours"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.0",
-          "form": "hours"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.1",
-          "form": "hours"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "hours"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.1",
-          "form": "hours"
         }
       ]
     },

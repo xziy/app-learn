@@ -53,10 +53,10 @@
             "transcription": "[ðи **æ**нкэ дид нот хоулд ðэ боут]"
           },
           {
-            "ours": "Ты держал румпель?",
-            "thought": "[Сделал] ты держать [известный] румпель?",
-            "english": "Did you hold the tiller?",
-            "transcription": "[дид ю: хоулд ðэ т**и**лэ]"
+            "ours": "Сплесень выдержал рывковую нагрузку?",
+            "thought": "[Сделал] [известный] сплесень держаться под [известной] рывковой нагрузкой?",
+            "english": "Did the splice hold under the shock load?",
+            "transcription": "[дид ðэ сплайс хоулд **а**ндэ ðэ шок лоуд]"
           }
         ]
       },
@@ -70,10 +70,10 @@
             "transcription": "[ðэ кли:т хоулдз ðэ лайн]"
           },
           {
-            "ours": "Она не держит шкот.",
-            "thought": "Она [делает] не держать [известный] шкот.",
-            "english": "She does not hold the sheet.",
-            "transcription": "[ши: даз нот хоулд ðэ ши:т]"
+            "ours": "Одна прядь не держит всю нагрузку.",
+            "thought": "Одна прядь [делает] не удерживать всю [известную] нагрузку.",
+            "english": "One strand does not hold the whole load.",
+            "transcription": "[wан стрæнд даз нот хоулд ðэ хоул лоуд]"
           },
           {
             "ours": "Ты держишь румпель?",
@@ -99,10 +99,10 @@
             "transcription": "[ðи оулд ф**о**:стэй wил нот хоулд ðэ ма:ст]"
           },
           {
-            "ours": "Ты будешь держать шкот?",
-            "thought": "Будешь ты держать [известный] шкот?",
-            "english": "Will you hold the sheet?",
-            "transcription": "[wил ю: хоулд ðэ ши:т]"
+            "ours": "Подержишь сердечник, пока я режу оплётку?",
+            "thought": "Будешь ты держать [известный] сердечник, пока я режу [известную] оплётку?",
+            "english": "Will you hold the core while I cut the braid?",
+            "transcription": "[wил ю: хоулд ðэ ко: wайл ай кат ðэ брэйд]"
           }
         ]
       }
@@ -129,10 +129,10 @@
         "form": "am/is/are holding",
         "examples": [
           {
-            "ours": "Я сейчас держу шкот.",
-            "thought": "Я являюсь держащим [известный] шкот сейчас.",
-            "english": "I am holding the sheet now.",
-            "transcription": "[ай æм х**о**улдиŋ ðэ ши:т нау]"
+            "ours": "Я сейчас держу нагрузку на фале.",
+            "thought": "Я являюсь держащим [известное] напряжение на [известном] фале сейчас.",
+            "english": "I am holding the strain on the halyard now.",
+            "transcription": "[ай æм х**о**улдиŋ ðэ стрэйн он ðэ х**æ**льэд нау]"
           },
           {
             "ours": "Она сейчас не держит румпель.",
@@ -141,10 +141,10 @@
             "transcription": "[ши: из нот х**о**улдиŋ ðэ т**и**лэ нау]"
           },
           {
-            "ours": "Ты сейчас держишь верёвку?",
-            "thought": "Являешься ты держащим [известную] верёвку сейчас?",
-            "english": "Are you holding the rope now?",
-            "transcription": "[а: ю: х**о**улдиŋ ðэ роуп нау]"
+            "ours": "Ты сейчас держишь пряди вместе?",
+            "thought": "Являешься ты держащим [известные] пряди вместе сейчас?",
+            "english": "Are you holding the strands together now?",
+            "transcription": "[а: ю: х**о**улдиŋ ðэ стрæндз тэг**э**ðэ нау]"
           }
         ]
       },
@@ -247,10 +247,10 @@
         "form": "have/has been holding",
         "examples": [
           {
-            "ours": "Я держу шкот уже два часа.",
-            "thought": "Я имею быть держащим [известный] шкот целых два часа.",
-            "english": "I have been holding the sheet for two hours.",
-            "transcription": "[ай хæв би:н х**о**улдиŋ ðэ ши:т фо: ту: **а**уэз]"
+            "ours": "Этот нейлоновый якорный конец держит нас уже два часа.",
+            "thought": "Этот нейлоновый якорный конец имеет быть держащим нас целых два часа.",
+            "english": "This nylon rode has been holding us for two hours.",
+            "transcription": "[ðис н**а**йлон роуд хæз би:н х**о**улдиŋ ас фо: ту: **а**уэз]"
           },
           {
             "ours": "Ты уже час держишь румпель?",
@@ -499,27 +499,11 @@
           "form": "sheet"
         },
         {
-          "phrase": "active.simple.present.1",
-          "form": "sheet"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "sheet"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "sheet"
-        },
-        {
           "phrase": "active.continuous.future.1",
           "form": "sheet"
         },
         {
           "phrase": "active.perfect_continuous.past.0",
-          "form": "sheet"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.0",
           "form": "sheet"
         },
         {
@@ -613,13 +597,73 @@
       ]
     },
     {
-      "word": "tiller",
-      "meaning": "румпель",
+      "word": "splice",
+      "meaning": "сплесень",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "tiller"
+          "form": "splice"
+        }
+      ]
+    },
+    {
+      "word": "shock load",
+      "meaning": "рывковая нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "shock load"
+        }
+      ]
+    },
+    {
+      "word": "cleat",
+      "meaning": "утка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "cleat"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "strand",
+      "meaning": "прядь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "strand"
         },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "strands"
+        }
+      ]
+    },
+    {
+      "word": "load",
+      "meaning": "нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "load"
+        }
+      ]
+    },
+    {
+      "word": "tiller",
+      "meaning": "румпель",
+      "used_in": [
         {
           "phrase": "active.simple.present.2",
           "form": "tiller"
@@ -679,26 +723,6 @@
       ]
     },
     {
-      "word": "cleat",
-      "meaning": "утка",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.0",
-          "form": "cleat"
-        }
-      ]
-    },
-    {
-      "word": "line",
-      "meaning": "конец",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.0",
-          "form": "line"
-        }
-      ]
-    },
-    {
       "word": "forestay",
       "meaning": "форштаг",
       "used_in": [
@@ -715,6 +739,26 @@
         {
           "phrase": "active.simple.future.1",
           "form": "mast"
+        }
+      ]
+    },
+    {
+      "word": "core",
+      "meaning": "сердечник",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "core"
+        }
+      ]
+    },
+    {
+      "word": "braid",
+      "meaning": "оплётка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "braid"
         }
       ]
     },
@@ -753,28 +797,22 @@
       ]
     },
     {
-      "word": "rope",
-      "meaning": "верёвка",
+      "word": "strain",
+      "meaning": "напряжение",
       "used_in": [
         {
-          "phrase": "active.continuous.present.2",
-          "form": "rope"
-        },
+          "phrase": "active.continuous.present.0",
+          "form": "strain"
+        }
+      ]
+    },
+    {
+      "word": "halyard",
+      "meaning": "фал",
+      "used_in": [
         {
-          "phrase": "passive.simple.past.1",
-          "form": "rope"
-        },
-        {
-          "phrase": "passive.simple.present.1",
-          "form": "rope"
-        },
-        {
-          "phrase": "passive.continuous.present.1",
-          "form": "rope"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "rope"
+          "phrase": "active.continuous.present.0",
+          "form": "halyard"
         }
       ]
     },
@@ -967,6 +1005,26 @@
       ]
     },
     {
+      "word": "nylon",
+      "meaning": "нейлон",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "nylon"
+        }
+      ]
+    },
+    {
+      "word": "rode",
+      "meaning": "якорный конец",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "rode"
+        }
+      ]
+    },
+    {
       "word": "skipper",
       "meaning": "капитан",
       "used_in": [
@@ -977,6 +1035,28 @@
         {
           "phrase": "passive.simple.future.2",
           "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "верёвка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "rope"
         }
       ]
     },

@@ -53,10 +53,10 @@
             "transcription": "[дид ю: шоу ðэ кру: ðэ нот]"
           },
           {
-            "ours": "Она не показала мне маршрут.",
-            "thought": "Она [сделала] не показывать мне [известный] маршрут.",
-            "english": "She did not show me the route.",
-            "transcription": "[ши: дид нот шоу ми: ðэ ру:т]"
+            "ours": "Она не показала мне, как рассчитать длину якорной цепи.",
+            "thought": "Она [сделала] не показывать мне, как вычислить [известную] длину вытравленной цепи.",
+            "english": "She did not show me how to work out the scope.",
+            "transcription": "[ши: дид нот шоу ми: хау ту wœ:к аут ðэ скоуп]"
           }
         ]
       },
@@ -129,10 +129,10 @@
         "form": "am/is/are showing",
         "examples": [
           {
-            "ours": "Сейчас я показываю новичкам палубу.",
-            "thought": "Я являюсь показывающим [известным] новичкам [известную] палубу сейчас.",
-            "english": "I am showing the newcomers the deck now.",
-            "transcription": "[ай æм ш**о**уиŋ ðэ нь**ю**:камэз ðэ дэк нау]"
+            "ours": "Сейчас я показываю новичкам швартовы.",
+            "thought": "Я являюсь показывающим [известным] новичкам [известные] швартовы сейчас.",
+            "english": "I am showing the newcomers the mooring lines now.",
+            "transcription": "[ай æм ш**о**уиŋ ðэ нь**ю**:камэз ðэ м**у**эриŋ лайнз нау]"
           },
           {
             "ours": "Картплоттер сейчас показывает нашу позицию?",
@@ -165,10 +165,10 @@
         "form": "had shown",
         "examples": [
           {
-            "ours": "К полудню я уже показал гостям яхту.",
-            "thought": "К полудню я имел уже показанной [известным] гостям [известную] яхту.",
-            "english": "By noon I had already shown the guests the yacht.",
-            "transcription": "[бай ну:н ай хæд о:лр**э**ди шоун ðэ гэстс ðэ йот]"
+            "ours": "К полудню я уже показал новичкам носовой роульс.",
+            "thought": "К полудню я имел уже показанным [известным] новичкам [известный] носовой роульс.",
+            "english": "By noon I had already shown the beginners the bow roller.",
+            "transcription": "[бай ну:н ай хæд о:лр**э**ди шоун ðэ биг**и**нэз ðэ бау р**о**улэ]"
           },
           {
             "ours": "К началу гонки она показала тебе маршрут?",
@@ -205,10 +205,10 @@
             "transcription": "[бай **и**:вниŋ ай wил хæв шоун **э**вриwан ðэ к**æ**бинз]"
           },
           {
-            "ours": "К полудню она покажет тебе карту?",
-            "thought": "Будет она иметь показанной тебе [известную] карту к полудню?",
-            "english": "Will she have shown you the chart by noon?",
-            "transcription": "[wил ши: хæв шоун ю: ðэ ча:т бай ну:н]"
+            "ours": "Она покажет тебе к полудню лучший угол подхода?",
+            "thought": "Будет она иметь показанным тебе [известный] лучший угол от подхода к полудню?",
+            "english": "Will she have shown you the best angle of approach by noon?",
+            "transcription": "[wил ши: хæв шоун ю: ðэ бэст **æ**ŋгл ов эпр**о**уч бай ну:н]"
           }
         ]
       }
@@ -273,10 +273,10 @@
         "form": "was/were shown",
         "examples": [
           {
-            "ours": "Вчера гостям показали каюты.",
-            "thought": "[Известные] гости были показаны [известные] каюты вчера.",
-            "english": "The guests were shown the cabins yesterday.",
-            "transcription": "[ðэ гэстс wœ: шоун ðэ к**æ**бинз й**э**стэдэй]"
+            "ours": "Вчера детям показали дно сквозь прозрачную воду.",
+            "thought": "[Известные] дети были показаны [известное] морское дно сквозь [известную] прозрачную воду вчера.",
+            "english": "The children were shown the seabed through the clear water yesterday.",
+            "transcription": "[ðэ ч**и**лдрэн wœ: шоун ðэ с**и**:бэд θру: ðэ клиэ w**о**:тэ й**э**стэдэй]"
           },
           {
             "ours": "Тебе показали швартовный узел?",
@@ -467,10 +467,6 @@
           "form": "chart"
         },
         {
-          "phrase": "active.perfect.future.1",
-          "form": "chart"
-        },
-        {
           "phrase": "passive.perfect.present.1",
           "form": "chart"
         }
@@ -509,28 +505,12 @@
       ]
     },
     {
-      "word": "route",
-      "meaning": "маршрут",
+      "word": "scope",
+      "meaning": "длина вытравленной цепи",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "route"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "route"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "route"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "route"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "route"
+          "form": "scope"
         }
       ]
     },
@@ -563,15 +543,7 @@
           "form": "guests"
         },
         {
-          "phrase": "active.perfect.past.0",
-          "form": "guests"
-        },
-        {
           "phrase": "active.perfect_continuous.present.1",
-          "form": "guests"
-        },
-        {
-          "phrase": "passive.simple.past.0",
           "form": "guests"
         },
         {
@@ -668,10 +640,6 @@
           "form": "cabins"
         },
         {
-          "phrase": "passive.simple.past.0",
-          "form": "cabins"
-        },
-        {
           "phrase": "passive.continuous.present.1",
           "form": "cabin"
         },
@@ -752,20 +720,12 @@
       ]
     },
     {
-      "word": "deck",
-      "meaning": "палуба",
+      "word": "mooring line",
+      "meaning": "швартов",
       "used_in": [
         {
           "phrase": "active.continuous.present.0",
-          "form": "deck"
-        },
-        {
-          "phrase": "passive.simple.present.1",
-          "form": "deck"
-        },
-        {
-          "phrase": "passive.continuous.past.1",
-          "form": "deck"
+          "form": "mooring lines"
         }
       ]
     },
@@ -786,40 +746,6 @@
         {
           "phrase": "active.continuous.present.1",
           "form": "position"
-        }
-      ]
-    },
-    {
-      "word": "yacht",
-      "meaning": "яхта",
-      "used_in": [
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "yachts"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "yachts"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "yachts"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "yacht"
         }
       ]
     },
@@ -852,6 +778,36 @@
         {
           "phrase": "active.perfect_continuous.future.0",
           "form": "visitors"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "yachts"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "yacht"
         }
       ]
     },
@@ -906,6 +862,48 @@
       ]
     },
     {
+      "word": "beginner",
+      "meaning": "новичок",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "beginners"
+        }
+      ]
+    },
+    {
+      "word": "bow roller",
+      "meaning": "носовой роульс",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "bow roller"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "route"
+        }
+      ]
+    },
+    {
       "word": "start",
       "meaning": "начало",
       "used_in": [
@@ -942,6 +940,26 @@
         {
           "phrase": "active.perfect.present.1",
           "form": "safety line"
+        }
+      ]
+    },
+    {
+      "word": "angle",
+      "meaning": "угол",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "angle"
+        }
+      ]
+    },
+    {
+      "word": "approach",
+      "meaning": "подход",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "approach"
         }
       ]
     },
@@ -1042,6 +1060,36 @@
       ]
     },
     {
+      "word": "child",
+      "meaning": "ребёнок",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "children"
+        }
+      ]
+    },
+    {
+      "word": "seabed",
+      "meaning": "морское дно",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "seabed"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "water"
+        }
+      ]
+    },
+    {
       "word": "mooring",
       "meaning": "швартовка",
       "used_in": [
@@ -1062,6 +1110,20 @@
         {
           "phrase": "passive.perfect.past.1",
           "form": "departure"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "deck"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "deck"
         }
       ]
     },

@@ -41,16 +41,16 @@
         "form": "decided",
         "examples": [
           {
-            "ours": "Вчера жюри решило победителя.",
-            "thought": "Вчера [известное] жюри решило [известного] победителя.",
-            "english": "Yesterday the jury decided the winner.",
-            "transcription": "[й**э**стэдэй ðэ дж**у**эри дис**а**йдид ðэ w**и**нэ]"
+            "ours": "Вчера шкипер остановился на соотношении шесть к одному.",
+            "thought": "Вчера [известный] шкипер решил на [каком-то] соотношении от шести к одному.",
+            "english": "Yesterday the skipper decided on a ratio of six to one.",
+            "transcription": "[й**э**стэдэй ðэ ск**и**пэ дис**а**йдид он э р**э**йшиоу ов сикс ту wан]"
           },
           {
-            "ours": "Капитан решил маршрут вчера?",
-            "thought": "[Сделал] [известный] капитан решать [известный] маршрут вчера?",
-            "english": "Did the skipper decide the route yesterday?",
-            "transcription": "[дид ðэ ск**и**пэ дис**а**йд ðэ ру:т й**э**стэдэй]"
+            "ours": "Шкипер вчера решил, сколько каната вытравить?",
+            "thought": "[Сделал] [известный] шкипер решать, как много каната вытравить вчера?",
+            "english": "Did the skipper decide how much warp to let out yesterday?",
+            "transcription": "[дид ðэ ск**и**пэ дис**а**йд хау мач wо:п ту лэт аут й**э**стэдэй]"
           }
         ]
       },
@@ -82,7 +82,7 @@
           },
           {
             "ours": "Капитан решит маршрут завтра?",
-            "thought": "Будет [известный] капитан решать [известный] маршрут завтра?",
+            "thought": "Будет [известный] шкипер решать [известный] маршрут завтра?",
             "english": "Will the skipper decide the route tomorrow?",
             "transcription": "[wил ðэ ск**и**пэ дис**а**йд ðэ ру:т тэм**о**роу]"
           }
@@ -100,10 +100,10 @@
             "transcription": "[ðэ дж**у**эри wоз дис**а**йдиŋ ðэ w**и**нэ wэн ю: эр**а**йвд]"
           },
           {
-            "ours": "Капитан решал маршрут, когда ты прибыл?",
-            "thought": "Был [известный] капитан решающим [известный] маршрут, когда ты прибыл?",
-            "english": "Was the skipper deciding the route when you arrived?",
-            "transcription": "[wоз ðэ ск**и**пэ дис**а**йдиŋ ðэ ру:т wэн ю: эр**а**йвд]"
+            "ours": "Шкипер решал, брать ли буксирный конец, когда ты прибыл?",
+            "thought": "Был [известный] шкипер решающим, ли взять [какой-то] буксирный конец, когда ты прибыл?",
+            "english": "Was the skipper deciding whether to take a towline when you arrived?",
+            "transcription": "[wоз ðэ ск**и**пэ дис**а**йдиŋ w**э**ðэ ту тэйк э т**о**улайн wэн ю: эр**а**йвд]"
           }
         ]
       },
@@ -135,7 +135,7 @@
           },
           {
             "ours": "Капитан завтра будет решать маршрут?",
-            "thought": "Будет [известный] капитан быть решающим [известный] маршрут завтра?",
+            "thought": "Будет [известный] шкипер быть решающим [известный] маршрут завтра?",
             "english": "Will the skipper be deciding the route tomorrow?",
             "transcription": "[wил ðэ ск**и**пэ би: дис**а**йдиŋ ðэ ру:т тэм**о**роу]"
           }
@@ -154,7 +154,7 @@
           },
           {
             "ours": "Капитан решил маршрут к полудню?",
-            "thought": "Имел [известный] капитан решённым [известный] маршрут к полудню?",
+            "thought": "Имел [известный] шкипер решённым [известный] маршрут к полудню?",
             "english": "Had the skipper decided the route by noon?",
             "transcription": "[хæд ðэ ск**и**пэ дис**а**йдид ðэ ру:т бай ну:н]"
           }
@@ -187,10 +187,10 @@
             "transcription": "[бай файв ðэ дж**у**эри wил хæв дис**а**йдид ðэ w**и**нэ]"
           },
           {
-            "ours": "Капитан решит маршрут к пяти?",
-            "thought": "Будет [известный] капитан иметь решённым [известный] маршрут к пяти?",
-            "english": "Will the skipper have decided the route by five?",
-            "transcription": "[wил ðэ ск**и**пэ хæв дис**а**йдид ðэ ру:т бай файв]"
+            "ours": "Шкипер к пяти решит, какой длины нужен якорный конец?",
+            "thought": "Будет [известный] шкипер иметь решённой [известную] длину от [известного] якорного конца к пяти?",
+            "english": "Will the skipper have decided the length of the rode by five?",
+            "transcription": "[wил ðэ ск**и**пэ хæв дис**а**йдид ðэ лэŋθ ов ðэ роуд бай файв]"
           }
         ]
       }
@@ -207,7 +207,7 @@
           },
           {
             "ours": "Капитан решал маршрут час до обеда?",
-            "thought": "Имел [известный] капитан быть решающим [известный] маршрут целый [какой-то] час перед обедом?",
+            "thought": "Имел [известный] шкипер быть решающим [известный] маршрут целый [какой-то] час перед обедом?",
             "english": "Had the skipper been deciding the route for an hour before lunch?",
             "transcription": "[хæд ðэ ск**и**пэ би:н дис**а**йдиŋ ðэ ру:т фо: эн **а**уэ биф**о**: ланч]"
           }
@@ -241,7 +241,7 @@
           },
           {
             "ours": "Капитан к пяти будет решать маршрут уже час?",
-            "thought": "Будет [известный] капитан иметь быть решающим [известный] маршрут целый [какой-то] час к пяти?",
+            "thought": "Будет [известный] шкипер иметь быть решающим [известный] маршрут целый [какой-то] час к пяти?",
             "english": "Will the skipper have been deciding the route for an hour by five?",
             "transcription": "[wил ðэ ск**и**пэ хæв би:н дис**а**йдиŋ ðэ ру:т фо: эн **а**уэ бай файв]"
           }
@@ -367,10 +367,10 @@
             "transcription": "[бай ну:н ðэ w**и**нэ хæд би:н дис**а**йдид]"
           },
           {
-            "ours": "Маршрут решили к полудню?",
-            "thought": "Имел [известный] маршрут быть решён к полудню?",
-            "english": "Had the route been decided by noon?",
-            "transcription": "[хæд ðэ ру:т би:н дис**а**йдид бай ну:н]"
+            "ours": "К полудню решили, сколько цепи вытравить?",
+            "thought": "Имела [известная] длина вытравленной цепи быть решена к полудню?",
+            "english": "Had the scope been decided by noon?",
+            "transcription": "[хæд ðэ скоуп би:н дис**а**йдид бай ну:н]"
           }
         ]
       },
@@ -416,10 +416,10 @@
   "future_in_past": {
     "examples": [
       {
-        "ours": "Я знал, что капитан решит маршрут.",
-        "thought": "Я знал [известный] капитан будет решать [известный] маршрут.",
-        "english": "I knew the skipper would decide the route.",
-        "transcription": "[ай нью: ðэ ск**и**пэ wуд дис**а**йд ðэ ру:т]"
+        "ours": "Я знал, что шкипер выберет полипропилен за его плавучесть.",
+        "thought": "Я знал [известный] шкипер будет решать на полипропилене за его плавучесть.",
+        "english": "I knew the skipper would decide on polypropylene for its buoyancy.",
+        "transcription": "[ай нью: ðэ ск**и**пэ wуд дис**а**йд он полипр**о**упэли:н фо: итс б**о**йэнси]"
       },
       {
         "ours": "Мы думали, что жюри не определит победителя.",
@@ -431,119 +431,14 @@
   },
   "nouns": [
     {
-      "word": "jury",
-      "meaning": "жюри",
-      "sense": "contest",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.0",
-          "form": "jury"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "jury"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "jury"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "jury"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "jury"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "jury"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "jury"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "jury"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "jury"
-        }
-      ]
-    },
-    {
-      "word": "winner",
-      "meaning": "победитель",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.0",
-          "form": "winner"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "winner"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "winner"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "winner"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "winner"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "winner"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "winner"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "winner"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "winner"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "winner"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "winner"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "winner"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "winner"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "winner"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "winner"
-        }
-      ]
-    },
-    {
       "word": "skipper",
       "meaning": "капитан",
       "used_in": [
         {
+          "phrase": "active.simple.past.0",
+          "form": "skipper"
+        },
+        {
           "phrase": "active.simple.past.1",
           "form": "skipper"
         },
@@ -582,68 +477,22 @@
       ]
     },
     {
-      "word": "route",
-      "meaning": "маршрут",
+      "word": "ratio",
+      "meaning": "соотношение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "ratio"
+        }
+      ]
+    },
+    {
+      "word": "warp",
+      "meaning": "канат",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "route"
-        },
-        {
-          "phrase": "active.simple.future.1",
-          "form": "route"
-        },
-        {
-          "phrase": "active.continuous.past.1",
-          "form": "route"
-        },
-        {
-          "phrase": "active.continuous.future.1",
-          "form": "route"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "route"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "route"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.1",
-          "form": "route"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.1",
-          "form": "route"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "route"
-        },
-        {
-          "phrase": "passive.simple.future.1",
-          "form": "route"
-        },
-        {
-          "phrase": "passive.continuous.past.1",
-          "form": "route"
-        },
-        {
-          "phrase": "passive.continuous.future.1",
-          "form": "route"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "route"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "route"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "route"
+          "form": "warp"
         }
       ]
     },
@@ -794,6 +643,163 @@
       ]
     },
     {
+      "word": "jury",
+      "meaning": "жюри",
+      "sense": "contest",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "jury"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "jury"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "jury"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "jury"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "jury"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "jury"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "jury"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "jury"
+        }
+      ]
+    },
+    {
+      "word": "winner",
+      "meaning": "победитель",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "winner"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "winner"
+        }
+      ]
+    },
+    {
+      "word": "route",
+      "meaning": "маршрут",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "route"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "route"
+        }
+      ]
+    },
+    {
+      "word": "towline",
+      "meaning": "буксирный конец",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "towline"
+        }
+      ]
+    },
+    {
       "word": "noon",
       "meaning": "полдень",
       "used_in": [
@@ -812,6 +818,26 @@
         {
           "phrase": "passive.perfect.past.1",
           "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "length",
+      "meaning": "длина",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "length"
+        }
+      ]
+    },
+    {
+      "word": "rode",
+      "meaning": "якорный конец",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "rode"
         }
       ]
     },
@@ -856,6 +882,36 @@
         {
           "phrase": "active.perfect_continuous.past.1",
           "form": "lunch"
+        }
+      ]
+    },
+    {
+      "word": "scope",
+      "meaning": "длина вытравленной цепи",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "scope"
+        }
+      ]
+    },
+    {
+      "word": "polypropylene",
+      "meaning": "полипропилен",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "polypropylene"
+        }
+      ]
+    },
+    {
+      "word": "buoyancy",
+      "meaning": "плавучесть",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "buoyancy"
         }
       ]
     }

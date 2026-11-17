@@ -64,10 +64,10 @@
         "form": "lose, loses",
         "examples": [
           {
-            "ours": "Яхта теряет скорость против ветра.",
-            "thought": "[Известная] яхта теряет скорость против [известного] ветра.",
-            "english": "The yacht loses speed against the wind.",
-            "transcription": "[ðэ йот л**у**:зиз спи:д эг**э**нст ðэ wинд]"
+            "ours": "Нейлон в воде теряет часть прочности.",
+            "thought": "Нейлон теряет некоторую прочность в воде.",
+            "english": "Nylon loses some strength in water.",
+            "transcription": "[н**а**йлон л**у**:зиз сам стрэŋθ ин w**о**:тэ]"
           },
           {
             "ours": "Ты часто теряешь ключи?",
@@ -99,10 +99,10 @@
             "transcription": "[wил ю: лу:з ðэ рэйс]"
           },
           {
-            "ours": "Она не потеряет карту.",
-            "thought": "Она будет не терять [известную] карту.",
-            "english": "She will not lose the chart.",
-            "transcription": "[ши: wил нот лу:з ðэ ча:т]"
+            "ours": "Полиэстер на солнце почти не потеряет прочности.",
+            "thought": "Полиэстер будет не терять много прочности в [известном] солнце.",
+            "english": "Polyester will not lose much strength in the sun.",
+            "transcription": "[поли**э**стэ wил нот лу:з мач стрэŋθ ин ðэ сан]"
           }
         ]
       }
@@ -171,10 +171,10 @@
             "transcription": "[бай ну:н wи: хæд о:лр**э**ди лост ðи **æ**нкэ]"
           },
           {
-            "ours": "Ты потерял карту до шторма?",
-            "thought": "Имел ты потерянной [известную] карту до [известного] шторма?",
-            "english": "Had you lost the chart before the storm?",
-            "transcription": "[хæд ю: лост ðэ ча:т биф**о**: ðэ сто:м]"
+            "ours": "Старый канат потерял растяжимость ещё до шторма?",
+            "thought": "Имел [известный] старый канат потерянным его растяжение до [известного] шторма?",
+            "english": "Had the old warp lost its stretch before the storm?",
+            "transcription": "[хæд ðи оулд wо:п лост итс стрэч биф**о**: ðэ сто:м]"
           }
         ]
       },
@@ -188,10 +188,10 @@
             "transcription": "[wи: хæв о:лр**э**ди лост ðэ с**и**гнл]"
           },
           {
-            "ours": "Ты уже потерял ключи?",
-            "thought": "Имеешь ты потерянными [известные] ключи уже?",
-            "english": "Have you lost the keys yet?",
-            "transcription": "[хæв ю: лост ðэ ки:з йэт]"
+            "ours": "Этот конец уже потерял часть разрывной нагрузки?",
+            "thought": "Имеет этот конец потерянной какую-нибудь разрывную нагрузку уже?",
+            "english": "Has this line lost any breaking strength yet?",
+            "transcription": "[хæз ðис лайн лост **э**ни бр**э**йкиŋ стрэŋθ йэт]"
           }
         ]
       },
@@ -290,10 +290,10 @@
         "form": "am/is/are lost",
         "examples": [
           {
-            "ours": "Ключи часто теряются в марине.",
-            "thought": "Ключи есть потеряны часто в [известной] марине.",
-            "english": "Keys are often lost in the marina.",
-            "transcription": "[ки:з а: **о**фэн лост ин ðэ мэр**и**:нэ]"
+            "ours": "Из-за истирания разрывная нагрузка часто падает.",
+            "thought": "Разрывная нагрузка есть часто потеряна через истирание.",
+            "english": "Breaking strength is often lost through abrasion.",
+            "transcription": "[бр**э**йкиŋ стрэŋθ из **о**фэн лост θру: эбр**э**йжн]"
           },
           {
             "ours": "Сигнал теряется за островом?",
@@ -434,10 +434,10 @@
   "future_in_past": {
     "examples": [
       {
-        "ours": "Я знал, что они потеряют сигнал.",
-        "thought": "Я знал, они будут терять [известный] сигнал.",
-        "english": "I knew they would lose the signal.",
-        "transcription": "[ай нью: ðэй wуд лу:з ðэ с**и**гнл]"
+        "ours": "Я знал, что на солнце волокна потеряют прочность.",
+        "thought": "Я знал, [известные] волокна будут терять прочность в солнечном свете.",
+        "english": "I knew the fibres would lose strength in sunlight.",
+        "transcription": "[ай нью: ðэ ф**а**йбэз wуд лу:з стрэŋθ ин с**а**нлайт]"
       },
       {
         "ours": "Она думала, что мы не проиграем гонку.",
@@ -511,13 +511,153 @@
       ]
     },
     {
-      "word": "yacht",
-      "meaning": "яхта",
+      "word": "nylon",
+      "meaning": "нейлон",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "yacht"
+          "form": "Nylon"
+        }
+      ]
+    },
+    {
+      "word": "strength",
+      "meaning": "прочность",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "strength"
         },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "strength"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "strength"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "key",
+      "meaning": "ключ",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "keys"
+        }
+      ]
+    },
+    {
+      "word": "signal",
+      "meaning": "сигнал",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "signal"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "signal"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "polyester",
+      "meaning": "полиэстер",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "Polyester"
+        }
+      ]
+    },
+    {
+      "word": "sun",
+      "meaning": "солнце",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "sun"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
         {
           "phrase": "active.continuous.past.0",
           "form": "yacht"
@@ -548,10 +688,6 @@
       "word": "speed",
       "meaning": "скорость",
       "used_in": [
-        {
-          "phrase": "active.simple.present.0",
-          "form": "speed"
-        },
         {
           "phrase": "active.continuous.past.0",
           "form": "speed"
@@ -595,138 +731,6 @@
         {
           "phrase": "passive.continuous.future.0",
           "form": "speed"
-        }
-      ]
-    },
-    {
-      "word": "wind",
-      "meaning": "ветер",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "wind"
-        }
-      ]
-    },
-    {
-      "word": "key",
-      "meaning": "ключ",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.1",
-          "form": "keys"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "keys"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "Keys"
-        }
-      ]
-    },
-    {
-      "word": "signal",
-      "meaning": "сигнал",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.2",
-          "form": "signal"
-        },
-        {
-          "phrase": "active.continuous.past.1",
-          "form": "signal"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "signal"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "signal"
-        },
-        {
-          "phrase": "passive.simple.present.1",
-          "form": "signal"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "signal"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "signal"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "signal"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "signal"
-        }
-      ]
-    },
-    {
-      "word": "marina",
-      "meaning": "марина",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.2",
-          "form": "marina"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "marina"
-        }
-      ]
-    },
-    {
-      "word": "island",
-      "meaning": "остров",
-      "used_in": [
-        {
-          "phrase": "active.simple.future.0",
-          "form": "island"
-        },
-        {
-          "phrase": "passive.simple.present.1",
-          "form": "island"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "island"
-        }
-      ]
-    },
-    {
-      "word": "chart",
-      "meaning": "морская карта",
-      "used_in": [
-        {
-          "phrase": "active.simple.future.2",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "charts"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.future.1",
-          "form": "chart"
         }
       ]
     },
@@ -864,6 +868,50 @@
       ]
     },
     {
+      "word": "warp",
+      "meaning": "канат",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "warp"
+        }
+      ]
+    },
+    {
+      "word": "stretch",
+      "meaning": "растяжение",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "stretch"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "breaking strength",
+      "meaning": "разрывная нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "breaking strength"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Breaking strength"
+        }
+      ]
+    },
+    {
       "word": "hour",
       "meaning": "час",
       "used_in": [
@@ -900,6 +948,54 @@
         {
           "phrase": "active.perfect_continuous.past.0",
           "form": "problem"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "charts"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "abrasion",
+      "meaning": "истирание",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "abrasion"
+        }
+      ]
+    },
+    {
+      "word": "fibre",
+      "meaning": "волокно",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "fibres"
+        }
+      ]
+    },
+    {
+      "word": "sunlight",
+      "meaning": "солнечный свет",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "sunlight"
         }
       ]
     }

@@ -53,10 +53,10 @@
             "transcription": "[ай диднт æд б**æ**лэст]"
           },
           {
-            "ours": "Ты добавил её пункт?",
-            "thought": "[Сделал] ты добавлять её пункт?",
-            "english": "Did you add her waypoint?",
-            "transcription": "[дид ю: æд хœ: w**э**йпойнт]"
+            "ours": "Ты прибавил подъём воды к глубине?",
+            "thought": "[Сделал] ты добавлять [известный] подъём от прилива к [известной] глубине?",
+            "english": "Did you add the rise of tide to the depth?",
+            "transcription": "[дид ю: æд ðэ райз ов тайд ту ðэ дэпθ]"
           }
         ]
       },
@@ -87,10 +87,10 @@
         "form": "will add",
         "examples": [
           {
-            "ours": "Завтра мы добавим новую отметку.",
-            "thought": "Завтра мы будем добавлять [какую-то] новую отметку.",
-            "english": "Tomorrow we will add a new marker.",
-            "transcription": "[тэм**о**роу wи: wил æд э нью: м**а**:кэ]"
+            "ours": "Завтра мы прибавим к осадке метр запаса.",
+            "thought": "Завтра мы будем добавлять один метр от запаса к нашей осадке.",
+            "english": "Tomorrow we will add one metre of clearance to our draught.",
+            "transcription": "[тэм**о**роу wи: wил æд wан м**и**:тэ ов кл**и**эрэнс ту ауэ дра:фт]"
           },
           {
             "ours": "Я не добавлю балласт.",
@@ -135,10 +135,10 @@
         "form": "am/is/are adding",
         "examples": [
           {
-            "ours": "Я сейчас добавляю отметки.",
-            "thought": "Я являюсь добавляющим отметки сейчас.",
-            "english": "I am adding markers now.",
-            "transcription": "[ай æм **æ**диŋ м**а**:кэз нау]"
+            "ours": "Я сейчас вношу в журнал глубины с эхолота.",
+            "thought": "Я являюсь добавляющим глубины от [известного] эхолота в [известный] журнал сейчас.",
+            "english": "I am adding depths from the depth sounder to the log now.",
+            "transcription": "[ай æм **æ**диŋ дэпθс фром ðэ дэпθ с**а**ундэ ту ðэ лог нау]"
           },
           {
             "ours": "Она сейчас не добавляет балласт.",
@@ -206,10 +206,10 @@
         "form": "have/has added",
         "examples": [
           {
-            "ours": "Я уже добавил пункт.",
-            "thought": "Я имею уже добавленным [известный] пункт.",
-            "english": "I have already added the waypoint.",
-            "transcription": "[ай хæв о:лр**э**ди **æ**дид ðэ w**э**йпойнт]"
+            "ours": "Я уже прибавил два часа ко времени полной воды.",
+            "thought": "Я имею уже добавленными два часа к [известному] времени от полной воды.",
+            "english": "I have already added two hours to the time of high water.",
+            "transcription": "[ай хæв о:лр**э**ди **æ**дид ту: **а**уэз ту ðэ тайм ов хай w**о**:тэ]"
           },
           {
             "ours": "Она ещё не добавила позицию.",
@@ -321,10 +321,10 @@
             "transcription": "[ðэ w**э**йпойнтс wœ:нт **æ**дид ту ðэ лист]"
           },
           {
-            "ours": "Пункт добавили утром?",
-            "thought": "Был [известный] пункт добавлен в [известное] утро?",
-            "english": "Was the waypoint added in the morning?",
-            "transcription": "[wоз ðэ w**э**йпойнт **æ**дид ин ðэ м**о**:ниŋ]"
+            "ours": "Подъём воды утром добавили в расчёт?",
+            "thought": "Был [известный] подъём от прилива добавлен к [известному] расчёту в [известное] утро?",
+            "english": "Was the rise of tide added to the calculation in the morning?",
+            "transcription": "[wоз ðэ райз ов тайд **æ**дид ту ðэ кæлкюл**э**йшн ин ðэ м**о**:ниŋ]"
           }
         ]
       },
@@ -474,10 +474,10 @@
         "form": "have/has been added",
         "examples": [
           {
-            "ours": "Пункт уже добавили.",
-            "thought": "[Известный] пункт имеет уже быть добавлен.",
-            "english": "The waypoint has already been added.",
-            "transcription": "[ðэ w**э**йпойнт хæз о:лр**э**ди би:н **æ**дид]"
+            "ours": "Высоту прилива над нулём глубин уже прибавили.",
+            "thought": "[Известная] высота от прилива выше нуля глубин имеет уже быть добавлена.",
+            "english": "The height of tide above chart datum has already been added.",
+            "transcription": "[ðэ хайт ов тайд эб**а**в ча:т д**э**йтэм хæз о:лр**э**ди би:н **æ**дид]"
           },
           {
             "ours": "Отметки ещё не добавили.",
@@ -524,10 +524,10 @@
   "future_in_past": {
     "examples": [
       {
-        "ours": "Я знал, что она добавит пункт.",
-        "thought": "Я знал, она будет добавлять [известный] пункт.",
-        "english": "I knew she would add the waypoint.",
-        "transcription": "[ай нью: ши: wуд æд ðэ w**э**йпойнт]"
+        "ours": "Я знал, что она внесёт посадку на мель в свой отчёт.",
+        "thought": "Я знал, она будет добавлять [известную] посадку на мель в её отчёт.",
+        "english": "I knew she would add the grounding to her report.",
+        "transcription": "[ай нью: ши: wуд æд ðэ гр**а**ундиŋ ту хœ: рип**о**:т]"
       },
       {
         "ours": "Мы думали, что он не добавит воду.",
@@ -619,100 +619,48 @@
       ]
     },
     {
-      "word": "waypoint",
-      "meaning": "путевая точка",
+      "word": "rise",
+      "meaning": "подъём",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "waypoint"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "waypoint"
-        },
-        {
-          "phrase": "active.continuous.past.2",
-          "form": "waypoints"
-        },
-        {
-          "phrase": "active.continuous.present.2",
-          "form": "waypoint"
-        },
-        {
-          "phrase": "active.continuous.future.2",
-          "form": "waypoints"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "waypoint"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "waypoint"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "waypoints"
-        },
-        {
-          "phrase": "active.perfect.future.2",
-          "form": "waypoint"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.1",
-          "form": "waypoints"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "waypoints"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "waypoints"
+          "form": "rise"
         },
         {
           "phrase": "passive.simple.past.2",
-          "form": "waypoint"
+          "form": "rise"
+        }
+      ]
+    },
+    {
+      "word": "tide",
+      "meaning": "прилив",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "tide"
         },
         {
-          "phrase": "passive.simple.future.2",
-          "form": "waypoint"
-        },
-        {
-          "phrase": "passive.continuous.past.1",
-          "form": "Waypoints"
-        },
-        {
-          "phrase": "passive.continuous.present.2",
-          "form": "waypoints"
-        },
-        {
-          "phrase": "passive.continuous.future.1",
-          "form": "waypoints"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "waypoint"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "waypoints"
+          "phrase": "passive.simple.past.2",
+          "form": "tide"
         },
         {
           "phrase": "passive.perfect.present.0",
-          "form": "waypoint"
+          "form": "tide"
+        }
+      ]
+    },
+    {
+      "word": "depth",
+      "meaning": "глубина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "depth"
         },
         {
-          "phrase": "passive.perfect.future.1",
-          "form": "waypoints"
-        },
-        {
-          "phrase": "passive.perfect.future.2",
-          "form": "waypoint"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "waypoint"
+          "phrase": "active.continuous.present.0",
+          "form": "depths"
         }
       ]
     },
@@ -771,17 +719,171 @@
       ]
     },
     {
-      "word": "marker",
-      "meaning": "отметка",
+      "word": "metre",
+      "meaning": "метр",
       "used_in": [
         {
           "phrase": "active.simple.future.0",
-          "form": "marker"
+          "form": "metre"
+        }
+      ]
+    },
+    {
+      "word": "clearance",
+      "meaning": "запас",
+      "sense": "space",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "clearance"
+        }
+      ]
+    },
+    {
+      "word": "draught",
+      "meaning": "осадка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "draught"
+        }
+      ]
+    },
+    {
+      "word": "waypoint",
+      "meaning": "путевая точка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "waypoint"
         },
         {
-          "phrase": "active.continuous.present.0",
-          "form": "markers"
+          "phrase": "active.continuous.past.2",
+          "form": "waypoints"
         },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "waypoint"
+        },
+        {
+          "phrase": "active.continuous.future.2",
+          "form": "waypoints"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "waypoint"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "waypoints"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "waypoint"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "waypoints"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "waypoints"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "waypoints"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "waypoint"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "Waypoints"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "waypoints"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "waypoints"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "waypoint"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "waypoints"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "waypoints"
+        },
+        {
+          "phrase": "passive.perfect.future.2",
+          "form": "waypoint"
+        }
+      ]
+    },
+    {
+      "word": "provision",
+      "meaning": "запасы",
+      "sense": "food",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "provisions"
+        }
+      ]
+    },
+    {
+      "word": "depth sounder",
+      "meaning": "эхолот",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "depth sounder"
+        }
+      ]
+    },
+    {
+      "word": "log",
+      "meaning": "судовой журнал",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "log"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "marker",
+      "meaning": "отметка",
+      "used_in": [
         {
           "phrase": "active.continuous.future.1",
           "form": "markers"
@@ -837,39 +939,6 @@
         {
           "phrase": "future_in_past.2",
           "form": "markers"
-        }
-      ]
-    },
-    {
-      "word": "provision",
-      "meaning": "запасы",
-      "sense": "food",
-      "used_in": [
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "provisions"
-        }
-      ]
-    },
-    {
-      "word": "day",
-      "meaning": "день",
-      "used_in": [
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "day"
-        },
-        {
-          "phrase": "passive.simple.present.2",
-          "form": "day"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "day"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "day"
         }
       ]
     },
@@ -964,27 +1033,13 @@
       ]
     },
     {
-      "word": "Friday",
-      "meaning": "пятница",
-      "used_in": [
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "Friday"
-        },
-        {
-          "phrase": "passive.perfect.past.2",
-          "form": "Friday"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "Friday"
-        }
-      ]
-    },
-    {
       "word": "hour",
       "meaning": "час",
       "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "hours"
+        },
         {
           "phrase": "active.perfect_continuous.past.0",
           "form": "hours"
@@ -1008,6 +1063,44 @@
         {
           "phrase": "active.perfect_continuous.future.1",
           "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "high water",
+      "meaning": "полная вода",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "high water"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "Friday"
+        },
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "Friday"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "Friday"
         }
       ]
     },
@@ -1042,12 +1135,62 @@
       ]
     },
     {
+      "word": "calculation",
+      "meaning": "расчёт",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "calculation"
+        }
+      ]
+    },
+    {
       "word": "end",
       "meaning": "конец",
       "used_in": [
         {
           "phrase": "passive.simple.present.0",
           "form": "end"
+        }
+      ]
+    },
+    {
+      "word": "height",
+      "meaning": "высота",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "height"
+        }
+      ]
+    },
+    {
+      "word": "chart datum",
+      "meaning": "нуль глубин",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "chart datum"
+        }
+      ]
+    },
+    {
+      "word": "grounding",
+      "meaning": "посадка на мель",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "grounding"
+        }
+      ]
+    },
+    {
+      "word": "report",
+      "meaning": "отчёт",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "report"
         }
       ]
     }

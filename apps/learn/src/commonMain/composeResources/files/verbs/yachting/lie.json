@@ -70,16 +70,16 @@
             "transcription": "[ðэ фут ов ðэ м**э**йнсэйл лайз эл**о**ŋ ðэ бу:м]"
           },
           {
-            "ours": "Трос не лежит на палубе.",
-            "thought": "[Известный] трос [делает] не лежать на [известной] палубе.",
-            "english": "The rope doesn't lie on the deck.",
-            "transcription": "[ðэ роуп дазнт лай он ðэ дэк]"
+            "ours": "Полипропиленовый конец не лежит на дне.",
+            "thought": "[Какой-то] полипропиленовый конец [делает] не лежать на [известном] морском дне.",
+            "english": "A polypropylene line doesn't lie on the seabed.",
+            "transcription": "[э полипр**о**упэли:н лайн дазнт лай он ðэ с**и**:бэд]"
           },
           {
-            "ours": "Карта лежит в каюте?",
-            "thought": "[Делает] [известная] карта лежать в [известной] каюте?",
-            "english": "Does the chart lie in the cabin?",
-            "transcription": "[даз ðэ ча:т лай ин ðэ к**æ**бин]"
+            "ours": "Якорный конец идёт под крутым углом?",
+            "thought": "[Делает] [известный] якорный конец лежать под [каким-то] крутым углом?",
+            "english": "Does the rode lie at a steep angle?",
+            "transcription": "[даз ðэ роуд лай æт э сти:п **æ**ŋгл]"
           }
         ]
       },
@@ -93,16 +93,16 @@
             "transcription": "[тэм**о**роу ðэ йот wил лай æт **æ**нкэ]"
           },
           {
-            "ours": "Трос не будет лежать на палубе.",
-            "thought": "[Известный] трос будет не лежать на [известной] палубе.",
-            "english": "The rope won't lie on the deck.",
-            "transcription": "[ðэ роуп wоунт лай он ðэ дэк]"
+            "ours": "Якорь не ляжет ровно в носовой роульс.",
+            "thought": "[Известный] якорь будет не лежать ровно в [известном] носовом роульсе.",
+            "english": "The anchor won't lie flat in the bow roller.",
+            "transcription": "[ðи **æ**нкэ wоунт лай флæт ин ðэ бау р**о**улэ]"
           },
           {
-            "ours": "Лодка будет стоять в гавани до утра?",
-            "thought": "Будет [известная] лодка лежать в [известной] гавани до утра?",
-            "english": "Will the boat lie in the harbor until morning?",
-            "transcription": "[wил ðэ боут лай ин ðэ х**а**:бэ энт**и**л м**о**:ниŋ]"
+            "ours": "Швартовы будут провисать до утра?",
+            "thought": "Будут [известные] швартовы лежать провисшими до утра?",
+            "english": "Will the mooring lines lie slack until morning?",
+            "transcription": "[wил ðэ м**у**эриŋ лайнз лай слæк энт**и**л м**о**:ниŋ]"
           }
         ]
       }
@@ -188,10 +188,10 @@
             "transcription": "[ðэ йот хæз лэйн æт **æ**нкэ фо: ту: дэйз]"
           },
           {
-            "ours": "Карта лежала в каюте два дня?",
-            "thought": "Имеет [известная] карта пролежавшим в [известной] каюте целых два дня?",
-            "english": "Has the chart lain in the cabin for two days?",
-            "transcription": "[хæз ðэ ча:т лэйн ин ðэ к**æ**бин фо: ту: дэйз]"
+            "ours": "Запасной канат лежит в рундуке уже два дня?",
+            "thought": "Имеет [известный] запасной канат пролежавшим в [известном] рундуке целых два дня?",
+            "english": "Has the spare warp lain in the locker for two days?",
+            "transcription": "[хæз ðэ спээ wо:п лэйн ин ðэ л**о**кэ фо: ту: дэйз]"
           }
         ]
       },
@@ -294,22 +294,22 @@
   },
   "nouns": [
     {
-      "word": "island",
-      "meaning": "остров",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.0",
-          "form": "island"
-        }
-      ]
-    },
-    {
       "word": "noon",
       "meaning": "полдень",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
           "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "island"
         }
       ]
     },
@@ -329,14 +329,6 @@
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "deck"
-        },
-        {
-          "phrase": "active.simple.present.1",
-          "form": "deck"
-        },
-        {
-          "phrase": "active.simple.future.1",
           "form": "deck"
         },
         {
@@ -378,15 +370,7 @@
           "form": "chart"
         },
         {
-          "phrase": "active.simple.present.2",
-          "form": "chart"
-        },
-        {
           "phrase": "active.perfect.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.present.1",
           "form": "chart"
         }
       ]
@@ -400,15 +384,7 @@
           "form": "cabin"
         },
         {
-          "phrase": "active.simple.present.2",
-          "form": "cabin"
-        },
-        {
           "phrase": "active.perfect.past.1",
-          "form": "cabin"
-        },
-        {
-          "phrase": "active.perfect.present.1",
           "form": "cabin"
         }
       ]
@@ -463,20 +439,52 @@
       ]
     },
     {
-      "word": "rope",
-      "meaning": "трос",
+      "word": "polypropylene",
+      "meaning": "полипропилен",
       "used_in": [
         {
           "phrase": "active.simple.present.1",
-          "form": "rope"
-        },
+          "form": "polypropylene"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
         {
-          "phrase": "active.simple.future.1",
-          "form": "rope"
-        },
+          "phrase": "active.simple.present.1",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "seabed",
+      "meaning": "морское дно",
+      "used_in": [
         {
-          "phrase": "future_in_past.1",
-          "form": "rope"
+          "phrase": "active.simple.present.1",
+          "form": "seabed"
+        }
+      ]
+    },
+    {
+      "word": "rode",
+      "meaning": "якорный конец",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "rode"
+        }
+      ]
+    },
+    {
+      "word": "angle",
+      "meaning": "угол",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "angle"
         }
       ]
     },
@@ -535,6 +543,10 @@
           "form": "anchor"
         },
         {
+          "phrase": "active.simple.future.1",
+          "form": "anchor"
+        },
+        {
           "phrase": "active.continuous.past.0",
           "form": "anchor"
         },
@@ -573,38 +585,22 @@
       ]
     },
     {
-      "word": "boat",
-      "meaning": "лодка",
+      "word": "bow roller",
+      "meaning": "носовой роульс",
       "used_in": [
         {
-          "phrase": "active.simple.future.2",
-          "form": "boat"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "boat"
-        },
-        {
-          "phrase": "future_in_past.2",
-          "form": "boat"
+          "phrase": "active.simple.future.1",
+          "form": "bow roller"
         }
       ]
     },
     {
-      "word": "harbor",
-      "meaning": "гавань",
+      "word": "mooring line",
+      "meaning": "швартов",
       "used_in": [
         {
           "phrase": "active.simple.future.2",
-          "form": "harbor"
-        },
-        {
-          "phrase": "active.perfect.future.1",
-          "form": "harbor"
-        },
-        {
-          "phrase": "future_in_past.2",
-          "form": "harbor"
+          "form": "mooring lines"
         }
       ]
     },
@@ -687,12 +683,60 @@
       ]
     },
     {
+      "word": "warp",
+      "meaning": "канат",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "warp"
+        }
+      ]
+    },
+    {
+      "word": "locker",
+      "meaning": "рундук",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "locker"
+        }
+      ]
+    },
+    {
       "word": "June",
       "meaning": "июнь",
       "used_in": [
         {
           "phrase": "active.perfect.future.0",
           "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "harbor",
+      "meaning": "гавань",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "harbor"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "harbor"
         }
       ]
     },
@@ -727,6 +771,16 @@
         {
           "phrase": "future_in_past.0",
           "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "трос",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "rope"
         }
       ]
     }

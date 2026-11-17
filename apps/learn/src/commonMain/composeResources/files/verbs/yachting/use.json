@@ -41,16 +41,16 @@
         "form": "used",
         "examples": [
           {
-            "ours": "Вчера мы пользовались рацией.",
-            "thought": "Вчера мы использовали [известную] рацию.",
-            "english": "Yesterday we used the radio.",
-            "transcription": "[й**э**стэдэй wи: ю:зд ðэ р**э**йдиоу]"
+            "ours": "Вчера мы вытравили цепь на всю длину.",
+            "thought": "Вчера мы использовали [известную] полную длину от [известной] цепи.",
+            "english": "Yesterday we used the full length of the chain.",
+            "transcription": "[й**э**стэдэй wи: ю:зд ðэ фул лэŋθ ов ðэ чэйн]"
           },
           {
-            "ours": "Ты пользовался картой до гонки?",
-            "thought": "[Сделал] ты использовать [известную] карту перед [известной] гонкой?",
-            "english": "Did you use the chart before the race?",
-            "transcription": "[дид ю: ю:з ðэ ча:т биф**о**: ðэ рэйс]"
+            "ours": "Ты смотрел на эхолот до того, как мы сели на мель?",
+            "thought": "[Сделал] ты использовать [известный] эхолот перед [известной] посадкой на мель?",
+            "english": "Did you use the depth sounder before the grounding?",
+            "transcription": "[дид ю: ю:з ðэ дэпθ с**а**ундэ биф**о**: ðэ гр**а**ундиŋ]"
           },
           {
             "ours": "Он не использовал компас.",
@@ -64,14 +64,14 @@
         "form": "use, uses",
         "examples": [
           {
-            "ours": "Экипаж часто пользуется рацией.",
-            "thought": "[Известный] экипаж часто использует [известную] рацию.",
-            "english": "The crew often uses the radio.",
-            "transcription": "[ðэ кру: **о**фэн й**у**:зиз ðэ р**э**йдиоу]"
+            "ours": "Наш штурман часто берёт в расчёты время полной воды.",
+            "thought": "Наш штурман часто использует [известное] время от полной воды в его расчётах.",
+            "english": "Our navigator often uses the time of high water in his calculations.",
+            "transcription": "[ауэ н**æ**вигэйтэ **о**фэн й**у**:зиз ðэ тайм ов хай w**о**:тэ ин хиз кæлкюл**э**йшнз]"
           },
           {
             "ours": "В слабый ветер он не трогает оттяжку гика.",
-            "thought": "Он [делает] не использовать [известную] оттяжку гика в лёгких ветрах.",
+            "thought": "Он [делает] не использовать [известную] оттяжку гика в слабых ветрах.",
             "english": "He doesn't use the vang in light winds.",
             "transcription": "[хи: дазнт ю:з ðэ вæŋ ин лайт wиндз]"
           },
@@ -87,10 +87,10 @@
         "form": "will use",
         "examples": [
           {
-            "ours": "Завтра мы будем пользоваться рацией.",
-            "thought": "Завтра мы будем использовать [известную] рацию.",
-            "english": "Tomorrow we will use the radio.",
-            "transcription": "[тэм**о**роу wи: wил ю:з ðэ р**э**йдиоу]"
+            "ours": "Завтра в мелком фарватере мы будем идти по эхолоту.",
+            "thought": "Завтра мы будем использовать [известный] эхолот в [известном] мелком фарватере.",
+            "english": "Tomorrow we will use the depth sounder in the shallow channel.",
+            "transcription": "[тэм**о**роу wи: wил ю:з ðэ дэпθ с**а**ундэ ин ðэ ш**æ**лоу ч**æ**нл]"
           },
           {
             "ours": "В марине он не будет пользоваться гальюном.",
@@ -290,16 +290,16 @@
         "form": "am/is/are used",
         "examples": [
           {
-            "ours": "Рацией пользуются каждый день.",
-            "thought": "[Известная] рация есть использована каждый день.",
-            "english": "The radio is used every day.",
-            "transcription": "[ðэ р**э**йдиоу из ю:зд **э**ври дэй]"
+            "ours": "Нуль глубин каждый день используют в расчётах прилива.",
+            "thought": "Нуль глубин есть использован каждый день в приливных расчётах.",
+            "english": "Chart datum is used every day in tidal calculations.",
+            "transcription": "[ча:т д**э**йтэм из ю:зд **э**ври дэй ин т**а**йдл кæлкюл**э**йшнз]"
           },
           {
-            "ours": "Карту используют на борту?",
-            "thought": "Есть [известная] карта использована на борту?",
-            "english": "Is the chart used on board?",
-            "transcription": "[из ðэ ча:т ю:зд он бо:д]"
+            "ours": "Полипропилен берут для плавающих концов из-за низкой плотности?",
+            "thought": "Есть полипропилен использован для плавающих концов из-за его низкой плотности?",
+            "english": "Is polypropylene used for floating lines because of its low density?",
+            "transcription": "[из полипр**о**упэли:н ю:зд фо: фл**о**утиŋ лайнз бик**о**з ов итс лоу д**э**нсити]"
           }
         ]
       },
@@ -396,10 +396,10 @@
         "form": "have/has been used",
         "examples": [
           {
-            "ours": "Рацией уже воспользовались.",
-            "thought": "[Известная] рация имеет уже быть использована.",
-            "english": "The radio has already been used.",
-            "transcription": "[ðэ р**э**йдиоу хæз о:лр**э**ди би:н ю:зд]"
+            "ours": "Канат уже вытравлен на всю длину.",
+            "thought": "[Известная] целая длина от [известного] каната имеет уже быть использована.",
+            "english": "The whole length of the warp has already been used.",
+            "transcription": "[ðэ хоул лэŋθ ов ðэ wо:п хæз о:лр**э**ди би:н ю:зд]"
           },
           {
             "ours": "Карту уже использовали?",
@@ -449,21 +449,188 @@
   },
   "nouns": [
     {
-      "word": "radio",
-      "meaning": "рация",
+      "word": "length",
+      "meaning": "длина",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "radio"
+          "form": "length"
         },
         {
-          "phrase": "active.simple.present.0",
-          "form": "radio"
+          "phrase": "passive.perfect.present.0",
+          "form": "length"
+        }
+      ]
+    },
+    {
+      "word": "chain",
+      "meaning": "цепь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "chain"
+        }
+      ]
+    },
+    {
+      "word": "depth sounder",
+      "meaning": "эхолот",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "depth sounder"
         },
         {
           "phrase": "active.simple.future.0",
-          "form": "radio"
+          "form": "depth sounder"
+        }
+      ]
+    },
+    {
+      "word": "grounding",
+      "meaning": "посадка на мель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "grounding"
+        }
+      ]
+    },
+    {
+      "word": "compass",
+      "meaning": "компас",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "compass"
         },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "compass"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "navigator",
+      "meaning": "штурман",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "navigator"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "high water",
+      "meaning": "полная вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "high water"
+        }
+      ]
+    },
+    {
+      "word": "calculation",
+      "meaning": "расчёт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "calculations"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "calculations"
+        }
+      ]
+    },
+    {
+      "word": "vang",
+      "meaning": "оттяжка гика",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "vang"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "winds"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "sea"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "channel",
+      "meaning": "фарватер",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "channel"
+        }
+      ]
+    },
+    {
+      "word": "head",
+      "meaning": "гальюн",
+      "sense": "toilet",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "heads"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "рация",
+      "used_in": [
         {
           "phrase": "active.continuous.past.0",
           "form": "radio"
@@ -505,10 +672,6 @@
           "form": "radio"
         },
         {
-          "phrase": "passive.simple.present.0",
-          "form": "radio"
-        },
-        {
           "phrase": "passive.simple.future.0",
           "form": "radio"
         },
@@ -529,10 +692,6 @@
           "form": "radio"
         },
         {
-          "phrase": "passive.perfect.present.0",
-          "form": "radio"
-        },
-        {
           "phrase": "passive.perfect.future.0",
           "form": "radio"
         },
@@ -543,13 +702,51 @@
       ]
     },
     {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "day"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
       "word": "chart",
       "meaning": "морская карта",
       "used_in": [
-        {
-          "phrase": "active.simple.past.1",
-          "form": "chart"
-        },
         {
           "phrase": "active.continuous.past.1",
           "form": "chart"
@@ -584,10 +781,6 @@
         },
         {
           "phrase": "passive.simple.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.present.1",
           "form": "chart"
         },
         {
@@ -629,10 +822,6 @@
       "meaning": "гонка",
       "used_in": [
         {
-          "phrase": "active.simple.past.1",
-          "form": "race"
-        },
-        {
           "phrase": "active.perfect.past.1",
           "form": "race"
         },
@@ -655,135 +844,6 @@
         {
           "phrase": "passive.perfect.future.1",
           "form": "race"
-        }
-      ]
-    },
-    {
-      "word": "compass",
-      "meaning": "компас",
-      "used_in": [
-        {
-          "phrase": "active.simple.past.2",
-          "form": "compass"
-        },
-        {
-          "phrase": "active.simple.present.2",
-          "form": "compass"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "compass"
-        },
-        {
-          "phrase": "active.continuous.present.1",
-          "form": "compass"
-        }
-      ]
-    },
-    {
-      "word": "crew",
-      "meaning": "экипаж",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.0",
-          "form": "crew"
-        }
-      ]
-    },
-    {
-      "word": "vang",
-      "meaning": "оттяжка гика",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.1",
-          "form": "vang"
-        }
-      ]
-    },
-    {
-      "word": "wind",
-      "meaning": "ветер",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.1",
-          "form": "winds"
-        }
-      ]
-    },
-    {
-      "word": "sea",
-      "meaning": "море",
-      "used_in": [
-        {
-          "phrase": "active.simple.present.2",
-          "form": "sea"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "sea"
-        }
-      ]
-    },
-    {
-      "word": "head",
-      "meaning": "гальюн",
-      "sense": "toilet",
-      "used_in": [
-        {
-          "phrase": "active.simple.future.1",
-          "form": "heads"
-        }
-      ]
-    },
-    {
-      "word": "marina",
-      "meaning": "марина",
-      "used_in": [
-        {
-          "phrase": "active.simple.future.1",
-          "form": "marina"
-        }
-      ]
-    },
-    {
-      "word": "day",
-      "meaning": "день",
-      "used_in": [
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "day"
-        },
-        {
-          "phrase": "active.continuous.past.1",
-          "form": "day"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "day"
-        },
-        {
-          "phrase": "active.continuous.future.1",
-          "form": "day"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "day"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "day"
-        },
-        {
-          "phrase": "passive.continuous.past.1",
-          "form": "day"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "day"
-        },
-        {
-          "phrase": "passive.continuous.future.1",
-          "form": "day"
         }
       ]
     },
@@ -818,12 +878,52 @@
       ]
     },
     {
-      "word": "board",
-      "meaning": "борт",
+      "word": "chart datum",
+      "meaning": "нуль глубин",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Chart datum"
+        }
+      ]
+    },
+    {
+      "word": "polypropylene",
+      "meaning": "полипропилен",
       "used_in": [
         {
           "phrase": "passive.simple.present.1",
-          "form": "board"
+          "form": "polypropylene"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "lines"
+        }
+      ]
+    },
+    {
+      "word": "density",
+      "meaning": "плотность",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "density"
+        }
+      ]
+    },
+    {
+      "word": "warp",
+      "meaning": "канат",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "warp"
         }
       ]
     },

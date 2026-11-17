@@ -41,10 +41,10 @@
         "form": "pulled",
         "examples": [
           {
-            "ours": "Вчера мы вытянули верёвку.",
-            "thought": "Вчера мы вытянули [известную] верёвку.",
-            "english": "Yesterday we pulled the rope.",
-            "transcription": "[й**э**стэдэй wи: пулд ðэ роуп]"
+            "ours": "Вчера мы вытянули сердечник из оплётки.",
+            "thought": "Вчера мы вытянули [известный] сердечник наружу из [известной] оплётки.",
+            "english": "Yesterday we pulled the core out of the braid.",
+            "transcription": "[й**э**стэдэй wи: пулд ðэ ко: аут ов ðэ брэйд]"
           },
           {
             "ours": "Ты вытянул шкот?",
@@ -76,10 +76,10 @@
             "transcription": "[ду: ю: пул роупс он дэк]"
           },
           {
-            "ours": "Мы не тянем шкоты.",
-            "thought": "Мы [делаем] не тянуть шкоты.",
-            "english": "We do not pull sheets.",
-            "transcription": "[wи: ду: нот пул ши:тс]"
+            "ours": "Мы не затягиваем пряди слишком туго.",
+            "thought": "Мы [делаем] не тянуть [известные] пряди слишком туго.",
+            "english": "We do not pull the strands too tight.",
+            "transcription": "[wи: ду: нот пул ðэ стрæндз ту: тайт]"
           }
         ]
       },
@@ -112,10 +112,10 @@
         "form": "was/were pulling",
         "examples": [
           {
-            "ours": "Вчера утром мы тянули верёвки.",
-            "thought": "Вчера утром мы были тянущими [известные] верёвки.",
-            "english": "Yesterday morning we were pulling the ropes.",
-            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: п**у**лиŋ ðэ роупс]"
+            "ours": "Вчера утром мы протягивали новый полиэстеровый фал через мачту.",
+            "thought": "Вчера утром мы были тянущими [какой-то] новый полиэстеровый фал сквозь [известную] мачту.",
+            "english": "Yesterday morning we were pulling a new polyester halyard through the mast.",
+            "transcription": "[й**э**стэдэй м**о**:ниŋ wи: wœ: п**у**лиŋ э нью: поли**э**стэ х**æ**льэд θру: ðэ ма:ст]"
           },
           {
             "ours": "Ты тянул шкот, когда я позвонил?",
@@ -273,10 +273,10 @@
         "form": "was/were pulled",
         "examples": [
           {
-            "ours": "Верёвку вытянули вчера.",
-            "thought": "[Известная] верёвка была вытянута вчера.",
-            "english": "The rope was pulled yesterday.",
-            "transcription": "[ðэ роуп wоз пулд й**э**стэдэй]"
+            "ours": "Вчера старый трос растянули до разрывной нагрузки.",
+            "thought": "[Известный] старый трос был вытянут до его разрывной нагрузки вчера.",
+            "english": "The old rope was pulled to its breaking strength yesterday.",
+            "transcription": "[ðи оулд роуп wоз пулд ту итс бр**э**йкиŋ стрэŋθ й**э**стэдэй]"
           },
           {
             "ours": "Шкоты вытянули до отхода?",
@@ -343,10 +343,10 @@
         "form": "am/is/are being pulled",
         "examples": [
           {
-            "ours": "Верёвку сейчас тянут.",
-            "thought": "[Известная] верёвка есть «долго» вытянута сейчас.",
-            "english": "The rope is being pulled now.",
-            "transcription": "[ðэ роуп из б**и**:иŋ пулд нау]"
+            "ours": "Нейлоновый буксирный конец сейчас натягивают.",
+            "thought": "[Известный] нейлоновый буксирный конец есть «долго» вытянут туго сейчас.",
+            "english": "The nylon towline is being pulled tight now.",
+            "transcription": "[ðэ н**а**йлон т**о**улайн из б**и**:иŋ пулд тайт нау]"
           },
           {
             "ours": "Шкоты сейчас тянут?",
@@ -449,84 +449,22 @@
   },
   "nouns": [
     {
-      "word": "rope",
-      "meaning": "верёвка",
+      "word": "core",
+      "meaning": "сердечник",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "rope"
-        },
+          "form": "core"
+        }
+      ]
+    },
+    {
+      "word": "braid",
+      "meaning": "оплётка",
+      "used_in": [
         {
-          "phrase": "active.simple.present.1",
-          "form": "ropes"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "rope"
-        },
-        {
-          "phrase": "active.continuous.past.0",
-          "form": "ropes"
-        },
-        {
-          "phrase": "active.continuous.future.0",
-          "form": "ropes"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "rope"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.0",
-          "form": "ropes"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.0",
-          "form": "ropes"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.0",
-          "form": "ropes"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "rope"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "Ropes"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "rope"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "rope"
-        },
-        {
-          "phrase": "passive.continuous.present.0",
-          "form": "rope"
-        },
-        {
-          "phrase": "passive.continuous.future.0",
-          "form": "ropes"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "rope"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "rope"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "rope"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "rope"
+          "phrase": "active.simple.past.0",
+          "form": "braid"
         }
       ]
     },
@@ -537,10 +475,6 @@
         {
           "phrase": "active.simple.past.1",
           "form": "sheet"
-        },
-        {
-          "phrase": "active.simple.present.2",
-          "form": "sheets"
         },
         {
           "phrase": "active.simple.future.1",
@@ -643,12 +577,92 @@
       ]
     },
     {
+      "word": "rope",
+      "meaning": "верёвка, трос",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Ropes"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "ropes"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "rope"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "rope"
+        }
+      ]
+    },
+    {
       "word": "deck",
       "meaning": "палуба",
       "used_in": [
         {
           "phrase": "active.simple.present.1",
           "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "strand",
+      "meaning": "прядь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "strands"
         }
       ]
     },
@@ -667,6 +681,36 @@
         {
           "phrase": "passive.continuous.future.0",
           "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "polyester",
+      "meaning": "полиэстер",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "polyester"
+        }
+      ]
+    },
+    {
+      "word": "halyard",
+      "meaning": "фал",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "halyard"
+        }
+      ]
+    },
+    {
+      "word": "mast",
+      "meaning": "мачта",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "mast"
         }
       ]
     },
@@ -836,6 +880,36 @@
         {
           "phrase": "passive.simple.present.1",
           "form": "chain"
+        }
+      ]
+    },
+    {
+      "word": "breaking strength",
+      "meaning": "разрывная нагрузка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "breaking strength"
+        }
+      ]
+    },
+    {
+      "word": "nylon",
+      "meaning": "нейлон",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "nylon"
+        }
+      ]
+    },
+    {
+      "word": "towline",
+      "meaning": "буксирный конец",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "towline"
         }
       ]
     }

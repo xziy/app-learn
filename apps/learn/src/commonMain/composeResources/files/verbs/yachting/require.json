@@ -53,10 +53,10 @@
             "transcription": "[ðэ рэйс диднт рикw**а**йэ э л**а**йсэнс]"
           },
           {
-            "ours": "Яхте требовалась проверка до выхода?",
-            "thought": "[Сделала] [известная] яхта требовать [какую-то] проверку перед выходом?",
-            "english": "Did the yacht require an inspection before departure?",
-            "transcription": "[дид ðэ йот рикw**а**йэ эн инсп**э**кшн биф**о**: дип**а**:чэ]"
+            "ours": "Прошлой ночью яхте понадобился более длинный якорный конец?",
+            "thought": "[Сделала] [известная] яхта требовать [какой-то] более длинный якорный конец прошлой ночью?",
+            "english": "Did the yacht require a longer rode last night?",
+            "transcription": "[дид ðэ йот рикw**а**йэ э л**о**ŋгэ роуд ла:ст найт]"
           }
         ]
       },
@@ -64,10 +64,10 @@
         "form": "require, requires",
         "examples": [
           {
-            "ours": "Двигателю требуется обслуживание.",
-            "thought": "[Известный] двигатель требует обслуживания.",
-            "english": "The engine requires maintenance.",
-            "transcription": "[ðэ **э**нджин рикw**а**йэз м**э**йнтэнэнс]"
+            "ours": "Спасательному концу нужна плавучесть.",
+            "thought": "[Какой-то] спасательный конец требует плавучести.",
+            "english": "A rescue line requires buoyancy.",
+            "transcription": "[э р**э**скью: лайн рикw**а**йэз б**о**йэнси]"
           },
           {
             "ours": "Эта лодка не требует ремонта.",
@@ -76,10 +76,10 @@
             "transcription": "[ðис боут дазнт рикw**а**йэ рип**э**эз]"
           },
           {
-            "ours": "Для регаты нужна лицензия?",
-            "thought": "[Делает] [известная] регата требовать [какую-то] лицензию?",
-            "english": "Does the regatta require a license?",
-            "transcription": "[даз ðэ риг**æ**тэ рикw**а**йэ э л**а**йсэнс]"
+            "ours": "Канату нужно соотношение больше, чем цепи?",
+            "thought": "[Делает] канат требовать [какое-то] более высокое соотношение чем цепь?",
+            "english": "Does warp require a higher ratio than chain?",
+            "transcription": "[даз wо:п рикw**а**йэ э х**а**йэ р**э**йшиоу ðæн чэйн]"
           }
         ]
       },
@@ -99,10 +99,10 @@
             "transcription": "[ðэ **э**нджин wоунт рикw**а**йэ рип**э**эз биф**о**: дип**а**:чэ]"
           },
           {
-            "ours": "Для гонки понадобится лицензия?",
-            "thought": "Будет [известная] гонка требовать [какую-то] лицензию?",
-            "english": "Will the race require a license?",
-            "transcription": "[wил ðэ рэйс рикw**а**йэ э л**а**йсэнс]"
+            "ours": "Для буксировки понадобится более прочный буксирный конец?",
+            "thought": "Будет [известная] буксировка требовать [какой-то] более прочный буксирный конец?",
+            "english": "Will the tow require a stronger towline?",
+            "transcription": "[wил ðэ тоу рикw**а**йэ э стр**о**ŋгэ т**о**улайн]"
           }
         ]
       }
@@ -189,16 +189,16 @@
             "transcription": "[лайф дж**æ**китс а: рикw**а**йэд он бо:д]"
           },
           {
-            "ours": "Для этой гонки лицензия не нужна.",
-            "thought": "[Какая-то] лицензия есть не потребована для этой гонки.",
-            "english": "A license isn't required for this race.",
-            "transcription": "[э л**а**йсэнс изнт рикw**а**йэд фо: ðис рэйс]"
+            "ours": "Якорному концу плавучесть не нужна.",
+            "thought": "Плавучесть есть не потребована для [какого-то] якорного конца.",
+            "english": "Buoyancy isn't required for an anchor line.",
+            "transcription": "[б**о**йэнси изнт рикw**а**йэд фо: эн **æ**нкэ лайн]"
           },
           {
-            "ours": "Для регаты нужна проверка?",
-            "thought": "Есть [какая-то] проверка потребована для [известной] регаты?",
-            "english": "Is an inspection required for the regatta?",
-            "transcription": "[из эн инсп**э**кшн рикw**а**йэд фо: ðэ риг**æ**тэ]"
+            "ours": "В полную воду нужно вытравить больше цепи?",
+            "thought": "Есть больше длины вытравленной цепи потребовано в полную воду?",
+            "english": "Is more scope required at high water?",
+            "transcription": "[из мо: скоуп рикw**а**йэд æт хай w**о**:тэ]"
           }
         ]
       },
@@ -355,10 +355,6 @@
           "form": "engine"
         },
         {
-          "phrase": "active.simple.present.0",
-          "form": "engine"
-        },
-        {
           "phrase": "active.simple.future.1",
           "form": "engine"
         },
@@ -415,19 +411,11 @@
           "form": "race"
         },
         {
-          "phrase": "active.simple.future.2",
-          "form": "race"
-        },
-        {
           "phrase": "active.perfect.past.1",
           "form": "race"
         },
         {
           "phrase": "passive.simple.past.1",
-          "form": "race"
-        },
-        {
-          "phrase": "passive.simple.present.1",
           "form": "race"
         },
         {
@@ -457,19 +445,7 @@
           "form": "license"
         },
         {
-          "phrase": "active.simple.present.2",
-          "form": "license"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "license"
-        },
-        {
           "phrase": "passive.simple.past.0",
-          "form": "license"
-        },
-        {
-          "phrase": "passive.simple.present.1",
           "form": "license"
         },
         {
@@ -509,13 +485,107 @@
       ]
     },
     {
-      "word": "inspection",
-      "meaning": "осмотр",
+      "word": "rode",
+      "meaning": "якорный конец",
       "used_in": [
         {
           "phrase": "active.simple.past.2",
-          "form": "inspection"
+          "form": "rode"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "rescue",
+      "meaning": "спасение",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "rescue"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "line"
         },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "buoyancy",
+      "meaning": "плавучесть",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "buoyancy"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "Buoyancy"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "warp",
+      "meaning": "канат",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "warp"
+        }
+      ]
+    },
+    {
+      "word": "ratio",
+      "meaning": "соотношение",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "ratio"
+        }
+      ]
+    },
+    {
+      "word": "chain",
+      "meaning": "цепь",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "chain"
+        }
+      ]
+    },
+    {
+      "word": "inspection",
+      "meaning": "осмотр",
+      "used_in": [
         {
           "phrase": "active.simple.future.0",
           "form": "inspection"
@@ -526,10 +596,6 @@
         },
         {
           "phrase": "passive.simple.past.2",
-          "form": "inspection"
-        },
-        {
-          "phrase": "passive.simple.present.2",
           "form": "inspection"
         },
         {
@@ -554,10 +620,6 @@
       "word": "departure",
       "meaning": "выход",
       "used_in": [
-        {
-          "phrase": "active.simple.past.2",
-          "form": "departure"
-        },
         {
           "phrase": "active.simple.future.1",
           "form": "departure"
@@ -593,26 +655,22 @@
       ]
     },
     {
-      "word": "maintenance",
-      "meaning": "обслуживание",
+      "word": "tow",
+      "meaning": "буксировка",
       "used_in": [
         {
-          "phrase": "active.simple.present.0",
-          "form": "maintenance"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "maintenance"
+          "phrase": "active.simple.future.2",
+          "form": "tow"
         }
       ]
     },
     {
-      "word": "boat",
-      "meaning": "лодка",
+      "word": "towline",
+      "meaning": "буксирный конец",
       "used_in": [
         {
-          "phrase": "active.simple.present.1",
-          "form": "boat"
+          "phrase": "active.simple.future.2",
+          "form": "towline"
         }
       ]
     },
@@ -621,20 +679,22 @@
       "meaning": "регата",
       "used_in": [
         {
-          "phrase": "active.simple.present.2",
-          "form": "regatta"
-        },
-        {
           "phrase": "active.perfect.past.0",
-          "form": "regatta"
-        },
-        {
-          "phrase": "passive.simple.present.2",
           "form": "regatta"
         },
         {
           "phrase": "passive.simple.future.2",
           "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "maintenance",
+      "meaning": "обслуживание",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "maintenance"
         }
       ]
     },
@@ -711,6 +771,36 @@
         {
           "phrase": "passive.continuous.past.1",
           "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "scope",
+      "meaning": "длина вытравленной цепи",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "scope"
+        }
+      ]
+    },
+    {
+      "word": "high water",
+      "meaning": "полная вода",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "high water"
         }
       ]
     },

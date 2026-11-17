@@ -41,10 +41,10 @@
         "form": "needed",
         "examples": [
           {
-            "ours": "Вчера нам нужна была помощь.",
-            "thought": "Вчера мы нуждались помощь.",
-            "english": "Yesterday we needed help.",
-            "transcription": "[й**э**стэдэй wи: н**и**:дид хэлп]"
+            "ours": "Вчера нам был нужен конец, который больше тянется.",
+            "thought": "Вчера мы нуждались [какой-то] конец с большим растяжением.",
+            "english": "Yesterday we needed a line with more stretch.",
+            "transcription": "[й**э**стэдэй wи: н**и**:дид э лайн wиð мо: стрэч]"
           },
           {
             "ours": "Ему не нужна была запасная верёвка.",
@@ -64,10 +64,10 @@
         "form": "need, needs",
         "examples": [
           {
-            "ours": "Нам сейчас нужна рация.",
-            "thought": "Мы нуждаемся [известную] рацию сейчас.",
-            "english": "We need the radio now.",
-            "transcription": "[wи: ни:д ðэ р**э**йдиоу нау]"
+            "ours": "Сейчас нам нужен полиэстер для новых шкотов.",
+            "thought": "Мы нуждаемся полиэстер для [известных] новых шкотов сейчас.",
+            "english": "We need polyester for the new sheets now.",
+            "transcription": "[wи: ни:д поли**э**стэ фо: ðэ нью: ши:тс нау]"
           },
           {
             "ours": "Новый руль ему не нужен.",
@@ -87,10 +87,10 @@
         "form": "will need",
         "examples": [
           {
-            "ours": "Завтра нам понадобится карта.",
-            "thought": "Завтра мы будем нуждаться [известную] карту.",
-            "english": "Tomorrow we will need the chart.",
-            "transcription": "[тэм**о**роу wи: wил ни:д ðэ ча:т]"
+            "ours": "Завтра нам понадобятся нейлоновые швартовы.",
+            "thought": "Завтра мы будем нуждаться нейлоновые швартовы.",
+            "english": "Tomorrow we will need nylon mooring lines.",
+            "transcription": "[тэм**о**роу wи: wил ни:д н**а**йлон м**у**эриŋ лайнз]"
           },
           {
             "ours": "Позже ему не понадобится компас.",
@@ -201,16 +201,16 @@
             "transcription": "[хэлп из н**и**:дид нау]"
           },
           {
-            "ours": "Карта не нужна на борту.",
-            "thought": "[Известная] карта есть не нужна на борту.",
-            "english": "The chart isn't needed on board.",
-            "transcription": "[ðэ ча:т изнт н**и**:дид он бо:д]"
+            "ours": "На круизной яхте дорогие волокна не нужны.",
+            "thought": "Дорогие волокна есть не нужны на [какой-то] круизной яхте.",
+            "english": "Expensive fibres aren't needed on a cruising yacht.",
+            "transcription": "[иксп**э**нсив ф**а**йбэз а:нт н**и**:дид он э кр**у**:зиŋ йот]"
           },
           {
-            "ours": "Для гонки нужна рация?",
-            "thought": "Есть [известная] рация нужна для [известной] гонки?",
-            "english": "Is the radio needed for the race?",
-            "transcription": "[из ðэ р**э**йдиоу н**и**:дид фо: ðэ рэйс]"
+            "ours": "Для гонки нужно малое растяжение?",
+            "thought": "Есть низкое растяжение нужно для [известной] гонки?",
+            "english": "Is low stretch needed for the race?",
+            "transcription": "[из лоу стрэч н**и**:дид фо: ðэ рэйс]"
           }
         ]
       },
@@ -312,57 +312,35 @@
         "transcription": "[ай нью: ðæт ю: wуднт ни:д ðэ к**а**мпэс]"
       },
       {
-        "ours": "Капитан сказал, что нам понадобится карта.",
-        "thought": "[Известный] капитан сказал, что мы будем нуждаться [известную] карту.",
-        "english": "The captain said that we would need the chart.",
-        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд ни:д ðэ ча:т]"
+        "ours": "Капитан сказал, что нам понадобится буксирный конец с [какой-то] более высокой рабочей нагрузкой.",
+        "thought": "[Известный] капитан сказал, что мы будем нуждаться [какой-то] буксирный конец с [какой-то] более высокой рабочей нагрузкой.",
+        "english": "The captain said that we would need a towline with a higher working load.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт wи: wуд ни:д э т**о**улайн wиð э х**а**йэ w**œ**:киŋ лоуд]"
       }
     ]
   },
   "nouns": [
     {
-      "word": "help",
-      "meaning": "помощь",
+      "word": "line",
+      "meaning": "конец",
       "used_in": [
         {
           "phrase": "active.simple.past.0",
-          "form": "help"
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "stretch",
+      "meaning": "растяжение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "stretch"
         },
         {
-          "phrase": "active.simple.future.2",
-          "form": "help"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "help"
-        },
-        {
-          "phrase": "active.perfect.present.2",
-          "form": "help"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "Help"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "Help"
-        },
-        {
-          "phrase": "passive.simple.future.0",
-          "form": "Help"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "help"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "Help"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "help"
+          "phrase": "passive.simple.present.2",
+          "form": "stretch"
         }
       ]
     },
@@ -398,40 +376,22 @@
       ]
     },
     {
-      "word": "radio",
-      "meaning": "рация",
+      "word": "polyester",
+      "meaning": "полиэстер",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "radio"
-        },
+          "form": "polyester"
+        }
+      ]
+    },
+    {
+      "word": "sheet",
+      "meaning": "шкот",
+      "used_in": [
         {
-          "phrase": "active.perfect.past.2",
-          "form": "radio"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "radio"
-        },
-        {
-          "phrase": "passive.simple.past.2",
-          "form": "radio"
-        },
-        {
-          "phrase": "passive.simple.present.2",
-          "form": "radio"
-        },
-        {
-          "phrase": "passive.simple.future.2",
-          "form": "radio"
-        },
-        {
-          "phrase": "passive.perfect.past.2",
-          "form": "radio"
-        },
-        {
-          "phrase": "passive.perfect.present.2",
-          "form": "radio"
+          "phrase": "active.simple.present.0",
+          "form": "sheets"
         }
       ]
     },
@@ -462,52 +422,26 @@
         {
           "phrase": "active.simple.present.2",
           "form": "board"
-        },
-        {
-          "phrase": "passive.simple.present.1",
-          "form": "board"
         }
       ]
     },
     {
-      "word": "chart",
-      "meaning": "морская карта",
+      "word": "nylon",
+      "meaning": "нейлон",
       "used_in": [
         {
           "phrase": "active.simple.future.0",
-          "form": "chart"
-        },
+          "form": "nylon"
+        }
+      ]
+    },
+    {
+      "word": "mooring line",
+      "meaning": "швартов",
+      "used_in": [
         {
-          "phrase": "active.perfect.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "active.perfect.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.simple.future.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.past.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "passive.perfect.present.1",
-          "form": "chart"
-        },
-        {
-          "phrase": "future_in_past.2",
-          "form": "chart"
+          "phrase": "active.simple.future.0",
+          "form": "mooring lines"
         }
       ]
     },
@@ -522,6 +456,48 @@
         {
           "phrase": "future_in_past.1",
           "form": "compass"
+        }
+      ]
+    },
+    {
+      "word": "help",
+      "meaning": "помощь",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "help"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "help"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "help"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Help"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Help"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "Help"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "help"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "Help"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "help"
         }
       ]
     },
@@ -582,6 +558,66 @@
       ]
     },
     {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "chart"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "radio",
+      "meaning": "рация",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.past.2",
+          "form": "radio"
+        },
+        {
+          "phrase": "passive.perfect.present.2",
+          "form": "radio"
+        }
+      ]
+    },
+    {
       "word": "departure",
       "meaning": "выход",
       "used_in": [
@@ -618,6 +654,26 @@
       ]
     },
     {
+      "word": "fibre",
+      "meaning": "волокно",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "fibres"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
       "word": "captain",
       "meaning": "капитан",
       "used_in": [
@@ -628,6 +684,26 @@
         {
           "phrase": "future_in_past.2",
           "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "towline",
+      "meaning": "буксирный конец",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "towline"
+        }
+      ]
+    },
+    {
+      "word": "working load",
+      "meaning": "рабочая нагрузка",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "working load"
         }
       ]
     }

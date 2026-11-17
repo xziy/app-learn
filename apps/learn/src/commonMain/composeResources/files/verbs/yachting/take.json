@@ -47,10 +47,10 @@
             "transcription": "[й**э**стэдэй ай тук ðэ ф**э**ндэз аут ов ðэ лæзэр**э**т]"
           },
           {
-            "ours": "Ты взял компас?",
-            "thought": "[Сделал] ты брать [известный] компас?",
-            "english": "Did you take the compass?",
-            "transcription": "[дид ю: тэйк ðэ к**а**мпэс]"
+            "ours": "Ты выбрал слабину швартова?",
+            "thought": "[Сделал] ты брать [известное] напряжение на [известном] швартове?",
+            "english": "Did you take the strain on the mooring line?",
+            "transcription": "[дид ю: тэйк ðэ стрэйн он ðэ м**у**эриŋ лайн]"
           },
           {
             "ours": "Она не взяла рацию.",
@@ -70,16 +70,16 @@
             "transcription": "[**э**ври дэй ай тэйк э wоч]"
           },
           {
-            "ours": "Он не берёт компас.",
-            "thought": "Он [делает] не брать [известный] компас.",
-            "english": "He does not take the compass.",
-            "transcription": "[хи: даз нот тэйк ðэ к**а**мпэс]"
+            "ours": "Полиэстер плохо переносит рывковые нагрузки.",
+            "thought": "Полиэстер [делает] не принимать рывковые нагрузки хорошо.",
+            "english": "Polyester does not take shock loads well.",
+            "transcription": "[поли**э**стэ даз нот тэйк шок лоудз wэл]"
           },
           {
-            "ours": "Ты берёшь рацию на берег?",
-            "thought": "[Делаешь] ты брать [известную] рацию на берег?",
-            "english": "Do you take the radio ashore?",
-            "transcription": "[ду: ю: тэйк ðэ р**э**йдиоу эш**о**:]"
+            "ours": "Основное истирание принимает на себя оплётка?",
+            "thought": "[Делает] [известная] оплётка принимать большую часть от [известного] истирания?",
+            "english": "Does the braid take most of the abrasion?",
+            "transcription": "[даз ðэ брэйд тэйк моуст ов ðи эбр**э**йжн]"
           }
         ]
       },
@@ -93,10 +93,10 @@
             "transcription": "[тэм**о**роу ай wил тэйк ðэ ча:т]"
           },
           {
-            "ours": "Она не возьмёт компас.",
-            "thought": "Она будет не брать [известный] компас.",
-            "english": "She will not take the compass.",
-            "transcription": "[ши: wил нот тэйк ðэ к**а**мпэс]"
+            "ours": "Эта утка не выдержит рабочую нагрузку буксирного конца.",
+            "thought": "Эта утка будет не принимать [известную] рабочую нагрузку от [известного] буксирного конца.",
+            "english": "This cleat will not take the working load of the towline.",
+            "transcription": "[ðис кли:т wил нот тэйк ðэ w**œ**:киŋ лоуд ов ðэ т**о**улайн]"
           },
           {
             "ours": "Ты возьмёшь рацию завтра?",
@@ -188,10 +188,10 @@
             "transcription": "[ай хæв о:лр**э**ди т**э**йкэн ðэ ча:т]"
           },
           {
-            "ours": "Она уже взяла рацию?",
-            "thought": "Имеет она взятой [известную] рацию уже?",
-            "english": "Has she taken the radio yet?",
-            "transcription": "[хæз ши: т**э**йкэн ðэ р**э**йдиоу йэт]"
+            "ours": "Она уже выбрала вытяжку нового фала?",
+            "thought": "Имеет она взятым [известное] растяжение наружу из [известного] нового фала уже?",
+            "english": "Has she taken the stretch out of the new halyard yet?",
+            "transcription": "[хæз ши: т**э**йкэн ðэ стрэч аут ов ðэ нью: х**æ**льэд йэт]"
           }
         ]
       },
@@ -279,10 +279,10 @@
             "transcription": "[ðэ ча:т wоз т**э**йкэн эб**о**:д й**э**стэдэй]"
           },
           {
-            "ours": "Рацию взяли на берег?",
-            "thought": "Была [известная] рация взята на берег?",
-            "english": "Was the radio taken ashore?",
-            "transcription": "[wоз ðэ р**э**йдиоу т**э**йкэн эш**о**:]"
+            "ours": "Рывковую нагрузку приняла носовая утка?",
+            "thought": "Была [известная] рывковая нагрузка принята от [известной] носовой утки?",
+            "english": "Was the shock load taken by the bow cleat?",
+            "transcription": "[wоз ðэ шок лоуд т**э**йкэн бай ðэ бау кли:т]"
           }
         ]
       },
@@ -290,10 +290,10 @@
         "form": "am/is/are taken",
         "examples": [
           {
-            "ours": "Карту всегда берут на борт.",
-            "thought": "[Известная] карта есть всегда взята на борт.",
-            "english": "The chart is always taken aboard.",
-            "transcription": "[ðэ ча:т из **о**:лwэйз т**э**йкэн эб**о**:д]"
+            "ours": "В этом тросе нагрузку всегда несёт сердечник.",
+            "thought": "В этом тросе [известная] нагрузка есть всегда принята от [известного] сердечника.",
+            "english": "In this rope the load is always taken by the core.",
+            "transcription": "[ин ðис роуп ðэ лоуд из **о**:лwэйз т**э**йкэн бай ðэ ко:]"
           },
           {
             "ours": "Рацию берут на берег каждый день?",
@@ -469,20 +469,22 @@
       ]
     },
     {
-      "word": "compass",
-      "meaning": "компас",
+      "word": "strain",
+      "meaning": "напряжение",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "compass"
-        },
+          "form": "strain"
+        }
+      ]
+    },
+    {
+      "word": "mooring line",
+      "meaning": "швартов",
+      "used_in": [
         {
-          "phrase": "active.simple.present.1",
-          "form": "compass"
-        },
-        {
-          "phrase": "active.simple.future.1",
-          "form": "compass"
+          "phrase": "active.simple.past.1",
+          "form": "mooring line"
         }
       ]
     },
@@ -495,10 +497,6 @@
           "form": "radio"
         },
         {
-          "phrase": "active.simple.present.2",
-          "form": "radio"
-        },
-        {
           "phrase": "active.simple.future.2",
           "form": "radio"
         },
@@ -507,15 +505,7 @@
           "form": "radio"
         },
         {
-          "phrase": "active.perfect.present.1",
-          "form": "radio"
-        },
-        {
           "phrase": "active.perfect.future.1",
-          "form": "radio"
-        },
-        {
-          "phrase": "passive.simple.past.1",
           "form": "radio"
         },
         {
@@ -585,6 +575,50 @@
       ]
     },
     {
+      "word": "polyester",
+      "meaning": "полиэстер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "Polyester"
+        }
+      ]
+    },
+    {
+      "word": "shock load",
+      "meaning": "рывковая нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "shock loads"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "shock load"
+        }
+      ]
+    },
+    {
+      "word": "braid",
+      "meaning": "оплётка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "braid"
+        }
+      ]
+    },
+    {
+      "word": "abrasion",
+      "meaning": "истирание",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "abrasion"
+        }
+      ]
+    },
+    {
       "word": "chart",
       "meaning": "морская карта",
       "used_in": [
@@ -609,10 +643,6 @@
           "form": "chart"
         },
         {
-          "phrase": "passive.simple.present.0",
-          "form": "chart"
-        },
-        {
           "phrase": "passive.simple.future.0",
           "form": "chart"
         },
@@ -631,6 +661,40 @@
         {
           "phrase": "future_in_past.0",
           "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "cleat",
+      "meaning": "утка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "cleat"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "cleat"
+        }
+      ]
+    },
+    {
+      "word": "working load",
+      "meaning": "рабочая нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "working load"
+        }
+      ]
+    },
+    {
+      "word": "towline",
+      "meaning": "буксирный конец",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "towline"
         }
       ]
     },
@@ -760,6 +824,26 @@
       ]
     },
     {
+      "word": "stretch",
+      "meaning": "растяжение",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "stretch"
+        }
+      ]
+    },
+    {
+      "word": "halyard",
+      "meaning": "фал",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "halyard"
+        }
+      ]
+    },
+    {
       "word": "hour",
       "meaning": "час",
       "used_in": [
@@ -800,6 +884,46 @@
         {
           "phrase": "active.perfect_continuous.past.1",
           "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "bow",
+      "meaning": "нос судна",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "bow"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "трос",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "rope"
+        }
+      ]
+    },
+    {
+      "word": "load",
+      "meaning": "нагрузка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "load"
+        }
+      ]
+    },
+    {
+      "word": "core",
+      "meaning": "сердечник",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "core"
         }
       ]
     }

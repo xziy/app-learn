@@ -1,0 +1,924 @@
+{
+  "spec": 4,
+  "verb": "absorb",
+  "forms": {
+    "base": [{"word": "absorb", "transcription": "[эбз**о**:б]"}],
+    "past": [{"word": "absorbed", "transcription": "[эбз**о**:бд]"}],
+    "participle": [{"word": "absorbed", "transcription": "[эбз**о**:бд]"}],
+    "ing": [{"word": "absorbing", "transcription": "[эбз**о**:биŋ]"}],
+    "s": [{"word": "absorbs", "transcription": "[эбз**о**:бз]"}]
+  },
+  "meaning": "поглощать, гасить (рывки, удар, зыбь), принимать на себя (нагрузку); впитывать (воду, масло, влагу); усваивать (правила, расчёты); брать на себя, покрывать (расходы); вбирать, принимать (яхты, людей); be absorbed in — быть погружённым во что-то",
+  "notes": "правильный глагол, бывает с объектом, есть пассив",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "absorbed",
+        "examples": [
+          {
+            "ours": "Мягкое дно смягчило удар при посадке на мель.",
+            "thought": "[Известное] мягкое морское дно поглотило [известный] удар от [известной] посадки на мель.",
+            "english": "The soft seabed absorbed the shock of the grounding.",
+            "transcription": "[ðэ софт с**и**:бэд эбз**о**:бд ðэ шок ов ðэ гр**а**ундиŋ]"
+          },
+          {
+            "ours": "Вчера новый ученик так и не усвоил расчёт прилива.",
+            "thought": "[Известный] новый ученик [сделал] не усваивать [известный] приливный расчёт вчера.",
+            "english": "The new student didn't absorb the tide calculation yesterday.",
+            "transcription": "[ðэ нью: сть**ю**:дэнт диднт эбз**о**:б ðэ тайд кæлкюл**э**йшн й**э**стэдэй]"
+          },
+          {
+            "ours": "Швартовы погасили волну от парома?",
+            "thought": "[Сделали] [известные] швартовы поглощать [известную] кильватерную волну от [известного] парома?",
+            "english": "Did the mooring lines absorb the wake from the ferry?",
+            "transcription": "[дид ðэ м**у**эриŋ лайнз эбз**о**:б ðэ wэйк фром ðэ ф**э**ри]"
+          }
+        ]
+      },
+      "present": {
+        "form": "absorb, absorbs",
+        "examples": [
+          {
+            "ours": "Нейлон гасит рывки лучше, чем полиэстер.",
+            "thought": "Нейлон поглощает рывковые нагрузки лучше чем полиэстер.",
+            "english": "Nylon absorbs shock loads better than polyester.",
+            "transcription": "[н**а**йлон эбз**о**:бз шок лоудз б**э**тэ ðæн поли**э**стэ]"
+          },
+          {
+            "ours": "Полипропилен не впитывает воду, поэтому он плавает.",
+            "thought": "Полипропилен [делает] не впитывать воду, так что он плавает.",
+            "english": "Polypropylene doesn't absorb water, so it floats.",
+            "transcription": "[полипр**о**упэли:н дазнт эбз**о**:б w**о**:тэ соу ит флоутс]"
+          },
+          {
+            "ours": "Нейлоновый конец быстро впитывает воду?",
+            "thought": "[Делает] [какой-то] нейлоновый конец впитывать воду быстро?",
+            "english": "Does a nylon line absorb water quickly?",
+            "transcription": "[даз э н**а**йлон лайн эбз**о**:б w**о**:тэ кw**и**кли]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will absorb",
+        "examples": [
+          {
+            "ours": "Завтра длинный канат погасит зыбь лучше, чем цепь.",
+            "thought": "Завтра [известный] длинный канат будет поглощать [известную] зыбь лучше чем [известная] цепь.",
+            "english": "Tomorrow the long warp will absorb the swell better than the chain.",
+            "transcription": "[тэм**о**роу ðэ лоŋ wо:п wил эбз**о**:б ðэ сwэл б**э**тэ ðæн ðэ чэйн]"
+          },
+          {
+            "ours": "Этот короткий буксирный конец не погасит удар большой волны.",
+            "thought": "Этот короткий буксирный конец будет не поглощать [известный] удар от [какой-то] большой волны.",
+            "english": "This short towline won't absorb the shock of a big wave.",
+            "transcription": "[ðис шо:т т**о**улайн wоунт эбз**о**:б ðэ шок ов э биг wэйв]"
+          },
+          {
+            "ours": "Курсанты усвоят всю эту информацию о приливах?",
+            "thought": "Будут [известные] курсанты усваивать всю эту информацию о приливах?",
+            "english": "Will the cadets absorb all this information about tides?",
+            "transcription": "[wил ðэ кэд**э**тс эбз**о**:б о:л ðис инфэм**э**йшн эб**а**ут тайдз]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were absorbing",
+        "examples": [
+          {
+            "ours": "Всю ночь нейлоновый якорный конец гасил рывки от порывов.",
+            "thought": "Всю ночь [известный] нейлоновый якорный конец был поглощающим [известное] напряжение от [известных] порывов.",
+            "english": "All night the nylon rode was absorbing the strain from the gusts.",
+            "transcription": "[о:л найт ðэ н**а**йлон роуд wоз эбз**о**:биŋ ðэ стрэйн фром ðэ гастс]"
+          },
+          {
+            "ours": "На лекции о приливах он ничего не усваивал.",
+            "thought": "Он был не усваивающим что-либо во время [известной] лекции о приливах.",
+            "english": "He wasn't absorbing anything during the lecture on tides.",
+            "transcription": "[хи: wознт эбз**о**:биŋ **э**ниθиŋ дь**ю**эриŋ ðэ л**э**кчэ он тайдз]"
+          },
+          {
+            "ours": "Тиковая палуба всю зиму впитывала дождь?",
+            "thought": "Была [известная] тиковая палуба впитывающей дождь всю зиму?",
+            "english": "Was the teak deck absorbing rain all winter?",
+            "transcription": "[wоз ðэ ти:к дэк эбз**о**:биŋ рэйн о:л w**и**нтэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are absorbing",
+        "examples": [
+          {
+            "ours": "Эластичный канат сейчас гасит энергию каждой волны.",
+            "thought": "[Известный] растяжимый канат является поглощающим [известную] энергию от каждой волны сейчас.",
+            "english": "The stretchy warp is absorbing the energy of each wave now.",
+            "transcription": "[ðэ стр**э**чи wо:п из эбз**о**:биŋ ðи **э**нэджи ов и:ч wэйв нау]"
+          },
+          {
+            "ours": "Старая губка сейчас не впитывает трюмную воду.",
+            "thought": "[Известная] старая губка является не впитывающей [известную] трюмную воду сейчас.",
+            "english": "The old sponge isn't absorbing the bilge water now.",
+            "transcription": "[ðи оулд спандж изнт эбз**о**:биŋ ðэ билдж w**о**:тэ нау]"
+          },
+          {
+            "ours": "Полиэстеровые волокна сейчас впитывают влагу?",
+            "thought": "Являются [известные] полиэстеровые волокна впитывающими влагу сейчас?",
+            "english": "Are the polyester fibres absorbing moisture now?",
+            "transcription": "[а: ðэ поли**э**стэ ф**а**йбэз эбз**о**:биŋ м**о**йсчэ нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be absorbing",
+        "examples": [
+          {
+            "ours": "Всю следующую неделю курсанты будут осваивать теорию приливов.",
+            "thought": "Всю следующую неделю [известные] курсанты будут быть усваивающими приливную теорию.",
+            "english": "All next week the cadets will be absorbing tidal theory.",
+            "transcription": "[о:л нэкст wи:к ðэ кэд**э**тс wил би: эбз**о**:биŋ т**а**йдл θ**и**эри]"
+          },
+          {
+            "ours": "В следующем году мы не будем брать на себя стоимость ремонта.",
+            "thought": "Мы будем не быть покрывающими [известную] стоимость от [известных] ремонтов следующий год.",
+            "english": "We won't be absorbing the cost of the repairs next year.",
+            "transcription": "[wи: wоунт би: эбз**о**:биŋ ðэ кост ов ðэ рип**э**эз нэкст йиэ]"
+          },
+          {
+            "ours": "Швартовы всё лето будут гасить зыбь?",
+            "thought": "Будут [известные] швартовы быть поглощающими [известную] зыбь всё лето?",
+            "english": "Will the mooring lines be absorbing the swell all summer?",
+            "transcription": "[wил ðэ м**у**эриŋ лайнз би: эбз**о**:биŋ ðэ сwэл о:л с**а**мэ]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had absorbed",
+        "examples": [
+          {
+            "ours": "К пяти вчера сухая древесина впитала весь клей.",
+            "thought": "К пяти вчера [известная] сухая древесина имела впитанным весь [известный] клей.",
+            "english": "By five yesterday the dry wood had absorbed all the glue.",
+            "transcription": "[бай файв й**э**стэдэй ðэ драй wуд хæд эбз**о**:бд о:л ðэ глу:]"
+          },
+          {
+            "ours": "К экзамену она так и не усвоила правила о запасе под килем.",
+            "thought": "К [известному] экзамену она имела не усвоенными [известные] правила о запасе.",
+            "english": "By the exam she hadn't absorbed the rules on clearance.",
+            "transcription": "[бай ðи игз**æ**м ши: хæднт эбз**о**:бд ðэ ру:лз он кл**и**эрэнс]"
+          },
+          {
+            "ours": "Ты к пятнице разобрался в главе о нуле глубин?",
+            "thought": "Имел ты усвоенной [известную] главу о нуле глубин к пятнице?",
+            "english": "Had you absorbed the chapter on chart datum by Friday?",
+            "transcription": "[хæд ю: эбз**о**:бд ðэ ч**æ**птэ он ча:т д**э**йтэм бай фр**а**йдэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has absorbed",
+        "examples": [
+          {
+            "ours": "Подушки уже впитали сырость из каюты.",
+            "thought": "[Известные] подушки имеют уже впитанной [известную] сырость из [известной] каюты.",
+            "english": "The cushions have already absorbed the damp from the cabin.",
+            "transcription": "[ðэ к**у**шнз хæв о:лр**э**ди эбз**о**:бд ðэ дæмп фром ðэ к**æ**бин]"
+          },
+          {
+            "ours": "Я ещё не усвоил соотношение для цепи с канатом.",
+            "thought": "Я имею не усвоенным [известное] соотношение для цепи и каната ещё.",
+            "english": "I haven't absorbed the ratio for chain and warp yet.",
+            "transcription": "[ай хæвнт эбз**о**:бд ðэ р**э**йшиоу фо: чэйн æнд wо:п йэт]"
+          },
+          {
+            "ours": "Полиэстеровый шкот уже много воды впитал?",
+            "thought": "Имеет [известный] полиэстеровый шкот впитанной много воды уже?",
+            "english": "Has the polyester sheet absorbed much water yet?",
+            "transcription": "[хæз ðэ поли**э**стэ ши:т эбз**о**:бд мач w**о**:тэ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have absorbed",
+        "examples": [
+          {
+            "ours": "К весне новички освоят весь курс.",
+            "thought": "К весне [известные] новички будут иметь усвоенным [известный] весь курс.",
+            "english": "By spring the beginners will have absorbed the whole course.",
+            "transcription": "[бай сприŋ ðэ биг**и**нэз wил хæв эбз**о**:бд ðэ хоул ко:с]"
+          },
+          {
+            "ours": "К понедельнику ученики ещё не усвоят расчёт осадки и запаса под килем.",
+            "thought": "К понедельнику [известные] ученики будут не иметь усвоенным [известный] расчёт от осадки и запаса.",
+            "english": "By Monday the students won't have absorbed the calculation of draught and clearance.",
+            "transcription": "[бай м**а**ндэй ðэ сть**ю**:дэнтс wоунт хæв эбз**о**:бд ðэ кæлкюл**э**йшн ов дра:фт æнд кл**и**эрэнс]"
+          },
+          {
+            "ours": "Ты к июню освоишь всё руководство?",
+            "thought": "Будешь ты иметь усвоенным [известное] всё руководство к июню?",
+            "english": "Will you have absorbed the whole manual by June?",
+            "transcription": "[wил ю: хæв эбз**о**:бд ðэ хоул м**æ**ньюэл бай джу:н]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been absorbing",
+        "examples": [
+          {
+            "ours": "Корпус впитывал воду уже два года, когда мы нашли течь.",
+            "thought": "[Известный] корпус имел быть впитывающим воду целых два года, когда мы нашли [известную] течь.",
+            "english": "The hull had been absorbing water for two years when we found the leak.",
+            "transcription": "[ðэ хал хæд би:н эбз**о**:биŋ w**о**:тэ фо: ту: йиэз wэн wи: фаунд ðэ ли:к]"
+          },
+          {
+            "ours": "Сколько канат гасил рывки, прежде чем лопнул?",
+            "thought": "Как долго имел [известный] канат быть поглощающим рывковые нагрузки, когда он лопнул?",
+            "english": "How long had the warp been absorbing shock loads when it parted?",
+            "transcription": "[хау лоŋ хæд ðэ wо:п би:н эбз**о**:биŋ шок лоудз wэн ит п**а**:тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been absorbing",
+        "examples": [
+          {
+            "ours": "Сердечник уже два часа принимает на себя большую часть нагрузки.",
+            "thought": "[Известный] сердечник имеет быть поглощающим большую часть от [известной] нагрузки целых два часа.",
+            "english": "The core has been absorbing most of the load for two hours.",
+            "transcription": "[ðэ ко: хæз би:н эбз**о**:биŋ моуст ов ðэ лоуд фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Тик уже два месяца впитывает солёную воду?",
+            "thought": "Имеет [известный] тик быть впитывающим солёную воду целых два месяца?",
+            "english": "Has the teak been absorbing salt water for two months?",
+            "transcription": "[хæз ðэ ти:к би:н эбз**о**:биŋ со:лт w**о**:тэ фо: ту: манθс]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been absorbing",
+        "examples": [
+          {
+            "ours": "К пяти курсанты будут осваивать навигационные правила уже два часа.",
+            "thought": "К пяти [известные] курсанты будут иметь быть усваивающими навигационные правила целых два часа.",
+            "english": "By five the cadets will have been absorbing navigation rules for two hours.",
+            "transcription": "[бай файв ðэ кэд**э**тс wил хæв би:н эбз**о**:биŋ нæвиг**э**йшн ру:лз фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Сколько времени старые канаты будут гасить рывки к следующей весне?",
+            "thought": "Как долго будут [известные] старые канаты иметь быть поглощающими рывковые нагрузки к следующей весне?",
+            "english": "How long will the old warps have been absorbing shock loads by next spring?",
+            "transcription": "[хау лоŋ wил ðи оулд wо:пс хæв би:н эбз**о**:биŋ шок лоудз бай нэкст сприŋ]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were absorbed",
+        "examples": [
+          {
+            "ours": "Удар погасил нейлоновый якорный конец.",
+            "thought": "[Известный] удар был поглощён от [известного] нейлонового якорного конца.",
+            "english": "The shock was absorbed by the nylon rode.",
+            "transcription": "[ðэ шок wоз эбз**о**:бд бай ðэ н**а**йлон роуд]"
+          },
+          {
+            "ours": "Короткая цепь не погасила рывковую нагрузку.",
+            "thought": "[Известная] рывковая нагрузка была не поглощена от [известной] короткой цепи.",
+            "english": "The shock load wasn't absorbed by the short chain.",
+            "transcription": "[ðэ шок лоуд wознт эбз**о**:бд бай ðэ шо:т чэйн]"
+          },
+          {
+            "ours": "Удар принял на себя кранец?",
+            "thought": "Был [известный] удар поглощён от [известного] кранца?",
+            "english": "Was the knock absorbed by the fender?",
+            "transcription": "[wоз ðэ нок эбз**о**:бд бай ðэ ф**э**ндэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are absorbed",
+        "examples": [
+          {
+            "ours": "Сухой тик очень быстро впитывает масло.",
+            "thought": "Масло есть впитано от сухого тика очень быстро.",
+            "english": "Oil is absorbed by dry teak very quickly.",
+            "transcription": "[ойл из эбз**о**:бд бай драй ти:к в**э**ри кw**и**кли]"
+          },
+          {
+            "ours": "Туго натянутая цепь не гасит энергию волн.",
+            "thought": "[Известная] энергия от [известных] волн есть не поглощена от [какой-то] тугой цепи.",
+            "english": "The energy of the waves isn't absorbed by a tight chain.",
+            "transcription": "[ðи **э**нэджи ов ðэ wэйвз изнт эбз**о**:бд бай э тайт чэйн]"
+          },
+          {
+            "ours": "Штурман всегда так погружён в свои расчёты?",
+            "thought": "Есть [известный] штурман всегда погружён в его расчёты?",
+            "english": "Is the navigator always absorbed in his calculations?",
+            "transcription": "[из ðэ н**æ**вигэйтэ **о**:лwэйз эбз**о**:бд ин хиз кæлкюл**э**йшнз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be absorbed",
+        "examples": [
+          {
+            "ours": "Дополнительную нагрузку примет на себя второй швартов.",
+            "thought": "[Известная] дополнительная нагрузка будет быть поглощена от [известного] второго швартова.",
+            "english": "The extra load will be absorbed by the second mooring line.",
+            "transcription": "[ðи **э**кстрэ лоуд wил би: эбз**о**:бд бай ðэ с**э**кэнд м**у**эриŋ лайн]"
+          },
+          {
+            "ours": "Этот тонкий полипропиленовый конец не погасит напряжение.",
+            "thought": "[Известное] напряжение будет не быть поглощено от этого тонкого полипропиленового конца.",
+            "english": "The strain won't be absorbed by this thin polypropylene line.",
+            "transcription": "[ðэ стрэйн wоунт би: эбз**о**:бд бай ðис θин полипр**о**упэли:н лайн]"
+          },
+          {
+            "ours": "Пролитое топливо впитают губки?",
+            "thought": "Будет [известное] пролитое топливо быть впитано от [известных] губок?",
+            "english": "Will the spilled fuel be absorbed by the sponges?",
+            "transcription": "[wил ðэ спилд фь**ю**:эл би: эбз**о**:бд бай ðэ сп**а**нджиз]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being absorbed",
+        "examples": [
+          {
+            "ours": "Весь тот год старая деревянная мачта впитывала дождь.",
+            "thought": "Весь тот год [известный] дождь был «долго» впитан от [известной] старой деревянной мачты.",
+            "english": "All that year the rain was being absorbed by the old wooden mast.",
+            "transcription": "[о:л ðæт йиэ ðэ рэйн wоз б**и**:иŋ эбз**о**:бд бай ðи оулд w**у**дн ма:ст]"
+          },
+          {
+            "ours": "В тот момент нагрузку не принимал сердечник.",
+            "thought": "[Известная] нагрузка была не «долго» поглощена от [известного] сердечника в тот момент.",
+            "english": "The load wasn't being absorbed by the core at that moment.",
+            "transcription": "[ðэ лоуд wознт б**и**:иŋ эбз**о**:бд бай ðэ ко: æт ðæт м**о**умэнт]"
+          },
+          {
+            "ours": "Во время шторма якорный конец гасил рывки?",
+            "thought": "Были [известные] рывковые нагрузки «долго» поглощены от [известного] якорного конца во время [известного] шторма?",
+            "english": "Were the shock loads being absorbed by the rode during the storm?",
+            "transcription": "[wœ: ðэ шок лоудз б**и**:иŋ эбз**о**:бд бай ðэ роуд дь**ю**эриŋ ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being absorbed",
+        "examples": [
+          {
+            "ours": "Пролитый дизель сейчас собирают старыми полотенцами.",
+            "thought": "[Известный] пролитый дизель есть «долго» впитан от старых полотенец сейчас.",
+            "english": "The spilled diesel is being absorbed by old towels now.",
+            "transcription": "[ðэ спилд д**и**:зл из б**и**:иŋ эбз**о**:бд бай оулд т**а**уэлз нау]"
+          },
+          {
+            "ours": "Уставший экипаж сейчас не воспринимает инструктаж.",
+            "thought": "[Известный] инструктаж есть не «долго» усвоен от [известного] уставшего экипажа сейчас.",
+            "english": "The briefing isn't being absorbed by the tired crew now.",
+            "transcription": "[ðэ бр**и**:фиŋ изнт б**и**:иŋ эбз**о**:бд бай ðэ т**а**йэд кру: нау]"
+          },
+          {
+            "ours": "Нагрузку сейчас принимают все пряди?",
+            "thought": "Есть [известная] нагрузка «долго» поглощена от всех [известных] прядей сейчас?",
+            "english": "Is the load being absorbed by all the strands now?",
+            "transcription": "[из ðэ лоуд б**и**:иŋ эбз**о**:бд бай о:л ðэ стрæндз нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be absorbing",
+        "examples": [
+          {
+            "ours": "Завтра весь день они будут принимать в марину дополнительные яхты.",
+            "thought": "Завтра они будут быть вбирающими дополнительные яхты в [известную] марину весь день.",
+            "english": "Tomorrow they will be absorbing extra yachts into the marina all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: эбз**о**:биŋ **э**кстрэ йотс **и**нту ðэ мэр**и**:нэ о:л дэй]"
+          },
+          {
+            "ours": "В следующем году они не будут брать на себя плату за стоянку.",
+            "thought": "Они будут не быть покрывающими [известные] швартовочные сборы следующий год.",
+            "english": "They won't be absorbing the mooring fees next year.",
+            "transcription": "[ðэй wоунт би: эбз**о**:биŋ ðэ м**у**эриŋ фи:з нэкст йиэ]"
+          },
+          {
+            "ours": "Они весь семестр будут осваивать новые правила безопасности?",
+            "thought": "Будут они быть усваивающими [известные] новые безопасности правила весь семестр?",
+            "english": "Will they be absorbing the new safety rules all term?",
+            "transcription": "[wил ðэй би: эбз**о**:биŋ ðэ нью: с**э**йфти ру:лз о:л тœ:м]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been absorbed",
+        "examples": [
+          {
+            "ours": "К полудню масло уже впиталось в поверхность палубы.",
+            "thought": "К полудню [известное] масло имело быть впитано в [известную] поверхность от [известной] палубы.",
+            "english": "By noon the oil had been absorbed into the surface of the deck.",
+            "transcription": "[бай ну:н ðи ойл хæд би:н эбз**о**:бд **и**нту ðэ с**œ**:фис ов ðэ дэк]"
+          },
+          {
+            "ours": "К вечеру урок о длине якорной цепи так и не усвоили.",
+            "thought": "К вечеру [известный] урок о длине вытравленной цепи имел не быть усвоен.",
+            "english": "By evening the lesson on scope hadn't been absorbed.",
+            "transcription": "[бай **и**:вниŋ ðэ л**э**сн он скоуп хæднт би:н эбз**о**:бд]"
+          },
+          {
+            "ours": "Маленькую парусную школу поглотили ещё до того, как ты вступил?",
+            "thought": "Имела [известная] маленькая парусная школа быть поглощена перед ты присоединился?",
+            "english": "Had the small sailing school been absorbed before you joined?",
+            "transcription": "[хæд ðэ смо:л с**э**йлиŋ ску:л би:н эбз**о**:бд биф**о**: ю: джойнд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been absorbed",
+        "examples": [
+          {
+            "ours": "Большую часть удара уже погасил нейлон.",
+            "thought": "Большая часть от [известного] удара имеет уже быть поглощена от [известного] нейлона.",
+            "english": "Most of the shock has already been absorbed by the nylon.",
+            "transcription": "[моуст ов ðэ шок хæз о:лр**э**ди би:н эбз**о**:бд бай ðэ н**а**йлон]"
+          },
+          {
+            "ours": "Стоимость новых парусов владелец на себя не взял.",
+            "thought": "[Известная] стоимость от [известных] новых парусов имеет не быть покрыта от [известного] владельца.",
+            "english": "The cost of the new sails hasn't been absorbed by the owner.",
+            "transcription": "[ðэ кост ов ðэ нью: сэйлз хæзнт би:н эбз**о**:бд бай ðи **о**унэ]"
+          },
+          {
+            "ours": "Краска уже впиталась в древесину?",
+            "thought": "Имеет [известная] краска быть впитана от [известной] древесины уже?",
+            "english": "Has the paint been absorbed by the wood yet?",
+            "transcription": "[хæз ðэ пэйнт би:н эбз**о**:бд бай ðэ wуд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been absorbed",
+        "examples": [
+          {
+            "ours": "К Рождеству маленькую чартерную компанию поглотит марина.",
+            "thought": "К Рождеству [известная] маленькая чартерная компания будет иметь быть поглощена от [известной] марины.",
+            "english": "By Christmas the small charter company will have been absorbed by the marina.",
+            "transcription": "[бай кр**и**смэс ðэ смо:л ч**а**:тэ к**а**мпэни wил хæв би:н эбз**о**:бд бай ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "К воскресенью лак ещё не впитается в новый румпель.",
+            "thought": "К воскресенью [известный] лак будет не иметь быть впитан от [известного] нового румпеля.",
+            "english": "By Sunday the varnish won't have been absorbed by the new tiller.",
+            "transcription": "[бай с**а**ндэй ðэ в**а**:ниш wоунт хæв би:н эбз**о**:бд бай ðэ нью: т**и**лэ]"
+          },
+          {
+            "ours": "Новые члены команды вольются в экипаж к следующему году?",
+            "thought": "Будут эти новые члены иметь быть вобраны в [известный] экипаж к следующему году?",
+            "english": "Will these new members have been absorbed into the crew by next year?",
+            "transcription": "[wил ðи:з нью: м**э**мбэз хæв би:н эбз**о**:бд **и**нту ðэ кру: бай нэкст йиэ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being absorbed` не употребляется. Вместо этого скажут: `The water has been absorbed.` или `The soil has been absorbing the water.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что губка впитает лужу в кокпите.",
+        "thought": "Я знал, что [известная] губка будет впитывать [известную] лужу в [известном] кокпите.",
+        "english": "I knew that the sponge would absorb the puddle in the cockpit.",
+        "transcription": "[ай нью: ðæт ðэ спандж wуд эбз**о**:б ðэ п**а**дл ин ðэ к**о**кпит]"
+      },
+      {
+        "ours": "Мы думали, что новички не усвоят таких длинных расчётов.",
+        "thought": "Мы думали, что [известные] новички будут не усваивать такие длинные расчёты.",
+        "english": "We thought that the beginners wouldn't absorb such long calculations.",
+        "transcription": "[wи: θо:т ðæт ðэ биг**и**нэз wуднт эбз**о**:б сач лоŋ кæлкюл**э**йшнз]"
+      },
+      {
+        "ours": "Ты знал, что страховка покроет стоимость посадки на мель?",
+        "thought": "[Сделал] ты знать, что [известная] страховка будет покрывать [известную] стоимость от [известной] посадки на мель?",
+        "english": "Did you know that the insurance would absorb the cost of the grounding?",
+        "transcription": "[дид ю: ноу ðæт ðи инш**у**эрэнс wуд эбз**о**:б ðэ кост ов ðэ гр**а**ундиŋ]"
+      }
+    ]
+  },
+  "nouns": [
+    {"word": "seabed", "meaning": "морское дно", "used_in": [
+      {"phrase": "active.simple.past.0", "form": "seabed"}
+    ]},
+    {"word": "shock", "meaning": "удар", "used_in": [
+      {"phrase": "active.simple.past.0", "form": "shock"},
+      {"phrase": "active.simple.future.1", "form": "shock"},
+      {"phrase": "passive.simple.past.0", "form": "shock"},
+      {"phrase": "passive.perfect.present.0", "form": "shock"}
+    ]},
+    {"word": "grounding", "meaning": "посадка на мель", "used_in": [
+      {"phrase": "active.simple.past.0", "form": "grounding"},
+      {"phrase": "future_in_past.2", "form": "grounding"}
+    ]},
+    {"word": "student", "meaning": "ученик", "used_in": [
+      {"phrase": "active.simple.past.1", "form": "student"},
+      {"phrase": "active.perfect.future.1", "form": "students"}
+    ]},
+    {"word": "tide", "meaning": "прилив", "used_in": [
+      {"phrase": "active.simple.past.1", "form": "tide"},
+      {"phrase": "active.simple.future.2", "form": "tides"},
+      {"phrase": "active.continuous.past.1", "form": "tides"}
+    ]},
+    {"word": "calculation", "meaning": "расчёт", "used_in": [
+      {"phrase": "active.simple.past.1", "form": "calculation"},
+      {"phrase": "active.perfect.future.1", "form": "calculation"},
+      {"phrase": "passive.simple.present.2", "form": "calculations"},
+      {"phrase": "future_in_past.1", "form": "calculations"}
+    ]},
+    {"word": "mooring line", "meaning": "швартов", "used_in": [
+      {"phrase": "active.simple.past.2", "form": "mooring lines"},
+      {"phrase": "active.continuous.future.2", "form": "mooring lines"},
+      {"phrase": "passive.simple.future.0", "form": "mooring line"}
+    ]},
+    {"word": "wake", "meaning": "кильватерная волна", "used_in": [
+      {"phrase": "active.simple.past.2", "form": "wake"}
+    ]},
+    {"word": "ferry", "meaning": "паром", "used_in": [
+      {"phrase": "active.simple.past.2", "form": "ferry"}
+    ]},
+    {"word": "nylon", "meaning": "нейлон", "used_in": [
+      {"phrase": "active.simple.present.0", "form": "Nylon"},
+      {"phrase": "active.simple.present.2", "form": "nylon"},
+      {"phrase": "active.continuous.past.0", "form": "nylon"},
+      {"phrase": "passive.simple.past.0", "form": "nylon"},
+      {"phrase": "passive.perfect.present.0", "form": "nylon"}
+    ]},
+    {"word": "shock load", "meaning": "рывковая нагрузка", "used_in": [
+      {"phrase": "active.simple.present.0", "form": "shock loads"},
+      {"phrase": "active.perfect_continuous.past.1", "form": "shock loads"},
+      {"phrase": "active.perfect_continuous.future.1", "form": "shock loads"},
+      {"phrase": "passive.simple.past.1", "form": "shock load"},
+      {"phrase": "passive.continuous.past.2", "form": "shock loads"}
+    ]},
+    {"word": "polyester", "meaning": "полиэстер", "used_in": [
+      {"phrase": "active.simple.present.0", "form": "polyester"},
+      {"phrase": "active.continuous.present.2", "form": "polyester"},
+      {"phrase": "active.perfect.present.2", "form": "polyester"}
+    ]},
+    {"word": "polypropylene", "meaning": "полипропилен", "used_in": [
+      {"phrase": "active.simple.present.1", "form": "Polypropylene"},
+      {"phrase": "passive.simple.future.1", "form": "polypropylene"}
+    ]},
+    {"word": "water", "meaning": "вода", "used_in": [
+      {"phrase": "active.simple.present.1", "form": "water"},
+      {"phrase": "active.simple.present.2", "form": "water"},
+      {"phrase": "active.continuous.present.1", "form": "water"},
+      {"phrase": "active.perfect.present.2", "form": "water"},
+      {"phrase": "active.perfect_continuous.past.0", "form": "water"},
+      {"phrase": "active.perfect_continuous.present.1", "form": "water"}
+    ]},
+    {"word": "line", "meaning": "конец", "used_in": [
+      {"phrase": "active.simple.present.2", "form": "line"},
+      {"phrase": "passive.simple.future.1", "form": "line"}
+    ]},
+    {"word": "warp", "meaning": "канат", "used_in": [
+      {"phrase": "active.simple.future.0", "form": "warp"},
+      {"phrase": "active.continuous.present.0", "form": "warp"},
+      {"phrase": "active.perfect.present.1", "form": "warp"},
+      {"phrase": "active.perfect_continuous.past.1", "form": "warp"},
+      {"phrase": "active.perfect_continuous.future.1", "form": "warps"}
+    ]},
+    {"word": "swell", "meaning": "зыбь", "used_in": [
+      {"phrase": "active.simple.future.0", "form": "swell"},
+      {"phrase": "active.continuous.future.2", "form": "swell"}
+    ]},
+    {"word": "chain", "meaning": "цепь", "used_in": [
+      {"phrase": "active.simple.future.0", "form": "chain"},
+      {"phrase": "active.perfect.present.1", "form": "chain"},
+      {"phrase": "passive.simple.past.1", "form": "chain"},
+      {"phrase": "passive.simple.present.1", "form": "chain"}
+    ]},
+    {"word": "towline", "meaning": "буксирный конец", "used_in": [
+      {"phrase": "active.simple.future.1", "form": "towline"}
+    ]},
+    {"word": "wave", "meaning": "волна", "used_in": [
+      {"phrase": "active.simple.future.1", "form": "wave"},
+      {"phrase": "active.continuous.present.0", "form": "wave"},
+      {"phrase": "passive.simple.present.1", "form": "waves"}
+    ]},
+    {"word": "cadet", "meaning": "курсант", "used_in": [
+      {"phrase": "active.simple.future.2", "form": "cadets"},
+      {"phrase": "active.continuous.future.0", "form": "cadets"},
+      {"phrase": "active.perfect_continuous.future.0", "form": "cadets"}
+    ]},
+    {"word": "information", "meaning": "информация", "used_in": [
+      {"phrase": "active.simple.future.2", "form": "information"}
+    ]},
+    {"word": "night", "meaning": "ночь", "used_in": [
+      {"phrase": "active.continuous.past.0", "form": "night"}
+    ]},
+    {"word": "rode", "meaning": "якорный конец", "used_in": [
+      {"phrase": "active.continuous.past.0", "form": "rode"},
+      {"phrase": "passive.simple.past.0", "form": "rode"},
+      {"phrase": "passive.continuous.past.2", "form": "rode"}
+    ]},
+    {"word": "strain", "meaning": "напряжение", "used_in": [
+      {"phrase": "active.continuous.past.0", "form": "strain"},
+      {"phrase": "passive.simple.future.1", "form": "strain"}
+    ]},
+    {"word": "gust", "meaning": "порыв", "used_in": [
+      {"phrase": "active.continuous.past.0", "form": "gusts"}
+    ]},
+    {"word": "lecture", "meaning": "лекция", "used_in": [
+      {"phrase": "active.continuous.past.1", "form": "lecture"}
+    ]},
+    {"word": "teak", "meaning": "тик", "used_in": [
+      {"phrase": "active.continuous.past.2", "form": "teak"},
+      {"phrase": "active.perfect_continuous.present.1", "form": "teak"},
+      {"phrase": "passive.simple.present.0", "form": "teak"}
+    ]},
+    {"word": "deck", "meaning": "палуба", "used_in": [
+      {"phrase": "active.continuous.past.2", "form": "deck"},
+      {"phrase": "passive.perfect.past.0", "form": "deck"}
+    ]},
+    {"word": "rain", "meaning": "дождь", "used_in": [
+      {"phrase": "active.continuous.past.2", "form": "rain"},
+      {"phrase": "passive.continuous.past.0", "form": "rain"}
+    ]},
+    {"word": "winter", "meaning": "зима", "used_in": [
+      {"phrase": "active.continuous.past.2", "form": "winter"}
+    ]},
+    {"word": "energy", "meaning": "энергия", "used_in": [
+      {"phrase": "active.continuous.present.0", "form": "energy"},
+      {"phrase": "passive.simple.present.1", "form": "energy"}
+    ]},
+    {"word": "sponge", "meaning": "губка", "used_in": [
+      {"phrase": "active.continuous.present.1", "form": "sponge"},
+      {"phrase": "passive.simple.future.2", "form": "sponges"},
+      {"phrase": "future_in_past.0", "form": "sponge"}
+    ]},
+    {"word": "bilge", "meaning": "трюм", "used_in": [
+      {"phrase": "active.continuous.present.1", "form": "bilge"}
+    ]},
+    {"word": "fibre", "meaning": "волокно", "used_in": [
+      {"phrase": "active.continuous.present.2", "form": "fibres"}
+    ]},
+    {"word": "moisture", "meaning": "влага", "used_in": [
+      {"phrase": "active.continuous.present.2", "form": "moisture"}
+    ]},
+    {"word": "week", "meaning": "неделя", "used_in": [
+      {"phrase": "active.continuous.future.0", "form": "week"}
+    ]},
+    {"word": "theory", "meaning": "теория", "used_in": [
+      {"phrase": "active.continuous.future.0", "form": "theory"}
+    ]},
+    {"word": "cost", "meaning": "стоимость", "used_in": [
+      {"phrase": "active.continuous.future.1", "form": "cost"},
+      {"phrase": "passive.perfect.present.1", "form": "cost"},
+      {"phrase": "future_in_past.2", "form": "cost"}
+    ]},
+    {"word": "repair", "meaning": "ремонт", "used_in": [
+      {"phrase": "active.continuous.future.1", "form": "repairs"}
+    ]},
+    {"word": "year", "meaning": "год", "used_in": [
+      {"phrase": "active.continuous.future.1", "form": "year"},
+      {"phrase": "active.perfect_continuous.past.0", "form": "years"},
+      {"phrase": "passive.continuous.past.0", "form": "year"},
+      {"phrase": "passive.continuous.future.1", "form": "year"},
+      {"phrase": "passive.perfect.future.2", "form": "year"}
+    ]},
+    {"word": "summer", "meaning": "лето", "used_in": [
+      {"phrase": "active.continuous.future.2", "form": "summer"}
+    ]},
+    {"word": "wood", "meaning": "древесина", "used_in": [
+      {"phrase": "active.perfect.past.0", "form": "wood"},
+      {"phrase": "passive.perfect.present.2", "form": "wood"}
+    ]},
+    {"word": "glue", "meaning": "клей", "used_in": [
+      {"phrase": "active.perfect.past.0", "form": "glue"}
+    ]},
+    {"word": "exam", "meaning": "экзамен", "used_in": [
+      {"phrase": "active.perfect.past.1", "form": "exam"}
+    ]},
+    {"word": "rule", "meaning": "правило", "used_in": [
+      {"phrase": "active.perfect.past.1", "form": "rules"},
+      {"phrase": "active.perfect_continuous.future.0", "form": "rules"},
+      {"phrase": "passive.continuous.future.2", "form": "rules"}
+    ]},
+    {"word": "clearance", "meaning": "запас", "sense": "space", "used_in": [
+      {"phrase": "active.perfect.past.1", "form": "clearance"},
+      {"phrase": "active.perfect.future.1", "form": "clearance"}
+    ]},
+    {"word": "chapter", "meaning": "глава", "used_in": [
+      {"phrase": "active.perfect.past.2", "form": "chapter"}
+    ]},
+    {"word": "chart datum", "meaning": "нуль глубин", "used_in": [
+      {"phrase": "active.perfect.past.2", "form": "chart datum"}
+    ]},
+    {"word": "Friday", "meaning": "пятница", "used_in": [
+      {"phrase": "active.perfect.past.2", "form": "Friday"}
+    ]},
+    {"word": "cushion", "meaning": "подушка", "used_in": [
+      {"phrase": "active.perfect.present.0", "form": "cushions"}
+    ]},
+    {"word": "damp", "meaning": "сырость", "used_in": [
+      {"phrase": "active.perfect.present.0", "form": "damp"}
+    ]},
+    {"word": "cabin", "meaning": "каюта", "used_in": [
+      {"phrase": "active.perfect.present.0", "form": "cabin"}
+    ]},
+    {"word": "ratio", "meaning": "соотношение", "used_in": [
+      {"phrase": "active.perfect.present.1", "form": "ratio"}
+    ]},
+    {"word": "sheet", "meaning": "шкот", "used_in": [
+      {"phrase": "active.perfect.present.2", "form": "sheet"}
+    ]},
+    {"word": "spring", "meaning": "весна", "used_in": [
+      {"phrase": "active.perfect.future.0", "form": "spring"},
+      {"phrase": "active.perfect_continuous.future.1", "form": "spring"}
+    ]},
+    {"word": "beginner", "meaning": "новичок", "used_in": [
+      {"phrase": "active.perfect.future.0", "form": "beginners"},
+      {"phrase": "future_in_past.1", "form": "beginners"}
+    ]},
+    {"word": "course", "meaning": "курс", "sense": "study", "used_in": [
+      {"phrase": "active.perfect.future.0", "form": "course"}
+    ]},
+    {"word": "Monday", "meaning": "понедельник", "used_in": [
+      {"phrase": "active.perfect.future.1", "form": "Monday"}
+    ]},
+    {"word": "draught", "meaning": "осадка", "used_in": [
+      {"phrase": "active.perfect.future.1", "form": "draught"}
+    ]},
+    {"word": "manual", "meaning": "руководство", "used_in": [
+      {"phrase": "active.perfect.future.2", "form": "manual"}
+    ]},
+    {"word": "June", "meaning": "июнь", "used_in": [
+      {"phrase": "active.perfect.future.2", "form": "June"}
+    ]},
+    {"word": "hull", "meaning": "корпус", "used_in": [
+      {"phrase": "active.perfect_continuous.past.0", "form": "hull"}
+    ]},
+    {"word": "leak", "meaning": "течь", "used_in": [
+      {"phrase": "active.perfect_continuous.past.0", "form": "leak"}
+    ]},
+    {"word": "core", "meaning": "сердечник", "used_in": [
+      {"phrase": "active.perfect_continuous.present.0", "form": "core"},
+      {"phrase": "passive.continuous.past.1", "form": "core"}
+    ]},
+    {"word": "load", "meaning": "нагрузка", "used_in": [
+      {"phrase": "active.perfect_continuous.present.0", "form": "load"},
+      {"phrase": "passive.simple.future.0", "form": "load"},
+      {"phrase": "passive.continuous.past.1", "form": "load"},
+      {"phrase": "passive.continuous.present.2", "form": "load"}
+    ]},
+    {"word": "hour", "meaning": "час", "used_in": [
+      {"phrase": "active.perfect_continuous.present.0", "form": "hours"},
+      {"phrase": "active.perfect_continuous.future.0", "form": "hours"}
+    ]},
+    {"word": "salt", "meaning": "соль", "used_in": [
+      {"phrase": "active.perfect_continuous.present.1", "form": "salt"}
+    ]},
+    {"word": "month", "meaning": "месяц", "used_in": [
+      {"phrase": "active.perfect_continuous.present.1", "form": "months"}
+    ]},
+    {"word": "navigation", "meaning": "навигация", "used_in": [
+      {"phrase": "active.perfect_continuous.future.0", "form": "navigation"}
+    ]},
+    {"word": "knock", "meaning": "удар", "sense": "blow", "used_in": [
+      {"phrase": "passive.simple.past.2", "form": "knock"}
+    ]},
+    {"word": "fender", "meaning": "кранец", "used_in": [
+      {"phrase": "passive.simple.past.2", "form": "fender"}
+    ]},
+    {"word": "oil", "meaning": "масло", "used_in": [
+      {"phrase": "passive.simple.present.0", "form": "Oil"},
+      {"phrase": "passive.perfect.past.0", "form": "oil"}
+    ]},
+    {"word": "navigator", "meaning": "штурман", "used_in": [
+      {"phrase": "passive.simple.present.2", "form": "navigator"}
+    ]},
+    {"word": "fuel", "meaning": "топливо", "used_in": [
+      {"phrase": "passive.simple.future.2", "form": "fuel"}
+    ]},
+    {"word": "mast", "meaning": "мачта", "used_in": [
+      {"phrase": "passive.continuous.past.0", "form": "mast"}
+    ]},
+    {"word": "moment", "meaning": "момент", "used_in": [
+      {"phrase": "passive.continuous.past.1", "form": "moment"}
+    ]},
+    {"word": "storm", "meaning": "шторм", "used_in": [
+      {"phrase": "passive.continuous.past.2", "form": "storm"}
+    ]},
+    {"word": "diesel", "meaning": "дизель", "used_in": [
+      {"phrase": "passive.continuous.present.0", "form": "diesel"}
+    ]},
+    {"word": "towel", "meaning": "полотенце", "used_in": [
+      {"phrase": "passive.continuous.present.0", "form": "towels"}
+    ]},
+    {"word": "briefing", "meaning": "инструктаж", "used_in": [
+      {"phrase": "passive.continuous.present.1", "form": "briefing"}
+    ]},
+    {"word": "crew", "meaning": "экипаж", "used_in": [
+      {"phrase": "passive.continuous.present.1", "form": "crew"},
+      {"phrase": "passive.perfect.future.2", "form": "crew"}
+    ]},
+    {"word": "strand", "meaning": "прядь", "used_in": [
+      {"phrase": "passive.continuous.present.2", "form": "strands"}
+    ]},
+    {"word": "yacht", "meaning": "яхта", "used_in": [
+      {"phrase": "passive.continuous.future.0", "form": "yachts"}
+    ]},
+    {"word": "marina", "meaning": "марина", "used_in": [
+      {"phrase": "passive.continuous.future.0", "form": "marina"},
+      {"phrase": "passive.perfect.future.0", "form": "marina"}
+    ]},
+    {"word": "day", "meaning": "день", "used_in": [
+      {"phrase": "passive.continuous.future.0", "form": "day"}
+    ]},
+    {"word": "mooring", "meaning": "швартовка", "used_in": [
+      {"phrase": "passive.continuous.future.1", "form": "mooring"}
+    ]},
+    {"word": "fee", "meaning": "сбор", "used_in": [
+      {"phrase": "passive.continuous.future.1", "form": "fees"}
+    ]},
+    {"word": "safety", "meaning": "безопасность", "used_in": [
+      {"phrase": "passive.continuous.future.2", "form": "safety"}
+    ]},
+    {"word": "term", "meaning": "семестр", "sense": "semester", "used_in": [
+      {"phrase": "passive.continuous.future.2", "form": "term"}
+    ]},
+    {"word": "noon", "meaning": "полдень", "used_in": [
+      {"phrase": "passive.perfect.past.0", "form": "noon"}
+    ]},
+    {"word": "surface", "meaning": "поверхность", "used_in": [
+      {"phrase": "passive.perfect.past.0", "form": "surface"}
+    ]},
+    {"word": "evening", "meaning": "вечер", "used_in": [
+      {"phrase": "passive.perfect.past.1", "form": "evening"}
+    ]},
+    {"word": "lesson", "meaning": "урок", "used_in": [
+      {"phrase": "passive.perfect.past.1", "form": "lesson"}
+    ]},
+    {"word": "scope", "meaning": "длина вытравленной цепи", "used_in": [
+      {"phrase": "passive.perfect.past.1", "form": "scope"}
+    ]},
+    {"word": "sailing", "meaning": "парусный спорт", "used_in": [
+      {"phrase": "passive.perfect.past.2", "form": "sailing"}
+    ]},
+    {"word": "school", "meaning": "школа", "used_in": [
+      {"phrase": "passive.perfect.past.2", "form": "school"}
+    ]},
+    {"word": "sail", "meaning": "парус", "used_in": [
+      {"phrase": "passive.perfect.present.1", "form": "sails"}
+    ]},
+    {"word": "owner", "meaning": "владелец", "used_in": [
+      {"phrase": "passive.perfect.present.1", "form": "owner"}
+    ]},
+    {"word": "paint", "meaning": "краска", "used_in": [
+      {"phrase": "passive.perfect.present.2", "form": "paint"}
+    ]},
+    {"word": "Christmas", "meaning": "Рождество", "used_in": [
+      {"phrase": "passive.perfect.future.0", "form": "Christmas"}
+    ]},
+    {"word": "charter", "meaning": "чартер", "sense": "hire", "used_in": [
+      {"phrase": "passive.perfect.future.0", "form": "charter"}
+    ]},
+    {"word": "company", "meaning": "компания", "used_in": [
+      {"phrase": "passive.perfect.future.0", "form": "company"}
+    ]},
+    {"word": "Sunday", "meaning": "воскресенье", "used_in": [
+      {"phrase": "passive.perfect.future.1", "form": "Sunday"}
+    ]},
+    {"word": "varnish", "meaning": "лак", "used_in": [
+      {"phrase": "passive.perfect.future.1", "form": "varnish"}
+    ]},
+    {"word": "tiller", "meaning": "румпель", "used_in": [
+      {"phrase": "passive.perfect.future.1", "form": "tiller"}
+    ]},
+    {"word": "member", "meaning": "член", "used_in": [
+      {"phrase": "passive.perfect.future.2", "form": "members"}
+    ]},
+    {"word": "puddle", "meaning": "лужа", "used_in": [
+      {"phrase": "future_in_past.0", "form": "puddle"}
+    ]},
+    {"word": "cockpit", "meaning": "кокпит", "used_in": [
+      {"phrase": "future_in_past.0", "form": "cockpit"}
+    ]},
+    {"word": "insurance", "meaning": "страховка", "used_in": [
+      {"phrase": "future_in_past.2", "form": "insurance"}
+    ]}
+  ]
+}

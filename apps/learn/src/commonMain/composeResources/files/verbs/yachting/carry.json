@@ -64,10 +64,10 @@
         "form": "carry, carries",
         "examples": [
           {
-            "ours": "Яхта всегда возит спасательные жилеты.",
-            "thought": "[Известная] яхта всегда несёт спасательные жилеты.",
-            "english": "The yacht always carries life jackets.",
-            "transcription": "[ðэ йот **о**:лwэйз к**æ**риз лайф дж**æ**китс]"
+            "ours": "Яхта всегда возит запасной буксирный конец.",
+            "thought": "[Известная] яхта всегда несёт [какой-то] запасной буксирный конец.",
+            "english": "The yacht always carries a spare towline.",
+            "transcription": "[ðэ йот **о**:лwэйз к**æ**риз э спээ т**о**улайн]"
           },
           {
             "ours": "Он не носит топливо на палубу.",
@@ -87,10 +87,10 @@
         "form": "will carry",
         "examples": [
           {
-            "ours": "Завтра мы перенесём ящики на берег.",
-            "thought": "Завтра мы будем нести [известные] ящики на берег.",
-            "english": "Tomorrow we will carry the boxes ashore.",
-            "transcription": "[тэм**о**роу wи: wил к**æ**ри ðэ б**о**ксиз эш**о**:]"
+            "ours": "Завтра мы отнесём швартовы на берег.",
+            "thought": "Завтра мы будем нести [известные] швартовы на берег.",
+            "english": "Tomorrow we will carry the mooring lines ashore.",
+            "transcription": "[тэм**о**роу wи: wил к**æ**ри ðэ м**у**эриŋ лайнз эш**о**:]"
           },
           {
             "ours": "Он не будет нести запасной парус.",
@@ -129,10 +129,10 @@
         "form": "am/is/are carrying",
         "examples": [
           {
-            "ours": "Сейчас мы несём оборудование на палубу.",
-            "thought": "Мы являемся несущими [известное] оборудование на [известную] палубу сейчас.",
-            "english": "We are carrying the equipment onto the deck now.",
-            "transcription": "[wи: а: к**æ**рииŋ ðэ икw**и**пмэнт **о**нту ðэ дэк нау]"
+            "ours": "Сейчас мы несём якорь к носовому роульсу.",
+            "thought": "Мы являемся несущими [известный] якорь к [известному] носовому роульсу сейчас.",
+            "english": "We are carrying the anchor to the bow roller now.",
+            "transcription": "[wи: а: к**æ**рииŋ ðи **æ**нкэ ту ðэ бау р**о**улэ нау]"
           },
           {
             "ours": "Ты сейчас несёшь ящики?",
@@ -165,10 +165,10 @@
         "form": "had carried",
         "examples": [
           {
-            "ours": "Вчера к пяти мы уже перенесли оборудование.",
-            "thought": "К пяти вчера мы имели уже перенесённым [известное] оборудование.",
-            "english": "By five yesterday we had already carried the equipment.",
-            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди к**æ**рид ðэ икw**и**пмэнт]"
+            "ours": "Вчера к пяти мы уже отнесли канаты на берег.",
+            "thought": "К пяти вчера мы имели уже перенесёнными [известные] канаты на берег.",
+            "english": "By five yesterday we had already carried the warps ashore.",
+            "transcription": "[бай файв й**э**стэдэй wи: хæд о:лр**э**ди к**æ**рид ðэ wо:пс эш**о**:]"
           },
           {
             "ours": "Ты перенёс ящики до гонки?",
@@ -434,10 +434,10 @@
   "future_in_past": {
     "examples": [
       {
-        "ours": "Капитан сказал, что они перенесут оборудование.",
-        "thought": "[Известный] капитан сказал что они будут нести оборудование.",
-        "english": "The captain said that they would carry equipment.",
-        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд к**æ**ри икw**и**пмэнт]"
+        "ours": "Капитан сказал, что они возьмут плавучий полипропиленовый конец.",
+        "thought": "[Известный] капитан сказал что они будут нести [какой-то] плавающий полипропиленовый конец.",
+        "english": "The captain said that they would carry a floating polypropylene line.",
+        "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд к**æ**ри э фл**о**утиŋ полипр**о**упэли:н лайн]"
       },
       {
         "ours": "Я знал, что ты не понесёшь ящики.",
@@ -478,10 +478,6 @@
         },
         {
           "phrase": "active.simple.present.1",
-          "form": "deck"
-        },
-        {
-          "phrase": "active.continuous.present.0",
           "form": "deck"
         },
         {
@@ -605,16 +601,12 @@
       ]
     },
     {
-      "word": "life jacket",
-      "meaning": "спасательный жилет",
+      "word": "towline",
+      "meaning": "буксирный конец",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "life jackets"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "Life jackets"
+          "form": "towline"
         }
       ]
     },
@@ -657,13 +649,96 @@
       ]
     },
     {
-      "word": "box",
-      "meaning": "ящик",
+      "word": "mooring line",
+      "meaning": "швартов",
       "used_in": [
         {
           "phrase": "active.simple.future.0",
-          "form": "boxes"
+          "form": "mooring lines"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "meaning": "парус",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "sail"
+        }
+      ]
+    },
+    {
+      "word": "equipment",
+      "meaning": "оборудование",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "equipment"
         },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "equipment"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "Equipment"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "Equipment"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "equipment"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "equipment"
+        }
+      ]
+    },
+    {
+      "word": "companionway",
+      "meaning": "сходной люк",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "companionway"
+        }
+      ]
+    },
+    {
+      "word": "step",
+      "meaning": "ступенька",
+      "sense": "stair",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "steps"
+        }
+      ]
+    },
+    {
+      "word": "box",
+      "meaning": "ящик",
+      "used_in": [
         {
           "phrase": "active.continuous.past.0",
           "form": "boxes"
@@ -735,95 +810,6 @@
       ]
     },
     {
-      "word": "sail",
-      "meaning": "парус",
-      "used_in": [
-        {
-          "phrase": "active.simple.future.1",
-          "form": "sail"
-        }
-      ]
-    },
-    {
-      "word": "equipment",
-      "meaning": "оборудование",
-      "used_in": [
-        {
-          "phrase": "active.simple.future.2",
-          "form": "equipment"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "equipment"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "equipment"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "equipment"
-        },
-        {
-          "phrase": "active.perfect_continuous.past.1",
-          "form": "equipment"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.1",
-          "form": "equipment"
-        },
-        {
-          "phrase": "active.perfect_continuous.future.1",
-          "form": "equipment"
-        },
-        {
-          "phrase": "passive.simple.past.0",
-          "form": "Equipment"
-        },
-        {
-          "phrase": "passive.continuous.past.0",
-          "form": "equipment"
-        },
-        {
-          "phrase": "passive.continuous.present.0",
-          "form": "Equipment"
-        },
-        {
-          "phrase": "passive.perfect.past.0",
-          "form": "equipment"
-        },
-        {
-          "phrase": "passive.perfect.future.0",
-          "form": "equipment"
-        },
-        {
-          "phrase": "future_in_past.0",
-          "form": "equipment"
-        }
-      ]
-    },
-    {
-      "word": "companionway",
-      "meaning": "сходной люк",
-      "used_in": [
-        {
-          "phrase": "active.simple.future.2",
-          "form": "companionway"
-        }
-      ]
-    },
-    {
-      "word": "step",
-      "meaning": "ступенька",
-      "sense": "stair",
-      "used_in": [
-        {
-          "phrase": "active.simple.future.2",
-          "form": "steps"
-        }
-      ]
-    },
-    {
       "word": "day",
       "meaning": "день",
       "used_in": [
@@ -842,6 +828,26 @@
         {
           "phrase": "passive.continuous.future.0",
           "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "bow roller",
+      "meaning": "носовой роульс",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "bow roller"
         }
       ]
     },
@@ -884,6 +890,16 @@
       ]
     },
     {
+      "word": "warp",
+      "meaning": "канат",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "warps"
+        }
+      ]
+    },
+    {
       "word": "hour",
       "meaning": "час",
       "used_in": [
@@ -914,6 +930,16 @@
       ]
     },
     {
+      "word": "life jacket",
+      "meaning": "спасательный жилет",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "Life jackets"
+        }
+      ]
+    },
+    {
       "word": "captain",
       "meaning": "капитан",
       "used_in": [
@@ -924,6 +950,26 @@
         {
           "phrase": "future_in_past.2",
           "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "polypropylene",
+      "meaning": "полипропилен",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "polypropylene"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "line"
         }
       ]
     }

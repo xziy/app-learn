@@ -1,0 +1,1486 @@
+{
+  "spec": 4,
+  "verb": "calculate",
+  "forms": {
+    "base": [
+      {
+        "word": "calculate",
+        "transcription": "[к**æ**лкюлэйт]"
+      }
+    ],
+    "past": [
+      {
+        "word": "calculated",
+        "transcription": "[к**æ**лкюлэйтид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "calculated",
+        "transcription": "[к**æ**лкюлэйтид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "calculating",
+        "transcription": "[к**æ**лкюлэйтиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "calculates",
+        "transcription": "[к**æ**лкюлэйтс]"
+      }
+    ]
+  },
+  "meaning": "рассчитывать, вычислять, подсчитывать",
+  "notes": "правильный глагол, бывает с объектом и с придаточным (calculate how much chain we need), есть пассив: the depth was calculated; calculation — расчёт",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "calculated",
+        "examples": [
+          {
+            "ours": "Вчера штурман рассчитал максимальную глубину на якорной стоянке.",
+            "thought": "Вчера [известный] штурман рассчитал [известную] максимальную глубину на [известной] якорной стоянке.",
+            "english": "Yesterday the navigator calculated the maximum depth at the anchorage.",
+            "transcription": "[й**э**стэдэй ðэ н**æ**вигэйтэ к**æ**лкюлэйтид ðэ м**æ**ксимэм дэпθ æт ðи **æ**нкэридж]"
+          },
+          {
+            "ours": "Он не рассчитал, насколько упадёт вода, и киль коснулся дна.",
+            "thought": "Он [сделал] не рассчитывать [известное] падение от прилива, и [известный] киль коснулся [известного] морского дна.",
+            "english": "He didn't calculate the fall of tide, and the keel touched the seabed.",
+            "transcription": "[хи: диднт к**æ**лкюлэйт ðэ фо:л ов тайд æнд ðэ ки:л тачт ðэ с**и**:бэд]"
+          },
+          {
+            "ours": "Ты рассчитал высоту прилива на момент прибытия?",
+            "thought": "[Сделал] ты рассчитывать [известную] высоту от прилива по прибытии?",
+            "english": "Did you calculate the height of tide on arrival?",
+            "transcription": "[дид ю: к**æ**лкюлэйт ðэ хайт ов тайд он эр**а**йвл]"
+          }
+        ]
+      },
+      "present": {
+        "form": "calculate, calculates",
+        "examples": [
+          {
+            "ours": "Она всегда рассчитывает запас воды под килем на малую воду.",
+            "thought": "Она всегда рассчитывает [известный] запас под [известным] килем при малой воде.",
+            "english": "She always calculates the clearance under the keel at low water.",
+            "transcription": "[ши: **о**:лwэйз к**æ**лкюлэйтс ðэ кл**и**эрэнс **а**ндэ ðэ ки:л æт лоу w**о**:тэ]"
+          },
+          {
+            "ours": "Мой брат не считает подъём воды в уме.",
+            "thought": "Мой брат [делает] не рассчитывать [известный] подъём от прилива в его голове.",
+            "english": "My brother doesn't calculate the rise of tide in his head.",
+            "transcription": "[май бр**а**ðэ дазнт к**æ**лкюлэйт ðэ райз ов тайд ин хиз хэд]"
+          },
+          {
+            "ours": "Ты рассчитываешь длину цепи по глубине в полную воду?",
+            "thought": "[Делаешь] ты рассчитывать [известную] длину вытравленной цепи от [известной] глубины при полной воде?",
+            "english": "Do you calculate the scope from the depth at high water?",
+            "transcription": "[ду: ю: к**æ**лкюлэйт ðэ скоуп фром ðэ дэпθ æт хай w**о**:тэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will calculate",
+        "examples": [
+          {
+            "ours": "Сегодня вечером я рассчитаю время полной воды на завтра.",
+            "thought": "Сегодня вечером я буду рассчитывать [известное] время от полной воды для завтра.",
+            "english": "Tonight I will calculate the time of high water for tomorrow.",
+            "transcription": "[тэн**а**йт ай wил к**æ**лкюлэйт ðэ тайм ов хай w**о**:тэ фо: тэм**о**роу]"
+          },
+          {
+            "ours": "Без таблиц приливов он не станет рассчитывать длину цепи.",
+            "thought": "Он будет не рассчитывать [известную] длину от цепи без [известных] приливных таблиц.",
+            "english": "He won't calculate the length of chain without the tide tables.",
+            "transcription": "[хи: wоунт к**æ**лкюлэйт ðэ лэŋθ ов чэйн wиð**а**ут ðэ тайд т**э**йблз]"
+          },
+          {
+            "ours": "Ты рассчитаешь рабочую нагрузку этого троса по его разрывной нагрузке?",
+            "thought": "Будешь ты рассчитывать [известную] рабочую нагрузку от этого троса от его разрывной нагрузки?",
+            "english": "Will you calculate the working load of this rope from its breaking strength?",
+            "transcription": "[wил ю: к**æ**лкюлэйт ðэ w**œ**:киŋ лоуд ов ðис роуп фром итс бр**э**йкиŋ стрэŋθ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were calculating",
+        "examples": [
+          {
+            "ours": "Я как раз рассчитывал длину якорного конца, когда якорь пополз.",
+            "thought": "Я был рассчитывающим [известную] длину от якорного конца, когда [известный] якорь начал ползти.",
+            "english": "I was calculating the length of rode when the anchor started to drag.",
+            "transcription": "[ай wоз к**æ**лкюлэйтиŋ ðэ лэŋθ ов роуд wэн ðи **æ**нкэ ст**а**:тид ту дрæг]"
+          },
+          {
+            "ours": "Ты рассчитывал курс, когда сменилось течение?",
+            "thought": "Был ты рассчитывающим [известный] курс править, когда [известное] течение изменилось?",
+            "english": "Were you calculating the course to steer when the current changed?",
+            "transcription": "[wœ: ю: к**æ**лкюлэйтиŋ ðэ ко:с ту стиэ wэн ðэ к**а**рэнт чэйнджд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are calculating",
+        "examples": [
+          {
+            "ours": "Сейчас мы рассчитываем расстояние от носового роульса до дна.",
+            "thought": "Мы являемся рассчитывающими [известное] расстояние от [известного] носового роульса до [известного] морского дна сейчас.",
+            "english": "We are calculating the distance from the bow roller to the seabed now.",
+            "transcription": "[wи: а: к**æ**лкюлэйтиŋ ðэ д**и**стэнс фром ðэ бау р**о**улэ ту ðэ с**и**:бэд нау]"
+          },
+          {
+            "ours": "Ты сейчас рассчитываешь просвет под мостом?",
+            "thought": "Являешься ты рассчитывающим [известный] запас под [известным] мостом прямо сейчас?",
+            "english": "Are you calculating the clearance under the bridge right now?",
+            "transcription": "[а: ю: к**æ**лкюлэйтиŋ ðэ кл**и**эрэнс **а**ндэ ðэ бридж райт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be calculating",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем рассчитывать высоты прилива на всю неделю.",
+            "thought": "Завтра утром мы будем быть рассчитывающими [известные] высоты от прилива для [известной] целой недели.",
+            "english": "Tomorrow morning we will be calculating the heights of tide for the whole week.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: к**æ**лкюлэйтиŋ ðэ хайтс ов тайд фо: ðэ хоул wи:к]"
+          },
+          {
+            "ours": "Ты будешь рассчитывать длину каната, когда мы подойдём к бухте?",
+            "thought": "Будешь ты быть рассчитывающим [известную] длину от каната, когда мы достигнем [известной] бухты?",
+            "english": "Will you be calculating the length of warp when we reach the bay?",
+            "transcription": "[wил ю: би: к**æ**лкюлэйтиŋ ðэ лэŋθ ов wо:п wэн wи: ри:ч ðэ бэй]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had calculated",
+        "examples": [
+          {
+            "ours": "К полуночи я уже рассчитал время малой воды.",
+            "thought": "К полуночи я имел уже рассчитанным [известное] время от малой воды.",
+            "english": "By midnight I had already calculated the time of low water.",
+            "transcription": "[бай м**и**днайт ай хæд о:лр**э**ди к**æ**лкюлэйтид ðэ тайм ов лоу w**о**:тэ]"
+          },
+          {
+            "ours": "Ты рассчитал подъём воды до того, как мы бросили якорь?",
+            "thought": "Имел ты рассчитанным [известный] подъём от прилива, прежде чем мы бросили якорь?",
+            "english": "Had you calculated the rise of tide before we dropped anchor?",
+            "transcription": "[хæд ю: к**æ**лкюлэйтид ðэ райз ов тайд биф**о**: wи: дропт **æ**нкэ]"
+          },
+          {
+            "ours": "Мы не рассчитали рывковую нагрузку, и утка сломалась в шторм.",
+            "thought": "Мы имели не рассчитанной [известную] рывковую нагрузку, и [известная] утка сломалась в [известном] шторме.",
+            "english": "We hadn't calculated the shock load, and the cleat broke in the storm.",
+            "transcription": "[wи: хæднт к**æ**лкюлэйтид ðэ шок лоуд æнд ðэ кли:т броук ин ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has calculated",
+        "examples": [
+          {
+            "ours": "Я уже рассчитал минимальную глубину для нашей осадки.",
+            "thought": "Я имею уже рассчитанной [известную] минимальную глубину для нашей осадки.",
+            "english": "I have already calculated the minimum depth for our draught.",
+            "transcription": "[ай хæв о:лр**э**ди к**æ**лкюлэйтид ðэ м**и**нимэм дэпθ фо: ауэ дра:фт]"
+          },
+          {
+            "ours": "Ты рассчитал риск сесть на мель на отливе?",
+            "thought": "Имеешь ты рассчитанным [известный] риск от посадки на мель на [известном] отливе?",
+            "english": "Have you calculated the risk of grounding on the ebb?",
+            "transcription": "[хæв ю: к**æ**лкюлэйтид ðэ риск ов гр**а**ундиŋ он ðи эб]"
+          },
+          {
+            "ours": "Мы ещё не рассчитали длину каната для этой глубины.",
+            "thought": "Мы имеем не рассчитанной [известную] длину от каната для этой глубины ещё.",
+            "english": "We haven't calculated the length of warp for this depth yet.",
+            "transcription": "[wи: хæвнт к**æ**лкюлэйтид ðэ лэŋθ ов wо:п фо: ðис дэпθ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have calculated",
+        "examples": [
+          {
+            "ours": "К шести она рассчитает нагрузки на все шкоты.",
+            "thought": "К шести она будет иметь рассчитанными [известные] нагрузки на все [известные] шкоты.",
+            "english": "By six she will have calculated the loads on all the sheets.",
+            "transcription": "[бай сикс ши: wил хæв к**æ**лкюлэйтид ðэ лоудз он о:л ðэ ши:тс]"
+          },
+          {
+            "ours": "Ты рассчитаешь глубину на стоянке к полудню?",
+            "thought": "Будешь ты иметь рассчитанной [известную] глубину на [известной] якорной стоянке к полудню?",
+            "english": "Will you have calculated the depth at the anchorage by noon?",
+            "transcription": "[wил ю: хæв к**æ**лкюлэйтид ðэ дэпθ æт ðи **æ**нкэридж бай ну:н]"
+          },
+          {
+            "ours": "К тому времени он ещё не рассчитает подъём воды.",
+            "thought": "Он будет не иметь рассчитанным [известный] подъём от прилива к тогда.",
+            "english": "He won't have calculated the rise of tide by then.",
+            "transcription": "[хи: wоунт хæв к**æ**лкюлэйтид ðэ райз ов тайд бай ðэн]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been calculating",
+        "examples": [
+          {
+            "ours": "Она уже час считала высоты прилива, когда поднялся ветер.",
+            "thought": "Она имела быть рассчитывающей приливные высоты целый [какой-то] час, когда [известный] ветер поднялся.",
+            "english": "She had been calculating tidal heights for an hour when the wind rose.",
+            "transcription": "[ши: хæд би:н к**æ**лкюлэйтиŋ т**а**йдл хайтс фо: эн **а**уэ wэн ðэ wинд роуз]"
+          },
+          {
+            "ours": "Ты давно рассчитывал наше место, когда мы увидели маяк?",
+            "thought": "Имел ты быть рассчитывающим нашу позицию целое долго, когда мы увидели [известный] маяк?",
+            "english": "Had you been calculating our position for long when we saw the lighthouse?",
+            "transcription": "[хæд ю: би:н к**æ**лкюлэйтиŋ ауэ пэз**и**шн фо: лоŋ wэн wи: со: ðэ л**а**йтхаус]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been calculating",
+        "examples": [
+          {
+            "ours": "Он уже час рассчитывает нагрузки на швартовы.",
+            "thought": "Он имеет быть рассчитывающим [известные] нагрузки на [известные] швартовы целый [какой-то] час.",
+            "english": "He has been calculating the loads on the mooring lines for an hour.",
+            "transcription": "[хи: хæз би:н к**æ**лкюлэйтиŋ ðэ лоудз он ðэ м**у**эриŋ лайнз фо: эн **а**уэ]"
+          },
+          {
+            "ours": "Ты с самого завтрака считаешь приливы для нашего перехода?",
+            "thought": "Имеешь ты быть рассчитывающим [известные] приливы для нашего перехода с завтрака?",
+            "english": "Have you been calculating the tides for our passage since breakfast?",
+            "transcription": "[хæв ю: би:н к**æ**лкюлэйтиŋ ðэ тайдз фо: ауэ п**æ**сидж синс бр**э**кфэст]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been calculating",
+        "examples": [
+          {
+            "ours": "К шести я буду считать эти приливы уже три часа.",
+            "thought": "К шести я буду иметь быть рассчитывающим эти приливы целых три часа.",
+            "english": "By six I will have been calculating these tides for three hours.",
+            "transcription": "[бай сикс ай wил хæв би:н к**æ**лкюлэйтиŋ ðи:з тайдз фо: θри: **а**уэз]"
+          },
+          {
+            "ours": "К пятнице такелажник будет рассчитывать нагрузки на мачту уже неделю?",
+            "thought": "Будет [известный] такелажник иметь быть рассчитывающим [известные] мачтовые нагрузки целую [какую-то] неделю к пятнице?",
+            "english": "Will the rigger have been calculating the mast loads for a week by Friday?",
+            "transcription": "[wил ðэ р**и**гэ хæв би:н к**æ**лкюлэйтиŋ ðэ ма:ст лоудз фо: э wи:к бай фр**а**йдэй]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were calculated",
+        "examples": [
+          {
+            "ours": "Глубину рассчитали по карте и таблицам приливов.",
+            "thought": "[Известная] глубина была рассчитана от [известной] карты и [известных] приливных таблиц.",
+            "english": "The depth was calculated from the chart and the tide tables.",
+            "transcription": "[ðэ дэпθ wоз к**æ**лкюлэйтид фром ðэ ча:т æнд ðэ тайд т**э**йблз]"
+          },
+          {
+            "ours": "Запас под килем рассчитали для осадки в два метра?",
+            "thought": "Был [известный] запас рассчитан для [какой-то] осадки от двух метров?",
+            "english": "Was the clearance calculated for a draught of two metres?",
+            "transcription": "[wоз ðэ кл**и**эрэнс к**æ**лкюлэйтид фо: э дра:фт ов ту: м**и**:тэз]"
+          },
+          {
+            "ours": "Вчера вечером длину якорного конца рассчитали неправильно.",
+            "thought": "[Известная] длина от якорного конца была не рассчитана правильно прошлой ночью.",
+            "english": "The length of rode wasn't calculated correctly last night.",
+            "transcription": "[ðэ лэŋθ ов роуд wознт к**æ**лкюлэйтид кэр**э**ктли ла:ст найт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are calculated",
+        "examples": [
+          {
+            "ours": "Минимальную глубину рассчитывают как осадку плюс запас плюс падение воды.",
+            "thought": "Минимальная глубина есть рассчитана как осадка плюс запас плюс падение от прилива.",
+            "english": "Minimum depth is calculated as draught plus clearance plus fall of tide.",
+            "transcription": "[м**и**нимэм дэпθ из к**æ**лкюлэйтид æз дра:фт плас кл**и**эрэнс плас фо:л ов тайд]"
+          },
+          {
+            "ours": "Длину цепи рассчитывают по максимальной глубине?",
+            "thought": "Есть [известная] длина от цепи рассчитана от [известной] максимальной глубины?",
+            "english": "Is the length of chain calculated from the maximum depth?",
+            "transcription": "[из ðэ лэŋθ ов чэйн к**æ**лкюлэйтид фром ðэ м**æ**ксимэм дэпθ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be calculated",
+        "examples": [
+          {
+            "ours": "Длину цепи рассчитают из соотношения четыре к одному.",
+            "thought": "[Известная] длина вытравленной цепи будет быть рассчитана при [каком-то] соотношении от четырёх к одному.",
+            "english": "The scope will be calculated at a ratio of four to one.",
+            "transcription": "[ðэ скоуп wил би: к**æ**лкюлэйтид æт э р**э**йшиоу ов фо: ту wан]"
+          },
+          {
+            "ours": "Новый курс рассчитают до того, как мы выйдем из марины?",
+            "thought": "Будет [известный] новый курс быть рассчитан, прежде чем мы покинем [известную] марину?",
+            "english": "Will the new course be calculated before we leave the marina?",
+            "transcription": "[wил ðэ нью: ко:с би: к**æ**лкюлэйтид биф**о**: wи: ли:в ðэ мэр**и**:нэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being calculated",
+        "examples": [
+          {
+            "ours": "Высоты прилива как раз рассчитывали, когда отказал эхолот.",
+            "thought": "[Известные] высоты от прилива были «долго» рассчитаны, когда [известный] эхолот отказал.",
+            "english": "The heights of tide were being calculated when the depth sounder failed.",
+            "transcription": "[ðэ хайтс ов тайд wœ: б**и**:иŋ к**æ**лкюлэйтид wэн ðэ дэпθ с**а**ундэ фэйлд]"
+          },
+          {
+            "ours": "Наше место как раз рассчитывали, когда ты вышел на палубу?",
+            "thought": "Была наша позиция «долго» рассчитана, когда ты пришёл на палубу?",
+            "english": "Was our position being calculated when you came on deck?",
+            "transcription": "[wоз ауэ пэз**и**шн б**и**:иŋ к**æ**лкюлэйтид wэн ю: кэйм он дэк]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being calculated",
+        "examples": [
+          {
+            "ours": "Сейчас рассчитывают нагрузку на буксирный конец.",
+            "thought": "[Известная] нагрузка на [известный] буксирный конец есть «долго» рассчитана сейчас.",
+            "english": "The load on the towline is being calculated now.",
+            "transcription": "[ðэ лоуд он ðэ т**о**улайн из б**и**:иŋ к**æ**лкюлэйтид нау]"
+          },
+          {
+            "ours": "Глубину в малую воду рассчитывают прямо сейчас?",
+            "thought": "Есть [известная] глубина при малой воде «долго» рассчитана прямо сейчас?",
+            "english": "Is the depth at low water being calculated right now?",
+            "transcription": "[из ðэ дэпθ æт лоу w**о**:тэ б**и**:иŋ к**æ**лкюлэйтид райт нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be calculating",
+        "examples": [
+          {
+            "ours": "Завтра всё утро они будут рассчитывать плавучесть нового корпуса.",
+            "thought": "Завтра они будут быть рассчитывающими [известную] плавучесть от [известного] нового корпуса всё утро.",
+            "english": "Tomorrow they will be calculating the buoyancy of the new hull all morning.",
+            "transcription": "[тэм**о**роу ðэй wил би: к**æ**лкюлэйтиŋ ðэ б**о**йэнси ов ðэ нью: хал о:л м**о**:ниŋ]"
+          },
+          {
+            "ours": "Они будут рассчитывать приливы для регаты, когда мы прибудем?",
+            "thought": "Будут они быть рассчитывающими [известные] приливы для [известной] регаты, когда мы прибудем?",
+            "english": "Will they be calculating the tides for the regatta when we arrive?",
+            "transcription": "[wил ðэй би: к**æ**лкюлэйтиŋ ðэ тайдз фо: ðэ риг**æ**тэ wэн wи: эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been calculated",
+        "examples": [
+          {
+            "ours": "К полудню падение воды уже рассчитали.",
+            "thought": "К полудню [известное] падение от прилива имело уже быть рассчитано.",
+            "english": "By noon the fall of tide had already been calculated.",
+            "transcription": "[бай ну:н ðэ фо:л ов тайд хæд о:лр**э**ди би:н к**æ**лкюлэйтид]"
+          },
+          {
+            "ours": "Длину цепи рассчитали до того, как её вытравили?",
+            "thought": "Имела [известная] длина вытравленной цепи быть рассчитана, прежде чем [известная] цепь была вытравлена?",
+            "english": "Had the scope been calculated before the chain was let out?",
+            "transcription": "[хæд ðэ скоуп би:н к**æ**лкюлэйтид биф**о**: ðэ чэйн wоз лэт аут]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been calculated",
+        "examples": [
+          {
+            "ours": "Минимальную глубину на эту ночь уже рассчитали.",
+            "thought": "[Известная] минимальная глубина имеет уже быть рассчитана на сегодняшнюю ночь.",
+            "english": "The minimum depth has already been calculated for tonight.",
+            "transcription": "[ðэ м**и**нимэм дэпθ хæз о:лр**э**ди би:н к**æ**лкюлэйтид фо: тэн**а**йт]"
+          },
+          {
+            "ours": "Рабочую нагрузку для нового буксирного конца уже рассчитали?",
+            "thought": "Имеет [известная] рабочая нагрузка быть рассчитана для [известного] нового буксирного конца?",
+            "english": "Has the working load been calculated for the new towline?",
+            "transcription": "[хæз ðэ w**œ**:киŋ лоуд би:н к**æ**лкюлэйтид фо: ðэ нью: т**о**улайн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been calculated",
+        "examples": [
+          {
+            "ours": "К рассвету риск сесть на мель будет рассчитан.",
+            "thought": "К рассвету [известный] риск от посадки на мель будет иметь быть рассчитан.",
+            "english": "By dawn the risk of grounding will have been calculated.",
+            "transcription": "[бай до:н ðэ риск ов гр**а**ундиŋ wил хæв би:н к**æ**лкюлэйтид]"
+          },
+          {
+            "ours": "Рывковые нагрузки рассчитают к пятнице?",
+            "thought": "Будут [известные] рывковые нагрузки иметь быть рассчитаны к пятнице?",
+            "english": "Will the shock loads have been calculated by Friday?",
+            "transcription": "[wил ðэ шок лоудз хæв би:н к**æ**лкюлэйтид бай фр**а**йдэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being calculated` не употребляется. Вместо этого скажут: `The depth has been calculated.` или `The navigator has been calculating the depth for an hour.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что штурман пересчитает глубину.",
+        "thought": "Я знал, [известный] штурман будет рассчитывать [известную] глубину снова.",
+        "english": "I knew the navigator would calculate the depth again.",
+        "transcription": "[ай нью: ðэ н**æ**вигэйтэ wуд к**æ**лкюлэйт ðэ дэпθ эг**э**н]"
+      },
+      {
+        "ours": "Она сказала, что пересчитает, потому что первый расчёт был неверным.",
+        "thought": "Она сказала, она будет рассчитывать это снова, потому что её первый расчёт был неправильным.",
+        "english": "She said she would calculate it again because her first calculation was wrong.",
+        "transcription": "[ши: сэд ши: wуд к**æ**лкюлэйт ит эг**э**н бик**о**з хœ: фœ:ст кæлкюл**э**йшн wоз роŋ]"
+      },
+      {
+        "ours": "Я думал, что ради стоянки на обед шкипер не станет рассчитывать длину цепи.",
+        "thought": "Я думал, [известный] шкипер будет не рассчитывать [известную] длину вытравленной цепи для [какой-то] обеденной остановки.",
+        "english": "I thought the skipper would not calculate the scope for a lunch stop.",
+        "transcription": "[ай θо:т ðэ ск**и**пэ wуд нот к**æ**лкюлэйт ðэ скоуп фо: э ланч стоп]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "navigator",
+      "meaning": "штурман",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "navigator"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "navigator"
+        }
+      ]
+    },
+    {
+      "word": "depth",
+      "meaning": "глубина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.simple.present.2",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "depth"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "depth"
+        }
+      ]
+    },
+    {
+      "word": "anchorage",
+      "meaning": "якорная стоянка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "anchorage"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "anchorage"
+        }
+      ]
+    },
+    {
+      "word": "fall",
+      "meaning": "падение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "fall"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "fall"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "fall"
+        }
+      ]
+    },
+    {
+      "word": "tide",
+      "meaning": "прилив",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.simple.past.2",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.simple.future.1",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "tides"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "tides"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "tides"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "tide"
+        }
+      ]
+    },
+    {
+      "word": "keel",
+      "meaning": "киль",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "keel"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "keel"
+        }
+      ]
+    },
+    {
+      "word": "seabed",
+      "meaning": "морское дно",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "seabed"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "seabed"
+        }
+      ]
+    },
+    {
+      "word": "height",
+      "meaning": "высота",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "height"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "heights"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "heights"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "heights"
+        }
+      ]
+    },
+    {
+      "word": "arrival",
+      "meaning": "прибытие",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "arrival"
+        }
+      ]
+    },
+    {
+      "word": "clearance",
+      "meaning": "запас",
+      "sense": "space",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "clearance"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "clearance"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "clearance"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "clearance"
+        }
+      ]
+    },
+    {
+      "word": "low water",
+      "meaning": "малая вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "low water"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "low water"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "low water"
+        }
+      ]
+    },
+    {
+      "word": "brother",
+      "meaning": "брат",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "brother"
+        }
+      ]
+    },
+    {
+      "word": "rise",
+      "meaning": "подъём",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "rise"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "rise"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "rise"
+        }
+      ]
+    },
+    {
+      "word": "head",
+      "meaning": "голова",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "head"
+        }
+      ]
+    },
+    {
+      "word": "scope",
+      "meaning": "длина вытравленной цепи",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "scope"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "scope"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "scope"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "scope"
+        }
+      ]
+    },
+    {
+      "word": "high water",
+      "meaning": "полная вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "high water"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "high water"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "time"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "length",
+      "meaning": "длина",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "length"
+        },
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "length"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "length"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "length"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "length"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "length"
+        }
+      ]
+    },
+    {
+      "word": "chain",
+      "meaning": "цепь",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "chain"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chain"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "chain"
+        }
+      ]
+    },
+    {
+      "word": "table",
+      "meaning": "таблица",
+      "sense": "chart",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "tables"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "tables"
+        }
+      ]
+    },
+    {
+      "word": "working load",
+      "meaning": "рабочая нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "working load"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "working load"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "трос",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "rope"
+        }
+      ]
+    },
+    {
+      "word": "breaking strength",
+      "meaning": "разрывная нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "breaking strength"
+        }
+      ]
+    },
+    {
+      "word": "rode",
+      "meaning": "якорный конец",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "rode"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "rode"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "course",
+      "meaning": "курс",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "course"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "course"
+        }
+      ]
+    },
+    {
+      "word": "current",
+      "meaning": "течение",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "current"
+        }
+      ]
+    },
+    {
+      "word": "distance",
+      "meaning": "расстояние",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "distance"
+        }
+      ]
+    },
+    {
+      "word": "bow roller",
+      "meaning": "носовой роульс",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "bow roller"
+        }
+      ]
+    },
+    {
+      "word": "bridge",
+      "meaning": "мост",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "bridge"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "week"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "week"
+        }
+      ]
+    },
+    {
+      "word": "warp",
+      "meaning": "канат",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "warp"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "warp"
+        }
+      ]
+    },
+    {
+      "word": "bay",
+      "meaning": "бухта",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "bay"
+        }
+      ]
+    },
+    {
+      "word": "midnight",
+      "meaning": "полночь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "midnight"
+        }
+      ]
+    },
+    {
+      "word": "shock load",
+      "meaning": "рывковая нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "shock load"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "shock loads"
+        }
+      ]
+    },
+    {
+      "word": "cleat",
+      "meaning": "утка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "cleat"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "draught",
+      "meaning": "осадка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "draught"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "draught"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "draught"
+        }
+      ]
+    },
+    {
+      "word": "risk",
+      "meaning": "риск",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "risk"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "risk"
+        }
+      ]
+    },
+    {
+      "word": "grounding",
+      "meaning": "посадка на мель",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "grounding"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "grounding"
+        }
+      ]
+    },
+    {
+      "word": "ebb",
+      "meaning": "отлив",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "ebb"
+        }
+      ]
+    },
+    {
+      "word": "load",
+      "meaning": "нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "loads"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "loads"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "loads"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "load"
+        }
+      ]
+    },
+    {
+      "word": "sheet",
+      "meaning": "шкот",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "sheets"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "position",
+      "meaning": "позиция",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "position"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "position"
+        }
+      ]
+    },
+    {
+      "word": "lighthouse",
+      "meaning": "маяк",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "lighthouse"
+        }
+      ]
+    },
+    {
+      "word": "mooring line",
+      "meaning": "швартов",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "mooring lines"
+        }
+      ]
+    },
+    {
+      "word": "passage",
+      "meaning": "переход",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "passage"
+        }
+      ]
+    },
+    {
+      "word": "breakfast",
+      "meaning": "завтрак",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "breakfast"
+        }
+      ]
+    },
+    {
+      "word": "rigger",
+      "meaning": "такелажник",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "rigger"
+        }
+      ]
+    },
+    {
+      "word": "mast",
+      "meaning": "мачта",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "mast"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "Friday"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "metre",
+      "meaning": "метр",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "metres"
+        }
+      ]
+    },
+    {
+      "word": "night",
+      "meaning": "ночь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "ratio",
+      "meaning": "соотношение",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "ratio"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "depth sounder",
+      "meaning": "эхолот",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "depth sounder"
+        }
+      ]
+    },
+    {
+      "word": "deck",
+      "meaning": "палуба",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "deck"
+        }
+      ]
+    },
+    {
+      "word": "towline",
+      "meaning": "буксирный конец",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "towline"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "towline"
+        }
+      ]
+    },
+    {
+      "word": "buoyancy",
+      "meaning": "плавучесть",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "buoyancy"
+        }
+      ]
+    },
+    {
+      "word": "hull",
+      "meaning": "корпус",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "hull"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "calculation",
+      "meaning": "расчёт",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "calculation"
+        }
+      ]
+    },
+    {
+      "word": "skipper",
+      "meaning": "шкипер",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "skipper"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "meaning": "обед",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "lunch"
+        }
+      ]
+    },
+    {
+      "word": "stop",
+      "meaning": "остановка",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "stop"
+        }
+      ]
+    }
+  ]
+}

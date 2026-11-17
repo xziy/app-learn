@@ -1,0 +1,1384 @@
+{
+  "spec": 4,
+  "verb": "sink",
+  "forms": {
+    "base": [
+      {
+        "word": "sink",
+        "transcription": "[синк]"
+      }
+    ],
+    "past": [
+      {
+        "word": "sank",
+        "transcription": "[сæнк]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "sunk",
+        "transcription": "[санк]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "sinking",
+        "transcription": "[с**и**нкиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "sinks",
+        "transcription": "[синкс]"
+      }
+    ]
+  },
+  "meaning": "тонуть, идти ко дну, опускаться на дно; затапливать, топить; оседать, садиться (о солнце)",
+  "notes": "неправильный глагол: sink — sank — sunk; без объекта — тонуть (nylon sinks), опускаться на дно и уходить в грунт (the chain sank to the seabed, the anchor has sunk into the sand), оседать и садиться (the stern is sinking lower, the sun was sinking); с объектом — затопить, потопить (the old ferry was sunk to make a reef), отсюда пассив was sunk; sunken — прилагательное, а не форма глагола",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "sank",
+        "examples": [
+          {
+            "ours": "Вся цепь быстро опустилась на дно.",
+            "thought": "[Известная] целая длина от цепи опустилась быстро на [известное] морское дно.",
+            "english": "The whole length of chain sank quickly to the seabed.",
+            "transcription": "[ðэ хоул лэŋθ ов чэйн сæнк кw**и**кли ту ðэ с**и**:бэд]"
+          },
+          {
+            "ours": "Моя перчатка упала за борт, но не утонула.",
+            "thought": "Моя перчатка упала за борт, но [сделала] не тонуть.",
+            "english": "My glove fell overboard but didn't sink.",
+            "transcription": "[май глав фэл **о**увэбо:д бат диднт синк]"
+          },
+          {
+            "ours": "Лодка затонула после посадки на мель?",
+            "thought": "[Сделала] [известная] лодка тонуть после [известной] посадки на мель?",
+            "english": "Did the boat sink after the grounding?",
+            "transcription": "[дид ðэ боут синк **а**:фтэ ðэ гр**а**ундиŋ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "sink, sinks",
+        "examples": [
+          {
+            "ours": "У нейлона плотность выше, чем у воды, поэтому он тонет.",
+            "thought": "Нейлон имеет [какую-то] более высокую плотность, чем вода, так что он тонет.",
+            "english": "Nylon has a higher density than water, so it sinks.",
+            "transcription": "[н**а**йлон хæз э х**а**йэ д**э**нсити ðæн w**о**:тэ соу ит синкс]"
+          },
+          {
+            "ours": "Полипропиленовый конец не тонет, поэтому может намотаться на винт.",
+            "thought": "[Какой-то] полипропиленовый конец [делает] не тонуть, так что он может запутать [какой-то] винт.",
+            "english": "A polypropylene line doesn't sink, so it can foul a propeller.",
+            "transcription": "[э полипр**о**упэли:н лайн дазнт синк соу ит кæн фаул э прэп**э**лэ]"
+          },
+          {
+            "ours": "Волокна полиэстера тонут в морской воде?",
+            "thought": "[Делают] полиэстеровые волокна тонуть в морской воде?",
+            "english": "Do polyester fibres sink in seawater?",
+            "transcription": "[ду: поли**э**стэ ф**а**йбэз синк ин с**и**:wо:тэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will sink",
+        "examples": [
+          {
+            "ours": "Нейлоновый якорный конец уйдёт на дно и не будет мешать другим лодкам.",
+            "thought": "[Известный] нейлоновый якорный конец будет тонуть и оставаться свободным от других лодок.",
+            "english": "The nylon rode will sink and stay clear of other boats.",
+            "transcription": "[ðэ н**а**йлон роуд wил синк æнд стэй клиэ ов **а**ðэ боутс]"
+          },
+          {
+            "ours": "У спасательного жилета хватает плавучести, так что ты не утонешь.",
+            "thought": "[Какой-то] спасательный жилет имеет достаточно плавучести, так что ты будешь не тонуть.",
+            "english": "A life jacket has enough buoyancy, so you won't sink.",
+            "transcription": "[э лайф дж**æ**кит хæз ин**а**ф б**о**йэнси соу ю: wоунт синк]"
+          },
+          {
+            "ours": "Лодка затонет, если течь усилится?",
+            "thought": "Будет [известная] лодка тонуть, если [известная] течь станет хуже?",
+            "english": "Will the boat sink if the leak gets worse?",
+            "transcription": "[wил ðэ боут синк иф ðэ ли:к гэтс wœ:с]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were sinking",
+        "examples": [
+          {
+            "ours": "Солнце садилось за остров, когда мы встали на якорь.",
+            "thought": "[Известное] солнце было опускающимся позади [известного] острова, когда мы заякорились.",
+            "english": "The sun was sinking behind the island when we anchored.",
+            "transcription": "[ðэ сан wоз с**и**нкиŋ бих**а**йнд ðи **а**йлэнд wэн wи: **æ**нкэд]"
+          },
+          {
+            "ours": "Шлюпка уже тонула, когда подошла береговая охрана?",
+            "thought": "Была [известная] шлюпка тонущей, когда [известная] береговая охрана прибыла?",
+            "english": "Was the dinghy sinking when the coastguard arrived?",
+            "transcription": "[wоз ðэ д**и**ŋги с**и**нкиŋ wэн ðэ к**о**устга:д эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are sinking",
+        "examples": [
+          {
+            "ours": "Мы тонем, экипаж садится в спасательный плот.",
+            "thought": "Мы являемся тонущими, и [известный] экипаж является садящимся в [известный] спасательный плот.",
+            "english": "We are sinking, and the crew are getting into the life raft.",
+            "transcription": "[wи: а: с**и**нкиŋ æнд ðэ кру: а: г**э**тиŋ **и**нту ðэ лайф ра:фт]"
+          },
+          {
+            "ours": "Нос всё глубже зарывается в каждую волну?",
+            "thought": "Является [известный] нос опускающимся глубже в каждую волну?",
+            "english": "Is the bow sinking deeper into each wave?",
+            "transcription": "[из ðэ бау с**и**нкиŋ д**и**:пэ **и**нту и:ч wэйв]"
+          },
+          {
+            "ours": "Мы не тонем: вода в трюме — от дождя.",
+            "thought": "Мы являемся не тонущими; [известная] вода в [известном] трюме есть от [известного] дождя.",
+            "english": "We aren't sinking; the water in the bilge is from the rain.",
+            "transcription": "[wи: а:нт с**и**нкиŋ ðэ w**о**:тэ ин ðэ билдж из фром ðэ рэйн]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be sinking",
+        "examples": [
+          {
+            "ours": "Без насоса мы через час уже будем тонуть.",
+            "thought": "Без [известного] насоса мы будем быть тонущими в пределах [какого-то] часа.",
+            "english": "Without the pump, we will be sinking within an hour.",
+            "transcription": "[wиð**а**ут ðэ памп wи: wил би: с**и**нкиŋ wиð**и**н эн **а**уэ]"
+          },
+          {
+            "ours": "Солнце будет садиться в море, когда мы подойдём к бухте?",
+            "thought": "Будет [известное] солнце быть опускающимся в [известное] море, когда мы достигнем [известную] бухту?",
+            "english": "Will the sun be sinking into the sea when we reach the bay?",
+            "transcription": "[wил ðэ сан би: с**и**нкиŋ **и**нту ðэ си: wэн wи: ри:ч ðэ бэй]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had sunk",
+        "examples": [
+          {
+            "ours": "К полуночи повреждённый катер ушёл под воду.",
+            "thought": "К полуночи [известный] повреждённый катер имел утонувшим ниже [известной] поверхности.",
+            "english": "By midnight the damaged motorboat had sunk below the surface.",
+            "transcription": "[бай м**и**днайт ðэ д**æ**миджд м**о**утэбоут хæд санк бил**о**у ðэ с**œ**:фис]"
+          },
+          {
+            "ours": "Канат уже утонул, когда ты дал задний ход?",
+            "thought": "Имел [известный] канат утонувшим прежде, чем ты пошёл назад?",
+            "english": "Had the warp sunk before you went astern?",
+            "transcription": "[хæд ðэ wо:п санк биф**о**: ю: wэнт эст**œ**:н]"
+          },
+          {
+            "ours": "К счастью, к нашему возвращению тузик ещё не утонул.",
+            "thought": "К счастью, [известный] тузик имел не утонувшим к [известному] времени мы вернулись.",
+            "english": "Luckily, the tender hadn't sunk by the time we got back.",
+            "transcription": "[л**а**кили ðэ т**э**ндэ хæднт санк бай ðэ тайм wи: гот бæк]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has sunk",
+        "examples": [
+          {
+            "ours": "Наш киль ушёл в мягкий грунт.",
+            "thought": "Наш киль имеет опустившимся в [известное] мягкое морское дно.",
+            "english": "Our keel has sunk into the soft seabed.",
+            "transcription": "[ауэ ки:л хæз санк **и**нту ðэ софт с**и**:бэд]"
+          },
+          {
+            "ours": "Повреждённый катамаран не затонул: оба корпуса ещё держатся на воде.",
+            "thought": "[Известный] повреждённый катамаран имеет не утонувшим; оба корпуса есть ещё на плаву.",
+            "english": "The damaged catamaran hasn't sunk; both hulls are still afloat.",
+            "transcription": "[ðэ д**æ**миджд кæтэмэр**æ**н хæзнт санк боуθ халз а: стил эфл**о**ут]"
+          },
+          {
+            "ours": "Якорь уже зарылся в песок?",
+            "thought": "Имеет [известный] якорь опустившимся в [известный] песок уже?",
+            "english": "Has the anchor sunk into the sand yet?",
+            "transcription": "[хæз ðи **æ**нкэ санк **и**нту ðэ сæнд йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have sunk",
+        "examples": [
+          {
+            "ours": "С такой течью лодка к рассвету затонет.",
+            "thought": "С той течью [известная] лодка будет иметь утонувшим к рассвету.",
+            "english": "With that leak, the boat will have sunk by dawn.",
+            "transcription": "[wиð ðæт ли:к ðэ боут wил хæв санк бай до:н]"
+          },
+          {
+            "ours": "Якорный конец к тому времени уже ляжет на дно?",
+            "thought": "Будет [известный] якорный конец иметь опустившимся на [известное] морское дно к тогда?",
+            "english": "Will the rode have sunk to the seabed by then?",
+            "transcription": "[wил ðэ роуд хæв санк ту ðэ с**и**:бэд бай ðэн]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been sinking",
+        "examples": [
+          {
+            "ours": "Яхта тонула уже час, когда подошёл спасательный катер.",
+            "thought": "[Известная] яхта имела быть тонущей целый [какой-то] час, когда [известный] спасательный катер прибыл.",
+            "english": "The yacht had been sinking for an hour when the lifeboat arrived.",
+            "transcription": "[ðэ йот хæд би:н с**и**нкиŋ фо: эн **а**уэ wэн ðэ л**а**йфбоут эр**а**йвд]"
+          },
+          {
+            "ours": "Старый понтон долго проседал, прежде чем его отремонтировали?",
+            "thought": "Имел [известный] старый понтон быть тонущим целое долго прежде, чем он был отремонтирован?",
+            "english": "Had the old pontoon been sinking for long before it was repaired?",
+            "transcription": "[хæд ðи оулд понт**у**:н би:н с**и**нкиŋ фо: лоŋ биф**о**: ит wоз рип**э**эд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been sinking",
+        "examples": [
+          {
+            "ours": "Корма оседает всё ниже уже два часа.",
+            "thought": "[Известная] корма имеет быть опускающейся ниже целых два часа.",
+            "english": "The stern has been sinking lower for two hours.",
+            "transcription": "[ðэ стœ:н хæз би:н с**и**нкиŋ л**о**уэ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Старый швартовный буй тонет ещё со шторма?",
+            "thought": "Имеет [известный] старый швартовный буй быть тонущим с [известного] шторма?",
+            "english": "Has the old mooring buoy been sinking since the storm?",
+            "transcription": "[хæз ðи оулд м**у**эриŋ бой би:н с**и**нкиŋ синс ðэ сто:м]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been sinking",
+        "examples": [
+          {
+            "ours": "Пока придёт помощь, мы будем тонуть уже час.",
+            "thought": "К [известному] времени помощь прибывает, мы будем иметь быть тонущими целый [какой-то] час.",
+            "english": "By the time help arrives, we will have been sinking for an hour.",
+            "transcription": "[бай ðэ тайм хэлп эр**а**йвз wи: wил хæв би:н с**и**нкиŋ фо: эн **а**уэ]"
+          },
+          {
+            "ours": "К маю затонувшее судно будет уходить в песок уже сто лет?",
+            "thought": "Будет [известное] затонувшее судно иметь быть опускающимся в [известный] песок целый [какой-то] век к маю?",
+            "english": "Will the wreck have been sinking into the sand for a century by May?",
+            "transcription": "[wил ðэ рэк хæв би:н с**и**нкиŋ **и**нту ðэ сæнд фо: э с**э**нчэри бай мэй]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were sunk",
+        "examples": [
+          {
+            "ours": "Старую яхту потопила огромная волна.",
+            "thought": "[Известная] старая яхта была затоплена от [какой-то] огромной волны.",
+            "english": "The old yacht was sunk by a huge wave.",
+            "transcription": "[ðи оулд йот wоз санк бай э хью:дж wэйв]"
+          },
+          {
+            "ours": "Шхуну потопил плавающий контейнер?",
+            "thought": "Была [известная] шхуна затоплена от [какого-то] плавающего контейнера?",
+            "english": "Was the schooner sunk by a floating container?",
+            "transcription": "[wоз ðэ ск**у**:нэ санк бай э фл**о**утиŋ кэнт**э**йнэ]"
+          },
+          {
+            "ours": "К счастью, в шторм ни одна лодка не затонула.",
+            "thought": "К счастью, никакие лодки были затоплены в [известном] шторме.",
+            "english": "Luckily, no boats were sunk in the storm.",
+            "transcription": "[л**а**кили ноу боутс wœ: санк ин ðэ сто:м]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are sunk",
+        "examples": [
+          {
+            "ours": "Старые суда иногда затапливают, чтобы сделать рифы для дайверов.",
+            "thought": "Старые корабли есть иногда затоплены, чтобы сделать рифы для дайверов.",
+            "english": "Old ships are sometimes sunk to make reefs for divers.",
+            "transcription": "[оулд шипс а: с**а**мтаймз санк ту мэйк ри:фс фо: д**а**йвэз]"
+          },
+          {
+            "ours": "Яхты часто топят киты?",
+            "thought": "Есть яхты часто затоплены от китов?",
+            "english": "Are yachts often sunk by whales?",
+            "transcription": "[а: йотс **о**фэн санк бай wэйлз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be sunk",
+        "examples": [
+          {
+            "ours": "Старый корпус затопят в следующем месяце, чтобы сделать риф.",
+            "thought": "[Известный] старый корпус будет быть затоплен следующий месяц, чтобы сделать [какой-то] риф.",
+            "english": "The old hull will be sunk next month to make a reef.",
+            "transcription": "[ðи оулд хал wил би: санк нэкст манθ ту мэйк э ри:ф]"
+          },
+          {
+            "ours": "Старую спасательную шлюпку затопят на большой глубине?",
+            "thought": "Будет [известная] старая спасательная шлюпка быть затоплена в глубокой воде?",
+            "english": "Will the old lifeboat be sunk in deep water?",
+            "transcription": "[wил ðи оулд л**а**йфбоут би: санк ин ди:п w**о**:тэ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being sunk",
+        "examples": [
+          {
+            "ours": "Старое судно как раз затапливали, когда мы проходили мимо.",
+            "thought": "[Известное] старое судно было «долго» затоплено, когда мы проплыли мимо.",
+            "english": "The old vessel was being sunk when we sailed past.",
+            "transcription": "[ðи оулд в**э**сл wоз б**и**:иŋ санк wэн wи: сэйлд па:ст]"
+          },
+          {
+            "ours": "Шлюпку заливало волнами, когда ты её увидел?",
+            "thought": "Была [известная] шлюпка «долго» затоплена от [известных] волн, когда ты увидел её?",
+            "english": "Was the dinghy being sunk by the waves when you saw it?",
+            "transcription": "[wоз ðэ д**и**ŋги б**и**:иŋ санк бай ðэ wэйвз wэн ю: со: ит]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being sunk",
+        "examples": [
+          {
+            "ours": "Смотри, у острова сейчас затапливают старый паром.",
+            "thought": "Смотри, [известный] старый паром есть «долго» затоплен у [известного] острова сейчас.",
+            "english": "Look, the old ferry is being sunk off the island now.",
+            "transcription": "[лук ðи оулд ф**э**ри из б**и**:иŋ санк оф ðи **а**йлэнд нау]"
+          },
+          {
+            "ours": "Этот старый катамаран сегодня затапливают для дайверов?",
+            "thought": "Есть тот старый катамаран «долго» затоплен для дайверов сегодня?",
+            "english": "Is that old catamaran being sunk for divers today?",
+            "transcription": "[из ðæт оулд кæтэмэр**æ**н б**и**:иŋ санк фо: д**а**йвэз тэд**э**й]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be sinking",
+        "examples": [
+          {
+            "ours": "Завтра с десяти до двух они будут затапливать старый корпус.",
+            "thought": "Завтра с десяти до двух они будут быть затапливающими [известный] старый корпус.",
+            "english": "Tomorrow from ten to two they will be sinking the old hull.",
+            "transcription": "[тэм**о**роу фром тэн ту ту: ðэй wил би: с**и**нкиŋ ðи оулд хал]"
+          },
+          {
+            "ours": "Они будут затапливать корабль, когда мы прибудем?",
+            "thought": "Будут они быть затапливающими [известный] корабль, когда мы прибудем?",
+            "english": "Will they be sinking the ship when we arrive?",
+            "transcription": "[wил ðэй би: с**и**нкиŋ ðэ шип wэн wи: эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been sunk",
+        "examples": [
+          {
+            "ours": "К полудню старое судно уже затопили.",
+            "thought": "К полудню [известное] старое судно имело уже быть затоплено.",
+            "english": "By noon the old vessel had already been sunk.",
+            "transcription": "[бай ну:н ðи оулд в**э**сл хæд о:лр**э**ди би:н санк]"
+          },
+          {
+            "ours": "Тузик затопило шквалом?",
+            "thought": "Имел [известный] тузик быть затоплен от [известного] шквала?",
+            "english": "Had the tender been sunk by the squall?",
+            "transcription": "[хæд ðэ т**э**ндэ би:н санк бай ðэ скwо:л]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been sunk",
+        "examples": [
+          {
+            "ours": "Старый паром уже затопили, чтобы сделать риф.",
+            "thought": "[Известный] старый паром имеет уже быть затоплен, чтобы сделать [какой-то] риф.",
+            "english": "The old ferry has already been sunk to make a reef.",
+            "transcription": "[ðи оулд ф**э**ри хæз о:лр**э**ди би:н санк ту мэйк э ри:ф]"
+          },
+          {
+            "ours": "Старую шхуну уже затопили?",
+            "thought": "Имеет [известная] старая шхуна быть затоплена уже?",
+            "english": "Has the old schooner been sunk yet?",
+            "transcription": "[хæз ðи оулд ск**у**:нэ би:н санк йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been sunk",
+        "examples": [
+          {
+            "ours": "К июню старый катер затопят у побережья.",
+            "thought": "К июню [известный] старый катер будет иметь быть затоплен у [известного] побережья.",
+            "english": "By June the old motorboat will have been sunk off the coast.",
+            "transcription": "[бай джу:н ðи оулд м**о**утэбоут wил хæв би:н санк оф ðэ коуст]"
+          },
+          {
+            "ours": "Корабль затопят к весне?",
+            "thought": "Будет [известный] корабль иметь быть затоплен к весне?",
+            "english": "Will the ship have been sunk by spring?",
+            "transcription": "[wил ðэ шип хæв би:н санк бай сприŋ]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being sunk` не употребляется. Вместо этого скажут: `The old ferry has been sunk.` или `They have been sinking old ships here for years.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что тяжёлая цепь ляжет на дно и угол будет небольшим.",
+        "thought": "Я знал, [известная] тяжёлая цепь будет опускаться и держать [известный] угол низким.",
+        "english": "I knew the heavy chain would sink and keep the angle low.",
+        "transcription": "[ай нью: ðэ х**э**ви чэйн wуд синк æнд ки:п ðи **æ**ŋгл лоу]"
+      },
+      {
+        "ours": "Инструктор сказал, что нейлон утонет, а полипропилен будет плавать.",
+        "thought": "[Известный] инструктор сказал, нейлон будет тонуть и полипропилен будет плавать.",
+        "english": "The instructor said nylon would sink and polypropylene would float.",
+        "transcription": "[ðи инстр**а**ктэ сэд н**а**йлон wуд синк æнд полипр**о**упэли:н wуд флоут]"
+      },
+      {
+        "ours": "Мы надеялись, что повреждённый каяк не утонет, пока мы до него доберёмся.",
+        "thought": "Мы надеялись, [известный] повреждённый каяк будет не тонуть прежде, чем мы достигли его.",
+        "english": "We hoped the damaged kayak wouldn't sink before we reached it.",
+        "transcription": "[wи: хоупт ðэ д**æ**миджд к**а**йæк wуднт синк биф**о**: wи: ри:чт ит]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "length",
+      "meaning": "длина",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "length"
+        }
+      ]
+    },
+    {
+      "word": "chain",
+      "meaning": "цепь",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "chain"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "chain"
+        }
+      ]
+    },
+    {
+      "word": "seabed",
+      "meaning": "морское дно",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "seabed"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "seabed"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "seabed"
+        }
+      ]
+    },
+    {
+      "word": "glove",
+      "meaning": "перчатка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "glove"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "boats"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "boats"
+        }
+      ]
+    },
+    {
+      "word": "grounding",
+      "meaning": "посадка на мель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "grounding"
+        }
+      ]
+    },
+    {
+      "word": "nylon",
+      "meaning": "нейлон",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "Nylon"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "nylon"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "nylon"
+        }
+      ]
+    },
+    {
+      "word": "density",
+      "meaning": "плотность",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "density"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "water"
+        },
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "water"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "polypropylene",
+      "meaning": "полипропилен",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "polypropylene"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "polypropylene"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "propeller",
+      "meaning": "винт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "propeller"
+        }
+      ]
+    },
+    {
+      "word": "polyester",
+      "meaning": "полиэстер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "polyester"
+        }
+      ]
+    },
+    {
+      "word": "fibre",
+      "meaning": "волокно",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "fibres"
+        }
+      ]
+    },
+    {
+      "word": "seawater",
+      "meaning": "морская вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "seawater"
+        }
+      ]
+    },
+    {
+      "word": "rode",
+      "meaning": "якорный конец",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "rode"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "rode"
+        }
+      ]
+    },
+    {
+      "word": "life jacket",
+      "meaning": "спасательный жилет",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "life jacket"
+        }
+      ]
+    },
+    {
+      "word": "buoyancy",
+      "meaning": "плавучесть",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "buoyancy"
+        }
+      ]
+    },
+    {
+      "word": "leak",
+      "meaning": "течь",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "leak"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "leak"
+        }
+      ]
+    },
+    {
+      "word": "sun",
+      "meaning": "солнце",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "sun"
+        },
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sun"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "dinghy",
+      "meaning": "шлюпка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "dinghy"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "dinghy"
+        }
+      ]
+    },
+    {
+      "word": "coastguard",
+      "meaning": "береговая охрана",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "coastguard"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "meaning": "экипаж",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "crew"
+        }
+      ]
+    },
+    {
+      "word": "life raft",
+      "meaning": "спасательный плот",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "life raft"
+        }
+      ]
+    },
+    {
+      "word": "bow",
+      "meaning": "нос судна",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "bow"
+        }
+      ]
+    },
+    {
+      "word": "wave",
+      "meaning": "волна",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "wave"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "wave"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "waves"
+        }
+      ]
+    },
+    {
+      "word": "bilge",
+      "meaning": "трюм",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "bilge"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "pump",
+      "meaning": "насос",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "pump"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hour"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "meaning": "море",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "sea"
+        }
+      ]
+    },
+    {
+      "word": "bay",
+      "meaning": "бухта",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "bay"
+        }
+      ]
+    },
+    {
+      "word": "midnight",
+      "meaning": "полночь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "midnight"
+        }
+      ]
+    },
+    {
+      "word": "motorboat",
+      "meaning": "катер",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "motorboat"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "motorboat"
+        }
+      ]
+    },
+    {
+      "word": "surface",
+      "meaning": "поверхность",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "surface"
+        }
+      ]
+    },
+    {
+      "word": "warp",
+      "meaning": "канат",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "warp"
+        }
+      ]
+    },
+    {
+      "word": "tender",
+      "meaning": "тузик",
+      "sense": "boat",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "tender"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "tender"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "meaning": "время",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "time"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "time"
+        }
+      ]
+    },
+    {
+      "word": "keel",
+      "meaning": "киль",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "keel"
+        }
+      ]
+    },
+    {
+      "word": "catamaran",
+      "meaning": "катамаран",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "catamaran"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "catamaran"
+        }
+      ]
+    },
+    {
+      "word": "hull",
+      "meaning": "корпус",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "hulls"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "hull"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "hull"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "sand",
+      "meaning": "песок",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "sand"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "sand"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "yachts"
+        }
+      ]
+    },
+    {
+      "word": "lifeboat",
+      "meaning": "спасательный катер",
+      "sense": "rescue",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "lifeboat"
+        }
+      ]
+    },
+    {
+      "word": "pontoon",
+      "meaning": "понтон",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "pontoon"
+        }
+      ]
+    },
+    {
+      "word": "stern",
+      "meaning": "корма",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "stern"
+        }
+      ]
+    },
+    {
+      "word": "mooring",
+      "meaning": "швартовка",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "mooring"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "meaning": "буй",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "buoy"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "help",
+      "meaning": "помощь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "help"
+        }
+      ]
+    },
+    {
+      "word": "wreck",
+      "meaning": "затонувшее судно",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "wreck"
+        }
+      ]
+    },
+    {
+      "word": "century",
+      "meaning": "век",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "century"
+        }
+      ]
+    },
+    {
+      "word": "May",
+      "meaning": "май",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "May"
+        }
+      ]
+    },
+    {
+      "word": "schooner",
+      "meaning": "шхуна",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "schooner"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "schooner"
+        }
+      ]
+    },
+    {
+      "word": "container",
+      "meaning": "контейнер",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "container"
+        }
+      ]
+    },
+    {
+      "word": "ship",
+      "meaning": "корабль",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "ships"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "ship"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "ship"
+        }
+      ]
+    },
+    {
+      "word": "reef",
+      "meaning": "риф",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "reefs"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "reef"
+        }
+      ]
+    },
+    {
+      "word": "diver",
+      "meaning": "дайвер",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "divers"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "divers"
+        }
+      ]
+    },
+    {
+      "word": "whale",
+      "meaning": "кит",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "whales"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "meaning": "месяц",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "month"
+        }
+      ]
+    },
+    {
+      "word": "lifeboat",
+      "meaning": "спасательная шлюпка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "lifeboat"
+        }
+      ]
+    },
+    {
+      "word": "vessel",
+      "meaning": "судно",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "vessel"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "vessel"
+        }
+      ]
+    },
+    {
+      "word": "ferry",
+      "meaning": "паром",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "ferry"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "ferry"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "squall",
+      "meaning": "шквал",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "squall"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "coast",
+      "meaning": "побережье",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "coast"
+        }
+      ]
+    },
+    {
+      "word": "spring",
+      "meaning": "весна",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "spring"
+        }
+      ]
+    },
+    {
+      "word": "angle",
+      "meaning": "угол",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "angle"
+        }
+      ]
+    },
+    {
+      "word": "instructor",
+      "meaning": "инструктор",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "instructor"
+        }
+      ]
+    },
+    {
+      "word": "kayak",
+      "meaning": "каяк",
+      "used_in": [
+        {
+          "phrase": "future_in_past.2",
+          "form": "kayak"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1555 @@
+{
+  "spec": 4,
+  "verb": "measure",
+  "forms": {
+    "base": [
+      {
+        "word": "measure",
+        "transcription": "[м**э**жэ]"
+      }
+    ],
+    "past": [
+      {
+        "word": "measured",
+        "transcription": "[м**э**жэд]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "measured",
+        "transcription": "[м**э**жэд]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "measuring",
+        "transcription": "[м**э**жэриŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "measures",
+        "transcription": "[м**э**жэз]"
+      }
+    ]
+  },
+  "meaning": "измерять, мерить; иметь размер (the boat measures ten metres)",
+  "notes": "правильный глагол, бывает с объектом, есть пассив: the charted depth is measured from chart datum; в значении «иметь размер» (the boat measures ten metres) — глагол состояния без объекта, без пассива и без типа 2",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "measured",
+        "examples": [
+          {
+            "ours": "Вчера она измерила по карте расстояние до острова.",
+            "thought": "Вчера она измерила [известное] расстояние до [известного] острова на [известной] карте.",
+            "english": "Yesterday she measured the distance to the island on the chart.",
+            "transcription": "[й**э**стэдэй ши: м**э**жэд ðэ д**и**стэнс ту ðи **а**йлэнд он ðэ ча:т]"
+          },
+          {
+            "ours": "Он не измерил, насколько тянется нейлоновый канат под нагрузкой.",
+            "thought": "Он [сделал] не измерять [известное] растяжение от [известного] нейлонового каната под нагрузкой.",
+            "english": "He didn't measure the stretch of the nylon warp under load.",
+            "transcription": "[хи: диднт м**э**жэ ðэ стрэч ов ðэ н**а**йлон wо:п **а**ндэ лоуд]"
+          },
+          {
+            "ours": "Ты измерил высоту носового роульса над водой?",
+            "thought": "[Сделал] ты измерять [известную] высоту от [известного] носового роульса над [известной] водой?",
+            "english": "Did you measure the height of the bow roller above the water?",
+            "transcription": "[дид ю: м**э**жэ ðэ хайт ов ðэ бау р**о**улэ эб**а**в ðэ w**о**:тэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "measure, measures",
+        "examples": [
+          {
+            "ours": "Наш эхолот измеряет глубину под килем.",
+            "thought": "Наш эхолот измеряет [известную] глубину ниже [известного] киля.",
+            "english": "Our depth sounder measures the depth below the keel.",
+            "transcription": "[ауэ дэпθ с**а**ундэ м**э**жэз ðэ дэпθ бил**о**у ðэ ки:л]"
+          },
+          {
+            "ours": "Такелажник не измеряет натяжение вант на глаз.",
+            "thought": "[Известный] такелажник [делает] не измерять [известное] натяжение от [известных] вант на глаз.",
+            "english": "The rigger doesn't measure the tension of the shrouds by eye.",
+            "transcription": "[ðэ р**и**гэ дазнт м**э**жэ ðэ т**э**ншн ов ðэ шраудз бай ай]"
+          },
+          {
+            "ours": "Твоя лодка длиннее десяти метров?",
+            "thought": "[Делает] твоя лодка измерять больше, чем десять метров?",
+            "english": "Does your boat measure more than ten metres?",
+            "transcription": "[даз йо: боут м**э**жэ мо: ðæн тэн м**и**:тэз]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will measure",
+        "examples": [
+          {
+            "ours": "Завтра я измерю длину цепи на понтоне.",
+            "thought": "Завтра я буду измерять [известную] длину от [известной] цепи на [известном] понтоне.",
+            "english": "Tomorrow I will measure the length of the chain on the pontoon.",
+            "transcription": "[тэм**о**роу ай wил м**э**жэ ðэ лэŋθ ов ðэ чэйн он ðэ понт**у**:н]"
+          },
+          {
+            "ours": "Разрывную нагрузку этих тросов на борту мерить не будут.",
+            "thought": "Они будут не измерять [известную] разрывную нагрузку от этих тросов на борту.",
+            "english": "They won't measure the breaking strength of these ropes on board.",
+            "transcription": "[ðэй wоунт м**э**жэ ðэ бр**э**йкиŋ стрэŋθ ов ðи:з роупс он бо:д]"
+          },
+          {
+            "ours": "Ты сегодня ночью измеришь глубину в малую воду?",
+            "thought": "Будешь ты измерять [известную] глубину при малой воде сегодня ночью?",
+            "english": "Will you measure the depth at low water tonight?",
+            "transcription": "[wил ю: м**э**жэ ðэ дэпθ æт лоу w**о**:тэ тэн**а**йт]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were measuring",
+        "examples": [
+          {
+            "ours": "Я как раз измерял подъём воды, когда пошёл дождь.",
+            "thought": "Я был измеряющим [известный] подъём от прилива, когда [известный] дождь начался.",
+            "english": "I was measuring the rise of tide when the rain started.",
+            "transcription": "[ай wоз м**э**жэриŋ ðэ райз ов тайд wэн ðэ рэйн ст**а**:тид]"
+          },
+          {
+            "ours": "В полночь ты измерял угол между двумя маяками?",
+            "thought": "Был ты измеряющим [известный] угол между [известными] двумя маяками в полночь?",
+            "english": "Were you measuring the angle between the two lighthouses at midnight?",
+            "transcription": "[wœ: ю: м**э**жэриŋ ðи **æ**ŋгл битw**и**:н ðэ ту: л**а**йтхаузиз æт м**и**днайт]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are measuring",
+        "examples": [
+          {
+            "ours": "Датчик прямо сейчас измеряет напряжение на цепи.",
+            "thought": "[Известный] датчик является измеряющим [известное] напряжение на [известной] цепи прямо сейчас.",
+            "english": "The sensor is measuring the strain on the chain right now.",
+            "transcription": "[ðэ с**э**нсэ из м**э**жэриŋ ðэ стрэйн он ðэ чэйн райт нау]"
+          },
+          {
+            "ours": "Ты сейчас меряешь новые швартовы?",
+            "thought": "Являешься ты измеряющим [известные] новые швартовы сейчас?",
+            "english": "Are you measuring the new mooring lines now?",
+            "transcription": "[а: ю: м**э**жэриŋ ðэ нью: м**у**эриŋ лайнз нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be measuring",
+        "examples": [
+          {
+            "ours": "Завтра утром мы будем мерить глубины в лагуне.",
+            "thought": "Завтра утром мы будем быть измеряющими глубины в [известной] лагуне.",
+            "english": "Tomorrow morning we will be measuring depths in the lagoon.",
+            "transcription": "[тэм**о**роу м**о**:ниŋ wи: wил би: м**э**жэриŋ дэпθс ин ðэ лэг**у**:н]"
+          },
+          {
+            "ours": "Во время гонки они будут измерять рывковые нагрузки на утках?",
+            "thought": "Будут они быть измеряющими [известные] рывковые нагрузки на [известных] утках во время [известной] гонки?",
+            "english": "Will they be measuring the shock loads on the cleats during the race?",
+            "transcription": "[wил ðэй би: м**э**жэриŋ ðэ шок лоудз он ðэ кли:тс дь**ю**эриŋ ðэ рэйс]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had measured",
+        "examples": [
+          {
+            "ours": "К полудню мы уже измерили глубину на новой стоянке.",
+            "thought": "К полудню мы имели уже измеренной [известную] глубину на [известной] новой якорной стоянке.",
+            "english": "By noon we had already measured the depth at the new anchorage.",
+            "transcription": "[бай ну:н wи: хæд о:лр**э**ди м**э**жэд ðэ дэпθ æт ðэ нью: **æ**нкэридж]"
+          },
+          {
+            "ours": "Они измерили осадку до того, как лодку спустили на воду?",
+            "thought": "Имели они измеренной [известную] осадку, прежде чем [известная] лодка была спущена?",
+            "english": "Had they measured the draught before the boat was launched?",
+            "transcription": "[хæд ðэй м**э**жэд ðэ дра:фт биф**о**: ðэ боут wоз ло:нчт]"
+          },
+          {
+            "ours": "Она не измерила канат, и он оказался на десять метров короче.",
+            "thought": "Она имела не измеренным [известный] канат, и он был десять метров слишком коротким.",
+            "english": "She hadn't measured the warp, and it was ten metres too short.",
+            "transcription": "[ши: хæднт м**э**жэд ðэ wо:п æнд ит wоз тэн м**и**:тэз ту: шо:т]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has measured",
+        "examples": [
+          {
+            "ours": "Мы уже измерили растяжение полиэстерового фала.",
+            "thought": "Мы имеем уже измеренным [известное] растяжение от [известного] полиэстерового фала.",
+            "english": "We have already measured the stretch of the polyester halyard.",
+            "transcription": "[wи: хæв о:лр**э**ди м**э**жэд ðэ стрэч ов ðэ поли**э**стэ х**æ**льэд]"
+          },
+          {
+            "ours": "Ты уже измерил новый буксирный конец?",
+            "thought": "Имеешь ты измеренным [известный] новый буксирный конец уже?",
+            "english": "Have you measured the new towline yet?",
+            "transcription": "[хæв ю: м**э**жэд ðэ нью: т**о**улайн йэт]"
+          },
+          {
+            "ours": "Мы ещё не измерили глубину у этого причала.",
+            "thought": "Мы имеем не измеренной [известную] глубину у этого причального места ещё.",
+            "english": "We haven't measured the depth at this berth yet.",
+            "transcription": "[wи: хæвнт м**э**жэд ðэ дэпθ æт ðис бœ:θ йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have measured",
+        "examples": [
+          {
+            "ours": "К пятнице они измерят все места в марине.",
+            "thought": "К пятнице они будут иметь измеренным каждое причальное место в [известной] марине.",
+            "english": "By Friday they will have measured every berth in the marina.",
+            "transcription": "[бай фр**а**йдэй ðэй wил хæв м**э**жэд **э**ври бœ:θ ин ðэ мэр**и**:нэ]"
+          },
+          {
+            "ours": "Ты измеришь швартовы к полудню?",
+            "thought": "Будешь ты иметь измеренными [известные] швартовы к полудню?",
+            "english": "Will you have measured the mooring lines by noon?",
+            "transcription": "[wил ю: хæв м**э**жэд ðэ м**у**эриŋ лайнз бай ну:н]"
+          },
+          {
+            "ours": "К тому времени он ещё не измерит цепь.",
+            "thought": "Он будет не иметь измеренной [известную] цепь к тогда.",
+            "english": "He won't have measured the chain by then.",
+            "transcription": "[хи: wоунт хæв м**э**жэд ðэ чэйн бай ðэн]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been measuring",
+        "examples": [
+          {
+            "ours": "Мы уже два часа мерили глубины, когда нашли фарватер.",
+            "thought": "Мы имели быть измеряющими глубины целых два часа, когда мы нашли [известный] фарватер.",
+            "english": "We had been measuring depths for two hours when we found the channel.",
+            "transcription": "[wи: хæд би:н м**э**жэриŋ дэпθс фо: ту: **а**уэз wэн wи: фаунд ðэ ч**æ**нл]"
+          },
+          {
+            "ours": "Ты долго измерял течение, когда сменился ветер?",
+            "thought": "Имел ты быть измеряющим [известное] течение целое долго, когда [известный] ветер изменился?",
+            "english": "Had you been measuring the current for long when the wind changed?",
+            "transcription": "[хæд ю: би:н м**э**жэриŋ ðэ к**а**рэнт фо: лоŋ wэн ðэ wинд чэйнджд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been measuring",
+        "examples": [
+          {
+            "ours": "Приборы измеряют скорость ветра с рассвета.",
+            "thought": "[Известные] приборы имеют быть измеряющими ветра скорость с рассвета.",
+            "english": "The instruments have been measuring wind speed since dawn.",
+            "transcription": "[ðи **и**нстрэмэнтс хæв би:н м**э**жэриŋ wинд спи:д синс до:н]"
+          },
+          {
+            "ours": "Она с самого завтрака измеряет натяжение форштага?",
+            "thought": "Имеет она быть измеряющей [известное] натяжение от [известного] форштага с завтрака?",
+            "english": "Has she been measuring the tension of the forestay since breakfast?",
+            "transcription": "[хæз ши: би:н м**э**жэриŋ ðэ т**э**ншн ов ðэ ф**о**:стэй синс бр**э**кфэст]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been measuring",
+        "examples": [
+          {
+            "ours": "К полудню датчик будет измерять прилив уже двенадцать часов.",
+            "thought": "К полудню [известный] датчик будет иметь быть измеряющим [известный] прилив целых двенадцать часов.",
+            "english": "By noon the gauge will have been measuring the tide for twelve hours.",
+            "transcription": "[бай ну:н ðэ гэйдж wил хæв би:н м**э**жэриŋ ðэ тайд фо: тwэлв **а**уэз]"
+          },
+          {
+            "ours": "К закату ты будешь мерить глубины уже три часа?",
+            "thought": "Будешь ты иметь быть измеряющим [известные] глубины целых три часа к закату?",
+            "english": "Will you have been measuring the depths for three hours by sunset?",
+            "transcription": "[wил ю: хæв би:н м**э**жэриŋ ðэ дэпθс фо: θри: **а**уэз бай с**а**нсэт]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were measured",
+        "examples": [
+          {
+            "ours": "Глубину измерили от поверхности до дна.",
+            "thought": "[Известная] глубина была измерена от [известной] поверхности до [известного] морского дна.",
+            "english": "The depth was measured from the surface to the seabed.",
+            "transcription": "[ðэ дэпθ wоз м**э**жэд фром ðэ с**œ**:фис ту ðэ с**и**:бэд]"
+          },
+          {
+            "ours": "Якорный конец измерили перед переходом?",
+            "thought": "Был [известный] якорный конец измерен до [известного] перехода?",
+            "english": "Was the rode measured before the passage?",
+            "transcription": "[wоз ðэ роуд м**э**жэд биф**о**: ðэ п**æ**сидж]"
+          },
+          {
+            "ours": "После установки нового киля осадку не измерили.",
+            "thought": "[Известная] осадка была не измерена после того, как [известный] новый киль был установлен.",
+            "english": "The draught wasn't measured after the new keel was fitted.",
+            "transcription": "[ðэ дра:фт wознт м**э**жэд **а**:фтэ ðэ нью: ки:л wоз ф**и**тид]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are measured",
+        "examples": [
+          {
+            "ours": "Глубины на карте отсчитываются от нуля глубин.",
+            "thought": "[Известная] картовая глубина есть измерена от нуля глубин.",
+            "english": "The charted depth is measured from chart datum.",
+            "transcription": "[ðэ ч**а**:тид дэпθ из м**э**жэд фром ча:т д**э**йтэм]"
+          },
+          {
+            "ours": "Высоту прилива измеряют над нулём глубин.",
+            "thought": "Высоты от прилива есть измерены над нулём глубин.",
+            "english": "Heights of tide are measured above chart datum.",
+            "transcription": "[хайтс ов тайд а: м**э**жэд эб**а**в ча:т д**э**йтэм]"
+          },
+          {
+            "ours": "Растяжение измеряют при рабочей нагрузке или при разрывной?",
+            "thought": "Есть растяжение измерено при [известной] рабочей нагрузке или при [известной] разрывной нагрузке?",
+            "english": "Is stretch measured at the working load or at the breaking strength?",
+            "transcription": "[из стрэч м**э**жэд æт ðэ w**œ**:киŋ лоуд о: æт ðэ бр**э**йкиŋ стрэŋθ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be measured",
+        "examples": [
+          {
+            "ours": "Лодку обмерят на верфи завтра.",
+            "thought": "[Известная] лодка будет быть измерена на [известной] верфи завтра.",
+            "english": "The boat will be measured at the boatyard tomorrow.",
+            "transcription": "[ðэ боут wил би: м**э**жэд æт ðэ б**о**утйа:д тэм**о**роу]"
+          },
+          {
+            "ours": "Буксирный конец измерят перед буксировкой?",
+            "thought": "Будет [известный] буксирный конец быть измерен до [известной] буксировки?",
+            "english": "Will the towline be measured before the tow?",
+            "transcription": "[wил ðэ т**о**улайн би: м**э**жэд биф**о**: ðэ тоу]"
+          },
+          {
+            "ours": "Старые канаты до понедельника мерить не будут.",
+            "thought": "[Известные] старые канаты будут не быть измерены до понедельника.",
+            "english": "The old warps won't be measured until Monday.",
+            "transcription": "[ðи оулд wо:пс wоунт би: м**э**жэд энт**и**л м**а**ндэй]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being measured",
+        "examples": [
+          {
+            "ours": "Натяжение фала как раз измеряли, когда он лопнул.",
+            "thought": "[Известное] натяжение в [известном] фале было «долго» измерено, когда он лопнул.",
+            "english": "The tension in the halyard was being measured when it snapped.",
+            "transcription": "[ðэ т**э**ншн ин ðэ х**æ**льэд wоз б**и**:иŋ м**э**жэд wэн ит снæпт]"
+          },
+          {
+            "ours": "Глубину как раз измеряли, когда лодка села на мель?",
+            "thought": "Была [известная] глубина «долго» измерена, когда [известная] лодка села на мель?",
+            "english": "Was the depth being measured when the boat ran aground?",
+            "transcription": "[wоз ðэ дэпθ б**и**:иŋ м**э**жэд wэн ðэ боут рæн эгр**а**унд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being measured",
+        "examples": [
+          {
+            "ours": "Новый нейлоновый якорный конец сейчас меряют на понтоне.",
+            "thought": "[Известный] новый нейлоновый якорный конец есть «долго» измерен на [известном] понтоне сейчас.",
+            "english": "The new nylon rode is being measured on the pontoon now.",
+            "transcription": "[ðэ нью: н**а**йлон роуд из б**и**:иŋ м**э**жэд он ðэ понт**у**:н нау]"
+          },
+          {
+            "ours": "Плавучесть новых спасательных жилетов сейчас измеряют?",
+            "thought": "Есть [известная] плавучесть от [известных] новых спасательных жилетов «долго» измерена сейчас?",
+            "english": "Is the buoyancy of the new life jackets being measured now?",
+            "transcription": "[из ðэ б**о**йэнси ов ðэ нью: лайф дж**æ**китс б**и**:иŋ м**э**жэд нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be measuring",
+        "examples": [
+          {
+            "ours": "Завтра весь день они будут обмерять лодки для регаты.",
+            "thought": "Завтра они будут быть измеряющими [известные] лодки для [известной] регаты весь день.",
+            "english": "Tomorrow they will be measuring the boats for the regatta all day.",
+            "transcription": "[тэм**о**роу ðэй wил би: м**э**жэриŋ ðэ боутс фо: ðэ риг**æ**тэ о:л дэй]"
+          },
+          {
+            "ours": "Они будут мерить глубину в полную воду, когда мы придём?",
+            "thought": "Будут они быть измеряющими [известную] глубину при полной воде, когда мы прибудем?",
+            "english": "Will they be measuring the depth at high water when we arrive?",
+            "transcription": "[wил ðэй би: м**э**жэриŋ ðэ дэпθ æт хай w**о**:тэ wэн wи: эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been measured",
+        "examples": [
+          {
+            "ours": "К вечеру глубины вокруг острова уже измерили.",
+            "thought": "К [известному] вечеру [известные] глубины вокруг [известного] острова имели уже быть измерены.",
+            "english": "By the evening the depths around the island had already been measured.",
+            "transcription": "[бай ðи **и**:вниŋ ðэ дэпθс эр**а**унд ðи **а**йлэнд хæд о:лр**э**ди би:н м**э**жэд]"
+          },
+          {
+            "ours": "Осадку измерили до гонки?",
+            "thought": "Имела [известная] осадка быть измерена до [известной] гонки?",
+            "english": "Had the draught been measured before the race?",
+            "transcription": "[хæд ðэ дра:фт би:н м**э**жэд биф**о**: ðэ рэйс]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been measured",
+        "examples": [
+          {
+            "ours": "Плотность этого волокна измерили на заводе.",
+            "thought": "[Известная] плотность от этого волокна имеет быть измерена на [известном] заводе.",
+            "english": "The density of this fibre has been measured at the factory.",
+            "transcription": "[ðэ д**э**нсити ов ðис ф**а**йбэ хæз би:н м**э**жэд æт ðэ ф**æ**ктэри]"
+          },
+          {
+            "ours": "Сердечник и оплётку измерили отдельно?",
+            "thought": "Имеют [известный] сердечник и [известная] оплётка быть измерены раздельно?",
+            "english": "Have the core and the braid been measured separately?",
+            "transcription": "[хæв ðэ ко: æнд ðэ брэйд би:н м**э**жэд с**э**пэрэтли]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been measured",
+        "examples": [
+          {
+            "ours": "К понедельнику каждую прядь старого каната измерят.",
+            "thought": "К понедельнику каждая прядь от [известного] старого каната будет иметь быть измерена.",
+            "english": "By Monday each strand of the old warp will have been measured.",
+            "transcription": "[бай м**а**ндэй и:ч стрæнд ов ðи оулд wо:п wил хæв би:н м**э**жэд]"
+          },
+          {
+            "ours": "Причальные места обмерят к концу недели?",
+            "thought": "Будут [известные] причальные места иметь быть измерены к [известному] концу от [известной] недели?",
+            "english": "Will the berths have been measured by the end of the week?",
+            "transcription": "[wил ðэ бœ:θс хæв би:н м**э**жэд бай ðи энд ов ðэ wи:к]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being measured` не употребляется. Вместо этого скажут: `The depth has been measured.` или `We have been measuring the depth for two hours.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Она сказала, что они измерят плотность нейлона и полипропилена.",
+        "thought": "Она сказала, они будут измерять [известную] плотность от нейлона и полипропилена.",
+        "english": "She said they would measure the density of nylon and polypropylene.",
+        "transcription": "[ши: сэд ðэй wуд м**э**жэ ðэ д**э**нсити ов н**а**йлон æнд полипр**о**упэли:н]"
+      },
+      {
+        "ours": "Я думал, что новый понтон будет длиной пятьдесят метров.",
+        "thought": "Я думал, [известный] новый понтон будет измерять пятьдесят метров.",
+        "english": "I thought the new pontoon would measure fifty metres.",
+        "transcription": "[ай θо:т ðэ нью: понт**у**:н wуд м**э**жэ ф**и**фти м**и**:тэз]"
+      },
+      {
+        "ours": "Мы знали, что старый датчик не измерит рывковые нагрузки.",
+        "thought": "Мы знали, [известный] старый датчик будет не измерять рывковые нагрузки.",
+        "english": "We knew the old sensor would not measure shock loads.",
+        "transcription": "[wи: нью: ðи оулд с**э**нсэ wуд нот м**э**жэ шок лоудз]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "distance",
+      "meaning": "расстояние",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "distance"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "meaning": "остров",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "island"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "island"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "meaning": "морская карта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "chart"
+        }
+      ]
+    },
+    {
+      "word": "stretch",
+      "meaning": "растяжение",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "stretch"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "stretch"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "stretch"
+        }
+      ]
+    },
+    {
+      "word": "nylon",
+      "meaning": "нейлон",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "nylon"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "nylon"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "nylon"
+        }
+      ]
+    },
+    {
+      "word": "warp",
+      "meaning": "канат",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "warp"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "warp"
+        },
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "warps"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "warp"
+        }
+      ]
+    },
+    {
+      "word": "load",
+      "meaning": "нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "load"
+        }
+      ]
+    },
+    {
+      "word": "height",
+      "meaning": "высота",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "height"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "Heights"
+        }
+      ]
+    },
+    {
+      "word": "bow roller",
+      "meaning": "носовой роульс",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "bow roller"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "meaning": "вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "water"
+        }
+      ]
+    },
+    {
+      "word": "depth sounder",
+      "meaning": "эхолот",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "depth sounder"
+        }
+      ]
+    },
+    {
+      "word": "depth",
+      "meaning": "глубина",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "depths"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "depth"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "depths"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "depths"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "depth"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "depths"
+        }
+      ]
+    },
+    {
+      "word": "keel",
+      "meaning": "киль",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "keel"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "keel"
+        }
+      ]
+    },
+    {
+      "word": "rigger",
+      "meaning": "такелажник",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "rigger"
+        }
+      ]
+    },
+    {
+      "word": "tension",
+      "meaning": "натяжение",
+      "sense": "physical",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "tension"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "tension"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "tension"
+        }
+      ]
+    },
+    {
+      "word": "shroud",
+      "meaning": "ванта",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "shrouds"
+        }
+      ]
+    },
+    {
+      "word": "eye",
+      "meaning": "глаз",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "eye"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "boats"
+        }
+      ]
+    },
+    {
+      "word": "metre",
+      "meaning": "метр",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "metres"
+        },
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "metres"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "metres"
+        }
+      ]
+    },
+    {
+      "word": "length",
+      "meaning": "длина",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "length"
+        }
+      ]
+    },
+    {
+      "word": "chain",
+      "meaning": "цепь",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "chain"
+        },
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "chain"
+        },
+        {
+          "phrase": "active.perfect.future.2",
+          "form": "chain"
+        }
+      ]
+    },
+    {
+      "word": "pontoon",
+      "meaning": "понтон",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "pontoon"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "pontoon"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "pontoon"
+        }
+      ]
+    },
+    {
+      "word": "breaking strength",
+      "meaning": "разрывная нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "breaking strength"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "breaking strength"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "трос",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "ropes"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "meaning": "борт",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "board"
+        }
+      ]
+    },
+    {
+      "word": "low water",
+      "meaning": "малая вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "low water"
+        }
+      ]
+    },
+    {
+      "word": "rise",
+      "meaning": "подъём",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "rise"
+        }
+      ]
+    },
+    {
+      "word": "tide",
+      "meaning": "прилив",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "tide"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "tide"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "meaning": "дождь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "rain"
+        }
+      ]
+    },
+    {
+      "word": "angle",
+      "meaning": "угол",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "angle"
+        }
+      ]
+    },
+    {
+      "word": "lighthouse",
+      "meaning": "маяк",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "lighthouses"
+        }
+      ]
+    },
+    {
+      "word": "midnight",
+      "meaning": "полночь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "midnight"
+        }
+      ]
+    },
+    {
+      "word": "sensor",
+      "meaning": "датчик",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "sensor"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "sensor"
+        }
+      ]
+    },
+    {
+      "word": "strain",
+      "meaning": "напряжение",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "strain"
+        }
+      ]
+    },
+    {
+      "word": "mooring line",
+      "meaning": "швартов",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "mooring lines"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "mooring lines"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "lagoon",
+      "meaning": "лагуна",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "lagoon"
+        }
+      ]
+    },
+    {
+      "word": "shock load",
+      "meaning": "рывковая нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "shock loads"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "shock loads"
+        }
+      ]
+    },
+    {
+      "word": "cleat",
+      "meaning": "утка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "cleats"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "meaning": "гонка",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "race"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "race"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "meaning": "полдень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "noon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "noon"
+        }
+      ]
+    },
+    {
+      "word": "anchorage",
+      "meaning": "якорная стоянка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "anchorage"
+        }
+      ]
+    },
+    {
+      "word": "draught",
+      "meaning": "осадка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "draught"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "draught"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "draught"
+        }
+      ]
+    },
+    {
+      "word": "polyester",
+      "meaning": "полиэстер",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "polyester"
+        }
+      ]
+    },
+    {
+      "word": "halyard",
+      "meaning": "фал",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "halyard"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "halyard"
+        }
+      ]
+    },
+    {
+      "word": "towline",
+      "meaning": "буксирный конец",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "towline"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "towline"
+        }
+      ]
+    },
+    {
+      "word": "berth",
+      "meaning": "причальное место",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "berth"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "berth"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "berths"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "channel",
+      "meaning": "фарватер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "channel"
+        }
+      ]
+    },
+    {
+      "word": "current",
+      "meaning": "течение",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "current"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "wind"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "wind"
+        }
+      ]
+    },
+    {
+      "word": "instrument",
+      "meaning": "прибор",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "instruments"
+        }
+      ]
+    },
+    {
+      "word": "speed",
+      "meaning": "скорость",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "speed"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "forestay",
+      "meaning": "форштаг",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "forestay"
+        }
+      ]
+    },
+    {
+      "word": "breakfast",
+      "meaning": "завтрак",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "breakfast"
+        }
+      ]
+    },
+    {
+      "word": "gauge",
+      "meaning": "датчик",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "gauge"
+        }
+      ]
+    },
+    {
+      "word": "sunset",
+      "meaning": "закат",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "sunset"
+        }
+      ]
+    },
+    {
+      "word": "surface",
+      "meaning": "поверхность",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "surface"
+        }
+      ]
+    },
+    {
+      "word": "seabed",
+      "meaning": "морское дно",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "seabed"
+        }
+      ]
+    },
+    {
+      "word": "rode",
+      "meaning": "якорный конец",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "rode"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "rode"
+        }
+      ]
+    },
+    {
+      "word": "passage",
+      "meaning": "переход",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "passage"
+        }
+      ]
+    },
+    {
+      "word": "chart datum",
+      "meaning": "нуль глубин",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "chart datum"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "chart datum"
+        }
+      ]
+    },
+    {
+      "word": "working load",
+      "meaning": "рабочая нагрузка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "working load"
+        }
+      ]
+    },
+    {
+      "word": "boatyard",
+      "meaning": "верфь",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "boatyard"
+        }
+      ]
+    },
+    {
+      "word": "tow",
+      "meaning": "буксировка",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "tow"
+        }
+      ]
+    },
+    {
+      "word": "Monday",
+      "meaning": "понедельник",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.2",
+          "form": "Monday"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "Monday"
+        }
+      ]
+    },
+    {
+      "word": "buoyancy",
+      "meaning": "плавучесть",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "buoyancy"
+        }
+      ]
+    },
+    {
+      "word": "life jacket",
+      "meaning": "спасательный жилет",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "life jackets"
+        }
+      ]
+    },
+    {
+      "word": "regatta",
+      "meaning": "регата",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "regatta"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "day"
+        }
+      ]
+    },
+    {
+      "word": "high water",
+      "meaning": "полная вода",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "high water"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "meaning": "вечер",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "evening"
+        }
+      ]
+    },
+    {
+      "word": "density",
+      "meaning": "плотность",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "density"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "density"
+        }
+      ]
+    },
+    {
+      "word": "fibre",
+      "meaning": "волокно",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "fibre"
+        }
+      ]
+    },
+    {
+      "word": "factory",
+      "meaning": "завод",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "factory"
+        }
+      ]
+    },
+    {
+      "word": "core",
+      "meaning": "сердечник",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "core"
+        }
+      ]
+    },
+    {
+      "word": "braid",
+      "meaning": "оплётка",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "braid"
+        }
+      ]
+    },
+    {
+      "word": "strand",
+      "meaning": "прядь",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "strand"
+        }
+      ]
+    },
+    {
+      "word": "end",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "end"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "meaning": "неделя",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "week"
+        }
+      ]
+    },
+    {
+      "word": "polypropylene",
+      "meaning": "полипропилен",
+      "used_in": [
+        {
+          "phrase": "future_in_past.0",
+          "form": "polypropylene"
+        }
+      ]
+    }
+  ]
+}

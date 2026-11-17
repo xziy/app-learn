@@ -47,10 +47,10 @@
             "transcription": "[й**э**стэдэй ðэ кру: ридь**ю**:ст ðэ лоуд]"
           },
           {
-            "ours": "Моряк уменьшил вес вчера?",
-            "thought": "[Сделал] [известный] моряк уменьшать [известный] вес вчера?",
-            "english": "Did the sailor reduce the weight yesterday?",
-            "transcription": "[дид ðэ с**э**йлэ ридь**ю**:с ðэ wэйт й**э**стэдэй]"
+            "ours": "Нейлоновый конец вчера смягчил рывковую нагрузку?",
+            "thought": "[Сделал] [известный] нейлоновый конец уменьшать [известную] рывковую нагрузку вчера?",
+            "english": "Did the nylon line reduce the shock load yesterday?",
+            "transcription": "[дид ðэ н**а**йлон лайн ридь**ю**:с ðэ шок лоуд й**э**стэдэй]"
           },
           {
             "ours": "Они не уменьшили крен.",
@@ -64,22 +64,22 @@
         "form": "reduce, reduces",
         "examples": [
           {
-            "ours": "Капитан уменьшает крен.",
-            "thought": "[Известный] капитан уменьшает [известный] крен.",
-            "english": "The skipper reduces the heel.",
-            "transcription": "[ðэ ск**и**пэ ридь**ю**:сиз ðэ хи:л]"
+            "ours": "Узел снижает разрывную нагрузку троса.",
+            "thought": "[Какой-то] узел уменьшает [известную] разрывную нагрузку от [какого-то] троса.",
+            "english": "A knot reduces the breaking strength of a rope.",
+            "transcription": "[э нот ридь**ю**:сиз ðэ бр**э**йкиŋ стрэŋθ ов э роуп]"
           },
           {
-            "ours": "Экипаж уменьшает дифферент?",
-            "thought": "[Делает] [известный] экипаж уменьшать [известный] дифферент?",
-            "english": "Does the crew reduce the trim?",
-            "transcription": "[даз ðэ кру: ридь**ю**:с ðэ трим]"
+            "ours": "Полиэстеровый сердечник уменьшает растяжение?",
+            "thought": "[Делает] [известный] полиэстеровый сердечник уменьшать растяжение?",
+            "english": "Does the polyester core reduce stretch?",
+            "transcription": "[даз ðэ поли**э**стэ ко: ридь**ю**:с стрэч]"
           },
           {
-            "ours": "Мы не уменьшаем дифферент во время гонок.",
-            "thought": "Мы [делаем] не уменьшать [известный] дифферент во время гонок.",
-            "english": "We do not reduce the trim during races.",
-            "transcription": "[wи: ду: нот ридь**ю**:с ðэ трим дь**ю**эриŋ р**э**йсиз]"
+            "ours": "В сильный ветер мы не уменьшаем длину вытравленной цепи.",
+            "thought": "Мы [делаем] не уменьшать [известную] длину вытравленной цепи в сильных ветрах.",
+            "english": "We do not reduce the scope in strong winds.",
+            "transcription": "[wи: ду: нот ридь**ю**:с ðэ скоуп ин строŋ wиндз]"
           }
         ]
       },
@@ -118,10 +118,10 @@
             "transcription": "[ðэ кру: wоз ридь**ю**:сиŋ ðэ лоуд wэн ю: эр**а**йвд]"
           },
           {
-            "ours": "Моряк уменьшал вес, когда ты прибыл?",
-            "thought": "Был [известный] моряк уменьшающим [известный] вес, когда ты прибыл?",
-            "english": "Was the sailor reducing the weight when you arrived?",
-            "transcription": "[wоз ðэ с**э**йлэ ридь**ю**:сиŋ ðэ wэйт wэн ю: эр**а**йвд]"
+            "ours": "Второй конец уменьшал нагрузку на утку, когда ты прибыл?",
+            "thought": "Был [известный] второй конец уменьшающим [известное] напряжение на [известной] утке, когда ты прибыл?",
+            "english": "Was the second line reducing the strain on the cleat when you arrived?",
+            "transcription": "[wоз ðэ с**э**кэнд лайн ридь**ю**:сиŋ ðэ стрэйн он ðэ кли:т wэн ю: эр**а**йвд]"
           }
         ]
       },
@@ -129,10 +129,10 @@
         "form": "am/is/are reducing",
         "examples": [
           {
-            "ours": "Капитан сейчас уменьшает крен.",
-            "thought": "[Известный] капитан является уменьшающим [известный] крен сейчас.",
-            "english": "The skipper is reducing the heel now.",
-            "transcription": "[ðэ ск**и**пэ из ридь**ю**:сиŋ ðэ хи:л нау]"
+            "ours": "Шкипер сейчас уменьшает истирание каната.",
+            "thought": "[Известный] шкипер является уменьшающим истирание на [известном] канате сейчас.",
+            "english": "The skipper is reducing abrasion on the warp now.",
+            "transcription": "[ðэ ск**и**пэ из ридь**ю**:сиŋ эбр**э**йжн он ðэ wо:п нау]"
           },
           {
             "ours": "Ты сейчас уменьшаешь геную?",
@@ -189,7 +189,7 @@
         "examples": [
           {
             "ours": "Капитан уже уменьшил крен.",
-            "thought": "[Известный] капитан имеет уже уменьшенным [известный] крен.",
+            "thought": "[Известный] шкипер имеет уже уменьшенным [известный] крен.",
             "english": "The skipper has already reduced the heel.",
             "transcription": "[ðэ ск**и**пэ хæз о:лр**э**ди ридь**ю**:ст ðэ хи:л]"
           },
@@ -271,7 +271,7 @@
           },
           {
             "ours": "Крен не уменьшают ночью.",
-            "thought": "[Известный] крен есть не уменьшен ночью.",
+            "thought": "[Известный] крен есть не уменьшен в ночь.",
             "english": "The heel is not reduced at night.",
             "transcription": "[ðэ хи:л из нот ридь**ю**:ст æт найт]"
           }
@@ -449,10 +449,6 @@
           "form": "crew"
         },
         {
-          "phrase": "active.simple.present.1",
-          "form": "crew"
-        },
-        {
           "phrase": "active.simple.future.0",
           "form": "crew"
         },
@@ -541,23 +537,143 @@
       ]
     },
     {
-      "word": "weight",
-      "meaning": "вес",
+      "word": "nylon",
+      "meaning": "нейлон",
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "weight"
+          "form": "nylon"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "line"
         },
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "shock load",
+      "meaning": "рывковая нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "shock load"
+        }
+      ]
+    },
+    {
+      "word": "heel",
+      "meaning": "крен",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "heel"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "heel"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "heel"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "heel"
+        },
+        {
+          "phrase": "passive.simple.present.2",
+          "form": "heel"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "heel"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "heel"
+        }
+      ]
+    },
+    {
+      "word": "knot",
+      "meaning": "узел",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "knot"
+        }
+      ]
+    },
+    {
+      "word": "breaking strength",
+      "meaning": "разрывная нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "breaking strength"
+        }
+      ]
+    },
+    {
+      "word": "rope",
+      "meaning": "трос",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "rope"
+        }
+      ]
+    },
+    {
+      "word": "polyester",
+      "meaning": "полиэстер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "polyester"
+        }
+      ]
+    },
+    {
+      "word": "core",
+      "meaning": "сердечник",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "core"
+        }
+      ]
+    },
+    {
+      "word": "stretch",
+      "meaning": "растяжение",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "stretch"
+        }
+      ]
+    },
+    {
+      "word": "weight",
+      "meaning": "вес",
+      "used_in": [
         {
           "phrase": "active.simple.future.1",
           "form": "weight"
         },
         {
           "phrase": "active.simple.future.2",
-          "form": "weight"
-        },
-        {
-          "phrase": "active.continuous.past.1",
           "form": "weight"
         },
         {
@@ -619,15 +735,7 @@
       "meaning": "моряк",
       "used_in": [
         {
-          "phrase": "active.simple.past.1",
-          "form": "sailor"
-        },
-        {
           "phrase": "active.simple.future.1",
-          "form": "sailor"
-        },
-        {
-          "phrase": "active.continuous.past.1",
           "form": "sailor"
         },
         {
@@ -649,44 +757,22 @@
       ]
     },
     {
-      "word": "heel",
-      "meaning": "крен",
+      "word": "strain",
+      "meaning": "напряжение",
       "used_in": [
         {
-          "phrase": "active.simple.past.2",
-          "form": "heel"
-        },
+          "phrase": "active.continuous.past.1",
+          "form": "strain"
+        }
+      ]
+    },
+    {
+      "word": "cleat",
+      "meaning": "утка",
+      "used_in": [
         {
-          "phrase": "active.simple.present.0",
-          "form": "heel"
-        },
-        {
-          "phrase": "active.continuous.present.0",
-          "form": "heel"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "heel"
-        },
-        {
-          "phrase": "passive.simple.past.2",
-          "form": "heel"
-        },
-        {
-          "phrase": "passive.simple.present.0",
-          "form": "heel"
-        },
-        {
-          "phrase": "passive.simple.present.2",
-          "form": "heel"
-        },
-        {
-          "phrase": "passive.continuous.present.0",
-          "form": "heel"
-        },
-        {
-          "phrase": "passive.perfect.present.0",
-          "form": "heel"
+          "phrase": "active.continuous.past.1",
+          "form": "cleat"
         }
       ]
     },
@@ -695,10 +781,6 @@
       "meaning": "капитан",
       "used_in": [
         {
-          "phrase": "active.simple.present.0",
-          "form": "skipper"
-        },
-        {
           "phrase": "active.continuous.present.0",
           "form": "skipper"
         },
@@ -709,42 +791,22 @@
       ]
     },
     {
-      "word": "trim",
-      "meaning": "дифферент",
+      "word": "abrasion",
+      "meaning": "истирание",
       "used_in": [
         {
-          "phrase": "active.simple.present.1",
-          "form": "trim"
-        },
-        {
-          "phrase": "active.simple.present.2",
-          "form": "trim"
-        },
-        {
-          "phrase": "passive.simple.present.1",
-          "form": "trim"
-        },
-        {
-          "phrase": "passive.continuous.present.1",
-          "form": "trim"
-        },
-        {
-          "phrase": "passive.continuous.present.2",
-          "form": "trim"
-        },
-        {
-          "phrase": "passive.perfect.present.1",
-          "form": "trim"
+          "phrase": "active.continuous.present.0",
+          "form": "abrasion"
         }
       ]
     },
     {
-      "word": "race",
-      "meaning": "гонка",
+      "word": "warp",
+      "meaning": "канат",
       "used_in": [
         {
-          "phrase": "active.simple.present.2",
-          "form": "races"
+          "phrase": "active.continuous.present.0",
+          "form": "warp"
         }
       ]
     },
@@ -802,12 +864,54 @@
       ]
     },
     {
+      "word": "trim",
+      "meaning": "дифферент",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "trim"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "trim"
+        },
+        {
+          "phrase": "passive.continuous.present.2",
+          "form": "trim"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "trim"
+        }
+      ]
+    },
+    {
       "word": "night",
       "meaning": "ночь",
       "used_in": [
         {
           "phrase": "passive.simple.present.2",
           "form": "night"
+        }
+      ]
+    },
+    {
+      "word": "scope",
+      "meaning": "длина вытравленной цепи",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "scope"
+        }
+      ]
+    },
+    {
+      "word": "wind",
+      "meaning": "ветер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "winds"
         }
       ]
     }

@@ -64,16 +64,16 @@
         "form": "remain, remains",
         "examples": [
           {
-            "ours": "Яхта остаётся на якоре.",
-            "thought": "[Известная] яхта остаётся на якоре.",
-            "english": "The yacht remains at anchor.",
-            "transcription": "[ðэ йот рим**э**йнз æт **æ**нкэ]"
+            "ours": "Полипропилен остаётся на поверхности.",
+            "thought": "Полипропилен остаётся на [известной] поверхности.",
+            "english": "Polypropylene remains on the surface.",
+            "transcription": "[полипр**о**упэли:н рим**э**йнз он ðэ с**œ**:фис]"
           },
           {
-            "ours": "Экипаж не остаётся на борту.",
-            "thought": "[Известный] экипаж [делает] не оставаться на борту.",
-            "english": "The crew doesn't remain on board.",
-            "transcription": "[ðэ кру: дазнт рим**э**йн он бо:д]"
+            "ours": "Нейлоновый якорный конец не держится на плаву.",
+            "thought": "[Какой-то] нейлоновый якорный конец [делает] не оставаться на плаву.",
+            "english": "A nylon rode doesn't remain afloat.",
+            "transcription": "[э н**а**йлон роуд дазнт рим**э**йн эфл**о**ут]"
           },
           {
             "ours": "Марина остаётся открытой зимой?",
@@ -99,10 +99,10 @@
             "transcription": "[ðэ кру: wоунт рим**э**йн он бо:д]"
           },
           {
-            "ours": "Яхта останется на якоре до утра?",
-            "thought": "Будет [известная] яхта оставаться на якоре до утра?",
-            "english": "Will the yacht remain at anchor until morning?",
-            "transcription": "[wил ðэ йот рим**э**йн æт **æ**нкэ энт**и**л м**о**:ниŋ]"
+            "ours": "Соотношение останется четыре к одному до утра?",
+            "thought": "Будет [известное] соотношение оставаться четыре к одному до утра?",
+            "english": "Will the ratio remain four to one until morning?",
+            "transcription": "[wил ðэ р**э**йшиоу рим**э**йн фо: ту wан энт**и**л м**о**:ниŋ]"
           }
         ]
       }
@@ -169,10 +169,10 @@
         "form": "have/has remained",
         "examples": [
           {
-            "ours": "Яхта остаётся на якоре уже два дня.",
-            "thought": "[Известная] яхта имеет оставшейся на якоре целых два дня.",
-            "english": "The yacht has remained at anchor for two days.",
-            "transcription": "[ðэ йот хæз рим**э**йнд æт **æ**нкэ фо: ту: дэйз]"
+            "ours": "Якорь лежит на дне уже два дня.",
+            "thought": "[Известный] якорь имеет оставшимся на [известном] морском дне целых два дня.",
+            "english": "The anchor has remained on the seabed for two days.",
+            "transcription": "[ðи **æ**нкэ хæз рим**э**йнд он ðэ с**и**:бэд фо: ту: дэйз]"
           },
           {
             "ours": "Вы оставались на борту во время шторма?",
@@ -216,10 +216,10 @@
         "transcription": "[ðэ к**æ**птин сэд ðæт ðэй wуд рим**э**йн он бо:д]"
       },
       {
-        "ours": "Я знал, что яхта не останется в гавани.",
-        "thought": "Я знал что [известная] яхта будет не оставаться в [известной] гавани.",
-        "english": "I knew that the yacht wouldn't remain in the harbor.",
-        "transcription": "[ай нью: ðæт ðэ йот wуднт рим**э**йн ин ðэ х**а**:бэ]"
+        "ours": "Я знал, что угол шкотов не останется постоянным.",
+        "thought": "Я знал что [известный] угол от [известных] шкотов будет не оставаться постоянным.",
+        "english": "I knew that the angle of the sheets wouldn't remain constant.",
+        "transcription": "[ай нью: ðæт ðи **æ**ŋгл ов ðэ ши:тс wуднт рим**э**йн к**о**нстэнт]"
       },
       {
         "ours": "Капитан сказал, что мы останемся на якоре.",
@@ -269,10 +269,6 @@
           "form": "crew"
         },
         {
-          "phrase": "active.simple.present.1",
-          "form": "crew"
-        },
-        {
           "phrase": "active.simple.future.1",
           "form": "crew"
         }
@@ -284,10 +280,6 @@
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "board"
-        },
-        {
-          "phrase": "active.simple.present.1",
           "form": "board"
         },
         {
@@ -349,66 +341,42 @@
       ]
     },
     {
-      "word": "yacht",
-      "meaning": "яхта",
+      "word": "polypropylene",
+      "meaning": "полипропилен",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.simple.future.2",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "yacht"
-        },
-        {
-          "phrase": "future_in_past.1",
-          "form": "yacht"
+          "form": "Polypropylene"
         }
       ]
     },
     {
-      "word": "anchor",
-      "meaning": "якорь",
+      "word": "surface",
+      "meaning": "поверхность",
       "used_in": [
         {
           "phrase": "active.simple.present.0",
-          "form": "anchor"
-        },
+          "form": "surface"
+        }
+      ]
+    },
+    {
+      "word": "nylon",
+      "meaning": "нейлон",
+      "used_in": [
         {
-          "phrase": "active.simple.future.2",
-          "form": "anchor"
-        },
+          "phrase": "active.simple.present.1",
+          "form": "nylon"
+        }
+      ]
+    },
+    {
+      "word": "rode",
+      "meaning": "якорный конец",
+      "used_in": [
         {
-          "phrase": "active.continuous.future.0",
-          "form": "anchor"
-        },
-        {
-          "phrase": "active.perfect.past.0",
-          "form": "anchor"
-        },
-        {
-          "phrase": "active.perfect.present.0",
-          "form": "anchor"
-        },
-        {
-          "phrase": "active.perfect.future.0",
-          "form": "anchor"
-        },
-        {
-          "phrase": "future_in_past.2",
-          "form": "anchor"
+          "phrase": "active.simple.present.1",
+          "form": "rode"
         }
       ]
     },
@@ -443,10 +411,16 @@
         {
           "phrase": "active.continuous.present.1",
           "form": "harbor"
-        },
+        }
+      ]
+    },
+    {
+      "word": "ratio",
+      "meaning": "соотношение",
+      "used_in": [
         {
-          "phrase": "future_in_past.1",
-          "form": "harbor"
+          "phrase": "active.simple.future.2",
+          "form": "ratio"
         }
       ]
     },
@@ -465,6 +439,32 @@
         {
           "phrase": "active.perfect.past.0",
           "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "anchor"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "anchor"
         }
       ]
     },
@@ -505,6 +505,30 @@
       ]
     },
     {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "seabed",
+      "meaning": "морское дно",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "seabed"
+        }
+      ]
+    },
+    {
       "word": "Wednesday",
       "meaning": "среда",
       "used_in": [
@@ -529,6 +553,26 @@
         {
           "phrase": "future_in_past.2",
           "form": "captain"
+        }
+      ]
+    },
+    {
+      "word": "angle",
+      "meaning": "угол",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "angle"
+        }
+      ]
+    },
+    {
+      "word": "sheet",
+      "meaning": "шкот",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "sheets"
         }
       ]
     }

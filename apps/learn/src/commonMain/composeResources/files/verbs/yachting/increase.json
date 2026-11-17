@@ -64,16 +64,16 @@
         "form": "increase, increases",
         "examples": [
           {
-            "ours": "Высота волн увеличивается при сильном ветре.",
-            "thought": "[Известная] высота волн увеличивается при сильном ветре.",
-            "english": "The wave height increases in strong winds.",
-            "transcription": "[ðэ wэйв хайт инкр**и**:сиз ин строŋ wиндз]"
+            "ours": "При большой загрузке осадка увеличивается.",
+            "thought": "[Известная] осадка увеличивается с [какой-то] тяжёлой нагрузкой.",
+            "english": "The draught increases with a heavy load.",
+            "transcription": "[ðэ дра:фт инкр**и**:сиз wиð э х**э**ви лоуд]"
           },
           {
-            "ours": "Скорость ветра не увеличивается ночью.",
-            "thought": "[Известная] скорость ветра [делает] не увеличиваться ночью.",
-            "english": "The wind speed does not increase at night.",
-            "transcription": "[ðэ wинд спи:д даз нот инкр**и**:с æт найт]"
+            "ours": "Полиэстеровый шкот под нагрузкой почти не удлиняется.",
+            "thought": "[Известная] длина от [какого-то] полиэстерового шкота [делает] не увеличиваться много под нагрузкой.",
+            "english": "The length of a polyester sheet does not increase much under load.",
+            "transcription": "[ðэ лэŋθ ов э поли**э**стэ ши:т даз нот инкр**и**:с мач **а**ндэ лоуд]"
           },
           {
             "ours": "Скорость течения увеличивается здесь?",
@@ -87,10 +87,10 @@
         "form": "will increase",
         "examples": [
           {
-            "ours": "Завтра ветер усилится.",
-            "thought": "Завтра [известная] скорость ветра будет увеличиваться.",
-            "english": "Tomorrow the wind speed will increase.",
-            "transcription": "[тэм**о**роу ðэ wинд спи:д wил инкр**и**:с]"
+            "ours": "Завтра подъём воды увеличится на полметра.",
+            "thought": "Завтра [известный] подъём от прилива будет увеличиваться на половину [какого-то] метра.",
+            "english": "Tomorrow the rise of tide will increase by half a metre.",
+            "transcription": "[тэм**о**роу ðэ райз ов тайд wил инкр**и**:с бай ха:ф э м**и**:тэ]"
           },
           {
             "ours": "Высота волн не увеличится.",
@@ -188,10 +188,10 @@
         "form": "have/has increased",
         "examples": [
           {
-            "ours": "Ветер уже усилился.",
-            "thought": "[Известная] скорость ветра имеет уже увеличившейся.",
-            "english": "The wind speed has already increased.",
-            "transcription": "[ðэ wинд спи:д хæз о:лр**э**ди инкр**и**:ст]"
+            "ours": "Нейлоновый якорный конец под нагрузкой уже удлинился.",
+            "thought": "[Известная] длина от [известного] нейлонового якорного конца имеет уже увеличившейся под нагрузкой.",
+            "english": "The length of the nylon rode has already increased under load.",
+            "transcription": "[ðэ лэŋθ ов ðэ н**а**йлон роуд хæз о:лр**э**ди инкр**и**:ст **а**ндэ лоуд]"
           },
           {
             "ours": "Высота волн ещё не увеличилась.",
@@ -247,10 +247,10 @@
         "form": "have/has been increasing",
         "examples": [
           {
-            "ours": "Ветер усиливается уже два часа.",
-            "thought": "[Известная] скорость ветра имеет быть увеличивающейся целых два часа.",
-            "english": "The wind speed has been increasing for two hours.",
-            "transcription": "[ðэ wинд спи:д хæз би:н инкр**и**:сиŋ фо: ту: **а**уэз]"
+            "ours": "Риск сесть на мель растёт уже два часа.",
+            "thought": "[Известный] риск от посадки на мель имеет быть увеличивающимся целых два часа.",
+            "english": "The risk of grounding has been increasing for two hours.",
+            "transcription": "[ðэ риск ов гр**а**ундиŋ хæз би:н инкр**и**:сиŋ фо: ту: **а**уэз]"
           },
           {
             "ours": "Высота волн увеличивается уже час?",
@@ -329,10 +329,6 @@
           "form": "wave"
         },
         {
-          "phrase": "active.simple.present.0",
-          "form": "wave"
-        },
-        {
           "phrase": "active.simple.future.1",
           "form": "wave"
         },
@@ -384,10 +380,6 @@
       "used_in": [
         {
           "phrase": "active.simple.past.1",
-          "form": "height"
-        },
-        {
-          "phrase": "active.simple.present.0",
           "form": "height"
         },
         {
@@ -445,18 +437,6 @@
           "form": "wind"
         },
         {
-          "phrase": "active.simple.present.0",
-          "form": "winds"
-        },
-        {
-          "phrase": "active.simple.present.1",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.simple.future.0",
-          "form": "wind"
-        },
-        {
           "phrase": "active.continuous.past.0",
           "form": "wind"
         },
@@ -473,19 +453,11 @@
           "form": "wind"
         },
         {
-          "phrase": "active.perfect.present.0",
-          "form": "wind"
-        },
-        {
           "phrase": "active.perfect.future.0",
           "form": "wind"
         },
         {
           "phrase": "active.perfect_continuous.past.0",
-          "form": "wind"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.0",
           "form": "wind"
         },
         {
@@ -507,15 +479,7 @@
           "form": "speed"
         },
         {
-          "phrase": "active.simple.present.1",
-          "form": "speed"
-        },
-        {
           "phrase": "active.simple.present.2",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.simple.future.0",
           "form": "speed"
         },
         {
@@ -543,10 +507,6 @@
           "form": "speed"
         },
         {
-          "phrase": "active.perfect.present.0",
-          "form": "speed"
-        },
-        {
           "phrase": "active.perfect.present.2",
           "form": "speed"
         },
@@ -556,10 +516,6 @@
         },
         {
           "phrase": "active.perfect_continuous.past.0",
-          "form": "speed"
-        },
-        {
-          "phrase": "active.perfect_continuous.present.0",
           "form": "speed"
         },
         {
@@ -573,12 +529,64 @@
       ]
     },
     {
-      "word": "night",
-      "meaning": "ночь",
+      "word": "draught",
+      "meaning": "осадка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "draught"
+        }
+      ]
+    },
+    {
+      "word": "load",
+      "meaning": "нагрузка",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "load"
+        },
+        {
+          "phrase": "active.simple.present.1",
+          "form": "load"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "load"
+        }
+      ]
+    },
+    {
+      "word": "length",
+      "meaning": "длина",
       "used_in": [
         {
           "phrase": "active.simple.present.1",
-          "form": "night"
+          "form": "length"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "length"
+        }
+      ]
+    },
+    {
+      "word": "polyester",
+      "meaning": "полиэстер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "polyester"
+        }
+      ]
+    },
+    {
+      "word": "sheet",
+      "meaning": "шкот",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "sheet"
         }
       ]
     },
@@ -601,6 +609,36 @@
         {
           "phrase": "active.perfect.present.2",
           "form": "current"
+        }
+      ]
+    },
+    {
+      "word": "rise",
+      "meaning": "подъём",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "rise"
+        }
+      ]
+    },
+    {
+      "word": "tide",
+      "meaning": "прилив",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "tide"
+        }
+      ]
+    },
+    {
+      "word": "metre",
+      "meaning": "метр",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "metre"
         }
       ]
     },
@@ -649,6 +687,26 @@
       ]
     },
     {
+      "word": "nylon",
+      "meaning": "нейлон",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "nylon"
+        }
+      ]
+    },
+    {
+      "word": "rode",
+      "meaning": "якорный конец",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "rode"
+        }
+      ]
+    },
+    {
       "word": "hour",
       "meaning": "час",
       "used_in": [
@@ -671,6 +729,26 @@
         {
           "phrase": "active.perfect_continuous.future.1",
           "form": "hour"
+        }
+      ]
+    },
+    {
+      "word": "risk",
+      "meaning": "риск",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "risk"
+        }
+      ]
+    },
+    {
+      "word": "grounding",
+      "meaning": "посадка на мель",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "grounding"
         }
       ]
     }

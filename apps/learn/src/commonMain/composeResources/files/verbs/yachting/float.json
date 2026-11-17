@@ -1,0 +1,1370 @@
+{
+  "spec": 4,
+  "verb": "float",
+  "forms": {
+    "base": [
+      {
+        "word": "float",
+        "transcription": "[флоут]"
+      }
+    ],
+    "past": [
+      {
+        "word": "floated",
+        "transcription": "[фл**о**утид]"
+      }
+    ],
+    "participle": [
+      {
+        "word": "floated",
+        "transcription": "[фл**о**утид]"
+      }
+    ],
+    "ing": [
+      {
+        "word": "floating",
+        "transcription": "[фл**о**утиŋ]"
+      }
+    ],
+    "s": [
+      {
+        "word": "floats",
+        "transcription": "[флоутс]"
+      }
+    ]
+  },
+  "meaning": "плавать на поверхности, держаться на плаву, всплывать и сниматься с мели на приливе; снимать с мели, доставлять по воде",
+  "notes": "правильный глагол; чаще без объекта: плавать на поверхности (polypropylene floats), всплыть и сойти с мели на приливе (the yacht floated off the sandbank); с объектом — снять с мели (they floated the yacht off the sandbank) и доставить по воде (float a pontoon into position), отсюда пассив was floated off; значение «выпустить акции» в теме не берётся",
+  "active": {
+    "simple": {
+      "past": {
+        "form": "floated",
+        "examples": [
+          {
+            "ours": "В полную воду яхта снялась с мели.",
+            "thought": "При полной воде [известная] яхта всплыла с [известной] мели.",
+            "english": "At high water the yacht floated off the sandbank.",
+            "transcription": "[æт хай w**о**:тэ ðэ йот фл**о**утид оф ðэ с**æ**ндбæнк]"
+          },
+          {
+            "ours": "Наша лодка не снялась с мели до следующего прилива.",
+            "thought": "Наша лодка [сделала] не всплывать с [известной] мели до [известного] следующего прилива.",
+            "english": "Our boat didn't float off the shoal until the next tide.",
+            "transcription": "[ауэ боут диднт флоут оф ðэ шоул энт**и**л ðэ нэкст тайд]"
+          },
+          {
+            "ours": "Полипропиленовый конец держался на поверхности?",
+            "thought": "[Сделал] [известный] полипропиленовый конец плавать на [известной] поверхности?",
+            "english": "Did the polypropylene line float on the surface?",
+            "transcription": "[дид ðэ полипр**о**упэли:н лайн флоут он ðэ с**œ**:фис]"
+          }
+        ]
+      },
+      "present": {
+        "form": "float, floats",
+        "examples": [
+          {
+            "ours": "У полипропилена низкая плотность, поэтому он плавает.",
+            "thought": "Полипропилен имеет [какую-то] низкую плотность, так что он плавает.",
+            "english": "Polypropylene has a low density, so it floats.",
+            "transcription": "[полипр**о**упэли:н хæз э лоу д**э**нсити соу ит флоутс]"
+          },
+          {
+            "ours": "Нейлон не плавает, поэтому редко наматывается на винт.",
+            "thought": "Нейлон [делает] не плавать, так что он редко запутывает [известный] винт.",
+            "english": "Nylon doesn't float, so it rarely fouls the propeller.",
+            "transcription": "[н**а**йлон дазнт флоут соу ит р**э**эли фаулз ðэ прэп**э**лэ]"
+          },
+          {
+            "ours": "Полиэстеровый швартов плавает?",
+            "thought": "[Делает] [какой-то] полиэстеровый швартов плавать?",
+            "english": "Does a polyester mooring line float?",
+            "transcription": "[даз э поли**э**стэ м**у**эриŋ лайн флоут]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will float",
+        "examples": [
+          {
+            "ours": "Когда вода поднимется на метр, яхта снова всплывёт.",
+            "thought": "После [какого-то] подъёма в один метр [известная] яхта будет плавать снова.",
+            "english": "After a rise of one metre, the yacht will float again.",
+            "transcription": "[**а**:фтэ э райз ов wан м**и**:тэ ðэ йот wил флоут эг**э**н]"
+          },
+          {
+            "ours": "Шлюпка ещё будет на плаву в малую воду?",
+            "thought": "Будет [известная] шлюпка ещё плавать при малой воде?",
+            "english": "Will the dinghy still float at low water?",
+            "transcription": "[wил ðэ д**и**ŋги стил флоут æт лоу w**о**:тэ]"
+          },
+          {
+            "ours": "Этот старый буксирный конец нейлоновый, он не будет плавать.",
+            "thought": "Этот старый буксирный конец есть нейлон, так что он будет не плавать.",
+            "english": "This old towline is nylon, so it won't float.",
+            "transcription": "[ðис оулд т**о**улайн из н**а**йлон соу ит wоунт флоут]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were floating",
+        "examples": [
+          {
+            "ours": "Когда мы пришли, у понтона плавал потерянный канат.",
+            "thought": "[Какой-то] потерянный канат был плавающим около [известного] понтона, когда мы прибыли.",
+            "english": "A lost warp was floating near the pontoon when we arrived.",
+            "transcription": "[э лост wо:п wоз фл**о**утиŋ ниэ ðэ понт**у**:н wэн wи: эр**а**йвд]"
+          },
+          {
+            "ours": "Якорный буй ещё плавал, когда ты его проверял?",
+            "thought": "Был [известный] якорный буй ещё плавающим, когда ты проверил его?",
+            "english": "Was the anchor buoy still floating when you checked it?",
+            "transcription": "[wоз ðи **æ**нкэ бой стил фл**о**утиŋ wэн ю: чэкт ит]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are floating",
+        "examples": [
+          {
+            "ours": "Смотри, у волнореза плавают обломки после шторма.",
+            "thought": "Смотри, обломки от [известного] шторма являются плавающими около [известного] волнореза.",
+            "english": "Look, debris from the storm is floating near the breakwater.",
+            "transcription": "[лук д**э**бри: фром ðэ сто:м из фл**о**утиŋ ниэ ðэ бр**э**йкwо:тэ]"
+          },
+          {
+            "ours": "Яхта уже на плаву или киль ещё на дне?",
+            "thought": "Является [известная] яхта плавающей уже, или есть [известный] киль ещё на [известном] морском дне?",
+            "english": "Is the yacht floating yet, or is the keel still on the seabed?",
+            "transcription": "[из ðэ йот фл**о**утиŋ йэт о: из ðэ ки:л стил он ðэ с**и**:бэд]"
+          },
+          {
+            "ours": "Мы ещё не на плаву, так что следи за эхолотом.",
+            "thought": "Мы являемся не плавающими ещё, так что смотри [известный] эхолот.",
+            "english": "We aren't floating yet, so watch the depth sounder.",
+            "transcription": "[wи: а:нт фл**о**утиŋ йэт соу wоч ðэ дэпθ с**а**ундэ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be floating",
+        "examples": [
+          {
+            "ours": "Завтра в полную воду мы будем на плаву с запасом в метр.",
+            "thought": "Завтра при полной воде мы будем быть плавающими с [каким-то] метром от запаса.",
+            "english": "Tomorrow at high water we will be floating with a metre of clearance.",
+            "transcription": "[тэм**о**роу æт хай w**о**:тэ wи: wил би: фл**о**утиŋ wиð э м**и**:тэ ов кл**и**эрэнс]"
+          },
+          {
+            "ours": "Наш тузик ещё будет на плаву, когда мы вернёмся с пляжа?",
+            "thought": "Будет наш тузик ещё быть плавающим, когда мы вернёмся с [известного] пляжа?",
+            "english": "Will our tender still be floating when we return from the beach?",
+            "transcription": "[wил ауэ т**э**ндэ стил би: фл**о**утиŋ wэн wи: рит**œ**:н фром ðэ би:ч]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had floated",
+        "examples": [
+          {
+            "ours": "К полуночи яхта уже сошла с рифа.",
+            "thought": "К полуночи [известная] яхта имела уже всплывшим с [известного] рифа.",
+            "english": "By midnight the yacht had already floated off the reef.",
+            "transcription": "[бай м**и**днайт ðэ йот хæд о:лр**э**ди фл**о**утид оф ðэ ри:ф]"
+          },
+          {
+            "ours": "Лодка уже всплыла, когда ты завёл двигатель?",
+            "thought": "Имела [известная] лодка всплывшим прежде, чем ты запустил [известный] двигатель?",
+            "english": "Had the boat floated before you started the engine?",
+            "transcription": "[хæд ðэ боут фл**о**утид биф**о**: ю: ст**а**:тид ðи **э**нджин]"
+          },
+          {
+            "ours": "К рассвету мы так и не сошли с камней.",
+            "thought": "Мы имели не всплывшим с [известных] камней к рассвету.",
+            "english": "We hadn't floated off the rocks by dawn.",
+            "transcription": "[wи: хæднт фл**о**утид оф ðэ рокс бай до:н]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has floated",
+        "examples": [
+          {
+            "ours": "Смотри, шлюпка уже всплыла и сошла с пляжа.",
+            "thought": "Смотри, [известная] шлюпка имеет уже всплывшим с [известного] пляжа.",
+            "english": "Look, the dinghy has already floated off the beach.",
+            "transcription": "[лук ðэ д**и**ŋги хæз о:лр**э**ди фл**о**утид оф ðэ би:ч]"
+          },
+          {
+            "ours": "С нашей большой осадкой мы ещё не всплыли.",
+            "thought": "С нашей глубокой осадкой мы имеем не всплывшим ещё.",
+            "english": "With our deep draught, we haven't floated yet.",
+            "transcription": "[wиð ауэ ди:п дра:фт wи: хæвнт фл**о**утид йэт]"
+          },
+          {
+            "ours": "Катамаран уже снялся с мели?",
+            "thought": "Имеет [известный] катамаран всплывшим с [известной] мели уже?",
+            "english": "Has the catamaran floated off the sandbank yet?",
+            "transcription": "[хæз ðэ кæтэмэр**æ**н фл**о**утид оф ðэ с**æ**ндбæнк йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have floated",
+        "examples": [
+          {
+            "ours": "По моему расчёту, к восьми мы уже всплывём.",
+            "thought": "По моему расчёту, мы будем иметь всплывшим к восьми.",
+            "english": "By my calculation, we will have floated by eight.",
+            "transcription": "[бай май кæлкюл**э**йшн wи: wил хæв фл**о**утид бай эйт]"
+          },
+          {
+            "ours": "Яхта сойдёт с песка к полуночи?",
+            "thought": "Будет [известная] яхта иметь всплывшим с [известного] песка к полуночи?",
+            "english": "Will the yacht have floated off the sand by midnight?",
+            "transcription": "[wил ðэ йот хæв фл**о**утид оф ðэ сæнд бай м**и**днайт]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "past": {
+        "form": "had been floating",
+        "examples": [
+          {
+            "ours": "Потерянный кранец плавал в марине уже два дня.",
+            "thought": "[Известный] потерянный кранец имел быть плавающим в [известной] марине целых два дня.",
+            "english": "The lost fender had been floating in the marina for two days.",
+            "transcription": "[ðэ лост ф**э**ндэ хæд би:н фл**о**утиŋ ин ðэ мэр**и**:нэ фо: ту: дэйз]"
+          },
+          {
+            "ours": "Буксирный конец уже долго плавал за нами, когда намотался на руль?",
+            "thought": "Имел [известный] буксирный конец быть плавающим позади нас целое долго, когда он запутал [известный] руль?",
+            "english": "Had the towline been floating behind us for long when it fouled the rudder?",
+            "transcription": "[хæд ðэ т**о**улайн би:н фл**о**утиŋ бих**а**йнд ас фо: лоŋ wэн ит фаулд ðэ р**а**дэ]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been floating",
+        "examples": [
+          {
+            "ours": "Спасательный конец плавает за кормой уже два часа.",
+            "thought": "[Известный] спасательный конец имеет быть плавающим позади [известной] кормы целых два часа.",
+            "english": "The rescue line has been floating behind the stern for two hours.",
+            "transcription": "[ðэ р**э**скью: лайн хæз би:н фл**о**утиŋ бих**а**йнд ðэ стœ:н фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "Это топливо плавает на поверхности с рассвета?",
+            "thought": "Имеет это топливо быть плавающим на [известной] поверхности с рассвета?",
+            "english": "Has this fuel been floating on the surface since dawn?",
+            "transcription": "[хæз ðис фь**ю**:эл би:н фл**о**утиŋ он ðэ с**œ**:фис синс до:н]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been floating",
+        "examples": [
+          {
+            "ours": "К полной воде мы будем на плаву уже два часа.",
+            "thought": "К полной воде мы будем иметь быть плавающими целых два часа.",
+            "english": "By high water we will have been floating for two hours.",
+            "transcription": "[бай хай w**о**:тэ wи: wил хæв би:н фл**о**утиŋ фо: ту: **а**уэз]"
+          },
+          {
+            "ours": "К июню новый понтон будет на воде уже год?",
+            "thought": "Будет [известный] новый понтон иметь быть плавающим целый [какой-то] год к июню?",
+            "english": "Will the new pontoon have been floating for a year by June?",
+            "transcription": "[wил ðэ нью: понт**у**:н хæв би:н фл**о**утиŋ фо: э йиэ бай джу:н]"
+          }
+        ]
+      }
+    }
+  },
+  "passive": {
+    "simple": {
+      "past": {
+        "form": "was/were floated",
+        "examples": [
+          {
+            "ours": "Килевую яхту сняли с мели в полную воду.",
+            "thought": "[Известная] килевая яхта была снята с [известной] мели при полной воде.",
+            "english": "The keelboat was floated off the shoal at high water.",
+            "transcription": "[ðэ к**и**:лбоут wоз фл**о**утид оф ðэ шоул æт хай w**о**:тэ]"
+          },
+          {
+            "ours": "Лодку сняли с камней до шторма?",
+            "thought": "Была [известная] лодка снята с [известных] камней до [известного] шторма?",
+            "english": "Was the boat floated off the rocks before the storm?",
+            "transcription": "[wоз ðэ боут фл**о**утид оф ðэ рокс биф**о**: ðэ сто:м]"
+          },
+          {
+            "ours": "Новый понтон доставили на место по воде только в мае.",
+            "thought": "[Известный] новый понтон был не сплавлен в позицию до мая.",
+            "english": "The new pontoon wasn't floated into position until May.",
+            "transcription": "[ðэ нью: понт**у**:н wознт фл**о**утид **и**нту пэз**и**шн энт**и**л мэй]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are floated",
+        "examples": [
+          {
+            "ours": "После посадки на мель лодку снимают с песка в полную воду.",
+            "thought": "После [какой-то] посадки на мель [известная] лодка есть снята с [известного] песка при полной воде.",
+            "english": "After a grounding, the boat is floated off the sand at high water.",
+            "transcription": "[**а**:фтэ э гр**а**ундиŋ ðэ боут из фл**о**утид оф ðэ сæнд æт хай w**о**:тэ]"
+          },
+          {
+            "ours": "Новые понтоны каждую весну доставляют на место по воде?",
+            "thought": "Есть [известные] новые понтоны сплавлены в позицию каждую весну?",
+            "english": "Are the new pontoons floated into position every spring?",
+            "transcription": "[а: ðэ нью: понт**у**:нз фл**о**утид **и**нту пэз**и**шн **э**ври сприŋ]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be floated",
+        "examples": [
+          {
+            "ours": "Яхту снимут с мели в полную воду.",
+            "thought": "[Известная] яхта будет быть снята с [известной] мели при полной воде.",
+            "english": "The yacht will be floated off the sandbank at high water.",
+            "transcription": "[ðэ йот wил би: фл**о**утид оф ðэ с**æ**ндбæнк æт хай w**о**:тэ]"
+          },
+          {
+            "ours": "Шхуну снимут с мели завтра утром?",
+            "thought": "Будет [известная] шхуна быть снята с [известной] мели завтра утром?",
+            "english": "Will the schooner be floated off the shoal tomorrow morning?",
+            "transcription": "[wил ðэ ск**у**:нэ би: фл**о**утид оф ðэ шоул тэм**о**роу м**о**:ниŋ]"
+          }
+        ]
+      }
+    },
+    "continuous": {
+      "past": {
+        "form": "was/were being floated",
+        "examples": [
+          {
+            "ours": "Яхту как раз снимали с мели, когда налетел шквал.",
+            "thought": "[Известная] яхта была «долго» снята с [известной] мели, когда [какой-то] шквал ударил.",
+            "english": "The yacht was being floated off the sandbank when a squall hit.",
+            "transcription": "[ðэ йот wоз б**и**:иŋ фл**о**утид оф ðэ с**æ**ндбæнк wэн э скwо:л хит]"
+          },
+          {
+            "ours": "Старый паром как раз снимали с камней, когда ты пришёл?",
+            "thought": "Был [известный] старый паром «долго» снят с [известных] камней, когда ты прибыл?",
+            "english": "Was the old ferry being floated off the rocks when you arrived?",
+            "transcription": "[wоз ðи оулд ф**э**ри б**и**:иŋ фл**о**утид оф ðэ рокс wэн ю: эр**а**йвд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "am/is/are being floated",
+        "examples": [
+          {
+            "ours": "Смотри, катер сейчас снимают с мели.",
+            "thought": "Смотри, [известный] катер есть «долго» снят с [известной] мели сейчас.",
+            "english": "Look, the motorboat is being floated off the shoal now.",
+            "transcription": "[лук ðэ м**о**утэбоут из б**и**:иŋ фл**о**утид оф ðэ шоул нау]"
+          },
+          {
+            "ours": "Новый волнорез сейчас доставляют на место по воде?",
+            "thought": "Есть [известный] новый волнорез «долго» сплавлен в позицию сейчас?",
+            "english": "Is the new breakwater being floated into position now?",
+            "transcription": "[из ðэ нью: бр**э**йкwо:тэ б**и**:иŋ фл**о**утид **и**нту пэз**и**шн нау]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will be floating",
+        "examples": [
+          {
+            "ours": "Завтра с шести до восьми они будут снимать яхту с мели.",
+            "thought": "Завтра с шести до восьми они будут быть снимающими [известную] яхту с [известной] мели.",
+            "english": "Tomorrow from six to eight they will be floating the yacht off the sandbank.",
+            "transcription": "[тэм**о**роу фром сикс ту эйт ðэй wил би: фл**о**утиŋ ðэ йот оф ðэ с**æ**ндбæнк]"
+          },
+          {
+            "ours": "Они будут доставлять понтоны по воде, когда мы придём?",
+            "thought": "Будут они быть сплавляющими [известные] понтоны в позицию, когда мы прибудем?",
+            "english": "Will they be floating the pontoons into position when we arrive?",
+            "transcription": "[wил ðэй би: фл**о**утиŋ ðэ понт**у**:нз **и**нту пэз**и**шн wэн wи: эр**а**йв]"
+          }
+        ]
+      }
+    },
+    "perfect": {
+      "past": {
+        "form": "had been floated",
+        "examples": [
+          {
+            "ours": "К одиннадцати яхту уже сняли с мели.",
+            "thought": "К одиннадцати [известная] яхта имела уже быть снята с [известной] мели.",
+            "english": "By eleven the yacht had already been floated off the sandbank.",
+            "transcription": "[бай ил**э**вн ðэ йот хæд о:лр**э**ди би:н фл**о**утид оф ðэ с**æ**ндбæнк]"
+          },
+          {
+            "ours": "Катамаран сняли с рифа до того, как сменился прилив?",
+            "thought": "Имел [известный] катамаран быть снят с [известного] рифа прежде, чем [известный] прилив повернулся?",
+            "english": "Had the catamaran been floated off the reef before the tide turned?",
+            "transcription": "[хæд ðэ кæтэмэр**æ**н би:н фл**о**утид оф ðэ ри:ф биф**о**: ðэ тайд тœ:нд]"
+          }
+        ]
+      },
+      "present": {
+        "form": "have/has been floated",
+        "examples": [
+          {
+            "ours": "Яхту уже сняли с мели.",
+            "thought": "[Известная] яхта имеет уже быть снята с [известной] мели.",
+            "english": "The yacht has already been floated off the shoal.",
+            "transcription": "[ðэ йот хæз о:лр**э**ди би:н фл**о**утид оф ðэ шоул]"
+          },
+          {
+            "ours": "Новый понтон уже доставили на место?",
+            "thought": "Имеет [известный] новый понтон быть сплавлен в позицию уже?",
+            "english": "Has the new pontoon been floated into position yet?",
+            "transcription": "[хæз ðэ нью: понт**у**:н би:н фл**о**утид **и**нту пэз**и**шн йэт]"
+          }
+        ]
+      },
+      "future": {
+        "form": "will have been floated",
+        "examples": [
+          {
+            "ours": "К полуночи килевую яхту снимут с мели.",
+            "thought": "К полуночи [известная] килевая яхта будет иметь быть снята с [известной] мели.",
+            "english": "By midnight the keelboat will have been floated off the sandbank.",
+            "transcription": "[бай м**и**днайт ðэ к**и**:лбоут wил хæв би:н фл**о**утид оф ðэ с**æ**ндбæнк]"
+          },
+          {
+            "ours": "Волнорез доставят на место к пятнице?",
+            "thought": "Будет [известный] волнорез иметь быть сплавлен в позицию к пятнице?",
+            "english": "Will the breakwater have been floated into position by Friday?",
+            "transcription": "[wил ðэ бр**э**йкwо:тэ хæв би:н фл**о**утид **и**нту пэз**и**шн бай фр**а**йдэй]"
+          }
+        ]
+      }
+    },
+    "perfect_continuous": {
+      "not_possible": "`has been being floated` не употребляется. Вместо этого скажут: `The yacht has been floated off the sandbank.` или `They have been floating the yacht off for two hours.`"
+    }
+  },
+  "future_in_past": {
+    "examples": [
+      {
+        "ours": "Я знал, что в полную воду мы снимемся с мели.",
+        "thought": "Я знал, мы будем всплывать с [известной] мели при полной воде.",
+        "english": "I knew we would float off the sandbank at high water.",
+        "transcription": "[ай нью: wи: wуд флоут оф ðэ с**æ**ндбæнк æт хай w**о**:тэ]"
+      },
+      {
+        "ours": "Инструктор сказал, что нейлон не будет плавать.",
+        "thought": "[Известный] инструктор сказал, нейлон будет не плавать.",
+        "english": "The instructor said nylon wouldn't float.",
+        "transcription": "[ðи инстр**а**ктэ сэд н**а**йлон wуднт флоут]"
+      },
+      {
+        "ours": "Он спросил, будет ли полипропиленовый конец плавать.",
+        "thought": "Он спросил, ли [какой-то] полипропиленовый конец будет плавать.",
+        "english": "He asked whether a polypropylene line would float.",
+        "transcription": "[хи: а:скт w**э**ðэ э полипр**о**упэли:н лайн wуд флоут]"
+      }
+    ]
+  },
+  "nouns": [
+    {
+      "word": "high water",
+      "meaning": "полная вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "high water"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "high water"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "high water"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "high water"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "high water"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "high water"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "high water"
+        }
+      ]
+    },
+    {
+      "word": "yacht",
+      "meaning": "яхта",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "yacht"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "yacht"
+        }
+      ]
+    },
+    {
+      "word": "sandbank",
+      "meaning": "мель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.0",
+          "form": "sandbank"
+        },
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "sandbank"
+        },
+        {
+          "phrase": "passive.simple.future.0",
+          "form": "sandbank"
+        },
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "sandbank"
+        },
+        {
+          "phrase": "passive.continuous.future.0",
+          "form": "sandbank"
+        },
+        {
+          "phrase": "passive.perfect.past.0",
+          "form": "sandbank"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "sandbank"
+        },
+        {
+          "phrase": "future_in_past.0",
+          "form": "sandbank"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "meaning": "лодка",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "boat"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "boat"
+        }
+      ]
+    },
+    {
+      "word": "shoal",
+      "meaning": "мель",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "shoal"
+        },
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "shoal"
+        },
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "shoal"
+        },
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "shoal"
+        },
+        {
+          "phrase": "passive.perfect.present.0",
+          "form": "shoal"
+        }
+      ]
+    },
+    {
+      "word": "tide",
+      "meaning": "прилив",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.1",
+          "form": "tide"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "tide"
+        }
+      ]
+    },
+    {
+      "word": "polypropylene",
+      "meaning": "полипропилен",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "polypropylene"
+        },
+        {
+          "phrase": "active.simple.present.0",
+          "form": "Polypropylene"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "polypropylene"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "meaning": "конец",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "line"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "line"
+        },
+        {
+          "phrase": "future_in_past.2",
+          "form": "line"
+        }
+      ]
+    },
+    {
+      "word": "surface",
+      "meaning": "поверхность",
+      "used_in": [
+        {
+          "phrase": "active.simple.past.2",
+          "form": "surface"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "surface"
+        }
+      ]
+    },
+    {
+      "word": "density",
+      "meaning": "плотность",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.0",
+          "form": "density"
+        }
+      ]
+    },
+    {
+      "word": "nylon",
+      "meaning": "нейлон",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "Nylon"
+        },
+        {
+          "phrase": "active.simple.future.2",
+          "form": "nylon"
+        },
+        {
+          "phrase": "future_in_past.1",
+          "form": "nylon"
+        }
+      ]
+    },
+    {
+      "word": "propeller",
+      "meaning": "винт",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.1",
+          "form": "propeller"
+        }
+      ]
+    },
+    {
+      "word": "polyester",
+      "meaning": "полиэстер",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "polyester"
+        }
+      ]
+    },
+    {
+      "word": "mooring line",
+      "meaning": "швартов",
+      "used_in": [
+        {
+          "phrase": "active.simple.present.2",
+          "form": "mooring line"
+        }
+      ]
+    },
+    {
+      "word": "rise",
+      "meaning": "подъём",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "rise"
+        }
+      ]
+    },
+    {
+      "word": "metre",
+      "meaning": "метр",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.0",
+          "form": "metre"
+        },
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "metre"
+        }
+      ]
+    },
+    {
+      "word": "dinghy",
+      "meaning": "шлюпка",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "dinghy"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "dinghy"
+        }
+      ]
+    },
+    {
+      "word": "low water",
+      "meaning": "малая вода",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.1",
+          "form": "low water"
+        }
+      ]
+    },
+    {
+      "word": "towline",
+      "meaning": "буксирный конец",
+      "used_in": [
+        {
+          "phrase": "active.simple.future.2",
+          "form": "towline"
+        },
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "towline"
+        }
+      ]
+    },
+    {
+      "word": "warp",
+      "meaning": "канат",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "warp"
+        }
+      ]
+    },
+    {
+      "word": "pontoon",
+      "meaning": "понтон",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.0",
+          "form": "pontoon"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "pontoon"
+        },
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "pontoon"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "pontoons"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "pontoons"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "pontoon"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "meaning": "якорь",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "anchor"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "meaning": "буй",
+      "used_in": [
+        {
+          "phrase": "active.continuous.past.1",
+          "form": "buoy"
+        }
+      ]
+    },
+    {
+      "word": "debris",
+      "meaning": "обломки",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "debris"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "meaning": "шторм",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "storm"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "storm"
+        }
+      ]
+    },
+    {
+      "word": "breakwater",
+      "meaning": "волнорез",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.0",
+          "form": "breakwater"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "breakwater"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "breakwater"
+        }
+      ]
+    },
+    {
+      "word": "keel",
+      "meaning": "киль",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "keel"
+        }
+      ]
+    },
+    {
+      "word": "seabed",
+      "meaning": "морское дно",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.1",
+          "form": "seabed"
+        }
+      ]
+    },
+    {
+      "word": "depth sounder",
+      "meaning": "эхолот",
+      "used_in": [
+        {
+          "phrase": "active.continuous.present.2",
+          "form": "depth sounder"
+        }
+      ]
+    },
+    {
+      "word": "clearance",
+      "meaning": "запас",
+      "sense": "space",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.0",
+          "form": "clearance"
+        }
+      ]
+    },
+    {
+      "word": "tender",
+      "meaning": "тузик",
+      "sense": "boat",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "tender"
+        }
+      ]
+    },
+    {
+      "word": "beach",
+      "meaning": "пляж",
+      "used_in": [
+        {
+          "phrase": "active.continuous.future.1",
+          "form": "beach"
+        },
+        {
+          "phrase": "active.perfect.present.0",
+          "form": "beach"
+        }
+      ]
+    },
+    {
+      "word": "midnight",
+      "meaning": "полночь",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "midnight"
+        },
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "midnight"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "midnight"
+        }
+      ]
+    },
+    {
+      "word": "reef",
+      "meaning": "риф",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.0",
+          "form": "reef"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "reef"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "meaning": "двигатель",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.1",
+          "form": "engine"
+        }
+      ]
+    },
+    {
+      "word": "rock",
+      "meaning": "камень",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.simple.past.1",
+          "form": "rocks"
+        },
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "rocks"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "meaning": "рассвет",
+      "used_in": [
+        {
+          "phrase": "active.perfect.past.2",
+          "form": "dawn"
+        },
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "dawn"
+        }
+      ]
+    },
+    {
+      "word": "draught",
+      "meaning": "осадка",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.1",
+          "form": "draught"
+        }
+      ]
+    },
+    {
+      "word": "catamaran",
+      "meaning": "катамаран",
+      "used_in": [
+        {
+          "phrase": "active.perfect.present.2",
+          "form": "catamaran"
+        },
+        {
+          "phrase": "passive.perfect.past.1",
+          "form": "catamaran"
+        }
+      ]
+    },
+    {
+      "word": "calculation",
+      "meaning": "расчёт",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.0",
+          "form": "calculation"
+        }
+      ]
+    },
+    {
+      "word": "sand",
+      "meaning": "песок",
+      "used_in": [
+        {
+          "phrase": "active.perfect.future.1",
+          "form": "sand"
+        },
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "sand"
+        }
+      ]
+    },
+    {
+      "word": "fender",
+      "meaning": "кранец",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "fender"
+        }
+      ]
+    },
+    {
+      "word": "marina",
+      "meaning": "марина",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "marina"
+        }
+      ]
+    },
+    {
+      "word": "day",
+      "meaning": "день",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.0",
+          "form": "days"
+        }
+      ]
+    },
+    {
+      "word": "rudder",
+      "meaning": "руль",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.past.1",
+          "form": "rudder"
+        }
+      ]
+    },
+    {
+      "word": "rescue",
+      "meaning": "спасение",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "rescue"
+        }
+      ]
+    },
+    {
+      "word": "stern",
+      "meaning": "корма",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "stern"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "meaning": "час",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.0",
+          "form": "hours"
+        },
+        {
+          "phrase": "active.perfect_continuous.future.0",
+          "form": "hours"
+        }
+      ]
+    },
+    {
+      "word": "fuel",
+      "meaning": "топливо",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.present.1",
+          "form": "fuel"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "meaning": "год",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "year"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "meaning": "июнь",
+      "used_in": [
+        {
+          "phrase": "active.perfect_continuous.future.1",
+          "form": "June"
+        }
+      ]
+    },
+    {
+      "word": "keelboat",
+      "meaning": "килевая яхта",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.0",
+          "form": "keelboat"
+        },
+        {
+          "phrase": "passive.perfect.future.0",
+          "form": "keelboat"
+        }
+      ]
+    },
+    {
+      "word": "position",
+      "meaning": "позиция",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "position"
+        },
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "position"
+        },
+        {
+          "phrase": "passive.continuous.present.1",
+          "form": "position"
+        },
+        {
+          "phrase": "passive.continuous.future.1",
+          "form": "position"
+        },
+        {
+          "phrase": "passive.perfect.present.1",
+          "form": "position"
+        },
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "position"
+        }
+      ]
+    },
+    {
+      "word": "May",
+      "meaning": "май",
+      "used_in": [
+        {
+          "phrase": "passive.simple.past.2",
+          "form": "May"
+        }
+      ]
+    },
+    {
+      "word": "grounding",
+      "meaning": "посадка на мель",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.0",
+          "form": "grounding"
+        }
+      ]
+    },
+    {
+      "word": "spring",
+      "meaning": "весна",
+      "used_in": [
+        {
+          "phrase": "passive.simple.present.1",
+          "form": "spring"
+        }
+      ]
+    },
+    {
+      "word": "schooner",
+      "meaning": "шхуна",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "schooner"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "meaning": "утро",
+      "used_in": [
+        {
+          "phrase": "passive.simple.future.1",
+          "form": "morning"
+        }
+      ]
+    },
+    {
+      "word": "squall",
+      "meaning": "шквал",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.0",
+          "form": "squall"
+        }
+      ]
+    },
+    {
+      "word": "ferry",
+      "meaning": "паром",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.past.1",
+          "form": "ferry"
+        }
+      ]
+    },
+    {
+      "word": "motorboat",
+      "meaning": "катер",
+      "used_in": [
+        {
+          "phrase": "passive.continuous.present.0",
+          "form": "motorboat"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "meaning": "пятница",
+      "used_in": [
+        {
+          "phrase": "passive.perfect.future.1",
+          "form": "Friday"
+        }
+      ]
+    },
+    {
+      "word": "instructor",
+      "meaning": "инструктор",
+      "used_in": [
+        {
+          "phrase": "future_in_past.1",
+          "form": "instructor"
+        }
+      ]
+    }
+  ]
+}

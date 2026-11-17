@@ -282,12 +282,7 @@ private fun formulaText(slots: List<Slot>, subject: String, question: Boolean): 
     return buildAnnotatedString {
         slots.forEachIndexed { index, slot ->
             if (index > 0) withStyle(plus) { append(" + ") }
-            val text = when (slot) {
-                is Slot.Word -> slot.text
-                Slot.Subject -> subject
-                is Slot.Form -> slot.kinds.joinToString(" / ") { it.symbol() }
-            }
-            withStyle(slot.role?.let(styles::getValue) ?: plain) { append(text) }
+            withStyle(slot.role?.let(styles::getValue) ?: plain) { append(slot.shown(subject)) }
         }
         withStyle(plus) { append(" + …") }
         if (question) append("?")

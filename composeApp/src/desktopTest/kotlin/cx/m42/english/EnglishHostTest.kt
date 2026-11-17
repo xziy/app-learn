@@ -9,6 +9,7 @@ import androidx.compose.ui.test.assertIsDisplayed
 import androidx.compose.ui.test.captureToImage
 import androidx.compose.ui.test.click
 import androidx.compose.ui.test.getUnclippedBoundsInRoot
+import androidx.compose.ui.test.hasAnyAncestor
 import androidx.compose.ui.test.hasTestTag
 import androidx.compose.ui.test.onNodeWithContentDescription
 import androidx.compose.ui.test.onNodeWithTag
@@ -22,6 +23,7 @@ import androidx.compose.ui.test.swipeDown
 import androidx.compose.ui.test.swipeLeft
 import androidx.compose.ui.test.swipeUp
 import androidx.compose.ui.test.v2.runDesktopComposeUiTest
+import androidx.compose.ui.text.LinkAnnotation
 import androidx.compose.ui.text.TextLayoutResult
 import androidx.compose.ui.unit.height
 import androidx.compose.ui.unit.width
@@ -72,14 +74,18 @@ class EnglishHostTest {
         waitForIdle()
     }
 
-    /** A tap on the first noun of a text, if it has one: where its link is, from the text's own layout. */
-    private fun ComposeUiTest.tapFirstWord(tag: String): Boolean {
+    /**
+     * A tap on the first link of a text whose key begins with [prefix], if it has one: `n:` a noun, `f:` a service word,
+     * `v:` an irregular verb (D25). Where its link is comes from the text's own layout.
+     */
+    private fun ComposeUiTest.tapFirstWord(tag: String, prefix: String = "n:"): Boolean {
         val node = onNodeWithTag(tag)
         val layouts = mutableListOf<TextLayoutResult>()
         node.fetchSemanticsNode().config[SemanticsActions.GetTextLayoutResult].action?.invoke(layouts)
         val layout = layouts.firstOrNull() ?: return false
         val text = layout.layoutInput.text
-        val link = text.getLinkAnnotations(0, text.length).firstOrNull() ?: return false
+        val link = text.getLinkAnnotations(0, text.length)
+            .firstOrNull { (it.item as? LinkAnnotation.Clickable)?.tag?.startsWith(prefix) == true } ?: return false
         val at = layout.getBoundingBox((link.start + link.end) / 2).center
         node.performTouchInput { click(at) }
         return true
@@ -142,11 +148,26 @@ class EnglishHostTest {
         onNodeWithTag("learn:rule-back").performClick()
         waitFor("learn:card-2")
 
+        // Asking about the phrase: its prompt over the feed. Not sent: here it would go to the developer's clipboard.
+        onNode(hasTestTag("learn:ask") and hasAnyAncestor(hasTestTag("learn:card-2"))).performClick()
+        waitFor("learn:ask-page")
+        shot("08d-ask-about-the-phrase")
+        onNodeWithTag("learn:ask-back").performClick()
+        waitFor("learn:card-2")
+
         // A noun of the phrase opens its page over the feed, and the feed is where it was on the way back.
         if (tapFirstWord("learn:english")) {
             waitFor("learn:word-page")
             shot("08c-the-word")
             onNodeWithTag("learn:word-back").performClick()
+            waitFor("learn:card-2")
+        }
+
+        // A service word, dotted under, opens what it is and how the thought has it (D25).
+        if (tapFirstWord("learn:english", prefix = "f:")) {
+            waitFor("learn:grammar-page")
+            shot("08e-the-service-word")
+            onNodeWithTag("learn:grammar-back").performClick()
             waitFor("learn:card-2")
         }
 

@@ -21,6 +21,7 @@ public class LearnApp internal constructor(
     private val speech: Speech,
     /** How verbs are put in random order: tests want to know which ones come. */
     private val shuffle: (List<String>) -> List<String> = { it.shuffled() },
+    private val sharing: Sharing = platformSharing(),
 ) : SuperizerApp<Unit>() {
 
     public constructor() : this(ResourceVerbSource, platformSpeech())
@@ -37,5 +38,5 @@ public class LearnApp internal constructor(
     override val configSpec: AppConfigSpec<Unit> = AppConfigSpec.None
 
     override fun launch(runtime: InstanceRuntime, config: Unit): AppInstance =
-        LearnInstance(runtime, source, speech, shuffle)
+        LearnInstance(runtime, source, speech, shuffle, sharing)
 }

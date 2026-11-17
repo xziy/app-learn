@@ -297,6 +297,38 @@ class FeedTest {
     }
 
     @Test
+    fun aVerbsProgressIsATenseAndItOpensOnThatTensesCover() {
+        val a = verb("a", tenses = 3)
+        val b = verb("b", tenses = 3)
+        val pages = buildPages(listOf(a, b))
+        assertEquals("active.simple.present", a.tenses[1].key)
+        assertEquals("future_in_past", Tense().key)
+        assertEquals("passive.perfect", Tense(Voice.Passive, Aspect.Perfect, notPossible = "нет").key)
+
+        val session = Session(emptyList(), Theme(DefaultTheme, ""), listOf("a", "b"), listOf("a", "b"), listOf(a, b), emptyList(), pages)
+        assertEquals(13, session.startOf("b"), "nowhere yet: its own card")
+        val begun = session.copy(progress = mapOf("b" to "active.simple.present"))
+        assertEquals(FeedPage.TenseCard(b, b.tenses[1], Portion(2, 3, 3)), pages[begun.startOf("b")])
+        assertEquals(0, begun.startOf("a"))
+        assertEquals(13, session.copy(progress = mapOf("b" to "gone.tense")).startOf("b"), "a tense the verb no longer has")
+
+        assertTrue(a.further(a.tenses[1], null))
+        assertTrue(a.further(a.tenses[2], a.tenses[1].key))
+        assertFalse(a.further(a.tenses[0], a.tenses[1].key), "going back is no progress")
+        assertFalse(a.further(a.tenses[1], a.tenses[1].key))
+    }
+
+    @Test
+    fun theStoredProgressIsReadAsFarAsItCanBe() {
+        assertEquals(emptyMap(), readProgress(null))
+        assertEquals(emptyMap(), readProgress(""))
+        assertEquals(
+            mapOf("a" to "active.simple.past", "c" to "future_in_past"),
+            readProgress("a:active.simple.past,,b,:x,c:future_in_past"),
+        )
+    }
+
+    @Test
     fun theStressedVowelIsSetOffAndTheMarkersGo() {
         val text = stressed("[й**э**стэдэй экс**э**пт]", Color.Red)
         assertEquals("[йэстэдэй эксэпт]", text.text)
@@ -715,6 +747,100 @@ class LearnScreenTest {
         click("learn:seen-back")
         settled("learn:verb-verb1")
         assertEquals("verb1", stored("chosen"))
+    }
+
+    // How far a verb has come
+
+    private fun AppTestScope<Unit>.down(times: Int) = repeat(times) { feed().performKeyInput { pressKey(Key.DirectionDown) } }
+
+    @Test
+    fun aVerbOpensAgainAtTheCoverOfTheFurthestTenseItCameTo() = runAppTest(app()) {
+        settled("learn:verb-verb3")
+        click("learn:verb-verb3")
+        settled("learn:verb-card")
+        assertEquals(null, stored("progress"), "its own card is no tense yet")
+        assertAbsent("learn:restart")
+
+        // To the phrase of the future, then back to the present: what counts is how far it came.
+        down(6)
+        settled("learn:ours")
+        node("learn:ours").assertTextEquals("ours verb3 t2")
+        repeat(3) { feed().performKeyInput { pressKey(Key.DirectionUp) } }
+        settled("learn:tense-card")
+        node("learn:tense-portion-ru").assertTextEquals("Порция 2 из 6 · 1 карточка")
+        assertEquals("verb3:active.simple.future", stored("progress"))
+
+        click("learn:to-list")
+        click("learn:verb-verb3")
+        settled("learn:tense-card")
+        node("learn:tense-portion-ru").assertTextEquals("Порция 3 из 6 · 1 карточка")
+        node("learn:restart").assertExists()
+    }
+
+    @Test
+    fun aTenseLeftOnItsLastCardOpensAgainFromItsCoverWhileGoingOnKeepsTheCard() = runAppTest(
+        app(),
+        // The present's only phrase, on its last step, stored before there was progress: the place is all there is.
+        prepare = at("verb2:4:2"),
+    ) {
+        settled("learn:verb-verb2")
+        assertEquals("verb2:active.simple.present", stored("progress"), "taken from the place")
+
+        openFeed()
+        settled("learn:english")
+        node("learn:english").assertTextEquals("english verb2 t1")
+
+        click("learn:to-list")
+        click("learn:verb-verb2")
+        settled("learn:tense-card")
+        node("learn:tense-portion-ru").assertTextEquals("Порция 2 из 6 · 1 карточка")
+    }
+
+    @Test
+    fun theSmallButtonAtTheTopTakesTheVerbBackToItsCardForGood() = runAppTest(
+        app(),
+        prepare = { it.storage.entries["progress"] = "verb3:active.continuous.past,verb1:active.simple.future" },
+    ) {
+        settled("learn:verb-verb3")
+        click("learn:verb-verb3")
+        settled("learn:tense-card")
+        node("learn:tense-portion-ru").assertTextEquals("Порция 4 из 6 · 1 карточка")
+        click("learn:restart")
+        settled("learn:verb-card")
+        node("learn:about-word").assertTextEquals("verb3")
+        assertAbsent("learn:restart")
+        assertEquals("verb1:active.simple.future", stored("progress"), "another verb keeps its own")
+
+        click("learn:to-list")
+        click("learn:verb-verb3")
+        settled("learn:verb-card")
+        node("learn:about-word").assertTextEquals("verb3")
+    }
+
+    @Test
+    fun aVerbGoneThroughToItsEndIsSeenAndHasNoProgressLeft() = runAppTest(app(), prepare = at("verb0:12:2")) {
+        openFeed()
+        settled("learn:english")
+        assertEquals("verb0:active.continuous.future", stored("progress"))
+        tap()
+        settled("learn:verb-card")
+        assertEquals("verb0", stored("seen"))
+        assertEquals(null, stored("progress"))
+        assertAbsent("learn:restart")
+    }
+
+    @Test
+    fun eachThemeKeepsItsOwnProgress() = runAppTest(themed(), prepare = { it.storage.entries["progress"] = "verb1:active.simple.future" }) {
+        settled("learn:verb-verb1")
+        click("learn:theme-yachting")
+        settled("learn:verb-verb11")
+        reach("learn:verb-verb7")
+        click("learn:verb-verb7")
+        settled("learn:verb-card")
+        down(1)
+        settled("learn:tense-card")
+        assertEquals("verb7:active.simple.past", stored("progress.yachting"))
+        assertEquals("verb1:active.simple.future", stored("progress"))
     }
 
     // The list of the seen ones

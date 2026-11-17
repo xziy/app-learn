@@ -73,7 +73,8 @@ internal data class WordSense(val entry: Entry, val sense: Sense) {
     val key: String get() = entry.key(sense)
 }
 
-internal class Lexicon(val entries: List<Entry>) {
+/** The nouns, and the irregular verbs and service words of D25, which have tables of their own. */
+internal class Lexicon(val entries: List<Entry>, val grammar: GrammarWords = GrammarWords.Empty) {
     private val byWord = entries.associateBy { it.word }
 
     fun entry(word: String): Entry? = byWord[word]
@@ -127,8 +128,8 @@ internal fun search(query: String, among: List<WordSense>): List<WordSense> {
     return among.mapNotNull { row -> rank(row)?.let { it to row } }.sortedBy { it.first }.map { it.second }
 }
 
-/** A noun of a phrase where it stands in its text: from [start] to before [end]. */
-internal data class Mark(val start: Int, val end: Int, val use: NounUse)
+/** A link of a phrase where it stands in its text: from [start] to before [end]. A noun, or a word of D25. */
+internal data class Mark(val start: Int, val end: Int, val use: WordLink)
 
 /**
  * Where the nouns of a phrase stand in it: each way they are written, as whole words, in any case. A phrase has one
@@ -157,13 +158,17 @@ private val EnglishWord = Regex("""[a-z]+(?:['’-][a-z]+)*""")
  * each word of the phrase. Returns, for each mark, the first and the last of those words, counted from 0. A
  * transcription with another number of words, which the skill's check does not let through, has none.
  */
-internal fun soundMarks(english: String, transcription: String, marks: List<Mark>): List<Pair<IntRange, NounUse>> {
+internal fun soundMarks(english: String, transcription: String, marks: List<Mark>): List<Pair<IntRange, WordLink>> {
     val words = EnglishWord.findAll(english.lowercase()).map { it.range }.toList()
     val sounds = transcription.trim().removePrefix("[").removeSuffix("]").split(' ').filter { it.isNotEmpty() }
     if (words.size != sounds.size) return emptyList()
+    val taken = BooleanArray(sounds.size)
     return marks.mapNotNull { mark ->
         val covered = words.indices.filter { words[it].first < mark.end && mark.start <= words[it].last }
-        if (covered.isEmpty()) null else covered.first()..covered.last() to mark.use
+        // `we'll` is one word of the transcription, and it can have only one link.
+        if (covered.isEmpty() || covered.any { taken[it] }) return@mapNotNull null
+        covered.forEach { taken[it] = true }
+        covered.first()..covered.last() to mark.use
     }
 }
 

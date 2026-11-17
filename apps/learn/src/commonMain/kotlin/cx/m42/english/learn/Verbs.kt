@@ -31,9 +31,9 @@ internal data class Sentence(
  * A noun as it stands in a phrase: the word in its dictionary form, its sense in the dictionary (null for the main
  * one), what it means here and how it is written in this phrase: `child`, null, `ребёнок`, `children`.
  */
-internal data class NounUse(val word: String, val sense: String?, val meaning: String, val form: String) {
+internal data class NounUse(override val word: String, val sense: String?, val meaning: String, val form: String) : WordLink {
     /** What its marks are kept under. */
-    val key: String get() = wordKey(word, sense)
+    override val key: String get() = wordKey(word, sense)
 }
 
 /** One way to write and say a form: `abode`, `[эб**о**уд]`. */
@@ -73,7 +73,13 @@ internal data class Tense(
     val form: String? = null,
     val sentences: List<Sentence> = emptyList(),
     val notPossible: String? = null,
-)
+) {
+    /** Where it stands in its verb's file, `active.simple.past` or `future_in_past`: what a verb's progress is kept by. */
+    val key: String get() = tenseKey(voice, aspect, time)
+}
+
+private fun tenseKey(voice: Voice?, aspect: Aspect?, time: Time?): String =
+    listOfNotNull(voice?.key, aspect?.key, time?.key).ifEmpty { listOf("future_in_past") }.joinToString(".")
 
 /** A verb and its tenses, in the order of the course. */
 internal data class Verb(
@@ -117,6 +123,12 @@ internal interface VerbSource {
 
     /** The dictionary, as `:apps:learn:syncLexicon` writes it. None at all is no reason for the cards not to work. */
     suspend fun lexicon(): String? = null
+
+    /** The service words, `function.json` of the lexicon skill, copied by the same task. */
+    suspend fun serviceWords(): String? = null
+
+    /** The irregular verbs, `irregular.json` of the lexicon skill. */
+    suspend fun irregularVerbs(): String? = null
 }
 
 /** The base as the app carries it: `composeResources/files/verbs`, filled by `:apps:learn:syncVerbs`. */
@@ -134,10 +146,17 @@ internal object ResourceVerbSource : VerbSource {
     override suspend fun read(theme: String, word: String): String =
         Res.readBytes("files/verbs/$theme/$word.json").decodeToString()
 
+    override suspend fun lexicon(): String? = optional("files/lexicon/nouns.json")
+
+    override suspend fun serviceWords(): String? = optional("files/lexicon/function.json")
+
+    override suspend fun irregularVerbs(): String? = optional("files/lexicon/irregular.json")
+
+    /** A file a build may not have. */
     @OptIn(ExperimentalResourceApi::class)
-    override suspend fun lexicon(): String? =
+    private suspend fun optional(path: String): String? =
         try {
-            Res.readBytes("files/lexicon/nouns.json").decodeToString()
+            Res.readBytes(path).decodeToString()
         } catch (e: CancellationException) {
             throw e
         } catch (e: Exception) {
@@ -156,7 +175,7 @@ internal fun parseVerb(text: String): Verb {
     val root = Json.parseToJsonElement(text).jsonObject
     val nouns = root.nouns()
     fun JsonObject.tense(voice: Voice?, aspect: Aspect?, time: Time?): Tense? {
-        val at = listOfNotNull(voice?.key, aspect?.key, time?.key).ifEmpty { listOf("future_in_past") }.joinToString(".")
+        val at = tenseKey(voice, aspect, time)
         val sentences = examples(at, nouns)
         val closed = notPossible()
         if (sentences.isEmpty() && closed == null) return null

@@ -34,7 +34,6 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
-import androidx.compose.foundation.text.BasicText
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.DisposableEffect
@@ -115,9 +114,13 @@ internal fun LearnScreen(instance: LearnInstance, strings: LearnStrings) {
     var about by remember { mutableStateOf<Verb?>(null) }
     // The phrase whose form the cap's page is showing.
     var rule by remember { mutableStateOf<FeedPage.Phrase?>(null) }
+    // The phrase being asked about: its prompt, to edit and send.
+    var asking by remember { mutableStateOf<FeedPage.Phrase?>(null) }
     var dictionary by remember { mutableStateOf(false) }
     // The word whose page is open, over the feed or the dictionary.
     var word by remember { mutableStateOf<WordOpen?>(null) }
+    // The irregular verb or service word whose page is open (D25), over the same.
+    var grammarWord by remember { mutableStateOf<GrammarOpen?>(null) }
     var query by remember { mutableStateOf("") }
     var filter by remember { mutableStateOf(WordFilter.Seen) }
     val lexicon by instance.lexicon.collectAsState()
@@ -143,11 +146,23 @@ internal fun LearnScreen(instance: LearnInstance, strings: LearnStrings) {
         opened = Start(page.coerceAtLeast(0), if (page >= 0) Step.English.ordinal else 0)
     }
 
-    SystemBackHandler(enabled = word != null || about != null || rule != null || opened != null || seenList || dictionary) {
+    /** A link of a phrase on screen: a noun's page, or the page of D25 for the rest. */
+    fun openLink(link: WordLink, phrase: FeedPage.Phrase?) {
+        when (link) {
+            is NounUse -> word = WordOpen(link)
+            else -> grammarWord = GrammarOpen(link, phrase)
+        }
+    }
+
+    SystemBackHandler(
+        enabled = word != null || about != null || rule != null || grammarWord != null || asking != null || opened != null || seenList || dictionary,
+    ) {
         when {
             word != null -> word = null
             about != null -> about = null
             rule != null -> rule = null
+            grammarWord != null -> grammarWord = null
+            asking != null -> asking = null
             opened != null -> leaveFeed()
             seenList -> seenList = false
             else -> dictionary = false
@@ -172,6 +187,7 @@ internal fun LearnScreen(instance: LearnInstance, strings: LearnStrings) {
                             filter = filter,
                             onFilter = { filter = it },
                             onOpen = { word = WordOpen(it) },
+                            onOpenGrammar = { grammarWord = it },
                             onKnow = instance::know,
                             onForgetSeen = instance::forgetSeen,
                             list = dictionaryScroll,
@@ -197,7 +213,7 @@ internal fun LearnScreen(instance: LearnInstance, strings: LearnStrings) {
                                 onTheme = instance::chooseTheme,
                                 onGo = { opened = resume ?: Start(0) },
                                 onPick = instance::pickAtRandom,
-                                onOpen = { word -> opened = Start(session.firstPageOf(word)) },
+                                onOpen = { word -> opened = Start(session.startOf(word)) },
                                 onChoose = instance::choose,
                                 onUnchoose = instance::unchoose,
                                 onSeen = { seenList = true },
@@ -213,13 +229,16 @@ internal fun LearnScreen(instance: LearnInstance, strings: LearnStrings) {
                                 start = start,
                                 strings = strings,
                                 done = strings.againDone,
-                                paused = about != null || rule != null || word != null,
+                                paused = about != null || rule != null || asking != null || word != null || grammarWord != null,
                                 onSettled = { _, _, _ -> },
+                                begun = emptySet(),
+                                onRestart = { false },
                                 onAbout = { about = it },
                                 onRule = { rule = it },
+                                onAsk = { asking = it },
                                 lexicon = lexicon,
                                 known = marks.known,
-                                onWord = { word = WordOpen(it) },
+                                onWord = ::openLink,
                                 onList = ::leaveFeed,
                             )
                         }
@@ -230,13 +249,16 @@ internal fun LearnScreen(instance: LearnInstance, strings: LearnStrings) {
                                 start = start,
                                 strings = strings,
                                 done = strings.done,
-                                paused = about != null || rule != null || word != null,
+                                paused = about != null || rule != null || asking != null || word != null || grammarWord != null,
                                 onSettled = instance::settled,
+                                begun = session.progress.keys,
+                                onRestart = instance::restart,
                                 onAbout = { about = it },
                                 onRule = { rule = it },
+                                onAsk = { asking = it },
                                 lexicon = lexicon,
                                 known = marks.known,
-                                onWord = { word = WordOpen(it) },
+                                onWord = ::openLink,
                                 onList = ::leaveFeed,
                             )
                         }
@@ -246,7 +268,9 @@ internal fun LearnScreen(instance: LearnInstance, strings: LearnStrings) {
             // Over the feed rather than in its place, so the feed is where it was on the way back.
             val reading = about
             val ruling = rule
+            val inquiring = asking
             val looking = word
+            val grammar = grammarWord
             when {
                 looking != null -> WordPage(
                     open = looking,
@@ -262,7 +286,30 @@ internal fun LearnScreen(instance: LearnInstance, strings: LearnStrings) {
                     onBack = { word = null },
                 )
                 reading != null -> AboutVerb(reading, strings, onBack = { about = null })
+                // Before the page of a service word, which opens it: back from the rule is back on that page.
                 ruling != null -> RulePage(ruling, strings, onBack = { rule = null })
+                grammar != null -> GrammarWordPage(
+                    open = grammar,
+                    words = lexicon?.grammar ?: GrammarWords.Empty,
+                    marks = marks,
+                    strings = strings,
+                    canSpeak = instance.canSpeak,
+                    onSay = { text -> scope.launch { instance.speak(text) } },
+                    onKnow = instance::know,
+                    onRule = { rule = it },
+                    onBack = { grammarWord = null },
+                )
+                inquiring != null -> {
+                    val theme = (state as? LearnState.Ready)?.session?.theme
+                    AskPage(
+                        entry = inquiring,
+                        prompt = remember(inquiring, theme, strings) { askPrompt(inquiring, theme, strings) },
+                        strings = strings,
+                        viaMenu = instance.sharesViaMenu,
+                        onShare = instance::share,
+                        onBack = { asking = null },
+                    )
+                }
                 opened != null -> TopArrow(strings.back, "learn:to-list", ::leaveFeed)
                 seenList -> TopArrow(strings.back, "learn:seen-back") { seenList = false }
                 dictionary -> TopArrow(strings.back, "learn:dict-back") { dictionary = false }
@@ -302,11 +349,16 @@ private fun Feed(
     done: String,
     paused: Boolean,
     onSettled: (from: Int?, page: Int, step: Int) -> Unit,
+    /** The verbs that have come to a tense, and so have somewhere to start over from. */
+    begun: Set<String>,
+    /** Forgets where a verb has come to. False if it had not come anywhere. */
+    onRestart: (String) -> Boolean,
     onAbout: (Verb) -> Unit,
     onRule: (FeedPage.Phrase) -> Unit,
+    onAsk: (FeedPage.Phrase) -> Unit,
     lexicon: Lexicon?,
     known: Set<String>,
-    onWord: (NounUse) -> Unit,
+    onWord: (WordLink, FeedPage.Phrase) -> Unit,
     onList: () -> Unit,
 ) {
     val pages = session.pages
@@ -470,9 +522,10 @@ private fun Feed(
                         onSay = { sayAgain++ },
                         onAbout = { onAbout(entry.verb) },
                         onRule = { onRule(entry) },
+                        onAsk = { onAsk(entry) },
                         lexicon = lexicon,
                         known = known,
-                        onWord = onWord,
+                        onWord = { onWord(it, entry) },
                     )
                 }
             }
@@ -488,12 +541,32 @@ private fun Feed(
                     .testTag("learn:play"),
             ) { tint -> AppIconGlyph(AppIcon.Path(if (playing) PAUSE else PLAY), tint) }
         }
+        // Small and dim under play: it is seldom wanted, and a verb that has come nowhere has nothing to start over.
+        val here = pages.getOrNull(feed.currentPage)?.verb?.word
+        if (here != null && here in begun) {
+            IconButton(
+                onClick = {
+                    if (onRestart(here)) scope.launch { feed.scrollToPage(session.firstPageOf(here)) }
+                },
+                label = strings.restart,
+                modifier = Modifier
+                    .align(Alignment.TopEnd)
+                    .windowInsetsPadding(WindowInsets.safeDrawing)
+                    .padding(end = 4.dp, top = 60.dp)
+                    .testTag("learn:restart"),
+            ) { tint -> AppIconGlyph(AppIcon.Path(RESTART), tint.copy(alpha = 0.45f), size = 15.dp) }
+        }
     }
 }
 
 /** SVG paths over a 24×24 viewBox. */
 private const val PLAY = "M8 5V19L19 12Z"
 private const val PAUSE = "M6 5H10V19H6ZM14 5H18V19H14Z"
+
+/** A circle with an arrow back, as Material's `replay`. */
+private const val RESTART =
+    "M12 5V1L7 6L12 11V7C15.31 7 18 9.69 18 13C18 16.31 15.31 19 12 19C8.69 19 6 16.31 6 13H4C4 17.42 7.58 21 12 21" +
+        "C16.42 21 20 17.42 20 13C20 8.58 16.42 5 12 5Z"
 internal const val SPEAKER =
     "M3 9V15H7L12 20V4L7 9H3Z" +
         "M16.5 12C16.5 10.23 15.48 8.71 14 7.97V16.03C15.48 15.29 16.5 13.77 16.5 12Z" +
@@ -677,13 +750,16 @@ private fun PhrasePage(
     onSay: () -> Unit,
     onAbout: () -> Unit,
     onRule: () -> Unit,
+    onAsk: () -> Unit,
     lexicon: Lexicon?,
     known: Set<String>,
-    onWord: (NounUse) -> Unit,
+    onWord: (WordLink) -> Unit,
 ) {
     val sentence = entry.sentence
-    val nouns = remember(sentence, lexicon) {
-        nounMarks(sentence.english, sentence.nouns) { lexicon?.spellings(it) ?: setOf(it.lowercase()) }
+    // Its nouns, and the irregular verbs and service words of D25 on the words they leave.
+    val links = remember(entry, lexicon) {
+        val nouns = nounMarks(sentence.english, sentence.nouns) { lexicon?.spellings(it) ?: setOf(it.lowercase()) }
+        phraseMarks(sentence.english, entry.verb, entry.tense, nouns, lexicon?.grammar ?: GrammarWords.Empty)
     }
     Box(Modifier.fillMaxSize().background(verbColor(entry.verb.word)).testTag("learn:card-$position")) {
         HorizontalPager(state = pager, userScrollEnabled = draggable, modifier = Modifier.fillMaxSize()) { index ->
@@ -695,20 +771,21 @@ private fun PhrasePage(
                     Step.Ours -> Line(sentence.ours, SentenceStyle, "learn:ours")
                     Step.Thought -> Line(sentence.thought, SentenceStyle, "learn:thought")
                     Step.English -> {
-                        val linked = linkedPhrase(sentence.english, nouns, known, onWord)
-                        BasicText(
-                            text = linked,
+                        LinkedText(
+                            linked = linkedPhrase(sentence.english, links, known, onWord),
                             style = SentenceStyle.copy(color = AppTheme.foreground, textAlign = TextAlign.Center),
+                            dots = AppTheme.foreground.copy(alpha = DotsAlpha),
                             modifier = Modifier.testTag("learn:english"),
                         )
                         Spacer(Modifier.height(20.dp))
-                        BasicText(
-                            text = linkedSound(sentence, nouns, known, AppTheme.foreground, onWord),
+                        LinkedText(
+                            linked = linkedSound(sentence, links, known, AppTheme.foreground, onWord),
                             style = AppTheme.subtitle.copy(
                                 fontWeight = AppTheme.body.fontWeight,
                                 color = AppTheme.muted,
                                 textAlign = TextAlign.Center,
                             ),
+                            dots = AppTheme.muted.copy(alpha = DotsAlpha),
                             modifier = Modifier.testTag("learn:transcription"),
                         )
                         Spacer(Modifier.height(20.dp))
@@ -734,11 +811,14 @@ private fun PhrasePage(
                 // Between the arrow back and play, level with them.
                 .padding(start = 50.dp, end = 50.dp, top = 23.dp),
         )
-        Footer(entry.verb, session.inVerb(position), strings, onAbout, Modifier.align(Alignment.BottomStart))
+        Footer(entry.verb, session.inVerb(position), strings, onAbout, onAsk, Modifier.align(Alignment.BottomStart))
     }
 }
 
 private val SentenceStyle = TextStyle(fontSize = 30.sp, lineHeight = 38.sp)
+
+/** How much of the text's colour the dotted line under a service word has: there, but quieter than a noun's line. */
+private const val DotsAlpha = 0.6f
 
 /** Where in the phrase this is, the way stories mark it: a bar per step. */
 @Composable
@@ -764,13 +844,14 @@ private fun Segments(pager: PagerState, modifier: Modifier) {
     }
 }
 
-/** The word this phrase is for, where Reels has the author and the caption. */
+/** The word this phrase is for, where Reels has the author and the caption, and sharing the phrase, where Reels has its own. */
 @Composable
 private fun Footer(
     verb: Verb,
     inVerb: Pair<Int, Int>,
     strings: LearnStrings,
     onAbout: () -> Unit,
+    onAsk: () -> Unit,
     modifier: Modifier,
 ) {
     Column(
@@ -815,6 +896,11 @@ private fun Footer(
                 overflow = TextOverflow.Ellipsis,
                 modifier = Modifier.weight(1f).testTag("learn:meaning"),
             )
+            IconButton(
+                onClick = onAsk,
+                label = strings.ask.open,
+                modifier = Modifier.testTag("learn:ask"),
+            ) { tint -> AppIconGlyph(AppIcon.Path(SHARE), tint, size = 22.dp) }
             IconButton(
                 onClick = onAbout,
                 label = strings.about,

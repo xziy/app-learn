@@ -123,7 +123,8 @@ val syncVerbs by tasks.registering {
  * this module's resources, since they cannot be listed, and adds to each word what the phrases of `../verbs` say
  * about it: the verbs of each theme it stands in (`in`), the forms it has there (`forms`) and how many phrases each
  * of its senses has (`count`, "" being the main sense). Run it with `syncVerbs`, so that both copies are of one
- * moment.
+ * moment. The tables of irregular verbs and service words (D25), `../lexicon/irregular.json` and
+ * `../lexicon/function.json`, are copied beside it as they are; a table that is not there is not copied.
  *
  *     ./gradlew :apps:learn:syncVerbs :apps:learn:syncLexicon
  */
@@ -132,6 +133,7 @@ val syncLexicon by tasks.registering {
     description = "Copies ../lexicon into this module's resources, with where each word stands in ../verbs."
 
     val lexicon = rootDir.resolve("../lexicon/nouns")
+    val tables = listOf("irregular.json", "function.json").map { rootDir.resolve("../lexicon/$it") }
     val verbs = rootDir.resolve("../verbs")
     val target = layout.projectDirectory.file("src/commonMain/composeResources/files/lexicon/nouns.json").asFile
     val logger = logger
@@ -174,5 +176,14 @@ val syncLexicon by tasks.registering {
         val json = JsonGenerator.Options().disableUnicodeEscaping().build().toJson(mapOf("spec" to 1, "words" to words))
         target.writeText(json + "\n")
         logger.lifecycle("${words.size} words, ${target.length() / 1024} KB")
+        for (table in tables) {
+            val copy = target.resolveSibling(table.name)
+            if (table.isFile) {
+                table.copyTo(copy, overwrite = true)
+                logger.lifecycle("${table.name}, ${copy.length() / 1024} KB")
+            } else {
+                copy.delete()
+            }
+        }
     }
 }

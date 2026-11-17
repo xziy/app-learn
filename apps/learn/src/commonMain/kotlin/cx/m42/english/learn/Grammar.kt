@@ -67,6 +67,13 @@ internal data class Formula(val kind: Kind, val english: List<Slot>, val thought
     val question: Boolean get() = kind == Kind.Question
 }
 
+/** How a formula writes this place, with [subject] for who does it: `Did`, `кто`, `V / V-s`. */
+internal fun Slot.shown(subject: String): String = when (this) {
+    is Slot.Word -> text
+    Slot.Subject -> subject
+    is Slot.Form -> kinds.joinToString(" / ") { it.symbol() }
+}
+
 /** The verb's form as a formula writes it. */
 internal fun FormKind.symbol(): String = when (this) {
     FormKind.Base -> "V"

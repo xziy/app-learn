@@ -37,6 +37,8 @@ internal data class WordStrings(
     /** `Встречается в 31 фразе`. */
     val uses: (Int) -> String,
     val loading: String,
+    /** The pages and the filters of D25. */
+    val grammarWords: GrammarWordStrings,
 ) {
     companion object {
         val Ru = WordStrings(
@@ -72,6 +74,7 @@ internal data class WordStrings(
             notFilled = "Слово ещё не разобрано в словаре: здесь пока только перевод",
             uses = { "Встречается в $it ${russianPhrases(it)}" },
             loading = "…",
+            grammarWords = GrammarWordStrings.Ru,
         )
 
         val En = WordStrings(
@@ -107,6 +110,7 @@ internal data class WordStrings(
             notFilled = "The dictionary has only begun this word: there is just its translation",
             uses = { "In $it ${if (it == 1) "phrase" else "phrases"}" },
             loading = "…",
+            grammarWords = GrammarWordStrings.En,
         )
     }
 }

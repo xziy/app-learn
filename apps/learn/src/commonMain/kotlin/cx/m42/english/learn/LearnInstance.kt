@@ -40,6 +40,8 @@ internal data class Session(
     /** The verbs gone through to their end, in the order that happened. */
     val seen: List<String>,
     val pages: List<FeedPage>,
+    /** The furthest tense each verb not yet seen has come to, by [Tense.key]: where the verb opens again. */
+    val progress: Map<String, String> = emptyMap(),
 ) {
     /** What can still be chosen. */
     val others: List<String> get() = all - chosen.toSet() - seen.toSet()
@@ -49,6 +51,17 @@ internal data class Session(
 
     fun firstPageOf(word: String): Int = pages.indexOfFirst { it.verb.word == word }
 
+    /**
+     * Where a verb opens from the list: the cover of the furthest tense it has come to, so a tense left on its last card
+     * is gone through again from its start. A verb that has not come to a tense yet opens on its own card.
+     */
+    fun startOf(word: String): Int {
+        val first = firstPageOf(word)
+        val tense = progress[word] ?: return first
+        val cover = pages.indexOfFirst { it is FeedPage.TenseCard && it.verb.word == word && it.tense.key == tense }
+        return if (cover >= 0) cover else first
+    }
+
     /** Which of its verb's pages this one is, counted from 1, and how many the verb has. */
     fun inVerb(page: Int): Pair<Int, Int> {
         val word = pages[page].verb.word
@@ -57,6 +70,18 @@ internal data class Session(
     }
 }
 
+/** `verb0:active.simple.future,verb3:passive` as verb → tense key. Whatever cannot be read is left out. */
+internal fun readProgress(stored: String?): Map<String, String> =
+    stored.orEmpty().split(',').mapNotNull { entry ->
+        val word = entry.substringBefore(':', "")
+        val tense = entry.substringAfter(':', "")
+        if (word.isEmpty() || tense.isEmpty()) null else word to tense
+    }.toMap()
+
+/** Whether [tense] is further on in this verb than the one [kept] as its progress; one it no longer has counts as none. */
+internal fun Verb.further(tense: Tense, kept: String?): Boolean =
+    tenses.indexOfFirst { it.key == tense.key } > tenses.indexOfFirst { it.key == kept }
+
 internal sealed interface LearnState {
     data object Loading : LearnState
     data object Empty : LearnState
@@ -64,15 +89,16 @@ internal sealed interface LearnState {
 }
 
 /**
- * One open language. The theme, and the chosen verbs, the seen verbs and the place in the feed of each theme, live
- * in `runtime.storage` rather than in a snapshot: the place is written on every card, so it survives a closed
- * window as well as a killed process.
+ * One open language. The theme, and the chosen verbs, the seen verbs, the place in the feed and the progress of each verb
+ * of each theme, live in `runtime.storage` rather than in a snapshot: the place is written on every card, so it survives
+ * a closed window as well as a killed process.
  */
 internal class LearnInstance(
     private val runtime: InstanceRuntime,
     private val source: VerbSource,
     private val speech: Speech,
     private val shuffle: (List<String>) -> List<String>,
+    private val sharing: Sharing,
 ) : AppInstance() {
 
     override val chrome: StateFlow<AppChrome> = MutableStateFlow(AppChrome(fullscreen = true))
@@ -81,6 +107,12 @@ internal class LearnInstance(
     val state: StateFlow<LearnState> get() = _state.asStateFlow()
 
     val canSpeak: Boolean get() = speech.available
+
+    /** Whether [share] opens the system's menu, or only copies the text where there is none. */
+    val sharesViaMenu: Boolean get() = sharing.viaMenu
+
+    /** Hands what was asked about a phrase to the system. False if it could not be done. */
+    fun share(text: String): Boolean = sharing.share(text)
 
     private val _lexicon = MutableStateFlow<Lexicon?>(null)
 
@@ -105,16 +137,25 @@ internal class LearnInstance(
                 seen = runtime.storage.get(WORDS_SEEN)?.split(',')?.filter { it.isNotEmpty() }.orEmpty(),
                 known = runtime.storage.get(WORDS_KNOWN)?.split(',')?.filter { it.isNotEmpty() }.orEmpty().toSet(),
             )
-            _lexicon.value = try {
-                source.lexicon()?.let(::parseLexicon) ?: Lexicon.Empty
-            } catch (e: CancellationException) {
-                throw e
-            } catch (e: Exception) {
-                runtime.logger.error("Cannot read the dictionary: ${e.message}")
-                Lexicon.Empty
-            }
+            val nouns = readTable("the dictionary", Lexicon.Empty) { source.lexicon()?.let(::parseLexicon) }
+            val grammar = GrammarWords(
+                service = readTable("the service words", emptyList()) { source.serviceWords()?.let(::parseServiceWords) },
+                irregular = readTable("the irregular verbs", emptyList()) { source.irregularVerbs()?.let(::parseIrregularVerbs) },
+            )
+            _lexicon.value = Lexicon(nouns.entries, grammar)
         }
     }
+
+    /** One table that cannot be read costs its own words, not the others. */
+    private suspend fun <T> readTable(name: String, none: T, read: suspend () -> T?): T =
+        try {
+            read() ?: none
+        } catch (e: CancellationException) {
+            throw e
+        } catch (e: Exception) {
+            runtime.logger.error("Cannot read $name: ${e.message}")
+            none
+        }
 
     /** The English of a phrase has been on screen: its nouns are seen, those seen before move to the end. */
     fun saw(nouns: List<NounUse>) {
@@ -173,7 +214,30 @@ internal class LearnInstance(
         val chosen = if (left.isEmpty() && round?.isEmpty() != true) draw(theme, all - seen.toSet()) else left
         place = runtime.storage.get(PLACE.of(theme))
         val verbs = chosen.mapNotNull { readVerb(theme, it) }
-        return LearnState.Ready(Session(themes, theme, all, chosen, verbs, seen, buildPages(verbs)))
+        val pages = buildPages(verbs)
+        val kept = readProgress(runtime.storage.get(PROGRESS.of(theme))).filterKeys { it in all && it !in seen }
+        // A verb left halfway before there was progress has it in the place where the feed stopped.
+        val progress = kept + listOfNotNull(placedTense(pages)).filter { (word, _) -> word !in kept && word !in seen }
+        if (progress != kept) writeProgress(theme, progress)
+        return LearnState.Ready(Session(themes, theme, all, chosen, verbs, seen, pages, progress))
+    }
+
+    /** The verb of the stored place and the tense it is in, if it is in one. */
+    private fun placedTense(pages: List<FeedPage>): Pair<String, String>? {
+        val parts = place?.split(':') ?: return null
+        val first = pages.indexOfFirst { it.verb.word == parts[0] }
+        if (first < 0) return null
+        val entry = pages.getOrNull(first + (parts.getOrNull(1)?.toIntOrNull() ?: 0))?.takeIf { it.verb.word == parts[0] }
+        return entry?.tense()?.let { parts[0] to it.key }
+    }
+
+    private suspend fun writeProgress(theme: Theme, progress: Map<String, String>) {
+        val key = PROGRESS.of(theme)
+        if (progress.isEmpty()) {
+            runtime.storage.remove(key)
+        } else {
+            runtime.storage.set(key, progress.entries.joinToString(",") { (word, tense) -> "$word:$tense" })
+        }
     }
 
     /**
@@ -213,7 +277,10 @@ internal class LearnInstance(
 
     /**
      * The feed came to rest here, coming [from] that page. Past the last page there is nothing to come back to.
-     * Forward out of a verb means it has been gone through to its end; back into one, or only a look at it, does not.
+     * Forward out of a verb means it has been gone through to its end, and its progress is over; back into one, or
+     * only a look at it, does not. A tense the verb had not come to before is its progress from now on.
+     *
+     * No reload: the feed is on these very pages. A seen verb leaves the chosen ones on the way back, in [refresh].
      */
     fun settled(from: Int?, page: Int, step: Int) {
         val session = (_state.value as? LearnState.Ready)?.session ?: return
@@ -225,15 +292,30 @@ internal class LearnInstance(
             if (value == null) runtime.storage.remove(key) else runtime.storage.set(key, value)
         }
         val left = from?.takeIf { it < page }?.let { session.pages.getOrNull(it) }?.verb?.word
-        if (left != null && left != entry?.verb?.word) see(session, left)
+            ?.takeIf { it != entry?.verb?.word }
+        val seen = if (left != null && left !in session.seen) session.seen + left else session.seen
+        var progress = if (left != null) session.progress - left else session.progress
+        if (entry != null) {
+            val word = entry.verb.word
+            val tense = entry.tense()
+            if (tense != null && word !in seen && entry.verb.further(tense, progress[word])) progress = progress + (word to tense.key)
+        }
+        if (seen == session.seen && progress == session.progress) return
+        _state.value = LearnState.Ready(session.copy(seen = seen, progress = progress))
+        runtime.scope.launch {
+            if (seen != session.seen) runtime.storage.set(SEEN.of(session.theme), seen.joinToString(","))
+            if (progress != session.progress) writeProgress(session.theme, progress)
+        }
     }
 
-    /** No reload: the feed is on these very pages. A seen verb leaves the chosen ones on the way back, in [refresh]. */
-    private fun see(session: Session, word: String) {
-        if (word in session.seen) return
-        val seen = session.seen + word
-        _state.value = LearnState.Ready(session.copy(seen = seen))
-        runtime.scope.launch { runtime.storage.set(SEEN.of(session.theme), seen.joinToString(",")) }
+    /** The verb opens on its own card again, from the list as well. True if it had come anywhere to start over from. */
+    fun restart(word: String): Boolean {
+        val session = (_state.value as? LearnState.Ready)?.session ?: return false
+        if (word !in session.progress) return false
+        val progress = session.progress - word
+        _state.value = LearnState.Ready(session.copy(progress = progress))
+        runtime.scope.launch { writeProgress(session.theme, progress) }
+        return true
     }
 
     /** Back from the feed: what was seen on the way leaves the chosen verbs, and the next round may be due. */
@@ -305,6 +387,8 @@ internal class LearnInstance(
         const val CHOSEN = "chosen"
         const val PLACE = "place"
         const val SEEN = "seen"
+        /** `verb:tense key,…`, the furthest tense of each verb begun: [Session.progress]. */
+        const val PROGRESS = "progress"
         const val WORDS_SEEN = "lex.seen"
         const val WORDS_KNOWN = "lex.known"
 

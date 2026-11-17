@@ -15,6 +15,8 @@ internal data class LearnStrings(
     val hint: String,
     val done: String,
     val toList: String,
+    /** The small button in the feed that takes a verb back to its own card and forgets how far it came. */
+    val restart: String,
     val empty: String,
     val listTitle: String,
     val start: String,
@@ -64,6 +66,8 @@ internal data class LearnStrings(
     val grammar: GrammarStrings,
     /** The dictionary and a word's page. */
     val words: WordStrings,
+    /** Asking about a phrase: its prompt and the way to send it. */
+    val ask: AskStrings,
 ) {
     fun themeTitle(theme: Theme): String = if (readsRussian) theme.russianTitle else theme.englishTitle
 
@@ -127,6 +131,7 @@ internal data class LearnStrings(
             hint = "Нажмите, чтобы идти дальше\nИли листайте: вверх — дальше, влево — по фразе",
             done = "Выбранные глаголы пройдены",
             toList = "К списку глаголов",
+            restart = "Начать глагол сначала",
             empty = "Пока нет слов",
             listTitle = "Выбранные глаголы",
             start = "Начать",
@@ -195,6 +200,7 @@ internal data class LearnStrings(
             readsRussian = true,
             grammar = GrammarStrings.Ru,
             words = WordStrings.Ru,
+            ask = AskStrings.Ru,
         )
 
         val En = LearnStrings(
@@ -209,6 +215,7 @@ internal data class LearnStrings(
             hint = "Tap to go on\nOr swipe: up for the next card, left along a phrase",
             done = "The chosen verbs are done",
             toList = "To the list of verbs",
+            restart = "Start the verb over",
             empty = "No words yet",
             listTitle = "Chosen verbs",
             start = "Start",
@@ -277,6 +284,7 @@ internal data class LearnStrings(
             readsRussian = false,
             grammar = GrammarStrings.En,
             words = WordStrings.En,
+            ask = AskStrings.En,
         )
 
         fun of(locale: LocaleService): LearnStrings = locale.pick(mapOf("ru" to Ru, "en" to En), fallback = Ru)

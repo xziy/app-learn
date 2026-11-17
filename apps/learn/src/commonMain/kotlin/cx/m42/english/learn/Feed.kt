@@ -40,6 +40,13 @@ internal sealed interface FeedPage {
     data class Phrase(override val verb: Verb, val tense: Tense, val sentence: Sentence) : FeedPage
 }
 
+/** The tense this page belongs to: its cover and its phrases do, the verb's own card does not. */
+internal fun FeedPage.tense(): Tense? = when (this) {
+    is FeedPage.VerbCard -> null
+    is FeedPage.TenseCard -> tense
+    is FeedPage.Phrase -> tense
+}
+
 /** The chosen verbs one after another, each through all of its tenses. */
 internal fun buildPages(verbs: List<Verb>): List<FeedPage> = buildList {
     for (verb in verbs) {

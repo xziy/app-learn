@@ -32,6 +32,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.semantics.Role
+import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import com.composeunstyled.Text
@@ -43,8 +44,8 @@ import cx.m42.superizer.ui.components.ButtonVariant
 import cx.m42.superizer.ui.components.IconButton
 import kotlinx.coroutines.delay
 
-/** Which words the dictionary lists. */
-internal enum class WordFilter { Seen, Unknown, Known, All }
+/** Which words the dictionary lists: nouns in the first four, and the tables of D25 in the last two. */
+internal enum class WordFilter { Seen, Unknown, Known, All, Irregular, Service }
 
 /**
  * The rows of the dictionary: of the words seen, the latest on top, or of all of them by the alphabet, as [query]
@@ -56,9 +57,23 @@ internal fun dictionaryRows(lexicon: Lexicon, marks: WordMarks, filter: WordFilt
         WordFilter.Seen -> latest
         WordFilter.Unknown -> latest.filter { it !in marks.known }
         WordFilter.Known -> latest.filter { it in marks.known } + marks.known.filter { it !in marks.seenSet }.sorted()
-        WordFilter.All -> null
+        WordFilter.All, WordFilter.Irregular, WordFilter.Service -> null
     }
     return search(query, keys?.mapNotNull(lexicon::find) ?: lexicon.all)
+}
+
+/** The irregular verbs [query] finds, by the alphabet: by any of their forms, or by the translation. */
+internal fun irregularRows(grammar: GrammarWords, query: String): List<IrregularVerb> {
+    val typed = fold(query)
+    if (typed.isEmpty()) return grammar.irregularSorted
+    return grammar.irregularSorted.filter { verb -> verb.spellings.any { it.startsWith(typed) } || typed in fold(verb.ru) }
+}
+
+/** The service words [query] finds, class by class: by the word, or by what it is in Russian. */
+internal fun serviceRows(grammar: GrammarWords, query: String): List<ServiceWord> {
+    val typed = fold(query)
+    if (typed.isEmpty()) return grammar.serviceSorted
+    return grammar.serviceSorted.filter { it.word.startsWith(typed) || typed in fold(it.ru) || typed in fold(it.thought) }
 }
 
 /**
@@ -75,14 +90,19 @@ internal fun Dictionary(
     filter: WordFilter,
     onFilter: (WordFilter) -> Unit,
     onOpen: (WordSense) -> Unit,
+    onOpenGrammar: (GrammarOpen) -> Unit,
     onKnow: (String, Boolean) -> Unit,
     onForgetSeen: () -> Unit,
     list: LazyListState,
 ) {
     val words = strings.words
+    val grammarFilter = filter == WordFilter.Irregular || filter == WordFilter.Service
     val rows = remember(lexicon, marks, filter, query) {
-        lexicon?.let { dictionaryRows(it, marks, filter, query) }.orEmpty()
+        if (grammarFilter) emptyList() else lexicon?.let { dictionaryRows(it, marks, filter, query) }.orEmpty()
     }
+    val grammar = lexicon?.grammar ?: GrammarWords.Empty
+    val verbs = remember(grammar, filter, query) { if (filter == WordFilter.Irregular) irregularRows(grammar, query) else emptyList() }
+    val service = remember(grammar, filter, query) { if (filter == WordFilter.Service) serviceRows(grammar, query) else emptyList() }
     Column(
         Modifier
             .fillMaxSize()
@@ -92,7 +112,8 @@ internal fun Dictionary(
     ) {
         Text(text = words.title, style = AppTheme.title, color = AppTheme.foreground, modifier = Modifier.padding(horizontal = 16.dp))
         Text(
-            text = words.summary(marks.seen.size, marks.known.size),
+            // The nouns: what is known of the words of D25 is in their own filters.
+            text = words.summary(marks.seen.size, marks.known.count { it.startsWith("n:") }),
             style = AppTheme.footnote,
             color = AppTheme.muted,
             modifier = Modifier.padding(start = 16.dp, end = 16.dp, top = 4.dp).testTag("learn:dict-summary"),
@@ -118,15 +139,27 @@ internal fun Dictionary(
                     WordFilter.Unknown -> words.unknown
                     WordFilter.Known -> words.known
                     WordFilter.All -> words.all
+                    WordFilter.Irregular -> words.grammarWords.irregularFilter
+                    WordFilter.Service -> words.grammarWords.serviceFilter
                 }
                 Chip(title, selected = option == filter, tag = "learn:filter-${option.name.lowercase()}") { onFilter(option) }
             }
         }
+        val shown = when (filter) {
+            WordFilter.Irregular -> verbs.size
+            WordFilter.Service -> service.size
+            else -> rows.size
+        }
+        val table = when (filter) {
+            WordFilter.Irregular -> grammar.irregular
+            WordFilter.Service -> grammar.service
+            else -> lexicon?.entries.orEmpty()
+        }
         val empty = when {
             lexicon == null -> words.loading
-            lexicon.entries.isEmpty() -> words.noDictionary
-            rows.isEmpty() && query.isNotBlank() -> words.noneFound
-            rows.isEmpty() -> words.none
+            table.isEmpty() -> words.noDictionary
+            shown == 0 && query.isNotBlank() -> words.noneFound
+            shown == 0 -> words.none
             else -> null
         }
         if (empty != null) {
@@ -150,8 +183,33 @@ internal fun Dictionary(
             items(rows, key = { it.key }) { row ->
                 WordRow(row, known = row.key in marks.known, words, onOpen = { onOpen(row) }, onKnow = { onKnow(row.key, it) })
             }
+            items(verbs, key = { it.key }) { verb ->
+                GrammarRow(
+                    title = starred(verb.verb),
+                    transcription = verb.transcription,
+                    subtitle = listOf(verb.threeForms, verb.ru).filter { it.isNotBlank() }.joinToString(" · "),
+                    key = verb.key,
+                    known = verb.key in marks.known,
+                    words = words,
+                    onOpen = { onOpenGrammar(GrammarOpen.Irregular(verb.verb)) },
+                    onKnow = { onKnow(verb.key, it) },
+                )
+            }
+            items(service, key = { it.key }) { word ->
+                val kind = words.grammarWords.classNames[word.wordClass] ?: word.wordClass.key
+                GrammarRow(
+                    title = buildAnnotatedString { append(word.word) },
+                    transcription = word.transcription,
+                    subtitle = listOf(kind, word.ru).filter { it.isNotBlank() }.joinToString(" · "),
+                    key = word.key,
+                    known = word.key in marks.known,
+                    words = words,
+                    onOpen = { onOpenGrammar(GrammarOpen.Service(word.word)) },
+                    onKnow = { onKnow(word.key, it) },
+                )
+            }
         }
-        if (marks.seen.isNotEmpty()) ForgetSeen(words, onForgetSeen)
+        if (marks.seen.isNotEmpty() && !grammarFilter) ForgetSeen(words, onForgetSeen)
     }
 }
 

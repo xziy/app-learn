@@ -36,15 +36,22 @@ portable one such as Temurin if it is to run on another Linux. It holds only the
 `apps/learn` opens on the **list of chosen verbs**: a round of five (`WordsAtOnce` in `Feed.kt`) drawn at random
 from the verbs of the theme not seen yet. The round stays until it is gone through, and then the next one is
 drawn; **Pick 5 at random** draws another at once. Below are the rest of the theme, to add by hand. A row opens
-the feed at that verb, the button above goes on from where the person stopped.
+the feed at that verb, the button above goes on from where the person stopped, to the very card and step.
+
+**A verb keeps how far it has come**: the furthest tense the feed has rested on, its cover or one of its phrases. Its
+row opens the feed on the cover of that tense, so a tense left on its last card is gone through again from its
+start, and a verb that has come no further than its own card opens on that card. Going back to an earlier tense
+does not take the progress back. While a verb has progress, a small dim button under play, a circle with an arrow,
+starts it over: the feed goes to the verb's card, and the row opens there too. The progress is kept per theme
+under `progress`, `verb:tense,…`; a tense is its place in the verb's file, `active.simple.future`.
 
 **The seen verbs** have a page of their own, the latest on top. A verb gets there when the feed goes forward out
-of it, past its last card; a verb left halfway stays chosen. A row opens the feed of that verb alone, and that
+of it, past its last card, and its progress is over then; a verb left halfway stays chosen. A row opens the feed of that verb alone, and that
 changes neither the marks nor the place in the round. A swipe to either side takes the mark off, the button at
 the bottom takes all of them off with a second press. A verb with its mark off can be drawn again.
 
 **The theme** is chosen at the top of that list: each has its own verbs and phrases, and keeps its own choice,
-its own seen verbs and its own place. With only one theme there is nothing to choose, and the choice is not shown.
+its own seen verbs, its own place and its own progress. With only one theme there is nothing to choose, and the choice is not shown.
 
 The feed goes through the chosen verbs one after another, full screen, one card at a time, as in Reels.
 Each verb goes through all its tenses, and everything of one verb has that verb's own muted dark colour.
@@ -94,6 +101,27 @@ A noun is **seen** once the English of a phrase with it is on screen. **The dict
 has the words seen, the latest on top, to search by the word, a form or a translation, and to mark **I know it**, a sense at a
 time: `sheet` as a rope is another mark than `sheet` as paper. The marks are in `runtime.storage`, `lex.seen` and `lex.known`,
 under `n:<word>` or `n:<word>#<sense>`, and are the same in every theme.
+
+**Irregular verbs and service words** are links too. An irregular verb, in any of its forms, is underlined and has a small
+star over it, `went*`, in the phrase and in its transcription; its page has its three forms and the rest with their
+transcriptions. A service word — an auxiliary or modal verb, an article, a pronoun, a preposition, a conjunction, `not`,
+`to`, `there` — is dotted under; its page says what it is, how the English thought has it (`the` — `[известный]`) and, where
+it builds the tense of the phrase, which tense that is, with the way to its rule. «I know it» takes the line away, never the
+star. The marks are `v:<verb>` and `f:<word>` in `lex.known`, and the dictionary has a filter for each. The words come from
+two tables of the lexicon skill, `lexicon/irregular.json` and `lexicon/function.json`, copied by `syncLexicon` (D25).
+
+## Asking about a phrase
+
+**The share sign** at the bottom of a phrase, next to the letter **i**, opens **a prompt about that phrase** over the feed, which
+stays where it was. It asks why the sentence is built the way it is, and then says what the sentence is: the English, its
+Russian, the thought word for word, the transcription with the stressed letter as a capital, the verb with its meaning and
+forms, the tense and kind (`Тип 1 · Прошедшее · Вопрос (Актив · Past Simple)`), the pattern with what `V` is for this verb, the
+nouns with their translations, and the theme. It ends with what to take apart. The text can be edited, and **Back to the
+original text** undoes that.
+
+**Share** hands it to the system's menu, to send to ChatGPT, a messenger or anything else: `ACTION_SEND` on Android, the share
+sheet on iOS. A desktop has no such menu that Java can reach, so there the button is **Copy** and puts the text on the
+clipboard. The prompt is `askPrompt` in `Sharing.kt`, in the app's language; the platform parts are `Sharing.<platform>.kt`.
 
 ## The books
 
@@ -211,6 +239,7 @@ apps/learn/src/
     WordPage.kt, Dictionary.kt, WordStrings.kt   a word's page, the dictionary and their words
     Speech.kt                    speech, its pace and whose voice says a phrase; Speech.desktop.kt, Speech.ios.kt and
                                  Speech.android.kt do the talking
+    Sharing.kt, AskPage.kt       asking about a phrase: its prompt, its page; Sharing.<platform>.kt hand it to the system
 apps/books/src/commonMain/kotlin/…/books/
     BooksApp.kt                  the only public class: the manifest
     BooksInstance.kt             the state: the shelf, the open book, the place in each book, the settings

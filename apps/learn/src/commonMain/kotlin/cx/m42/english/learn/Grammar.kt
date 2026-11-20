@@ -171,22 +171,22 @@ private fun active(aspect: Aspect, time: Time): Build = when (aspect) {
             null, null, listOf(FormKind.Past), "didn't", "Did", Base,
             null, null, "вымыл", "[сделал] не", "[Сделал]", "мыть",
         )
-        Time.Future -> Build("will", null, Base, "won't", "Will", Base, "буду", null, "мыть", "буду не", "Будешь")
+        Time.Future -> Build("will", null, Base, "won't", "Will", Base, "[изволю]", null, "мыть", "[изволю] не", "[Изволишь]")
     }
     Aspect.Continuous -> when (time) {
         Time.Present -> Build("am/is/are", null, Ing, "am not/isn't/aren't", "Am/Is/Are", Ing, "являюсь", null, "моющим", "являюсь не", "Являешься")
         Time.Past -> Build("was/were", null, Ing, "wasn't/weren't", "Was/Were", Ing, "был", null, "моющим", "был не", "Был")
-        Time.Future -> Build("will", "be", Ing, "won't", "Will", Ing, "буду", "быть", "моющим", "буду не", "Будешь")
+        Time.Future -> Build("will", "be", Ing, "won't", "Will", Ing, "[изволю]", "быть", "моющим", "[изволю] не", "[Изволишь]")
     }
     Aspect.Perfect -> when (time) {
         Time.Present -> Build("have/has", null, Participle, "haven't/hasn't", "Have/Has", Participle, "имею", null, "вымытой", "имею не", "Имеешь")
         Time.Past -> Build("had", null, Participle, "hadn't", "Had", Participle, "имел", null, "вымытой", "имел не", "Имел")
-        Time.Future -> Build("will", "have", Participle, "won't", "Will", Participle, "буду", "иметь", "вымытой", "буду не", "Будешь")
+        Time.Future -> Build("will", "have", Participle, "won't", "Will", Participle, "[изволю]", "иметь", "вымытой", "[изволю] не", "[Изволишь]")
     }
     Aspect.PerfectContinuous -> when (time) {
         Time.Present -> Build("have/has", "been", Ing, "haven't/hasn't", "Have/Has", Ing, "имею", "быть", "моющим", "имею не", "Имеешь")
         Time.Past -> Build("had", "been", Ing, "hadn't", "Had", Ing, "имел", "быть", "моющим", "имел не", "Имел")
-        Time.Future -> Build("will", "have been", Ing, "won't", "Will", Ing, "буду", "иметь быть", "моющим", "буду не", "Будешь")
+        Time.Future -> Build("will", "have been", Ing, "won't", "Will", Ing, "[изволю]", "иметь быть", "моющим", "[изволю] не", "[Изволишь]")
     }
 }
 
@@ -194,25 +194,25 @@ private fun passive(aspect: Aspect, time: Time): Build = when (aspect) {
     Aspect.Simple -> when (time) {
         Time.Present -> Build("am/is/are", null, Participle, "am not/isn't/aren't", "Am/Is/Are", Participle, "есть", null, "вымыта", "есть не", "Есть")
         Time.Past -> Build("was/were", null, Participle, "wasn't/weren't", "Was/Were", Participle, "была", null, "вымыта", "была не", "Была")
-        Time.Future -> Build("will", "be", Participle, "won't", "Will", Participle, "будет", "быть", "вымыта", "будет не", "Будет")
+        Time.Future -> Build("will", "be", Participle, "won't", "Will", Participle, "[изволит]", "быть", "вымыта", "[изволит] не", "[Изволит]")
     }
     Aspect.Continuous -> when (time) {
         Time.Present -> Build("am/is/are", "being", Participle, "am not/isn't/aren't", "Am/Is/Are", Participle, "есть", "«долго»", "вымыта", "есть не", "Есть")
         Time.Past -> Build("was/were", "being", Participle, "wasn't/weren't", "Was/Were", Participle, "была", "«долго»", "вымыта", "была не", "Была")
         Time.Future -> Build(
-            "will", "be", Ing, "won't", "Will", Ing, "будут", "быть", "моющими", "будут не", "Будут",
+            "will", "be", Ing, "won't", "Will", Ing, "[изволят]", "быть", "моющими", "[изволят] не", "[Изволят]",
             subject = "they" to "они",
         )
     }
     Aspect.Perfect -> when (time) {
         Time.Present -> Build("have/has", "been", Participle, "haven't/hasn't", "Have/Has", Participle, "имеет", "быть", "вымыта", "имеет не", "Имеет")
         Time.Past -> Build("had", "been", Participle, "hadn't", "Had", Participle, "имела", "быть", "вымыта", "имела не", "Имела")
-        Time.Future -> Build("will", "have been", Participle, "won't", "Will", Participle, "будет", "иметь быть", "вымыта", "будет не", "Будет")
+        Time.Future -> Build("will", "have been", Participle, "won't", "Will", Participle, "[изволит]", "иметь быть", "вымыта", "[изволит] не", "[Изволит]")
     }
     Aspect.PerfectContinuous -> when (time) {
         Time.Present -> Build("have/has", "been being", Participle, "haven't/hasn't", "Have/Has", Participle, "имеет", "быть «долго»", "вымыта", "имеет не", "Имеет")
         Time.Past -> Build("had", "been being", Participle, "hadn't", "Had", Participle, "имела", "быть «долго»", "вымыта", "имела не", "Имела")
-        Time.Future -> Build("will", "have been being", Participle, "won't", "Will", Participle, "будет", "иметь быть «долго»", "вымыта", "будет не", "Будет")
+        Time.Future -> Build("will", "have been being", Participle, "won't", "Will", Participle, "[изволит]", "иметь быть «долго»", "вымыта", "[изволит] не", "[Изволит]")
     }
 }
 

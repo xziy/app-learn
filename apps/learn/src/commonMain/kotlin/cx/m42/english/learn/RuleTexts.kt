@@ -75,7 +75,7 @@ internal abstract class RuleTexts {
     /** How the thought says an auxiliary: in square brackets, if Russian has no such word. */
     protected abstract fun inThought(thought: String): String
 
-    /** `«буду»`; what has its own quotes says so. */
+    /** `«имею»`; what has its own quotes says so. */
     protected abstract fun quoted(thought: String): String
 
     /** Before what a short form stands for: `это will, `. */
@@ -279,7 +279,8 @@ private fun aux(word: String, before: String?, tense: Tense): Aux? {
         "do" -> "[делаю]"
         "does" -> "[делает]"
         "did" -> "[сделал]"
-        "will", "shall" -> "буду"
+        "will" -> "[изволю]"
+        "shall" -> "буду"
         "would" -> "будет"
         "am" -> if (passive) "есть" else "являюсь"
         "is" -> if (passive) "есть" else "является"

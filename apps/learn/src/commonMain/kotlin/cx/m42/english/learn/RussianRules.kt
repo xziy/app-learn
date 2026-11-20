@@ -230,7 +230,7 @@ private fun ruKindRules(kind: Kind, tense: Tense, verb: String): List<String> = 
         listOf("У be своё not, сразу после него: is not — «есть не», was not — «был не». do и did здесь не нужны.")
     } else {
         listOf(
-            "not («не») ставят сразу после первого служебного слова: will not wash — «буду не мыть». В мысли «не» стоит " +
+            "not («не») ставят сразу после первого служебного слова: will not wash — «[изволю] не мыть». В мысли «не» стоит " +
                 "там же, хотя по-русски так не говорят.",
             "Обычно not сливается со служебным словом: did not — didn't, will not — won't, have not — haven't.",
         )
@@ -250,7 +250,7 @@ private fun ruKindRules(kind: Kind, tense: Tense, verb: String): List<String> = 
             )
             else -> add("Чтобы спросить, первое служебное слово ставят в самое начало, перед «кто»: You will wash… — Will you wash…?")
         }
-        add("В мысли порядок тот же, английский, и без «ли»: «Будешь ты мыть…?», «[Сделал] ты мыть…?»")
+        add("В мысли порядок тот же, английский, и без «ли»: «[Изволишь] ты мыть…?», «[Сделал] ты мыть…?»")
         add("Если спрашивают когда, почему или где, слово when, why или where ставят перед всем: When did you wash it?")
     }
     Kind.Reported -> listOf(
@@ -263,7 +263,7 @@ private fun ruKindRules(kind: Kind, tense: Tense, verb: String): List<String> = 
 private fun ruTenseRules(tense: Tense): List<String> {
     val voice = tense.voice ?: return listOf(
         "После said (сказал), knew (знал), thought (думал) вместо will ставят would, а глагол — в 1-й форме.",
-        "В мысли would — «будет», как will: «Я знал, что он будет мыть».",
+        "В мысли would — «будет», а не «[изволит]», как will: «Я знал, что он будет мыть».",
         "Нет that — нет и «что»: I knew you would… — «Я знал, ты будешь…».",
     )
     val aspect = tense.aspect ?: return emptyList()
@@ -289,8 +289,9 @@ private fun ruTenseRules(tense: Tense): List<String> {
             )
             Time.Future -> listOf(
                 "will, потом глагол в 1-й форме, одинаково для всех: I will wash, she will wash.",
-                "В мысли will — всегда «буду» (будешь, будет), а глагол после него — «мыть», а не «вымыть»: «я буду мыть».",
-                "won't — это will not: «буду не».",
+                "В мысли will — всегда «[изволю]» ([изволишь], [изволит]): will — это воля, а по-русски его не говорят, поэтому оно в " +
+                    "квадратных скобках. Глагол после него — «мыть», а не «вымыть»: «я [изволю] мыть».",
+                "won't — это will not: «[изволю] не».",
             )
         }
         Aspect.Continuous -> listOf(
@@ -299,7 +300,7 @@ private fun ruTenseRules(tense: Tense): List<String> {
                 Time.Present -> "be в настоящем: am после I, is после he, she, it, are после you, we, they. В мысли — " +
                     "«являюсь»: «я являюсь моющим»."
                 Time.Past -> "be в прошедшем: was после I, he, she, it, were после you, we, they. В мысли — «был»: «я был моющим»."
-                Time.Future -> "will be — одинаково для всех. В мысли — «буду быть»: «я буду быть моющим»."
+                Time.Future -> "will be — одинаково для всех. В мысли — «[изволю] быть»: «я [изволю] быть моющим»."
             },
             "Глагол с -ing в мысли — «моющим», «делающим»: тот, кто как раз делает.",
         )
@@ -309,7 +310,7 @@ private fun ruTenseRules(tense: Tense): List<String> {
             when (time) {
                 Time.Present -> "have после I, you, we, they, has после he, she, it."
                 Time.Past -> "had — одинаково для всех. В мысли — «имел»."
-                Time.Future -> "will have — одинаково для всех. В мысли — «буду иметь»."
+                Time.Future -> "will have — одинаково для всех. В мысли — «[изволю] иметь»."
             },
             "В мысли have — «имею», а 3-я форма — «вымытой», «сделанным»: «я имею вымытой мою машину». Так слышно, что " +
                 "результат уже есть. Если после глагола нет «кого, что», то на -ым: «имею уступленным».",
@@ -319,7 +320,7 @@ private fun ruTenseRules(tense: Tense): List<String> {
             when (time) {
                 Time.Present -> "have been после I, you, we, they, has been после he, she, it."
                 Time.Past -> "had been — одинаково для всех. В мысли — «имел быть»."
-                Time.Future -> "will have been — одинаково для всех. В мысли — «буду иметь быть»."
+                Time.Future -> "will have been — одинаково для всех. В мысли — «[изволю] иметь быть»."
             },
             "Отрицание здесь звучит неестественно, поэтому обычно говорят только утверждение и вопрос.",
         )
@@ -335,12 +336,12 @@ private fun ruPassiveRules(aspect: Aspect, time: Time): List<String> {
         Aspect.Simple -> general + when (time) {
             Time.Present -> "am, is или are и 3-я форма. В мысли — «есть вымыта»."
             Time.Past -> "was или were и 3-я форма. В мысли — «была вымыта»."
-            Time.Future -> "will be и 3-я форма, одинаково для всех. В мысли — «будет быть вымыта»."
+            Time.Future -> "will be и 3-я форма, одинаково для всех. В мысли — «[изволит] быть вымыта»."
         }
         Aspect.Continuous -> if (time == Time.Future) {
             listOf(
                 "will be being washed почти не говорят, поэтому говорят «они будут мыть»: they will be washing — «Они " +
-                    "будут быть моющими мою машину».",
+                    "[изволят] быть моющими мою машину».",
                 "Это как актив типа 2: will be и глагол с -ing.",
             )
         } else {
@@ -355,7 +356,7 @@ private fun ruPassiveRules(aspect: Aspect, time: Time): List<String> {
             when (time) {
                 Time.Present -> "have been после I, you, we, they, has been после he, she, it."
                 Time.Past -> "had been — одинаково для всех: «имела быть вымыта»."
-                Time.Future -> "will have been — одинаково для всех: «будет иметь быть вымыта»."
+                Time.Future -> "will have been — одинаково для всех: «[изволит] иметь быть вымыта»."
             },
         )
         Aspect.PerfectContinuous -> general +

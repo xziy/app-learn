@@ -221,7 +221,7 @@ internal object EnglishRules : RuleTexts() {
             listOf("be takes its own not, straight after it: is not — «есть не», was not — «был не». No do or did is needed.")
         } else {
             listOf(
-                "not («не») goes straight after the first helper word: will not wash — «буду не мыть». In the thought " +
+                "not («не») goes straight after the first helper word: will not wash — «[изволю] не мыть». In the thought " +
                     "«не» stands there too, though Russian does not put it there.",
                 "not usually merges with the helper word: did not — didn't, will not — won't, have not — haven't.",
             )
@@ -241,7 +241,7 @@ internal object EnglishRules : RuleTexts() {
                 )
                 else -> add("To ask, the first helper word goes to the very start, before who: You will wash… — Will you wash…?")
             }
-            add("The thought keeps the same English order, with no «ли»: «Будешь ты мыть…?», «[Сделал] ты мыть…?»")
+            add("The thought keeps the same English order, with no «ли»: «[Изволишь] ты мыть…?», «[Сделал] ты мыть…?»")
             add("To ask when, why or where, the word when, why or where goes before everything: When did you wash it?")
         }
         Kind.Reported -> listOf(
@@ -254,7 +254,7 @@ internal object EnglishRules : RuleTexts() {
     private fun tenseRules(tense: Tense): List<String> {
         val voice = tense.voice ?: return listOf(
             "After said, knew or thought, would stands where will would, and the verb is in its 1st form.",
-            "In the thought would is «будет», as will is: «Я знал, что он будет мыть».",
+            "In the thought would is «будет», not «[изволит]» as will is: «Я знал, что он будет мыть».",
             "No that, no «что»: I knew you would… — «Я знал, ты будешь…».",
         )
         val aspect = tense.aspect ?: return emptyList()
@@ -279,9 +279,9 @@ internal object EnglishRules : RuleTexts() {
                 )
                 Time.Future -> listOf(
                     "will, then the verb in its 1st form, the same for everyone: I will wash, she will wash.",
-                    "In the thought will is always «буду» (будешь, будет), and the verb after it is «мыть», not " +
-                        "«вымыть»: «я буду мыть».",
-                    "won't is will not: «буду не».",
+                    "In the thought will is always «[изволю]» ([изволишь], [изволит]): will is the will to do it, and Russian does not " +
+                        "say it, so it is in square brackets. The verb after it is «мыть», not «вымыть»: «я [изволю] мыть».",
+                    "won't is will not: «[изволю] не».",
                 )
             }
             Aspect.Continuous -> listOf(
@@ -292,7 +292,7 @@ internal object EnglishRules : RuleTexts() {
                         "the thought «являюсь»: «я являюсь моющим»."
                     Time.Past -> "be in the past: was after I, he, she, it, were after you, we, they. In the thought " +
                         "«был»: «я был моющим»."
-                    Time.Future -> "will be, the same for everyone. In the thought «буду быть»: «я буду быть моющим»."
+                    Time.Future -> "will be, the same for everyone. In the thought «[изволю] быть»: «я [изволю] быть моющим»."
                 },
                 "The verb with -ing is «моющим», «делающим» in the thought: the one who is doing it just then.",
             )
@@ -302,7 +302,7 @@ internal object EnglishRules : RuleTexts() {
                 when (time) {
                     Time.Present -> "have after I, you, we, they, has after he, she, it."
                     Time.Past -> "had, the same for everyone. In the thought «имел»."
-                    Time.Future -> "will have, the same for everyone. In the thought «буду иметь»."
+                    Time.Future -> "will have, the same for everyone. In the thought «[изволю] иметь»."
                 },
                 "In the thought have is «имею», and the 3rd form is «вымытой», «сделанным»: «я имею вымытой мою " +
                     "машину». So you hear that the result is there. With no whom or what after the verb it ends in -ым: " +
@@ -313,7 +313,7 @@ internal object EnglishRules : RuleTexts() {
                 when (time) {
                     Time.Present -> "have been after I, you, we, they, has been after he, she, it."
                     Time.Past -> "had been, the same for everyone. In the thought «имел быть»."
-                    Time.Future -> "will have been, the same for everyone. In the thought «буду иметь быть»."
+                    Time.Future -> "will have been, the same for everyone. In the thought «[изволю] иметь быть»."
                 },
                 "A negative sounds unnatural here, so usually only a statement and a question are said.",
             )
@@ -329,11 +329,11 @@ internal object EnglishRules : RuleTexts() {
             Aspect.Simple -> general + when (time) {
                 Time.Present -> "am, is or are and the 3rd form. In the thought «есть вымыта»."
                 Time.Past -> "was or were and the 3rd form. In the thought «была вымыта»."
-                Time.Future -> "will be and the 3rd form, the same for everyone. In the thought «будет быть вымыта»."
+                Time.Future -> "will be and the 3rd form, the same for everyone. In the thought «[изволит] быть вымыта»."
             }
             Aspect.Continuous -> if (time == Time.Future) {
                 listOf(
-                    "will be being washed is hardly said, so «they» is said instead: they will be washing — «Они будут " +
+                    "will be being washed is hardly said, so «they» is said instead: they will be washing — «Они [изволят] " +
                         "быть моющими мою машину».",
                     "It is like the active of type 2: will be and the verb with -ing.",
                 )
@@ -350,7 +350,7 @@ internal object EnglishRules : RuleTexts() {
                 when (time) {
                     Time.Present -> "have been after I, you, we, they, has been after he, she, it."
                     Time.Past -> "had been, the same for everyone: «имела быть вымыта»."
-                    Time.Future -> "will have been, the same for everyone: «будет иметь быть вымыта»."
+                    Time.Future -> "will have been, the same for everyone: «[изволит] иметь быть вымыта»."
                 },
             )
             Aspect.PerfectContinuous -> general +

@@ -167,7 +167,7 @@ class GrammarTest {
 
         val perfect = tense(Voice.Active, Aspect.Perfect, Time.Future)
         assertEquals("Will + S + have + V3", perfect.formula(Kind.Question, "wash")!!.englishText())
-        assertEquals("кто + буду не + иметь + вымытой", perfect.formula(Kind.Negative, "wash")!!.thoughtText())
+        assertEquals("кто + [изволю] не + иметь + вымытой", perfect.formula(Kind.Negative, "wash")!!.thoughtText())
 
         val going = tense(Voice.Active, Aspect.PerfectContinuous, Time.Present)
         assertEquals("S + have/has + been + V-ing", going.formula(Kind.Statement, "wash")!!.englishText())
@@ -222,7 +222,7 @@ class GrammarTest {
         assertEquals(
             listOf(
                 "I — кто делает: «я».",
-                "'ll — это will, служебное слово будущего времени. В мысли — «буду».",
+                "'ll — это will, служебное слово будущего времени. По-русски его не говорят, поэтому в мысли оно в квадратных скобках: «[изволю]».",
                 "wash — глагол «мыть» в 1-й форме, как в словаре. После will глагол всегда в 1-й форме.",
                 "it tomorrow — всё остальное: кого, что, где, когда.",
             ),
@@ -238,7 +238,7 @@ class GrammarTest {
             parts("Yesterday I washed my car.", pastSimple),
         )
         assertEquals(
-            "will have been — служебные слова. В мысли: will — «буду», have — «иметь», been — «быть».",
+            "will have been — служебные слова. В мысли: will — «[изволю]», have — «иметь», been — «быть».",
             parts("By five she will have been washing the car for two hours.", tense(Voice.Active, Aspect.PerfectContinuous, Time.Future))[2],
         )
     }
